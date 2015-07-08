@@ -66,6 +66,11 @@
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="307"/>
+        <source>Haiku Port:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../../scribus/about.cpp" line="309"/>
         <source>Contributions from:</source>
         <translation>Contribucions des de:</translation>
     </message>
@@ -80,17 +85,17 @@
         <translation>Windows&amp;#174; Port:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/about.cpp" line="309"/>
+        <location filename="../../../scribus/about.cpp" line="311"/>
         <source>Official Documentation:</source>
         <translation>Documentació oficial:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/about.cpp" line="313"/>
+        <location filename="../../../scribus/about.cpp" line="315"/>
         <source>Other Documentation:</source>
         <translation>Altra documentació:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/about.cpp" line="319"/>
+        <location filename="../../../scribus/about.cpp" line="321"/>
         <source>Tango Project Icons:</source>
         <translation>Icones del projecte Tango:</translation>
     </message>
@@ -100,12 +105,12 @@
         <translation>A&amp;utors</translation>
     </message>
     <message>
-        <location filename="../../../scribus/about.cpp" line="331"/>
+        <location filename="../../../scribus/about.cpp" line="333"/>
         <source>Official Translations and Translators:</source>
         <translation>Traduccions oficials i traductors:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/about.cpp" line="333"/>
+        <location filename="../../../scribus/about.cpp" line="335"/>
         <source>Previous Translation Contributors:</source>
         <translation>Antics col·laboradors en traduccions:</translation>
     </message>
@@ -115,27 +120,27 @@
         <translation>&amp;Traduccions</translation>
     </message>
     <message>
-        <location filename="../../../scribus/about.cpp" line="347"/>
+        <location filename="../../../scribus/about.cpp" line="349"/>
         <source>Homepage</source>
         <translation>Pàgina principal</translation>
     </message>
     <message>
-        <location filename="../../../scribus/about.cpp" line="349"/>
+        <location filename="../../../scribus/about.cpp" line="351"/>
         <source>Online Reference</source>
         <translation>Referència en línia</translation>
     </message>
     <message>
-        <location filename="../../../scribus/about.cpp" line="351"/>
+        <location filename="../../../scribus/about.cpp" line="353"/>
         <source>Wiki</source>
         <translation>Wiki</translation>
     </message>
     <message>
-        <location filename="../../../scribus/about.cpp" line="353"/>
+        <location filename="../../../scribus/about.cpp" line="355"/>
         <source>Bugs and Feature Requests</source>
         <translation>Sol·licitud d&apos;errors i característiques</translation>
     </message>
     <message>
-        <location filename="../../../scribus/about.cpp" line="357"/>
+        <location filename="../../../scribus/about.cpp" line="359"/>
         <source>Mailing List</source>
         <translation>Llista de correu</translation>
     </message>
@@ -165,7 +170,7 @@
         <translation>OS/2&amp;#174;/eComStation&amp;#8482; Port:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/about.cpp" line="317"/>
+        <location filename="../../../scribus/about.cpp" line="319"/>
         <source>Splash Screen:</source>
         <translation>Pantalla de presentació:</translation>
     </message>
@@ -192,7 +197,7 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="186"/>
         <source>&lt;p align=&quot;center&quot;&gt;&lt;b&gt;%1 %2&lt;/b&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;%3&lt;br&gt;%4 %5&lt;br&gt;%6&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p align=&quot;center&quot;&gt;&lt;b&gt;%1 %2&lt;/b&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;%3&lt;br&gt;%4 %5&lt;br&gt;%6&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="186"/>
@@ -201,17 +206,17 @@
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="233"/>
-        <location filename="../../../scribus/about.cpp" line="655"/>
+        <location filename="../../../scribus/about.cpp" line="657"/>
         <source>Check for Updates</source>
         <translation>Comprova les actualitzacions</translation>
     </message>
     <message>
-        <location filename="../../../scribus/about.cpp" line="653"/>
+        <location filename="../../../scribus/about.cpp" line="655"/>
         <source>Abort Update Check</source>
         <translation>Imterromp la comprovació d&apos;actualitzacions</translation>
     </message>
     <message>
-        <location filename="../../../scribus/about.cpp" line="355"/>
+        <location filename="../../../scribus/about.cpp" line="357"/>
         <source>Developer Blog</source>
         <translation>Bloc del desenvolupador</translation>
     </message>
@@ -226,19 +231,19 @@
         <translation>No es pot obrir el fitxer de llicència. Reviseu el vostre directori d&apos;instal·lació o la web principal de l&apos;Scribus sobre la informació de la llicència.</translation>
     </message>
     <message>
-        <location filename="../../../scribus/about.cpp" line="311"/>
+        <location filename="../../../scribus/about.cpp" line="313"/>
         <source>Doc Translators:</source>
         <translation>Traductors:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/about.cpp" line="315"/>
+        <location filename="../../../scribus/about.cpp" line="317"/>
         <source>Webmasters:</source>
         <translation>Administradors:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/about.cpp" line="450"/>
-        <location filename="../../../scribus/about.cpp" line="564"/>
-        <location filename="../../../scribus/about.cpp" line="631"/>
+        <location filename="../../../scribus/about.cpp" line="452"/>
+        <location filename="../../../scribus/about.cpp" line="566"/>
+        <location filename="../../../scribus/about.cpp" line="633"/>
         <source>Unable to open %1 file. Please check your install directory or the Scribus website for %1 information.</source>
         <translation>No es pot obrir el fitxer %1. Reviseu el vostre directori d&apos;instal·lació o la web principal de l&apos;Scribus sobre la informació de %1.</translation>
     </message>
@@ -1350,13 +1355,13 @@
         <location filename="../../../scribus/actionmanager.cpp" line="1547"/>
         <source>Single Left Guillemet</source>
         <comment>Unicode 0x2039</comment>
-        <translation type="unfinished"/>
+        <translation>Cometes d&apos;obertura senzilles</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1548"/>
         <source>Single Right Guillemet</source>
         <comment>Unicode 0x203A</comment>
-        <translation type="unfinished"/>
+        <translation>Cometes de tancament senzilles</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1549"/>
@@ -4281,7 +4286,7 @@ Alçada: %2</translation>
     <message>
         <location filename="../../../scribus/canvas.cpp" line="2316"/>
         <source>Angle: %1</source>
-        <translation type="unfinished"/>
+        <translation>Àngle: %1</translation>
     </message>
 </context>
 <context>
@@ -6921,22 +6926,22 @@ ha fallat!</translation>
     <message>
         <location filename="../../../scribus/editor.cpp" line="52"/>
         <source>Ctrl+Z</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+Z</translation>
     </message>
     <message>
         <location filename="../../../scribus/editor.cpp" line="57"/>
         <source>Ctrl+X</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+X</translation>
     </message>
     <message>
         <location filename="../../../scribus/editor.cpp" line="60"/>
         <source>Ctrl+C</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+C</translation>
     </message>
     <message>
         <location filename="../../../scribus/editor.cpp" line="63"/>
         <source>Ctrl-V</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl-V</translation>
     </message>
 </context>
 <context>
@@ -6992,25 +6997,25 @@ ha fallat!</translation>
         <location filename="../../../scribus/effectsdialog.cpp" line="286"/>
         <location filename="../../../scribus/effectsdialog.cpp" line="352"/>
         <source>Color 1:</source>
-        <translation type="unfinished"/>
+        <translation>Color 1:</translation>
     </message>
     <message>
         <location filename="../../../scribus/effectsdialog.cpp" line="257"/>
         <location filename="../../../scribus/effectsdialog.cpp" line="306"/>
         <location filename="../../../scribus/effectsdialog.cpp" line="372"/>
         <source>Color 2:</source>
-        <translation type="unfinished"/>
+        <translation>Color 2:</translation>
     </message>
     <message>
         <location filename="../../../scribus/effectsdialog.cpp" line="326"/>
         <location filename="../../../scribus/effectsdialog.cpp" line="392"/>
         <source>Color 3:</source>
-        <translation type="unfinished"/>
+        <translation>Color 3:</translation>
     </message>
     <message>
         <location filename="../../../scribus/effectsdialog.cpp" line="412"/>
         <source>Color 4:</source>
-        <translation type="unfinished"/>
+        <translation>Color 4:</translation>
     </message>
     <message>
         <location filename="../../../scribus/effectsdialog.cpp" line="456"/>
@@ -10707,13 +10712,13 @@ Si no hi ha cap ansa seleccionada es reiniciaran totes les anses.</translation>
 <context>
     <name>MultipleDuplicate</name>
     <message>
-        <location filename="../../../scribus/multipleduplicate.ui" line="112"/>
+        <location filename="../../../scribus/multipleduplicate.ui" line="131"/>
         <location filename="../../../scribus/multipleduplicate.cpp" line="63"/>
         <source>&amp;Horizontal Shift:</source>
         <translation>Desplaçament &amp;Horitzontal:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/multipleduplicate.ui" line="165"/>
+        <location filename="../../../scribus/multipleduplicate.ui" line="184"/>
         <location filename="../../../scribus/multipleduplicate.cpp" line="64"/>
         <source>&amp;Vertical Shift:</source>
         <translation>Desplaçament &amp;Vertical:</translation>
@@ -10729,77 +10734,77 @@ Si no hi ha cap ansa seleccionada es reiniciaran totes les anses.</translation>
         <translation>Gap &amp;vertical:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/multipleduplicate.ui" line="13"/>
+        <location filename="../../../scribus/multipleduplicate.ui" line="14"/>
         <source>Multiple Duplicate</source>
         <translation>Duplicació Múltiple</translation>
     </message>
     <message>
-        <location filename="../../../scribus/multipleduplicate.ui" line="32"/>
+        <location filename="../../../scribus/multipleduplicate.ui" line="33"/>
         <source>&amp;By Number of Copies</source>
         <translation>&amp;Pel número de còpies</translation>
     </message>
     <message>
-        <location filename="../../../scribus/multipleduplicate.ui" line="50"/>
+        <location filename="../../../scribus/multipleduplicate.ui" line="60"/>
         <source>&amp;Number of Copies:</source>
         <translation>&amp;Número de Còpies:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/multipleduplicate.ui" line="91"/>
+        <location filename="../../../scribus/multipleduplicate.ui" line="101"/>
         <source>&amp;Shift Created Items By</source>
         <translation>De&amp;splaça els elements creats en</translation>
     </message>
     <message>
-        <location filename="../../../scribus/multipleduplicate.ui" line="94"/>
+        <location filename="../../../scribus/multipleduplicate.ui" line="104"/>
         <source>Alt+S</source>
         <translation>Alt+S</translation>
     </message>
     <message>
-        <location filename="../../../scribus/multipleduplicate.ui" line="81"/>
+        <location filename="../../../scribus/multipleduplicate.ui" line="91"/>
         <source>Create &amp;Gap Between Items Of</source>
         <translation>Crea &amp;gap entre elements de</translation>
     </message>
     <message>
-        <location filename="../../../scribus/multipleduplicate.ui" line="84"/>
+        <location filename="../../../scribus/multipleduplicate.ui" line="94"/>
         <source>Alt+G</source>
         <translation>Alt+G</translation>
     </message>
     <message>
-        <location filename="../../../scribus/multipleduplicate.ui" line="145"/>
+        <location filename="../../../scribus/multipleduplicate.ui" line="164"/>
         <source>Rotation:</source>
         <translation>Rotació:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/multipleduplicate.ui" line="217"/>
+        <location filename="../../../scribus/multipleduplicate.ui" line="236"/>
         <source>By &amp;Rows &amp;&amp; Columns</source>
         <translation>Per &amp;files i columnes</translation>
     </message>
     <message>
-        <location filename="../../../scribus/multipleduplicate.ui" line="245"/>
+        <location filename="../../../scribus/multipleduplicate.ui" line="273"/>
         <source>Vertical Gap:</source>
         <translation>Gap vertical:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/multipleduplicate.ui" line="272"/>
+        <location filename="../../../scribus/multipleduplicate.ui" line="303"/>
         <source>Horizontal Gap:</source>
         <translation>Gap horitzontal:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/multipleduplicate.ui" line="289"/>
+        <location filename="../../../scribus/multipleduplicate.ui" line="323"/>
         <source>Number of Rows:</source>
         <translation>Número de files:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/multipleduplicate.ui" line="309"/>
+        <location filename="../../../scribus/multipleduplicate.ui" line="343"/>
         <source>Number of Columns:</source>
         <translation>Número de columnes:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/multipleduplicate.ui" line="383"/>
+        <location filename="../../../scribus/multipleduplicate.ui" line="411"/>
         <source>&amp;OK</source>
         <translation>D&apos;ac&amp;ord</translation>
     </message>
     <message>
-        <location filename="../../../scribus/multipleduplicate.ui" line="399"/>
+        <location filename="../../../scribus/multipleduplicate.ui" line="427"/>
         <source>&amp;Cancel</source>
         <translation>&amp;Cancel·la</translation>
     </message>
@@ -11545,27 +11550,27 @@ Si no hi ha cap ansa seleccionada es reiniciaran totes les anses.</translation>
         <translation>Data:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/pdflib_core.cpp" line="7718"/>
+        <location filename="../../../scribus/pdflib_core.cpp" line="7874"/>
         <source>Failed to load an image : %1</source>
         <translation>No s&apos;ha pogut carregar una imatge: %1</translation>
     </message>
     <message>
-        <location filename="../../../scribus/pdflib_core.cpp" line="7723"/>
+        <location filename="../../../scribus/pdflib_core.cpp" line="7879"/>
         <source>Failed to write an image : %1</source>
         <translation>No s&apos;ha pogut escriure una imatge: %1</translation>
     </message>
     <message>
-        <location filename="../../../scribus/pdflib_core.cpp" line="7728"/>
+        <location filename="../../../scribus/pdflib_core.cpp" line="7884"/>
         <source>Failed to load an image mask : %1</source>
         <translation>No s&apos;ha pogut carregar una màscara d&apos;imatge: %1</translation>
     </message>
     <message>
-        <location filename="../../../scribus/pdflib_core.cpp" line="7733"/>
+        <location filename="../../../scribus/pdflib_core.cpp" line="7889"/>
         <source>Insufficient memory for processing an image</source>
         <translation>No hi ha prou memòria per processar una imatge</translation>
     </message>
     <message>
-        <location filename="../../../scribus/pdflib_core.cpp" line="7713"/>
+        <location filename="../../../scribus/pdflib_core.cpp" line="7869"/>
         <source>A write error occurred, please check available disk space</source>
         <translation>S&apos;ha produït un error. Comproveu l&apos;espai disponible en disc</translation>
     </message>
@@ -11873,8 +11878,8 @@ Si no hi ha cap ansa seleccionada es reiniciaran totes les anses.</translation>
         <translation>Text del camí</translation>
     </message>
     <message>
-        <location filename="../../../scribus/pageitem.cpp" line="4256"/>
-        <location filename="../../../scribus/pageitem.cpp" line="4257"/>
+        <location filename="../../../scribus/pageitem.cpp" line="4261"/>
+        <location filename="../../../scribus/pageitem.cpp" line="4262"/>
         <source>Copy of</source>
         <translation>Còpia de</translation>
     </message>
@@ -15623,7 +15628,7 @@ del seqüència dor de l&apos;Scribus per més informació. </translation>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="19"/>
         <source>Files of type:</source>
-        <translation type="unfinished"/>
+        <translation>Tipus de fitxers:</translation>
     </message>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="20"/>
@@ -15688,12 +15693,12 @@ del seqüència dor de l&apos;Scribus per més informació. </translation>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="32"/>
         <source>Forward</source>
-        <translation type="unfinished"/>
+        <translation>Endavant</translation>
     </message>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="33"/>
         <source>Parent Directory</source>
-        <translation type="unfinished"/>
+        <translation>Directori amunt</translation>
     </message>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="34"/>
@@ -16489,7 +16494,7 @@ Comproveu el nom i el camí.</translation>
     <message>
         <location filename="../../../scribus/pagesize.cpp" line="201"/>
         <source>Demy</source>
-        <translation type="unfinished"/>
+        <translation>demy</translation>
     </message>
     <message>
         <location filename="../../../scribus/pagesize.cpp" line="202"/>
@@ -17076,7 +17081,7 @@ Comproveu el nom i el camí.</translation>
     <message>
         <location filename="../../../scribus/nftrcreader.cpp" line="220"/>
         <source>Grids</source>
-        <translation type="unfinished"/>
+        <translation>Graelles</translation>
     </message>
     <message>
         <location filename="../../../scribus/nftrcreader.cpp" line="232"/>
@@ -20275,52 +20280,52 @@ En desar-lo en aquesta versió, no el podreu llegir amb versions més velles de 
         <translation>Segon Pla</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusdoc.cpp" line="818"/>
+        <location filename="../../../scribus/scribusdoc.cpp" line="806"/>
         <source>An error occurred while opening ICC profiles, color management is not enabled.</source>
         <translation>S&apos;ha produït un error en obrir els perfils ICC. El gestor de color no està activat.</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusdoc.cpp" line="832"/>
+        <location filename="../../../scribus/scribusdoc.cpp" line="820"/>
         <source>Adjusting Colors</source>
         <translation>Ajustant els colors</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusdoc.cpp" line="7679"/>
+        <location filename="../../../scribus/scribusdoc.cpp" line="7667"/>
         <source>Remove content from frames</source>
         <translation>Suprimeix el contingut dels marcs</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusdoc.cpp" line="7696"/>
+        <location filename="../../../scribus/scribusdoc.cpp" line="7684"/>
         <source>Do you really want to clear all your text?</source>
         <translation>Realment voleu esborrar tot el text?</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusdoc.cpp" line="7750"/>
+        <location filename="../../../scribus/scribusdoc.cpp" line="7738"/>
         <source>Cannot Delete In-Use Item</source>
         <translation>No es pot esborrar un element en ús</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusdoc.cpp" line="7750"/>
+        <location filename="../../../scribus/scribusdoc.cpp" line="7738"/>
         <source>The item %1 is currently being edited by Story Editor. The delete operation will be cancelled</source>
         <translation>L&apos;element %1 està sent editat amb l&apos;Editor de notícies. La conversió demanada es cancel·larà</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusdoc.cpp" line="8326"/>
+        <location filename="../../../scribus/scribusdoc.cpp" line="8314"/>
         <source>Some objects are locked.</source>
         <translation>Alguns objectes estan bloquejats.</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusdoc.cpp" line="8322"/>
+        <location filename="../../../scribus/scribusdoc.cpp" line="8310"/>
         <source>&amp;Unlock All</source>
         <translation>&amp;Desbloqueja tot</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusdoc.cpp" line="8323"/>
+        <location filename="../../../scribus/scribusdoc.cpp" line="8311"/>
         <source>&amp;Skip locked objects</source>
         <translation>&amp;Salta els objectes bloquejats</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusdoc.cpp" line="9617"/>
+        <location filename="../../../scribus/scribusdoc.cpp" line="9584"/>
         <source>Number of copies: %1
 Horizontal gap: %2
 Vertical gap: %3</source>
@@ -20329,17 +20334,17 @@ Gap horitzontal: %2
 Gap vertical: %3</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusdoc.cpp" line="6303"/>
+        <location filename="../../../scribus/scribusdoc.cpp" line="6291"/>
         <source>remove direct paragraph formatting</source>
         <translation>Elimina el formatat directe de paràgraf</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusdoc.cpp" line="6533"/>
+        <location filename="../../../scribus/scribusdoc.cpp" line="6521"/>
         <source>remove direct char formatting</source>
         <translation>Elimina el formatat directe de caràcter</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusdoc.cpp" line="9583"/>
+        <location filename="../../../scribus/scribusdoc.cpp" line="9550"/>
         <source>Number of copies: %1
 Horizontal shift: %2
 Vertical shift: %3
@@ -20350,17 +20355,17 @@ Desplaçament vertical: %3
 Rotació: %4</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusdoc.cpp" line="10648"/>
+        <location filename="../../../scribus/scribusdoc.cpp" line="10615"/>
         <source>Group%1</source>
         <translation>Grup%1</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusdoc.cpp" line="2908"/>
+        <location filename="../../../scribus/scribusdoc.cpp" line="2896"/>
         <source>Copy_of_</source>
         <translation>Còpia de</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusdoc.cpp" line="1254"/>
+        <location filename="../../../scribus/scribusdoc.cpp" line="1242"/>
         <source>Imported </source>
         <comment>Prefix of imported default style</comment>
         <translation>Importat </translation>
@@ -20385,31 +20390,31 @@ Rotació: %4</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribus.cpp" line="600"/>
-        <location filename="../../../scribus/scribus.cpp" line="9500"/>
+        <location filename="../../../scribus/scribus.cpp" line="9504"/>
         <source>Open &amp;Recent</source>
         <translation>Obre &amp;recent</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribus.cpp" line="608"/>
-        <location filename="../../../scribus/scribus.cpp" line="9502"/>
+        <location filename="../../../scribus/scribus.cpp" line="9506"/>
         <source>&amp;Import</source>
         <translation>&amp;Importa</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribus.cpp" line="615"/>
-        <location filename="../../../scribus/scribus.cpp" line="9503"/>
+        <location filename="../../../scribus/scribus.cpp" line="9507"/>
         <source>&amp;Export</source>
         <translation>&amp;Exporta</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribus.cpp" line="656"/>
-        <location filename="../../../scribus/scribus.cpp" line="9501"/>
+        <location filename="../../../scribus/scribus.cpp" line="9505"/>
         <source>Paste Recent</source>
         <translation>Enganxa el recent</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribus.cpp" line="657"/>
-        <location filename="../../../scribus/scribus.cpp" line="9505"/>
+        <location filename="../../../scribus/scribus.cpp" line="9509"/>
         <source>Contents</source>
         <translation>Contingut</translation>
     </message>
@@ -20430,13 +20435,13 @@ Rotació: %4</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribus.cpp" line="740"/>
-        <location filename="../../../scribus/scribus.cpp" line="9510"/>
+        <location filename="../../../scribus/scribus.cpp" line="9514"/>
         <source>&amp;PDF Options</source>
         <translation>Opcions &amp;PDF</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribus.cpp" line="747"/>
-        <location filename="../../../scribus/scribus.cpp" line="9512"/>
+        <location filename="../../../scribus/scribus.cpp" line="9516"/>
         <source>C&amp;onvert To</source>
         <translation>C&amp;onverteix a</translation>
     </message>
@@ -20457,12 +20462,12 @@ Rotació: %4</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribus.cpp" line="856"/>
-        <location filename="../../../scribus/scribus.cpp" line="9518"/>
+        <location filename="../../../scribus/scribus.cpp" line="9522"/>
         <source>Liga&amp;ture</source>
         <translation>Lliga&amp;dures</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="9525"/>
+        <location filename="../../../scribus/scribus.cpp" line="9529"/>
         <source>&amp;Alignment</source>
         <translation>&amp;Alineació</translation>
     </message>
@@ -20473,7 +20478,7 @@ Rotació: %4</translation>
         <location filename="../../../scribus/scribus.cpp" line="4550"/>
         <location filename="../../../scribus/scribus.cpp" line="4775"/>
         <location filename="../../../scribus/scribus.cpp" line="4921"/>
-        <location filename="../../../scribus/scribus.cpp" line="9535"/>
+        <location filename="../../../scribus/scribus.cpp" line="9539"/>
         <source>Ready</source>
         <translation>Preparat</translation>
     </message>
@@ -20667,12 +20672,12 @@ Considera fer servir el Verificador per corregir-los</translation>
         <translation>-Pàgina%1</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="8632"/>
+        <location filename="../../../scribus/scribus.cpp" line="8636"/>
         <source>Some objects are locked.</source>
         <translation>Alguns objectes estan bloquejats.</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="8628"/>
+        <location filename="../../../scribus/scribus.cpp" line="8632"/>
         <source>&amp;Lock All</source>
         <translation>&amp;Bloqueja tot</translation>
     </message>
@@ -20707,70 +20712,70 @@ Considera fer servir el Verificador per corregir-los</translation>
         <translation>El Ghostscript no està disponible</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="8629"/>
+        <location filename="../../../scribus/scribus.cpp" line="8633"/>
         <source>&amp;Unlock All</source>
         <translation>&amp;Desbloqueja tot</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="9347"/>
+        <location filename="../../../scribus/scribus.cpp" line="9351"/>
         <source>Information</source>
         <translation>Informació</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="9347"/>
+        <location filename="../../../scribus/scribus.cpp" line="9351"/>
         <source>The program %1 is already running!</source>
         <translation>El programa %1 ja està en execució!</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="9386"/>
+        <location filename="../../../scribus/scribus.cpp" line="9390"/>
         <source>The program %1 is missing!</source>
         <translation>El programa %1 no es troba!</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="9507"/>
+        <location filename="../../../scribus/scribus.cpp" line="9511"/>
         <source>&amp;Level</source>
         <translation>&amp;Nivell</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="9508"/>
+        <location filename="../../../scribus/scribus.cpp" line="9512"/>
         <source>Send to Layer</source>
         <translation>Envia a la capa</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="9509"/>
+        <location filename="../../../scribus/scribus.cpp" line="9513"/>
         <source>Previe&amp;w Settings</source>
         <translation>Paràmetres de &amp;vista prèvia</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="9515"/>
+        <location filename="../../../scribus/scribus.cpp" line="9519"/>
         <source>Character</source>
         <translation>Caràcter</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="9516"/>
+        <location filename="../../../scribus/scribus.cpp" line="9520"/>
         <source>Quote</source>
         <translation>Cometes</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="9517"/>
+        <location filename="../../../scribus/scribus.cpp" line="9521"/>
         <source>Space</source>
         <translation>Espai</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribus.cpp" line="1022"/>
-        <location filename="../../../scribus/scribus.cpp" line="9531"/>
+        <location filename="../../../scribus/scribus.cpp" line="9535"/>
         <source>X-Pos:</source>
         <translation>Posició X:</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribus.cpp" line="1023"/>
-        <location filename="../../../scribus/scribus.cpp" line="9532"/>
+        <location filename="../../../scribus/scribus.cpp" line="9536"/>
         <source>Y-Pos:</source>
         <translation>Posició Y:</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribus.cpp" line="4384"/>
-        <location filename="../../../scribus/scribus.cpp" line="9685"/>
+        <location filename="../../../scribus/scribus.cpp" line="9689"/>
         <source>Do you really want to replace your existing image?</source>
         <translation>Realment voleu reemplaçar la imatge?</translation>
     </message>
@@ -20786,7 +20791,7 @@ Considera fer servir el Verificador per corregir-los</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribus.cpp" line="963"/>
-        <location filename="../../../scribus/scribus.cpp" line="9526"/>
+        <location filename="../../../scribus/scribus.cpp" line="9530"/>
         <source>Online &amp;Tutorials</source>
         <translation>&amp;Tutorials en línia</translation>
     </message>
@@ -20829,12 +20834,12 @@ Considera fer servir el Verificador per corregir-los</translation>
         <translation>Tots els formats suportats</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="9742"/>
+        <location filename="../../../scribus/scribus.cpp" line="9746"/>
         <source>&amp;Name:</source>
         <translation>&amp;Nom:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="9742"/>
+        <location filename="../../../scribus/scribus.cpp" line="9746"/>
         <source>New Entry</source>
         <translation>Nova Entrada</translation>
     </message>
@@ -20868,122 +20873,122 @@ Considera fer servir el Verificador per corregir-los</translation>
         <translation>El fitxer %1 no existeix, abortant.</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusapp.cpp" line="418"/>
+        <location filename="../../../scribus/scribusapp.cpp" line="435"/>
         <source>Usage: scribus [option ... ] [file]</source>
         <translation>Ús: scribus [opció ... ] [fitxer]</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusapp.cpp" line="419"/>
+        <location filename="../../../scribus/scribusapp.cpp" line="436"/>
         <source>Options:</source>
         <translation>Opcions:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusapp.cpp" line="421"/>
+        <location filename="../../../scribus/scribusapp.cpp" line="438"/>
         <source>Print help (this message) and exit</source>
         <translation>Imprimeix l&apos;ajuda (aquest missatge) i surt</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusapp.cpp" line="422"/>
+        <location filename="../../../scribus/scribusapp.cpp" line="439"/>
         <source>Uses xx as shortcut for a language, eg `en&apos; or `de&apos;</source>
         <translation>Usa xx com a drecera per una llengua, p. ex. &apos;en&apos; o &apos;de&apos;</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusapp.cpp" line="423"/>
+        <location filename="../../../scribus/scribusapp.cpp" line="440"/>
         <source>List the currently installed interface languages</source>
         <translation>Llista les i llengües actualment instal·lades</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusapp.cpp" line="420"/>
+        <location filename="../../../scribus/scribusapp.cpp" line="437"/>
         <source>Show information on the console when fonts are being loaded</source>
         <translation>Mostra la informació en la cònsola quan es carreguen les fonts</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusapp.cpp" line="424"/>
+        <location filename="../../../scribus/scribusapp.cpp" line="441"/>
         <source>Do not show the splashscreen on startup</source>
         <translation>No mostris la pantalla inicial al arrancar</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusapp.cpp" line="425"/>
+        <location filename="../../../scribus/scribusapp.cpp" line="442"/>
         <source>Stop the showing of the splashscreen on startup. Writes an empty file called .neversplash in ~/.scribus.</source>
         <translation>Atura el mostreig de la pantalla de presentació en iniciar. Escriu un fitxer buit anomenat .neversplash en ~/.scribus.</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusapp.cpp" line="429"/>
+        <location filename="../../../scribus/scribusapp.cpp" line="446"/>
         <source>Download a file from the Scribus website and show the latest available version.</source>
         <translation>Descarrega un fitxer des del web de l&apos;Scribus i mostra la darrera versió disponible.</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusapp.cpp" line="430"/>
+        <location filename="../../../scribus/scribusapp.cpp" line="447"/>
         <source>Output version information and exit</source>
         <translation>Versió de informació i sortida</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusapp.cpp" line="428"/>
+        <location filename="../../../scribus/scribusapp.cpp" line="445"/>
         <source>Use right to left dialog button ordering (eg. Cancel/No/Yes instead of Yes/No/Cancel)</source>
         <translation>Fa servir en els diàlegs la ordenació dreta a esquerra (ex. Cancel·la/No/Si en comptes de Si/No/Cancel·la)</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusapp.cpp" line="426"/>
+        <location filename="../../../scribus/scribusapp.cpp" line="443"/>
         <source>filename</source>
         <translation>nom de fitxer</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusapp.cpp" line="426"/>
+        <location filename="../../../scribus/scribusapp.cpp" line="443"/>
         <source>Use filename as path for user given preferences</source>
         <translation>Fa servir el nom de fitxer com a camí per les preferències d&apos;usuari</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusapp.cpp" line="434"/>
+        <location filename="../../../scribus/scribusapp.cpp" line="451"/>
         <source>Display a console window</source>
         <translation>Mostra una finestra de cònsola</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusapp.cpp" line="449"/>
+        <location filename="../../../scribus/scribusapp.cpp" line="466"/>
         <source>Installed interface languages for Scribus are as follows:</source>
         <translation>Les interfícies de llengua instal·lades són les següents:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusapp.cpp" line="457"/>
+        <location filename="../../../scribus/scribusapp.cpp" line="474"/>
         <source>To override the default language choice:</source>
         <translation>Per sobreescriure la llengua per defecte tria:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusapp.cpp" line="458"/>
+        <location filename="../../../scribus/scribusapp.cpp" line="475"/>
         <source>scribus -l xx or scribus --lang xx, where xx is the language of choice.</source>
         <translation>scribus -l xx o scribus --lang xx, on xx és la llengua triada.</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusapp.cpp" line="463"/>
+        <location filename="../../../scribus/scribusapp.cpp" line="480"/>
         <source>Scribus Version</source>
         <translation>Versió d&apos;Scribus</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusapp.cpp" line="472"/>
+        <location filename="../../../scribus/scribusapp.cpp" line="489"/>
         <source>Scribus, Open Source Desktop Publishing</source>
         <translation>Scribus, Autoedició de codi obert</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusapp.cpp" line="480"/>
+        <location filename="../../../scribus/scribusapp.cpp" line="497"/>
         <source>Homepage</source>
         <translation>Pàgina principal</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusapp.cpp" line="481"/>
+        <location filename="../../../scribus/scribusapp.cpp" line="498"/>
         <source>Documentation</source>
         <translation>Documentació</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusapp.cpp" line="482"/>
+        <location filename="../../../scribus/scribusapp.cpp" line="499"/>
         <source>Wiki</source>
         <translation>Wiki</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusapp.cpp" line="483"/>
+        <location filename="../../../scribus/scribusapp.cpp" line="500"/>
         <source>Issues</source>
         <translation>Temes</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusapp.cpp" line="427"/>
+        <location filename="../../../scribus/scribusapp.cpp" line="444"/>
         <source>Show location ICC profile information on console while starting</source>
         <translation>Mostra la ubicació de la infoemació del perfil ICC en cònsola en iniciar</translation>
     </message>
@@ -21027,19 +21032,19 @@ Considera fer servir el Verificador per corregir-los</translation>
     </message>
     <message>
         <location filename="../../../scribus/contextmenu.cpp" line="123"/>
-        <location filename="../../../scribus/pageitem.cpp" line="6120"/>
+        <location filename="../../../scribus/pageitem.cpp" line="6125"/>
         <source>Print: </source>
         <translation>Imprimeix: </translation>
     </message>
     <message>
         <location filename="../../../scribus/contextmenu.cpp" line="126"/>
-        <location filename="../../../scribus/pageitem.cpp" line="6122"/>
+        <location filename="../../../scribus/pageitem.cpp" line="6127"/>
         <source>Enabled</source>
         <translation>Activat</translation>
     </message>
     <message>
         <location filename="../../../scribus/contextmenu.cpp" line="128"/>
-        <location filename="../../../scribus/pageitem.cpp" line="6124"/>
+        <location filename="../../../scribus/pageitem.cpp" line="6129"/>
         <source>Disabled</source>
         <translation>Desactivat</translation>
     </message>
@@ -21936,28 +21941,28 @@ Considera fer servir el Verificador per corregir-los</translation>
         <translation>Vols desar els canvis?</translation>
     </message>
     <message>
-        <location filename="../../../scribus/storyeditor.cpp" line="2747"/>
+        <location filename="../../../scribus/storyeditor.cpp" line="2751"/>
         <source>Do you really want to lose all your changes?</source>
         <translation>Realment voleu perdre tots els canvis?</translation>
     </message>
     <message>
-        <location filename="../../../scribus/storyeditor.cpp" line="2776"/>
+        <location filename="../../../scribus/storyeditor.cpp" line="2780"/>
         <source>Do you really want to clear all your text?</source>
         <translation>Realment voleu esborrar tot el text?</translation>
     </message>
     <message>
-        <location filename="../../../scribus/storyeditor.cpp" line="3246"/>
+        <location filename="../../../scribus/storyeditor.cpp" line="3250"/>
         <source>Open</source>
         <translation>Obre</translation>
     </message>
     <message>
-        <location filename="../../../scribus/storyeditor.cpp" line="3246"/>
-        <location filename="../../../scribus/storyeditor.cpp" line="3281"/>
+        <location filename="../../../scribus/storyeditor.cpp" line="3250"/>
+        <location filename="../../../scribus/storyeditor.cpp" line="3285"/>
         <source>Text Files (*.txt);;All Files (*)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/storyeditor.cpp" line="3281"/>
+        <location filename="../../../scribus/storyeditor.cpp" line="3285"/>
         <source>Save as</source>
         <translation>Anomena i desa</translation>
     </message>
@@ -26742,7 +26747,7 @@ a %2</translation>
     <message>
         <location filename="../../../scribus/undomanager.cpp" line="953"/>
         <source>Duplicate</source>
-        <translation type="unfinished"/>
+        <translation>Duplica</translation>
     </message>
     <message>
         <location filename="../../../scribus/undomanager.cpp" line="969"/>
