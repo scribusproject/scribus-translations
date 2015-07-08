@@ -1,0 +1,15 @@
+[main]
+host = https://www.transifex.com
+
+[scribus.scribus]
+file_filter = resources/translations/scribus.<lang>.ts
+source_file = resources/translations/scribus.en_US.ts
+source_lang = en_US
+type = TS
+
+[scribus-14x.scribus]
+file_filter = resources/translations/po/scribus.<lang>.ts
+source_file = resources/translations/po/scribus.en_US.ts
+source_lang = en_US
+type = TS
+
