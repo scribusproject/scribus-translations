@@ -1989,7 +1989,7 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1993"/>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Редагувати</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1993"/>
@@ -2039,12 +2039,12 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="2003"/>
         <source>View</source>
-        <translation type="unfinished"/>
+        <translation>Вигляд</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="2003"/>
         <source>&amp;View</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Вигляд</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="2005"/>
@@ -5975,7 +5975,7 @@ currently %2 x %3 DPI</source>
     <message>
         <location filename="../../scribus/ui/contextmenu.cpp" line="511"/>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Редагувати</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/contextmenu.cpp" line="559"/>
@@ -6858,7 +6858,7 @@ failed!</source>
     <message>
         <location filename="../../scribus/ui/edittoolbar.cpp" line="29"/>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Редагувати</translation>
     </message>
 </context>
 <context>
@@ -11622,7 +11622,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../../scribus/ui/marksmanager.ui" line="52"/>
         <location filename="../../scribus/ui/marksmanager.cpp" line="141"/>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Редагувати</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/marksmanager.ui" line="57"/>
@@ -19011,7 +19011,7 @@ A value of 0 means unlimited hyphenations.</source>
         <location filename="../../scribus/ui/prefs_hyphenatorbase.ui" line="249"/>
         <location filename="../../scribus/ui/prefs_hyphenatorbase.ui" line="317"/>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Редагувати</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_hyphenatorbase.ui" line="279"/>
@@ -34522,7 +34522,7 @@ Ctrl-V для вставки його в систему обробітку пр�
     <message>
         <location filename="../../scribus/ui/stylemanager.cpp" line="165"/>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Редагувати</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/stylemanager.cpp" line="596"/>

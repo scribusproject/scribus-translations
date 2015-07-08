@@ -4,22 +4,22 @@
     <message>
         <location filename="../../../scribus/plugins/import/ai/importai.cpp" line="124"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>İçe Aktarılıyor: %1</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/ai/importai.cpp" line="127"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Analizi:</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/ai/importai.cpp" line="262"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>Grup%1</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/ai/importai.cpp" line="2495"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Öğeler oluşturuluyor</translation>
     </message>
 </context>
 <context>
@@ -98,7 +98,7 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="321"/>
         <source>Tango Project Icons:</source>
-        <translation type="unfinished"/>
+        <translation>Tango Project Simgeleri:</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="201"/>
@@ -118,7 +118,7 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="215"/>
         <source>&amp;Translations</source>
-        <translation>Ç&amp;eviriler</translation>
+        <translation>&amp;Çeviriler</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="349"/>
@@ -138,22 +138,22 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="355"/>
         <source>Bugs and Feature Requests</source>
-        <translation>Hatalar ve özellik istekleri</translation>
+        <translation>Hatalar ve Özellik istekleri</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="359"/>
         <source>Mailing List</source>
-        <translation>Mailing List</translation>
+        <translation>E-Posta Grubu</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="226"/>
         <source>&amp;Online</source>
-        <translation>Ç&amp;evrimiçi</translation>
+        <translation>&amp;Çevrimiçi</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="229"/>
         <source>&amp;Updates</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Güncellemeler</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="267"/>
@@ -163,7 +163,7 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="279"/>
         <source>Check for updates to Scribus. No data from your machine will be transferred off it.</source>
-        <translation type="unfinished"/>
+        <translation>Scribus güncellemelerini kontrol edin. Bilgisayarınızdan hiçbir veri transferi olmayacaktır.</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="303"/>
@@ -173,12 +173,12 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="319"/>
         <source>Splash Screen:</source>
-        <translation type="unfinished"/>
+        <translation>Açılış Ekranı:</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="275"/>
         <source>This panel shows the version, build date and compiled in library support in Scribus.</source>
-        <translation type="unfinished"/>
+        <translation>Bu panel Scribus&apos;un versiyon, yapım tarihi ve kütüphane derlemelerini gösterir. </translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="276"/>
@@ -188,7 +188,7 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="277"/>
         <source>Missing library support is indicated by a *. This also indicates the version of Ghostscript which Scribus has detected.</source>
-        <translation type="unfinished"/>
+        <translation>* simgesi, kütüphane desteği olmadığını gösterir. Bu simge ayrıca, Scribus&apos;un bilgisayarınızda bulduğu Ghostscript sürümünü de belirtir.</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="278"/>
@@ -203,33 +203,33 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="186"/>
         <source>Scribus Version</source>
-        <translation>Scribus Sürümü </translation>
+        <translation>Scribus Sürüm</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="233"/>
         <location filename="../../../scribus/about.cpp" line="657"/>
         <source>Check for Updates</source>
-        <translation type="unfinished"/>
+        <translation>Güncellemeler için Kontrol Et</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="655"/>
         <source>Abort Update Check</source>
-        <translation type="unfinished"/>
+        <translation>Güncelleme Kontrolünü İptal Et</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="357"/>
         <source>Developer Blog</source>
-        <translation type="unfinished"/>
+        <translation>Yapımcı Günlüğü</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="240"/>
         <source>&amp;Licence</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Lisans</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="249"/>
         <source>Unable to open licence file. Please check your install directory or the Scribus website for licencing information.</source>
-        <translation type="unfinished"/>
+        <translation>Lisans dosyası açılamadı. Lütfen yükleme yaptığınız klasörü kontrol edin ya da lisanslama bilgileri için Scribus web sitesini ziyaret edin.</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="313"/>
@@ -246,7 +246,7 @@
         <location filename="../../../scribus/about.cpp" line="566"/>
         <location filename="../../../scribus/about.cpp" line="633"/>
         <source>Unable to open %1 file. Please check your install directory or the Scribus website for %1 information.</source>
-        <translation type="unfinished"/>
+        <translation>%1 dosyası açılamadı. Lütfen yükleme klasörünüzü kontrol edin ya da Scribus websitesinden %1 hakkında bilgi edinin.</translation>
     </message>
 </context>
 <context>
@@ -254,47 +254,47 @@
     <message>
         <location filename="../../../scribus/aboutplugins.cpp" line="68"/>
         <source>Filename:</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Adı:</translation>
     </message>
     <message>
         <location filename="../../../scribus/aboutplugins.cpp" line="69"/>
         <source>Version:</source>
-        <translation type="unfinished"/>
+        <translation>Sürüm:</translation>
     </message>
     <message>
         <location filename="../../../scribus/aboutplugins.cpp" line="72"/>
         <source>Enabled:</source>
-        <translation type="unfinished"/>
+        <translation>Etkinleştirilenler:</translation>
     </message>
     <message>
         <location filename="../../../scribus/aboutplugins.cpp" line="73"/>
         <source>Release Date:</source>
-        <translation type="unfinished"/>
+        <translation>Yayın Tarihi:</translation>
     </message>
     <message>
         <location filename="../../../scribus/aboutplugins.cpp" line="80"/>
         <source>Description:</source>
-        <translation>Tanım:</translation>
+        <translation>Açıklama:</translation>
     </message>
     <message>
         <location filename="../../../scribus/aboutplugins.cpp" line="81"/>
         <source>Author(s):</source>
-        <translation type="unfinished"/>
+        <translation>Yazar(lar):</translation>
     </message>
     <message>
         <location filename="../../../scribus/aboutplugins.cpp" line="82"/>
         <source>Copyright:</source>
-        <translation>Yayın Hakkı:</translation>
+        <translation>Telif Hakkı:</translation>
     </message>
     <message>
         <location filename="../../../scribus/aboutplugins.cpp" line="83"/>
         <source>License:</source>
-        <translation type="unfinished"/>
+        <translation>Lisans:</translation>
     </message>
     <message>
         <location filename="../../../scribus/aboutplugins.ui" line="13"/>
         <source>Scribus: About Plug-ins</source>
-        <translation type="unfinished"/>
+        <translation>Scribus: Eklentiler Hakkında</translation>
     </message>
 </context>
 <context>
@@ -347,7 +347,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1279"/>
         <source>Get Image...</source>
-        <translation>Resim Al...</translation>
+        <translation>Resmi al</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1282"/>
@@ -464,12 +464,12 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1310"/>
         <source>Patterns...</source>
-        <translation type="unfinished"/>
+        <translation>Desenler ...</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1311"/>
         <source>S&amp;tyles...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Stiller...</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1312"/>
@@ -846,7 +846,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1419"/>
         <source>Preview Mode</source>
-        <translation type="unfinished"/>
+        <translation>Önizleme Modu</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1420"/>
@@ -861,7 +861,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1423"/>
         <source>Show Layer Indicators</source>
-        <translation type="unfinished"/>
+        <translation>Katman Göstergelerini Göster</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1424"/>
@@ -881,7 +881,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1427"/>
         <source>Show Text Frame Columns</source>
-        <translation type="unfinished"/>
+        <translation>Metin Çerçevesi Sütunlarını Göster</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1428"/>
@@ -901,7 +901,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1431"/>
         <source>Show Rulers</source>
-        <translation type="unfinished"/>
+        <translation>Cetvelleri Göster</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1433"/>
@@ -1037,12 +1037,12 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1476"/>
         <source>Insert PDF Text Field</source>
-        <translation type="unfinished"/>
+        <translation>PDF Metin Kutusu Ekle</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1477"/>
         <source>Insert PDF Check Box</source>
-        <translation type="unfinished"/>
+        <translation>PDF Kontrol Kutusu Ekle</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1478"/>
@@ -1052,17 +1052,17 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1479"/>
         <source>Insert PDF List Box</source>
-        <translation type="unfinished"/>
+        <translation>PDF Liste Kutusu Ekle</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1480"/>
         <source>Insert Text Annotation</source>
-        <translation type="unfinished"/>
+        <translation>Metin Bilgi Notu Ekle</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1481"/>
         <source>Insert Link Annotation</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantı Bilgi Notu Ekle</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1486"/>
@@ -1082,12 +1082,12 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1491"/>
         <source>&amp;Cascade</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Basamak</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1492"/>
         <source>&amp;Tile</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Döşe</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1495"/>
@@ -1103,7 +1103,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1498"/>
         <source>Toolti&amp;ps</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tüyolar</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1500"/>
@@ -1113,12 +1113,12 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1508"/>
         <source>Toggle Palettes</source>
-        <translation type="unfinished"/>
+        <translation>Paletler Arası Dolaş</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1509"/>
         <source>Toggle Guides</source>
-        <translation type="unfinished"/>
+        <translation>Geçiş Tuşları Kılavuzları</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1519"/>
@@ -1143,12 +1143,12 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1524"/>
         <source>Frame Break</source>
-        <translation type="unfinished"/>
+        <translation>Çerçeve Ayrımı</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1525"/>
         <source>Column Break</source>
-        <translation type="unfinished"/>
+        <translation>Sütun Ayrımı</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1528"/>
@@ -1178,7 +1178,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1533"/>
         <source>Middle Dot</source>
-        <translation type="unfinished"/>
+        <translation>Orta Nokta</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1534"/>
@@ -1198,7 +1198,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1537"/>
         <source>Quotation Dash</source>
-        <translation type="unfinished"/>
+        <translation>Alıntı Çizgisi</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1558"/>
@@ -1233,37 +1233,37 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1575"/>
         <source>ff</source>
-        <translation type="unfinished"/>
+        <translation>ff</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1576"/>
         <source>fi</source>
-        <translation type="unfinished"/>
+        <translation>fi</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1577"/>
         <source>fl</source>
-        <translation type="unfinished"/>
+        <translation>fl</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1578"/>
         <source>ffi</source>
-        <translation type="unfinished"/>
+        <translation>ffi</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1579"/>
         <source>ffl</source>
-        <translation type="unfinished"/>
+        <translation>ffl</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1580"/>
         <source>ft</source>
-        <translation type="unfinished"/>
+        <translation>m</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1581"/>
         <source>st</source>
-        <translation type="unfinished"/>
+        <translation>st</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1398"/>
@@ -1283,7 +1283,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1413"/>
         <source>Fit to Width</source>
-        <translation type="unfinished"/>
+        <translation>Enine Sığdır</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1421"/>
@@ -1309,7 +1309,7 @@
         <location filename="../../../scribus/actionmanager.cpp" line="1539"/>
         <source>Apostrophe</source>
         <comment>Unicode 0x0027</comment>
-        <translation type="unfinished"/>
+        <translation>Kesme işareti</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1540"/>
@@ -1416,22 +1416,22 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1418"/>
         <source>&amp;400%</source>
-        <translation type="unfinished"/>
+        <translation>&amp;%400 </translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1465"/>
         <source>Insert &amp;Text Frame</source>
-        <translation type="unfinished"/>
+        <translation>Metin Çerçevesi Ekle</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1466"/>
         <source>Insert &amp;Image Frame</source>
-        <translation type="unfinished"/>
+        <translation>Resim Çerçevesi Ekle</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1468"/>
         <source>Insert T&amp;able</source>
-        <translation type="unfinished"/>
+        <translation>Tablo Ekle</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1469"/>
@@ -1446,7 +1446,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1471"/>
         <source>Insert &amp;Line</source>
-        <translation type="unfinished"/>
+        <translation>Satır Ekle</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1472"/>
@@ -1461,22 +1461,22 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1501"/>
         <source>Scribus Homepage</source>
-        <translation type="unfinished"/>
+        <translation>Scribus Anasayfa</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1502"/>
         <source>Scribus Online Documentation</source>
-        <translation type="unfinished"/>
+        <translation>Scribus Çevrimiçi Belgelendirme</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1503"/>
         <source>Scribus Wiki</source>
-        <translation type="unfinished"/>
+        <translation>Scribus Wiki</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1504"/>
         <source>Getting Started with Scribus</source>
-        <translation type="unfinished"/>
+        <translation>Scribus&apos;a Başlarken</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1435"/>
@@ -1486,12 +1486,12 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1485"/>
         <source>&amp;Manage Images</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Görüntüleri Yönet</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1496"/>
         <source>&amp;About Plugins</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Eklentiler Hakkında</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1510"/>
@@ -1506,22 +1506,22 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1303"/>
         <source>Advanced Select All...</source>
-        <translation type="unfinished"/>
+        <translation>Gelişmiş Tümünü Seç...</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1307"/>
         <source>Edit Source...</source>
-        <translation type="unfinished"/>
+        <translation>Kaynak Düzenle ...</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1309"/>
         <source>Replace Colors...</source>
-        <translation type="unfinished"/>
+        <translation>Renkleri değiştir ...</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1432"/>
         <source>Rulers Relative to Page</source>
-        <translation type="unfinished"/>
+        <translation>Sayfaya Oranlı Cetveller</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1467"/>
@@ -1531,17 +1531,17 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1505"/>
         <source>Check for Updates</source>
-        <translation type="unfinished"/>
+        <translation>Güncellemeler için kontrol et</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1522"/>
         <source>Number of Pages</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa Sayısı</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1374"/>
         <source>Adjust Image to Frame</source>
-        <translation type="unfinished"/>
+        <translation>Resmi Çerçeveye Ayarla</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1704"/>
@@ -1556,42 +1556,42 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1706"/>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Düzenle</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1706"/>
         <source>&amp;Edit</source>
-        <translation>Düzen&amp;le</translation>
+        <translation>&amp;Düzenle</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1708"/>
         <source>Style</source>
-        <translation>Biçim</translation>
+        <translation>Stil</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1708"/>
         <source>&amp;Style</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Stil</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1710"/>
         <source>Item</source>
-        <translation type="unfinished"/>
+        <translation>Öğe</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1710"/>
         <source>&amp;Item</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Öğe</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1712"/>
         <source>Insert</source>
-        <translation type="unfinished"/>
+        <translation>Ekle</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1712"/>
         <source>I&amp;nsert</source>
-        <translation type="unfinished"/>
+        <translation>E&amp;kle</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1714"/>
@@ -1601,17 +1601,17 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1714"/>
         <source>&amp;Page</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sayfa</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1716"/>
         <source>View</source>
-        <translation type="unfinished"/>
+        <translation>Görüntüle</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1716"/>
         <source>&amp;View</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Görüntüle</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1718"/>
@@ -1636,12 +1636,12 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1722"/>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Yardım</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1722"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yardım</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1890"/>
@@ -1651,7 +1651,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1892"/>
         <source>Others</source>
-        <translation>Tümü</translation>
+        <translation>Diğerleri</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1894"/>
@@ -1674,7 +1674,7 @@
     <message>
         <location filename="../../../scribus/adjustcmsdialog.cpp" line="16"/>
         <source>CMS Settings</source>
-        <translation type="unfinished"/>
+        <translation>CMS Ayarları</translation>
     </message>
 </context>
 <context>
@@ -1727,7 +1727,7 @@
         <location filename="../../../scribus/aligndistribute.ui" line="396"/>
         <location filename="../../../scribus/aligndistribute.ui" line="403"/>
         <source>...</source>
-        <translation type="unfinished"/>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../../scribus/aligndistribute.ui" line="260"/>
@@ -2734,22 +2734,22 @@
     <message>
         <location filename="../../../scribus/annot.cpp" line="685"/>
         <source>FDF</source>
-        <translation type="unfinished"/>
+        <translation>FDF</translation>
     </message>
     <message>
         <location filename="../../../scribus/annot.cpp" line="685"/>
         <source>HTML</source>
-        <translation type="unfinished"/>
+        <translation>HTML</translation>
     </message>
     <message>
         <location filename="../../../scribus/annot.cpp" line="685"/>
         <source>XFDF</source>
-        <translation type="unfinished"/>
+        <translation>XFDF</translation>
     </message>
     <message>
         <location filename="../../../scribus/annot.cpp" line="685"/>
         <source>PDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF</translation>
     </message>
 </context>
 <context>
@@ -2916,7 +2916,7 @@
     <message>
         <location filename="../../../scribus/applytemplatedialog.cpp" line="276"/>
         <source>&amp;All Pages</source>
-        <translation>&amp;Tüm sayfalar</translation>
+        <translation>&amp;Tüm Sayfalar</translation>
     </message>
     <message>
         <location filename="../../../scribus/applytemplatedialog.cpp" line="278"/>
@@ -2939,7 +2939,7 @@
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellplugin.cpp" line="70"/>
         <source>0.1</source>
-        <translation type="unfinished"/>
+        <translation>0.1</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellplugin.cpp" line="32"/>
@@ -3007,7 +3007,7 @@
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginbase.ui" line="228"/>
         <source>&amp;Ignore</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yoksay</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginbase.ui" line="247"/>
@@ -3017,7 +3017,7 @@
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginbase.ui" line="250"/>
         <source>I&amp;gnore All</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tüm Yoksay</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginbase.ui" line="275"/>
@@ -3153,7 +3153,7 @@ Configuration invalid</source>
     <message>
         <location filename="../../../scribus/plugins/barcodegenerator/barcode.cpp" line="22"/>
         <source>&amp;Barcode...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Barkod ...</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/barcodegenerator/barcode.cpp" line="39"/>
@@ -3166,32 +3166,32 @@ Configuration invalid</source>
     <message>
         <location filename="../../../scribus/plugins/barcodegenerator/barcodegenerator.cpp" line="41"/>
         <source>12 or 13 digits</source>
-        <translation type="unfinished"/>
+        <translation>12 veya 13 hane</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/barcodegenerator/barcodegenerator.cpp" line="43"/>
         <source>8 digits</source>
-        <translation type="unfinished"/>
+        <translation>8 hane</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/barcodegenerator/barcodegenerator.cpp" line="45"/>
         <source>11 or 12 digits</source>
-        <translation type="unfinished"/>
+        <translation>11 veya 12 hane</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/barcodegenerator/barcodegenerator.cpp" line="47"/>
         <source>7 or 8 digits</source>
-        <translation type="unfinished"/>
+        <translation>7 veya 8 hane</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/barcodegenerator/barcodegenerator.cpp" line="49"/>
         <source>5 digits</source>
-        <translation type="unfinished"/>
+        <translation>5 haneli</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/barcodegenerator/barcodegenerator.cpp" line="51"/>
         <source>2 digits</source>
-        <translation type="unfinished"/>
+        <translation>2 hane</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/barcodegenerator/barcodegenerator.cpp" line="58"/>
@@ -3255,7 +3255,7 @@ Configuration invalid</source>
     <message>
         <location filename="../../../scribus/plugins/barcodegenerator/barcodegenerator.cpp" line="109"/>
         <source>Select Type</source>
-        <translation type="unfinished"/>
+        <translation>Tip Seçin</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/barcodegenerator/barcodegenerator.cpp" line="149"/>
@@ -3268,12 +3268,12 @@ Configuration invalid</source>
     <message>
         <location filename="../../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="140"/>
         <source>&amp;Type:</source>
-        <translation>&amp;Tip:</translation>
+        <translation>&amp;Tipi:</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="120"/>
         <source>Co&amp;de:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kod:</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="133"/>
@@ -3293,7 +3293,7 @@ Configuration invalid</source>
     <message>
         <location filename="../../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="81"/>
         <source>Alt+I</source>
-        <translation>Alt+A</translation>
+        <translation>Alt+I</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="75"/>
@@ -3303,7 +3303,7 @@ Configuration invalid</source>
     <message>
         <location filename="../../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="68"/>
         <source>Alt+G</source>
-        <translation>Alt+P</translation>
+        <translation>Alt + G</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="62"/>
@@ -3313,7 +3313,7 @@ Configuration invalid</source>
     <message>
         <location filename="../../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="55"/>
         <source>Alt+N</source>
-        <translation>Alt+A</translation>
+        <translation>Alt+N</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="49"/>
@@ -3323,7 +3323,7 @@ Configuration invalid</source>
     <message>
         <location filename="../../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="42"/>
         <source>Alt+U</source>
-        <translation>Alt+P</translation>
+        <translation>Alt+U</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="36"/>
@@ -3338,12 +3338,12 @@ Configuration invalid</source>
     <message>
         <location filename="../../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="184"/>
         <source>&amp;Background</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Arkaplan</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="187"/>
         <source>Alt+B</source>
-        <translation>Alt+A</translation>
+        <translation>Alt+B</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="181"/>
@@ -3358,7 +3358,7 @@ Configuration invalid</source>
     <message>
         <location filename="../../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="219"/>
         <source>Alt+L</source>
-        <translation>Alt+W</translation>
+        <translation>Alt+L</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="213"/>
@@ -3373,7 +3373,7 @@ Configuration invalid</source>
     <message>
         <location filename="../../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="251"/>
         <source>Alt+T</source>
-        <translation type="unfinished"/>
+        <translation>Alt+T</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="245"/>
@@ -3427,7 +3427,7 @@ Configuration invalid</source>
         <location filename="../../../scribus/scrapbookpalette.cpp" line="553"/>
         <location filename="../../../scribus/scrapbookpalette.cpp" line="554"/>
         <source>Main</source>
-        <translation type="unfinished"/>
+        <translation>Ana</translation>
     </message>
     <message>
         <location filename="../../../scribus/scrapbookpalette.cpp" line="556"/>
@@ -3527,7 +3527,7 @@ Configuration invalid</source>
     <message>
         <location filename="../../../scribus/scrapbookpalette.cpp" line="1102"/>
         <source>New Name</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Adı</translation>
     </message>
     <message>
         <location filename="../../../scribus/scrapbookpalette.cpp" line="744"/>
@@ -3542,7 +3542,7 @@ Configuration invalid</source>
     <message>
         <location filename="../../../scribus/scrapbookpalette.cpp" line="891"/>
         <source>Save as...</source>
-        <translation type="unfinished"/>
+        <translation>Farklı kaydet ...</translation>
     </message>
     <message>
         <location filename="../../../scribus/scrapbookpalette.cpp" line="894"/>
@@ -3719,7 +3719,7 @@ Configuration invalid</source>
     <message>
         <location filename="../../../scribus/cmsprefsbase.ui" line="74"/>
         <source>&amp;RGB Images:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;RGB Görüntüler:</translation>
     </message>
     <message>
         <location filename="../../../scribus/cmsprefsbase.ui" line="90"/>
@@ -3759,7 +3759,7 @@ Configuration invalid</source>
     <message>
         <location filename="../../../scribus/cmsprefsbase.ui" line="166"/>
         <source>&amp;Monitor:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Monitör:</translation>
     </message>
     <message>
         <location filename="../../../scribus/cmsprefsbase.ui" line="182"/>
@@ -3996,7 +3996,7 @@ Please give it a name</source>
     <message>
         <location filename="../../../scribus/cmykfw.cpp" line="191"/>
         <source>HSV Color Map</source>
-        <translation type="unfinished"/>
+        <translation>HSV Renk Haritası</translation>
     </message>
 </context>
 <context>
@@ -4009,7 +4009,7 @@ Please give it a name</source>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.cpp" line="325"/>
         <source>Error: </source>
-        <translation type="unfinished"/>
+        <translation>Hata:</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.cpp" line="325"/>
@@ -4067,7 +4067,7 @@ Please give it a name</source>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="87"/>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="729"/>
         <source>HSV</source>
-        <translation type="unfinished"/>
+        <translation>HSV</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="106"/>
@@ -4082,7 +4082,7 @@ Please give it a name</source>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="142"/>
         <source>Angle:</source>
-        <translation type="unfinished"/>
+        <translation>Açı:</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="152"/>
@@ -4107,7 +4107,7 @@ Please give it a name</source>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="207"/>
         <source>Alt+M</source>
-        <translation>Alt+P</translation>
+        <translation>Alt+M</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="214"/>
@@ -4122,7 +4122,7 @@ Please give it a name</source>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="220"/>
         <source>Alt+R</source>
-        <translation>Alt+A</translation>
+        <translation>Alt+R</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="227"/>
@@ -4132,17 +4132,17 @@ Please give it a name</source>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="230"/>
         <source>&amp;Cancel</source>
-        <translation>İp&amp;tal</translation>
+        <translation>&amp;İptal</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="233"/>
         <source>Alt+C</source>
-        <translation>Alt+A</translation>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="242"/>
         <source>Preview:</source>
-        <translation type="unfinished"/>
+        <translation>Önizleme:</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="266"/>
@@ -4191,13 +4191,13 @@ Please give it a name</source>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="462"/>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="838"/>
         <source>RGB:</source>
-        <translation type="unfinished"/>
+        <translation>RGB:</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="498"/>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="685"/>
         <source>HSV:</source>
-        <translation type="unfinished"/>
+        <translation>HSV:</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="571"/>
@@ -4218,22 +4218,22 @@ Please give it a name</source>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="652"/>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="874"/>
         <source>CMYK:</source>
-        <translation type="unfinished"/>
+        <translation>CMYK:</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="757"/>
         <source>H:</source>
-        <translation type="unfinished"/>
+        <translation>H:</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="784"/>
         <source>S:</source>
-        <translation type="unfinished"/>
+        <translation>S:</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="811"/>
         <source>V:</source>
-        <translation type="unfinished"/>
+        <translation>V:</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/colorwheel/cwdialog.ui" line="918"/>
@@ -4248,17 +4248,18 @@ Please give it a name</source>
         <location filename="../../../scribus/canvas.cpp" line="2294"/>
         <source>X: %1
 Y: %2</source>
-        <translation type="unfinished"/>
+        <translation>X: %1
+Y: %2</translation>
     </message>
     <message>
         <location filename="../../../scribus/canvas.cpp" line="2279"/>
         <source>X: %1</source>
-        <translation type="unfinished"/>
+        <translation>X: %1</translation>
     </message>
     <message>
         <location filename="../../../scribus/canvas.cpp" line="2286"/>
         <source>Y: %1</source>
-        <translation type="unfinished"/>
+        <translation>Y: %1</translation>
     </message>
     <message>
         <location filename="../../../scribus/canvas.cpp" line="2302"/>
@@ -4270,7 +4271,8 @@ Angle: %2</source>
         <location filename="../../../scribus/canvas.cpp" line="2304"/>
         <source>Width: %1
 Height: %2</source>
-        <translation type="unfinished"/>
+        <translation>Genişlik: %1 
+Yükseklik: %2</translation>
     </message>
     <message>
         <location filename="../../../scribus/canvas.cpp" line="2316"/>
@@ -4288,7 +4290,7 @@ Height: %2</source>
     <message>
         <location filename="../../../scribus/canvasmode_eyedropper.cpp" line="168"/>
         <source>Color Not Found</source>
-        <translation type="unfinished"/>
+        <translation>Renk Bulunamadı</translation>
     </message>
     <message>
         <location filename="../../../scribus/canvasmode_eyedropper.cpp" line="172"/>
@@ -4359,7 +4361,7 @@ Height: %2</source>
     <message>
         <location filename="../../../scribus/charselect.ui" line="14"/>
         <source>Character Palette</source>
-        <translation type="unfinished"/>
+        <translation>Karakter Paleti</translation>
     </message>
     <message>
         <location filename="../../../scribus/charselect.ui" line="25"/>
@@ -4527,7 +4529,7 @@ Height: %2</source>
     <message>
         <location filename="../../../scribus/charselectenhanced.cpp" line="351"/>
         <source>Arabic</source>
-        <translation type="unfinished"/>
+        <translation>Arapça</translation>
     </message>
     <message>
         <location filename="../../../scribus/charselectenhanced.cpp" line="357"/>
@@ -4542,7 +4544,7 @@ Height: %2</source>
     <message>
         <location filename="../../../scribus/charselectenhanced.cpp" line="369"/>
         <source>Hebrew</source>
-        <translation type="unfinished"/>
+        <translation>İbranice</translation>
     </message>
     <message>
         <location filename="../../../scribus/charselectenhanced.ui" line="13"/>
@@ -4654,7 +4656,7 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     <message>
         <location filename="../../../scribus/checkDocument.cpp" line="451"/>
         <source>Layer &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Katman &quot;%1&quot;</translation>
     </message>
     <message>
         <location filename="../../../scribus/checkDocument.cpp" line="569"/>
@@ -4781,7 +4783,7 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     <message>
         <location filename="../../../scribus/checkDocument.cpp" line="663"/>
         <source>Layer</source>
-        <translation type="unfinished"/>
+        <translation>Katman</translation>
     </message>
     <message>
         <location filename="../../../scribus/checkDocument.cpp" line="680"/>
@@ -5068,22 +5070,22 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="263"/>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Evet</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="264"/>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Hayır</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="265"/>
         <source>&amp;Yes</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Evet</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="266"/>
         <source>&amp;No</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Hayır</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="286"/>
@@ -5114,97 +5116,97 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="331"/>
         <source>Monday</source>
-        <translation type="unfinished"/>
+        <translation>Pazartesi</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="332"/>
         <source>Tuesday</source>
-        <translation type="unfinished"/>
+        <translation>Salı</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="333"/>
         <source>Wednesday</source>
-        <translation type="unfinished"/>
+        <translation>Çarşamba</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="334"/>
         <source>Thursday</source>
-        <translation type="unfinished"/>
+        <translation>Perşembe</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="335"/>
         <source>Friday</source>
-        <translation type="unfinished"/>
+        <translation>Cuma</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="336"/>
         <source>Saturday</source>
-        <translation type="unfinished"/>
+        <translation>Cumartesi</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="337"/>
         <source>Sunday</source>
-        <translation type="unfinished"/>
+        <translation>Pazar</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="338"/>
         <source>January</source>
-        <translation type="unfinished"/>
+        <translation>Ocak</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="339"/>
         <source>February</source>
-        <translation type="unfinished"/>
+        <translation>Şubat</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="340"/>
         <source>March</source>
-        <translation type="unfinished"/>
+        <translation>Mart</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="341"/>
         <source>April</source>
-        <translation type="unfinished"/>
+        <translation>Nisan</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="342"/>
         <source>May</source>
-        <translation type="unfinished"/>
+        <translation>Mayıs</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="343"/>
         <source>June</source>
-        <translation type="unfinished"/>
+        <translation>Haziran</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="344"/>
         <source>July</source>
-        <translation type="unfinished"/>
+        <translation>Temmuz</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="345"/>
         <source>August</source>
-        <translation type="unfinished"/>
+        <translation>Ağustos</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="346"/>
         <source>September</source>
-        <translation type="unfinished"/>
+        <translation>Eylül</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="347"/>
         <source>October</source>
-        <translation type="unfinished"/>
+        <translation>Ekim</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="348"/>
         <source>November</source>
-        <translation type="unfinished"/>
+        <translation>Kasım</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="349"/>
         <source>December</source>
-        <translation type="unfinished"/>
+        <translation>Aralık</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="302"/>
@@ -5216,7 +5218,7 @@ See the Edit Colors section of the documentation for more details.</source>
         <location filename="../../../scribus/commonstrings.cpp" line="303"/>
         <source>Middle</source>
         <comment>Middle page location</comment>
-        <translation type="unfinished"/>
+        <translation>Orta</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="304"/>
@@ -5294,7 +5296,7 @@ See the Edit Colors section of the documentation for more details.</source>
         <location filename="../../../scribus/commonstrings.cpp" line="363"/>
         <source>Custom: </source>
         <comment>Custom Tab Fill Option</comment>
-        <translation type="unfinished"/>
+        <translation>Özel:</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="251"/>
@@ -5435,7 +5437,7 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="271"/>
         <source>Polygon</source>
-        <translation>Çokgen</translation>
+        <translation>Poligon</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="272"/>
@@ -5544,7 +5546,7 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/contextmenu.cpp" line="455"/>
         <source>Delete Page</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa Sil</translation>
     </message>
 </context>
 <context>
@@ -5557,7 +5559,7 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/ui/copypagetomasterpage.ui" line="24"/>
         <source>Name:</source>
-        <translation>İsim:</translation>
+        <translation>Adı:</translation>
     </message>
     <message>
         <location filename="../../../scribus/ui/copypagetomasterpage.ui" line="39"/>
@@ -5598,7 +5600,7 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/cpalette.cpp" line="994"/>
         <source>X:</source>
-        <translation type="unfinished"/>
+        <translation>X:</translation>
     </message>
     <message>
         <location filename="../../../scribus/cpalette.cpp" line="996"/>
@@ -5608,7 +5610,7 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/cpalette.cpp" line="998"/>
         <source>Scaling</source>
-        <translation type="unfinished"/>
+        <translation>Ölçekleme</translation>
     </message>
     <message>
         <location filename="../../../scribus/cpalette.cpp" line="999"/>
@@ -5628,7 +5630,7 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/cpalette.cpp" line="1004"/>
         <source>Angle</source>
-        <translation type="unfinished"/>
+        <translation>Açı</translation>
     </message>
     <message>
         <location filename="../../../scribus/cpalette.cpp" line="1006"/>
@@ -5701,7 +5703,7 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/cpalette.cpp" line="1026"/>
         <source>Darken</source>
-        <translation>Karanlıklaştır</translation>
+        <translation>Koyulaştırma</translation>
     </message>
     <message>
         <location filename="../../../scribus/cpalette.cpp" line="1027"/>
@@ -5845,12 +5847,12 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/ui/createrange.ui" line="160"/>
         <source>De&amp;lete</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sil</translation>
     </message>
     <message>
         <location filename="../../../scribus/ui/createrange.ui" line="163"/>
         <source>Alt+L</source>
-        <translation>Alt+W</translation>
+        <translation>Alt+L</translation>
     </message>
     <message>
         <location filename="../../../scribus/ui/createrange.ui" line="186"/>
@@ -5870,7 +5872,7 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/ui/createrange.ui" line="199"/>
         <source>Alt+U</source>
-        <translation>Alt+A</translation>
+        <translation>Alt+U</translation>
     </message>
     <message>
         <location filename="../../../scribus/ui/createrange.ui" line="218"/>
@@ -5905,7 +5907,7 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/ui/createrange.ui" line="337"/>
         <source>Alt+A</source>
-        <translation>Alt+P</translation>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <location filename="../../../scribus/ui/createrange.ui" line="362"/>
@@ -5950,12 +5952,12 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/ui/createrange.ui" line="535"/>
         <source>&amp;Cancel</source>
-        <translation>İp&amp;tal</translation>
+        <translation>&amp;İptal</translation>
     </message>
     <message>
         <location filename="../../../scribus/ui/createrange.ui" line="538"/>
         <source>Alt+C</source>
-        <translation>Alt+A</translation>
+        <translation>Alt+C</translation>
     </message>
 </context>
 <context>
@@ -6164,7 +6166,7 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/customfdialog.cpp" line="272"/>
         <source>Show Preview</source>
-        <translation type="unfinished"/>
+        <translation>Önizleme Göster</translation>
     </message>
     <message>
         <location filename="../../../scribus/customfdialog.cpp" line="306"/>
@@ -6197,22 +6199,22 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/plugins/import/cvg/importcvg.cpp" line="79"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>İçe Aktarılıyor: %1</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/cvg/importcvg.cpp" line="82"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Analizi:</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/cvg/importcvg.cpp" line="205"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>Grup%1</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/cvg/importcvg.cpp" line="332"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Öğeler oluşturuluyor</translation>
     </message>
 </context>
 <context>
@@ -6524,7 +6526,7 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/docsections.ui" line="86"/>
         <source>Alt+A</source>
-        <translation>Alt+P</translation>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <location filename="../../../scribus/docsections.ui" line="93"/>
@@ -6539,7 +6541,7 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/docsections.ui" line="32"/>
         <source>Name</source>
-        <translation>İsim</translation>
+        <translation>Isim</translation>
     </message>
     <message>
         <location filename="../../../scribus/docsections.ui" line="37"/>
@@ -6559,12 +6561,12 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/docsections.ui" line="52"/>
         <source>Style</source>
-        <translation>Biçim</translation>
+        <translation>Stil</translation>
     </message>
     <message>
         <location filename="../../../scribus/docsections.ui" line="57"/>
         <source>Start</source>
-        <translation type="unfinished"/>
+        <translation>Başlat</translation>
     </message>
 </context>
 <context>
@@ -6645,12 +6647,12 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/docitemattrprefs.ui" line="85"/>
         <source>Alt+A</source>
-        <translation>Alt+P</translation>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <location filename="../../../scribus/docitemattrprefs.ui" line="92"/>
         <source>&amp;Copy</source>
-        <translation>K&amp;opyala</translation>
+        <translation>&amp;Kopyala</translation>
     </message>
     <message>
         <location filename="../../../scribus/docitemattrprefs.ui" line="95"/>
@@ -6675,17 +6677,17 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/docitemattrprefs.ui" line="115"/>
         <source>Alt+L</source>
-        <translation>Alt+W</translation>
+        <translation>Alt+L</translation>
     </message>
     <message>
         <location filename="../../../scribus/docitemattrprefs.ui" line="26"/>
         <source>Name</source>
-        <translation>İsim</translation>
+        <translation>Isim</translation>
     </message>
     <message>
         <location filename="../../../scribus/docitemattrprefs.ui" line="31"/>
         <source>Type</source>
-        <translation>Tip</translation>
+        <translation>Türü</translation>
     </message>
     <message>
         <location filename="../../../scribus/docitemattrprefs.ui" line="36"/>
@@ -6695,7 +6697,7 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/docitemattrprefs.ui" line="41"/>
         <source>Parameter</source>
-        <translation type="unfinished"/>
+        <translation>Parametre</translation>
     </message>
     <message>
         <location filename="../../../scribus/docitemattrprefs.ui" line="46"/>
@@ -6739,7 +6741,7 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/ui/downloaddictionaries.cpp" line="116"/>
         <source>Language</source>
-        <translation type="unfinished"/>
+        <translation>Dil</translation>
     </message>
     <message>
         <location filename="../../../scribus/ui/downloaddictionaries.cpp" line="116"/>
@@ -6763,7 +6765,7 @@ See the Edit Colors section of the documentation for more details.</source>
         <location filename="../../../scribus/plugins/import/ps/importps.cpp" line="278"/>
         <location filename="../../../scribus/plugins/import/ps/importps.cpp" line="706"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>Grup%1</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/ps/importps.cpp" line="476"/>
@@ -6782,7 +6784,7 @@ Başarısız oldu!</translation>
     <message>
         <location filename="../../../scribus/plugins/import/ps/importps.cpp" line="482"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Öğeler oluşturuluyor</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/ps/importps.cpp" line="837"/>
@@ -6797,7 +6799,7 @@ Başarısız oldu!</translation>
     <message>
         <location filename="../../../scribus/plugins/import/ps/importps.cpp" line="80"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>İçe Aktarılıyor: %1</translation>
     </message>
 </context>
 <context>
@@ -6805,7 +6807,7 @@ Başarısız oldu!</translation>
     <message>
         <location filename="../../../scribus/ui/edittoolbar.cpp" line="29"/>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Düzenle</translation>
     </message>
 </context>
 <context>
@@ -6904,27 +6906,27 @@ Başarısız oldu!</translation>
     <message>
         <location filename="../../../scribus/editor.cpp" line="41"/>
         <source>Ctrl+N</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+N</translation>
     </message>
     <message>
         <location filename="../../../scribus/editor.cpp" line="52"/>
         <source>Ctrl+Z</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+Z</translation>
     </message>
     <message>
         <location filename="../../../scribus/editor.cpp" line="57"/>
         <source>Ctrl+X</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+X</translation>
     </message>
     <message>
         <location filename="../../../scribus/editor.cpp" line="60"/>
         <source>Ctrl+C</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+C</translation>
     </message>
     <message>
         <location filename="../../../scribus/editor.cpp" line="63"/>
         <source>Ctrl-V</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl-V</translation>
     </message>
 </context>
 <context>
@@ -6980,25 +6982,25 @@ Başarısız oldu!</translation>
         <location filename="../../../scribus/effectsdialog.cpp" line="286"/>
         <location filename="../../../scribus/effectsdialog.cpp" line="352"/>
         <source>Color 1:</source>
-        <translation type="unfinished"/>
+        <translation>Renk 1:</translation>
     </message>
     <message>
         <location filename="../../../scribus/effectsdialog.cpp" line="257"/>
         <location filename="../../../scribus/effectsdialog.cpp" line="306"/>
         <location filename="../../../scribus/effectsdialog.cpp" line="372"/>
         <source>Color 2:</source>
-        <translation type="unfinished"/>
+        <translation>Renk 2:</translation>
     </message>
     <message>
         <location filename="../../../scribus/effectsdialog.cpp" line="326"/>
         <location filename="../../../scribus/effectsdialog.cpp" line="392"/>
         <source>Color 3:</source>
-        <translation type="unfinished"/>
+        <translation>Renk 3:</translation>
     </message>
     <message>
         <location filename="../../../scribus/effectsdialog.cpp" line="412"/>
         <source>Color 4:</source>
-        <translation type="unfinished"/>
+        <translation>Renk 4:</translation>
     </message>
     <message>
         <location filename="../../../scribus/effectsdialog.cpp" line="456"/>
@@ -7557,7 +7559,7 @@ Dosya adı &apos;belgeadı-sayfano.dosyatipi&apos; şeklinde olacaktır</transla
     <message>
         <location filename="../../../scribus/customfdialog.cpp" line="224"/>
         <source>File Format:</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Biçimi:</translation>
     </message>
 </context>
 <context>
@@ -7609,7 +7611,7 @@ Dosya adı &apos;belgeadı-sayfano.dosyatipi&apos; şeklinde olacaktır</transla
     <message>
         <location filename="../../../scribus/fontlistmodel.cpp" line="63"/>
         <source>Font Name</source>
-        <translation>Yazıtipi Adı</translation>
+        <translation>Yazı Tipi Adı</translation>
     </message>
     <message>
         <location filename="../../../scribus/fontlistmodel.cpp" line="65"/>
@@ -7619,22 +7621,22 @@ Dosya adı &apos;belgeadı-sayfano.dosyatipi&apos; şeklinde olacaktır</transla
     <message>
         <location filename="../../../scribus/fontlistmodel.cpp" line="67"/>
         <source>Family</source>
-        <translation type="unfinished"/>
+        <translation>Aile</translation>
     </message>
     <message>
         <location filename="../../../scribus/fontlistmodel.cpp" line="69"/>
         <source>Style</source>
-        <translation>Biçim</translation>
+        <translation>Stil</translation>
     </message>
     <message>
         <location filename="../../../scribus/fontlistmodel.cpp" line="71"/>
         <source>Variant</source>
-        <translation type="unfinished"/>
+        <translation>Varyant</translation>
     </message>
     <message>
         <location filename="../../../scribus/fontlistmodel.cpp" line="73"/>
         <source>Type</source>
-        <translation>Tip</translation>
+        <translation>Türü</translation>
     </message>
     <message>
         <location filename="../../../scribus/fontlistmodel.cpp" line="75"/>
@@ -7682,13 +7684,13 @@ Dosya adı &apos;belgeadı-sayfano.dosyatipi&apos; şeklinde olacaktır</transla
         <location filename="../../../scribus/fontlistmodel.cpp" line="164"/>
         <source>User</source>
         <comment>font preview</comment>
-        <translation type="unfinished"/>
+        <translation>Kullanıcı</translation>
     </message>
     <message>
         <location filename="../../../scribus/fontlistmodel.cpp" line="165"/>
         <source>System</source>
         <comment>font preview</comment>
-        <translation type="unfinished"/>
+        <translation>Sistem</translation>
     </message>
     <message>
         <location filename="../../../scribus/fontlistmodel.cpp" line="190"/>
@@ -7802,7 +7804,7 @@ Dosya adı &apos;belgeadı-sayfano.dosyatipi&apos; şeklinde olacaktır</transla
     <message>
         <location filename="../../../scribus/plugins/fontpreview/fontpreview.ui" line="80"/>
         <source>&amp;Font Size:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yazı Boyutu:</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/fontpreview/fontpreview.ui" line="103"/>
@@ -7822,7 +7824,7 @@ Dosya adı &apos;belgeadı-sayfano.dosyatipi&apos; şeklinde olacaktır</transla
     <message>
         <location filename="../../../scribus/plugins/fontpreview/fontpreview.ui" line="126"/>
         <source>Alt+T</source>
-        <translation type="unfinished"/>
+        <translation>Alt+T</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/fontpreview/fontpreview.ui" line="133"/>
@@ -7981,14 +7983,14 @@ Dosya adı &apos;belgeadı-sayfano.dosyatipi&apos; şeklinde olacaktır</transla
         <location filename="../../../scribus/guidemanager.ui" line="63"/>
         <location filename="../../../scribus/guidemanager.cpp" line="230"/>
         <source>D&amp;elete</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Delete</translation>
     </message>
     <message>
         <location filename="../../../scribus/guidemanager.ui" line="66"/>
         <location filename="../../../scribus/guidemanager.ui" line="218"/>
         <location filename="../../../scribus/guidemanager.ui" line="305"/>
         <source>Alt+E</source>
-        <translation>Alt+P</translation>
+        <translation>Alt+E</translation>
     </message>
     <message>
         <location filename="../../../scribus/guidemanager.ui" line="76"/>
@@ -8002,7 +8004,7 @@ Dosya adı &apos;belgeadı-sayfano.dosyatipi&apos; şeklinde olacaktır</transla
         <location filename="../../../scribus/guidemanager.ui" line="92"/>
         <location filename="../../../scribus/guidemanager.cpp" line="231"/>
         <source>A&amp;dd</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ekle</translation>
     </message>
     <message>
         <location filename="../../../scribus/guidemanager.ui" line="95"/>
@@ -8013,13 +8015,13 @@ Dosya adı &apos;belgeadı-sayfano.dosyatipi&apos; şeklinde olacaktır</transla
         <location filename="../../../scribus/guidemanager.ui" line="102"/>
         <location filename="../../../scribus/guidemanager.cpp" line="232"/>
         <source>De&amp;lete</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sil</translation>
     </message>
     <message>
         <location filename="../../../scribus/guidemanager.ui" line="105"/>
         <location filename="../../../scribus/guidemanager.ui" line="120"/>
         <source>Alt+L</source>
-        <translation>Alt+W</translation>
+        <translation>Alt+L</translation>
     </message>
     <message>
         <location filename="../../../scribus/guidemanager.ui" line="117"/>
@@ -8039,7 +8041,7 @@ Dosya adı &apos;belgeadı-sayfano.dosyatipi&apos; şeklinde olacaktır</transla
         <location filename="../../../scribus/guidemanager.ui" line="130"/>
         <location filename="../../../scribus/guidemanager.ui" line="321"/>
         <source>Alt+Y</source>
-        <translation>Alt+O</translation>
+        <translation>Alt+Y</translation>
     </message>
     <message>
         <location filename="../../../scribus/guidemanager.ui" line="138"/>
@@ -8051,7 +8053,7 @@ Dosya adı &apos;belgeadı-sayfano.dosyatipi&apos; şeklinde olacaktır</transla
         <location filename="../../../scribus/guidemanager.ui" line="150"/>
         <location filename="../../../scribus/guidemanager.cpp" line="237"/>
         <source>&amp;Number:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Numara:</translation>
     </message>
     <message>
         <location filename="../../../scribus/guidemanager.ui" line="173"/>
@@ -8062,7 +8064,7 @@ Dosya adı &apos;belgeadı-sayfano.dosyatipi&apos; şeklinde olacaktır</transla
     <message>
         <location filename="../../../scribus/guidemanager.ui" line="176"/>
         <source>Alt+S</source>
-        <translation>Alt+P</translation>
+        <translation>Alt+S</translation>
     </message>
     <message>
         <location filename="../../../scribus/guidemanager.ui" line="192"/>
@@ -8070,7 +8072,7 @@ Dosya adı &apos;belgeadı-sayfano.dosyatipi&apos; şeklinde olacaktır</transla
         <location filename="../../../scribus/guidemanager.cpp" line="243"/>
         <location filename="../../../scribus/guidemanager.cpp" line="246"/>
         <source>&amp;Page</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sayfa</translation>
     </message>
     <message>
         <location filename="../../../scribus/guidemanager.ui" line="195"/>
@@ -8110,7 +8112,7 @@ Dosya adı &apos;belgeadı-sayfano.dosyatipi&apos; şeklinde olacaktır</transla
     <message>
         <location filename="../../../scribus/guidemanager.ui" line="263"/>
         <source>Alt+G</source>
-        <translation>Alt+D</translation>
+        <translation>Alt+G</translation>
     </message>
     <message>
         <location filename="../../../scribus/guidemanager.ui" line="329"/>
@@ -8174,7 +8176,7 @@ Dosya adı &apos;belgeadı-sayfano.dosyatipi&apos; şeklinde olacaktır</transla
     <message>
         <location filename="../../../scribus/guidemanager.cpp" line="258"/>
         <source>Apply to all pages</source>
-        <translation type="unfinished"/>
+        <translation>Tüm sayfalar için uygula</translation>
     </message>
     <message>
         <location filename="../../../scribus/guidemanager.cpp" line="259"/>
@@ -8362,7 +8364,7 @@ Dosya adı &apos;belgeadı-sayfano.dosyatipi&apos; şeklinde olacaktır</transla
         <location filename="../../../scribus/ui/helpbrowser.ui" line="13"/>
         <location filename="../../../scribus/ui/helpbrowser.ui" line="137"/>
         <source>Scribus Help</source>
-        <translation type="unfinished"/>
+        <translation>Scribus Yardım</translation>
     </message>
     <message>
         <location filename="../../../scribus/ui/helpbrowser.ui" line="53"/>
@@ -8373,12 +8375,12 @@ Dosya adı &apos;belgeadı-sayfano.dosyatipi&apos; şeklinde olacaktır</transla
         <location filename="../../../scribus/ui/helpbrowser.ui" line="70"/>
         <location filename="../../../scribus/ui/helpbrowser.ui" line="86"/>
         <source>1</source>
-        <translation type="unfinished"/>
+        <translation>1</translation>
     </message>
     <message>
         <location filename="../../../scribus/ui/helpbrowser.ui" line="153"/>
         <source>&amp;Exit</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Çıkış</translation>
     </message>
     <message>
         <location filename="../../../scribus/ui/helpbrowser.ui" line="163"/>
@@ -8398,7 +8400,7 @@ Dosya adı &apos;belgeadı-sayfano.dosyatipi&apos; şeklinde olacaktır</transla
     <message>
         <location filename="../../../scribus/helpbrowser.cpp" line="293"/>
         <source>&amp;Quit</source>
-        <translation>Çı&amp;k</translation>
+        <translation>&amp;Çık</translation>
     </message>
     <message>
         <location filename="../../../scribus/helpbrowser.cpp" line="718"/>
@@ -8517,7 +8519,7 @@ Ignore List</source>
         <location filename="../../../scribus/hysettings.cpp" line="91"/>
         <location filename="../../../scribus/hysettings.cpp" line="103"/>
         <source>Ignore List</source>
-        <translation type="unfinished"/>
+        <translation>Yasaklı Listesi</translation>
     </message>
     <message>
         <location filename="../../../scribus/hysettings.cpp" line="91"/>
@@ -8541,7 +8543,7 @@ Ignore List</source>
         <location filename="../../../scribus/hysettings.cpp" line="253"/>
         <location filename="../../../scribus/hysettings.cpp" line="413"/>
         <source>Language</source>
-        <translation type="unfinished"/>
+        <translation>Dil</translation>
     </message>
     <message>
         <location filename="../../../scribus/hysettings.cpp" line="253"/>
@@ -8821,7 +8823,7 @@ converting their vector data into Scribus objects.</source>
     <message>
         <location filename="../../../scribus/plugins/imposition/impositionbase.ui" line="160"/>
         <source>Alt+U</source>
-        <translation>Alt+P</translation>
+        <translation>Alt+U</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/imposition/impositionbase.ui" line="186"/>
@@ -8846,22 +8848,22 @@ converting their vector data into Scribus objects.</source>
     <message>
         <location filename="../../../scribus/plugins/imposition/impositionbase.ui" line="296"/>
         <source>4</source>
-        <translation type="unfinished"/>
+        <translation>4</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/imposition/impositionbase.ui" line="301"/>
         <source>8</source>
-        <translation type="unfinished"/>
+        <translation>8</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/imposition/impositionbase.ui" line="306"/>
         <source>16</source>
-        <translation type="unfinished"/>
+        <translation>16</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/imposition/impositionbase.ui" line="318"/>
         <source>Pages</source>
-        <translation type="unfinished"/>
+        <translation>Sayfalar</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/imposition/impositionbase.ui" line="325"/>
@@ -8899,7 +8901,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/plugins/imposition/impositionbase.ui" line="455"/>
         <source>Size</source>
-        <translation>Ölçü</translation>
+        <translation>Boyut</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/imposition/impositionbase.ui" line="487"/>
@@ -8909,17 +8911,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/plugins/imposition/impositionbase.ui" line="519"/>
         <source>Width</source>
-        <translation>En</translation>
+        <translation>Genişlik</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/imposition/impositionbase.ui" line="564"/>
         <source>Height</source>
-        <translation>Boy</translation>
+        <translation>Yükseklik</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/imposition/impositionbase.ui" line="620"/>
         <source>Preview</source>
-        <translation type="unfinished"/>
+        <translation>Önizleme</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/imposition/impositionbase.ui" line="627"/>
@@ -8934,17 +8936,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/plugins/imposition/impositionbase.ui" line="674"/>
         <source>Alt+G</source>
-        <translation>Alt+D</translation>
+        <translation>Alt+G</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/imposition/impositionbase.ui" line="681"/>
         <source>&amp;Cancel</source>
-        <translation>İp&amp;tal</translation>
+        <translation>&amp;İptal</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/imposition/impositionbase.ui" line="684"/>
         <source>Alt+C</source>
-        <translation>Alt+A</translation>
+        <translation>Alt+C</translation>
     </message>
 </context>
 <context>
@@ -9084,19 +9086,19 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="105"/>
         <source>Current Page</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli Sayfa</translation>
     </message>
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="115"/>
         <source>All Pages</source>
-        <translation>Tüm sayfalar</translation>
+        <translation>Tüm Sayfalar</translation>
     </message>
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="144"/>
         <location filename="../../../scribus/insertaframe.ui" line="568"/>
         <location filename="../../../scribus/insertaframe.ui" line="610"/>
         <source>...</source>
-        <translation type="unfinished"/>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="172"/>
@@ -9121,7 +9123,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="245"/>
         <source>X:</source>
-        <translation type="unfinished"/>
+        <translation>X:</translation>
     </message>
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="238"/>
@@ -9136,7 +9138,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="300"/>
         <source>&amp;Size</source>
-        <translation>Ö&amp;lçü</translation>
+        <translation>&amp;Boyut</translation>
     </message>
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="318"/>
@@ -9161,22 +9163,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="385"/>
         <source>Height:</source>
-        <translation type="unfinished"/>
+        <translation>Yükseklik:</translation>
     </message>
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="392"/>
         <source>Width:</source>
-        <translation>En:</translation>
+        <translation>Genişlik:</translation>
     </message>
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="447"/>
         <source>&amp;Options</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Seçenekler</translation>
     </message>
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="596"/>
         <source>Source Image:</source>
-        <translation type="unfinished"/>
+        <translation>Kaynak Görüntü:</translation>
     </message>
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="636"/>
@@ -9196,7 +9198,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="554"/>
         <source>Source Document:</source>
-        <translation type="unfinished"/>
+        <translation>Kaynak Belge:</translation>
     </message>
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="125"/>
@@ -9211,7 +9213,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="358"/>
         <source>Custom Size</source>
-        <translation type="unfinished"/>
+        <translation>Özel Boyut</translation>
     </message>
     <message>
         <location filename="../../../scribus/insertaframe.cpp" line="133"/>
@@ -9451,7 +9453,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/latexeditor.ui" line="45"/>
         <source>Update</source>
-        <translation type="unfinished"/>
+        <translation>Güncelle</translation>
     </message>
     <message>
         <location filename="../../../scribus/latexeditor.ui" line="52"/>
@@ -9461,12 +9463,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/latexeditor.ui" line="123"/>
         <source>Program Messages:</source>
-        <translation type="unfinished"/>
+        <translation>Program Mesajları:</translation>
     </message>
     <message>
         <location filename="../../../scribus/latexeditor.ui" line="174"/>
         <source>Status: Unknown</source>
-        <translation type="unfinished"/>
+        <translation>Durum: Bilinmiyor</translation>
     </message>
     <message>
         <location filename="../../../scribus/latexeditor.ui" line="158"/>
@@ -9491,12 +9493,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/latexeditor.ui" line="84"/>
         <source> DPI</source>
-        <translation>DPI</translation>
+        <translation> DPI</translation>
     </message>
     <message>
         <location filename="../../../scribus/latexeditor.ui" line="97"/>
         <source>Program:</source>
-        <translation type="unfinished"/>
+        <translation>Program:</translation>
     </message>
     <message>
         <location filename="../../../scribus/latexeditor.ui" line="109"/>
@@ -9506,7 +9508,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/latexeditor.cpp" line="338"/>
         <source>Status: </source>
-        <translation type="unfinished"/>
+        <translation>Durum:</translation>
     </message>
     <message>
         <location filename="../../../scribus/latexeditor.cpp" line="165"/>
@@ -9524,17 +9526,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/latexeditor.cpp" line="347"/>
         <source>Running</source>
-        <translation type="unfinished"/>
+        <translation>Çalışıyor</translation>
     </message>
     <message>
         <location filename="../../../scribus/latexeditor.cpp" line="528"/>
         <source>No item selected!</source>
-        <translation type="unfinished"/>
+        <translation>Seçili öğeyi yok!</translation>
     </message>
     <message>
         <location filename="../../../scribus/latexeditor.ui" line="14"/>
         <source>Editor</source>
-        <translation>Editor</translation>
+        <translation>Editör</translation>
     </message>
     <message>
         <location filename="../../../scribus/latexeditor.cpp" line="122"/>
@@ -9597,7 +9599,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../../../scribus/layers.cpp" line="60"/>
         <location filename="../../../scribus/layers.cpp" line="620"/>
         <source> %</source>
-        <translation> %</translation>
+        <translation>%</translation>
     </message>
     <message>
         <location filename="../../../scribus/layers.cpp" line="296"/>
@@ -9744,7 +9746,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/layers.cpp" line="629"/>
         <source>Add a New Layer</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Katman Ekle</translation>
     </message>
     <message>
         <location filename="../../../scribus/layers.cpp" line="630"/>
@@ -9795,12 +9797,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/plugins/tools/lenseffects/lensdialogbase.ui" line="98"/>
         <source>+</source>
-        <translation type="unfinished"/>
+        <translation>+</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/lenseffects/lensdialogbase.ui" line="108"/>
         <source>-</source>
-        <translation type="unfinished"/>
+        <translation>-</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/lenseffects/lensdialogbase.ui" line="126"/>
@@ -10070,12 +10072,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/margindialog.cpp" line="116"/>
         <source>Other Settings</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Ayarlar</translation>
     </message>
     <message>
         <location filename="../../../scribus/margindialog.cpp" line="121"/>
         <source>Master Page:</source>
-        <translation type="unfinished"/>
+        <translation>Ana Sayfa:</translation>
     </message>
     <message>
         <location filename="../../../scribus/margindialog.cpp" line="175"/>
@@ -10333,7 +10335,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/masterpagepalette.cpp" line="453"/>
         <source>New Name:</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Adı:</translation>
     </message>
     <message>
         <location filename="../../../scribus/masterpagepalette.cpp" line="175"/>
@@ -10356,7 +10358,7 @@ p, li { white-space: pre-wrap; }
     <message utf8="true">
         <location filename="../../../scribus/measurements.cpp" line="50"/>
         <source> °</source>
-        <translation type="unfinished"/>
+        <translation> °</translation>
     </message>
 </context>
 <context>
@@ -10369,7 +10371,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/measurementsbase.ui" line="19"/>
         <source>X1:</source>
-        <translation type="unfinished"/>
+        <translation>X1:</translation>
     </message>
     <message>
         <location filename="../../../scribus/measurementsbase.ui" line="26"/>
@@ -10381,47 +10383,47 @@ p, li { white-space: pre-wrap; }
         <location filename="../../../scribus/measurementsbase.ui" line="128"/>
         <location filename="../../../scribus/measurementsbase.ui" line="145"/>
         <source>10000.0000</source>
-        <translation type="unfinished"/>
+        <translation>10000.0000</translation>
     </message>
     <message>
         <location filename="../../../scribus/measurementsbase.ui" line="36"/>
         <source>Y1:</source>
-        <translation type="unfinished"/>
+        <translation>Y1:</translation>
     </message>
     <message>
         <location filename="../../../scribus/measurementsbase.ui" line="53"/>
         <source>X2:</source>
-        <translation type="unfinished"/>
+        <translation>X2:</translation>
     </message>
     <message>
         <location filename="../../../scribus/measurementsbase.ui" line="70"/>
         <source>Y2:</source>
-        <translation type="unfinished"/>
+        <translation>Y2:</translation>
     </message>
     <message>
         <location filename="../../../scribus/measurementsbase.ui" line="87"/>
         <source>Length:</source>
-        <translation type="unfinished"/>
+        <translation>Uzunluk:</translation>
     </message>
     <message>
         <location filename="../../../scribus/measurementsbase.ui" line="104"/>
         <source>DX:</source>
-        <translation type="unfinished"/>
+        <translation>DX:</translation>
     </message>
     <message>
         <location filename="../../../scribus/measurementsbase.ui" line="121"/>
         <source>DY:</source>
-        <translation type="unfinished"/>
+        <translation>DY:</translation>
     </message>
     <message>
         <location filename="../../../scribus/measurementsbase.ui" line="138"/>
         <source>Angle:</source>
-        <translation type="unfinished"/>
+        <translation>Açı:</translation>
     </message>
     <message>
         <location filename="../../../scribus/measurementsbase.ui" line="155"/>
         <source>Unit:</source>
-        <translation type="unfinished"/>
+        <translation>Birim:</translation>
     </message>
 </context>
 <context>
@@ -10505,7 +10507,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/mergedoc.cpp" line="52"/>
         <source>&amp;Select...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Seçiniz ...</translation>
     </message>
 </context>
 <context>
@@ -10513,12 +10515,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/plugins/tools/2geomtools/meshdistortion/meshdistortiondialog.ui" line="44"/>
         <source>+</source>
-        <translation type="unfinished"/>
+        <translation>+</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/2geomtools/meshdistortion/meshdistortiondialog.ui" line="54"/>
         <source>-</source>
-        <translation type="unfinished"/>
+        <translation>-</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/2geomtools/meshdistortion/meshdistortiondialog.ui" line="13"/>
@@ -10671,7 +10673,7 @@ If no handle is selected all handles will be reset.</source>
     <message>
         <location filename="../../../scribus/multiprogressdialog.ui" line="67"/>
         <source>&amp;Cancel</source>
-        <translation>İp&amp;tal</translation>
+        <translation>&amp;İptal</translation>
     </message>
     <message>
         <location filename="../../../scribus/multiprogressdialog.cpp" line="74"/>
@@ -10726,7 +10728,7 @@ If no handle is selected all handles will be reset.</source>
     <message>
         <location filename="../../../scribus/multipleduplicate.ui" line="104"/>
         <source>Alt+S</source>
-        <translation>Alt+P</translation>
+        <translation>Alt+S</translation>
     </message>
     <message>
         <location filename="../../../scribus/multipleduplicate.ui" line="91"/>
@@ -10736,7 +10738,7 @@ If no handle is selected all handles will be reset.</source>
     <message>
         <location filename="../../../scribus/multipleduplicate.ui" line="94"/>
         <source>Alt+G</source>
-        <translation>Alt+D</translation>
+        <translation>Alt+G</translation>
     </message>
     <message>
         <location filename="../../../scribus/multipleduplicate.ui" line="164"/>
@@ -10776,7 +10778,7 @@ If no handle is selected all handles will be reset.</source>
     <message>
         <location filename="../../../scribus/multipleduplicate.ui" line="427"/>
         <source>&amp;Cancel</source>
-        <translation>İp&amp;tal</translation>
+        <translation>&amp;İptal</translation>
     </message>
 </context>
 <context>
@@ -11207,7 +11209,7 @@ If no handle is selected all handles will be reset.</source>
         <location filename="../../../scribus/plugins/import/oodraw/oodrawimp.cpp" line="467"/>
         <location filename="../../../scribus/plugins/import/oodraw/oodrawimp.cpp" line="617"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>Grup%1</translation>
     </message>
 </context>
 <context>
@@ -11331,32 +11333,32 @@ If no handle is selected all handles will be reset.</source>
     <message>
         <location filename="../../../scribus/oneclick.cpp" line="54"/>
         <source>Size</source>
-        <translation>Ölçü</translation>
+        <translation>Boyut</translation>
     </message>
     <message>
         <location filename="../../../scribus/oneclick.cpp" line="59"/>
         <source>Width:</source>
-        <translation>En:</translation>
+        <translation>Genişlik:</translation>
     </message>
     <message>
         <location filename="../../../scribus/oneclick.cpp" line="61"/>
         <source>Length:</source>
-        <translation type="unfinished"/>
+        <translation>Uzunluk:</translation>
     </message>
     <message>
         <location filename="../../../scribus/oneclick.cpp" line="69"/>
         <source>Height:</source>
-        <translation type="unfinished"/>
+        <translation>Yükseklik:</translation>
     </message>
     <message>
         <location filename="../../../scribus/oneclick.cpp" line="71"/>
         <source>Angle:</source>
-        <translation type="unfinished"/>
+        <translation>Açı:</translation>
     </message>
     <message>
         <location filename="../../../scribus/oneclick.cpp" line="101"/>
         <source>Remember Values</source>
-        <translation type="unfinished"/>
+        <translation>Değerleri hatırla</translation>
     </message>
 </context>
 <context>
@@ -11378,7 +11380,7 @@ If no handle is selected all handles will be reset.</source>
         <location filename="../../../scribus/outlinepalette.cpp" line="816"/>
         <location filename="../../../scribus/outlinepalette.cpp" line="901"/>
         <source>Group </source>
-        <translation type="unfinished"/>
+        <translation>Grup</translation>
     </message>
     <message>
         <location filename="../../../scribus/outlinepalette.cpp" line="776"/>
@@ -11404,13 +11406,13 @@ If no handle is selected all handles will be reset.</source>
         <location filename="../../../scribus/outlinepalette.cpp" line="156"/>
         <location filename="../../../scribus/outlinepalette.cpp" line="934"/>
         <source>Filter:</source>
-        <translation type="unfinished"/>
+        <translation>Filtre:</translation>
     </message>
     <message>
         <location filename="../../../scribus/outlinepalette.cpp" line="155"/>
         <source>Ctrl+F</source>
         <comment>Filter the Outline using a keyword</comment>
-        <translation type="unfinished"/>
+        <translation>Ctrl+F</translation>
     </message>
 </context>
 <context>
@@ -11483,7 +11485,7 @@ If no handle is selected all handles will be reset.</source>
     <message>
         <location filename="../../../scribus/pdfopts.cpp" line="210"/>
         <source>Save As</source>
-        <translation>Farklı kaydet</translation>
+        <translation>Farklı Kaydet</translation>
     </message>
 </context>
 <context>
@@ -11516,7 +11518,7 @@ If no handle is selected all handles will be reset.</source>
     <message>
         <location filename="../../../scribus/pdflib_core.cpp" line="2462"/>
         <source>Date:</source>
-        <translation type="unfinished"/>
+        <translation>Tarih:</translation>
     </message>
     <message>
         <location filename="../../../scribus/pdflib_core.cpp" line="7874"/>
@@ -11549,7 +11551,7 @@ If no handle is selected all handles will be reset.</source>
     <message>
         <location filename="../../../scribus/ui/pdftoolbar.cpp" line="29"/>
         <source>PDF Tools</source>
-        <translation type="unfinished"/>
+        <translation>PDF Araçları</translation>
     </message>
 </context>
 <context>
@@ -11657,7 +11659,7 @@ If no handle is selected all handles will be reset.</source>
     <message>
         <location filename="../../../scribus/preview.cpp" line="313"/>
         <source>Fit to Width</source>
-        <translation type="unfinished"/>
+        <translation>Enine Sığdır</translation>
     </message>
     <message>
         <location filename="../../../scribus/preview.cpp" line="314"/>
@@ -11884,12 +11886,12 @@ If no handle is selected all handles will be reset.</source>
     <message>
         <location filename="../../../scribus/pageitemattributes.ui" line="61"/>
         <source>Alt+A</source>
-        <translation>Alt+P</translation>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <location filename="../../../scribus/pageitemattributes.ui" line="68"/>
         <source>&amp;Copy</source>
-        <translation>K&amp;opyala</translation>
+        <translation>&amp;Kopyala</translation>
     </message>
     <message>
         <location filename="../../../scribus/pageitemattributes.ui" line="71"/>
@@ -11914,7 +11916,7 @@ If no handle is selected all handles will be reset.</source>
     <message>
         <location filename="../../../scribus/pageitemattributes.ui" line="91"/>
         <source>Alt+L</source>
-        <translation>Alt+C</translation>
+        <translation>Alt+L</translation>
     </message>
     <message>
         <location filename="../../../scribus/pageitemattributes.ui" line="114"/>
@@ -11924,12 +11926,12 @@ If no handle is selected all handles will be reset.</source>
     <message>
         <location filename="../../../scribus/pageitemattributes.ui" line="130"/>
         <source>&amp;Cancel</source>
-        <translation>İp&amp;tal</translation>
+        <translation>&amp;İptal</translation>
     </message>
     <message>
         <location filename="../../../scribus/pageitemattributes.ui" line="23"/>
         <source>Name</source>
-        <translation>İsim</translation>
+        <translation>Isim</translation>
     </message>
     <message>
         <location filename="../../../scribus/pageitemattributes.ui" line="28"/>
@@ -11944,7 +11946,7 @@ If no handle is selected all handles will be reset.</source>
     <message>
         <location filename="../../../scribus/pageitemattributes.ui" line="38"/>
         <source>Parameter</source>
-        <translation type="unfinished"/>
+        <translation>Parametre</translation>
     </message>
     <message>
         <location filename="../../../scribus/pageitemattributes.ui" line="43"/>
@@ -11968,7 +11970,7 @@ If no handle is selected all handles will be reset.</source>
         <location filename="../../../scribus/pageitem_imageframe.cpp" line="303"/>
         <location filename="../../../scribus/pageitem_imageframe.cpp" line="484"/>
         <source>Image</source>
-        <translation>Resim</translation>
+        <translation>Görüntü</translation>
     </message>
     <message>
         <location filename="../../../scribus/pageitem_imageframe.cpp" line="92"/>
@@ -11985,7 +11987,7 @@ If no handle is selected all handles will be reset.</source>
         <location filename="../../../scribus/pageitem_imageframe.cpp" line="519"/>
         <location filename="../../../scribus/pageitem_imageframe.cpp" line="521"/>
         <source>File:</source>
-        <translation type="unfinished"/>
+        <translation>Dosya:</translation>
     </message>
     <message>
         <location filename="../../../scribus/pageitem_imageframe.cpp" line="95"/>
@@ -12004,7 +12006,7 @@ If no handle is selected all handles will be reset.</source>
     <message>
         <location filename="../../../scribus/pageitem_imageframe.cpp" line="97"/>
         <source>Size:</source>
-        <translation>Ölçü:</translation>
+        <translation>Boyut:</translation>
     </message>
     <message>
         <location filename="../../../scribus/pageitem_imageframe.cpp" line="98"/>
@@ -12030,7 +12032,7 @@ If no handle is selected all handles will be reset.</source>
         <location filename="../../../scribus/pageitem_imageframe.cpp" line="111"/>
         <location filename="../../../scribus/pageitem_imageframe.cpp" line="508"/>
         <source>Pages:</source>
-        <translation type="unfinished"/>
+        <translation>Sayfalar:</translation>
     </message>
     <message>
         <location filename="../../../scribus/pageitem_imageframe.cpp" line="354"/>
@@ -12103,7 +12105,7 @@ If no handle is selected all handles will be reset.</source>
     <message>
         <location filename="../../../scribus/pageitem_latexframe.cpp" line="583"/>
         <source>Running</source>
-        <translation type="unfinished"/>
+        <translation>Çalışıyor</translation>
     </message>
     <message>
         <location filename="../../../scribus/pageitem_latexframe.cpp" line="420"/>
@@ -12113,7 +12115,7 @@ If no handle is selected all handles will be reset.</source>
     <message>
         <location filename="../../../scribus/pageitem_latexframe.cpp" line="572"/>
         <source>Application</source>
-        <translation type="unfinished"/>
+        <translation>Uygulama</translation>
     </message>
     <message>
         <location filename="../../../scribus/pageitem_latexframe.cpp" line="573"/>
@@ -12526,22 +12528,22 @@ both end points must lie outside of the polygon</source>
     <message utf8="true">
         <location filename="../../../scribus/plugins/tools/2geomtools/pathalongpath/pathdialogbase.ui" line="80"/>
         <source>0°</source>
-        <translation type="unfinished"/>
+        <translation>0°</translation>
     </message>
     <message utf8="true">
         <location filename="../../../scribus/plugins/tools/2geomtools/pathalongpath/pathdialogbase.ui" line="85"/>
         <source>90°</source>
-        <translation type="unfinished"/>
+        <translation>90°</translation>
     </message>
     <message utf8="true">
         <location filename="../../../scribus/plugins/tools/2geomtools/pathalongpath/pathdialogbase.ui" line="90"/>
         <source>180°</source>
-        <translation type="unfinished"/>
+        <translation>180°</translation>
     </message>
     <message utf8="true">
         <location filename="../../../scribus/plugins/tools/2geomtools/pathalongpath/pathdialogbase.ui" line="95"/>
         <source>270°</source>
-        <translation type="unfinished"/>
+        <translation>270°</translation>
     </message>
 </context>
 <context>
@@ -12554,12 +12556,12 @@ both end points must lie outside of the polygon</source>
     <message>
         <location filename="../../../scribus/plugins/tools/pathfinder/pathfinderbase.ui" line="111"/>
         <source>+</source>
-        <translation type="unfinished"/>
+        <translation>+</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/pathfinder/pathfinderbase.ui" line="222"/>
         <source>=</source>
-        <translation type="unfinished"/>
+        <translation>=</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/pathfinder/pathfinderbase.ui" line="304"/>
@@ -12573,7 +12575,7 @@ both end points must lie outside of the polygon</source>
         <location filename="../../../scribus/plugins/tools/pathfinder/pathfinderbase.ui" line="370"/>
         <location filename="../../../scribus/plugins/tools/pathfinder/pathfinderbase.ui" line="387"/>
         <source>...</source>
-        <translation type="unfinished"/>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/pathfinder/pathfinderbase.ui" line="411"/>
@@ -12764,7 +12766,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <message>
         <location filename="../../../scribus/patterndialog.cpp" line="292"/>
         <source>All Files (*)</source>
-        <translation>Tüm dosyalar (*)</translation>
+        <translation>Tüm Dosyalar (*)</translation>
     </message>
     <message>
         <location filename="../../../scribus/patterndialog.cpp" line="306"/>
@@ -12794,7 +12796,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <message>
         <location filename="../../../scribus/patterndialog.ui" line="76"/>
         <source>Remove All</source>
-        <translation type="unfinished"/>
+        <translation>Tümünü Kaldır</translation>
     </message>
     <message>
         <location filename="../../../scribus/patterndialog.ui" line="99"/>
@@ -12804,12 +12806,12 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <message>
         <location filename="../../../scribus/patterndialog.ui" line="106"/>
         <source>Cancel</source>
-        <translation>İptal</translation>
+        <translation>Iptal</translation>
     </message>
     <message>
         <location filename="../../../scribus/patterndialog.cpp" line="85"/>
         <source>&amp;Name:</source>
-        <translation>İ&amp;sim:</translation>
+        <translation>&amp;Adı:</translation>
     </message>
     <message>
         <location filename="../../../scribus/patterndialog.cpp" line="85"/>
@@ -12832,22 +12834,22 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <message>
         <location filename="../../../scribus/plugins/import/pct/importpct.cpp" line="82"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>İçe Aktarılıyor: %1</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/pct/importpct.cpp" line="85"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Analizi:</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/pct/importpct.cpp" line="209"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>Grup%1</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/pct/importpct.cpp" line="368"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Öğeler oluşturuluyor</translation>
     </message>
 </context>
 <context>
@@ -12855,7 +12857,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <message>
         <location filename="../../../scribus/picsearch.cpp" line="108"/>
         <source>Size:</source>
-        <translation>Ölçü:</translation>
+        <translation>Boyut:</translation>
     </message>
     <message>
         <location filename="../../../scribus/picsearch.cpp" line="109"/>
@@ -12880,7 +12882,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <message>
         <location filename="../../../scribus/picsearch.ui" line="14"/>
         <source>Result</source>
-        <translation type="unfinished"/>
+        <translation>Sonuç</translation>
     </message>
     <message>
         <location filename="../../../scribus/picsearch.ui" line="34"/>
@@ -12890,7 +12892,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <message>
         <location filename="../../../scribus/picsearch.ui" line="86"/>
         <source>&amp;Preview</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Önizleme</translation>
     </message>
     <message>
         <location filename="../../../scribus/picsearch.ui" line="89"/>
@@ -12900,17 +12902,17 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <message>
         <location filename="../../../scribus/picsearch.ui" line="115"/>
         <source>&amp;Select</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Seçin</translation>
     </message>
     <message>
         <location filename="../../../scribus/picsearch.ui" line="118"/>
         <source>Alt+S</source>
-        <translation>Alt+P</translation>
+        <translation>Alt+S</translation>
     </message>
     <message>
         <location filename="../../../scribus/picsearch.ui" line="128"/>
         <source>Cancel</source>
-        <translation>İptal</translation>
+        <translation>Iptal</translation>
     </message>
 </context>
 <context>
@@ -12955,7 +12957,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <message>
         <location filename="../../../scribus/picsearchoptions.ui" line="25"/>
         <source>Search for:</source>
-        <translation>Bunu ara:</translation>
+        <translation>Arama:</translation>
     </message>
     <message>
         <location filename="../../../scribus/picsearchoptions.ui" line="38"/>
@@ -12970,7 +12972,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <message>
         <location filename="../../../scribus/picsearchoptions.ui" line="79"/>
         <source>Searching</source>
-        <translation type="unfinished"/>
+        <translation>Aranıyor</translation>
     </message>
     <message>
         <location filename="../../../scribus/picsearchoptions.ui" line="141"/>
@@ -13014,32 +13016,32 @@ Please choose another one.</source>
     <message>
         <location filename="../../../scribus/picstatus.cpp" line="284"/>
         <source>JPG</source>
-        <translation type="unfinished"/>
+        <translation>JPG</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.cpp" line="287"/>
         <source>TIFF</source>
-        <translation type="unfinished"/>
+        <translation>TIFF</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.cpp" line="290"/>
         <source>PSD</source>
-        <translation type="unfinished"/>
+        <translation>PSD</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.cpp" line="293"/>
         <source>EPS/PS</source>
-        <translation type="unfinished"/>
+        <translation>EPS/PS</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.cpp" line="296"/>
         <source>PDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.cpp" line="299"/>
         <source>JPG2000</source>
-        <translation type="unfinished"/>
+        <translation>JPG2000</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.cpp" line="305"/>
@@ -13069,27 +13071,27 @@ Please choose another one.</source>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="198"/>
         <source>Search...</source>
-        <translation type="unfinished"/>
+        <translation>Arama ...</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="105"/>
         <source>Name:</source>
-        <translation>İsim:</translation>
+        <translation>Adı:</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="215"/>
         <source>Image</source>
-        <translation>Resim</translation>
+        <translation>Görüntü</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="288"/>
         <source>DPI:</source>
-        <translation type="unfinished"/>
+        <translation>DPI:</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="221"/>
         <source>Format:</source>
-        <translation>Biçim:</translation>
+        <translation>Biçimi:</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="256"/>
@@ -13099,12 +13101,12 @@ Please choose another one.</source>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="323"/>
         <source>Size</source>
-        <translation>Ölçü</translation>
+        <translation>Boyut</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="329"/>
         <source>Pixels:</source>
-        <translation type="unfinished"/>
+        <translation>Piksel:</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="358"/>
@@ -13129,7 +13131,7 @@ Please choose another one.</source>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="546"/>
         <source>Select</source>
-        <translation type="unfinished"/>
+        <translation>Seçiniz</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="575"/>
@@ -13867,7 +13869,7 @@ Do you want to migrate them to the new Scribus version?</source>
     <message>
         <location filename="../../../scribus/printdialog.cpp" line="377"/>
         <source>Save As</source>
-        <translation>Farklı kaydet</translation>
+        <translation>Farklı Kaydet</translation>
     </message>
 </context>
 <context>
@@ -13885,12 +13887,12 @@ Do you want to migrate them to the new Scribus version?</source>
     <message>
         <location filename="../../../scribus/printdialogbase.ui" line="50"/>
         <source>&amp;Options...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Seçenekler ...</translation>
     </message>
     <message>
         <location filename="../../../scribus/printdialogbase.ui" line="86"/>
         <source>&amp;File:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dosya:</translation>
     </message>
     <message>
         <location filename="../../../scribus/printdialogbase.ui" line="102"/>
@@ -14155,17 +14157,17 @@ vigülle ayırarak (1,4,5 gibi) de verebilirsiniz.</translation>
     <message>
         <location filename="../../../scribus/printdialogbase.ui" line="606"/>
         <source>Preview...</source>
-        <translation type="unfinished"/>
+        <translation>Önizleme ...</translation>
     </message>
     <message>
         <location filename="../../../scribus/printdialogbase.ui" line="616"/>
         <source>&amp;Print</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Baskı</translation>
     </message>
     <message>
         <location filename="../../../scribus/printdialogbase.ui" line="626"/>
         <source>Cancel</source>
-        <translation>İptal</translation>
+        <translation>Iptal</translation>
     </message>
     <message>
         <location filename="../../../scribus/printdialogbase.ui" line="323"/>
@@ -14384,7 +14386,7 @@ Note: PDF Forms will not be exported.</source>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5287"/>
         <source>Darken</source>
-        <translation>Karanlıklaştır</translation>
+        <translation>Koyulaştırma</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5288"/>
@@ -14472,7 +14474,7 @@ Corners:</translation>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5307"/>
         <source>Width:</source>
-        <translation>En:</translation>
+        <translation>Genişlik:</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5310"/>
@@ -15081,7 +15083,7 @@ Corners:</translation>
         <location filename="../../../scribus/propertiespalette.cpp" line="1269"/>
         <location filename="../../../scribus/propertiespalette.cpp" line="3211"/>
         <source>Auto</source>
-        <translation>Otomatik</translation>
+        <translation>Oto</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5318"/>
@@ -15106,7 +15108,7 @@ Corners:</translation>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5324"/>
         <source>Type:</source>
-        <translation>Tip:</translation>
+        <translation>Türü:</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5335"/>
@@ -15133,7 +15135,7 @@ Corners:</translation>
         <location filename="../../../scribus/propertiespalette.cpp" line="5365"/>
         <location filename="../../../scribus/propertiespalette.cpp" line="5368"/>
         <source>Min:</source>
-        <translation type="unfinished"/>
+        <translation>Asgari:</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5366"/>
@@ -15148,7 +15150,7 @@ Corners:</translation>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5369"/>
         <source>Max:</source>
-        <translation type="unfinished"/>
+        <translation>Azami:</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5648"/>
@@ -15205,7 +15207,7 @@ Corners:</translation>
         <location filename="../../../scribus/propertiespalette.cpp" line="5278"/>
         <location filename="../../../scribus/propertiespalette.cpp" line="5279"/>
         <source>&amp;Edit...</source>
-        <translation>&amp;Düzenle...</translation>
+        <translation>&amp;Düzenle ...</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="846"/>
@@ -15235,7 +15237,7 @@ Corners:</translation>
         <location filename="../../../scribus/propertiespalette.cpp" line="1022"/>
         <location filename="../../../scribus/propertiespalette.cpp" line="5371"/>
         <source>Advanced Settings</source>
-        <translation type="unfinished"/>
+        <translation>Gelişmiş Ayarlar</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="829"/>
@@ -15276,7 +15278,7 @@ Corners:</translation>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5379"/>
         <source>&amp;Page Number:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sayfa Numarası:</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="902"/>
@@ -15433,7 +15435,7 @@ Corners:</translation>
         <location filename="../../../scribus/plugins/scriptplugin/pconsole.cpp" line="185"/>
         <location filename="../../../scribus/plugins/scriptplugin/pconsole.cpp" line="227"/>
         <source>Python Scripts (*.py *.PY)</source>
-        <translation type="unfinished"/>
+        <translation>Python Script (*. py *. PY)</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/pconsole.cpp" line="183"/>
@@ -15463,17 +15465,17 @@ Corners:</translation>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/pconsole.cpp" line="45"/>
         <source>Ctrl+O</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+O</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/pconsole.cpp" line="46"/>
         <source>Ctrl+S</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+S</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/pconsole.ui" line="108"/>
         <source>&amp;Quit</source>
-        <translation>Çı&amp;k</translation>
+        <translation>&amp;Çıkış</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/pconsole.cpp" line="62"/>
@@ -16057,7 +16059,7 @@ Dizin ve dosya adını kontrol edin.</translation>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="61"/>
         <source>Arabic</source>
-        <translation type="unfinished"/>
+        <translation>Arapça</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="139"/>
@@ -16179,7 +16181,7 @@ Dizin ve dosya adını kontrol edin.</translation>
         <location filename="../../../scribus/langmgr.cpp" line="104"/>
         <location filename="../../../scribus/langmgr.cpp" line="113"/>
         <source>Latin</source>
-        <translation type="unfinished"/>
+        <translation>Latince</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="106"/>
@@ -16200,7 +16202,7 @@ Dizin ve dosya adını kontrol edin.</translation>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="109"/>
         <source>Japanese</source>
-        <translation type="unfinished"/>
+        <translation>Japonca</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="111"/>
@@ -16483,32 +16485,32 @@ Dizin ve dosya adını kontrol edin.</translation>
     <message>
         <location filename="../../../scribus/pagesize.cpp" line="203"/>
         <source>STMT</source>
-        <translation type="unfinished"/>
+        <translation>STMT</translation>
     </message>
     <message>
         <location filename="../../../scribus/pagesize.cpp" line="203"/>
         <source>A</source>
-        <translation type="unfinished"/>
+        <translation>A</translation>
     </message>
     <message>
         <location filename="../../../scribus/pagesize.cpp" line="203"/>
         <source>B</source>
-        <translation type="unfinished"/>
+        <translation>B</translation>
     </message>
     <message>
         <location filename="../../../scribus/pagesize.cpp" line="203"/>
         <source>C</source>
-        <translation type="unfinished"/>
+        <translation>C</translation>
     </message>
     <message>
         <location filename="../../../scribus/pagesize.cpp" line="204"/>
         <source>D</source>
-        <translation type="unfinished"/>
+        <translation>D</translation>
     </message>
     <message>
         <location filename="../../../scribus/pagesize.cpp" line="204"/>
         <source>E</source>
-        <translation type="unfinished"/>
+        <translation>E</translation>
     </message>
     <message>
         <location filename="../../../scribus/pagesize.cpp" line="220"/>
@@ -16900,7 +16902,7 @@ Dizin ve dosya adını kontrol edin.</translation>
     <message>
         <location filename="../../../scribus/styles/charstyle.cpp" line="183"/>
         <source>size %1 </source>
-        <translation type="unfinished"/>
+        <translation>boyut %1</translation>
     </message>
     <message>
         <location filename="../../../scribus/styles/charstyle.cpp" line="185"/>
@@ -16910,7 +16912,7 @@ Dizin ve dosya adını kontrol edin.</translation>
     <message>
         <location filename="../../../scribus/styles/charstyle.cpp" line="187"/>
         <source>+color </source>
-        <translation type="unfinished"/>
+        <translation>+renk</translation>
     </message>
     <message>
         <location filename="../../../scribus/styles/charstyle.cpp" line="189"/>
@@ -18077,17 +18079,17 @@ Dışarı Link</translation>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="82"/>
         <source>English (Australian)</source>
-        <translation type="unfinished"/>
+        <translation>İngilizce (Avustralya)</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="77"/>
         <source>German (Swiss)</source>
-        <translation type="unfinished"/>
+        <translation>Almanca (İsviçre)</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="100"/>
         <source>Hebrew</source>
-        <translation type="unfinished"/>
+        <translation>İbranice</translation>
     </message>
     <message>
         <location filename="../../../scribus/fonts/scface_ps.cpp" line="99"/>
@@ -18114,7 +18116,7 @@ Dışarı Link</translation>
     <message>
         <location filename="../../../scribus/units.cpp" line="164"/>
         <source>%</source>
-        <translation> %</translation>
+        <translation>%</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="110"/>
@@ -18150,7 +18152,7 @@ Dışarı Link</translation>
         <location filename="../../../scribus/sclayer.cpp" line="16"/>
         <location filename="../../../scribus/sclayer.cpp" line="388"/>
         <source>New Layer</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Katman</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/ai/importaiplugin.cpp" line="71"/>
@@ -18186,12 +18188,12 @@ Dışarı Link</translation>
     <message>
         <location filename="../../../scribus/util_formats.cpp" line="38"/>
         <source>GIF</source>
-        <translation type="unfinished"/>
+        <translation>GIF</translation>
     </message>
     <message>
         <location filename="../../../scribus/util_formats.cpp" line="39"/>
         <source>JPEG</source>
-        <translation type="unfinished"/>
+        <translation>JPEG</translation>
     </message>
     <message>
         <location filename="../../../scribus/util_formats.cpp" line="40"/>
@@ -18201,12 +18203,12 @@ Dışarı Link</translation>
     <message>
         <location filename="../../../scribus/util_formats.cpp" line="41"/>
         <source>PDF Document</source>
-        <translation type="unfinished"/>
+        <translation>PDF Belge</translation>
     </message>
     <message>
         <location filename="../../../scribus/util_formats.cpp" line="42"/>
         <source>PNG</source>
-        <translation type="unfinished"/>
+        <translation>PNG</translation>
     </message>
     <message>
         <location filename="../../../scribus/util_formats.cpp" line="43"/>
@@ -18216,17 +18218,17 @@ Dışarı Link</translation>
     <message>
         <location filename="../../../scribus/util_formats.cpp" line="44"/>
         <source>Adobe Photoshop</source>
-        <translation type="unfinished"/>
+        <translation>Adobe Photoshop</translation>
     </message>
     <message>
         <location filename="../../../scribus/util_formats.cpp" line="45"/>
         <source>TIFF</source>
-        <translation type="unfinished"/>
+        <translation>TIFF</translation>
     </message>
     <message>
         <location filename="../../../scribus/util_formats.cpp" line="46"/>
         <source>XPM</source>
-        <translation type="unfinished"/>
+        <translation>XPM</translation>
     </message>
     <message>
         <location filename="../../../scribus/util_formats.cpp" line="47"/>
@@ -18241,7 +18243,7 @@ Dışarı Link</translation>
     <message>
         <location filename="../../../scribus/util_formats.cpp" line="49"/>
         <source>Adobe Illustrator</source>
-        <translation type="unfinished"/>
+        <translation>Adobe Illustrator</translation>
     </message>
     <message>
         <location filename="../../../scribus/util_formats.cpp" line="51"/>
@@ -18251,7 +18253,7 @@ Dışarı Link</translation>
     <message>
         <location filename="../../../scribus/util_formats.cpp" line="53"/>
         <source>BMP</source>
-        <translation type="unfinished"/>
+        <translation>BMP</translation>
     </message>
     <message>
         <location filename="../../../scribus/util_formats.cpp" line="52"/>
@@ -18392,7 +18394,7 @@ Dışarı Link</translation>
         <location filename="../../../scribus/units.cpp" line="163"/>
         <source>°</source>
         <comment>degrees, unicode 0xB0</comment>
-        <translation type="unfinished"/>
+        <translation>°</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/cmdtext.cpp" line="152"/>
@@ -18443,7 +18445,7 @@ Therefore the image may be not correct</source>
     <message>
         <location filename="../../../scribus/scprintengine_gdi.cpp" line="109"/>
         <source>Save As</source>
-        <translation>Farklı kaydet</translation>
+        <translation>Farklı Kaydet</translation>
     </message>
     <message>
         <location filename="../../../scribus/scprintengine_gdi.cpp" line="258"/>
@@ -18893,7 +18895,7 @@ Please choose another.</source>
         <location filename="../../../scribus/smalignselect.cpp" line="20"/>
         <source>P</source>
         <comment>P as in Parent</comment>
-        <translation>p</translation>
+        <translation>P</translation>
     </message>
     <message>
         <location filename="../../../scribus/smalignselect.cpp" line="21"/>
@@ -18911,7 +18913,7 @@ Please choose another.</source>
     <message>
         <location filename="../../../scribus/smcstylewidget.cpp" line="91"/>
         <source>Language</source>
-        <translation type="unfinished"/>
+        <translation>Dil</translation>
     </message>
     <message>
         <location filename="../../../scribus/smcstylewidget.ui" line="24"/>
@@ -18923,7 +18925,7 @@ Please choose another.</source>
         <location filename="../../../scribus/smcstylewidget.ui" line="342"/>
         <location filename="../../../scribus/smcstylewidget.cpp" line="113"/>
         <source>Language:</source>
-        <translation type="unfinished"/>
+        <translation>Dil:</translation>
     </message>
     <message>
         <location filename="../../../scribus/smcstylewidget.cpp" line="466"/>
@@ -18979,7 +18981,7 @@ Please choose another.</source>
     <message>
         <location filename="../../../scribus/smcstylewidget.cpp" line="85"/>
         <source>Font Size</source>
-        <translation>Yazıtipi Ölçüsü</translation>
+        <translation>Yazı Tipi Boyutu</translation>
     </message>
     <message>
         <location filename="../../../scribus/smcstylewidget.cpp" line="88"/>
@@ -19038,17 +19040,17 @@ Please choose another.</source>
     <message>
         <location filename="../../../scribus/smtextstyles.cpp" line="1450"/>
         <source>Character Styles</source>
-        <translation type="unfinished"/>
+        <translation>Karakter Stilleri</translation>
     </message>
     <message>
         <location filename="../../../scribus/smtextstyles.cpp" line="1455"/>
         <source>Character Style</source>
-        <translation type="unfinished"/>
+        <translation>Karakter Stili</translation>
     </message>
     <message>
         <location filename="../../../scribus/smtextstyles.cpp" line="1595"/>
         <source>New Style</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Stil</translation>
     </message>
     <message>
         <location filename="../../../scribus/smtextstyles.cpp" line="1617"/>
@@ -19059,7 +19061,7 @@ Please choose another.</source>
         <location filename="../../../scribus/smtextstyles.cpp" line="1641"/>
         <source>%1 (%2)</source>
         <comment>This for unique name when creating a new character style. %1 will be the name of the style and %2 will be a number forming a style name like: New Style (2)</comment>
-        <translation type="unfinished"/>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <location filename="../../../scribus/smtextstyles.cpp" line="2320"/>
@@ -19103,7 +19105,7 @@ Please choose another.</source>
     <message>
         <location filename="../../../scribus/smlinestyle.cpp" line="189"/>
         <source>New Style</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Stil</translation>
     </message>
     <message>
         <location filename="../../../scribus/smlinestyle.cpp" line="199"/>
@@ -19114,7 +19116,7 @@ Please choose another.</source>
         <location filename="../../../scribus/smlinestyle.cpp" line="212"/>
         <source>%1 (%2)</source>
         <comment>This for unique name when creating a new character style. %1 will be the name of the style and %2 will be a number forming a style name like: New Style (2)</comment>
-        <translation type="unfinished"/>
+        <translation>%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -19192,7 +19194,7 @@ Please choose another.</source>
     <message>
         <location filename="../../../scribus/smlinestylewidget.ui" line="238"/>
         <source>%</source>
-        <translation> %</translation>
+        <translation>%</translation>
     </message>
     <message>
         <location filename="../../../scribus/smlinestylewidget.ui" line="260"/>
@@ -19253,7 +19255,7 @@ Please choose another.</source>
     <message>
         <location filename="../../../scribus/smpstylewidget.cpp" line="140"/>
         <source>Character Style</source>
-        <translation type="unfinished"/>
+        <translation>Karakter Stili</translation>
     </message>
     <message>
         <location filename="../../../scribus/smpstylewidget.ui" line="263"/>
@@ -19423,7 +19425,7 @@ Expressed as a percentage of the current white space value.</source>
         <location filename="../../../scribus/smpstylewidget.ui" line="441"/>
         <location filename="../../../scribus/smpstylewidget.cpp" line="142"/>
         <source>Advanced Settings</source>
-        <translation type="unfinished"/>
+        <translation>Gelişmiş Ayarlar</translation>
     </message>
     <message>
         <location filename="../../../scribus/smpstylewidget.cpp" line="144"/>
@@ -19434,13 +19436,13 @@ Expressed as a percentage of the current white space value.</source>
         <location filename="../../../scribus/smpstylewidget.cpp" line="145"/>
         <source>Min:</source>
         <comment>Glyph Extension</comment>
-        <translation type="unfinished"/>
+        <translation>Asgari:</translation>
     </message>
     <message>
         <location filename="../../../scribus/smpstylewidget.cpp" line="146"/>
         <source>Max:</source>
         <comment>Glyph Extension</comment>
-        <translation type="unfinished"/>
+        <translation>Azami:</translation>
     </message>
     <message>
         <location filename="../../../scribus/smpstylewidget.ui" line="392"/>
@@ -19468,17 +19470,17 @@ Expressed as a percentage of the current white space value.</source>
     <message>
         <location filename="../../../scribus/smtextstyles.cpp" line="56"/>
         <source>Paragraph Styles</source>
-        <translation type="unfinished"/>
+        <translation>Paragraf Stilleri</translation>
     </message>
     <message>
         <location filename="../../../scribus/smtextstyles.cpp" line="61"/>
         <source>Paragraph Style</source>
-        <translation type="unfinished"/>
+        <translation>Paragraf Stili</translation>
     </message>
     <message>
         <location filename="../../../scribus/smtextstyles.cpp" line="228"/>
         <source>New Style</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Stil</translation>
     </message>
     <message>
         <location filename="../../../scribus/smtextstyles.cpp" line="250"/>
@@ -19489,7 +19491,7 @@ Expressed as a percentage of the current white space value.</source>
         <location filename="../../../scribus/smtextstyles.cpp" line="275"/>
         <source>%1 (%2)</source>
         <comment>This for unique name when creating a new character style. %1 will be the name of the style and %2 will be a number forming a style name like: New Style (2)</comment>
-        <translation type="unfinished"/>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <location filename="../../../scribus/smtextstyles.cpp" line="1390"/>
@@ -19512,7 +19514,7 @@ Expressed as a percentage of the current white space value.</source>
     <message>
         <location filename="../../../scribus/smreplacedia.ui" line="13"/>
         <source>Delete Styles</source>
-        <translation type="unfinished"/>
+        <translation>Stilleri Sil</translation>
     </message>
     <message>
         <location filename="../../../scribus/smreplacedia.ui" line="65"/>
@@ -19527,7 +19529,7 @@ Expressed as a percentage of the current white space value.</source>
     <message>
         <location filename="../../../scribus/smreplacedia.ui" line="84"/>
         <source>Alt+N</source>
-        <translation>Alt+A</translation>
+        <translation>Alt+N</translation>
     </message>
 </context>
 <context>
@@ -19562,12 +19564,12 @@ Expressed as a percentage of the current white space value.</source>
     <message>
         <location filename="../../../scribus/smstyleimport.cpp" line="22"/>
         <source>Character Styles</source>
-        <translation type="unfinished"/>
+        <translation>Karakter Stilleri</translation>
     </message>
     <message>
         <location filename="../../../scribus/smstyleimport.cpp" line="34"/>
         <source>Paragraph Styles</source>
-        <translation type="unfinished"/>
+        <translation>Paragraf Stilleri</translation>
     </message>
     <message>
         <location filename="../../../scribus/smstyleimport.cpp" line="46"/>
@@ -19611,7 +19613,7 @@ Expressed as a percentage of the current white space value.</source>
         <location filename="../../../scribus/smstyleselect.cpp" line="20"/>
         <source>P</source>
         <comment>P as in Parent</comment>
-        <translation>p</translation>
+        <translation>P</translation>
     </message>
     <message>
         <location filename="../../../scribus/smstyleselect.cpp" line="21"/>
@@ -19797,7 +19799,7 @@ bilgilerini Scribus nesnesine dönüştürür.</translation>
         <location filename="../../../scribus/plugins/import/svg/svgplugin.cpp" line="407"/>
         <location filename="../../../scribus/plugins/import/svg/svgplugin.cpp" line="1019"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>Grup%1</translation>
     </message>
 </context>
 <context>
@@ -19863,7 +19865,7 @@ bilgilerini Scribus nesnesine dönüştürür.</translation>
     <message>
         <location filename="../../../scribus/plugins/short-words/swdialog.ui" line="65"/>
         <source>&amp;Languages:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Diller:</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/short-words/swdialog.ui" line="26"/>
@@ -19883,7 +19885,7 @@ bilgilerini Scribus nesnesine dönüştürür.</translation>
     <message>
         <location filename="../../../scribus/plugins/short-words/swdialog.ui" line="50"/>
         <source>Language Settings</source>
-        <translation type="unfinished"/>
+        <translation>Dil Ayarları</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/short-words/swdialog.ui" line="56"/>
@@ -20016,7 +20018,7 @@ bilgilerini Scribus nesnesine dönüştürür.</translation>
     <message>
         <location filename="../../../scribus/scinputdialog.cpp" line="84"/>
         <source>&amp;Cancel</source>
-        <translation>İp&amp;tal</translation>
+        <translation>&amp;İptal</translation>
     </message>
 </context>
 <context>
@@ -20269,7 +20271,7 @@ Rotation: %4</source>
     <message>
         <location filename="../../../scribus/scribusdoc.cpp" line="10615"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>Grup%1</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusdoc.cpp" line="2896"/>
@@ -20360,7 +20362,7 @@ Rotation: %4</source>
     <message>
         <location filename="../../../scribus/scribus.cpp" line="799"/>
         <source>&amp;Character</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Karakter</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribus.cpp" line="817"/>
@@ -20698,7 +20700,7 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
     <message>
         <location filename="../../../scribus/scribus.cpp" line="284"/>
         <source>Scribus </source>
-        <translation type="unfinished"/>
+        <translation>Scribus </translation>
     </message>
     <message>
         <location filename="../../../scribus/scribus.cpp" line="963"/>
@@ -21008,7 +21010,7 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
     <message>
         <location filename="../../../scribus/scribusview.cpp" line="3697"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>Grup%1</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusview.cpp" line="4004"/>
@@ -21023,7 +21025,7 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
     <message>
         <location filename="../../../scribus/scribusview.cpp" line="418"/>
         <source>Preview Mode</source>
-        <translation type="unfinished"/>
+        <translation>Önizleme Modu</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusview.cpp" line="419"/>
@@ -21244,7 +21246,7 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/scripterprefsgui.ui" line="164"/>
         <source>Comments:</source>
-        <translation type="unfinished"/>
+        <translation>Yorumlar:</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/scripterprefsgui.ui" line="171"/>
@@ -21269,7 +21271,7 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/scripterprefsgui.ui" line="199"/>
         <source>Errors:</source>
-        <translation type="unfinished"/>
+        <translation>Hatalar:</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/scripterprefsgui.ui" line="206"/>
@@ -21300,7 +21302,7 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
     <message>
         <location filename="../../../scribus/pagepalette.cpp" line="393"/>
         <source>Delete Page?</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa Sil?</translation>
     </message>
     <message>
         <location filename="../../../scribus/pagepalette.cpp" line="394"/>
@@ -21589,45 +21591,45 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
         <location filename="../../../scribus/shortcutwidget.cpp" line="69"/>
         <location filename="../../../scribus/shortcutwidget.cpp" line="116"/>
         <source>Alt</source>
-        <translation type="unfinished"/>
+        <translation>Alt</translation>
     </message>
     <message>
         <location filename="../../../scribus/shortcutwidget.cpp" line="69"/>
         <location filename="../../../scribus/shortcutwidget.cpp" line="116"/>
         <source>Ctrl</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl</translation>
     </message>
     <message>
         <location filename="../../../scribus/shortcutwidget.cpp" line="69"/>
         <location filename="../../../scribus/shortcutwidget.cpp" line="116"/>
         <source>Shift</source>
-        <translation type="unfinished"/>
+        <translation>Shift</translation>
     </message>
     <message>
         <location filename="../../../scribus/shortcutwidget.cpp" line="69"/>
         <location filename="../../../scribus/shortcutwidget.cpp" line="116"/>
         <source>Meta</source>
-        <translation type="unfinished"/>
+        <translation>Meta</translation>
     </message>
     <message>
         <location filename="../../../scribus/shortcutwidget.cpp" line="77"/>
         <source>Meta+</source>
-        <translation type="unfinished"/>
+        <translation>Meta+</translation>
     </message>
     <message>
         <location filename="../../../scribus/shortcutwidget.cpp" line="81"/>
         <source>Shift+</source>
-        <translation type="unfinished"/>
+        <translation>Shift+</translation>
     </message>
     <message>
         <location filename="../../../scribus/shortcutwidget.cpp" line="85"/>
         <source>Alt+</source>
-        <translation type="unfinished"/>
+        <translation>Alt+</translation>
     </message>
     <message>
         <location filename="../../../scribus/shortcutwidget.cpp" line="89"/>
         <source>Ctrl+</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+</translation>
     </message>
     <message>
         <location filename="../../../scribus/shortcutwidget.cpp" line="45"/>
@@ -21908,7 +21910,7 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
         <location filename="../../../scribus/stylemanager.ui" line="244"/>
         <location filename="../../../scribus/stylemanager.cpp" line="122"/>
         <source>Name:</source>
-        <translation>İsim:</translation>
+        <translation>Adı:</translation>
     </message>
     <message>
         <location filename="../../../scribus/stylemanager.ui" line="385"/>
@@ -21929,7 +21931,7 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
         <location filename="../../../scribus/stylemanager.ui" line="110"/>
         <location filename="../../../scribus/stylemanager.cpp" line="128"/>
         <source>&amp;New</source>
-        <translation>Y&amp;eni</translation>
+        <translation>&amp;Yeni</translation>
     </message>
     <message>
         <location filename="../../../scribus/stylemanager.ui" line="157"/>
@@ -21998,7 +22000,7 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
     <message>
         <location filename="../../../scribus/stylemanager.cpp" line="165"/>
         <source>Clone</source>
-        <translation type="unfinished"/>
+        <translation>Klon</translation>
     </message>
     <message>
         <location filename="../../../scribus/stylemanager.cpp" line="168"/>
@@ -22009,7 +22011,7 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
         <location filename="../../../scribus/stylemanager.cpp" line="126"/>
         <location filename="../../../scribus/stylemanager.cpp" line="763"/>
         <source>&amp;Edit</source>
-        <translation>Düzen&amp;le</translation>
+        <translation>&amp;Düzenle</translation>
     </message>
     <message>
         <location filename="../../../scribus/stylemanager.cpp" line="125"/>
@@ -22020,12 +22022,12 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
         <location filename="../../../scribus/stylemanager.ui" line="54"/>
         <location filename="../../../scribus/stylemanager.cpp" line="991"/>
         <source>Shortcut</source>
-        <translation type="unfinished"/>
+        <translation>Kısayol</translation>
     </message>
     <message>
         <location filename="../../../scribus/stylemanager.ui" line="49"/>
         <source>Name</source>
-        <translation>İsim</translation>
+        <translation>Isim</translation>
     </message>
     <message>
         <location filename="../../../scribus/stylemanager.cpp" line="108"/>
@@ -22040,13 +22042,13 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
     <message>
         <location filename="../../../scribus/stylemanager.cpp" line="164"/>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Düzenle</translation>
     </message>
     <message>
         <location filename="../../../scribus/stylemanager.cpp" line="594"/>
         <location filename="../../../scribus/stylemanager.cpp" line="628"/>
         <source>New %1</source>
-        <translation type="unfinished"/>
+        <translation>Yeni %1</translation>
     </message>
     <message>
         <location filename="../../../scribus/stylemanager.cpp" line="1065"/>
@@ -22071,7 +22073,7 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
     <message>
         <location filename="../../../scribus/stylemanager.ui" line="113"/>
         <source>Alt+N</source>
-        <translation>Alt+A</translation>
+        <translation>Alt+N</translation>
     </message>
     <message>
         <location filename="../../../scribus/stylemanager.ui" line="138"/>
@@ -22086,7 +22088,7 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
     <message>
         <location filename="../../../scribus/stylemanager.ui" line="160"/>
         <source>Alt+I</source>
-        <translation>Alt+A</translation>
+        <translation>Alt+I</translation>
     </message>
     <message>
         <location filename="../../../scribus/stylemanager.ui" line="176"/>
@@ -22112,13 +22114,13 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
     <message>
         <location filename="../../../scribus/stylemanager.ui" line="388"/>
         <source>Alt+R</source>
-        <translation>Alt+A</translation>
+        <translation>Alt+R</translation>
     </message>
     <message>
         <location filename="../../../scribus/stylemanager.ui" line="23"/>
         <location filename="../../../scribus/stylemanager.cpp" line="99"/>
         <source>Style Manager</source>
-        <translation type="unfinished"/>
+        <translation>Stil Yöneticisi</translation>
     </message>
 </context>
 <context>
@@ -22614,12 +22616,12 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
     <message>
         <location filename="../../../scribus/tabdisplay.ui" line="103"/>
         <source>Alt+U</source>
-        <translation>Alt+P</translation>
+        <translation>Alt+U</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabdisplay.ui" line="90"/>
         <source>Show Layer Indicators</source>
-        <translation type="unfinished"/>
+        <translation>Katman Göstergelerini Göster</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabdisplay.ui" line="80"/>
@@ -22634,7 +22636,7 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
     <message>
         <location filename="../../../scribus/tabdisplay.ui" line="63"/>
         <source>Rulers Relative to Page</source>
-        <translation type="unfinished"/>
+        <translation>Sayfaya Oranlı Cetveller</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabdisplay.ui" line="56"/>
@@ -22649,7 +22651,7 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
     <message>
         <location filename="../../../scribus/tabdisplay.ui" line="389"/>
         <source>Pages:</source>
-        <translation type="unfinished"/>
+        <translation>Sayfalar:</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabdisplay.ui" line="409"/>
@@ -22694,12 +22696,12 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
     <message>
         <location filename="../../../scribus/tabdisplay.ui" line="734"/>
         <source>Normal:</source>
-        <translation type="unfinished"/>
+        <translation>Normal:</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabdisplay.ui" line="749"/>
         <source>Text:</source>
-        <translation type="unfinished"/>
+        <translation>Metin:</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabdisplay.ui" line="796"/>
@@ -22744,12 +22746,12 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
     <message>
         <location filename="../../../scribus/tabdocument.cpp" line="56"/>
         <source>Page Size</source>
-        <translation>Sayfa Ölçüleri</translation>
+        <translation>Sayfa Boyutu</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabdocument.cpp" line="81"/>
         <source>&amp;Size:</source>
-        <translation>Ö&amp;lçü:</translation>
+        <translation>&amp;Boyut:</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabdocument.cpp" line="87"/>
@@ -22774,12 +22776,12 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
     <message>
         <location filename="../../../scribus/tabdocument.cpp" line="109"/>
         <source>&amp;Width:</source>
-        <translation>E&amp;n:</translation>
+        <translation>&amp;Genişlik:</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabdocument.cpp" line="116"/>
         <source>&amp;Height:</source>
-        <translation>&amp;Boy:</translation>
+        <translation>&amp;Yükseklik:</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabdocument.cpp" line="125"/>
@@ -22907,7 +22909,7 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
     <message>
         <location filename="../../../scribus/tabexternaltoolswidget.ui" line="210"/>
         <source>Web Browser</source>
-        <translation type="unfinished"/>
+        <translation>Web Tarayıcı</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabexternaltoolswidget.ui" line="53"/>
@@ -22964,7 +22966,7 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
     <message>
         <location filename="../../../scribus/tabexternaltoolswidget.ui" line="79"/>
         <source>Alt+T</source>
-        <translation type="unfinished"/>
+        <translation>Alt+T</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabexternaltoolswidget.ui" line="102"/>
@@ -22979,7 +22981,7 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
     <message>
         <location filename="../../../scribus/tabexternaltoolswidget.ui" line="108"/>
         <source>Alt+G</source>
-        <translation>Alt+D</translation>
+        <translation>Alt+G</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabexternaltoolswidget.ui" line="131"/>
@@ -23016,7 +23018,7 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
     <message>
         <location filename="../../../scribus/tabexternaltoolswidget.ui" line="495"/>
         <source>Alt+R</source>
-        <translation>Alt+A</translation>
+        <translation>Alt+R</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabexternaltoolswidget.ui" line="372"/>
@@ -23081,12 +23083,12 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
     <message>
         <location filename="../../../scribus/tabexternaltoolswidget.ui" line="338"/>
         <source>External Editor:</source>
-        <translation type="unfinished"/>
+        <translation>Harici Editör:</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabexternaltoolswidget.ui" line="300"/>
         <source>Add...</source>
-        <translation type="unfinished"/>
+        <translation>Ekle ...</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabexternaltoolswidget.cpp" line="271"/>
@@ -23101,7 +23103,7 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
     <message>
         <location filename="../../../scribus/tabexternaltoolswidget.cpp" line="287"/>
         <source>Command: </source>
-        <translation type="unfinished"/>
+        <translation>Komut:</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabexternaltoolswidget.ui" line="327"/>
@@ -23228,7 +23230,7 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
     <message>
         <location filename="../../../scribus/tabgeneral.ui" line="59"/>
         <source>&amp;Theme:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tema:</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabgeneral.ui" line="27"/>
@@ -23258,7 +23260,7 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
     <message>
         <location filename="../../../scribus/tabgeneral.ui" line="299"/>
         <source>Alt+H</source>
-        <translation>Alt+A</translation>
+        <translation>Alt+H</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabgeneral.ui" line="306"/>
@@ -23273,7 +23275,7 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
     <message>
         <location filename="../../../scribus/tabgeneral.ui" line="332"/>
         <source>Alt+N</source>
-        <translation>Alt+A</translation>
+        <translation>Alt+N</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabgeneral.ui" line="339"/>
@@ -23283,7 +23285,7 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
     <message>
         <location filename="../../../scribus/tabgeneral.ui" line="352"/>
         <source>&amp;Documents:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Belgeler:</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabgeneral.ui" line="365"/>
@@ -23491,7 +23493,7 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
     <message>
         <location filename="../../../scribus/tabguides.cpp" line="271"/>
         <source>px</source>
-        <translation type="unfinished"/>
+        <translation>px</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabguides.cpp" line="223"/>
@@ -23510,45 +23512,45 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
         <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="497"/>
         <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="557"/>
         <source>Alt</source>
-        <translation type="unfinished"/>
+        <translation>Alt</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="497"/>
         <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="557"/>
         <source>Ctrl</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="497"/>
         <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="557"/>
         <source>Shift</source>
-        <translation type="unfinished"/>
+        <translation>Shift</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="497"/>
         <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="557"/>
         <source>Meta</source>
-        <translation type="unfinished"/>
+        <translation>Meta</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="504"/>
         <source>Meta+</source>
-        <translation type="unfinished"/>
+        <translation>Meta+</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="508"/>
         <source>Shift+</source>
-        <translation type="unfinished"/>
+        <translation>Shift+</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="512"/>
         <source>Alt+</source>
-        <translation type="unfinished"/>
+        <translation>Alt+</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="516"/>
         <source>Ctrl+</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="526"/>
@@ -23563,17 +23565,17 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
     <message>
         <location filename="../../../scribus/tabkeyboardshortcutswidget.ui" line="26"/>
         <source>Action</source>
-        <translation>İşlem</translation>
+        <translation>Eylem</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabkeyboardshortcutswidget.ui" line="31"/>
         <source>Shortcut</source>
-        <translation type="unfinished"/>
+        <translation>Kısayol</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabkeyboardshortcutswidget.ui" line="54"/>
         <source>Search:</source>
-        <translation type="unfinished"/>
+        <translation>Arama:</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabkeyboardshortcutswidget.ui" line="69"/>
@@ -23583,7 +23585,7 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
     <message>
         <location filename="../../../scribus/tabkeyboardshortcutswidget.ui" line="87"/>
         <source>CTRL+ALT+SHIFT+W</source>
-        <translation type="unfinished"/>
+        <translation>CTRL+ALT+SHIFT+W</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabkeyboardshortcutswidget.ui" line="100"/>
@@ -23593,7 +23595,7 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
     <message>
         <location filename="../../../scribus/tabkeyboardshortcutswidget.ui" line="103"/>
         <source>Alt+K</source>
-        <translation>Alt+D</translation>
+        <translation>Alt+K</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabkeyboardshortcutswidget.ui" line="129"/>
@@ -23603,7 +23605,7 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
     <message>
         <location filename="../../../scribus/tabkeyboardshortcutswidget.ui" line="132"/>
         <source>Alt+U</source>
-        <translation>Alt+P</translation>
+        <translation>Alt+U</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabkeyboardshortcutswidget.ui" line="139"/>
@@ -23613,7 +23615,7 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
     <message>
         <location filename="../../../scribus/tabkeyboardshortcutswidget.ui" line="142"/>
         <source>Alt+N</source>
-        <translation>Alt+A</translation>
+        <translation>Alt+N</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabkeyboardshortcutswidget.ui" line="152"/>
@@ -23633,7 +23635,7 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
     <message>
         <location filename="../../../scribus/tabkeyboardshortcutswidget.ui" line="170"/>
         <source>Alt+R</source>
-        <translation>Alt+A</translation>
+        <translation>Alt+R</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabkeyboardshortcutswidget.ui" line="193"/>
@@ -23648,7 +23650,7 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
     <message>
         <location filename="../../../scribus/tabkeyboardshortcutswidget.ui" line="199"/>
         <source>Alt+E</source>
-        <translation>Alt+P</translation>
+        <translation>Alt+E</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabkeyboardshortcutswidget.ui" line="206"/>
@@ -23663,7 +23665,7 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
     <message>
         <location filename="../../../scribus/tabkeyboardshortcutswidget.ui" line="212"/>
         <source>Alt+I</source>
-        <translation>Alt+A</translation>
+        <translation>Alt+I</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabkeyboardshortcutswidget.ui" line="235"/>
@@ -23673,12 +23675,12 @@ Baskı denetleyicisi aracını kullanarak düzeltmeyi deneyebilirsiniz</translat
     <message>
         <location filename="../../../scribus/tabkeyboardshortcutswidget.ui" line="238"/>
         <source>&amp;Load</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yükle</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabkeyboardshortcutswidget.ui" line="241"/>
         <source>Alt+L</source>
-        <translation>Alt+A</translation>
+        <translation>Alt+L</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabkeyboardshortcutswidget.ui" line="248"/>
@@ -24868,7 +24870,7 @@ when PDF document is opened:</source>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="1378"/>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="1702"/>
         <source>Cover</source>
-        <translation type="unfinished"/>
+        <translation>Kapak</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="1379"/>
@@ -25000,17 +25002,17 @@ when PDF document is opened:</source>
     <message>
         <location filename="../../../scribus/tabprinter.ui" line="130"/>
         <source>Level 1</source>
-        <translation type="unfinished"/>
+        <translation>Seviye 1</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabprinter.ui" line="135"/>
         <source>Level 2</source>
-        <translation type="unfinished"/>
+        <translation>Seviye 2</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabprinter.ui" line="140"/>
         <source>Level 3</source>
-        <translation type="unfinished"/>
+        <translation>Seviye 3</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabprinter.ui" line="151"/>
@@ -25025,7 +25027,7 @@ when PDF document is opened:</source>
     <message>
         <location filename="../../../scribus/tabprinter.ui" line="157"/>
         <source>Print Normal</source>
-        <translation>Normal Yazdır</translation>
+        <translation>Normal Baskı</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabprinter.ui" line="184"/>
@@ -25140,7 +25142,7 @@ when PDF document is opened:</source>
     <message>
         <location filename="../../../scribus/tabprinter.ui" line="402"/>
         <source>Command:</source>
-        <translation type="unfinished"/>
+        <translation>Komut:</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabprinter.cpp" line="37"/>
@@ -25361,7 +25363,7 @@ when PDF document is opened:</source>
     <message>
         <location filename="../../../scribus/tabtools.cpp" line="337"/>
         <source>Images</source>
-        <translation type="unfinished"/>
+        <translation>Görüntüler</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabtools.cpp" line="343"/>
@@ -25476,7 +25478,7 @@ when PDF document is opened:</source>
     <message>
         <location filename="../../../scribus/tabtools.cpp" line="529"/>
         <source>Other Properties</source>
-        <translation type="unfinished"/>
+        <translation>Diğer Özellikler</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabtools.cpp" line="530"/>
@@ -25949,7 +25951,7 @@ when PDF document is opened:</source>
     <message>
         <location filename="../../../scribus/plugins/tools/transform/transformdialog.cpp" line="51"/>
         <source>Scaling</source>
-        <translation type="unfinished"/>
+        <translation>Ölçekleme</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/transform/transformdialog.cpp" line="52"/>
@@ -26026,7 +26028,7 @@ when PDF document is opened:</source>
     <message>
         <location filename="../../../scribus/plugins/tools/transform/transformdialogbase.ui" line="40"/>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Ekle</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/transform/transformdialogbase.ui" line="53"/>
@@ -26036,17 +26038,17 @@ when PDF document is opened:</source>
     <message>
         <location filename="../../../scribus/plugins/tools/transform/transformdialogbase.ui" line="76"/>
         <source>u</source>
-        <translation type="unfinished"/>
+        <translation>u</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/transform/transformdialogbase.ui" line="92"/>
         <source>d</source>
-        <translation type="unfinished"/>
+        <translation>d</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/transform/transformdialogbase.ui" line="133"/>
         <source>Scaling</source>
-        <translation type="unfinished"/>
+        <translation>Ölçekleme</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/transform/transformdialogbase.ui" line="143"/>
@@ -26081,7 +26083,7 @@ when PDF document is opened:</source>
     <message>
         <location filename="../../../scribus/plugins/tools/transform/transformdialogbase.ui" line="316"/>
         <source>Angle</source>
-        <translation type="unfinished"/>
+        <translation>Açı</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/transform/transformdialogbase.ui" line="345"/>
@@ -26227,13 +26229,15 @@ W2: %3, H2: %4</translation>
         <location filename="../../../scribus/undomanager.cpp" line="840"/>
         <source>X1: %1, Y1: %2
 X2: %4, Y2: %5</source>
-        <translation type="unfinished"/>
+        <translation>X1: %1, Y1: %2
+X2: %4, Y2: %5</translation>
     </message>
     <message>
         <location filename="../../../scribus/undomanager.cpp" line="841"/>
         <source>X: %1, Y: %2
 X: %4, Y: %5</source>
-        <translation type="unfinished"/>
+        <translation>X: %1, Y: %2
+X: %4, Y: %5</translation>
     </message>
     <message>
         <location filename="../../../scribus/undomanager.cpp" line="842"/>
@@ -26789,7 +26793,7 @@ buraya %2</translation>
     <message>
         <location filename="../../../scribus/undomanager.cpp" line="957"/>
         <source>&amp;Undo</source>
-        <translation>Geri &amp;Al</translation>
+        <translation>&amp;Geri Al</translation>
     </message>
     <message>
         <location filename="../../../scribus/undomanager.cpp" line="958"/>
@@ -26830,7 +26834,7 @@ buraya %2</translation>
     <message>
         <location filename="../../../scribus/undomanager.cpp" line="976"/>
         <source>Edit text</source>
-        <translation type="unfinished"/>
+        <translation>Metin düzenle</translation>
     </message>
     <message>
         <location filename="../../../scribus/undomanager.cpp" line="977"/>
@@ -26885,12 +26889,12 @@ buraya %2</translation>
     <message>
         <location filename="../../../scribus/undomanager.cpp" line="968"/>
         <source>Copy</source>
-        <translation type="unfinished"/>
+        <translation>Kopya</translation>
     </message>
     <message>
         <location filename="../../../scribus/undomanager.cpp" line="970"/>
         <source>Copy page</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa kopyala</translation>
     </message>
     <message>
         <location filename="../../../scribus/undomanager.cpp" line="975"/>
@@ -26984,7 +26988,8 @@ buraya %2</translation>
         <location filename="../../../scribus/undogui.cpp" line="532"/>
         <source>%1 - %2
 %3</source>
-        <translation>%1 %2 %3</translation>
+        <translation>%1 - %2
+%3</translation>
     </message>
     <message>
         <location filename="../../../scribus/undogui.cpp" line="309"/>
@@ -27012,7 +27017,7 @@ buraya %2</translation>
     <message>
         <location filename="../../../scribus/unicodesearch.ui" line="26"/>
         <source>&amp;Search:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Arama:</translation>
     </message>
     <message>
         <location filename="../../../scribus/unicodesearch.ui" line="39"/>
@@ -27076,7 +27081,7 @@ Error:%2 at line: %3, row: %4</source>
     <message>
         <location filename="../../../scribus/upgradechecker.cpp" line="314"/>
         <source>Error: %1</source>
-        <translation type="unfinished"/>
+        <translation>Hata: %1</translation>
     </message>
     <message>
         <location filename="../../../scribus/upgradechecker.cpp" line="86"/>
@@ -27163,12 +27168,12 @@ Would you like to start the system&apos;s default browser instead?</source>
     <message>
         <location filename="../../../scribus/useprintermarginsdialog.ui" line="199"/>
         <source>&amp;Cancel</source>
-        <translation>İp&amp;tal</translation>
+        <translation>&amp;İptal</translation>
     </message>
     <message>
         <location filename="../../../scribus/useprintermarginsdialog.ui" line="202"/>
         <source>Alt+C</source>
-        <translation>Alt+A</translation>
+        <translation>Alt+C</translation>
     </message>
 </context>
 <context>
@@ -27176,7 +27181,7 @@ Would you like to start the system&apos;s default browser instead?</source>
     <message>
         <location filename="../../../scribus/plugins/import/wmf/wmfimport.cpp" line="647"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>Grup%1</translation>
     </message>
 </context>
 <context>
@@ -27213,22 +27218,22 @@ converting their vector data into Scribus objects.</source>
     <message>
         <location filename="../../../scribus/plugins/import/xfig/importxfig.cpp" line="147"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>İçe Aktarılıyor: %1</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/xfig/importxfig.cpp" line="150"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Analizi:</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/xfig/importxfig.cpp" line="283"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>Grup%1</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/xfig/importxfig.cpp" line="1552"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Öğeler oluşturuluyor</translation>
     </message>
 </context>
 <context>
@@ -27304,7 +27309,7 @@ converting their vector data into Scribus objects.</source>
     <message>
         <location filename="../../../scribus/hysettingsBase.ui" line="45"/>
         <source>General Options</source>
-        <translation type="unfinished"/>
+        <translation>Genel Seçenekler</translation>
     </message>
     <message>
         <location filename="../../../scribus/hysettingsBase.ui" line="57"/>
@@ -27371,12 +27376,12 @@ A value of 0 means unlimited hyphenations.</source>
         <location filename="../../../scribus/hysettingsBase.ui" line="206"/>
         <location filename="../../../scribus/hysettingsBase.ui" line="271"/>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Düzenle</translation>
     </message>
     <message>
         <location filename="../../../scribus/hysettingsBase.ui" line="242"/>
         <source>Ignore List</source>
-        <translation type="unfinished"/>
+        <translation>Yasaklı Listesi</translation>
     </message>
     <message>
         <location filename="../../../scribus/hysettingsBase.ui" line="302"/>
@@ -27536,12 +27541,12 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../../scribus/plugins/newfromtemplateplugin/nftdialog.ui" line="114"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yardım</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/newfromtemplateplugin/nftdialog.ui" line="86"/>
         <source>&amp;Preview</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Önizleme</translation>
     </message>
 </context>
 <context>
@@ -27549,7 +27554,7 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../../scribus/nftwidget.cpp" line="29"/>
         <source>&amp;Remove</source>
-        <translation>Ka&amp;ldır</translation>
+        <translation>&amp;Kaldır</translation>
     </message>
     <message>
         <location filename="../../../scribus/nftwidget.cpp" line="30"/>
@@ -27564,12 +27569,12 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../../scribus/nftwidget.cpp" line="139"/>
         <source>Name</source>
-        <translation>İsim</translation>
+        <translation>Isim</translation>
     </message>
     <message>
         <location filename="../../../scribus/nftwidget.cpp" line="141"/>
         <source>Page Size</source>
-        <translation>Sayfa Ölçüleri</translation>
+        <translation>Sayfa Boyutu</translation>
     </message>
     <message>
         <location filename="../../../scribus/nftwidget.cpp" line="143"/>
@@ -27594,8 +27599,7 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../../scribus/nftwidget.cpp" line="151"/>
         <source>Date</source>
-        <translation>Tarih
-</translation>
+        <translation>Tarih</translation>
     </message>
     <message>
         <location filename="../../../scribus/nftwidget.cpp" line="153"/>
@@ -27670,12 +27674,12 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../../scribus/nftwidget.ui" line="105"/>
         <source>&amp;Preview</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Önizleme</translation>
     </message>
     <message>
         <location filename="../../../scribus/nftwidget.ui" line="133"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yardım</translation>
     </message>
 </context>
 <context>
@@ -27716,7 +27720,7 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../../scribus/replacecolors.ui" line="47"/>
         <source>Add ...</source>
-        <translation type="unfinished"/>
+        <translation>Ekle ...</translation>
     </message>
     <message>
         <location filename="../../../scribus/replacecolors.ui" line="60"/>
@@ -27726,7 +27730,7 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../../scribus/replacecolors.ui" line="73"/>
         <source>Edit...</source>
-        <translation>Düzenle...</translation>
+        <translation>Düzenle ...</translation>
     </message>
 </context>
 <context>
@@ -27739,7 +27743,7 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../../scribus/plugins/saveastemplateplugin/satdialog.ui" line="26"/>
         <source>Email:</source>
-        <translation type="unfinished"/>
+        <translation>E-posta:</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/saveastemplateplugin/satdialog.ui" line="65"/>
@@ -27749,32 +27753,32 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../../scribus/plugins/saveastemplateplugin/satdialog.ui" line="88"/>
         <source>Name:</source>
-        <translation>İsim:</translation>
+        <translation>Adı:</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/saveastemplateplugin/satdialog.ui" line="95"/>
         <source>Category:</source>
-        <translation type="unfinished"/>
+        <translation>Kategori:</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/saveastemplateplugin/satdialog.ui" line="102"/>
         <source>Page Size:</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa Boyutu:</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/saveastemplateplugin/satdialog.ui" line="109"/>
         <source>Colors:</source>
-        <translation type="unfinished"/>
+        <translation>Renkler:</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/saveastemplateplugin/satdialog.ui" line="116"/>
         <source>Description:</source>
-        <translation>Tanım:</translation>
+        <translation>Açıklama:</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/saveastemplateplugin/satdialog.ui" line="123"/>
         <source>Usage:</source>
-        <translation type="unfinished"/>
+        <translation>Kullanım:</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/saveastemplateplugin/satdialog.ui" line="140"/>
@@ -27784,7 +27788,7 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../../scribus/plugins/saveastemplateplugin/satdialog.ui" line="81"/>
         <source>&amp;More Details</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Daha Fazla Detay</translation>
     </message>
 </context>
 <context>
@@ -27844,14 +27848,14 @@ A value of 0 means unlimited hyphenations.</source>
         <location filename="../../../scribus/selectobjects.ui" line="245"/>
         <location filename="../../../scribus/selectobjects.ui" line="272"/>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Evet</translation>
     </message>
     <message>
         <location filename="../../../scribus/selectobjects.ui" line="220"/>
         <location filename="../../../scribus/selectobjects.ui" line="250"/>
         <location filename="../../../scribus/selectobjects.ui" line="277"/>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Hayır</translation>
     </message>
     <message>
         <location filename="../../../scribus/selectobjects.ui" line="231"/>
@@ -27896,7 +27900,7 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../../scribus/selectobjects.ui" line="106"/>
         <source>Item Type</source>
-        <translation type="unfinished"/>
+        <translation>Öğe Türü</translation>
     </message>
     <message>
         <location filename="../../../scribus/selectobjects.ui" line="150"/>
@@ -27932,7 +27936,7 @@ A value of 0 means unlimited hyphenations.</source>
         <location filename="../../../scribus/selectobjects.ui" line="19"/>
         <location filename="../../../scribus/selectobjects.ui" line="34"/>
         <source>Select All Items</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Öğeleri Seç</translation>
     </message>
     <message>
         <location filename="../../../scribus/selectobjects.ui" line="49"/>

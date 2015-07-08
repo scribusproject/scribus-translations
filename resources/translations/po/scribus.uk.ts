@@ -112,7 +112,7 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="335"/>
         <source>Previous Translation Contributors:</source>
-        <translation>Попередні учасники перекладання:</translation>
+        <translation>Попередні учасники перекладу:</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="215"/>
@@ -463,7 +463,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1310"/>
         <source>Patterns...</source>
-        <translation type="unfinished"/>
+        <translation>Шаблони...</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1311"/>
@@ -1554,12 +1554,12 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1706"/>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Редагувати</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1706"/>
         <source>&amp;Edit</source>
-        <translation>&amp;Редагування</translation>
+        <translation>&amp;Редагувати</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1708"/>
@@ -1604,12 +1604,12 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1716"/>
         <source>View</source>
-        <translation type="unfinished"/>
+        <translation>Вигляд</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1716"/>
         <source>&amp;View</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Вигляд</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1718"/>
@@ -6803,7 +6803,7 @@ failed!</source>
     <message>
         <location filename="../../../scribus/ui/edittoolbar.cpp" line="29"/>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Редагувати</translation>
     </message>
 </context>
 <context>
@@ -15222,7 +15222,7 @@ Corners:</source>
         <location filename="../../../scribus/propertiespalette.cpp" line="5278"/>
         <location filename="../../../scribus/propertiespalette.cpp" line="5279"/>
         <source>&amp;Edit...</source>
-        <translation>&amp;Редагувати...</translation>
+        <translation>&amp;Редагування...</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="846"/>
@@ -22052,7 +22052,7 @@ Ctrl-V для вставки його в систему обробітку пр�
         <location filename="../../../scribus/stylemanager.cpp" line="126"/>
         <location filename="../../../scribus/stylemanager.cpp" line="763"/>
         <source>&amp;Edit</source>
-        <translation>&amp;Редагування</translation>
+        <translation>&amp;Редагувати</translation>
     </message>
     <message>
         <location filename="../../../scribus/stylemanager.cpp" line="125"/>
@@ -22083,7 +22083,7 @@ Ctrl-V для вставки його в систему обробітку пр�
     <message>
         <location filename="../../../scribus/stylemanager.cpp" line="164"/>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Редагувати</translation>
     </message>
     <message>
         <location filename="../../../scribus/stylemanager.cpp" line="594"/>
@@ -26892,7 +26892,7 @@ to %2</source>
     <message>
         <location filename="../../../scribus/undomanager.cpp" line="976"/>
         <source>Edit text</source>
-        <translation type="unfinished"/>
+        <translation>Редагувати текст</translation>
     </message>
     <message>
         <location filename="../../../scribus/undomanager.cpp" line="977"/>
@@ -27433,7 +27433,7 @@ A value of 0 means unlimited hyphenations.</source>
         <location filename="../../../scribus/hysettingsBase.ui" line="206"/>
         <location filename="../../../scribus/hysettingsBase.ui" line="271"/>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Редагувати</translation>
     </message>
     <message>
         <location filename="../../../scribus/hysettingsBase.ui" line="242"/>

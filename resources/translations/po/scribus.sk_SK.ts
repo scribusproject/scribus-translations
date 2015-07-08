@@ -8718,7 +8718,7 @@ konvertuje ich vektorové dáta na Scribus objekty.</translation>
     <message>
         <location filename="../../../scribus/plugins/import/cvg/importcvgplugin.cpp" line="58"/>
         <source>Import Cvg...</source>
-        <translation>Import Cvg…</translation>
+        <translation>Import Cvg</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/cvg/importcvgplugin.cpp" line="79"/>
@@ -21849,7 +21849,7 @@ Skúste použiť Predtlačovú kontrolu na ich opravu</translation>
     <message>
         <location filename="../../../scribus/storyeditor.cpp" line="2007"/>
         <source>&amp;Insert Glyph...</source>
-        <translation>&amp;Vložiť znak…</translation>
+        <translation>&amp;Vložiť znak</translation>
     </message>
     <message>
         <location filename="../../../scribus/storyeditor.cpp" line="2011"/>
