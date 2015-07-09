@@ -6042,7 +6042,7 @@ currently %2 x %3 DPI</source>
         <location filename="../../scribus/ui/cpalette.cpp" line="417"/>
         <location filename="../../scribus/ui/cpalette.cpp" line="419"/>
         <source>Pattern</source>
-        <translation type="unfinished"/>
+        <translation>Modelo</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/cpalette.cpp" line="693"/>
@@ -11918,7 +11918,7 @@ If no handle is selected all handles will be reset.</source>
     <message>
         <location filename="../../scribus/ui/modetoolbar.cpp" line="161"/>
         <source>Properties...</source>
-        <translation type="unfinished"/>
+        <translation>Ecoj...</translation>
     </message>
 </context>
 <context>
@@ -38109,7 +38109,7 @@ converting their vector data into Scribus objects.</source>
         <location filename="../../scribus/ui/colorpalette.ui" line="744"/>
         <location filename="../../scribus/ui/colorpalette.ui" line="984"/>
         <source>Properties...</source>
-        <translation type="unfinished"/>
+        <translation>Ecoj...</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/colorpalette.ui" line="36"/>
@@ -39196,17 +39196,17 @@ please choose another one.</source>
     <message>
         <location filename="../../scribus/ui/transparencypalette.ui" line="362"/>
         <source>Pattern</source>
-        <translation type="unfinished"/>
+        <translation>Modelo</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/transparencypalette.ui" line="395"/>
         <source>Properties...</source>
-        <translation type="unfinished"/>
+        <translation>Ecoj...</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/transparencypalette.ui" line="424"/>
         <source>Use inverted Pattern</source>
-        <translation type="unfinished"/>
+        <translation>Uzi Invertis Modelon</translation>
     </message>
 </context>
 <context>
@@ -39219,12 +39219,12 @@ please choose another one.</source>
     <message>
         <location filename="../../scribus/ui/weldeditbase.ui" line="20"/>
         <source>Move Weld Point</source>
-        <translation type="unfinished"/>
+        <translation>Movi Veldopunkto.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/weldeditbase.ui" line="30"/>
         <source>Move Object</source>
-        <translation type="unfinished"/>
+        <translation>Movi Objekton</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/weldeditbase.ui" line="37"/>

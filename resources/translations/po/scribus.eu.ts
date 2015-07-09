@@ -14,7 +14,7 @@
     <message>
         <location filename="../../../scribus/plugins/import/ai/importai.cpp" line="262"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>%1taldea</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/ai/importai.cpp" line="2495"/>
@@ -67,7 +67,7 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="307"/>
         <source>Haiku Port:</source>
-        <translation type="unfinished"/>
+        <translation>Haiku ataka:</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="309"/>
@@ -162,27 +162,27 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="279"/>
         <source>Check for updates to Scribus. No data from your machine will be transferred off it.</source>
-        <translation type="unfinished"/>
+        <translation>Egiaztatu Scribus eguneraketen bila. Ez da zure ordenagailutik daturik transferituko.</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="303"/>
         <source>OS/2&amp;#174;/eComStation&amp;#8482; Port:</source>
-        <translation type="unfinished"/>
+        <translation>OS/2&amp;#174;/eComStation&amp;#8482; atak:</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="319"/>
         <source>Splash Screen:</source>
-        <translation type="unfinished"/>
+        <translation>Harrera pantaila</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="275"/>
         <source>This panel shows the version, build date and compiled in library support in Scribus.</source>
-        <translation type="unfinished"/>
+        <translation>Panel honek bertsioa, sortze-data eta liburutegiko konpilazioaren laguntza erakusten ditu.</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="276"/>
         <source>The C-C-T-F equates to C=littlecms C=CUPS T=TIFF support F=Fontconfig support.Last Letter is the renderer C=cairo or Q=Qt</source>
-        <translation type="unfinished"/>
+        <translation>C-C-T-F siglen esanahia: C=littlecms C=CUPS T=TIFF laguntza F=Fontconfig laguntza. Azkeneko sigla bistaratzaileren araberakoa da C=Cairo edo Q=Qt</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="277"/>
@@ -6213,7 +6213,7 @@ C=CUPS, C=littlecms, T=TIFF euskarria. Falta diren liburutegiak
     <message>
         <location filename="../../../scribus/plugins/import/cvg/importcvg.cpp" line="205"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>%1taldea</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/cvg/importcvg.cpp" line="332"/>
@@ -6778,7 +6778,7 @@ zenbakia ordezten du fitxategi berriko leihoan.</translation>
         <location filename="../../../scribus/plugins/import/ps/importps.cpp" line="278"/>
         <location filename="../../../scribus/plugins/import/ps/importps.cpp" line="706"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>%1taldea</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/ps/importps.cpp" line="476"/>
@@ -11235,7 +11235,7 @@ txantiloitik (adib. estilo konstanteko dokumentuentzako).</translation>
         <location filename="../../../scribus/plugins/import/oodraw/oodrawimp.cpp" line="467"/>
         <location filename="../../../scribus/plugins/import/oodraw/oodrawimp.cpp" line="617"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>%1taldea</translation>
     </message>
 </context>
 <context>
@@ -12884,7 +12884,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <message>
         <location filename="../../../scribus/plugins/import/pct/importpct.cpp" line="209"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>%1taldea</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/pct/importpct.cpp" line="368"/>
@@ -19883,7 +19883,7 @@ beraien bektore-datuak Scribus objektuetan bihurtuz.</translation>
         <location filename="../../../scribus/plugins/import/svg/svgplugin.cpp" line="407"/>
         <location filename="../../../scribus/plugins/import/svg/svgplugin.cpp" line="1019"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>%1taldea</translation>
     </message>
 </context>
 <context>
@@ -20356,7 +20356,7 @@ Rotation: %4</source>
     <message>
         <location filename="../../../scribus/scribusdoc.cpp" line="10615"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>%1taldea</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusdoc.cpp" line="2896"/>
@@ -21095,7 +21095,7 @@ Agian egiaztatzailea erabili beharko zenuke hauek zuzentzeko.</translation>
     <message>
         <location filename="../../../scribus/scribusview.cpp" line="3697"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>%1taldea</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusview.cpp" line="4004"/>
@@ -27284,7 +27284,7 @@ Would you like to start the system&apos;s default browser instead?</source>
     <message>
         <location filename="../../../scribus/plugins/import/wmf/wmfimport.cpp" line="647"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>%1taldea</translation>
     </message>
 </context>
 <context>
@@ -27331,7 +27331,7 @@ converting their vector data into Scribus objects.</source>
     <message>
         <location filename="../../../scribus/plugins/import/xfig/importxfig.cpp" line="283"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>%1taldea</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/xfig/importxfig.cpp" line="1552"/>

@@ -4,22 +4,22 @@
     <message>
         <location filename="../../scribus/plugins/import/ai/importai.cpp" line="343"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>ಆಮದಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ : %1</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/ai/importai.cpp" line="346"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>ಫೈಲನ್ನು ಪರಿಷ್ಕರಿಸಲಾಗುತ್ತಿದೆ :</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/ai/importai.cpp" line="2339"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>ಗುಂಪು %1</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/ai/importai.cpp" line="3438"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>ಅಂಶಗಳನ್ನು  ತಯಾರಿಸಲಾಗುತ್ತಿದೆ</translation>
     </message>
 </context>
 <context>
@@ -27,42 +27,42 @@
     <message>
         <location filename="../../scribus/ui/about.cpp" line="98"/>
         <source>About Scribus %1</source>
-        <translation type="unfinished"/>
+        <translation>ಸ್ಕ್ರೈಬಸ್ ಬಗ್ಗೆ. %1</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="125"/>
         <source>%1 %2 %3</source>
-        <translation type="unfinished"/>
+        <translation>%1 %2 %3</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="130"/>
         <source>%3-%2-%1 %4 %5</source>
-        <translation type="unfinished"/>
+        <translation>%3-%2-%1 %4 %5</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="135"/>
         <source>SVN Revision: %1</source>
-        <translation type="unfinished"/>
+        <translation>SVN ಪುನರ್ಮನನ: %1</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="177"/>
         <source>Using Ghostscript version %1</source>
-        <translation type="unfinished"/>
+        <translation>Ghostscript ಪ್ರತಿಯನ್ನು  ಉಪಯೋಗಿಸಲಾಗುತ್ತಿದೆ. %1</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="179"/>
         <source>No Ghostscript version available</source>
-        <translation type="unfinished"/>
+        <translation>Ghostscript ಪ್ರತಿಯು ಲಬ್ಯವಿಲ್ಲ </translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="180"/>
         <source>Build ID:</source>
-        <translation type="unfinished"/>
+        <translation>Id ತಯಾರಿಸು : </translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="182"/>
         <source>&amp;About</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ಬಗ್ಗೆ</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="295"/>
@@ -72,12 +72,12 @@
     <message>
         <location filename="../../scribus/ui/about.cpp" line="303"/>
         <source>Haiku Port:</source>
-        <translation type="unfinished"/>
+        <translation>Haiku ಪೋರ್ಟ್</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="305"/>
         <source>Contributions from:</source>
-        <translation type="unfinished"/>
+        <translation>ಪಾಲುಗಾರಿಕೆಯ ಫಾರ್ಮಗಳು. :</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="297"/>
@@ -107,7 +107,7 @@
     <message>
         <location filename="../../scribus/ui/about.cpp" line="195"/>
         <source>A&amp;uthors</source>
-        <translation type="unfinished"/>
+        <translation>ಲೇಖಕರು</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="329"/>
@@ -4388,12 +4388,12 @@ Page: %2</source>
     <message>
         <location filename="../../scribus/plugins/import/cdr/importcdr.cpp" line="144"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>ಆಮದಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/cdr/importcdr.cpp" line="147"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>ಫೈಲನ್ನು ಪರಿಷ್ಕರಿಸಲಾಗುತ್ತಿದೆ :</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/cdr/importcdr.cpp" line="389"/>
@@ -4419,17 +4419,17 @@ Document Liberation Project http://www.documentliberation.org</source>
     <message>
         <location filename="../../scribus/plugins/import/cgm/importcgm.cpp" line="193"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>ಆಮದಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/cgm/importcgm.cpp" line="196"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>ಫೈಲನ್ನು ಪರಿಷ್ಕರಿಸಲಾಗುತ್ತಿದೆ :</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/cgm/importcgm.cpp" line="444"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>ಅಂಶಗಳನ್ನು  ತಯಾರಿಸಲಾಗುತ್ತಿದೆ</translation>
     </message>
 </context>
 <context>
@@ -6465,17 +6465,17 @@ currently %2 x %3 DPI</source>
     <message>
         <location filename="../../scribus/plugins/import/cvg/importcvg.cpp" line="147"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>ಆಮದಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/cvg/importcvg.cpp" line="150"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>ಫೈಲನ್ನು ಪರಿಷ್ಕರಿಸಲಾಗುತ್ತಿದೆ :</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/cvg/importcvg.cpp" line="351"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>ಅಂಶಗಳನ್ನು  ತಯಾರಿಸಲಾಗುತ್ತಿದೆ</translation>
     </message>
 </context>
 <context>
@@ -6781,22 +6781,22 @@ currently %2 x %3 DPI</source>
     <message>
         <location filename="../../scribus/plugins/import/drw/importdrw.cpp" line="1234"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>ಗುಂಪು %1</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/drw/importdrw.cpp" line="163"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>ಆಮದಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/drw/importdrw.cpp" line="166"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>ಫೈಲನ್ನು ಪರಿಷ್ಕರಿಸಲಾಗುತ್ತಿದೆ :</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/drw/importdrw.cpp" line="376"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>ಅಂಶಗಳನ್ನು  ತಯಾರಿಸಲಾಗುತ್ತಿದೆ</translation>
     </message>
 </context>
 <context>
@@ -6809,7 +6809,7 @@ currently %2 x %3 DPI</source>
     <message>
         <location filename="../../scribus/plugins/import/ps/importps.cpp" line="647"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>ಗುಂಪು %1</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/ps/importps.cpp" line="434"/>
@@ -6826,7 +6826,7 @@ failed!</source>
     <message>
         <location filename="../../scribus/plugins/import/ps/importps.cpp" line="440"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>ಅಂಶಗಳನ್ನು  ತಯಾರಿಸಲಾಗುತ್ತಿದೆ</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/ps/importps.cpp" line="773"/>
@@ -6841,7 +6841,7 @@ failed!</source>
     <message>
         <location filename="../../scribus/plugins/import/ps/importps.cpp" line="90"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>ಆಮದಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ</translation>
     </message>
 </context>
 <context>
@@ -7204,17 +7204,17 @@ failed!</source>
     <message>
         <location filename="../../scribus/plugins/import/emf/importemf.cpp" line="559"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>ಆಮದಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/emf/importemf.cpp" line="562"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>ಫೈಲನ್ನು ಪರಿಷ್ಕರಿಸಲಾಗುತ್ತಿದೆ :</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/emf/importemf.cpp" line="1048"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>ಅಂಶಗಳನ್ನು  ತಯಾರಿಸಲಾಗುತ್ತಿದೆ</translation>
     </message>
 </context>
 <context>
@@ -8810,17 +8810,17 @@ Ignore List</source>
     <message>
         <location filename="../../scribus/plugins/import/idml/importidml.cpp" line="302"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>ಆಮದಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/idml/importidml.cpp" line="305"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>ಫೈಲನ್ನು ಪರಿಷ್ಕರಿಸಲಾಗುತ್ತಿದೆ :</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/idml/importidml.cpp" line="516"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>ಅಂಶಗಳನ್ನು  ತಯಾರಿಸಲಾಗುತ್ತಿದೆ</translation>
     </message>
 </context>
 <context>
@@ -12861,7 +12861,7 @@ You cannot switch to different notes style before you apply that new one or pres
     <message>
         <location filename="../../scribus/plugins/import/oodraw/oodrawimp.cpp" line="643"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>ಗುಂಪು %1</translation>
     </message>
 </context>
 <context>
@@ -13156,17 +13156,17 @@ You cannot switch to different notes style before you apply that new one or pres
     <message>
         <location filename="../../scribus/plugins/import/odg/importodg.cpp" line="159"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>ಆಮದಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/odg/importodg.cpp" line="162"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>ಫೈಲನ್ನು ಪರಿಷ್ಕರಿಸಲಾಗುತ್ತಿದೆ :</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/odg/importodg.cpp" line="348"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>ಅಂಶಗಳನ್ನು  ತಯಾರಿಸಲಾಗುತ್ತಿದೆ</translation>
     </message>
 </context>
 <context>
@@ -14554,17 +14554,17 @@ Often used for allowing items to be placed across page spreads</source>
     <message>
         <location filename="../../scribus/plugins/import/pages/importpages.cpp" line="215"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>ಆಮದಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/pages/importpages.cpp" line="218"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>ಫೈಲನ್ನು ಪರಿಷ್ಕರಿಸಲಾಗುತ್ತಿದೆ :</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/pages/importpages.cpp" line="403"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>ಅಂಶಗಳನ್ನು  ತಯಾರಿಸಲಾಗುತ್ತಿದೆ</translation>
     </message>
 </context>
 <context>
@@ -15423,17 +15423,17 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <message>
         <location filename="../../scribus/plugins/import/pct/importpct.cpp" line="150"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>ಆಮದಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/pct/importpct.cpp" line="153"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>ಫೈಲನ್ನು ಪರಿಷ್ಕರಿಸಲಾಗುತ್ತಿದೆ :</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/pct/importpct.cpp" line="458"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>ಅಂಶಗಳನ್ನು  ತಯಾರಿಸಲಾಗುತ್ತಿದೆ</translation>
     </message>
 </context>
 <context>
@@ -15509,17 +15509,17 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <message>
         <location filename="../../scribus/plugins/import/pdf/importpdf.cpp" line="196"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>ಆಮದಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/pdf/importpdf.cpp" line="199"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>ಫೈಲನ್ನು ಪರಿಷ್ಕರಿಸಲಾಗುತ್ತಿದೆ :</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/pdf/importpdf.cpp" line="384"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>ಅಂಶಗಳನ್ನು  ತಯಾರಿಸಲಾಗುತ್ತಿದೆ</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/pdf/importpdf.cpp" line="416"/>
@@ -16935,12 +16935,12 @@ Please choose another one.</source>
     <message>
         <location filename="../../scribus/plugins/import/pm/importpm.cpp" line="144"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>ಆಮದಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/pm/importpm.cpp" line="147"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>ಫೈಲನ್ನು ಪರಿಷ್ಕರಿಸಲಾಗುತ್ತಿದೆ :</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/pm/importpm.cpp" line="352"/>
@@ -25029,12 +25029,12 @@ Transparency</source>
     <message>
         <location filename="../../scribus/plugins/import/pub/importpub.cpp" line="148"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>ಆಮದಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/pub/importpub.cpp" line="151"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>ಫೈಲನ್ನು ಪರಿಷ್ಕರಿಸಲಾಗುತ್ತಿದೆ :</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/pub/importpub.cpp" line="360"/>
@@ -30721,7 +30721,7 @@ converting their vector data into Scribus objects.</source>
     <message>
         <location filename="../../scribus/plugins/import/svg/svgplugin.cpp" line="1267"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>ಗುಂಪು %1</translation>
     </message>
 </context>
 <context>
@@ -32102,7 +32102,7 @@ converting their vector data into Scribus objects.</source>
     <message>
         <location filename="../../scribus/plugins/fileloader/scribus12format/scribus12format.cpp" line="487"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>ಗುಂಪು %1</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/fileloader/scribus12format/scribus12format.cpp" line="1371"/>
@@ -32338,7 +32338,7 @@ Rotation: %4</source>
         <location filename="../../scribus/scribusdoc.cpp" line="15096"/>
         <location filename="../../scribus/scribusdoc.cpp" line="15231"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>ಗುಂಪು %1</translation>
     </message>
     <message>
         <location filename="../../scribus/scribusdoc.cpp" line="1688"/>
@@ -33789,22 +33789,22 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <location filename="../../scribus/plugins/import/shape/importshape.cpp" line="149"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>ಆಮದಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/shape/importshape.cpp" line="152"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>ಫೈಲನ್ನು ಪರಿಷ್ಕರಿಸಲಾಗುತ್ತಿದೆ :</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/shape/importshape.cpp" line="358"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>ಅಂಶಗಳನ್ನು  ತಯಾರಿಸಲಾಗುತ್ತಿದೆ</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/shape/importshape.cpp" line="641"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>ಗುಂಪು %1</translation>
     </message>
 </context>
 <context>
@@ -33950,17 +33950,17 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <location filename="../../scribus/plugins/import/sml/importsml.cpp" line="147"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>ಆಮದಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/sml/importsml.cpp" line="150"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>ಫೈಲನ್ನು ಪರಿಷ್ಕರಿಸಲಾಗುತ್ತಿದೆ :</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/sml/importsml.cpp" line="362"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>ಅಂಶಗಳನ್ನು  ತಯಾರಿಸಲಾಗುತ್ತಿದೆ</translation>
     </message>
 </context>
 <context>
@@ -34606,17 +34606,17 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <location filename="../../scribus/plugins/import/svm/importsvm.cpp" line="415"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>ಆಮದಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/svm/importsvm.cpp" line="418"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>ಫೈಲನ್ನು ಪರಿಷ್ಕರಿಸಲಾಗುತ್ತಿದೆ :</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/svm/importsvm.cpp" line="702"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>ಅಂಶಗಳನ್ನು  ತಯಾರಿಸಲಾಗುತ್ತಿದೆ</translation>
     </message>
 </context>
 <context>
@@ -37772,17 +37772,17 @@ Would you like to start the system&apos;s default browser instead?</source>
     <message>
         <location filename="../../scribus/plugins/import/viva/importviva.cpp" line="225"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>ಆಮದಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/viva/importviva.cpp" line="228"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>ಫೈಲನ್ನು ಪರಿಷ್ಕರಿಸಲಾಗುತ್ತಿದೆ :</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/viva/importviva.cpp" line="394"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>ಅಂಶಗಳನ್ನು  ತಯಾರಿಸಲಾಗುತ್ತಿದೆ</translation>
     </message>
 </context>
 <context>
@@ -37790,12 +37790,12 @@ Would you like to start the system&apos;s default browser instead?</source>
     <message>
         <location filename="../../scribus/plugins/import/vsd/importvsd.cpp" line="148"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>ಆಮದಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/vsd/importvsd.cpp" line="151"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>ಫೈಲನ್ನು ಪರಿಷ್ಕರಿಸಲಾಗುತ್ತಿದೆ :</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/vsd/importvsd.cpp" line="362"/>
@@ -37840,12 +37840,12 @@ converting their vector data into Scribus objects.</source>
     <message>
         <location filename="../../scribus/plugins/import/wpg/importwpg.cpp" line="513"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>ಆಮದಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/wpg/importwpg.cpp" line="516"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>ಫೈಲನ್ನು ಪರಿಷ್ಕರಿಸಲಾಗುತ್ತಿದೆ :</translation>
     </message>
 </context>
 <context>
@@ -37871,22 +37871,22 @@ converting their vector data into Scribus objects.</source>
     <message>
         <location filename="../../scribus/plugins/import/xar/importxar.cpp" line="252"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>ಆಮದಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/xar/importxar.cpp" line="255"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>ಫೈಲನ್ನು ಪರಿಷ್ಕರಿಸಲಾಗುತ್ತಿದೆ :</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/xar/importxar.cpp" line="3677"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>ಗುಂಪು %1</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/xar/importxar.cpp" line="544"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>ಅಂಶಗಳನ್ನು  ತಯಾರಿಸಲಾಗುತ್ತಿದೆ</translation>
     </message>
 </context>
 <context>
@@ -37894,17 +37894,17 @@ converting their vector data into Scribus objects.</source>
     <message>
         <location filename="../../scribus/plugins/import/xfig/importxfig.cpp" line="276"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>ಆಮದಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/xfig/importxfig.cpp" line="279"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>ಫೈಲನ್ನು ಪರಿಷ್ಕರಿಸಲಾಗುತ್ತಿದೆ :</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/xfig/importxfig.cpp" line="1624"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>ಅಂಶಗಳನ್ನು  ತಯಾರಿಸಲಾಗುತ್ತಿದೆ</translation>
     </message>
 </context>
 <context>
@@ -37950,17 +37950,17 @@ converting their vector data into Scribus objects.</source>
     <message>
         <location filename="../../scribus/plugins/import/xps/importxps.cpp" line="215"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>ಆಮದಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/xps/importxps.cpp" line="218"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>ಫೈಲನ್ನು ಪರಿಷ್ಕರಿಸಲಾಗುತ್ತಿದೆ :</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/xps/importxps.cpp" line="410"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>ಅಂಶಗಳನ್ನು  ತಯಾರಿಸಲಾಗುತ್ತಿದೆ</translation>
     </message>
 </context>
 <context>
@@ -38521,7 +38521,7 @@ please choose another one.</source>
     <message>
         <location filename="../../scribus/plugins/newfromtemplateplugin/nftdialog.ui" line="62"/>
         <source>&amp;About</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ಬಗ್ಗೆ</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/newfromtemplateplugin/nftdialog.ui" line="114"/>
@@ -38654,7 +38654,7 @@ please choose another one.</source>
     <message>
         <location filename="../../scribus/ui/nftwidget.ui" line="81"/>
         <source>&amp;About</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ಬಗ್ಗೆ</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/nftwidget.ui" line="105"/>

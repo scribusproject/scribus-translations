@@ -2188,7 +2188,7 @@
     <message>
         <location filename="../../scribus/ui/aligndistribute.ui" line="439"/>
         <source>&amp;Distance:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;רוחק</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aligndistribute.ui" line="503"/>
@@ -2316,7 +2316,7 @@
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="170"/>
         <source>&amp;Distance:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;רוחק</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="171"/>
@@ -2994,12 +2994,12 @@ Configuration invalid</source>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcode.cpp" line="24"/>
         <source>Barcode</source>
-        <translation type="unfinished"/>
+        <translation>ברקוד</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcode.cpp" line="25"/>
         <source>Insert a barcode</source>
-        <translation type="unfinished"/>
+        <translation>להוסיף ברקוד</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcode.cpp" line="49"/>
@@ -3181,7 +3181,7 @@ Configuration invalid</source>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.cpp" line="110"/>
         <source>Barcode</source>
-        <translation type="unfinished"/>
+        <translation>ברקוד</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.cpp" line="390"/>
