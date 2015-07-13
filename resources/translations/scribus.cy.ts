@@ -4,22 +4,23 @@
     <message>
         <location filename="../../scribus/plugins/import/ai/importai.cpp" line="343"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Mewnforio: %1
+</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/ai/importai.cpp" line="346"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddiadu Ffeil:</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/ai/importai.cpp" line="2339"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>grŵp%1</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/ai/importai.cpp" line="3438"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddiadu Ffeil</translation>
     </message>
 </context>
 <context>
@@ -27,37 +28,37 @@
     <message>
         <location filename="../../scribus/ui/about.cpp" line="98"/>
         <source>About Scribus %1</source>
-        <translation type="unfinished"/>
+        <translation>Ynglŷn â Scribus %1</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="125"/>
         <source>%1 %2 %3</source>
-        <translation type="unfinished"/>
+        <translation>%1 %2 %3</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="130"/>
         <source>%3-%2-%1 %4 %5</source>
-        <translation type="unfinished"/>
+        <translation>%3-%2-%1 %4 %5</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="135"/>
         <source>SVN Revision: %1</source>
-        <translation type="unfinished"/>
+        <translation>SVN Cywiriad: %1</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="177"/>
         <source>Using Ghostscript version %1</source>
-        <translation type="unfinished"/>
+        <translation>Defnyddio Ghostscript version %1</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="179"/>
         <source>No Ghostscript version available</source>
-        <translation type="unfinished"/>
+        <translation>Dim Ghostscript fersiwn ar gael</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="180"/>
         <source>Build ID:</source>
-        <translation type="unfinished"/>
+        <translation>Adeiladu ID</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="182"/>
@@ -67,37 +68,37 @@
     <message>
         <location filename="../../scribus/ui/about.cpp" line="295"/>
         <source>Development Team:</source>
-        <translation type="unfinished"/>
+        <translation>Tim Datblygiad:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="303"/>
         <source>Haiku Port:</source>
-        <translation type="unfinished"/>
+        <translation>Haiku Port:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="305"/>
         <source>Contributions from:</source>
-        <translation>Cyfraniadau o:</translation>
+        <translation>Cyfraniadau oddi wrth:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="297"/>
         <source>Mac OS&amp;#174; X Aqua Port:</source>
-        <translation type="unfinished"/>
+        <translation>Mac OS&amp;#174; X Aqua Port:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="301"/>
         <source>Windows&amp;#174; Port:</source>
-        <translation type="unfinished"/>
+        <translation>Windows&amp;#174; Port:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="307"/>
         <source>Official Documentation:</source>
-        <translation type="unfinished"/>
+        <translation>Dogfen Swyddogo:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="311"/>
         <source>Other Documentation:</source>
-        <translation type="unfinished"/>
+        <translation>Dogfen arall:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="317"/>
@@ -112,12 +113,12 @@
     <message>
         <location filename="../../scribus/ui/about.cpp" line="329"/>
         <source>Official Translations and Translators:</source>
-        <translation type="unfinished"/>
+        <translation>Cyfieithiad Swyddogol ac Cyfieithwyr:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="331"/>
         <source>Previous Translation Contributors:</source>
-        <translation type="unfinished"/>
+        <translation> Cyfieithiad Blaenorol Cyfranwyr</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="209"/>
@@ -127,17 +128,17 @@
     <message>
         <location filename="../../scribus/ui/about.cpp" line="345"/>
         <source>Homepage</source>
-        <translation type="unfinished"/>
+        <translation>Tudalen gartref</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="347"/>
         <source>Online Reference</source>
-        <translation type="unfinished"/>
+        <translation> Cyfeirnod Ar lein</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="349"/>
         <source>Wiki</source>
-        <translation type="unfinished"/>
+        <translation>Wiki</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="351"/>
@@ -147,7 +148,7 @@
     <message>
         <location filename="../../scribus/ui/about.cpp" line="355"/>
         <source>Mailing List</source>
-        <translation type="unfinished"/>
+        <translation>Rhestr Bostio</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="221"/>
@@ -157,7 +158,7 @@
     <message>
         <location filename="../../scribus/ui/about.cpp" line="224"/>
         <source>&amp;Updates</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Diweddaraf</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="262"/>
@@ -172,12 +173,12 @@
     <message>
         <location filename="../../scribus/ui/about.cpp" line="299"/>
         <source>OS/2&amp;#174;/eComStation&amp;#8482; Port:</source>
-        <translation type="unfinished"/>
+        <translation>OS/2&amp;#174;/eComStation&amp;#8482; Port:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="315"/>
         <source>Splash Screen:</source>
-        <translation type="unfinished"/>
+        <translation>Sblash Sgrin</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="270"/>
@@ -202,27 +203,27 @@
     <message>
         <location filename="../../scribus/ui/about.cpp" line="180"/>
         <source>&lt;p align=&quot;center&quot;&gt;&lt;b&gt;%1 %2&lt;/b&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;%3&lt;br&gt;%4 %5&lt;br&gt;%6&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p align=&quot;center&quot;&gt;&lt;b&gt;%1 %2&lt;/b&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;%3&lt;br&gt;%4 %5&lt;br&gt;%6&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="180"/>
         <source>Scribus Version</source>
-        <translation type="unfinished"/>
+        <translation>Scribus Fersiwn</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="228"/>
         <source>Check for Updates</source>
-        <translation type="unfinished"/>
+        <translation>Siec am Ddiweddariad</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="353"/>
         <source>Developer Blog</source>
-        <translation type="unfinished"/>
+        <translation>Blog Datblygwr</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="235"/>
         <source>&amp;Licence</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Trwydded</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="244"/>
@@ -232,12 +233,12 @@
     <message>
         <location filename="../../scribus/ui/about.cpp" line="309"/>
         <source>Doc Translators:</source>
-        <translation type="unfinished"/>
+        <translation>Cyfieithwyr Tock:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="313"/>
         <source>Webmasters:</source>
-        <translation type="unfinished"/>
+        <translation>Gwefeistr</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="448"/>
@@ -252,42 +253,42 @@
     <message>
         <location filename="../../scribus/ui/aboutplugins.cpp" line="70"/>
         <source>Filename:</source>
-        <translation type="unfinished"/>
+        <translation>Enw ffeil</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aboutplugins.cpp" line="71"/>
         <source>Version:</source>
-        <translation type="unfinished"/>
+        <translation>Fersiwn:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aboutplugins.cpp" line="76"/>
         <source>Release Date:</source>
-        <translation type="unfinished"/>
+        <translation>Dyddiad Rhyddhad</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aboutplugins.cpp" line="83"/>
         <source>Description:</source>
-        <translation type="unfinished"/>
+        <translation>Disgrifiad:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aboutplugins.cpp" line="84"/>
         <source>Author(s):</source>
-        <translation type="unfinished"/>
+        <translation>Awdur(on):</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aboutplugins.cpp" line="85"/>
         <source>Copyright:</source>
-        <translation type="unfinished"/>
+        <translation>Hawlfraint</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aboutplugins.cpp" line="86"/>
         <source>License:</source>
-        <translation type="unfinished"/>
+        <translation>Trwydded</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aboutplugins.ui" line="13"/>
         <source>Scribus: About Plug-ins</source>
-        <translation type="unfinished"/>
+        <translation>Ynglŷn â Scribus: Dangos ategion</translation>
     </message>
 </context>
 <context>
@@ -325,62 +326,62 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1476"/>
         <source>Collect for O&amp;utput...</source>
-        <translation type="unfinished"/>
+        <translation>Casglu er C&amp;ynnyrch.</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1477"/>
         <source>Get Text...</source>
-        <translation type="unfinished"/>
+        <translation>Nol testyn...</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1478"/>
         <source>Append &amp;Text...</source>
-        <translation type="unfinished"/>
+        <translation>Atodi &amp;testun...</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1479"/>
         <source>Get Image...</source>
-        <translation type="unfinished"/>
+        <translation>Cael delw...</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1482"/>
         <source>Save &amp;Text...</source>
-        <translation type="unfinished"/>
+        <translation>Arbed &amp;Testun..</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1483"/>
         <source>Save as &amp;EPS...</source>
-        <translation type="unfinished"/>
+        <translation>Arbed fel &amp;EPS</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1484"/>
         <source>Save as P&amp;DF...</source>
-        <translation type="unfinished"/>
+        <translation>Arbed fel P&amp;DF</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1486"/>
         <source>Document &amp;Setup...</source>
-        <translation type="unfinished"/>
+        <translation>Dogfen &amp;gosodiad..</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1488"/>
         <source>P&amp;references...</source>
-        <translation type="unfinished"/>
+        <translation>P&amp;cyfeirnodau...</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1489"/>
         <source>&amp;Print...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Print</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1490"/>
         <source>Print Previe&amp;w</source>
-        <translation type="unfinished"/>
+        <translation>Print Rhagolw&amp;g</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1491"/>
         <source>&amp;Quit</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ymadael</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1493"/>
@@ -1964,7 +1965,7 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1745"/>
         <source>Check for Updates</source>
-        <translation type="unfinished"/>
+        <translation>Siec am Ddiweddariad</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1815"/>
@@ -4388,12 +4389,13 @@ Page: %2</source>
     <message>
         <location filename="../../scribus/plugins/import/cdr/importcdr.cpp" line="144"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Mewnforio: %1
+</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/cdr/importcdr.cpp" line="147"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddiadu Ffeil:</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/cdr/importcdr.cpp" line="389"/>
@@ -4419,17 +4421,18 @@ Document Liberation Project http://www.documentliberation.org</source>
     <message>
         <location filename="../../scribus/plugins/import/cgm/importcgm.cpp" line="193"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Mewnforio: %1
+</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/cgm/importcgm.cpp" line="196"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddiadu Ffeil:</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/cgm/importcgm.cpp" line="444"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddiadu Ffeil</translation>
     </message>
 </context>
 <context>
@@ -6465,17 +6468,18 @@ currently %2 x %3 DPI</source>
     <message>
         <location filename="../../scribus/plugins/import/cvg/importcvg.cpp" line="147"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Mewnforio: %1
+</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/cvg/importcvg.cpp" line="150"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddiadu Ffeil:</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/cvg/importcvg.cpp" line="351"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddiadu Ffeil</translation>
     </message>
 </context>
 <context>
@@ -6781,22 +6785,23 @@ currently %2 x %3 DPI</source>
     <message>
         <location filename="../../scribus/plugins/import/drw/importdrw.cpp" line="1234"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>grw^p%1</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/drw/importdrw.cpp" line="163"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Mewnforio: %1
+</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/drw/importdrw.cpp" line="166"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddiadu Ffeil:</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/drw/importdrw.cpp" line="376"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddiadu Ffeil</translation>
     </message>
 </context>
 <context>
@@ -6809,7 +6814,7 @@ currently %2 x %3 DPI</source>
     <message>
         <location filename="../../scribus/plugins/import/ps/importps.cpp" line="647"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>grw^p%1</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/ps/importps.cpp" line="434"/>
@@ -6829,7 +6834,7 @@ methodd
     <message>
         <location filename="../../scribus/plugins/import/ps/importps.cpp" line="440"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddiadu Ffeil</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/ps/importps.cpp" line="773"/>
@@ -6844,7 +6849,8 @@ methodd
     <message>
         <location filename="../../scribus/plugins/import/ps/importps.cpp" line="90"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Mewnforio: %1
+</translation>
     </message>
 </context>
 <context>
@@ -7207,17 +7213,18 @@ methodd
     <message>
         <location filename="../../scribus/plugins/import/emf/importemf.cpp" line="559"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Mewnforio: %1
+</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/emf/importemf.cpp" line="562"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddiadu Ffeil:</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/emf/importemf.cpp" line="1048"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddiadu Ffeil</translation>
     </message>
 </context>
 <context>
@@ -8547,7 +8554,7 @@ Name of the export file will be &apos;documentname-pagenumber.filetype&apos;</so
         <location filename="../../scribus/ui/helpbrowser.ui" line="46"/>
         <location filename="../../scribus/ui/helpbrowser.cpp" line="334"/>
         <source>&amp;Print...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Print</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/helpbrowser.cpp" line="330"/>
@@ -8655,7 +8662,7 @@ Name of the export file will be &apos;documentname-pagenumber.filetype&apos;</so
     <message>
         <location filename="../../scribus/ui/helpbrowser.cpp" line="335"/>
         <source>&amp;Quit</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ymadael</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/helpbrowser.cpp" line="757"/>
@@ -8817,17 +8824,18 @@ Ignore List</source>
     <message>
         <location filename="../../scribus/plugins/import/idml/importidml.cpp" line="302"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Mewnforio: %1
+</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/idml/importidml.cpp" line="305"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddiadu Ffeil:</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/idml/importidml.cpp" line="516"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddiadu Ffeil</translation>
     </message>
 </context>
 <context>
@@ -8900,12 +8908,12 @@ Ignore List</source>
     <message>
         <location filename="../../scribus/ui/imageinfodialog.cpp" line="135"/>
         <source>Description:</source>
-        <translation type="unfinished"/>
+        <translation>Disgrifiad:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/imageinfodialog.cpp" line="136"/>
         <source>Copyright:</source>
-        <translation type="unfinished"/>
+        <translation>Hawlfraint</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/imageinfodialog.cpp" line="137"/>
@@ -12868,7 +12876,7 @@ You cannot switch to different notes style before you apply that new one or pres
     <message>
         <location filename="../../scribus/plugins/import/oodraw/oodrawimp.cpp" line="643"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>grw^p%1</translation>
     </message>
 </context>
 <context>
@@ -13163,17 +13171,18 @@ You cannot switch to different notes style before you apply that new one or pres
     <message>
         <location filename="../../scribus/plugins/import/odg/importodg.cpp" line="159"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Mewnforio: %1
+</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/odg/importodg.cpp" line="162"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddiadu Ffeil:</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/odg/importodg.cpp" line="348"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddiadu Ffeil</translation>
     </message>
 </context>
 <context>
@@ -14561,17 +14570,18 @@ Often used for allowing items to be placed across page spreads</source>
     <message>
         <location filename="../../scribus/plugins/import/pages/importpages.cpp" line="215"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Mewnforio: %1
+</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/pages/importpages.cpp" line="218"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddiadu Ffeil:</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/pages/importpages.cpp" line="403"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddiadu Ffeil</translation>
     </message>
 </context>
 <context>
@@ -15430,17 +15440,18 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <message>
         <location filename="../../scribus/plugins/import/pct/importpct.cpp" line="150"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Mewnforio: %1
+</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/pct/importpct.cpp" line="153"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddiadu Ffeil:</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/pct/importpct.cpp" line="458"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddiadu Ffeil</translation>
     </message>
 </context>
 <context>
@@ -15516,17 +15527,18 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <message>
         <location filename="../../scribus/plugins/import/pdf/importpdf.cpp" line="196"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Mewnforio: %1
+</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/pdf/importpdf.cpp" line="199"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddiadu Ffeil:</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/pdf/importpdf.cpp" line="384"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddiadu Ffeil</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/pdf/importpdf.cpp" line="416"/>
@@ -16942,12 +16954,13 @@ Please choose another one.</source>
     <message>
         <location filename="../../scribus/plugins/import/pm/importpm.cpp" line="144"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Mewnforio: %1
+</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/pm/importpm.cpp" line="147"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddiadu Ffeil:</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/pm/importpm.cpp" line="352"/>
@@ -17749,7 +17762,7 @@ Do you want to migrate them to the new Scribus version?</source>
     <message>
         <location filename="../../scribus/ui/prefs_documentinformationbase.ui" line="98"/>
         <source>Description:</source>
-        <translation type="unfinished"/>
+        <translation>Disgrifiad:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_documentinformationbase.ui" line="109"/>
@@ -25038,12 +25051,13 @@ Transparency</source>
     <message>
         <location filename="../../scribus/plugins/import/pub/importpub.cpp" line="148"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Mewnforio: %1
+</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/pub/importpub.cpp" line="151"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddiadu Ffeil:</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/pub/importpub.cpp" line="360"/>
@@ -25177,7 +25191,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     <message>
         <location filename="../../scribus/plugins/scriptplugin/pconsole.ui" line="108"/>
         <source>&amp;Quit</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ymadael</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/scriptplugin/pconsole.cpp" line="60"/>
@@ -29411,7 +29425,7 @@ Please choose another.</source>
     <message>
         <location filename="../../scribus/plugins/saveastemplateplugin/satdialog.ui" line="86"/>
         <source>Description:</source>
-        <translation type="unfinished"/>
+        <translation>Disgrifiad:</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/saveastemplateplugin/satdialog.ui" line="99"/>
@@ -30732,7 +30746,7 @@ converting their vector data into Scribus objects.</source>
     <message>
         <location filename="../../scribus/plugins/import/svg/svgplugin.cpp" line="1267"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>grw^p%1</translation>
     </message>
 </context>
 <context>
@@ -32113,7 +32127,7 @@ converting their vector data into Scribus objects.</source>
     <message>
         <location filename="../../scribus/plugins/fileloader/scribus12format/scribus12format.cpp" line="487"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>grw^p%1</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/fileloader/scribus12format/scribus12format.cpp" line="1371"/>
@@ -32349,7 +32363,7 @@ Rotation: %4</source>
         <location filename="../../scribus/scribusdoc.cpp" line="15096"/>
         <location filename="../../scribus/scribusdoc.cpp" line="15231"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>grw^p%1</translation>
     </message>
     <message>
         <location filename="../../scribus/scribusdoc.cpp" line="1688"/>
@@ -33083,7 +33097,7 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <location filename="../../scribus/scribusapp.cpp" line="541"/>
         <source>Scribus Version</source>
-        <translation type="unfinished"/>
+        <translation>Scribus Fersiwn</translation>
     </message>
     <message>
         <location filename="../../scribus/scribusapp.cpp" line="550"/>
@@ -33093,7 +33107,7 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <location filename="../../scribus/scribusapp.cpp" line="558"/>
         <source>Homepage</source>
-        <translation type="unfinished"/>
+        <translation>Tudalen gartref</translation>
     </message>
     <message>
         <location filename="../../scribus/scribusapp.cpp" line="559"/>
@@ -33103,7 +33117,7 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <location filename="../../scribus/scribusapp.cpp" line="560"/>
         <source>Wiki</source>
-        <translation type="unfinished"/>
+        <translation>Wiki</translation>
     </message>
     <message>
         <location filename="../../scribus/scribusapp.cpp" line="561"/>
@@ -33800,22 +33814,23 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <location filename="../../scribus/plugins/import/shape/importshape.cpp" line="149"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Mewnforio: %1
+</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/shape/importshape.cpp" line="152"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddiadu Ffeil:</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/shape/importshape.cpp" line="358"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddiadu Ffeil</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/shape/importshape.cpp" line="641"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>grw^p%1</translation>
     </message>
 </context>
 <context>
@@ -33961,17 +33976,18 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <location filename="../../scribus/plugins/import/sml/importsml.cpp" line="147"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Mewnforio: %1
+</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/sml/importsml.cpp" line="150"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddiadu Ffeil:</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/sml/importsml.cpp" line="362"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddiadu Ffeil</translation>
     </message>
 </context>
 <context>
@@ -34617,17 +34633,18 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <location filename="../../scribus/plugins/import/svm/importsvm.cpp" line="415"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Mewnforio: %1
+</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/svm/importsvm.cpp" line="418"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddiadu Ffeil:</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/svm/importsvm.cpp" line="702"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddiadu Ffeil</translation>
     </message>
 </context>
 <context>
@@ -37783,17 +37800,18 @@ Would you like to start the system&apos;s default browser instead?</source>
     <message>
         <location filename="../../scribus/plugins/import/viva/importviva.cpp" line="225"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Mewnforio: %1
+</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/viva/importviva.cpp" line="228"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddiadu Ffeil:</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/viva/importviva.cpp" line="394"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddiadu Ffeil</translation>
     </message>
 </context>
 <context>
@@ -37801,12 +37819,13 @@ Would you like to start the system&apos;s default browser instead?</source>
     <message>
         <location filename="../../scribus/plugins/import/vsd/importvsd.cpp" line="148"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Mewnforio: %1
+</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/vsd/importvsd.cpp" line="151"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddiadu Ffeil:</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/vsd/importvsd.cpp" line="362"/>
@@ -37851,12 +37870,13 @@ converting their vector data into Scribus objects.</source>
     <message>
         <location filename="../../scribus/plugins/import/wpg/importwpg.cpp" line="513"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Mewnforio: %1
+</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/wpg/importwpg.cpp" line="516"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddiadu Ffeil:</translation>
     </message>
 </context>
 <context>
@@ -37882,22 +37902,23 @@ converting their vector data into Scribus objects.</source>
     <message>
         <location filename="../../scribus/plugins/import/xar/importxar.cpp" line="252"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Mewnforio: %1
+</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/xar/importxar.cpp" line="255"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddiadu Ffeil:</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/xar/importxar.cpp" line="3677"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>grw^p%1</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/xar/importxar.cpp" line="544"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddiadu Ffeil</translation>
     </message>
 </context>
 <context>
@@ -37905,17 +37926,18 @@ converting their vector data into Scribus objects.</source>
     <message>
         <location filename="../../scribus/plugins/import/xfig/importxfig.cpp" line="276"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Mewnforio: %1
+</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/xfig/importxfig.cpp" line="279"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddiadu Ffeil:</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/xfig/importxfig.cpp" line="1624"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddiadu Ffeil</translation>
     </message>
 </context>
 <context>
@@ -37961,17 +37983,18 @@ converting their vector data into Scribus objects.</source>
     <message>
         <location filename="../../scribus/plugins/import/xps/importxps.cpp" line="215"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Mewnforio: %1
+</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/xps/importxps.cpp" line="218"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddiadu Ffeil:</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/xps/importxps.cpp" line="410"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddiadu Ffeil</translation>
     </message>
 </context>
 <context>

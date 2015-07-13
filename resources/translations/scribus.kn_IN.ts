@@ -92,12 +92,12 @@
     <message>
         <location filename="../../scribus/ui/about.cpp" line="307"/>
         <source>Official Documentation:</source>
-        <translation type="unfinished"/>
+        <translation>ಅಧಿಕೃತ ದಸ್ತಾವೇಜು</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="311"/>
         <source>Other Documentation:</source>
-        <translation type="unfinished"/>
+        <translation>ಇತರೆ ದಸ್ತಾವೇಜು:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="317"/>
@@ -112,12 +112,12 @@
     <message>
         <location filename="../../scribus/ui/about.cpp" line="329"/>
         <source>Official Translations and Translators:</source>
-        <translation type="unfinished"/>
+        <translation>ಅದಿಕೃತ ತರ್ಜಮೆಗಳು ಹಾಗು ತರ್ಜಮೆದಾರರು :</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="331"/>
         <source>Previous Translation Contributors:</source>
-        <translation type="unfinished"/>
+        <translation>ಹಿಂದಿನ ತರ್ಜಮೆಗಳ ಪಾಲುದಾರರು :</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="209"/>

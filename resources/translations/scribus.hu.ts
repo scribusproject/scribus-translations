@@ -182,7 +182,7 @@
     <message>
         <location filename="../../scribus/ui/about.cpp" line="270"/>
         <source>This panel shows the version, build date and compiled in library support in Scribus.</source>
-        <translation>Ezen a panelen a Scribus verziója, összeépítési (build) dátuma és a fordítókönyvtárak támogatása látható.</translation>
+        <translation>Ezen a panelen a Scribus verziója, a build dátuma és a fordítókönyvtárak támogatása látható.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="271"/>

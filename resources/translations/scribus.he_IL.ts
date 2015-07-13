@@ -385,12 +385,12 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1493"/>
         <source>&amp;Undo</source>
-        <translation type="unfinished"/>
+        <translation>ביטול</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1494"/>
         <source>&amp;Redo</source>
-        <translation type="unfinished"/>
+        <translation>חזרה</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1495"/>
@@ -417,12 +417,12 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1501"/>
         <source>Paste (&amp;Absolute)</source>
-        <translation type="unfinished"/>
+        <translation>הדבקה (מוחלטת)</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1502"/>
         <source>Paste Image from Clipboard</source>
-        <translation type="unfinished"/>
+        <translation>הדבקת תמונה מהלוח</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1503"/>
@@ -437,17 +437,17 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1505"/>
         <source>Select &amp;All</source>
-        <translation type="unfinished"/>
+        <translation>בחר הכל</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1507"/>
         <source>&amp;Deselect All</source>
-        <translation type="unfinished"/>
+        <translation>בטל בחירה</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1508"/>
         <source>&amp;Search/Replace...</source>
-        <translation type="unfinished"/>
+        <translation>חיפוש והחלפה</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1509"/>
@@ -517,12 +517,12 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1533"/>
         <source>&amp;Normal</source>
-        <translation type="unfinished"/>
+        <translation>רגיל</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1534"/>
         <source>&amp;Underline</source>
-        <translation type="unfinished"/>
+        <translation>קו תחתון</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1535"/>
@@ -532,7 +532,7 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1536"/>
         <source>&amp;Strike Through</source>
-        <translation type="unfinished"/>
+        <translation>קו חוצה</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1537"/>
@@ -578,7 +578,7 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1548"/>
         <source>D&amp;uplicate</source>
-        <translation type="unfinished"/>
+        <translation>שכפל</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1549"/>
@@ -598,12 +598,12 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1552"/>
         <source>&amp;Group</source>
-        <translation type="unfinished"/>
+        <translation>קיבוץ עצמים</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1553"/>
         <source>&amp;Ungroup</source>
-        <translation type="unfinished"/>
+        <translation>בטל קיבוץ עצמים</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1554"/>
@@ -638,22 +638,22 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1560"/>
         <source>Lower to &amp;Bottom</source>
-        <translation type="unfinished"/>
+        <translation>הורד לתחתית הערימה</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1561"/>
         <source>Raise to &amp;Top</source>
-        <translation type="unfinished"/>
+        <translation>העלה לתקרת הערימה</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1562"/>
         <source>&amp;Lower</source>
-        <translation type="unfinished"/>
+        <translation>הורד מתחת לעצם הבא </translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1563"/>
         <source>&amp;Raise</source>
-        <translation type="unfinished"/>
+        <translation>העלה מעל לעצם הבא</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1566"/>
@@ -663,7 +663,7 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1567"/>
         <source>More Info...</source>
-        <translation type="unfinished"/>
+        <translation>מידע נוסף</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1568"/>
@@ -678,52 +678,52 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1570"/>
         <source>Insert Rows...</source>
-        <translation type="unfinished"/>
+        <translation>הכנס שורות...</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1571"/>
         <source>Insert Columns...</source>
-        <translation type="unfinished"/>
+        <translation>הכנס טורים...</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1572"/>
         <source>Delete Rows</source>
-        <translation type="unfinished"/>
+        <translation>מחק שורות</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1573"/>
         <source>Delete Columns</source>
-        <translation type="unfinished"/>
+        <translation>מחק טורים</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1574"/>
         <source>Merge Cells</source>
-        <translation type="unfinished"/>
+        <translation>מזג תאים</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1575"/>
         <source>Split Cells...</source>
-        <translation type="unfinished"/>
+        <translation>פצל תאים...</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1576"/>
         <source>Set Row Heights...</source>
-        <translation type="unfinished"/>
+        <translation>הגדר גובה שורות</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1577"/>
         <source>Set Column Widths...</source>
-        <translation type="unfinished"/>
+        <translation>הגדר רוחב טורים</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1578"/>
         <source>Distribute Rows Evenly</source>
-        <translation type="unfinished"/>
+        <translation>פזר שורות באופן שווה</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1579"/>
         <source>Distribute Columns Evenly</source>
-        <translation type="unfinished"/>
+        <translation>פזר טורים באופן שווה</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1580"/>
@@ -748,7 +748,7 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1585"/>
         <source>Embed Image</source>
-        <translation type="unfinished"/>
+        <translation>הטמע תמונה</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1586"/>
@@ -793,7 +793,7 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1594"/>
         <source>&amp;Edit Shape...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ערוך צורה</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1595"/>
@@ -848,7 +848,7 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1604"/>
         <source>&amp;Symbol</source>
-        <translation type="unfinished"/>
+        <translation>&amp;סמל</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1605"/>
@@ -973,7 +973,7 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1642"/>
         <source>Preview Mode</source>
-        <translation type="unfinished"/>
+        <translation>מצב תצוגה מקדימה</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1643"/>
@@ -993,7 +993,7 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1647"/>
         <source>Show &amp;Frames</source>
-        <translation type="unfinished"/>
+        <translation>להציג &amp;מסגרות</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1648"/>
@@ -1038,7 +1038,7 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1656"/>
         <source>Show Rulers</source>
-        <translation type="unfinished"/>
+        <translation>להציג סרגלים</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1658"/>
@@ -1074,7 +1074,7 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1668"/>
         <source>&amp;Layers</source>
-        <translation type="unfinished"/>
+        <translation>שכבות</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1669"/>
@@ -1280,12 +1280,12 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1757"/>
         <source>Redo</source>
-        <translation type="unfinished"/>
+        <translation>חזרה</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1758"/>
         <source>Undo</source>
-        <translation type="unfinished"/>
+        <translation>ביטול</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1759"/>
@@ -1390,7 +1390,7 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1780"/>
         <source>Insert a text frame</source>
-        <translation type="unfinished"/>
+        <translation>להוסיף מסגרת טקסט</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1781"/>
@@ -1641,7 +1641,7 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1564"/>
         <source>Patterns</source>
-        <translation type="unfinished"/>
+        <translation>תבניות</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1565"/>
@@ -1657,7 +1657,7 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1610"/>
         <source>&amp;Frames...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;מסגרות...</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1635"/>
@@ -1667,17 +1667,17 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1636"/>
         <source>Fit to Width</source>
-        <translation type="unfinished"/>
+        <translation>התאם לרוחב</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1646"/>
         <source>Show Bleeds</source>
-        <translation type="unfinished"/>
+        <translation>הצג בליד - גלישה</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1681"/>
         <source>&amp;View Tools</source>
-        <translation type="unfinished"/>
+        <translation>צפה בכלים</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1700"/>
@@ -1687,12 +1687,12 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1701"/>
         <source>T&amp;able</source>
-        <translation type="unfinished"/>
+        <translation>טבלה</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1702"/>
         <source>&amp;Shape</source>
-        <translation type="unfinished"/>
+        <translation>&amp;צורה</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1704"/>
@@ -1707,17 +1707,17 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1706"/>
         <source>&amp;Line</source>
-        <translation type="unfinished"/>
+        <translation>קו</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1707"/>
         <source>Calligraphic Line</source>
-        <translation type="unfinished"/>
+        <translation>קו קליגרפי</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1709"/>
         <source>&amp;Freehand Line</source>
-        <translation type="unfinished"/>
+        <translation>קו חופשי</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1711"/>
@@ -2050,7 +2050,7 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="2005"/>
         <source>Table</source>
-        <translation type="unfinished"/>
+        <translation>טבלה</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="2005"/>
@@ -2060,7 +2060,7 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="2007"/>
         <source>Extras</source>
-        <translation type="unfinished"/>
+        <translation>תוספות</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="2007"/>
@@ -2070,7 +2070,7 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="2009"/>
         <source>Windows</source>
-        <translation type="unfinished"/>
+        <translation>חלונות</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="2009"/>
@@ -2095,7 +2095,7 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="2372"/>
         <source>Others</source>
-        <translation type="unfinished"/>
+        <translation>אחרים</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="2374"/>
@@ -2216,12 +2216,12 @@
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="100"/>
         <source>First Selected</source>
-        <translation type="unfinished"/>
+        <translation>ראשון שנבחר</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="101"/>
         <source>Last Selected</source>
-        <translation type="unfinished"/>
+        <translation>אחרון שנבחר</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="102"/>
@@ -2231,17 +2231,17 @@
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="103"/>
         <source>Margins</source>
-        <translation type="unfinished"/>
+        <translation>שוליים</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="104"/>
         <source>Guide</source>
-        <translation type="unfinished"/>
+        <translation>קו עזר</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="105"/>
         <source>Selection</source>
-        <translation type="unfinished"/>
+        <translation>בחירה</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="109"/>
@@ -2251,32 +2251,32 @@
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="122"/>
         <source>Align bottoms</source>
-        <translation type="unfinished"/>
+        <translation>ישר קצוות תחתונים</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="124"/>
         <source>Align right sides</source>
-        <translation type="unfinished"/>
+        <translation>ישר קצוות ימניים</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="128"/>
         <source>Center on vertical axis</source>
-        <translation type="unfinished"/>
+        <translation>מרכז על הציר האנכי</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="130"/>
         <source>Align left sides</source>
-        <translation type="unfinished"/>
+        <translation>ישר קצוות שמאליים</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="132"/>
         <source>Center on horizontal axis</source>
-        <translation type="unfinished"/>
+        <translation>מרכז על הציר האופקי</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="136"/>
         <source>Align tops</source>
-        <translation type="unfinished"/>
+        <translation>ישר קצוות עליונים</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="138"/>
@@ -2286,17 +2286,17 @@
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="146"/>
         <source>Distribute right sides equidistantly</source>
-        <translation type="unfinished"/>
+        <translation>פזר קצוות ימניים במרחקים שווים</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="148"/>
         <source>Distribute bottoms equidistantly</source>
-        <translation type="unfinished"/>
+        <translation>פזר קצוות תחתונים במרחקים שווים</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="150"/>
         <source>Distribute centers equidistantly horizontally</source>
-        <translation type="unfinished"/>
+        <translation>פזר אופקית מרכזים במרחקים שווים </translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="156"/>
@@ -2848,7 +2848,7 @@
     <message>
         <location filename="../../scribus/plugins/tools/spellcheck/aspellpluginbase.ui" line="229"/>
         <source>&amp;Ignore</source>
-        <translation type="unfinished"/>
+        <translation>התעלם</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/tools/spellcheck/aspellpluginbase.ui" line="248"/>
@@ -2858,7 +2858,7 @@
     <message>
         <location filename="../../scribus/plugins/tools/spellcheck/aspellpluginbase.ui" line="251"/>
         <source>I&amp;gnore All</source>
-        <translation type="unfinished"/>
+        <translation>ה&amp;תעלם תמיד</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/tools/spellcheck/aspellpluginbase.ui" line="276"/>
@@ -2896,7 +2896,7 @@
     <message>
         <location filename="../../scribus/plugins/tools/spellcheck/aspellpluginimpl.cpp" line="48"/>
         <source>default </source>
-        <translation type="unfinished"/>
+        <translation>ברירת מחדל</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/tools/spellcheck/aspellpluginimpl.cpp" line="106"/>
@@ -3644,7 +3644,7 @@ Configuration invalid</source>
     <message>
         <location filename="../../scribus/ui/buttonicon.cpp" line="124"/>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>לאפס</translation>
     </message>
 </context>
 <context>
@@ -5345,7 +5345,7 @@ currently %2 x %3 DPI</source>
     <message>
         <location filename="../../scribus/commonstrings.cpp" line="310"/>
         <source>Table</source>
-        <translation type="unfinished"/>
+        <translation>טבלה</translation>
     </message>
     <message>
         <location filename="../../scribus/commonstrings.cpp" line="313"/>
@@ -5553,7 +5553,7 @@ currently %2 x %3 DPI</source>
     <message>
         <location filename="../../scribus/commonstrings.cpp" line="475"/>
         <source>Windows</source>
-        <translation type="unfinished"/>
+        <translation>חלונות</translation>
     </message>
     <message>
         <location filename="../../scribus/commonstrings.cpp" line="479"/>
@@ -5714,7 +5714,7 @@ currently %2 x %3 DPI</source>
         <location filename="../../scribus/commonstrings.cpp" line="420"/>
         <source>Default</source>
         <comment>Optical Margin Setting</comment>
-        <translation type="unfinished"/>
+        <translation>ברירת מחדל</translation>
     </message>
     <message>
         <location filename="../../scribus/commonstrings.cpp" line="423"/>
@@ -6378,7 +6378,7 @@ currently %2 x %3 DPI</source>
     <message>
         <location filename="../../scribus/ui/curvewidget.cpp" line="506"/>
         <source>Resets the curve</source>
-        <translation type="unfinished"/>
+        <translation>לאפס את העקומה</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/curvewidget.cpp" line="507"/>
@@ -6892,12 +6892,12 @@ failed!</source>
     <message>
         <location filename="../../scribus/ui/editor.cpp" line="51"/>
         <source>&amp;Undo</source>
-        <translation type="unfinished"/>
+        <translation>ביטול</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/editor.cpp" line="54"/>
         <source>&amp;Redo</source>
-        <translation type="unfinished"/>
+        <translation>חזרה</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/editor.cpp" line="56"/>
@@ -7921,7 +7921,7 @@ Name of the export file will be &apos;documentname-pagenumber.filetype&apos;</so
     <message>
         <location filename="../../scribus/plugins/fontpreview/fontpreview.ui" line="133"/>
         <source>Reset the text</source>
-        <translation type="unfinished"/>
+        <translation>לאפס את הטקסט</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/fontpreview/fontpreview.ui" line="167"/>
@@ -7941,7 +7941,7 @@ Name of the export file will be &apos;documentname-pagenumber.filetype&apos;</so
     <message>
         <location filename="../../scribus/plugins/fontpreview/fontpreview.ui" line="136"/>
         <source>&amp;Default</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ברירת מחדל</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/fontpreview/fontpreview.ui" line="35"/>
@@ -9517,7 +9517,7 @@ converting their vector data into Scribus objects.</source>
         <location filename="../../scribus/plugins/import/shape/importshapeplugin.cpp" line="55"/>
         <location filename="../../scribus/plugins/import/shape/importshapeplugin.cpp" line="90"/>
         <source>Dia Shapes</source>
-        <translation type="unfinished"/>
+        <translation>צורות Dia</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/shape/importshapeplugin.cpp" line="56"/>
@@ -11677,7 +11677,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../scribus/ui/measurementsbase.ui" line="13"/>
         <source>Distances</source>
-        <translation type="unfinished"/>
+        <translation>מרחקים</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/measurementsbase.ui" line="19"/>
@@ -11857,7 +11857,7 @@ If no handle is selected all handles will be reset.</source>
     <message>
         <location filename="../../scribus/plugins/tools/2geomtools/meshdistortion/meshdistortiondialog.ui" line="86"/>
         <source>&amp;Reset</source>
-        <translation type="unfinished"/>
+        <translation>&amp;לאפס</translation>
     </message>
 </context>
 <context>
@@ -12828,7 +12828,7 @@ You cannot switch to different notes style before you apply that new one or pres
         <location filename="../../scribus/ui/notesstyleseditor.cpp" line="179"/>
         <location filename="../../scribus/ui/notesstyleseditor.cpp" line="234"/>
         <source>default</source>
-        <translation type="unfinished"/>
+        <translation>ברירת מחדל</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/notesstyleseditor.cpp" line="196"/>
@@ -13134,7 +13134,7 @@ You cannot switch to different notes style before you apply that new one or pres
         <location filename="../../scribus/ui/osgeditor.cpp" line="172"/>
         <location filename="../../scribus/ui/osgeditor.cpp" line="173"/>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>ברירת מחדל</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/osgeditor.cpp" line="237"/>
@@ -13683,7 +13683,7 @@ You cannot switch to different notes style before you apply that new one or pres
     <message>
         <location filename="../../scribus/ui/preview.cpp" line="313"/>
         <source>Fit to Width</source>
-        <translation type="unfinished"/>
+        <translation>התאם לרוחב</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/preview.cpp" line="314"/>
@@ -13900,7 +13900,7 @@ You cannot switch to different notes style before you apply that new one or pres
     <message>
         <location filename="../../scribus/pageitem.cpp" line="606"/>
         <source>Table</source>
-        <translation type="unfinished"/>
+        <translation>טבלה</translation>
     </message>
     <message>
         <location filename="../../scribus/pageitem.cpp" line="7838"/>
@@ -14258,7 +14258,7 @@ You cannot switch to different notes style before you apply that new one or pres
         <location filename="../../scribus/pageitem_osgframe.cpp" line="140"/>
         <location filename="../../scribus/pageitem_osgframe.cpp" line="141"/>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>ברירת מחדל</translation>
     </message>
     <message>
         <location filename="../../scribus/pageitem_osgframe.cpp" line="161"/>
@@ -14635,7 +14635,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../scribus/ui/paintmanagerbase.ui" line="95"/>
         <source>D&amp;uplicate</source>
-        <translation type="unfinished"/>
+        <translation>שכפל</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/paintmanagerbase.ui" line="102"/>
@@ -14713,7 +14713,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../scribus/ui/paintmanager.cpp" line="91"/>
         <source>Patterns</source>
-        <translation type="unfinished"/>
+        <translation>תבניות</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/paintmanager.cpp" line="100"/>
@@ -15243,7 +15243,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <message>
         <location filename="../../scribus/plugins/tools/pathfinder/pathfinderbase.ui" line="442"/>
         <source>First Shape</source>
-        <translation type="unfinished"/>
+        <translation>צורה ראשונה</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/tools/pathfinder/pathfinderbase.ui" line="452"/>
@@ -15253,7 +15253,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <message>
         <location filename="../../scribus/plugins/tools/pathfinder/pathfinderbase.ui" line="455"/>
         <source>Second Shape</source>
-        <translation type="unfinished"/>
+        <translation>צורה שנייה</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/tools/pathfinder/pathfinderbase.ui" line="462"/>
@@ -16201,7 +16201,7 @@ Please choose another one.</source>
     <message>
         <location filename="../../scribus/plugins/picbrowser/picturebrowser.ui" line="846"/>
         <source>Reset Settings</source>
-        <translation type="unfinished"/>
+        <translation>לאפס הגדרות</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/picbrowser/picturebrowser.ui" line="853"/>
@@ -17220,7 +17220,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     <message>
         <location filename="../../scribus/ui/preferencesdialog.cpp" line="136"/>
         <source>External Tools</source>
-        <translation type="unfinished"/>
+        <translation>כלים חיצוניים</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/preferencesdialog.cpp" line="143"/>
@@ -17468,7 +17468,7 @@ Do you want to migrate them to the new Scribus version?</source>
     <message>
         <location filename="../../scribus/ui/prefs_displaybase.ui" line="51"/>
         <source>Show Rulers</source>
-        <translation type="unfinished"/>
+        <translation>להציג סרגלים</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_displaybase.ui" line="58"/>
@@ -18237,7 +18237,7 @@ Do you want to migrate them to the new Scribus version?</source>
     <message>
         <location filename="../../scribus/ui/prefs_documentsetupbase.ui" line="328"/>
         <source>Margins</source>
-        <translation type="unfinished"/>
+        <translation>שוליים</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_documentsetupbase.ui" line="402"/>
@@ -18315,7 +18315,7 @@ Do you want to migrate them to the new Scribus version?</source>
     <message>
         <location filename="../../scribus/ui/prefs_externaltoolsbase.ui" line="14"/>
         <source>External Tools</source>
-        <translation type="unfinished"/>
+        <translation>כלים חיצוניים</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_externaltoolsbase.ui" line="27"/>
@@ -18722,7 +18722,7 @@ Do you want to use this?</source>
         <location filename="../../scribus/ui/prefs_guides.cpp" line="67"/>
         <location filename="../../scribus/ui/prefs_guides.cpp" line="135"/>
         <source>Margins</source>
-        <translation type="unfinished"/>
+        <translation>שוליים</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_guidesbase.ui" line="351"/>
@@ -18743,7 +18743,7 @@ Do you want to use this?</source>
     <message>
         <location filename="../../scribus/ui/prefs_guidesbase.ui" line="236"/>
         <source>Distances</source>
-        <translation type="unfinished"/>
+        <translation>מרחקים</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_guidesbase.ui" line="264"/>
@@ -19289,7 +19289,7 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../scribus/ui/prefs_itemtoolsbase.ui" line="985"/>
         <source>Shapes</source>
-        <translation type="unfinished"/>
+        <translation>צורות</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_itemtoolsbase.ui" line="1021"/>
@@ -19521,7 +19521,7 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../scribus/ui/prefs_keyboardshortcutsbase.ui" line="321"/>
         <source>&amp;Reset</source>
-        <translation type="unfinished"/>
+        <translation>&amp;לאפס</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_keyboardshortcutsbase.ui" line="324"/>
@@ -20085,7 +20085,7 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../scribus/ui/prefs_pdfexportbase.ui" line="1432"/>
         <source>Extras</source>
-        <translation type="unfinished"/>
+        <translation>תוספות</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_pdfexportbase.ui" line="1438"/>
@@ -21448,7 +21448,7 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../scribus/plugins/short-words/prefs_shortwordsbase.ui" line="73"/>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>לאפס</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/short-words/prefs_shortwords.cpp" line="27"/>
@@ -22440,12 +22440,12 @@ Note: PDF Forms will not be exported.</source>
     <message>
         <location filename="../../scribus/ui/propertiespalette.cpp" line="921"/>
         <source>&amp;Shape</source>
-        <translation type="unfinished"/>
+        <translation>&amp;צורה</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertiespalette.cpp" line="922"/>
         <source>&amp;Line</source>
-        <translation type="unfinished"/>
+        <translation>קו</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertiespalette.cpp" line="923"/>
@@ -22455,7 +22455,7 @@ Note: PDF Forms will not be exported.</source>
     <message>
         <location filename="../../scribus/ui/propertiespalette.cpp" line="924"/>
         <source>&amp;Group</source>
-        <translation type="unfinished"/>
+        <translation>קיבוץ עצמים</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertiespalette.cpp" line="925"/>
@@ -22465,7 +22465,7 @@ Note: PDF Forms will not be exported.</source>
     <message>
         <location filename="../../scribus/ui/propertiespalette.cpp" line="926"/>
         <source>T&amp;able</source>
-        <translation type="unfinished"/>
+        <translation>טבלה</translation>
     </message>
 </context>
 <context>
@@ -22478,7 +22478,7 @@ Note: PDF Forms will not be exported.</source>
     <message>
         <location filename="../../scribus/ui/propertiespalette_group.cpp" line="630"/>
         <source>Shape</source>
-        <translation type="unfinished"/>
+        <translation>צורה</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertiespalette_group.cpp" line="632"/>
@@ -22546,7 +22546,7 @@ Note: PDF Forms will not be exported.</source>
     <message>
         <location filename="../../scribus/ui/propertiespalette_groupbase.ui" line="35"/>
         <source>Shape</source>
-        <translation type="unfinished"/>
+        <translation>צורה</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertiespalette_groupbase.ui" line="74"/>
@@ -23490,7 +23490,7 @@ Transparency</source>
     <message>
         <location filename="../../scribus/ui/propertiespalette_shape.cpp" line="550"/>
         <source>Shape:</source>
-        <translation type="unfinished"/>
+        <translation>צורה:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertiespalette_shape.cpp" line="551"/>
@@ -23578,7 +23578,7 @@ Transparency</source>
     <message>
         <location filename="../../scribus/ui/propertiespalette_shapebase.ui" line="26"/>
         <source>Shape</source>
-        <translation type="unfinished"/>
+        <translation>צורה</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertiespalette_shapebase.ui" line="56"/>
@@ -23688,7 +23688,7 @@ Transparency</source>
     <message>
         <location filename="../../scribus/ui/propertiespalette_tablebase.ui" line="26"/>
         <source>Table</source>
-        <translation type="unfinished"/>
+        <translation>טבלה</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertiespalette_tablebase.ui" line="56"/>
@@ -24596,7 +24596,7 @@ Transparency</source>
     <message>
         <location filename="../../scribus/ui/propertywidget_optmargins.cpp" line="224"/>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>לאפס</translation>
     </message>
 </context>
 <context>
@@ -24629,7 +24629,7 @@ Transparency</source>
     <message>
         <location filename="../../scribus/ui/propertywidget_optmarginsbase.ui" line="60"/>
         <source>Reset</source>
-        <translation type="unfinished"/>
+        <translation>לאפס</translation>
     </message>
 </context>
 <context>
@@ -24918,7 +24918,7 @@ Transparency</source>
     <message>
         <location filename="../../scribus/ui/propertywidget_pathtext.cpp" line="219"/>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>ברירת מחדל</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertywidget_pathtext.cpp" line="220"/>
@@ -25637,7 +25637,7 @@ Check path and filename.</source>
     <message>
         <location filename="../../scribus/translationdummy.cpp" line="162"/>
         <source>&amp;Underline</source>
-        <translation type="unfinished"/>
+        <translation>קו תחתון</translation>
     </message>
     <message>
         <location filename="../../scribus/translationdummy.cpp" line="163"/>
@@ -25700,12 +25700,12 @@ Check path and filename.</source>
     <message>
         <location filename="../../scribus/translationdummy.cpp" line="88"/>
         <source>&amp;Undo</source>
-        <translation type="unfinished"/>
+        <translation>ביטול</translation>
     </message>
     <message>
         <location filename="../../scribus/translationdummy.cpp" line="89"/>
         <source>&amp;Redo</source>
-        <translation type="unfinished"/>
+        <translation>חזרה</translation>
     </message>
     <message>
         <location filename="../../scribus/translationdummy.cpp" line="90"/>
@@ -28952,12 +28952,12 @@ Therefore the image may be not correct</source>
     <message>
         <location filename="../../scribus/translationdummy.cpp" line="99"/>
         <source>&amp;Undo</source>
-        <translation type="unfinished"/>
+        <translation>ביטול</translation>
     </message>
     <message>
         <location filename="../../scribus/translationdummy.cpp" line="100"/>
         <source>&amp;Redo</source>
-        <translation type="unfinished"/>
+        <translation>חזרה</translation>
     </message>
     <message>
         <location filename="../../scribus/translationdummy.cpp" line="101"/>
@@ -29247,7 +29247,7 @@ Please choose another.</source>
     <message>
         <location filename="../../scribus/ui/rulermover.cpp" line="87"/>
         <source>Reset Rulers</source>
-        <translation type="unfinished"/>
+        <translation>לאפס סרגלים</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/rulermover.cpp" line="94"/>
@@ -30841,7 +30841,7 @@ converting their vector data into Scribus objects.</source>
     <message>
         <location filename="../../scribus/plugins/short-words/swprefsgui.cpp" line="93"/>
         <source>&amp;Reset</source>
-        <translation type="unfinished"/>
+        <translation>&amp;לאפס</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/short-words/swprefsgui.cpp" line="95"/>
@@ -33171,7 +33171,7 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <location filename="../../scribus/scribusview.cpp" line="316"/>
         <source>Preview Mode</source>
-        <translation type="unfinished"/>
+        <translation>מצב תצוגה מקדימה</translation>
     </message>
     <message>
         <location filename="../../scribus/scribusview.cpp" line="317"/>
@@ -34150,7 +34150,7 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <location filename="../../scribus/ui/storyeditor.cpp" line="2007"/>
         <source>Select &amp;All</source>
-        <translation type="unfinished"/>
+        <translation>בחר הכל</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/storyeditor.cpp" line="2008"/>
@@ -34175,7 +34175,7 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <location filename="../../scribus/ui/storyeditor.cpp" line="2012"/>
         <source>&amp;Search/Replace...</source>
-        <translation type="unfinished"/>
+        <translation>חיפוש והחלפה</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/storyeditor.cpp" line="2014"/>
@@ -34323,7 +34323,7 @@ Consider using the Preflight Verifier to correct them</source>
         <location filename="../../scribus/ui/stylemanager.ui" line="385"/>
         <location filename="../../scribus/ui/stylemanager.cpp" line="123"/>
         <source>&amp;Reset</source>
-        <translation type="unfinished"/>
+        <translation>&amp;לאפס</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/stylemanager.ui" line="363"/>
@@ -36470,7 +36470,7 @@ X: %4, Y: %5</translation>
     <message>
         <location filename="../../scribus/undomanager.cpp" line="598"/>
         <source>Selection</source>
-        <translation type="unfinished"/>
+        <translation>בחירה</translation>
     </message>
     <message>
         <location filename="../../scribus/undomanager.cpp" line="599"/>
@@ -37009,7 +37009,7 @@ to %2</source>
     <message>
         <location filename="../../scribus/undomanager.cpp" line="713"/>
         <source>Edit shape</source>
-        <translation type="unfinished"/>
+        <translation>ערוך צורה</translation>
     </message>
     <message>
         <location filename="../../scribus/undomanager.cpp" line="715"/>
@@ -37246,7 +37246,7 @@ to %2</source>
     <message>
         <location filename="../../scribus/undomanager.cpp" line="764"/>
         <source>&amp;Undo</source>
-        <translation type="unfinished"/>
+        <translation>ביטול</translation>
     </message>
     <message>
         <location filename="../../scribus/undomanager.cpp" line="765"/>
@@ -37257,7 +37257,7 @@ to %2</source>
     <message>
         <location filename="../../scribus/undomanager.cpp" line="766"/>
         <source>&amp;Redo</source>
-        <translation type="unfinished"/>
+        <translation>חזרה</translation>
     </message>
     <message>
         <location filename="../../scribus/undomanager.cpp" line="768"/>
@@ -37485,12 +37485,12 @@ to %2</source>
     <message>
         <location filename="../../scribus/undogui.cpp" line="315"/>
         <source>&amp;Undo</source>
-        <translation type="unfinished"/>
+        <translation>ביטול</translation>
     </message>
     <message>
         <location filename="../../scribus/undogui.cpp" line="316"/>
         <source>&amp;Redo</source>
-        <translation type="unfinished"/>
+        <translation>חזרה</translation>
     </message>
     <message>
         <location filename="../../scribus/undogui.cpp" line="318"/>
@@ -37690,7 +37690,7 @@ Would you like to start the system&apos;s default browser instead?</source>
     <message>
         <location filename="../../scribus/ui/useprintermarginsdialog.ui" line="46"/>
         <source>Margins</source>
-        <translation type="unfinished"/>
+        <translation>שוליים</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/useprintermarginsdialog.ui" line="61"/>
@@ -38742,7 +38742,7 @@ please choose another one.</source>
     <message>
         <location filename="../../scribus/ui/selectobjects.ui" line="128"/>
         <source>Shape</source>
-        <translation type="unfinished"/>
+        <translation>צורה</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/selectobjects.ui" line="133"/>
