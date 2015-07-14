@@ -2131,7 +2131,7 @@
     <message>
         <location filename="../../scribus/ui/aligndistribute.ui" line="25"/>
         <source>Align</source>
-        <translation type="unfinished"/>
+        <translation>יישור</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aligndistribute.ui" line="54"/>
@@ -2146,7 +2146,7 @@
     <message>
         <location filename="../../scribus/ui/aligndistribute.ui" line="86"/>
         <source>&amp;Align Sides By:</source>
-        <translation type="unfinished"/>
+        <translation>יישור קצוות לפי</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aligndistribute.ui" line="142"/>
@@ -2183,7 +2183,7 @@
     <message>
         <location filename="../../scribus/ui/aligndistribute.ui" line="249"/>
         <source>Distribute</source>
-        <translation type="unfinished"/>
+        <translation>פיזור</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aligndistribute.ui" line="439"/>
@@ -2198,7 +2198,7 @@
     <message>
         <location filename="../../scribus/ui/aligndistribute.ui" line="545"/>
         <source>Swap</source>
-        <translation type="unfinished"/>
+        <translation>החלף</translation>
     </message>
 </context>
 <context>
@@ -2206,12 +2206,12 @@
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="94"/>
         <source>Align and Distribute</source>
-        <translation type="unfinished"/>
+        <translation>יישור ופיזור</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="97"/>
         <source>&amp;Relative to:</source>
-        <translation type="unfinished"/>
+        <translation>ביחס ל:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="100"/>
@@ -2246,7 +2246,7 @@
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="109"/>
         <source>&amp;Align Sides By:</source>
-        <translation type="unfinished"/>
+        <translation>יישור קצוות לפי</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="122"/>
@@ -2301,17 +2301,17 @@
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="156"/>
         <source>Distribute left sides equidistantly</source>
-        <translation type="unfinished"/>
+        <translation>פזר קצוות שמאליים במרחקים שווים</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="158"/>
         <source>Distribute centers equidistantly vertically</source>
-        <translation type="unfinished"/>
+        <translation>פזר אנכית מרכזים במרחקים שווים </translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="160"/>
         <source>Distribute tops equidistantly</source>
-        <translation type="unfinished"/>
+        <translation>פזר קצוות עליונים במרחקים שווים</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="170"/>
@@ -2321,7 +2321,7 @@
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="171"/>
         <source>Distribute the items with the distance specified</source>
-        <translation type="unfinished"/>
+        <translation>פזר עצמים במרחק מוגדר</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="173"/>
@@ -2331,7 +2331,7 @@
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="175"/>
         <source>None Selected</source>
-        <translation type="unfinished"/>
+        <translation>לא נבחר עצם</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="177"/>
@@ -2361,12 +2361,12 @@
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="112"/>
         <source>Move</source>
-        <translation type="unfinished"/>
+        <translation>הזז</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="113"/>
         <source>Resize</source>
-        <translation type="unfinished"/>
+        <translation>שנה מידה</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="114"/>
@@ -2431,12 +2431,12 @@
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="95"/>
         <source>Align</source>
-        <translation type="unfinished"/>
+        <translation>יישור</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="96"/>
         <source>Distribute</source>
-        <translation type="unfinished"/>
+        <translation>פיזור</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="107"/>
@@ -2454,22 +2454,22 @@
     <message>
         <location filename="../../scribus/ui/alignselect.cpp" line="110"/>
         <source>Align Text Left</source>
-        <translation type="unfinished"/>
+        <translation>יישור טקסט לשמאל</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/alignselect.cpp" line="111"/>
         <source>Align Text Right</source>
-        <translation type="unfinished"/>
+        <translation>יישור טקסט לימין</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/alignselect.cpp" line="112"/>
         <source>Align Text Center</source>
-        <translation type="unfinished"/>
+        <translation>יישור טקסט למרכז</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/alignselect.cpp" line="113"/>
         <source>Align Text Justified</source>
-        <translation type="unfinished"/>
+        <translation>יישור טקסט לשני הקצוות</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/alignselect.cpp" line="114"/>
@@ -2492,12 +2492,12 @@
     <message>
         <location filename="../../scribus/ui/annota.cpp" line="78"/>
         <source>Link</source>
-        <translation type="unfinished"/>
+        <translation>קישור</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/annota.cpp" line="79"/>
         <source>External Link</source>
-        <translation type="unfinished"/>
+        <translation>קישור חיצוני</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/annota.cpp" line="80"/>
@@ -3334,7 +3334,7 @@ Configuration invalid</source>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="25"/>
         <source>Format</source>
-        <translation type="unfinished"/>
+        <translation>עיצוב</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="34"/>
@@ -5390,7 +5390,7 @@ currently %2 x %3 DPI</source>
     <message>
         <location filename="../../scribus/commonstrings.cpp" line="327"/>
         <source>Link</source>
-        <translation type="unfinished"/>
+        <translation>קישור</translation>
     </message>
     <message>
         <location filename="../../scribus/commonstrings.cpp" line="331"/>
@@ -7802,7 +7802,7 @@ Name of the export file will be &apos;documentname-pagenumber.filetype&apos;</so
     <message>
         <location filename="../../scribus/fontlistmodel.cpp" line="87"/>
         <source>Format</source>
-        <translation type="unfinished"/>
+        <translation>עיצוב</translation>
     </message>
     <message>
         <location filename="../../scribus/fontlistmodel.cpp" line="89"/>
@@ -8051,7 +8051,7 @@ Name of the export file will be &apos;documentname-pagenumber.filetype&apos;</so
     <message>
         <location filename="../../scribus/ui/gradienteditor.ui" line="14"/>
         <source>Frame</source>
-        <translation type="unfinished"/>
+        <translation>מסגרת</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/gradienteditor.ui" line="63"/>
@@ -9954,7 +9954,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../scribus/plugins/imposition/impositionbase.ui" line="455"/>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>מידה</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/imposition/impositionbase.ui" line="487"/>
@@ -12363,7 +12363,7 @@ If no handle is selected all handles will be reset.</source>
     <message>
         <location filename="../../scribus/ui/newmarginwidgetbase.ui" line="140"/>
         <source>Link</source>
-        <translation type="unfinished"/>
+        <translation>קישור</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/newmarginwidgetbase.ui" line="147"/>
@@ -12798,7 +12798,7 @@ If no handle is selected all handles will be reset.</source>
         <location filename="../../scribus/ui/notesstyleseditor.cpp" line="205"/>
         <location filename="../../scribus/ui/notesstyleseditor.cpp" line="218"/>
         <source>Frame</source>
-        <translation type="unfinished"/>
+        <translation>מסגרת</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/notesstyleseditor.cpp" line="63"/>
@@ -13256,7 +13256,7 @@ You cannot switch to different notes style before you apply that new one or pres
     <message>
         <location filename="../../scribus/ui/oneclick.cpp" line="55"/>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>מידה</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/oneclick.cpp" line="60"/>
@@ -15840,7 +15840,7 @@ Please choose another one.</source>
     <message>
         <location filename="../../scribus/ui/picstatus.ui" line="316"/>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>מידה</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/picstatus.ui" line="322"/>
@@ -16394,7 +16394,7 @@ Please choose another one.</source>
         <location filename="../../scribus/plugins/picbrowser/picturebrowser.ui" line="1308"/>
         <location filename="../../scribus/plugins/picbrowser/picturebrowser.ui" line="1702"/>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>מידה</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/picbrowser/picturebrowser.ui" line="1313"/>
@@ -18227,7 +18227,7 @@ Do you want to migrate them to the new Scribus version?</source>
     <message>
         <location filename="../../scribus/ui/prefs_documentsetupbase.ui" line="45"/>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>מידה</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_documentsetupbase.ui" line="288"/>
@@ -24220,7 +24220,7 @@ Transparency</source>
     <message>
         <location filename="../../scribus/ui/propertywidget_advancedbase.ui" line="14"/>
         <source>Frame</source>
-        <translation type="unfinished"/>
+        <translation>מסגרת</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertywidget_advancedbase.ui" line="79"/>
@@ -24359,7 +24359,7 @@ Transparency</source>
     <message>
         <location filename="../../scribus/ui/propertywidget_distancebase.ui" line="14"/>
         <source>Frame</source>
-        <translation type="unfinished"/>
+        <translation>מסגרת</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertywidget_distancebase.ui" line="41"/>
@@ -24536,7 +24536,7 @@ Transparency</source>
     <message>
         <location filename="../../scribus/ui/propertywidget_flopbase.ui" line="14"/>
         <source>Frame</source>
-        <translation type="unfinished"/>
+        <translation>מסגרת</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertywidget_flopbase.ui" line="26"/>
@@ -24604,7 +24604,7 @@ Transparency</source>
     <message>
         <location filename="../../scribus/ui/propertywidget_optmarginsbase.ui" line="14"/>
         <source>Frame</source>
-        <translation type="unfinished"/>
+        <translation>מסגרת</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertywidget_optmarginsbase.ui" line="32"/>
@@ -24772,7 +24772,7 @@ Transparency</source>
     <message>
         <location filename="../../scribus/ui/propertywidget_pareffect.cpp" line="571"/>
         <source>Format</source>
-        <translation type="unfinished"/>
+        <translation>עיצוב</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertywidget_pareffect.cpp" line="572"/>
@@ -24885,7 +24885,7 @@ Transparency</source>
     <message>
         <location filename="../../scribus/ui/propertywidget_pareffectbase.ui" line="211"/>
         <source>Format</source>
-        <translation type="unfinished"/>
+        <translation>עיצוב</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertywidget_pareffectbase.ui" line="235"/>
@@ -24928,12 +24928,12 @@ Transparency</source>
     <message>
         <location filename="../../scribus/ui/propertywidget_pathtext.cpp" line="221"/>
         <source>Skew</source>
-        <translation type="unfinished"/>
+        <translation>הטייה</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertywidget_pathtext.cpp" line="224"/>
         <source>Flip Text</source>
-        <translation type="unfinished"/>
+        <translation>היפוך טקסט</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertywidget_pathtext.cpp" line="225"/>
@@ -24966,7 +24966,7 @@ Transparency</source>
     <message>
         <location filename="../../scribus/ui/propertywidget_pathtextbase.ui" line="14"/>
         <source>Frame</source>
-        <translation type="unfinished"/>
+        <translation>מסגרת</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertywidget_pathtextbase.ui" line="32"/>
@@ -24986,7 +24986,7 @@ Transparency</source>
     <message>
         <location filename="../../scribus/ui/propertywidget_pathtextbase.ui" line="62"/>
         <source>Flip Text</source>
-        <translation type="unfinished"/>
+        <translation>היפוך טקסט</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertywidget_pathtextbase.ui" line="69"/>
@@ -25027,7 +25027,7 @@ Transparency</source>
     <message>
         <location filename="../../scribus/ui/propertywidget_textcolorbase.ui" line="14"/>
         <source>Frame</source>
-        <translation type="unfinished"/>
+        <translation>מסגרת</translation>
     </message>
 </context>
 <context>
@@ -25317,7 +25317,7 @@ Scripter documentation for futher information. </source>
     <message>
         <location filename="../../scribus/translationdummy.cpp" line="24"/>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>מידה</translation>
     </message>
     <message>
         <location filename="../../scribus/translationdummy.cpp" line="25"/>
@@ -30213,7 +30213,7 @@ Please choose another.</source>
     <message>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="266"/>
         <source>Frame</source>
-        <translation type="unfinished"/>
+        <translation>מסגרת</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="498"/>
@@ -31776,7 +31776,7 @@ converting their vector data into Scribus objects.</source>
     <message>
         <location filename="../../scribus/ui/annot.cpp" line="1052"/>
         <source>Format</source>
-        <translation type="unfinished"/>
+        <translation>עיצוב</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/annot.cpp" line="1068"/>
@@ -32705,7 +32705,7 @@ Rotation: %4</source>
         <location filename="../../scribus/scribus.cpp" line="1408"/>
         <location filename="../../scribus/scribus.cpp" line="6207"/>
         <source>Size</source>
-        <translation type="unfinished"/>
+        <translation>מידה</translation>
     </message>
     <message>
         <location filename="../../scribus/scribus.cpp" line="1225"/>
@@ -36124,7 +36124,7 @@ when PDF document is opened:</source>
     <message>
         <location filename="../../scribus/ui/transformdialog.cpp" line="120"/>
         <source>Skew</source>
-        <translation type="unfinished"/>
+        <translation>הטייה</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/transformdialog.cpp" line="123"/>
@@ -36195,7 +36195,7 @@ when PDF document is opened:</source>
     <message>
         <location filename="../../scribus/ui/transformdialogbase.ui" line="343"/>
         <source>Skew</source>
-        <translation type="unfinished"/>
+        <translation>הטייה</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/transformdialogbase.ui" line="424"/>
@@ -36389,7 +36389,7 @@ when PDF document is opened:</source>
     <message>
         <location filename="../../scribus/undomanager.cpp" line="581"/>
         <source>Move</source>
-        <translation type="unfinished"/>
+        <translation>הזז</translation>
     </message>
     <message>
         <location filename="../../scribus/undomanager.cpp" line="582"/>
@@ -36424,7 +36424,7 @@ when PDF document is opened:</source>
     <message>
         <location filename="../../scribus/undomanager.cpp" line="590"/>
         <source>Resize</source>
-        <translation type="unfinished"/>
+        <translation>שנה מידה</translation>
     </message>
     <message>
         <location filename="../../scribus/undomanager.cpp" line="591"/>
