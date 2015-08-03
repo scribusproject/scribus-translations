@@ -6117,7 +6117,7 @@ Y :</translation>
         <location filename="../../../scribus/curvewidget.cpp" line="408"/>
         <location filename="../../../scribus/curvewidget.cpp" line="446"/>
         <source>Curve Files (*.scu *.SCU);;All Files (*)</source>
-        <translation type="unfinished"/>
+        <translation>Fichier de courbes &quot;*.scu&quot; (*.scu *.SCU);;Tous les fichiers (*)</translation>
     </message>
     <message>
         <location filename="../../../scribus/curvewidget.cpp" line="446"/>
