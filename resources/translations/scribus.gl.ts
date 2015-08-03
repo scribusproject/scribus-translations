@@ -209,7 +209,7 @@
     </message>
     <message>
         <source>Enabled:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Activado:</translation>
     </message>
     <message>
         <source>Release Date:</source>
@@ -1461,7 +1461,7 @@
     </message>
     <message>
         <source>Edit text in the Story Editor</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Editar o texto no editor de artigos</translation>
     </message>
     <message>
         <source>Eye Dropper</source>
@@ -1669,7 +1669,7 @@
     </message>
     <message>
         <source>Edit text in story editor</source>
-        <translation type="unfinished"/>
+        <translation>Editar o texto no editor de artigos</translation>
     </message>
     <message>
         <source>Enable preview mode</source>
@@ -2343,11 +2343,12 @@
     <message>
         <source>Spell Checker Plugin Failed to Initialize.
 Configuration invalid</source>
-        <translation type="unfinished"/>
+        <translation>Fallou a inicialización do engadido de corrección ortográfica.
+A configuración non é válida</translation>
     </message>
     <message>
         <source>Spell Checker Plugin Failed to Initialize.</source>
-        <translation type="unfinished"/>
+        <translation>Fallou a inicialización do engadido de corrección ortográfica.</translation>
     </message>
     <message>
         <source>No Aspell dictionaries could be found.</source>
@@ -3196,27 +3197,27 @@ Please choose another one.</source>
     <name>CMYKChooseBase</name>
     <message>
         <source>Edit Color</source>
-        <translation type="unfinished"/>
+        <translation>Editar a cor</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Nome:</translation>
     </message>
     <message>
         <source>Color &amp;Model</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Modelo de cor</translation>
     </message>
     <message>
         <source>Is Spot Color</source>
-        <translation type="unfinished"/>
+        <translation>É unha mancha de cor</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Aceptar</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>New</source>
@@ -3637,7 +3638,7 @@ Envíe o ficheiro (de ser posíbel) ao Proxecto de Liberación de Documentos, ht
     </message>
     <message>
         <source>Hide/Show Enhanced Palette</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Agochar/Mostrar a paleta mellorada</translation>
     </message>
     <message>
         <source>Save Quick Character Palette</source>
@@ -3645,7 +3646,7 @@ Envíe o ficheiro (de ser posíbel) ao Proxecto de Liberación de Documentos, ht
     </message>
     <message>
         <source>Show/Hide Enhanced Palette</source>
-        <translation>Mostrar/Agochar a aleta mellorada</translation>
+        <translation>Mostrar/Agochar a paleta mellorada</translation>
     </message>
     <message>
         <source>Unicode Search</source>
@@ -3931,7 +3932,7 @@ A tecla Inserir coloca un glifo na selección de embaixo e a tecla suprimir elim
     </message>
     <message>
         <source>Annotation uses a non TrueType font</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">A anotación emprega unho tipo de letra que non é TrueType</translation>
     </message>
     <message>
         <source>Preflight profile to base the report generation on. Options can be set in Document Setup or Preferences</source>
@@ -3955,7 +3956,7 @@ A tecla Inserir coloca un glifo na selección de embaixo e a tecla suprimir elim
     </message>
     <message>
         <source>Print/Visible Mismatch</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Desaxuste Imprimir/Visíbel</translation>
     </message>
     <message>
         <source>Master Pages</source>
@@ -4055,19 +4056,19 @@ actualmente %2 x %3 DPI</translation>
     </message>
     <message>
         <source>PDF supports many different ways to represent the color of any object including RGB, CMYK and Spot (aka Separation) colors. Some of the PDF standards, such as PDF/X-1a, require the only CMYK and Spot colors be used.</source>
-        <translation type="unfinished"/>
+        <translation>PDF admite moitas maneiras distintas de representar a cor dun obxecto, incluíndo RGB, CMYK e mancha de cores (coñecida tamén como separación). Algúns estándares de PDF, como PDF/X-1a requiren que só se empreguen CMYK e mancha de cores.</translation>
     </message>
     <message>
         <source>The warning is verifying for you that there is a PDF loaded into an Image Frame, where it will be rasterized or converted to a bitmap. Its resolution may be less than ideal. See PDF Export to learn how to minimize this problem.</source>
-        <translation type="unfinished"/>
+        <translation>A advertencia comproba que hai un PDF cargado nunha moldura de imaxe, na que ha ser convertido en raster ou mapa de bits. A resolución pode resultar menor da ideal. Vexa como exportar a PDF para saber como minimizar este problema.</translation>
     </message>
     <message>
         <source>There is more text than can show in the frame as sized. Nonvisible excess characters like spaces and carriage returns may trigger this if nothing appears to be missing.</source>
-        <translation type="unfinished"/>
+        <translation>Hai máis texto que non pode aparecer na moldura con este tamaño. Os caracteres en exceso non visíbeis, como espazos e saltos de liña poden causar isto se non se ve que falte nada.</translation>
     </message>
     <message>
         <source>This warning indicates that your document contains images that have a transparent layer. This is really only an issue if using older printing profiles or PostScript. It is safe to ignore this when exporting to PDF version greater than 1.4.</source>
-        <translation type="unfinished"/>
+        <translation>Esta advertencia indica que o documento contén imaxes que teñen unha capa transparente. Realmente, isto só supón un problema cando se empregan perfís de impresión antigos ou PostScript. Resulta seguro ignoralo cando se exporta a unha versión de PDF posterior á 1.4.</translation>
     </message>
     <message>
         <source>Annotation uses a non-TrueType font</source>
@@ -4075,11 +4076,11 @@ actualmente %2 x %3 DPI</translation>
     </message>
     <message>
         <source>Annotations support only a standard set of fonts. Choose another one.</source>
-        <translation type="unfinished"/>
+        <translation>As anotacións admiten só un conxunto estándar de tipos de letra. Escolla outro.</translation>
     </message>
     <message>
         <source>This layer uses transparency, only an issue if using older printing profiles. You may safely ignore this when using modern printing methods, or exporting to PDF version greater than 1.4.</source>
-        <translation type="unfinished"/>
+        <translation>Esta capa emprega transparencia, realmente, só problemática cando se empregan perfís de impresión antigos ou PostScript. Resulta seguro ignoralo cando se exporta a unha versión de PDF posterior á 1.4.</translation>
     </message>
     <message>
         <source>This layer uses blendmodes which relies on transparency, only an issue if using older printing profiles. You may safely ignore this when using modern printing methods, or exporting to PDF version greater than 1.4.</source>
@@ -6171,18 +6172,20 @@ Use 72 ppp para Imaxes pensadas para un monitor</translation>
     <name>FhPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>A importar: %1</translation>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>A analizar o ficheiro:</translation>
     </message>
     <message>
         <source>Parsing failed!
 
 Please submit your file (if possible) to the
 Document Liberation Project http://www.documentliberation.org</source>
-        <translation type="unfinished"/>
+        <translation>Fallou a análise!
+
+Envíe o ficheiro (de ser posíbel) ao Proxecto de Liberación de Documentos, http://www.documentliberation.org</translation>
     </message>
 </context>
 <context>
@@ -7184,7 +7187,7 @@ convertendo os seus datos vectoriais en obxectos de Scribus.</translation>
     </message>
     <message>
         <source>Corel Draw CDR (*.cdr *.CDR)</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">CDR do Corel Draw (*.cdr *.CDR)</translation>
     </message>
     <message>
         <source>Imports Corel Draw Files</source>
@@ -7221,7 +7224,7 @@ Envíe o ficheiro (de ser posíbel) ao Proxecto de Liberación de Documentos, ht
     <name>ImportCgmPlugin</name>
     <message>
         <source>Import Cgm...</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Importar Cgm...</translation>
     </message>
     <message>
         <source>CGM File</source>
@@ -7262,16 +7265,17 @@ convertendo eses datos vectoriais en obxectos de Scribus.</translation>
     <name>ImportCvgPlugin</name>
     <message>
         <source>Import Cvg...</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Importar Cvg...</translation>
     </message>
     <message>
         <source>Imports Cvg Files</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Importa ficheiros Cvg</translation>
     </message>
     <message>
         <source>Imports most Cvg files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Importa a maioría dos ficheiros Cvg ao documento actual,
+convertendo os seus datos vectoriais en obxectos de Scribus.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7296,7 +7300,7 @@ convertendo os seus datos vectoriais en obxectos de Scribus.</translation>
     <name>ImportDrwPlugin</name>
     <message>
         <source>Import DRW...</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Importar DRW...</translation>
     </message>
     <message>
         <source>Micrografx DRW File</source>
@@ -7322,11 +7326,11 @@ convertendo os seus datos vectoriais en obxectos de Scribus.</translation>
     </message>
     <message>
         <source>Micrografx DRW</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">DRW de Micrografx</translation>
     </message>
     <message>
         <source>Micrografx DRW (*.drw *.DRW)</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">DRW de Micrografx (*.drw *.DRW)</translation>
     </message>
     <message>
         <source>Import Micrografx Draw...</source>
@@ -7345,7 +7349,7 @@ convertendo os seus datos vectoriais en obxectos de Scribus.</translation>
     <name>ImportEmfPlugin</name>
     <message>
         <source>Import EMF...</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Importar EMF...</translation>
     </message>
     <message>
         <source>EMF</source>
@@ -7386,28 +7390,29 @@ convertendo os seus datos vectoriais en obxectos de Scribus.</translation>
     <name>ImportFhPlugin</name>
     <message>
         <source>Import Freehand...</source>
-        <translation type="unfinished"/>
+        <translation>Importar Freehand...</translation>
     </message>
     <message>
         <source>Freehand</source>
-        <translation type="unfinished"/>
+        <translation>Freehand</translation>
     </message>
     <message>
         <source>Freehand (*.fh* *.FH*)</source>
-        <translation type="unfinished"/>
+        <translation>Freehand (*.fh* *.FH*)</translation>
     </message>
     <message>
         <source>Imports Freehand Files</source>
-        <translation type="unfinished"/>
+        <translation>Importa ficheiros do Freehand</translation>
     </message>
     <message>
         <source>Imports most Freehand files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Importa a maioría dos ficheiros do Freehand ao documento actual,
+convertendo os seus datos vectoriais en obxectos de Scribus.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
-        <translation type="unfinished"/>
+        <translation>Todos os formatos admitidos</translation>
     </message>
 </context>
 <context>
@@ -7562,16 +7567,17 @@ converting their vector data into Scribus objects.</source>
     <name>ImportPctPlugin</name>
     <message>
         <source>Import Pict...</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Importar Pict...</translation>
     </message>
     <message>
         <source>Imports Pict Files</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Importa ficheiros Pict</translation>
     </message>
     <message>
         <source>Imports most Mac Pict files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Importa a maioría dos ficheiros Pict de Mac no documento actual,
+convertendo os seus datos vectoriais en obxectos de Scribus.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7682,11 +7688,11 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Dia Shapes &quot;*.shape&quot; File</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Ficheiro de formas do Dia &quot;*.shape&quot;</translation>
     </message>
     <message>
         <source>Dia Shapes &quot;*.shape&quot; File (*.shape *.SHAPE)</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Ficheiro de formas do Dia (*.shape. *.SHAPE)</translation>
     </message>
     <message>
         <source>Imports Dia shape Files</source>
@@ -7700,7 +7706,7 @@ convertendo os seus datos vectoriais en obxectos de Scribus.</translation>
     </message>
     <message>
         <source>Dia shapes &quot;*.shape&quot; File (*.shape *.SHAPE)</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Ficheiro «*.shape» de formas do Dia (*.shape. *.SHAPE)</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7847,16 +7853,17 @@ convertendo os seus datos vectoriais en obxectos de Scribus.</translation>
     <name>ImportWpgPlugin</name>
     <message>
         <source>Import WPG...</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Importar WPG...</translation>
     </message>
     <message>
         <source>Imports WPG Files</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Importa ficheiros WPG</translation>
     </message>
     <message>
         <source>Imports most WPG files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Importa a maioría dos ficheiros WPG no documento actual,
+convertendo os seus datos vectoriais en obxectos de Scribus.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -9427,67 +9434,67 @@ p, li { white-space: pre-wrap; }
     <name>MasterPagesPalette</name>
     <message>
         <source>Edit Master Pages</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Editar as páxinas mestras</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">&amp;Nome:</translation>
     </message>
     <message>
         <source>New Master Page</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Nova páxina mestra</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Nome:</translation>
     </message>
     <message>
         <source>New MasterPage</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Nova páxina mestra</translation>
     </message>
     <message>
         <source>Copy #%1 of </source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Copia nº %1 de </translation>
     </message>
     <message>
         <source>Duplicate the selected master page</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Duplicar a páxina mestra seleccionada</translation>
     </message>
     <message>
         <source>Delete the selected master page</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Eliminar a páxina mestra seleccionada</translation>
     </message>
     <message>
         <source>Add a new master page</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Engadir unha páxina mestra nova</translation>
     </message>
     <message>
         <source>Import master pages from another document</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Importar páxinas mestras doutro documento</translation>
     </message>
     <message>
         <source>New Master Page %1</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Nova páxina mestra %1</translation>
     </message>
     <message>
         <source>Unable to Rename Master Page</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Non foi posíbel mudarlle o nome á páxina mestra</translation>
     </message>
     <message>
         <source>The Normal page is not allowed to be renamed.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Non se permite que se lle mude o nome á páxina Normal.</translation>
     </message>
     <message>
         <source>Rename Master Page</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Mudarlle o nome á páxina mestra</translation>
     </message>
     <message>
         <source>New Name:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Novo nome:</translation>
     </message>
     <message>
         <source>Copy #%1 of %2</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Copia nº %1 de %2</translation>
     </message>
     <message>
         <source>This master page is used at least once in the document.</source>
@@ -9495,7 +9502,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Do you really want to delete master page &quot;%1&quot;?</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Confirma que desexa eliminar a páxina mestra «%1»?</translation>
     </message>
 </context>
 <context>
@@ -11793,7 +11800,9 @@ Emprégase normalmente para permitir que se coloquen elementos que se estendan e
 
 Please submit your file (if possible) to the
 Document Liberation Project http://www.documentliberation.org</source>
-        <translation type="unfinished"/>
+        <translation>Fallou a análise!
+
+Envíe o ficheiro (de ser posíbel) ao Proxecto de Liberación de Documentos, http://www.documentliberation.org</translation>
     </message>
 </context>
 <context>
@@ -12996,7 +13005,7 @@ Escolla outro.</translation>
     <name>PictureBrowser</name>
     <message>
         <source>Scribus Picture Browser</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Navegador de imaxes do Scribus</translation>
     </message>
     <message>
         <source>Folder Browser</source>
@@ -13080,7 +13089,7 @@ Escolla outro.</translation>
     </message>
     <message>
         <source>Change sortorder</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Cambiar a ordenación</translation>
     </message>
     <message>
         <source>Zoom in</source>
@@ -16129,7 +16138,7 @@ O valor 0 significa un número ilimitado.</translation>
     </message>
     <message>
         <source>Available Fonts</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Tipos de letra dispoñíbeis</translation>
     </message>
     <message>
         <source>Embed All</source>
@@ -16137,7 +16146,7 @@ O valor 0 significa un número ilimitado.</translation>
     </message>
     <message>
         <source>Outline All</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Esquematizalas todas</translation>
     </message>
     <message>
         <source>Fonts to Embed</source>
@@ -16145,7 +16154,7 @@ O valor 0 significa un número ilimitado.</translation>
     </message>
     <message>
         <source>Fonts to Outline</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Tipos de letra a esquematizar</translation>
     </message>
     <message>
         <source>Extras</source>
@@ -16625,7 +16634,7 @@ O valor 0 significa un número ilimitado.</translation>
     </message>
     <message>
         <source>Convert all glyphs in the document to outlines.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Converter todos os glifos do documento en siluetas.</translation>
     </message>
     <message>
         <source>Show the document in single page mode</source>
@@ -17676,11 +17685,11 @@ A UCR reduce a posibilidade dun exceso de saturación coas tintas CMY.</translat
     </message>
     <message>
         <source>Icon Set:</source>
-        <translation type="unfinished"/>
+        <translation>Conxunto de iconas:</translation>
     </message>
     <message>
         <source>Choose the default icon set</source>
-        <translation type="unfinished"/>
+        <translation>Escolla o conxunto de iconas predeterminado</translation>
     </message>
 </context>
 <context>
@@ -20569,19 +20578,19 @@ Comprobe a ruta e o nome do ficheiro.</translation>
     </message>
     <message>
         <source>Look in:</source>
-        <translation type="unfinished"/>
+        <translation>Buscar en:</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished"/>
+        <translation>Adiante</translation>
     </message>
     <message>
         <source>Parent Directory</source>
-        <translation type="unfinished"/>
+        <translation>Directorio superior</translation>
     </message>
     <message>
         <source>Recent Places</source>
-        <translation type="unfinished"/>
+        <translation>Lugares recentes</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -20589,11 +20598,11 @@ Comprobe a ruta e o nome do ficheiro.</translation>
     </message>
     <message>
         <source>Are you sure you want to delete &apos;%1&apos;?</source>
-        <translation type="unfinished"/>
+        <translation>Confirma que desexa eliminar «%1»?</translation>
     </message>
     <message>
         <source>&amp;New Folder</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Novo cartafol</translation>
     </message>
 </context>
 <context>
@@ -21452,7 +21461,7 @@ Ligazóns externas</translation>
     </message>
     <message>
         <source>Unable to read settings XML:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Non foi posíbel ler a configuración XML:</translation>
     </message>
     <message>
         <source>%1 (line %2 col %3)</source>
@@ -21481,7 +21490,7 @@ Ligazóns externas</translation>
     <message>
         <source>unexpected null &lt;%2&gt; node</source>
         <comment>Load PDF settings</comment>
-        <translation type="unfinished"/>
+        <translation type="vanished">nodo nulo &lt;%2&gt; que non se esperaba</translation>
     </message>
     <message>
         <source>node &lt;%1&gt; not an element</source>
@@ -21562,7 +21571,7 @@ Ligazóns externas</translation>
     <message>
         <source>Failed to open document.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation type="vanished">Non foi posíbel abrir o documento.</translation>
     </message>
     <message>
         <source>Failed to save document.</source>
@@ -21839,7 +21848,7 @@ debido a excepcións das funcións chamadas.</translation>
     </message>
     <message>
         <source>table &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">táboa «%1»</translation>
     </message>
     <message>
         <source>memcpy table: %1 %2 %3</source>
@@ -22008,11 +22017,11 @@ debido a excepcións das funcións chamadas.</translation>
     </message>
     <message>
         <source>C&amp;reate</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">C&amp;rear</translation>
     </message>
     <message>
         <source>&amp;Import</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">&amp;Importar</translation>
     </message>
     <message>
         <source>Thai</source>
@@ -22363,7 +22372,7 @@ debido a excepcións das funcións chamadas.</translation>
     </message>
     <message>
         <source>Encapsulated PostScript &quot;*.eps&quot;</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">PostScript encapsulado «*.eps»</translation>
     </message>
     <message>
         <source>GIF</source>
@@ -22387,35 +22396,35 @@ debido a excepcións das funcións chamadas.</translation>
     </message>
     <message>
         <source>PostScript &quot;*.ps&quot;</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">PostScript «*.ps»</translation>
     </message>
     <message>
         <source>Adobe Photoshop &quot;*.psd&quot;</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Photoshop da Adobe «*.psd»</translation>
     </message>
     <message>
         <source>Windows Meta File &quot;*.wmf&quot;</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Ficheiro Meta do Windows «*.wmf»</translation>
     </message>
     <message>
         <source>Scalable Vector Graphics &quot;*.svg&quot;</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Gráficos vectoriais escalábeis «*.svg»</translation>
     </message>
     <message>
         <source>Adobe Illustrator &quot;*.ai&quot;</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Illustrator da Adobe «*.ai»</translation>
     </message>
     <message>
         <source>GraphicsMagick File</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Ficheiro de GraphicsMagick</translation>
     </message>
     <message>
         <source>UniConvertor File</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Ficheiro do UniConvertor</translation>
     </message>
     <message>
         <source>Macintosh Pict File</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Ficheiro Pict de Macintosh</translation>
     </message>
     <message>
         <source>TIFF</source>
@@ -22607,7 +22616,7 @@ Polo tanto, a imaxe podería non ser correcta</translation>
     </message>
     <message>
         <source>Cvg Importer</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Importador de Cvg</translation>
     </message>
     <message>
         <source>Pict Importer</source>
@@ -22675,11 +22684,11 @@ Polo tanto, a imaxe podería non ser correcta</translation>
     </message>
     <message>
         <source>Calamus CVG File</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Ficheiro CVG de Calamus</translation>
     </message>
     <message>
         <source>Word Perfect WPG File</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Ficheiro WPG do WordPerfect</translation>
     </message>
     <message>
         <source>BMP</source>
@@ -23131,17 +23140,17 @@ Polo tanto, a imaxe podería non ser correcta</translation>
     </message>
     <message>
         <source>Open Raster Files</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Ficheiros de Open Raster</translation>
     </message>
     <message>
         <source>unexpected null &lt;%1&gt; node</source>
         <comment>Load PDF settings</comment>
-        <translation type="unfinished"/>
+        <translation>nó nulo &lt;%1&gt; que non se agardaba</translation>
     </message>
     <message>
         <source>element &lt;%1&gt; value must be an integer</source>
         <comment>Load PDF settings</comment>
-        <translation type="unfinished"/>
+        <translation>o valor do elemento &lt;%1&gt; debe ser un enteiro</translation>
     </message>
     <message>
         <source>element &lt;%1&gt; value must be a double</source>
@@ -23150,55 +23159,55 @@ Polo tanto, a imaxe podería non ser correcta</translation>
     </message>
     <message>
         <source>Pagemaker Importer</source>
-        <translation type="unfinished"/>
+        <translation>Importador do Pagemaker</translation>
     </message>
     <message>
         <source>Failed to open document: %1</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Non foi posíbel abrir o documento: %1</translation>
     </message>
     <message>
         <source>Master page does not exist: &apos;%1&apos;</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>A páxina mestra non exista: «%1»</translation>
     </message>
     <message>
         <source>Page number out of range: %1.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>O número de páxina está fóra do intervalo: %1.</translation>
     </message>
     <message>
         <source>Failed to apply masterpage &apos;%1&apos; on page: %2</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Non foi posíbel aplicarlle a páxina mestra «%1» á páxina: %2</translation>
     </message>
     <message>
         <source>Bosnian</source>
-        <translation type="unfinished"/>
+        <translation>Bosníaco</translation>
     </message>
     <message>
         <source>Serbian (Latin)</source>
-        <translation type="unfinished"/>
+        <translation>Serbio (latino)</translation>
     </message>
     <message>
         <source>Telugu</source>
-        <translation type="unfinished"/>
+        <translation>Telugu</translation>
     </message>
     <message>
         <source>EMF Importer</source>
-        <translation type="unfinished"/>
+        <translation>Importador de EMF</translation>
     </message>
     <message>
         <source>SVM Importer</source>
-        <translation type="unfinished"/>
+        <translation>Importador de SVM</translation>
     </message>
     <message>
         <source>Qt supported File</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Ficheiro admitido por Qt</translation>
     </message>
     <message>
         <source>Custom Shapes</source>
-        <translation type="unfinished"/>
+        <translation>Formas personalizadas</translation>
     </message>
     <message>
         <source>CustomShapes</source>
@@ -23230,27 +23239,27 @@ Polo tanto, a imaxe podería non ser correcta</translation>
     </message>
     <message>
         <source>Calamus CVG</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">CVG de Calamus</translation>
     </message>
     <message>
         <source>Word Perfect WPG</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">WPG do WordPerfect</translation>
     </message>
     <message>
         <source>Open Raster</source>
-        <translation type="unfinished"/>
+        <translation>Open Raster</translation>
     </message>
     <message>
         <source>GraphicsMagick</source>
-        <translation type="unfinished"/>
+        <translation>GraphicsMagick</translation>
     </message>
     <message>
         <source>UniConvertor</source>
-        <translation type="unfinished"/>
+        <translation>UniConvertor</translation>
     </message>
     <message>
         <source>Macintosh Pict</source>
-        <translation type="unfinished"/>
+        <translation>Pict de Macintosh</translation>
     </message>
     <message>
         <source>&lt;fontEmbedding&gt; invalid</source>
@@ -23259,23 +23268,23 @@ Polo tanto, a imaxe podería non ser correcta</translation>
     </message>
     <message>
         <source>Calamus Vector Graphics Importer</source>
-        <translation type="unfinished"/>
+        <translation>Importador de Calamus Vector Graphics</translation>
     </message>
     <message>
         <source>Calamus Vector Graphics</source>
-        <translation type="unfinished"/>
+        <translation>Calamus Vector Graphics</translation>
     </message>
     <message>
         <source>WordPerfect Graphics</source>
-        <translation type="unfinished"/>
+        <translation>Gráficos do WordPerfect</translation>
     </message>
     <message>
         <source>Qt Supported File</source>
-        <translation type="unfinished"/>
+        <translation>Ficheiro admitido por Qt</translation>
     </message>
     <message>
         <source>Freehand Importer</source>
-        <translation type="unfinished"/>
+        <translation>Importador do Freehand</translation>
     </message>
 </context>
 <context>
@@ -23411,11 +23420,11 @@ Escolla outro.</translation>
     </message>
     <message>
         <source>Hyphenation Dictionaries</source>
-        <translation type="unfinished"/>
+        <translation>Dicionarios de separación con guións</translation>
     </message>
     <message>
         <source>Spelling Dictionaries</source>
-        <translation type="unfinished"/>
+        <translation>Dicionarios ortográficos</translation>
     </message>
     <message>
         <source>Description</source>
@@ -23450,7 +23459,7 @@ Escolla outro.</translation>
     <name>ResourceManagerBase</name>
     <message>
         <source>Resource Manager</source>
-        <translation type="unfinished"/>
+        <translation>Xestor de recursos</translation>
     </message>
     <message>
         <source>Category:</source>
@@ -23466,7 +23475,7 @@ Escolla outro.</translation>
     </message>
     <message>
         <source>ID</source>
-        <translation type="unfinished"/>
+        <translation>Identificador</translation>
     </message>
     <message>
         <source>Location</source>
@@ -23474,7 +23483,7 @@ Escolla outro.</translation>
     </message>
     <message>
         <source>Show in Filesystem</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar no sistema de ficheiros</translation>
     </message>
     <message>
         <source>Delete Selected</source>
@@ -23482,7 +23491,7 @@ Escolla outro.</translation>
     </message>
     <message>
         <source>Available</source>
-        <translation type="unfinished"/>
+        <translation>Dispoñíbel</translation>
     </message>
     <message>
         <source>Download</source>
@@ -23490,7 +23499,7 @@ Escolla outro.</translation>
     </message>
     <message>
         <source>Update Available List</source>
-        <translation type="unfinished"/>
+        <translation>Actualizar a lista de dispoñíbeis</translation>
     </message>
 </context>
 <context>
@@ -25647,51 +25656,51 @@ convertendo os seus datos vectoriais en obxectos de Scribus.</translation>
     </message>
     <message>
         <source>Courier</source>
-        <translation type="unfinished"/>
+        <translation>Courier</translation>
     </message>
     <message>
         <source>Courier Bold</source>
-        <translation type="unfinished"/>
+        <translation>Courier negra</translation>
     </message>
     <message>
         <source>Courier Italic</source>
-        <translation type="unfinished"/>
+        <translation>Courier cursiva</translation>
     </message>
     <message>
         <source>Courier Bold Italic</source>
-        <translation type="unfinished"/>
+        <translation>Courier negra cursiva</translation>
     </message>
     <message>
         <source>Helvetica</source>
-        <translation type="unfinished"/>
+        <translation>Helvetica</translation>
     </message>
     <message>
         <source>Helvetica Bold</source>
-        <translation type="unfinished"/>
+        <translation>Helvetica negra</translation>
     </message>
     <message>
         <source>Helvetica Italic</source>
-        <translation type="unfinished"/>
+        <translation>Helvetica cursiva</translation>
     </message>
     <message>
         <source>Helvetica Bold Italic</source>
-        <translation type="unfinished"/>
+        <translation>Helvetica negra cursiva</translation>
     </message>
     <message>
         <source>Times</source>
-        <translation type="unfinished"/>
+        <translation>Times</translation>
     </message>
     <message>
         <source>Times Bold</source>
-        <translation type="unfinished"/>
+        <translation>Times negra</translation>
     </message>
     <message>
         <source>Times Italic</source>
-        <translation type="unfinished"/>
+        <translation>Times cursiva</translation>
     </message>
     <message>
         <source>Times Bold Italic</source>
-        <translation type="unfinished"/>
+        <translation>Times negra cursiva</translation>
     </message>
     <message>
         <source>Zapf Dingbats</source>
@@ -25699,11 +25708,11 @@ convertendo os seus datos vectoriais en obxectos de Scribus.</translation>
     </message>
     <message>
         <source>Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Símbolos</translation>
     </message>
     <message>
         <source>Plain Text</source>
-        <translation type="unfinished"/>
+        <translation>Texto simple</translation>
     </message>
     <message>
         <source>9,999.99</source>
@@ -25723,91 +25732,91 @@ convertendo os seus datos vectoriais en obxectos de Scribus.</translation>
     </message>
     <message>
         <source>m/d</source>
-        <translation type="unfinished"/>
+        <translation>m/d</translation>
     </message>
     <message>
         <source>m/d/yy</source>
-        <translation type="unfinished"/>
+        <translation>m/d/aa</translation>
     </message>
     <message>
         <source>mm/dd/yy</source>
-        <translation type="unfinished"/>
+        <translation>mm/dd/aa</translation>
     </message>
     <message>
         <source>mm/yy</source>
-        <translation type="unfinished"/>
+        <translation>mm/aa</translation>
     </message>
     <message>
         <source>d-mmm</source>
-        <translation type="unfinished"/>
+        <translation>d-mmm</translation>
     </message>
     <message>
         <source>d-mmm-yy</source>
-        <translation type="unfinished"/>
+        <translation>d-mmm-aa</translation>
     </message>
     <message>
         <source>dd-mmm-yy</source>
-        <translation type="unfinished"/>
+        <translation>dd-mmm-aa</translation>
     </message>
     <message>
         <source>dd/mm/yy</source>
-        <translation type="unfinished"/>
+        <translation>dd/mm/aa</translation>
     </message>
     <message>
         <source>dd/mm/yyyy</source>
-        <translation type="unfinished"/>
+        <translation>dd/mm/aaaa</translation>
     </message>
     <message>
         <source>dd.mm.yyyy</source>
-        <translation type="unfinished"/>
+        <translation>dd.mm.aaaa</translation>
     </message>
     <message>
         <source>yy-mm-dd</source>
-        <translation type="unfinished"/>
+        <translation>aa-mm-dd</translation>
     </message>
     <message>
         <source>mmm-yy</source>
-        <translation type="unfinished"/>
+        <translation>mmm-aa</translation>
     </message>
     <message>
         <source>mmmm-yy</source>
-        <translation type="unfinished"/>
+        <translation>mmmm-aa</translation>
     </message>
     <message>
         <source>mmm d, yyyy</source>
-        <translation type="unfinished"/>
+        <translation>mmm d, aaaa</translation>
     </message>
     <message>
         <source>mmmm d, yyyy</source>
-        <translation type="unfinished"/>
+        <translation>mmmm d, aaaa</translation>
     </message>
     <message>
         <source>m/d/yy h:MM tt</source>
-        <translation type="unfinished"/>
+        <translation>m/d/aa h:MM tt</translation>
     </message>
     <message>
         <source>m/d/yy HH:MM</source>
-        <translation type="unfinished"/>
+        <translation>m/d/aa HH:MM</translation>
     </message>
     <message>
         <source>yyyy-mm-dd</source>
-        <translation type="unfinished"/>
+        <translation>aaaa-mm-dd</translation>
     </message>
     <message>
         <source>HH:MM</source>
-        <translation type="unfinished"/>
+        <translation>HH:MM</translation>
     </message>
     <message>
         <source>h:MM tt</source>
-        <translation type="unfinished"/>
+        <translation>h:MM tt</translation>
     </message>
     <message>
         <source>HH:MM:ss</source>
-        <translation type="unfinished"/>
+        <translation>HH:MM:ss</translation>
     </message>
     <message>
         <source>h:MM:ss tt</source>
-        <translation type="unfinished"/>
+        <translation>h:MM:ss tt</translation>
     </message>
 </context>
 <context>
@@ -25884,7 +25893,7 @@ convertendo os seus datos vectoriais en obxectos de Scribus.</translation>
     </message>
     <message>
         <source>C&amp;onvert To</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Converter en</translation>
     </message>
     <message>
         <source>Character</source>
@@ -25912,55 +25921,55 @@ convertendo os seus datos vectoriais en obxectos de Scribus.</translation>
     </message>
     <message>
         <source>C&amp;onvert to</source>
-        <translation type="unfinished"/>
+        <translation>C&amp;onverter en</translation>
     </message>
     <message>
         <source>Duplicate/Transform</source>
-        <translation type="unfinished"/>
+        <translation>Duplicar/Transformar</translation>
     </message>
     <message>
         <source>Grouping</source>
-        <translation type="unfinished"/>
+        <translation>Agrupamento</translation>
     </message>
     <message>
         <source>Locking</source>
-        <translation type="unfinished"/>
+        <translation>Bloqueo</translation>
     </message>
     <message>
         <source>Send to</source>
-        <translation type="unfinished"/>
+        <translation>Enviar para</translation>
     </message>
     <message>
         <source>Scrapbook</source>
-        <translation type="unfinished"/>
+        <translation>Portarretallos</translation>
     </message>
     <message>
         <source>Adjust</source>
-        <translation type="unfinished"/>
+        <translation>Axustar</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished"/>
+        <translation>Imaxe</translation>
     </message>
     <message>
         <source>Text Frame Links</source>
-        <translation type="unfinished"/>
+        <translation>Ligazóns a molduras de texto</translation>
     </message>
     <message>
         <source>Welding</source>
-        <translation type="unfinished"/>
+        <translation>Fusión</translation>
     </message>
     <message>
         <source>Marks</source>
-        <translation type="unfinished"/>
+        <translation>Marcas</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Ampliación</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"/>
+        <translation>Previsualización</translation>
     </message>
     <message>
         <source>Measurement</source>
@@ -25968,19 +25977,19 @@ convertendo os seus datos vectoriais en obxectos de Scribus.</translation>
     </message>
     <message>
         <source>Text Frames</source>
-        <translation type="unfinished"/>
+        <translation>Molduras de texto</translation>
     </message>
     <message>
         <source>Image Frames</source>
-        <translation type="unfinished"/>
+        <translation>Molduras de imaxe</translation>
     </message>
     <message>
         <source>Document</source>
-        <translation type="unfinished"/>
+        <translation>Documento</translation>
     </message>
     <message>
         <source>Grids and Guides</source>
-        <translation type="unfinished"/>
+        <translation>Grades e guías</translation>
     </message>
 </context>
 <context>
@@ -26276,7 +26285,7 @@ Rotación: %4</translation>
     </message>
     <message>
         <source>C&amp;onvert To</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Converter en</translation>
     </message>
     <message>
         <source>Ready</source>
@@ -26620,7 +26629,7 @@ Considere utilizar o Comprobador pré-voo para corrixilos</translation>
     </message>
     <message>
         <source>Text Frame Links</source>
-        <translation type="unfinished"/>
+        <translation>Ligazóns a molduras de texto</translation>
     </message>
     <message>
         <source>Path Tools</source>
@@ -26704,7 +26713,7 @@ Considere utilizar o Comprobador pré-voo para corrixilos</translation>
     </message>
     <message>
         <source>C&amp;onvert to</source>
-        <translation type="unfinished"/>
+        <translation>C&amp;onverter en</translation>
     </message>
     <message>
         <source>%1 selected</source>
@@ -27389,7 +27398,7 @@ Considere utilizar o Comprobador pré-voo para corrixilos</translation>
     </message>
     <message>
         <source>Custom Shapes</source>
-        <translation type="unfinished"/>
+        <translation>Formas personalizadas</translation>
     </message>
     <message>
         <source>Load Photoshop Custom Shapes</source>
@@ -28860,7 +28869,7 @@ ao abrir o documento PDF:</translation>
     </message>
     <message>
         <source>Convert all glyphs in the document to outlines.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Converter todos os glifos do documento en siluetas.</translation>
     </message>
     <message>
         <source>Document Layout</source>
@@ -30320,7 +30329,7 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Swap page</source>
-        <translation type="unfinished"/>
+        <translation>Intercambiar a páxina</translation>
     </message>
     <message>
         <source>Unweld Items</source>
@@ -30878,7 +30887,7 @@ convertendo os seus datos vectoriais en obxectos de Scribus.</translation>
     </message>
     <message>
         <source>Transparency:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Transparencia:</translation>
     </message>
     <message>
         <source>Edit Colors</source>

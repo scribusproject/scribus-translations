@@ -264,7 +264,7 @@
     <message>
         <location filename="../../../scribus/aboutplugins.cpp" line="72"/>
         <source>Enabled:</source>
-        <translation type="unfinished"/>
+        <translation>Galluogi:</translation>
     </message>
     <message>
         <location filename="../../../scribus/aboutplugins.cpp" line="73"/>
@@ -444,7 +444,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1304"/>
         <source>&amp;Deselect All</source>
-        <translation type="unfinished"/>
+        <translation>Dad-ddewis y Cyfan</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1305"/>
@@ -474,7 +474,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1312"/>
         <source>&amp;Master Pages...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Prif Tudalennau</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1313"/>
@@ -484,17 +484,17 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1320"/>
         <source>%1 pt</source>
-        <translation type="unfinished"/>
+        <translation>%1 pt</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1322"/>
         <source>&amp;Other...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Araill</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1323"/>
         <source>&amp;Left</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Chwith</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1324"/>
@@ -504,37 +504,37 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1325"/>
         <source>&amp;Right</source>
-        <translation type="unfinished"/>
+        <translation>&amp;De</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1326"/>
         <source>&amp;Block</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Bloc</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1327"/>
         <source>&amp;Forced</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Gorfodol</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1338"/>
         <source>&amp;Normal</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Normal</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1339"/>
         <source>&amp;Underline</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tanlinellu</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1340"/>
         <source>Underline &amp;Words</source>
-        <translation type="unfinished"/>
+        <translation>Tanlinellu &amp;Geiriau</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1341"/>
         <source>&amp;Strike Through</source>
-        <translation type="unfinished"/>
+        <translation>%Llinell Drwodd</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1342"/>
@@ -570,12 +570,12 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1349"/>
         <source>&amp;Image Effects</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Delwedd Effeithiau</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1350"/>
         <source>&amp;Tabulators...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tablwr...</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1353"/>
@@ -15910,7 +15910,7 @@ Gwiriwch y llwybr ac enw&apos;r ffeil.</translation>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="156"/>
         <source>&amp;Underline</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tanlinellu</translation>
     </message>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="157"/>

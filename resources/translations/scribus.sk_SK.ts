@@ -1261,7 +1261,7 @@
     </message>
     <message>
         <source>&amp;Transform</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Transformovať</translation>
     </message>
     <message>
         <source>Paste Image from Clipboard</source>
@@ -1269,27 +1269,27 @@
     </message>
     <message>
         <source>Insert Rows...</source>
-        <translation type="unfinished"/>
+        <translation>Vložiť Riadky</translation>
     </message>
     <message>
         <source>Insert Columns...</source>
-        <translation type="unfinished"/>
+        <translation>Vložiť Stĺpce</translation>
     </message>
     <message>
         <source>Delete Rows</source>
-        <translation type="unfinished"/>
+        <translation>Vymazať Riadky</translation>
     </message>
     <message>
         <source>Delete Columns</source>
-        <translation type="unfinished"/>
+        <translation>Vymazať Stĺpce</translation>
     </message>
     <message>
         <source>Merge Cells</source>
-        <translation type="unfinished"/>
+        <translation>Zlúčiť Bunky</translation>
     </message>
     <message>
         <source>Split Cells...</source>
-        <translation type="unfinished"/>
+        <translation>Rozdeliť Bunky</translation>
     </message>
     <message>
         <source>Set Row Heights...</source>

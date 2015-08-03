@@ -3233,7 +3233,7 @@ Adjon meg egy másik nevet.</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"/>
+        <translation>…</translation>
     </message>
     <message>
         <source>M:</source>
@@ -9418,11 +9418,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>New MasterPage</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Új mesteroldal</translation>
     </message>
     <message>
         <source>Copy #%1 of </source>
-        <translation type="unfinished"/>
+        <translation type="vanished">#%1 másolata</translation>
     </message>
     <message>
         <source>Duplicate the selected master page</source>
@@ -9462,7 +9462,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Copy #%1 of %2</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">%2 %1. másolata</translation>
     </message>
     <message>
         <source>This master page is used at least once in the document.</source>
@@ -16097,7 +16097,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Available Fonts</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Rendelkezésre álló betűkészletek</translation>
     </message>
     <message>
         <source>Embed All</source>
@@ -16105,7 +16105,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Outline All</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Összes körvonalasítása</translation>
     </message>
     <message>
         <source>Fonts to Embed</source>
@@ -16113,7 +16113,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Fonts to Outline</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Körvonallá alakítandó betűkészletek</translation>
     </message>
     <message>
         <source>Extras</source>
@@ -16593,7 +16593,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Convert all glyphs in the document to outlines.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">A dokumentumban található összes betűkészletjel átalakítása körvonallá.</translation>
     </message>
     <message>
         <source>Show the document in single page mode</source>
@@ -17110,7 +17110,7 @@ Az 1. és a 2. szint nagy méretű fájlt eredményez</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Minden</translation>
     </message>
     <message>
         <source>Length:</source>
@@ -17639,11 +17639,11 @@ Az 1. és a 2. szint nagy méretű fájlt eredményez</translation>
     </message>
     <message>
         <source>Icon Set:</source>
-        <translation type="unfinished"/>
+        <translation>Ikonkészlet:</translation>
     </message>
     <message>
         <source>Choose the default icon set</source>
-        <translation type="unfinished"/>
+        <translation>Alapértelmezett ikonkészlet kiválasztása</translation>
     </message>
 </context>
 <context>
@@ -18857,7 +18857,7 @@ Transparency</source>
     <name>PropertiesPalette_Shape</name>
     <message>
         <source> pt</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">pt</translation>
     </message>
     <message>
         <source>Shape:</source>
@@ -20264,7 +20264,7 @@ dokumentációjában található további információ.</translation>
     </message>
     <message>
         <source>Select color</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Szín kiválasztása</translation>
     </message>
     <message>
         <source>Pick Screen Color</source>
@@ -21409,7 +21409,7 @@ Külső hivatkozások
     </message>
     <message>
         <source>Unable to read settings XML:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Nem lehet az XML beállításokat betölteni:</translation>
     </message>
     <message>
         <source>%1 (line %2 col %3)</source>
@@ -21438,7 +21438,7 @@ Külső hivatkozások
     <message>
         <source>unexpected null &lt;%2&gt; node</source>
         <comment>Load PDF settings</comment>
-        <translation type="unfinished"/>
+        <translation type="vanished">Nem várt null &lt;%2&gt; csomópont</translation>
     </message>
     <message>
         <source>node &lt;%1&gt; not an element</source>
@@ -21519,7 +21519,7 @@ Külső hivatkozások
     <message>
         <source>Failed to open document.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation type="vanished">Dokumentum megnyitása sikertelen.</translation>
     </message>
     <message>
         <source>Failed to save document.</source>
@@ -21793,19 +21793,19 @@ lista hiányos a meghívott funkciók miatt.</translation>
     </message>
     <message>
         <source>memcpy header: %1 %2 %3</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">memcpy fejléc: %1 %2 %3</translation>
     </message>
     <message>
         <source>table &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">&apos;%1&apos; táblázat</translation>
     </message>
     <message>
         <source>memcpy table: %1 %2 %3</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">memcpy táblázat: %1 %2 %3</translation>
     </message>
     <message>
         <source>memcpy offset: %1 %2 %3</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">memcpy eltolás: %1 %2 %3</translation>
     </message>
     <message>
         <source>Scribus Crash</source>
@@ -21966,11 +21966,11 @@ lista hiányos a meghívott funkciók miatt.</translation>
     </message>
     <message>
         <source>C&amp;reate</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">&amp;Létrehozás</translation>
     </message>
     <message>
         <source>&amp;Import</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">&amp;Importálás</translation>
     </message>
     <message>
         <source>Thai</source>
@@ -22321,7 +22321,7 @@ lista hiányos a meghívott funkciók miatt.</translation>
     </message>
     <message>
         <source>Encapsulated PostScript &quot;*.eps&quot;</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Beágyazott PostScript &quot;*.eps&quot;</translation>
     </message>
     <message>
         <source>GIF</source>
@@ -22345,35 +22345,35 @@ lista hiányos a meghívott funkciók miatt.</translation>
     </message>
     <message>
         <source>PostScript &quot;*.ps&quot;</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">PostScript &quot;*.ps&quot;</translation>
     </message>
     <message>
         <source>Adobe Photoshop &quot;*.psd&quot;</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Adobe Photoshop &quot;*.psd&quot;</translation>
     </message>
     <message>
         <source>Windows Meta File &quot;*.wmf&quot;</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Windows Meta File &quot;*.wmf&quot;</translation>
     </message>
     <message>
         <source>Scalable Vector Graphics &quot;*.svg&quot;</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Skálázható Vektorgrafika &quot;*.svg&quot;</translation>
     </message>
     <message>
         <source>Adobe Illustrator &quot;*.ai&quot;</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Adobe Illustrator &quot;*.ai&quot;</translation>
     </message>
     <message>
         <source>GraphicsMagick File</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">GraphicsMagick fájl</translation>
     </message>
     <message>
         <source>UniConvertor File</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">UniConvertor fájl</translation>
     </message>
     <message>
         <source>Macintosh Pict File</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Macintosh Pict fájl</translation>
     </message>
     <message>
         <source>TIFF</source>
@@ -22564,7 +22564,7 @@ A kép valószínű nem lesz így helyes</translation>
     </message>
     <message>
         <source>Cvg Importer</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Cvg Importáló</translation>
     </message>
     <message>
         <source>Pict Importer</source>
@@ -22632,11 +22632,11 @@ A kép valószínű nem lesz így helyes</translation>
     </message>
     <message>
         <source>Calamus CVG File</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Calamus CVG fájl</translation>
     </message>
     <message>
         <source>Word Perfect WPG File</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Word Perfect WPG fájl</translation>
     </message>
     <message>
         <source>BMP</source>
@@ -23088,7 +23088,7 @@ A kép valószínű nem lesz így helyes</translation>
     </message>
     <message>
         <source>Open Raster Files</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Open Raster fájlok</translation>
     </message>
     <message>
         <source>unexpected null &lt;%1&gt; node</source>
@@ -23151,7 +23151,7 @@ A kép valószínű nem lesz így helyes</translation>
     </message>
     <message>
         <source>Qt supported File</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Qt által támogatott fájl</translation>
     </message>
     <message>
         <source>Custom Shapes</source>
@@ -23187,11 +23187,11 @@ A kép valószínű nem lesz így helyes</translation>
     </message>
     <message>
         <source>Calamus CVG</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Calamus CVG</translation>
     </message>
     <message>
         <source>Word Perfect WPG</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Word Perfect WPG</translation>
     </message>
     <message>
         <source>Open Raster</source>
@@ -23232,7 +23232,7 @@ A kép valószínű nem lesz így helyes</translation>
     </message>
     <message>
         <source>Freehand Importer</source>
-        <translation type="unfinished"/>
+        <translation>Freehand importáló</translation>
     </message>
 </context>
 <context>
@@ -25603,63 +25603,63 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Courier</source>
-        <translation type="unfinished"/>
+        <translation>Courier</translation>
     </message>
     <message>
         <source>Courier Bold</source>
-        <translation type="unfinished"/>
+        <translation>Courier Bold</translation>
     </message>
     <message>
         <source>Courier Italic</source>
-        <translation type="unfinished"/>
+        <translation>Courier Italic</translation>
     </message>
     <message>
         <source>Courier Bold Italic</source>
-        <translation type="unfinished"/>
+        <translation>Courier Bold Italic</translation>
     </message>
     <message>
         <source>Helvetica</source>
-        <translation type="unfinished"/>
+        <translation>Helvetica</translation>
     </message>
     <message>
         <source>Helvetica Bold</source>
-        <translation type="unfinished"/>
+        <translation>Helvetica Bold</translation>
     </message>
     <message>
         <source>Helvetica Italic</source>
-        <translation type="unfinished"/>
+        <translation>Helvetica Italic</translation>
     </message>
     <message>
         <source>Helvetica Bold Italic</source>
-        <translation type="unfinished"/>
+        <translation>Helvetica Bold Italic</translation>
     </message>
     <message>
         <source>Times</source>
-        <translation type="unfinished"/>
+        <translation>Times</translation>
     </message>
     <message>
         <source>Times Bold</source>
-        <translation type="unfinished"/>
+        <translation>Times Bold</translation>
     </message>
     <message>
         <source>Times Italic</source>
-        <translation type="unfinished"/>
+        <translation>Times Italic</translation>
     </message>
     <message>
         <source>Times Bold Italic</source>
-        <translation type="unfinished"/>
+        <translation>Times Bold Italic</translation>
     </message>
     <message>
         <source>Zapf Dingbats</source>
-        <translation type="unfinished"/>
+        <translation>Zapf Dingbats</translation>
     </message>
     <message>
         <source>Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Symbols</translation>
     </message>
     <message>
         <source>Plain Text</source>
-        <translation type="unfinished"/>
+        <translation>Egyszerű szöveg</translation>
     </message>
     <message>
         <source>9,999.99</source>
@@ -25840,7 +25840,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>C&amp;onvert To</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">&amp;Átalakítás</translation>
     </message>
     <message>
         <source>Character</source>
@@ -25872,71 +25872,71 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Duplicate/Transform</source>
-        <translation type="unfinished"/>
+        <translation>Sokszorosítás/Átalakítás</translation>
     </message>
     <message>
         <source>Grouping</source>
-        <translation type="unfinished"/>
+        <translation>Csoportosítás</translation>
     </message>
     <message>
         <source>Locking</source>
-        <translation type="unfinished"/>
+        <translation>Zárolás</translation>
     </message>
     <message>
         <source>Send to</source>
-        <translation type="unfinished"/>
+        <translation>Küldés</translation>
     </message>
     <message>
         <source>Scrapbook</source>
-        <translation type="unfinished"/>
+        <translation>Gyűjtőalbum</translation>
     </message>
     <message>
         <source>Adjust</source>
-        <translation type="unfinished"/>
+        <translation>Igazítás</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished"/>
+        <translation>Kép</translation>
     </message>
     <message>
         <source>Text Frame Links</source>
-        <translation type="unfinished"/>
+        <translation>Kapcsolt szövegkeretek</translation>
     </message>
     <message>
         <source>Welding</source>
-        <translation type="unfinished"/>
+        <translation>Egymáshoz rögzítés</translation>
     </message>
     <message>
         <source>Marks</source>
-        <translation type="unfinished"/>
+        <translation>Jelek</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Nagyítás/kicsinyítés</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"/>
+        <translation>Előnézet</translation>
     </message>
     <message>
         <source>Measurement</source>
-        <translation type="unfinished"/>
+        <translation>Távolságmérés</translation>
     </message>
     <message>
         <source>Text Frames</source>
-        <translation type="unfinished"/>
+        <translation>Szövegkeretek</translation>
     </message>
     <message>
         <source>Image Frames</source>
-        <translation type="unfinished"/>
+        <translation>Képkeretek</translation>
     </message>
     <message>
         <source>Document</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentum</translation>
     </message>
     <message>
         <source>Grids and Guides</source>
-        <translation type="unfinished"/>
+        <translation>Rácsok és segédvonalak</translation>
     </message>
 </context>
 <context>
@@ -26232,7 +26232,7 @@ Forgatás: %4</translation>
     </message>
     <message>
         <source>C&amp;onvert To</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">&amp;Átalakítás</translation>
     </message>
     <message>
         <source>Ready</source>
@@ -26342,11 +26342,11 @@ Forgatás: %4</translation>
     </message>
     <message>
         <source>&amp;Shade:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">&amp;Árnyalat:</translation>
     </message>
     <message>
         <source>Shade</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Árnyalat</translation>
     </message>
     <message>
         <source>An error occurred while opening monitor profile.
@@ -26670,7 +26670,7 @@ Tekintse meg őket az Elővizsgálóval, hogy javítani tudja</translation>
     </message>
     <message>
         <source>Measurement</source>
-        <translation type="unfinished"/>
+        <translation>Távolságmérés</translation>
     </message>
 </context>
 <context>
@@ -26717,7 +26717,7 @@ Tekintse meg őket az Elővizsgálóval, hogy javítani tudja</translation>
     </message>
     <message>
         <source>Use right to left dialog button ordering (eg. Cancel/No/Yes instead of Yes/No/Cancel)</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Jobbról balra következő dialógusgomb sorrend alkalmazása (pl. Mégse/Nem/Igen az Igen/Nem/Mégse helyett)</translation>
     </message>
     <message>
         <source>filename</source>
@@ -26797,15 +26797,15 @@ Tekintse meg őket az Elővizsgálóval, hogy javítani tudja</translation>
     </message>
     <message>
         <source>Stop showing the splashscreen on startup. Writes an empty file called .neversplash in ~/.scribus</source>
-        <translation type="unfinished"/>
+        <translation>Indítóképernyő megjelenítésének leállítása. Egy üres fájlt hoz létre .neversplash néven a ~/.scribus könyvtárban.</translation>
     </message>
     <message>
         <source>Show location of ICC profile information on console while starting</source>
-        <translation type="unfinished"/>
+        <translation>ICC profilok helyének megjelenítése a terminálablakban indításkor</translation>
     </message>
     <message>
         <source>Download a file from the Scribus website and show the latest available version</source>
-        <translation type="unfinished"/>
+        <translation>Egy fájl letöltése a Scribus weboldaláról és a legfrissebb verzió megjelenítése.</translation>
     </message>
 </context>
 <context>
@@ -26836,7 +26836,7 @@ Tekintse meg őket az Elővizsgálóval, hogy javítani tudja</translation>
     </message>
     <message>
         <source>Linking Text Frames</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Szövegkeretek összekapcsolása</translation>
     </message>
     <message>
         <source>Cannot Convert In-Use Item</source>
@@ -26860,11 +26860,11 @@ Tekintse meg őket az Elővizsgálóval, hogy javítani tudja</translation>
     </message>
     <message>
         <source>Enter Object Size</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Objektum méretének megadása</translation>
     </message>
     <message>
         <source>You are trying to link a frame to itself.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">A keretet önmagához kísérelt kapcsolni.</translation>
     </message>
     <message>
         <source>End Edit</source>
@@ -27609,7 +27609,7 @@ Tekintse meg őket az Elővizsgálóval, hogy javítani tudja</translation>
     </message>
     <message>
         <source>Text Files (*.txt);;All Files(*)</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Szöveges fájlok (*.txt);;Minden fájl (*)</translation>
     </message>
     <message>
         <source>Save as</source>
@@ -28176,7 +28176,7 @@ Tekintse meg őket az Elővizsgálóval, hogy javítani tudja</translation>
     </message>
     <message>
         <source>Available Fonts:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Rendelkezésre álló betűkészletek:</translation>
     </message>
     <message>
         <source>Fonts to embed:</source>
@@ -28620,7 +28620,7 @@ Tekintse meg őket az Elővizsgálóval, hogy javítani tudja</translation>
     </message>
     <message>
         <source>This is an advanced setting which is not enabled by default. This should only be enabled when specifically requested by your printer and they have given you the exact details needed. Otherwize, your exported PDF may not print properly and is truly not portable across systems.</source>
-        <translation type="unfinished"/>
+        <translation>Ez egy haladó beállítás, mely alapértelmezetten nincs engedélyezve. Csak akkor kell engedélyezni, ha kifejezetten kéri a nyomtató és megadja a részleteket. Ellenkező esetben, az exportált PDF nyomtatása nem lesz megfelelő, és nem is lesz hordozható különböző rendszerek között.</translation>
     </message>
     <message>
         <source>Display Settings</source>
@@ -28789,7 +28789,7 @@ when PDF document is opened:</source>
     </message>
     <message>
         <source>InfoString</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Tájékoztató</translation>
     </message>
     <message>
         <source>Inside:</source>
@@ -28805,15 +28805,15 @@ when PDF document is opened:</source>
     </message>
     <message>
         <source>Fonts to outline:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Körvonallá alakítandó betűkészletek:</translation>
     </message>
     <message>
         <source>&amp;Outline all</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Összes &amp;körvonalasítása</translation>
     </message>
     <message>
         <source>Convert all glyphs in the document to outlines.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">A dokumentumban található összes betűkészletjel átalakítása körvonallá.</translation>
     </message>
     <message>
         <source>Document Layout</source>
@@ -29758,7 +29758,7 @@ to %2</source>
     </message>
     <message>
         <source>Raize layer</source>
-        <translation type="unfinished"/>
+        <translation>Réteg emelése</translation>
     </message>
     <message>
         <source>Lower layer</source>
@@ -30829,7 +30829,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Transparency:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Átlátszóság:</translation>
     </message>
     <message>
         <source>Edit Colors</source>
@@ -31666,11 +31666,11 @@ please choose another one.</source>
     <name>weldEditBase</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Űrlap</translation>
     </message>
     <message>
         <source>Move weld Point</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Rögzítési pont mozgatása</translation>
     </message>
     <message>
         <source>Move Object</source>

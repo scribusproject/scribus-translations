@@ -12,11 +12,11 @@
     </message>
     <message>
         <source>Group%1</source>
-        <translation>grŵp%1</translation>
+        <translation>Grŵp%1</translation>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation>Dadansoddiadu Ffeil</translation>
+        <translation>Dadansoddiadu eitem</translation>
     </message>
 </context>
 <context>
@@ -27,11 +27,11 @@
     </message>
     <message>
         <source>&amp;About</source>
-        <translation>&amp;Ynglyn â</translation>
+        <translation>&amp;Oddeutu</translation>
     </message>
     <message>
         <source>A&amp;uthors</source>
-        <translation>&amp;Awduron</translation>
+        <translation>A&amp;wduron</translation>
     </message>
     <message>
         <source>&amp;Translations</source>
@@ -210,7 +210,7 @@
     </message>
     <message>
         <source>Enabled:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Galluogi:</translation>
     </message>
     <message>
         <source>Release Date:</source>
@@ -241,11 +241,11 @@
     <name>ActionManager</name>
     <message>
         <source>&amp;Image Effects</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Delwedd Effeithiau</translation>
     </message>
     <message>
         <source>&amp;Tabulators...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tablwr...</translation>
     </message>
     <message>
         <source>&amp;New</source>
@@ -337,7 +337,7 @@
     </message>
     <message>
         <source>&amp;Deselect All</source>
-        <translation type="unfinished"/>
+        <translation>Dad-ddewis y Cyfan</translation>
     </message>
     <message>
         <source>&amp;Search/Replace...</source>
@@ -345,7 +345,7 @@
     </message>
     <message>
         <source>&amp;Master Pages...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Prif Tudalennau</translation>
     </message>
     <message>
         <source>P&amp;references...</source>
@@ -353,47 +353,47 @@
     </message>
     <message>
         <source>%1 pt</source>
-        <translation type="unfinished"/>
+        <translation>%1 pt</translation>
     </message>
     <message>
         <source>&amp;Other...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Araill</translation>
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Chwith</translation>
     </message>
     <message>
         <source>&amp;Center</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Canol...</translation>
     </message>
     <message>
         <source>&amp;Right</source>
-        <translation type="unfinished"/>
+        <translation>&amp;De</translation>
     </message>
     <message>
         <source>&amp;Block</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Bloc</translation>
     </message>
     <message>
         <source>&amp;Forced</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Gorfodol</translation>
     </message>
     <message>
         <source>&amp;Normal</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Normal</translation>
     </message>
     <message>
         <source>&amp;Underline</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tanlinellu</translation>
     </message>
     <message>
         <source>Underline &amp;Words</source>
-        <translation type="unfinished"/>
+        <translation>Tanlinellu &amp;Geiriau</translation>
     </message>
     <message>
         <source>&amp;Strike Through</source>
-        <translation type="unfinished"/>
+        <translation>%Llinell Drwodd</translation>
     </message>
     <message>
         <source>&amp;All Caps</source>
@@ -5239,8 +5239,7 @@ currently %2 x %3 DPI</source>
     <name>CvgPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation>Mewnforio: %1
-</translation>
+        <translation>Mewnforio: %1</translation>
     </message>
     <message>
         <source>Analyzing File:</source>
@@ -5548,12 +5547,11 @@ methodd
     </message>
     <message>
         <source>Group%1</source>
-        <translation>grw^p%1</translation>
+        <translation>grŵp%1</translation>
     </message>
     <message>
         <source>Importing: %1</source>
-        <translation>Mewnforio: %1
-</translation>
+        <translation>Mewnforio: %1</translation>
     </message>
 </context>
 <context>
@@ -5789,8 +5787,7 @@ methodd
     <name>EmfPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation>Mewnforio: %1
-</translation>
+        <translation>Mewnforio: %1</translation>
     </message>
     <message>
         <source>Analyzing File:</source>
@@ -6156,7 +6153,7 @@ Defnyddiwch 72 dpi ar gyfer Delweddau a fwriedir i&apos;r Sgrin</translation>
     <name>FhPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Mewnforio: %1</translation>
     </message>
     <message>
         <source>Analyzing File:</source>
@@ -7015,8 +7012,7 @@ Ignore List</source>
     <name>IdmlPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation>Mewnforio: %1
-</translation>
+        <translation>Mewnforio: %1</translation>
     </message>
     <message>
         <source>Analyzing File:</source>
@@ -10630,8 +10626,7 @@ You cannot switch to different notes style before you apply that new one or pres
     <name>OdgPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation>Mewnforio: %1
-</translation>
+        <translation>Mewnforio: %1</translation>
     </message>
     <message>
         <source>Analyzing File:</source>
@@ -11734,8 +11729,7 @@ Often used for allowing items to be placed across page spreads</source>
     <name>PagesPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation>Mewnforio: %1
-</translation>
+        <translation>Mewnforio: %1</translation>
     </message>
     <message>
         <source>Analyzing File:</source>
@@ -20533,7 +20527,7 @@ Gwiriwch y llwybr ac enw&apos;r ffeil.</translation>
     </message>
     <message>
         <source>&amp;Underline</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tanlinellu</translation>
     </message>
     <message>
         <source>&amp;Color</source>
@@ -27279,7 +27273,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Group%1</source>
-        <translation>grw^p%1</translation>
+        <translation>grŵp%1</translation>
     </message>
 </context>
 <context>
@@ -30528,7 +30522,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Group%1</source>
-        <translation>grw^p%1</translation>
+        <translation>grŵp%1</translation>
     </message>
     <message>
         <source>Generating Items</source>

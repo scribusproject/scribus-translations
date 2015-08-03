@@ -15684,7 +15684,7 @@ do Scripter de Scribus para máis información.</translation>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="30"/>
         <source>Look in:</source>
-        <translation type="unfinished"/>
+        <translation>Buscar en:</translation>
     </message>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="31"/>
@@ -15694,12 +15694,12 @@ do Scripter de Scribus para máis información.</translation>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="32"/>
         <source>Forward</source>
-        <translation type="unfinished"/>
+        <translation>Adiante</translation>
     </message>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="33"/>
         <source>Parent Directory</source>
-        <translation type="unfinished"/>
+        <translation>Directorio superior</translation>
     </message>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="34"/>
@@ -17300,7 +17300,7 @@ Comprobe a ruta e o nome do ficheiro.</translation>
         <location filename="../../../scribus/plugins/scriptplugin/cmddoc.cpp" line="152"/>
         <source>Failed to open document: %1</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Non foi posíbel abrir o documento: %1</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/cmddoc.cpp" line="192"/>
@@ -17318,19 +17318,19 @@ Comprobe a ruta e o nome do ficheiro.</translation>
         <location filename="../../../scribus/plugins/scriptplugin/cmddoc.cpp" line="381"/>
         <source>Master page does not exist: &apos;%1&apos;</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>A páxina mestra non exista: «%1»</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/cmddoc.cpp" line="386"/>
         <source>Page number out of range: %1.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>O número de páxina está fóra do intervalo: %1.</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/cmddoc.cpp" line="392"/>
         <source>Failed to apply masterpage &apos;%1&apos; on page: %2</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Non foi posíbel aplicarlle a páxina mestra «%1» á páxina: %2</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/cmdgetprop.cpp" line="103"/>

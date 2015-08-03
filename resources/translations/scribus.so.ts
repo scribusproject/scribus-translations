@@ -1,52 +1,52 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="he_IL" version="2.1">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="so" version="2.1">
 <context>
     <name>AIPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation>מיבא: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation>מנתח קובץ:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Group%1</source>
-        <translation>קבוצה%1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation>יצירת פריטים</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>About</name>
     <message>
         <source>Contributions from:</source>
-        <translation>תרומות מ:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;About</source>
-        <translation>&amp;אודות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>A&amp;uthors</source>
-        <translation>מ&amp;חברים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Translations</source>
-        <translation>&amp;תרגומים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Online</source>
-        <translation>באינטרנט</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;סגור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Development Team:</source>
-        <translation>צוות פיתוח:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Official Documentation:</source>
@@ -58,11 +58,11 @@
     </message>
     <message>
         <source>Homepage</source>
-        <translation>דף הבית</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Online Reference</source>
-        <translation>הפניות באינטרנט</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Bugs and Feature Requests</source>
@@ -70,75 +70,75 @@
     </message>
     <message>
         <source>Mailing List</source>
-        <translation>רשימת תפוצה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Official Translations and Translators:</source>
-        <translation>תרגומים רשמיים ומתרגמים:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Previous Translation Contributors:</source>
-        <translation>תורמי תרגום קודמים:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>About Scribus %1</source>
-        <translation>אודות %1 Scribus</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Wiki</source>
-        <translation>וויקי</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 %2 %3</source>
-        <translation>%1 %2 %3</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%3-%2-%1 %4 %5</source>
-        <translation>%3-%2-%1 %4 %5</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Using Ghostscript version %1</source>
-        <translation>שימוש בגרסת %1 Ghostscript</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No Ghostscript version available</source>
-        <translation>אין גרסת Ghostscript זמינה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Build ID:</source>
-        <translation>זהות בנייה:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Mac OS&amp;#174; X Aqua Port:</source>
-        <translation>Mac OS&amp;#174; X Aqua Port:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Windows&amp;#174; Port:</source>
-        <translation>Windows&amp;#174; Port:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Tango Project Icons:</source>
-        <translation>סמלי פרויקט טנגו:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Updates</source>
-        <translation>&amp;עדכונים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Check for updates to Scribus. No data from your machine will be transferred off it.</source>
-        <translation>בדוק אם יש עדכונים ל-Scribus. שום מידע לא יועבר מהמחשב שלך.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OS/2&amp;#174;/eComStation&amp;#8482; Port:</source>
-        <translation>OS/2&amp;#174;/eComStation&amp;#8482; Port:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Splash Screen:</source>
-        <translation>מסך פתיחה:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This panel shows the version, build date and compiled in library support in Scribus.</source>
-        <translation>לוח זה מציג את הגרסה, תאריך בנייה, וספריות הידור ב- Scribus</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The C-C-T-F equates to C=littlecms C=CUPS T=TIFF support F=Fontconfig support.Last Letter is the renderer C=cairo or Q=Qt</source>
@@ -150,7 +150,7 @@
     </message>
     <message>
         <source>The Windows version does not use fontconfig or CUPS libraries.</source>
-        <translation>גרסת Windows לא משתמש בספריות של fontconfig או CUPS</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;p align=&quot;center&quot;&gt;&lt;b&gt;%1 %2&lt;/b&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;%3&lt;br&gt;%4 %5&lt;br&gt;%6&lt;/p&gt;</source>
@@ -158,35 +158,35 @@
     </message>
     <message>
         <source>Scribus Version</source>
-        <translation>גרסת Scribus</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Check for Updates</source>
-        <translation>בדוק אם יש עדכונים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Developer Blog</source>
-        <translation>בלוג מפתחים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Licence</source>
-        <translation>&amp;רישיון</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unable to open licence file. Please check your install directory or the Scribus website for licencing information.</source>
-        <translation>לא ניתן לפתוח את קובץ הרישיון. בדוק את הספרייה שבהתקנת את Scribus או האתר אינטרנט עבור מידע רישוי.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Doc Translators:</source>
-        <translation>מתרגמי המסמכים:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Webmasters:</source>
-        <translation>מנהלי אתרים:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unable to open %1 file. Please check your install directory or the Scribus website for %1 information.</source>
-        <translation>לא ניתן לפתוח את %1 קובץ. בדוק את הספרייה שבהתקנת את Scribus או האתר אינטרנט של Scribus עבור %1 מידע.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Haiku Port:</source>
@@ -201,46 +201,46 @@
     <name>AboutPlugins</name>
     <message>
         <source>Filename:</source>
-        <translation>שם קובץ:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Version:</source>
-        <translation>גרסה:</translation>
+        <translation>Nooca:</translation>
     </message>
     <message>
         <source>Enabled:</source>
-        <translation type="vanished">מופעל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Release Date:</source>
-        <translation>תאריך השקה:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Description:</source>
-        <translation>תיאור:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Author(s):</source>
-        <translation>מחבר(ים):</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Copyright:</source>
-        <translation>זכויות יוצרים:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>License:</source>
-        <translation>רישיון</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Scribus: About Plug-ins</source>
-        <translation>Scribus: אודות תוספות</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>ActionManager</name>
     <message>
         <source>&amp;Image Effects</source>
-        <translation>&amp;אפקטי תמונה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Tabulators...</source>
@@ -248,27 +248,27 @@
     </message>
     <message>
         <source>&amp;New</source>
-        <translation>&amp;חדש</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Open...</source>
-        <translation>&amp;פתח</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;סגור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation>&amp;שמור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Save &amp;As...</source>
-        <translation>שמור &amp;בשם</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Re&amp;vert to Saved</source>
-        <translation>א&amp;חזור לגרסה שמורה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Collect for O&amp;utput...</source>
@@ -276,43 +276,43 @@
     </message>
     <message>
         <source>Get Text...</source>
-        <translation>הוסיף טקסט</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Append &amp;Text...</source>
-        <translation>לצרף טקסט</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Get Image...</source>
-        <translation>הוסיף תמונה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Save &amp;Text...</source>
-        <translation>שמור &amp;טקסט...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Save as P&amp;DF...</source>
-        <translation>שמור כ-P&amp;DF...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Document &amp;Setup...</source>
-        <translation>הרכבת &amp;מסמך</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Print...</source>
-        <translation>&amp;הדפס...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation>&amp;צא</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation>ביטול</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation>חזרה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Item Action Mode</source>
@@ -320,55 +320,55 @@
     </message>
     <message>
         <source>Cu&amp;t</source>
-        <translation>ג&amp;זור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation>&amp;העתק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation>&amp;הדבק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select &amp;All</source>
-        <translation>בחר הכל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Deselect All</source>
-        <translation>בטל בחירה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Search/Replace...</source>
-        <translation>חיפוש והחלפה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Master Pages...</source>
-        <translation>&amp;דפי בסיס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>P&amp;references...</source>
-        <translation>ה&amp;עדפות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 pt</source>
-        <translation>%1 pt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Other...</source>
-        <translation>&amp;אחר</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation>&amp;שמאל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Center</source>
-        <translation>&amp;למרכז</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Right</source>
-        <translation>&amp;ימין</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Block</source>
@@ -380,11 +380,11 @@
     </message>
     <message>
         <source>&amp;Normal</source>
-        <translation>רגיל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Underline</source>
-        <translation>קו תחתון</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Underline &amp;Words</source>
@@ -392,7 +392,7 @@
     </message>
     <message>
         <source>&amp;Strike Through</source>
-        <translation>קו חוצה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;All Caps</source>
@@ -412,7 +412,7 @@
     </message>
     <message>
         <source>D&amp;uplicate</source>
-        <translation>שכפל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Multiple Duplicate</source>
@@ -420,27 +420,27 @@
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>&amp;מחק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Group</source>
-        <translation>קיבוץ עצמים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Ungroup</source>
-        <translation>בטל קיבוץ עצמים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Is &amp;Locked</source>
-        <translation>נעול</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Si&amp;ze is Locked</source>
-        <translation>הג&amp;ודל נעול</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Lower to &amp;Bottom</source>
-        <translation>הורד לתחתית הערימה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Raize to &amp;Top</source>
@@ -448,7 +448,7 @@
     </message>
     <message>
         <source>&amp;Lower</source>
-        <translation>הורד מתחת לעצם הבא </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Raize</source>
@@ -456,7 +456,7 @@
     </message>
     <message>
         <source>&amp;Attributes...</source>
-        <translation>&amp;תכונות...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>I&amp;mage Visible</source>
@@ -464,7 +464,7 @@
     </message>
     <message>
         <source>Embed Image</source>
-        <translation>הטמע תמונה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Is PDF &amp;Bookmark</source>
@@ -484,7 +484,7 @@
     </message>
     <message>
         <source>&amp;Edit Shape...</source>
-        <translation>&amp;ערוך צורה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Attach Text to Path</source>
@@ -508,7 +508,7 @@
     </message>
     <message>
         <source>&amp;Image Frame</source>
-        <translation>&amp;מסגרת תמונה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Polygon</source>
@@ -516,7 +516,7 @@
     </message>
     <message>
         <source>&amp;Text Frame</source>
-        <translation>מסגרת &amp;טקסט</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Glyph...</source>
@@ -524,31 +524,31 @@
     </message>
     <message>
         <source>Sample Text</source>
-        <translation>טקסט לדוגמא</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Insert...</source>
-        <translation>&amp;להוסיף...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Im&amp;port...</source>
-        <translation>ייבא...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Delete...</source>
-        <translation>&amp;מחק...</translation>
+        <translation>&amp;Tirtir...</translation>
     </message>
     <message>
         <source>&amp;Copy...</source>
-        <translation>&amp;העתק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Move...</source>
-        <translation>הזז</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Apply Master Page...</source>
-        <translation>&amp;יישם את הדף בסיס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Manage &amp;Guides...</source>
@@ -556,31 +556,31 @@
     </message>
     <message>
         <source>&amp;50%</source>
-        <translation>50%&amp;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;75%</source>
-        <translation>75%&amp;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;100%</source>
-        <translation>100%&amp;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;200%</source>
-        <translation>200%&amp;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show &amp;Margins</source>
-        <translation>להציג &amp;שוליים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show &amp;Frames</source>
-        <translation>להציג &amp;מסגרות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show &amp;Images</source>
-        <translation>להציג &amp;תמונות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show &amp;Grid</source>
@@ -608,7 +608,7 @@
     </message>
     <message>
         <source>&amp;Properties</source>
-        <translation>&amp;מאפיינים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Scrapbook</source>
@@ -616,7 +616,7 @@
     </message>
     <message>
         <source>&amp;Layers</source>
-        <translation>שכבות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Bookmarks</source>
@@ -624,7 +624,7 @@
     </message>
     <message>
         <source>&amp;Measurements</source>
-        <translation>&amp;מדידות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Action &amp;History</source>
@@ -636,15 +636,15 @@
     </message>
     <message>
         <source>Symbols</source>
-        <translation>סמלים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Tools</source>
-        <translation>&amp;כלים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>P&amp;DF Tools</source>
-        <translation>כלי P&amp;DF</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select Item</source>
@@ -660,7 +660,7 @@
     </message>
     <message>
         <source>Zoom in</source>
-        <translation>הגדלה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Zoom out</source>
@@ -684,7 +684,7 @@
     </message>
     <message>
         <source>Copy Item Properties</source>
-        <translation>העתקת את מאפייני הפריט</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Hyphenate Text</source>
@@ -696,11 +696,11 @@
     </message>
     <message>
         <source>&amp;About Scribus</source>
-        <translation>&amp;אודות Scribus</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>About &amp;Qt</source>
-        <translation>&amp;אודות Qt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Toolti&amp;ps</source>
@@ -716,12 +716,11 @@
     </message>
     <message>
         <source>Page &amp;Number</source>
-        <translation>
-עמוד &amp;מספר</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Copyright</source>
-        <translation>זכויות יוצרים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Registered Trademark</source>
@@ -729,7 +728,7 @@
     </message>
     <message>
         <source>Trademark</source>
-        <translation>סימן מסחרי</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Bullet</source>
@@ -761,31 +760,31 @@
     </message>
     <message>
         <source>&amp;Low Resolution</source>
-        <translation>&amp;רזולוציה נמוכה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Normal Resolution</source>
-        <translation>&amp;רזולוציה רגילה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Full Resolution</source>
-        <translation>&amp;רזולוציה מלאה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Edit Image...</source>
-        <translation>ערוך תמונה...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Update Image</source>
-        <translation>עדכן תמונה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Adjust Frame to Image</source>
-        <translation>התאם מסגרת לתמונה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Extended Image Properties</source>
-        <translation>מאפייני תמונה מורחבים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Control Characters</source>
@@ -797,11 +796,11 @@
     </message>
     <message>
         <source>Edit Text...</source>
-        <translation>ערוך טקסט...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New Line</source>
-        <translation>שורה חדשה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Frame Break</source>
@@ -833,11 +832,11 @@
     </message>
     <message>
         <source>Print Previe&amp;w</source>
-        <translation>הצ&amp;ג לפני הדפסה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;JavaScripts...</source>
-        <translation>&amp;JavaScripts...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Convert to Master Page...</source>
@@ -853,23 +852,23 @@
     </message>
     <message>
         <source>More Info...</source>
-        <translation>מידע נוסף</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Printing Enabled</source>
-        <translation>הדפסה מופעלת</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Flip Horizontally</source>
-        <translation>&amp;הפוך אופקית</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Flip Vertically</source>
-        <translation>&amp;הפוך אנכית</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Rulers</source>
-        <translation>להציג סרגלים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Outline</source>
@@ -938,7 +937,7 @@
     </message>
     <message>
         <source>S&amp;tyles...</source>
-        <translation>ס&amp;גנונות...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Outline</source>
@@ -952,7 +951,7 @@
     </message>
     <message>
         <source>Paste (&amp;Absolute)</source>
-        <translation>הדבקה (מוחלטת)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>C&amp;lear</source>
@@ -960,7 +959,7 @@
     </message>
     <message>
         <source>Save as &amp;EPS...</source>
-        <translation>שמור כ-EPS...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Text Frame Columns</source>
@@ -968,7 +967,7 @@
     </message>
     <message>
         <source>Preview Mode</source>
-        <translation>מצב תצוגה מקדימה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Layer Indicators</source>
@@ -984,11 +983,11 @@
     </message>
     <message>
         <source>Fit to Width</source>
-        <translation>התאם לרוחב</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Bleeds</source>
-        <translation>הצג בליד - גלישה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Soft &amp;Hyphen</source>
@@ -1015,22 +1014,22 @@
     <message>
         <source>Single Left</source>
         <comment>Unicode 0x2018</comment>
-        <translation>שמאל יחיד</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Single Right</source>
         <comment>Unicode 0x2019</comment>
-        <translation>ימין יחיד</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Double Left</source>
         <comment>Unicode 0x201C</comment>
-        <translation>שמאל כפול</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Double Right</source>
         <comment>Unicode 0x201D</comment>
-        <translation>ימין כפול</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Single Reversed</source>
@@ -1094,11 +1093,11 @@
     </message>
     <message>
         <source>&amp;400%</source>
-        <translation>&amp;400%</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Scribus Homepage</source>
-        <translation>דף הבית של Scribus</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Scribus Online Documentation</source>
@@ -1106,7 +1105,7 @@
     </message>
     <message>
         <source>Scribus Wiki</source>
-        <translation>Scribus וויקי</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Getting Started with Scribus</source>
@@ -1122,7 +1121,7 @@
     </message>
     <message>
         <source>&amp;About Plugins</source>
-        <translation>&amp;אודות תוספות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert Unicode Character Begin Sequence</source>
@@ -1150,39 +1149,39 @@
     </message>
     <message>
         <source>Check for Updates</source>
-        <translation>בדוק אם יש עדכונים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Number of Pages</source>
-        <translation>מספר העמודים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Adjust Image to Frame</source>
-        <translation>התאם תמונה למסגרת</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>File</source>
-        <translation>קובץ</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation>&amp;קובץ</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Edit</source>
-        <translation>ערוך</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation>&amp;ערוך</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Style</source>
-        <translation>סגנון</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Style</source>
-        <translation>&amp;סגנון</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Item</source>
@@ -1194,7 +1193,7 @@
     </message>
     <message>
         <source>Insert</source>
-        <translation>להוסיף</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>I&amp;nsert</source>
@@ -1202,23 +1201,23 @@
     </message>
     <message>
         <source>Page</source>
-        <translation>דף</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Page</source>
-        <translation>&amp;דף</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>View</source>
-        <translation>צפה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;View</source>
-        <translation>&amp;צפה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Extras</source>
-        <translation>תוספות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>E&amp;xtras</source>
@@ -1226,19 +1225,19 @@
     </message>
     <message>
         <source>Windows</source>
-        <translation>חלונות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Windows</source>
-        <translation>&amp;חלונות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Help</source>
-        <translation>עזרה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation>&amp;עזרה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Plugin Menu Items</source>
@@ -1246,11 +1245,11 @@
     </message>
     <message>
         <source>Others</source>
-        <translation>אחרים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unicode Characters</source>
-        <translation>תווי Unicode</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Move/Resize Value Indicator</source>
@@ -1258,7 +1257,7 @@
     </message>
     <message>
         <source>New &amp;from Template...</source>
-        <translation>חדש &amp;מתבנית</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Transform</source>
@@ -1266,47 +1265,47 @@
     </message>
     <message>
         <source>Paste Image from Clipboard</source>
-        <translation>הדבקת תמונה מהלוח</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert Rows...</source>
-        <translation>הכנס שורות...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert Columns...</source>
-        <translation>הכנס טורים...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete Rows</source>
-        <translation>מחק שורות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete Columns</source>
-        <translation>מחק טורים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Merge Cells</source>
-        <translation>מזג תאים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Split Cells...</source>
-        <translation>פצל תאים...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Set Row Heights...</source>
-        <translation>הגדר גובה שורות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Set Column Widths...</source>
-        <translation>הגדר רוחב טורים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Distribute Rows Evenly</source>
-        <translation>פזר שורות באופן שווה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
-        <translation>פזר טורים באופן שווה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Adjust Frame to Table</source>
@@ -1318,7 +1317,7 @@
     </message>
     <message>
         <source>&amp;Frames...</source>
-        <translation>&amp;מסגרות...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unlink Text Frame with Text Copy</source>
@@ -1382,7 +1381,7 @@
     </message>
     <message>
         <source>Patterns</source>
-        <translation>תבניות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Inline Items</source>
@@ -1390,7 +1389,7 @@
     </message>
     <message>
         <source>&amp;Symbol</source>
-        <translation>&amp;סמל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Update Document</source>
@@ -1398,11 +1397,11 @@
     </message>
     <message>
         <source>Table</source>
-        <translation>טבלה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Table</source>
-        <translation>&amp;טבלה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Test Qt Quick</source>
@@ -1410,23 +1409,23 @@
     </message>
     <message>
         <source>Copy</source>
-        <translation>העתק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cut</source>
-        <translation>גזור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Paste</source>
-        <translation>הדבק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Redo</source>
-        <translation>חזרה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Undo</source>
-        <translation>ביטול</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Close the current document</source>
@@ -1438,7 +1437,7 @@
     </message>
     <message>
         <source>Create a new document</source>
-        <translation>יצירת מסמך חדש</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Open an existing document</source>
@@ -1486,7 +1485,7 @@
     </message>
     <message>
         <source>Insert an image frame</source>
-        <translation>להוסיף מסגרת תמונה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert a line</source>
@@ -1510,11 +1509,11 @@
     </message>
     <message>
         <source>Insert a table</source>
-        <translation>להוסיף טבלה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert a text frame</source>
-        <translation>להוסיף מסגרת טקסט</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Link text frames</source>
@@ -1522,7 +1521,7 @@
     </message>
     <message>
         <source>Measurements</source>
-        <translation>מדידות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert link annotation</source>
@@ -1598,7 +1597,7 @@
     </message>
     <message>
         <source>&amp;View Tools</source>
-        <translation>צפה בכלים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Render Frame</source>
@@ -1606,31 +1605,31 @@
     </message>
     <message>
         <source>T&amp;able</source>
-        <translation>טבלה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Shape</source>
-        <translation>&amp;צורה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Arc</source>
-        <translation>קשת</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Spiral</source>
-        <translation>ספירלה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Line</source>
-        <translation>קו</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Calligraphic Line</source>
-        <translation>קו קליגרפי</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Freehand Line</source>
-        <translation>קו חופשי</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PDF Push Button</source>
@@ -1708,7 +1707,7 @@
     <name>AlignDistribute</name>
     <message>
         <source>Align</source>
-        <translation>יישור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Selected Guide:</source>
@@ -1716,23 +1715,23 @@
     </message>
     <message>
         <source>&amp;Relative To:</source>
-        <translation>&amp;ביחס ל:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Align Sides By:</source>
-        <translation>יישור קצוות לפי</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Distribute</source>
-        <translation>פיזור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Distance:</source>
-        <translation>&amp;רוחק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reverse Distribution</source>
@@ -1740,7 +1739,7 @@
     </message>
     <message>
         <source>Swap</source>
-        <translation>החלף</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DockWidget</source>
@@ -1751,87 +1750,87 @@
     <name>AlignDistributePalette</name>
     <message>
         <source>Align and Distribute</source>
-        <translation>יישור ופיזור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Relative to:</source>
-        <translation>&amp;ביחס ל:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>First Selected</source>
-        <translation>ראשון שנבחר</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Last Selected</source>
-        <translation>אחרון שנבחר</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Page</source>
-        <translation>דף</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Margins</source>
-        <translation>שוליים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Selection</source>
-        <translation>בחירה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Align Sides By:</source>
-        <translation>יישור קצוות לפי</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Align bottoms</source>
-        <translation>ישר קצוות תחתונים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Align right sides</source>
-        <translation>ישר קצוות ימניים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Center on vertical axis</source>
-        <translation>מרכז על הציר האנכי</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Align left sides</source>
-        <translation>ישר קצוות שמאליים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Center on horizontal axis</source>
-        <translation>מרכז על הציר האופקי</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Align tops</source>
-        <translation>ישר קצוות עליונים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Distribute left sides equidistantly</source>
-        <translation>פזר קצוות שמאליים במרחקים שווים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Distribute bottoms equidistantly</source>
-        <translation>פזר קצוות תחתונים במרחקים שווים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Distribute centers equidistantly horizontally</source>
-        <translation>פזר אופקית מרכזים במרחקים שווים </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Distribute centers equidistantly vertically</source>
-        <translation>פזר אנכית מרכזים במרחקים שווים </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Distribute tops equidistantly</source>
-        <translation>פזר קצוות עליונים במרחקים שווים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Distribute right sides equidistantly</source>
-        <translation>פזר קצוות ימניים במרחקים שווים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Guide</source>
-        <translation>קו עזר</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Selected Guide:</source>
@@ -1839,11 +1838,11 @@
     </message>
     <message>
         <source>&amp;Distance:</source>
-        <translation>&amp;רוחק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Distribute the items with the distance specified</source>
-        <translation>פזר עצמים במרחק מוגדר</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>When distributing by a set distance, reverse the direction of the distribution of items</source>
@@ -1851,7 +1850,7 @@
     </message>
     <message>
         <source>None Selected</source>
-        <translation>לא נבחר עצם</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Swap items to the left</source>
@@ -1863,11 +1862,11 @@
     </message>
     <message>
         <source>Y: %1%2</source>
-        <translation>Y: %1%2</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>X: %1%2</source>
-        <translation>X: %1%2</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Align right sides of items to left side of anchor</source>
@@ -1919,11 +1918,11 @@
     </message>
     <message>
         <source>Align</source>
-        <translation>יישור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Distribute</source>
-        <translation>פיזור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;qt&gt;Align relative to the:&lt;ul&gt;&lt;li&gt;First selected item&lt;/li&gt;&lt;li&gt;Second Selected Item&lt;/li&gt;&lt;li&gt;The current page&lt;/li&gt;&lt;li&gt;The margins of the current page&lt;/li&gt;&lt;li&gt;A Guide&lt;/li&gt;&lt;li&gt;The selection&lt;/ul&gt;&lt;/qt&gt;</source>
@@ -1935,11 +1934,11 @@
     </message>
     <message>
         <source>Move</source>
-        <translation>הזז</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Resize</source>
-        <translation>שנה מידה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;qt&gt;When aligning one side of an item do one of the following:&lt;ul&gt;&lt;li&gt;Always move the other side too (preserve existing width and height)&lt;/li&gt;&lt;li&gt;Keep the other side fixed (resize the item instead of moving it) whenever possible&lt;/li&gt;&lt;/ul&gt;&lt;/qt&gt;</source>
@@ -1950,19 +1949,19 @@
     <name>AlignSelect</name>
     <message>
         <source>Align Text Left</source>
-        <translation>יישור טקסט לשמאל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Align Text Right</source>
-        <translation>יישור טקסט לימין</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Align Text Center</source>
-        <translation>יישור טקסט למרכז</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Align Text Justified</source>
-        <translation>יישור טקסט לשני הקצוות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Align Text Forced Justified</source>
@@ -1977,15 +1976,15 @@
     </message>
     <message>
         <source>Text</source>
-        <translation>טקסט</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Link</source>
-        <translation>קישור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>External Link</source>
-        <translation>קישור חיצוני</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>External Web-Link</source>
@@ -1997,11 +1996,11 @@
     </message>
     <message>
         <source> pt</source>
-        <translation> pt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Open</source>
-        <translation>פתח</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Type:</source>
@@ -2013,7 +2012,7 @@
     </message>
     <message>
         <source>&amp;Page:</source>
-        <translation>&amp;דף</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;X-Pos</source>
@@ -2025,7 +2024,7 @@
     </message>
     <message>
         <source>%1;;All Files (*)</source>
-        <translation>%1;;כל הקבצים (*)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Export absolute Filename</source>
@@ -2033,7 +2032,7 @@
     </message>
     <message>
         <source>Options</source>
-        <translation>אפשרויות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Icon:</source>
@@ -2053,7 +2052,7 @@
     </message>
     <message>
         <source>Help</source>
-        <translation>עזרה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>NewParagraph</source>
@@ -2061,11 +2060,11 @@
     </message>
     <message>
         <source>Paragraph</source>
-        <translation>פסקה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert</source>
-        <translation>להוסיף</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cross</source>
@@ -2073,7 +2072,7 @@
     </message>
     <message>
         <source>Circle</source>
-        <translation>עיגול</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Annotation is Open</source>
@@ -2084,31 +2083,31 @@
     <name>ApplyMasterPageDialog</name>
     <message>
         <source>Apply Master Page</source>
-        <translation>יישם את הדף בסיס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Master Page:</source>
-        <translation>&amp;דף בסיס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Alt+P</source>
-        <translation>Alt+P</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Alt+E</source>
-        <translation>Alt+E</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Alt+D</source>
-        <translation>Alt+D</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Alt+A</source>
-        <translation>Alt+A</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Alt+W</source>
-        <translation>Alt+W</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>to</source>
@@ -2116,11 +2115,11 @@
     </message>
     <message>
         <source>Alt+O</source>
-        <translation>Alt+O</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation>Alt+C</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Apply the selected master page to even, odd or all pages within the following range</source>
@@ -2140,11 +2139,11 @@
     </message>
     <message>
         <source>&amp;Even Pages</source>
-        <translation>דפים &amp;זוגיים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>O&amp;dd Pages</source>
-        <translation>דפים &amp;אי-זוגים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;All Pages</source>
@@ -2159,7 +2158,7 @@
     <name>ArcVectorBase</name>
     <message>
         <source>Edit Arc</source>
-        <translation>ערוך קשת</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Start Angle:</source>
@@ -2171,11 +2170,11 @@
     </message>
     <message>
         <source>Height:</source>
-        <translation>גובה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Width:</source>
-        <translation>רוחב:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>End Edit</source>
@@ -2186,7 +2185,7 @@
     <name>ArcWidgetBase</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Start Angle:</source>
@@ -2209,7 +2208,7 @@
     </message>
     <message>
         <source>0.1</source>
-        <translation>0.1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Spell Checker</source>
@@ -2248,7 +2247,7 @@
     </message>
     <message>
         <source>Not in Dictionary:</source>
-        <translation>לא במילון:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Word that was not found in the active dictionary</source>
@@ -2268,7 +2267,7 @@
     </message>
     <message>
         <source>&amp;Ignore</source>
-        <translation>התעלם</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ignore all occurrences of the current text not found in the active dictionary</source>
@@ -2276,7 +2275,7 @@
     </message>
     <message>
         <source>I&amp;gnore All</source>
-        <translation>ה&amp;תעלם תמיד</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add the current word to the your personal spelling dictionary for future use</source>
@@ -2296,7 +2295,7 @@
     </message>
     <message>
         <source>Close</source>
-        <translation>סגור</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2307,7 +2306,7 @@
     </message>
     <message>
         <source>default </source>
-        <translation>ברירת מחדל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>AspellPluginImpl::on_fskipAllBtn_clicked(): Unable to skip all instances of &quot;</source>
@@ -2359,11 +2358,11 @@ Configuration invalid</source>
     <name>AutoformButtonGroup</name>
     <message>
         <source>Arrows</source>
-        <translation>חיצים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Flow Chart</source>
-        <translation>תרשים זרימה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Jigsaw</source>
@@ -2375,7 +2374,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Default Shapes</source>
-        <translation>צורות ברירת מחדל</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2386,42 +2385,42 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Barcode</source>
-        <translation>ברקוד</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert a barcode</source>
-        <translation>להוסיף ברקוד</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>BarcodeGenerator</name>
     <message>
         <source>Error opening file: %1</source>
-        <translation>שגיאה בעת פתיחת קובץ: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>12 or 13 digits</source>
-        <translation>12 או 13 ספרות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>8 digits</source>
-        <translation>8 ספרות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>11 or 12 digits</source>
-        <translation>11 או 12 ספרות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>7 or 8 digits</source>
-        <translation>7 או 8 ספרות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>5 digits</source>
-        <translation>5 ספרות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>2 digits</source>
-        <translation>2 ספרות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Variable number of characters, digits and any of the symbols -. *$/+%.</source>
@@ -2453,7 +2452,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Barcode</source>
-        <translation>ברקוד</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Barcode incomplete</source>
@@ -2473,43 +2472,43 @@ Configuration invalid</source>
     </message>
     <message>
         <source>EAN-13</source>
-        <translation>EAN-13</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>EAN-8</source>
-        <translation>EAN-8</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>UPC-A</source>
-        <translation>UPC-A</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>UPC-E</source>
-        <translation>UPC-E</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>EAN-5</source>
-        <translation>EAN-5</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>EAN-2</source>
-        <translation>EAN-2</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ISBN</source>
-        <translation>ISBN</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Code-39</source>
-        <translation>Code-39</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Code-128</source>
-        <translation>Code-128</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>UCC/EAN-128</source>
-        <translation>UCC/EAN-128</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Rationalized Codabar</source>
@@ -2521,7 +2520,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>ITF-14</source>
-        <translation>ITF-14</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Code 2 of 5</source>
@@ -2537,7 +2536,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>MSI</source>
-        <translation>MSI</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Plessey</source>
@@ -2545,7 +2544,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>QR Code</source>
-        <translation>QR Code</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -2568,7 +2567,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Alt+I</source>
-        <translation>Alt+I</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>If checked, there will be numbers in the barcode too</source>
@@ -2576,7 +2575,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Alt+G</source>
-        <translation>Alt+G</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Draw arrows to be sure of space next the code</source>
@@ -2584,7 +2583,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Colors</source>
-        <translation>צבעים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Background</source>
@@ -2592,7 +2591,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Alt+B</source>
-        <translation>Alt+B</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Background color - under the code lines</source>
@@ -2600,11 +2599,11 @@ Configuration invalid</source>
     </message>
     <message>
         <source>&amp;Lines</source>
-        <translation>&amp;קווים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Alt+L</source>
-        <translation>Alt+L</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Color of the lines in barcode</source>
@@ -2612,11 +2611,11 @@ Configuration invalid</source>
     </message>
     <message>
         <source>&amp;Text</source>
-        <translation>&amp;טקסט</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Alt+T</source>
-        <translation>Alt+T</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Color of the text and numbers</source>
@@ -2632,7 +2631,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Alt+N</source>
-        <translation>Alt+N</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Generate and include a checksum in barcode</source>
@@ -2640,7 +2639,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Alt+U</source>
-        <translation>Alt+U</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Include the checksum digit in the barcode text</source>
@@ -2648,11 +2647,11 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Insert Barcode</source>
-        <translation>להוסיף ברקוד</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Format</source>
-        <translation>עיצוב</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Incl&amp;ude Checksum Digit</source>
@@ -2672,11 +2671,11 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Options</source>
-        <translation>אפשרויות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Format:</source>
-        <translation>&amp;עיצוב</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Error &amp;checking:</source>
@@ -2695,7 +2694,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation>מחק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Object</source>
@@ -2711,7 +2710,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation>שם:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Choose a Scrapbook Directory</source>
@@ -2731,11 +2730,11 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Copy To:</source>
-        <translation>העתק ל:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Move To:</source>
-        <translation>העבר ל:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Main</source>
@@ -2747,7 +2746,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>New Name</source>
-        <translation>שם חדש</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Scrapbook (*.scs *.SCS)</source>
@@ -2755,11 +2754,11 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Paste to Page</source>
-        <translation>הדבק לדף</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Close</source>
-        <translation>סגור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete Contents</source>
@@ -2775,7 +2774,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Hide Images</source>
-        <translation>להסתיר תמונות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hide Vector files</source>
@@ -2849,7 +2848,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Always</source>
-        <translation>תמיד</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>When Icon is too big</source>
@@ -2857,7 +2856,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Never</source>
-        <translation>לעולם לא</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Scale How:</source>
@@ -2865,7 +2864,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Proportional</source>
-        <translation>יחסי</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Non Proportional</source>
@@ -2881,11 +2880,11 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>ביטול</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reset</source>
-        <translation>לאפס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>When Icon is too small</source>
@@ -2900,7 +2899,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Perceptual</source>
-        <translation>תפיסתי</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Relative Colorimetric</source>
@@ -2908,7 +2907,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Saturation</source>
-        <translation>רוויה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Absolute Colorimetric</source>
@@ -2919,7 +2918,7 @@ Configuration invalid</source>
     <name>CMSPrefsBase</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Activate Color Management</source>
@@ -2927,7 +2926,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>&amp;RGB Images:</source>
-        <translation>תמונות &amp;RGB:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Default color profile for imported RGB images</source>
@@ -2935,7 +2934,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>&amp;CMYK Images:</source>
-        <translation>תמונות &amp;CMYK:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Default color profile for imported CMYK images</source>
@@ -2993,7 +2992,7 @@ This profile should be specific to your printer and not a generic profile (i.e. 
     </message>
     <message>
         <source>Images:</source>
-        <translation>תמונות:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Default rendering intent for images. Unless you know why to change it,
@@ -3021,7 +3020,7 @@ all colors, rgb or cmyk, are converted to printer color space.</source>
     </message>
     <message>
         <source>Convert all colors to printer space</source>
-        <translation>המר את כל הצבעים למרחב המדפסת</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Method of showing colors on the screen which may not print properly.
@@ -3050,15 +3049,15 @@ It is recommended that you enable this if you have photos in your document.</sou
     <name>CMYKChoose</name>
     <message>
         <source>Edit Color</source>
-        <translation>ערוך צבע</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>CMYK</source>
-        <translation>CMYK</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>RGB</source>
-        <translation>RGB</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Web Safe RGB</source>
@@ -3066,27 +3065,27 @@ It is recommended that you enable this if you have photos in your document.</sou
     </message>
     <message>
         <source>New</source>
-        <translation type="vanished">חדש</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Old</source>
-        <translation type="vanished">ישן</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>C:</source>
-        <translation>C:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>M:</source>
-        <translation>M:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Y:</source>
-        <translation>Y:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>K:</source>
-        <translation type="vanished">K:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Dynamic Color Bars</source>
@@ -3098,23 +3097,23 @@ It is recommended that you enable this if you have photos in your document.</sou
     </message>
     <message>
         <source>R:</source>
-        <translation>R:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>G:</source>
-        <translation>G:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>B:</source>
-        <translation>B:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source> %</source>
-        <translation> %</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="vanished">&amp;שם:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Color &amp;Model</source>
@@ -3165,11 +3164,11 @@ Please choose another one.</source>
     </message>
     <message>
         <source>HLC</source>
-        <translation>HLC</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>L:</source>
-        <translation>L:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>a:</source>
@@ -3181,18 +3180,18 @@ Please choose another one.</source>
     </message>
     <message>
         <source>H:</source>
-        <translation>H:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>CMYKChooseBase</name>
     <message>
         <source>Edit Color</source>
-        <translation>ערוך צבע</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation>שם:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Color &amp;Model</source>
@@ -3212,35 +3211,35 @@ Please choose another one.</source>
     </message>
     <message>
         <source>New</source>
-        <translation>חדש</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Old</source>
-        <translation>ישן</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>C:</source>
-        <translation>C:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source> %</source>
-        <translation> %</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>M:</source>
-        <translation>M:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Y:</source>
-        <translation>Y:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>K:</source>
-        <translation>K:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3251,7 +3250,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Error: </source>
-        <translation>שגיאה:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Color %1 exists already!</source>
@@ -3267,7 +3266,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Color Merging</source>
-        <translation>מיזוג צבע</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unable to find the requested color. You have probably selected black, gray or white. There is no way to process this color.</source>
@@ -3287,15 +3286,15 @@ Please choose another one.</source>
     </message>
     <message>
         <source>CMYK</source>
-        <translation>CMYK</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>RGB</source>
-        <translation>RGB</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>HSV</source>
-        <translation>HSV</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Colors of your chosen color scheme.</source>
@@ -3307,7 +3306,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Angle:</source>
-        <translation>זווית:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Difference between the selected value and the counted ones. Refer to documentation for more information.</source>
@@ -3327,7 +3326,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Alt+M</source>
-        <translation>Alt+M</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Replace created colors in the document colors</source>
@@ -3339,7 +3338,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Alt+R</source>
-        <translation>Alt+R</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Leave colors untouched</source>
@@ -3347,11 +3346,11 @@ Please choose another one.</source>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;ביטול</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation>Alt+C</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Preview:</source>
@@ -3371,64 +3370,63 @@ Please choose another one.</source>
     </message>
     <message>
         <source>C:</source>
-        <translation>C:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source> %</source>
-        <translation> %</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>M:</source>
-        <translation>M:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Y:</source>
-        <translation>Y:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>K:</source>
-        <translation>K:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>RGB:</source>
-        <translation>RGB:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>HSV:</source>
-        <translation>HSV:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>R:</source>
-        <translation>R:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>G:</source>
-        <translation>G:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>B:</source>
-        <translation>B:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>CMYK:</source>
-        <translation>CMYK:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>H:</source>
-        <translation>H:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>S:</source>
-        <translation>S:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>V:</source>
-        <translation>V:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Document</source>
-        <translation>
-מסמך</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3436,32 +3434,29 @@ Please choose another one.</source>
     <message>
         <source>X: %1
 Y: %2</source>
-        <translation>X: %1
-Y: %2</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>X: %1</source>
-        <translation>X: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Y: %1</source>
-        <translation>Y: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Length: %1
 Angle: %2</source>
-        <translation>אורך: %1
-זווית: %2</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Width: %1
 Height: %2</source>
-        <translation>רוחב: %1
-אורך: %2</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Angle: %1</source>
-        <translation>זווית: %1</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3472,7 +3467,7 @@ Height: %2</source>
     </message>
     <message>
         <source>Color Not Found</source>
-        <translation>הצבע לא נמצא</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The name you have selected already exists. Please enter a different name for this new color.</source>
@@ -3487,11 +3482,11 @@ Height: %2</source>
     </message>
     <message>
         <source>Before</source>
-        <translation>לפני</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>After</source>
-        <translation>אחרי</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You are trying to insert a frame into an existing text chain, where would you like to insert it?</source>
@@ -3514,7 +3509,7 @@ Height: %2</source>
     </message>
     <message>
         <source>Open</source>
-        <translation>פתח</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Go to Page %1</source>
@@ -3539,7 +3534,7 @@ URL: %1</source>
     </message>
     <message>
         <source>Information</source>
-        <translation>מידע</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Link Target is external File.
@@ -3556,11 +3551,11 @@ Page: %2</source>
     <name>CdrPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation>מיבא: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation>מנתח קובץ:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Parsing failed!
@@ -3574,22 +3569,22 @@ Document Liberation Project http://www.documentliberation.org</source>
     <name>CellStyleComboBox</name>
     <message>
         <source>No Style</source>
-        <translation>ללא סגנון</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>CgmPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation>מיבא: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation>מנתח קובץ:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation>יצירת פריטים</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3600,11 +3595,11 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Choose a filename to open</source>
-        <translation>בחר שם קובץ לפתיחה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Error</source>
-        <translation>שגיאה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Error reading file %1 - file is corrupted propably.</source>
@@ -3663,19 +3658,19 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Basic Latin</source>
-        <translation>לטינית בסיסית</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Latin-1 Supplement</source>
-        <translation>מוסף לטינית-1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Latin Extended-A</source>
-        <translation>לטינית מורחבת-א</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Latin Extended-B</source>
-        <translation>לטינית מורחבת-ב</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>General Punctuation</source>
@@ -3699,7 +3694,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Arrows</source>
-        <translation>חיצים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Mathematical Operators</source>
@@ -3715,7 +3710,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Geometric Shapes</source>
-        <translation>צורות גיאומטריות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Miscellaneous Symbols</source>
@@ -3739,11 +3734,11 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Greek</source>
-        <translation>יוונית</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Greek Extended</source>
-        <translation>יוונית מורחבת</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cyrillic</source>
@@ -3755,19 +3750,19 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Arabic</source>
-        <translation>ערבית</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Arabic Extended A</source>
-        <translation>ערבית מורחבת א</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Arabic Extended B</source>
-        <translation>ערבית מורחבת ב</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hebrew</source>
-        <translation>עברית</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enhanced Character Palette</source>
@@ -3775,7 +3770,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation>&amp;גופן</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>C&amp;haracter Class:</source>
@@ -3788,7 +3783,7 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     </message>
     <message>
         <source>Insert &amp;Code:</source>
-        <translation>להוסיף &amp;קוד:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Glyphs to Insert</source>
@@ -3800,7 +3795,7 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     </message>
     <message>
         <source>&amp;Insert</source>
-        <translation>&amp;להוסיף</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete the current selection(s).</source>
@@ -3819,14 +3814,14 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     <name>CharStyleComboBox</name>
     <message>
         <source>No Style</source>
-        <translation>ללא סגנון</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>CharTableView</name>
     <message>
         <source>Delete</source>
-        <translation>מחק</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -3845,7 +3840,7 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     </message>
     <message>
         <source>Missing Image</source>
-        <translation>תמונה חסרה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Object has transparency</source>
@@ -3861,15 +3856,15 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     </message>
     <message>
         <source>Document</source>
-        <translation>מסמך</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No Problems found</source>
-        <translation>לא נמצאו בעיות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Page </source>
-        <translation>דף</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Free Objects</source>
@@ -3885,7 +3880,7 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     </message>
     <message>
         <source>Problems</source>
-        <translation>בעיות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Current Profile:</source>
@@ -3893,15 +3888,15 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     </message>
     <message>
         <source>&amp;Ignore Errors</source>
-        <translation>&amp;התעלם משגיאות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Check again</source>
-        <translation>בדוק שוב</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Image is GIF</source>
-        <translation>תמונה היא GIF</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OK</source>
@@ -3917,7 +3912,7 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     </message>
     <message>
         <source>Layer &quot;%1&quot;</source>
-        <translation>שכבה &quot;%1&quot;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Annotation uses a non TrueType font</source>
@@ -3937,11 +3932,11 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     </message>
     <message>
         <source>Empty Image Frame</source>
-        <translation>מסגרת תמונה ריקה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Layers</source>
-        <translation>שכבות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Print/Visible Mismatch</source>
@@ -3949,23 +3944,21 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     </message>
     <message>
         <source>Master Pages</source>
-        <translation>דפי בסיס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Layer</source>
-        <translation>שכבה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Image resolution below %1 DPI,
 currently %2 x %3 DPI</source>
-        <translation>רזולוציית תמונה מתחת ל- %1 DPI,
-כעת %2 x %3 DPI</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Image resolution above %1 DPI,
 currently %2 x %3 DPI</source>
-        <translation>רזולוציית תמונה מעל %1 DPI,
-כעת %2 x %3 DPI</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Image dimension is smaller than its frame</source>
@@ -3989,7 +3982,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Empty Text Frame</source>
-        <translation>מסגרת טקסט ריקה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Indicates that editorial changes have been made to a PDF are still present or your PDF contains unprintable annotation items. They may cause issues in professional printing. Also helpful reminder if you are wanting to publish a final draft without editorial relics.</source>
@@ -4154,15 +4147,15 @@ currently %2 x %3 DPI</source>
     <name>ColorListBox</name>
     <message>
         <source>Sort by Name</source>
-        <translation>מיין לפי שם</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sort by Color</source>
-        <translation>מיין לפי צבע</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sort by Type</source>
-        <translation>מיין לפי סוג</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4267,7 +4260,7 @@ currently %2 x %3 DPI</source>
     <name>ColumnResize</name>
     <message>
         <source>Width</source>
-        <translation>רוחב</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4278,7 +4271,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;ביטול</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -4286,11 +4279,11 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation>&amp;שמור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Warning</source>
-        <translation>אזהרה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>None</source>
@@ -4303,7 +4296,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Symbol</source>
-        <translation>סמל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Custom</source>
@@ -4316,7 +4309,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Double Sided</source>
-        <translation>דו צדדי</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>3-Fold</source>
@@ -4328,95 +4321,95 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Monday</source>
-        <translation>שני</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Tuesday</source>
-        <translation>שלישי</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Wednesday</source>
-        <translation>יום רביעי</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Thursday</source>
-        <translation>חמישי</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Friday</source>
-        <translation>שישי</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Saturday</source>
-        <translation>שבת</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sunday</source>
-        <translation>ראשון</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>January</source>
-        <translation>ינואר</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>February</source>
-        <translation>פברואר</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>March</source>
-        <translation>מרץ</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>April</source>
-        <translation>אפריל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>May</source>
-        <translation>מאי</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>June</source>
-        <translation>יוני</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>July</source>
-        <translation>יולי</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>August</source>
-        <translation>אוגוסט</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>September</source>
-        <translation>ספטמבר</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>October</source>
-        <translation>אוקטובר</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>November</source>
-        <translation>נובמבר</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>December</source>
-        <translation>דצמבר</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Yes</source>
-        <translation>כן</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No</source>
-        <translation>לא</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>&amp;כן</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>&amp;לא</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Left Page</source>
@@ -4446,12 +4439,12 @@ currently %2 x %3 DPI</source>
     <message>
         <source>Normal</source>
         <comment>Default single master page</comment>
-        <translation>רגיל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Normal Left</source>
         <comment>Default left master page</comment>
-        <translation>שמאל רגיל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Normal Middle</source>
@@ -4541,7 +4534,7 @@ currently %2 x %3 DPI</source>
     <message>
         <source>Default</source>
         <comment>Optical Margin Setting</comment>
-        <translation>ברירת מחדל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Min. Word Tracking</source>
@@ -4566,12 +4559,12 @@ currently %2 x %3 DPI</source>
     <message>
         <source>RGB</source>
         <comment>Colorspace</comment>
-        <translation>RGB</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>CMYK</source>
         <comment>Colorspace</comment>
-        <translation>CMYK</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Grayscale</source>
@@ -4590,15 +4583,15 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>PostScript</source>
-        <translation>PostScript</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Text Frame</source>
-        <translation>מסגרת טקסט</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Image Frame</source>
-        <translation>מסגרת תמונה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Line</source>
@@ -4671,35 +4664,35 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Default Paragraph Style</source>
-        <translation>סגנון פסקה המוגדר כברירת מחדל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Default Character Style</source>
-        <translation>סגנון תו המוגדר כברירת מחדל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Default Line Style</source>
-        <translation>סגנון שורה המוגדר כברירת מחדל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Group</source>
-        <translation>קבוצה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Regular Polygon</source>
-        <translation>מצולע משוכלל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Arc</source>
-        <translation>קשת</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Spiral</source>
-        <translation>ספירלה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Table</source>
-        <translation>טבלה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Default Table Style</source>
@@ -4743,7 +4736,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Link</source>
-        <translation>קישור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Monochrome</source>
@@ -4752,31 +4745,31 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Alt</source>
-        <translation>Alt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shift</source>
-        <translation>Shift</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cmd</source>
-        <translation>Cmd</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ctrl</source>
-        <translation>Ctrl</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Windows</source>
-        <translation>חלונות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Meta</source>
-        <translation>Meta</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>px</source>
-        <translation>px</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4787,11 +4780,11 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Paste File...</source>
-        <translation>הדבק הקובץ...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete Page</source>
-        <translation>מחיקת דף</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>In&amp;fo</source>
@@ -4799,11 +4792,11 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Print: </source>
-        <translation>הדפס:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enabled</source>
-        <translation>מופעל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Disabled</source>
@@ -4823,7 +4816,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Image</source>
-        <translation>תמונה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Locking</source>
@@ -4855,7 +4848,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Edit</source>
-        <translation>ערוך</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Paste Here</source>
@@ -4878,7 +4871,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Name:</source>
-        <translation>שם:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Copy Applied Master Page Items</source>
@@ -4889,7 +4882,7 @@ currently %2 x %3 DPI</source>
     <name>CopyPageToMasterPageDialog</name>
     <message>
         <source>New Master Page %1</source>
-        <translation>דף בסיס חדש %1</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -4934,7 +4927,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Number of Pages in Document:</source>
-        <translation>מספר העמודים במסמך:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Doc Page Range</source>
@@ -4954,7 +4947,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Alt+L</source>
-        <translation>Alt+L</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Move &amp;Down</source>
@@ -4962,7 +4955,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Alt+D</source>
-        <translation>Alt+D</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Move &amp;Up</source>
@@ -4970,7 +4963,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Alt+U</source>
-        <translation>Alt+U</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add a Range of Pages</source>
@@ -4978,7 +4971,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Consecutive Pages</source>
-        <translation>עמודים רצופים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Even Pages</source>
@@ -4986,7 +4979,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>From:</source>
-        <translation>מאת:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>To:</source>
@@ -4998,7 +4991,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Alt+A</source>
-        <translation>Alt+A</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Odd Pages</source>
@@ -5030,15 +5023,15 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Alt+O</source>
-        <translation>Alt+O</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;ביטול</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation>Alt+C</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5069,7 +5062,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>ביטול</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>None</source>
@@ -5081,7 +5074,7 @@ currently %2 x %3 DPI</source>
     <name>CupsOptions</name>
     <message>
         <source>Printer Options</source>
-        <translation>אפשרויות מדפסת</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Option</source>
@@ -5144,7 +5137,7 @@ currently %2 x %3 DPI</source>
     <name>CurveWidget</name>
     <message>
         <source>Open</source>
-        <translation>פתח</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Curve Files &quot;*.scu&quot; (*.scu *.SCU);;All Files (*)</source>
@@ -5152,7 +5145,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Save as</source>
-        <translation>שמור בשם</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cannot write the file: 
@@ -5165,7 +5158,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Resets the curve</source>
-        <translation>לאפס את העקומה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Switches between linear and cubic interpolation of the curve</source>
@@ -5243,22 +5236,22 @@ currently %2 x %3 DPI</source>
     <name>CvgPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation>מיבא: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation>מנתח קובץ:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation>יצירת פריטים</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>DashEditor</name>
     <message>
         <source>Value:</source>
-        <translation>ערך:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Offset:</source>
@@ -5269,18 +5262,18 @@ currently %2 x %3 DPI</source>
     <name>DeferredTask</name>
     <message>
         <source>Cancelled by user</source>
-        <translation>בוטל על ידי משתמש</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>DelColor</name>
     <message>
         <source>Delete Color</source>
-        <translation>מחיקת צבע</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete Color:</source>
-        <translation>מחיקת צבע:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Replace With:</source>
@@ -5313,7 +5306,7 @@ currently %2 x %3 DPI</source>
     <name>DocIm</name>
     <message>
         <source>Importing failed</source>
-        <translation>היבוא נכשל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Importing Word document failed 
@@ -5325,7 +5318,7 @@ currently %2 x %3 DPI</source>
     <name>DocInfos</name>
     <message>
         <source>Document Information</source>
-        <translation>פרטי המסמך</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Title:</source>
@@ -5357,7 +5350,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Dat&amp;e:</source>
-        <translation>&amp;תאריך:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>T&amp;ype:</source>
@@ -5377,7 +5370,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>&amp;Language:</source>
-        <translation>&amp;שפה:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Relation:</source>
@@ -5397,11 +5390,11 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>A person or organisation responsible for making the document available</source>
-        <translation>אדם או ארגון אחראי שהמסמך יהיה זמין</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>A person or organisation responsible for making contributions to the content of the document</source>
-        <translation>אדם או ארגון אחראי על ביצוע תרומות לתוכן של המסמך</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>A date associated with an event in the life cycle of the document, in YYYY-MM-DD format, as per ISO 8601</source>
@@ -5502,19 +5495,19 @@ currently %2 x %3 DPI</source>
     <name>DrwPlug</name>
     <message>
         <source>Group%1</source>
-        <translation>קבוצה%1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Importing: %1</source>
-        <translation>מיבא: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation>מנתח קובץ:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation>יצירת פריטים</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5527,15 +5520,15 @@ failed!</source>
     </message>
     <message>
         <source>Fatal Error</source>
-        <translation>שגיאה קטלנית</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Error</source>
-        <translation>שגיאה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation>יצירת פריטים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Analyzing PostScript:</source>
@@ -5547,18 +5540,18 @@ failed!</source>
     </message>
     <message>
         <source>Group%1</source>
-        <translation>קבוצה%1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Importing: %1</source>
-        <translation>מיבא: %1</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>EditToolBar</name>
     <message>
         <source>Edit</source>
-        <translation>ערוך</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5569,15 +5562,15 @@ failed!</source>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation>&amp;חדש</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Open...</source>
-        <translation>&amp;פתח</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Save &amp;As...</source>
-        <translation>שמור &amp;בשם</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Save and Exit</source>
@@ -5589,23 +5582,23 @@ failed!</source>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation>ביטול</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation>חזרה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cu&amp;t</source>
-        <translation>ג&amp;זור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation>&amp;העתק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation>&amp;הדבק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>C&amp;lear</source>
@@ -5617,11 +5610,11 @@ failed!</source>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation>&amp;קובץ</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation>&amp;ערוך</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>JavaScripts (*.js);;All Files (*)</source>
@@ -5629,23 +5622,23 @@ failed!</source>
     </message>
     <message>
         <source>Ctrl+N</source>
-        <translation>Ctrl+N</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ctrl+Z</source>
-        <translation>Ctrl+Z</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ctrl+X</source>
-        <translation>Ctrl+X</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ctrl+C</source>
-        <translation>Ctrl+C</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ctrl-V</source>
-        <translation>Ctrl-V</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OK</source>
@@ -5653,7 +5646,7 @@ failed!</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>ביטול</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5664,11 +5657,11 @@ failed!</source>
     </message>
     <message>
         <source>Options:</source>
-        <translation>אפשרויות:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Color:</source>
-        <translation>צבע:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shade:</source>
@@ -5684,11 +5677,11 @@ failed!</source>
     </message>
     <message>
         <source>Radius:</source>
-        <translation>רדיוס:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Value:</source>
-        <translation>ערך:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Posterize:</source>
@@ -5732,11 +5725,11 @@ failed!</source>
     </message>
     <message>
         <source>&gt;&gt;</source>
-        <translation>&gt;&gt;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;&lt;</source>
-        <translation>&lt;&lt;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Effects in use</source>
@@ -5748,7 +5741,7 @@ failed!</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>ביטול</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Color 1:</source>
@@ -5787,15 +5780,15 @@ failed!</source>
     <name>EmfPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation>מיבא: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation>מנתח קובץ:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation>יצירת פריטים</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -5810,7 +5803,7 @@ failed!</source>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;סגור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Exception</source>
@@ -5833,7 +5826,7 @@ failed!</source>
     </message>
     <message>
         <source>Save as Image</source>
-        <translation>שמור כ-תמונה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insufficient memory for this image size.</source>
@@ -5893,7 +5886,7 @@ Name of the export file will be &apos;documentname-pagenumber.filetype&apos;</so
     </message>
     <message>
         <source>Options</source>
-        <translation>אפשרויות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Resolution:</source>
@@ -5901,11 +5894,11 @@ Name of the export file will be &apos;documentname-pagenumber.filetype&apos;</so
     </message>
     <message>
         <source> %</source>
-        <translation> %</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source> dpi</source>
-        <translation> dpi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Range</source>
@@ -5936,12 +5929,11 @@ a range of pages or a single page number.</source>
     <message>
         <source>Resolution of the Images
 Use 72 dpi for Images intended for the Screen</source>
-        <translation>רזולוציה של התמונות
-השתמש ב-72 DPI לתמונות מיועדות למסך</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation>&amp;מידה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Size of the images. 100% for no changes, 200% for two times larger etc.</source>
@@ -5988,11 +5980,11 @@ Use 72 dpi for Images intended for the Screen</source>
     <name>ExtImageProps</name>
     <message>
         <source>Extended Image Properties</source>
-        <translation>מאפייני תמונה מורחבים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Normal</source>
-        <translation>רגיל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Darken</source>
@@ -6008,11 +6000,11 @@ Use 72 dpi for Images intended for the Screen</source>
     </message>
     <message>
         <source>Saturation</source>
-        <translation>רוויה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Color</source>
-        <translation>צבע</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Luminosity</source>
@@ -6064,15 +6056,15 @@ Use 72 dpi for Images intended for the Screen</source>
     </message>
     <message>
         <source> %</source>
-        <translation> %</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Name</source>
-        <translation>שם</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Layers</source>
-        <translation>שכבות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Don&apos;t use any Path</source>
@@ -6119,7 +6111,7 @@ Use 72 dpi for Images intended for the Screen</source>
     </message>
     <message>
         <source>Author:</source>
-        <translation>מחבר:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unknown</source>
@@ -6127,15 +6119,15 @@ Use 72 dpi for Images intended for the Screen</source>
     </message>
     <message>
         <source>Scribus Document</source>
-        <translation>מסמך Scribus</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Resolution:</source>
-        <translation>רזולוציה:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DPI</source>
-        <translation>DPI</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Colorspace:</source>
@@ -6150,11 +6142,11 @@ Use 72 dpi for Images intended for the Screen</source>
     <name>FhPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation>מיבא: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation>מנתח קובץ:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Parsing failed!
@@ -6179,7 +6171,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     <name>FileToolBar</name>
     <message>
         <source>File</source>
-        <translation>קובץ</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6190,7 +6182,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Path Tools</source>
-        <translation>נתיב כלים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Flattens a Path</source>
@@ -6209,7 +6201,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Style:</source>
-        <translation>סגנון:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Font Family of Selected Text or Text Frame</source>
@@ -6217,7 +6209,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Font Style of Selected Text or Text Frame</source>
-        <translation>סגנון גופן של טקסט הנבחר או בתוך מסגרת טקסט</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6236,7 +6228,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Style</source>
-        <translation>סגנון</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Variant</source>
@@ -6248,7 +6240,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Format</source>
-        <translation>עיצוב</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Embed in PostScript</source>
@@ -6283,12 +6275,12 @@ Document Liberation Project http://www.documentliberation.org</source>
     <message>
         <source>User</source>
         <comment>font preview</comment>
-        <translation>משתמש</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>System</source>
         <comment>font preview</comment>
-        <translation>מערכת</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Click to change the value</source>
@@ -6329,7 +6321,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Text</source>
-        <translation>טקסט</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sample text to display</source>
@@ -6341,27 +6333,27 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Alt+T</source>
-        <translation>Alt+T</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reset the text</source>
-        <translation>לאפס את הטקסט</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;סגור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation>Alt+C</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Typing the text here provides quick searching in the font names. Searching is case insensitive. The given text is taken as substring.</source>
-        <translation>Typing the text here provides quick searching in the font names. Searching is case insensitive. The given text is taken as substring.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Default</source>
-        <translation>&amp;ברירת מחדל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Extended Font Information</source>
@@ -6407,7 +6399,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>This document contains some fonts that are not installed on your system, please choose a suitable replacement for them. Cancel will stop the document from loading.</source>
-        <translation>מסמך זה מכיל כמה גופנים שאינם מותקנים במערכת שלך, אנא בחר תחליף מתאים עבורם. בטל יעצור את המסמך מהטעינה.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cancels these font substitutions and stops loading the document.</source>
@@ -6426,11 +6418,11 @@ Document Liberation Project http://www.documentliberation.org</source>
     <name>FontSelect</name>
     <message>
         <source>Select Alternate Font</source>
-        <translation>בחר גופן חלופי</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Font</source>
-        <translation>גופן</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -6441,7 +6433,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source> %</source>
-        <translation> %</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add, change or remove color stops here</source>
@@ -6452,7 +6444,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     <name>GradientEditorBase</name>
     <message>
         <source>Frame</source>
-        <translation>מסגרת</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Position:</source>
@@ -6460,11 +6452,11 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source> %</source>
-        <translation> %</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Color:</source>
-        <translation>צבע:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Opacity:</source>
@@ -6498,7 +6490,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>/</source>
-        <translation>/</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>End:</source>
@@ -6506,7 +6498,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Skew:</source>
-        <translation>הטייה:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Focal:</source>
@@ -6581,7 +6573,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     <name>GuideManager</name>
     <message>
         <source>&amp;Single</source>
-        <translation>&amp;יחיד</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Horizontals</source>
@@ -6593,7 +6585,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Alt+A</source>
-        <translation>Alt+A</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>D&amp;elete</source>
@@ -6601,7 +6593,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Alt+E</source>
-        <translation>Alt+E</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Verticals</source>
@@ -6613,7 +6605,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Alt+D</source>
-        <translation>Alt+D</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>De&amp;lete</source>
@@ -6621,7 +6613,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Alt+L</source>
-        <translation>Alt+L</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Lock Guides</source>
@@ -6633,7 +6625,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Alt+Y</source>
-        <translation>Alt+Y</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Column/Row</source>
@@ -6649,15 +6641,15 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Alt+S</source>
-        <translation>Alt+S</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Page</source>
-        <translation>&amp;דף</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Alt+P</source>
-        <translation>Alt+P</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>M&amp;argins</source>
@@ -6677,7 +6669,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Alt+G</source>
-        <translation>Alt+G</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Misc</source>
@@ -6800,11 +6792,11 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>&amp;מחק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Print...</source>
-        <translation>&amp;הדפס...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New Bookmark</source>
@@ -6816,7 +6808,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation>&amp;קובץ</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Find...</source>
@@ -6832,7 +6824,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation>&amp;ערוך</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Navigation</source>
@@ -6856,7 +6848,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Scribus Help</source>
-        <translation>עזרה עם Scribus</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Exit</source>
@@ -6876,19 +6868,19 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation>&amp;צא</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;h2&gt;&lt;p&gt;Sorry, no manual is installed!&lt;/p&gt;&lt;p&gt;Please see:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;http://docs.scribus.net for updated documentation&lt;/li&gt;&lt;li&gt;http://www.scribus.net for downloads&lt;/li&gt;&lt;/ul&gt;&lt;/h2&gt;</source>
         <comment>HTML message for no documentation available to show</comment>
-        <translation>&lt;h2&gt;&lt;p&gt;מצטער, ההוראות אינן מותקנות!&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;http://docsאנא ראו:.scribus.net לתיעוד מעודכן documentation&lt;/li&gt;&lt;li&gt;http://www.scribus.net להורדות&lt;/li&gt;&lt;/ul&gt;&lt;/h2&gt;</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>HelpBrowserNavigation</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Contents</source>
@@ -6916,11 +6908,11 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation>&amp;חדש</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>&amp;מחק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>D&amp;elete All</source>
@@ -6950,11 +6942,11 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Ignore Once</source>
-        <translation>התעלם פעם אחת</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ignore All</source>
-        <translation>התעלם תמיד</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Suggestions</source>
@@ -6984,15 +6976,15 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Accept</source>
-        <translation>קבל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Skip</source>
-        <translation>דלג</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>ביטול</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add to the
@@ -7009,15 +7001,15 @@ Ignore List</source>
     <name>IdmlPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation>מיבא: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation>מנתח קובץ:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation>יצירת פריטים</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -7032,7 +7024,7 @@ Ignore List</source>
     </message>
     <message>
         <source>Date / Time:</source>
-        <translation>תאריך / שעה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Has Embedded Profile:</source>
@@ -7056,15 +7048,15 @@ Ignore List</source>
     </message>
     <message>
         <source>Artist:</source>
-        <translation>אמן:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Comment:</source>
-        <translation>הערה:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>User Comment:</source>
-        <translation>הערת משתמש:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Camera Model:</source>
@@ -7076,11 +7068,11 @@ Ignore List</source>
     </message>
     <message>
         <source>Description:</source>
-        <translation>תיאור:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Copyright:</source>
-        <translation>זכויות יוצרים:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Scanner Model:</source>
@@ -7107,7 +7099,7 @@ Ignore List</source>
     <name>ImportAIPlugin</name>
     <message>
         <source>Import AI...</source>
-        <translation>ייבא AI...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Imports Illustrator Files</source>
@@ -7194,15 +7186,15 @@ Document Liberation Project http://www.documentliberation.org</source>
     <name>ImportCgmPlugin</name>
     <message>
         <source>Import Cgm...</source>
-        <translation type="vanished">ייבא Cgm...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>CGM File</source>
-        <translation>קובץ CGM</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>CGM File (*.cgm *.CGM)</source>
-        <translation>CGM קובץ (*.cgm *.CGM)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Imports CGM Files</source>
@@ -7234,7 +7226,7 @@ converting their vector data into Scribus objects.</source>
     <name>ImportCvgPlugin</name>
     <message>
         <source>Import Cvg...</source>
-        <translation type="vanished">ייבא Cvg...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Imports Cvg Files</source>
@@ -7267,7 +7259,7 @@ converting their vector data into Scribus objects.</source>
     <name>ImportDrwPlugin</name>
     <message>
         <source>Import DRW...</source>
-        <translation type="vanished">ייבא DRW...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Micrografx DRW File</source>
@@ -7315,7 +7307,7 @@ converting their vector data into Scribus objects.</source>
     <name>ImportEmfPlugin</name>
     <message>
         <source>Import EMF...</source>
-        <translation type="vanished">ייבא EMF...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>EMF</source>
@@ -7411,7 +7403,7 @@ converting their vector data into Scribus objects.</source>
     <name>ImportIdmlPlugin</name>
     <message>
         <source>Import Idml...</source>
-        <translation>ייבא Idml...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Adobe Indesign IDML</source>
@@ -7529,7 +7521,7 @@ converting their vector data into Scribus objects.</source>
     <name>ImportPctPlugin</name>
     <message>
         <source>Import Pict...</source>
-        <translation type="vanished">ייבא Pict...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Imports Pict Files</source>
@@ -7562,7 +7554,7 @@ converting their vector data into Scribus objects.</source>
     <name>ImportPdfPlugin</name>
     <message>
         <source>Import PDF...</source>
-        <translation>ייבא PDF...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Imports PDF Files</source>
@@ -7586,7 +7578,7 @@ converting their vector data into Scribus objects.</source>
     <name>ImportPmPlugin</name>
     <message>
         <source>Import Pagemaker...</source>
-        <translation>צורות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Pagemaker</source>
@@ -7614,7 +7606,7 @@ converting their vector data into Scribus objects.</source>
     <name>ImportPubPlugin</name>
     <message>
         <source>Import PUB...</source>
-        <translation>ייבא PUB...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>MS Publisher</source>
@@ -7671,7 +7663,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Dia Shapes</source>
-        <translation>צורות Dia</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Dia Shapes (*.shape *.SHAPE)</source>
@@ -7686,7 +7678,7 @@ converting their vector data into Scribus objects.</source>
     <name>ImportSmlPlugin</name>
     <message>
         <source>Import Sml...</source>
-        <translation>ייבא Sml...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Kivio Stencils &quot;*.sml&quot; File</source>
@@ -7722,7 +7714,7 @@ converting their vector data into Scribus objects.</source>
     <name>ImportSvmPlugin</name>
     <message>
         <source>Import SVM...</source>
-        <translation>ייבא SVM...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>SVM</source>
@@ -7750,7 +7742,7 @@ converting their vector data into Scribus objects.</source>
     <name>ImportVivaPlugin</name>
     <message>
         <source>Import Viva...</source>
-        <translation>ייבא Viva...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Viva Designer XML</source>
@@ -7778,7 +7770,7 @@ converting their vector data into Scribus objects.</source>
     <name>ImportVsdPlugin</name>
     <message>
         <source>Import Visio...</source>
-        <translation>ייבא Visio...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>MS Visio</source>
@@ -7806,7 +7798,7 @@ converting their vector data into Scribus objects.</source>
     <name>ImportWpgPlugin</name>
     <message>
         <source>Import WPG...</source>
-        <translation type="vanished">ייבא WPG...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Imports WPG Files</source>
@@ -7839,7 +7831,7 @@ converting their vector data into Scribus objects.</source>
     <name>ImportXarPlugin</name>
     <message>
         <source>Import Xara...</source>
-        <translation>ייבא Xara...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>XARA &quot;*.xar&quot; File</source>
@@ -7875,7 +7867,7 @@ converting their vector data into Scribus objects.</source>
     <name>ImportXfigPlugin</name>
     <message>
         <source>Import Xfig...</source>
-        <translation>ייבא Xfig...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Imports Xfig Files</source>
@@ -7895,7 +7887,7 @@ converting their vector data into Scribus objects.</source>
     <name>ImportXpsPlugin</name>
     <message>
         <source>Import Xps...</source>
-        <translation>ייבא Xps...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Microsoft XPS</source>
@@ -7958,7 +7950,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Alt+U</source>
-        <translation>Alt+U</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Front side</source>
@@ -7978,15 +7970,15 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>4</source>
-        <translation>4</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>8</source>
-        <translation>8</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>16</source>
-        <translation>16</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Pages</source>
@@ -8009,7 +8001,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Double sided</source>
-        <translation>דו צדדי</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Back page from</source>
@@ -8021,7 +8013,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Size</source>
-        <translation>מידה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Orientation</source>
@@ -8029,7 +8021,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Width</source>
-        <translation>רוחב</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Height</source>
@@ -8049,15 +8041,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Alt+G</source>
-        <translation>Alt+G</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;ביטול</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation>Alt+C</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -8098,11 +8090,11 @@ p, li { white-space: pre-wrap; }
     <name>InsPage</name>
     <message>
         <source>Insert Page</source>
-        <translation>להוסיף דף</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>before Page</source>
-        <translation>לפני הדף</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>after Page</source>
@@ -8118,11 +8110,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Insert</source>
-        <translation>&amp;להוסיף</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Master Page:</source>
-        <translation>&amp;דף בסיס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Page Size</source>
@@ -8130,7 +8122,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation>&amp;מידה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Orie&amp;ntation:</source>
@@ -8146,11 +8138,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Width:</source>
-        <translation>&amp;רוחב:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Height:</source>
-        <translation>&amp;גובה:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Move Objects with their Page</source>
@@ -8158,7 +8150,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Master Pages</source>
-        <translation>דפי בסיס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Override Master Page Sizing</source>
@@ -8169,7 +8161,7 @@ p, li { white-space: pre-wrap; }
     <name>InsertAFrame</name>
     <message>
         <source>Open</source>
-        <translation>פתח</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>T&amp;ype</source>
@@ -8177,11 +8169,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Text Frame</source>
-        <translation>מסגרת &amp;טקסט</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Image Frame</source>
-        <translation>&amp;מסגרת תמונה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Location</source>
@@ -8201,7 +8193,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Position of Frame</source>
@@ -8221,11 +8213,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>X:</source>
-        <translation>X:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Y:</source>
-        <translation>Y:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Size</source>
@@ -8249,11 +8241,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Height:</source>
-        <translation>גובה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Width:</source>
-        <translation>רוחב:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Options</source>
@@ -8277,7 +8269,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Source Document:</source>
-        <translation>מקור המסמך:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Range of Pages</source>
@@ -8428,7 +8420,7 @@ p, li { white-space: pre-wrap; }
     <name>InsertTable</name>
     <message>
         <source>Insert Table</source>
-        <translation>להוסיף טבלה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Number of rows:</source>
@@ -8455,7 +8447,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Before</source>
-        <translation>לפני</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>positions</source>
@@ -8463,7 +8455,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>After</source>
-        <translation>אחרי</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Beginning</source>
@@ -8490,7 +8482,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Before</source>
-        <translation>לפני</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>positions</source>
@@ -8498,7 +8490,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>After</source>
-        <translation>אחרי</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Beginning</source>
@@ -8513,15 +8505,15 @@ p, li { white-space: pre-wrap; }
     <name>JavaDocs</name>
     <message>
         <source>New Script</source>
-        <translation>סקריפט חדש</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Edit JavaScripts</source>
-        <translation>ערוך JavaScripts</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Edit...</source>
-        <translation>&amp;ערוך...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Add...</source>
@@ -8529,15 +8521,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>&amp;מחק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;סגור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;New Script:</source>
-        <translation>&amp;סקריפט חדש</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Do you really want to delete this script?</source>
@@ -8556,7 +8548,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Update</source>
-        <translation>עדכן</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Revert</source>
@@ -8576,11 +8568,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Options</source>
-        <translation>אפשרויות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Resolution:</source>
-        <translation>רזולוציה:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Automatic</source>
@@ -8588,7 +8580,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source> DPI</source>
-        <translation> DPI</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Program:</source>
@@ -8600,11 +8592,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Status: </source>
-        <translation>סטטוס:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Error</source>
-        <translation>שגיאה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Finished</source>
@@ -8624,7 +8616,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Information</source>
-        <translation>מידע</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>An editor for this frame is already running!</source>
@@ -8656,22 +8648,22 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Insert Symbol</source>
-        <translation>להוסיף סמל</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>LayerPalette</name>
     <message>
         <source>Layers</source>
-        <translation>שכבות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete Layer</source>
-        <translation>מחק שכבה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Name</source>
-        <translation>שם</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Do you want to delete all objects on this layer too?</source>
@@ -8683,7 +8675,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source> %</source>
-        <translation> %</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Blend Mode:</source>
@@ -8691,7 +8683,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Normal</source>
-        <translation>רגיל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Darken</source>
@@ -8743,11 +8735,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Saturation</source>
-        <translation>רוויה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Color</source>
-        <translation>צבע</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Luminosity</source>
@@ -8783,19 +8775,19 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Add a New Layer</source>
-        <translation>הוסף שכבה חדשה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Duplicate the Current Layer</source>
-        <translation>שכפל שכבה נוכחית</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Raise Layer</source>
-        <translation>הגבה שכבה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Lower Layer</source>
-        <translation>הנמך שכבה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Make text in lower layers flow around objects - Enabling this forces text in lower layers to flow around objects of the layer for which this option has been enabled</source>
@@ -8818,11 +8810,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>+</source>
-        <translation>+</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>-</source>
-        <translation>-</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Lens Parameters</source>
@@ -8846,7 +8838,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Zoom In</source>
-        <translation>הגדלה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Zoom Out</source>
@@ -8886,7 +8878,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Ra&amp;dius:</source>
-        <translation>&amp;רדיוס:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Radius of the lens</source>
@@ -8909,7 +8901,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Path Tools</source>
-        <translation>נתיב כלים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Lens Effects</source>
@@ -8924,7 +8916,7 @@ p, li { white-space: pre-wrap; }
     <name>LoadSavePlugin</name>
     <message>
         <source>All Files (*)</source>
-        <translation>כל הקבצים (*)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>An error occured while opening file or file is damaged</source>
@@ -8948,7 +8940,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Author:</source>
-        <translation>מחבר:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Get More:</source>
@@ -8956,7 +8948,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>XML File:</source>
-        <translation>קובץ XML:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Lorem Ipsum</source>
@@ -8968,11 +8960,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Alt+O</source>
-        <translation>Alt+O</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation>Alt+C</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Standard Lorem Ipsum</source>
@@ -9011,7 +9003,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation>&amp;מידה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Orie&amp;ntation:</source>
@@ -9027,11 +9019,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Width:</source>
-        <translation>&amp;רוחב:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Height:</source>
-        <translation>&amp;גובה:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Move Objects with their Page</source>
@@ -9047,7 +9039,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Master Page:</source>
-        <translation>דף בסיס:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Size of the inserted pages, either a standard or custom size.</source>
@@ -9086,7 +9078,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation>&amp;שמאל:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Distance between the top margin guide and the edge of the page</source>
@@ -9130,7 +9122,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>All Master Pages</source>
-        <translation>כל דפי בסיס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Apply the margin changes to all existing master pages in the document</source>
@@ -9178,11 +9170,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Left:</source>
-        <translation>שמאל:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Right:</source>
-        <translation>ימין:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Distance between the left margin guide and the edge of the page. If a double-sided, 3 or 4-fold layout is selected, this margin space can be used to achieve the correct margins for binding</source>
@@ -9335,11 +9327,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Edit</source>
-        <translation>ערוך</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete</source>
-        <translation>מחק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Anchors</source>
@@ -9382,27 +9374,27 @@ p, li { white-space: pre-wrap; }
     <name>MasterPagesPalette</name>
     <message>
         <source>Edit Master Pages</source>
-        <translation type="vanished">ערוך דפי בסיס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="vanished">&amp;שם:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New Master Page</source>
-        <translation type="vanished">דף בסיס חדש</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="vanished">שם:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New MasterPage</source>
-        <translation type="vanished">דף בסיס חדש</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Copy #%1 of </source>
-        <translation type="vanished">עותק #%1 של</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Duplicate the selected master page</source>
@@ -9414,7 +9406,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Add a new master page</source>
-        <translation type="vanished">הוסף דף בסיס חדש</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Import master pages from another document</source>
@@ -9422,7 +9414,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>New Master Page %1</source>
-        <translation type="vanished">דף בסיס חדש %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unable to Rename Master Page</source>
@@ -9438,11 +9430,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>New Name:</source>
-        <translation type="vanished">שם חדש:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Copy #%1 of %2</source>
-        <translation type="vanished">עותק #%1 של %2</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This master page is used at least once in the document.</source>
@@ -9457,34 +9449,34 @@ p, li { white-space: pre-wrap; }
     <name>Measurements</name>
     <message>
         <source> °</source>
-        <translation> °</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>MeasurementsBase</name>
     <message>
         <source>Distances</source>
-        <translation>מרחקים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>X1:</source>
-        <translation>X1:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>10000.0000</source>
-        <translation>10000.0000</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Y1:</source>
-        <translation>Y1:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>X2:</source>
-        <translation>X2:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Y2:</source>
-        <translation>Y2:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Length:</source>
@@ -9492,26 +9484,26 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>DX:</source>
-        <translation>DX:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DY:</source>
-        <translation>DY:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Angle:</source>
-        <translation>זווית:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unit:</source>
-        <translation>יחידה</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>MergeDoc</name>
     <message>
         <source>Open</source>
-        <translation>פתח</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Documents (*.sla *.sla.gz *.scd *.scd.gz);;All Files (*)</source>
@@ -9531,7 +9523,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Import Master Page</source>
-        <translation>ייבא דף בסיס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;From Document:</source>
@@ -9543,11 +9535,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Import Master Page</source>
-        <translation>ייבא &amp;דף בסיס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Before Page</source>
-        <translation>לפני הדף</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>After Page</source>
@@ -9559,7 +9551,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Import</source>
-        <translation>&amp;ייבא</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Insert a comma separated list of tokens import where a token can be * for all the pages, 1-5 for a range of pages or a single page number.</source>
@@ -9574,11 +9566,11 @@ p, li { white-space: pre-wrap; }
     <name>MeshDistortionDialog</name>
     <message>
         <source>+</source>
-        <translation>+</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>-</source>
-        <translation>-</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Mesh Distortion</source>
@@ -9590,7 +9582,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Zoom In</source>
-        <translation>הגדלה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Zoom Out</source>
@@ -9603,7 +9595,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>&amp;Reset</source>
-        <translation>&amp;לאפס</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9614,7 +9606,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>Path Tools</source>
-        <translation>נתיב כלים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Mesh Distortion of Polygons</source>
@@ -9644,19 +9636,19 @@ If no handle is selected all handles will be reset.</source>
     <name>ModeToolBar</name>
     <message>
         <source>Tools</source>
-        <translation>כלים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Properties...</source>
-        <translation>מאפיינים...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Angle:</source>
-        <translation>זווית:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Width:</source>
-        <translation>רוחב:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9667,7 +9659,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>Copy Page</source>
-        <translation>העתק דף</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Move Page(s):</source>
@@ -9679,7 +9671,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>Before Page</source>
-        <translation>לפני הדף</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>After Page</source>
@@ -9714,7 +9706,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;ביטול</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%v of %m</source>
@@ -9757,7 +9749,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>Alt+S</source>
-        <translation>Alt+S</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Create &amp;Gap Between Items Of</source>
@@ -9765,7 +9757,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>Alt+G</source>
-        <translation>Alt+G</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Rotation:</source>
@@ -9797,7 +9789,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;ביטול</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -9822,7 +9814,7 @@ If no handle is selected all handles will be reset.</source>
     <name>NewDoc</name>
     <message>
         <source>New Document</source>
-        <translation>מסמך חדש</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Portrait</source>
@@ -9838,7 +9830,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>Options</source>
-        <translation>אפשרויות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Document page size, either a standard size or a custom size</source>
@@ -9874,7 +9866,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation>&amp;מידה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Orie&amp;ntation:</source>
@@ -9882,15 +9874,15 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>&amp;Width:</source>
-        <translation>&amp;רוחב:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Height:</source>
-        <translation>&amp;גובה:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Default Unit:</source>
-        <translation>יחידת &amp;ברירת מחדל:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Automatic Text Frames</source>
@@ -9930,11 +9922,11 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>Open</source>
-        <translation>פתח</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;New Document</source>
-        <translation>&amp;מסמך חדש</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Open &amp;Existing Document</source>
@@ -9958,14 +9950,14 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>New &amp;from Template</source>
-        <translation>חדש &amp;מתבנית</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>NewFromTemplatePlugin</name>
     <message>
         <source>New &amp;from Template...</source>
-        <translation>חדש &amp;מתבנית</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Load documents with predefined layout</source>
@@ -9980,7 +9972,7 @@ If no handle is selected all handles will be reset.</source>
     <name>NewMarginWidget</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Preset Layouts:</source>
@@ -9988,11 +9980,11 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>Left:</source>
-        <translation>שמאל:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Right:</source>
-        <translation>ימין:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Top:</source>
@@ -10004,7 +9996,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>Link</source>
-        <translation>קישור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Printer Margins...</source>
@@ -10032,7 +10024,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation>&amp;שמאל:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>O&amp;utside:</source>
@@ -10151,7 +10143,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>Angle of Rotation</source>
-        <translation>זווית הסיבוב</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Activate Contour Line Editing Mode</source>
@@ -10167,7 +10159,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source> %</source>
-        <translation> %</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>When checked use coordinates relative to the page, otherwise coordinates are relative to the Object.</source>
@@ -10223,7 +10215,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>ביטול</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reset all edits</source>
@@ -10238,11 +10230,11 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>Add New Style</source>
-        <translation>הוסף סגנון חדש</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New Style Name</source>
-        <translation>שם סגנון חדש</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Footnotes</source>
@@ -10310,7 +10302,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation>מחק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OK</source>
@@ -10318,7 +10310,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>Document</source>
-        <translation>מסמך</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Section</source>
@@ -10330,15 +10322,15 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>Page</source>
-        <translation>דף</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Frame</source>
-        <translation>מסגרת</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>ביטול</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Dialog is in adding new notes style mode. After pressing Cancel button dialog will be switched into normal notes styles edit mode.</source>
@@ -10350,11 +10342,11 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>default</source>
-        <translation>ברירת מחדל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No Style</source>
-        <translation>ללא סגנון</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Warning! Deleting Notes Style</source>
@@ -10386,7 +10378,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Group%1</source>
-        <translation>קבוצה%1</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10441,11 +10433,11 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Name:</source>
-        <translation>שם:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Options</source>
-        <translation>אפשרויות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Solid</source>
@@ -10509,7 +10501,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source> %</source>
-        <translation> %</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Render Style:</source>
@@ -10561,11 +10553,11 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Blue</source>
-        <translation>כחול</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Red</source>
-        <translation>אדום</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cube</source>
@@ -10585,7 +10577,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Angle:</source>
-        <translation>זווית:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add View...</source>
@@ -10600,7 +10592,7 @@ You cannot switch to different notes style before you apply that new one or pres
     <name>OSGEditorDialog</name>
     <message>
         <source>Default</source>
-        <translation>ברירת מחדל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add a new View</source>
@@ -10608,7 +10600,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Name:</source>
-        <translation>שם:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New View</source>
@@ -10623,15 +10615,15 @@ You cannot switch to different notes style before you apply that new one or pres
     <name>OdgPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation>מיבא: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation>מנתח קובץ:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation>יצירת פריטים</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10654,7 +10646,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Merge Paragraph Styles</source>
-        <translation>מיזוג סגנונות פסקה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Merge paragraph styles by attributes. This will result in fewer similar paragraph styles, will retain style attributes, even if the original document&apos;s styles are named differently.</source>
@@ -10670,7 +10662,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Overwrite Paragraph Styles</source>
-        <translation>לדרוס סגנונות פסקה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>OpenDocument Importer Options</source>
@@ -10678,18 +10670,18 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Cancel</source>
-        <translation>ביטול</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>OldScribusFormat</name>
     <message>
         <source>Scribus Document</source>
-        <translation>מסמך Scribus</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Scribus 1.2.x Document</source>
-        <translation>מסמך Scribus 1.2.x </translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10700,11 +10692,11 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Size</source>
-        <translation>מידה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Width:</source>
-        <translation>רוחב:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Length:</source>
@@ -10712,11 +10704,11 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Height:</source>
-        <translation>גובה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Angle:</source>
-        <translation>זווית:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Remember Values</source>
@@ -10753,7 +10745,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Page </source>
-        <translation>דף</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Free Objects</source>
@@ -10800,7 +10792,7 @@ You cannot switch to different notes style before you apply that new one or pres
     <name>OutlineValues</name>
     <message>
         <source> %</source>
-        <translation> %</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Linewidth</source>
@@ -10850,7 +10842,7 @@ You cannot switch to different notes style before you apply that new one or pres
     <name>PDFExportDialog</name>
     <message>
         <source>Save as PDF</source>
-        <translation>שמור כ-PDF</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>O&amp;utput to File:</source>
@@ -10870,7 +10862,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation>&amp;שמור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Open the exported PDF with the PDF viewer as set in External Tools preferences, when not exporting to a multi-file export destination.</source>
@@ -10899,7 +10891,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Save As</source>
-        <translation>שמור בשם</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -10926,7 +10918,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Page:</source>
-        <translation>דף:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Date:</source>
@@ -10957,14 +10949,14 @@ You cannot switch to different notes style before you apply that new one or pres
     <name>PDFToolBar</name>
     <message>
         <source>PDF Tools</source>
-        <translation>כלי PDF</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>PPreview</name>
     <message>
         <source>Print Preview</source>
-        <translation>הצג לפני הדפסה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>All</source>
@@ -11004,19 +10996,19 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>&amp;C</source>
-        <translation>C&amp;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;M</source>
-        <translation>M&amp;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Y</source>
-        <translation>Y&amp;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;K</source>
-        <translation>K&amp;</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Under Color Removal</source>
@@ -11028,19 +11020,19 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Cyan</source>
-        <translation>ציאן</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Magenta</source>
-        <translation>מג&apos;נטה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Yellow</source>
-        <translation>צהוב</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Black</source>
-        <translation>שחור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Preview Settings</source>
@@ -11052,7 +11044,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Print...</source>
-        <translation>הדפס...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>A way of switching off some of the gray shades which are composed of cyan, yellow and magenta and using black instead. UCR most affects parts of images which are neutral and/or dark tones which are close to the gray. Use of this may improve printing some images and some experimentation and testing is need on a case by case basis. UCR reduces the possibility of over saturation with CMY inks.</source>
@@ -11064,11 +11056,11 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Close</source>
-        <translation>סגור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>File</source>
-        <translation>קובץ</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable &amp;Antialiasing</source>
@@ -11076,7 +11068,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Fit to Width</source>
-        <translation>התאם לרוחב</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Fit to Height</source>
@@ -11136,7 +11128,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source> %</source>
-        <translation> %</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>None</source>
@@ -11174,11 +11166,11 @@ You cannot switch to different notes style before you apply that new one or pres
     <name>PageItem</name>
     <message>
         <source>Image</source>
-        <translation>תמונה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Text</source>
-        <translation>טקסט</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Line</source>
@@ -11198,15 +11190,15 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Symbol</source>
-        <translation>סמל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Copy of</source>
-        <translation>עותק של</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Group</source>
-        <translation>קבוצה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>RegularPolygon</source>
@@ -11214,15 +11206,15 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Arc</source>
-        <translation>קשת</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Spiral</source>
-        <translation>ספירלה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Table</source>
-        <translation>טבלה</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -11250,23 +11242,23 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Alt+A</source>
-        <translation>Alt+A</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation>&amp;העתק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation>Alt+C</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>&amp;מחק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Alt+D</source>
-        <translation>Alt+D</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>C&amp;lear</source>
@@ -11274,7 +11266,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Alt+L</source>
-        <translation>Alt+L</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -11282,11 +11274,11 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;ביטול</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Name</source>
-        <translation>שם</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Type</source>
@@ -11317,7 +11309,7 @@ You cannot switch to different notes style before you apply that new one or pres
     <name>PageItem_ImageFrame</name>
     <message>
         <source>Image</source>
-        <translation>תמונה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Embedded Image</source>
@@ -11325,7 +11317,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>File:</source>
-        <translation>קובץ:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Original PPI:</source>
@@ -11349,7 +11341,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Page:</source>
-        <translation>דף:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Pages:</source>
@@ -11376,7 +11368,7 @@ You cannot switch to different notes style before you apply that new one or pres
     <name>PageItem_LatexFrame</name>
     <message>
         <source>Error</source>
-        <translation>שגיאה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Running the external application failed!</source>
@@ -11404,7 +11396,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>DPI</source>
-        <translation>DPI</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>State</source>
@@ -11467,18 +11459,18 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>No Style</source>
-        <translation>ללא סגנון</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>PageItem_OSGFrame</name>
     <message>
         <source>OSG</source>
-        <translation>OSG</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Default</source>
-        <translation>ברירת מחדל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>3D Model</source>
@@ -11486,7 +11478,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>File:</source>
-        <translation>קובץ:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -11497,7 +11489,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Lines: </source>
-        <translation>קווים:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Words: </source>
@@ -11516,7 +11508,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Text Frame</source>
-        <translation>מסגרת טקסט</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Paragraphs: </source>
@@ -11524,7 +11516,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Lines: </source>
-        <translation>קווים:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Words: </source>
@@ -11566,7 +11558,7 @@ Often used for allowing items to be placed across page spreads</source>
     <name>PagePalette_MasterPages</name>
     <message>
         <source>Edit Master Pages</source>
-        <translation>ערוך דפי בסיס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Duplicate the selected master page</source>
@@ -11578,7 +11570,7 @@ Often used for allowing items to be placed across page spreads</source>
     </message>
     <message>
         <source>Add a new master page</source>
-        <translation>הוסף דף בסיס חדש</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Import master pages from another document</source>
@@ -11594,31 +11586,31 @@ Often used for allowing items to be placed across page spreads</source>
     </message>
     <message>
         <source>Copy #%1 of %2</source>
-        <translation>עותק #%1 של %2</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation>שם:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New Master Page</source>
-        <translation>דף בסיס חדש</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Name:</source>
-        <translation>שם:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New MasterPage</source>
-        <translation>דף בסיס חדש</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New Master Page %1</source>
-        <translation>דף בסיס חדש %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Copy #%1 of </source>
-        <translation>עותק #%1 של</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unable to Rename Master Page</source>
@@ -11633,7 +11625,7 @@ Often used for allowing items to be placed across page spreads</source>
     <name>PagePalette_MasterPagesBase</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;&lt;&lt; Return to Normal Page Mode</source>
@@ -11679,7 +11671,7 @@ Often used for allowing items to be placed across page spreads</source>
     <name>PagePalette_PagesBase</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Available Master Pages:</source>
@@ -11726,15 +11718,15 @@ Often used for allowing items to be placed across page spreads</source>
     <name>PagesPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation>מיבא: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation>מנתח קובץ:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation>יצירת פריטים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Parsing failed!
@@ -11767,7 +11759,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Import</source>
-        <translation>&amp;ייבא</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Create a new color within the current set</source>
@@ -11783,7 +11775,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation>&amp;ערוך</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Make a copy of the currently selected color</source>
@@ -11791,7 +11783,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>D&amp;uplicate</source>
-        <translation>שכפל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete the currently selected color</source>
@@ -11799,7 +11791,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>&amp;מחק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Remove unused colors from current document&apos;s color set</source>
@@ -11819,7 +11811,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Save the current color set</source>
@@ -11839,7 +11831,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Cancel</source>
-        <translation>ביטול</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Manage Colors and Fills</source>
@@ -11870,15 +11862,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Sort by Name</source>
-        <translation>מיין לפי שם</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sort by Color</source>
-        <translation>מיין לפי צבע</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sort by Type</source>
-        <translation>מיין לפי סוג</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New Gradient</source>
@@ -11886,7 +11878,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>New Color</source>
-        <translation>חדש צבע</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Copy of %1</source>
@@ -11918,11 +11910,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>All Files (*)</source>
-        <translation>כל הקבצים (*)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Open</source>
-        <translation>פתח</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>All Supported Formats (%1);;Documents (%2);;Other Files (%3);;All Files (*)</source>
@@ -11934,7 +11926,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Information</source>
-        <translation>מידע</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The file %1 does not contain colors which can be imported.
@@ -11946,7 +11938,7 @@ See the Edit Colors section of the documentation for more details.</source>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation>שם:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Choose a Name</source>
@@ -11954,11 +11946,11 @@ See the Edit Colors section of the documentation for more details.</source>
     </message>
     <message>
         <source>Patterns</source>
-        <translation>תבניות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Import</source>
-        <translation>&amp;ייבא</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Add</source>
@@ -11966,7 +11958,7 @@ See the Edit Colors section of the documentation for more details.</source>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation>&amp;ערוך</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Load File</source>
@@ -12001,7 +11993,7 @@ See the Edit Colors section of the documentation for more details.</source>
     <name>ParaStyleComboBox</name>
     <message>
         <source>No Style</source>
-        <translation>ללא סגנון</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12012,7 +12004,7 @@ See the Edit Colors section of the documentation for more details.</source>
     </message>
     <message>
         <source>Path Tools</source>
-        <translation>נתיב כלים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Bends a Polygon along a Polyline</source>
@@ -12074,7 +12066,7 @@ See the Edit Colors section of the documentation for more details.</source>
     </message>
     <message>
         <source>Path Tools</source>
-        <translation>נתיב כלים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Connect 2 Polylines.</source>
@@ -12089,11 +12081,11 @@ See the Edit Colors section of the documentation for more details.</source>
     <name>PathCutPlugin</name>
     <message>
         <source>Cut Polygon</source>
-        <translation>לחתוך מצולע</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Path Tools</source>
-        <translation>נתיב כלים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cuts a Polygon by a Polyline</source>
@@ -12101,15 +12093,15 @@ See the Edit Colors section of the documentation for more details.</source>
     </message>
     <message>
         <source>Qt Version too old</source>
-        <translation>גרסת Qt ישנה מדי</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This plugin requires at least version 4.3.3 of the Qt library</source>
-        <translation>תוסף זה דורש לפחות גרסה 4.3.3 של ספריית Qt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Error</source>
-        <translation>שגיאה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The cutting line must cross the polygon and
@@ -12169,19 +12161,19 @@ both end points must lie outside of the polygon</source>
     </message>
     <message>
         <source>0°</source>
-        <translation>0°</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>90°</source>
-        <translation>90°</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>180°</source>
-        <translation>180°</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>270°</source>
-        <translation>270°</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12192,11 +12184,11 @@ both end points must lie outside of the polygon</source>
     </message>
     <message>
         <source>+</source>
-        <translation>+</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>=</source>
-        <translation>=</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Operation</source>
@@ -12204,7 +12196,7 @@ both end points must lie outside of the polygon</source>
     </message>
     <message>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Swap Shapes</source>
@@ -12273,7 +12265,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     </message>
     <message>
         <source>First Shape</source>
-        <translation>צורה ראשונה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The resulting shape uses the color of the second source shape</source>
@@ -12281,7 +12273,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     </message>
     <message>
         <source>Second Shape</source>
-        <translation>צורה שנייה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The resulting shape uses the colors listed below</source>
@@ -12319,7 +12311,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     </message>
     <message>
         <source>Path Tools</source>
-        <translation>נתיב כלים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Path Operations</source>
@@ -12338,7 +12330,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     </message>
     <message>
         <source>Path Tools</source>
-        <translation>נתיב כלים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Converts the stroke of a Path to a filled Path.</source>
@@ -12353,11 +12345,11 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     </message>
     <message>
         <source> pt</source>
-        <translation> pt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source> %</source>
-        <translation> %</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Offsets</source>
@@ -12365,11 +12357,11 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     </message>
     <message>
         <source>X:</source>
-        <translation>X:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Y:</source>
-        <translation>Y:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Scaling</source>
@@ -12397,7 +12389,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     </message>
     <message>
         <source>Value:</source>
-        <translation>ערך:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>X-Skew:</source>
@@ -12409,7 +12401,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     </message>
     <message>
         <source>Angle:</source>
-        <translation>זווית:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Flip:</source>
@@ -12417,22 +12409,22 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     </message>
     <message>
         <source>Close</source>
-        <translation>סגור</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>PctPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation>מיבא: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation>מנתח קובץ:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation>יצירת פריטים</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12494,15 +12486,15 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <name>PdfPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation>מיבא: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation>מנתח קובץ:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation>יצירת פריטים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Open PDF-File</source>
@@ -12566,11 +12558,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Resolution:</source>
-        <translation>רזולוציה:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DPI</source>
-        <translation>DPI</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unknown</source>
@@ -12594,7 +12586,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Alt+P</source>
-        <translation>Alt+P</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Select</source>
@@ -12602,11 +12594,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Alt+S</source>
-        <translation>Alt+S</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>ביטול</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -12617,7 +12609,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Cancel Search</source>
-        <translation>בטל חיפוש</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Start Search</source>
@@ -12681,7 +12673,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation>סגור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Not on a Page</source>
@@ -12689,27 +12681,27 @@ Please choose another one.</source>
     </message>
     <message>
         <source>JPG</source>
-        <translation>JPG</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>TIFF</source>
-        <translation>TIFF</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PSD</source>
-        <translation>PSD</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>EPS/PS</source>
-        <translation>EPS/PS</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PDF</source>
-        <translation>PDF</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>JPG2000</source>
-        <translation>JPG2000</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>emb. PSD</source>
@@ -12725,7 +12717,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Information</source>
-        <translation>מידע</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Path:</source>
@@ -12737,15 +12729,15 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Name:</source>
-        <translation>שם:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Image</source>
-        <translation>תמונה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DPI:</source>
-        <translation>DPI:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Format:</source>
@@ -12757,7 +12749,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Size</source>
-        <translation>מידה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Pixels:</source>
@@ -12785,7 +12777,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Image Tools</source>
-        <translation>כלי תמונה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Set format specific properties of certain image types, like clipping paths</source>
@@ -12801,7 +12793,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Edit Image...</source>
-        <translation>ערוך תמונה...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Extended Image Properties...</source>
@@ -12809,7 +12801,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Sort by Name</source>
-        <translation>מיין לפי שם</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sort by Page</source>
@@ -12940,11 +12932,11 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Create new category</source>
-        <translation>יצירת קטגוריה חדשה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New collection</source>
-        <translation>אוסף חדש</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete selected collection</source>
@@ -12988,7 +12980,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Sort by Name</source>
-        <translation>מיין לפי שם</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sort by Date</source>
@@ -13000,7 +12992,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Sort by Type</source>
-        <translation>מיין לפי סוג</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Change sortorder</source>
@@ -13008,7 +13000,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Zoom in</source>
-        <translation>הגדלה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Zoom out</source>
@@ -13044,23 +13036,23 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Reset Settings</source>
-        <translation>לאפס הגדרות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Close</source>
-        <translation>סגור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Information</source>
-        <translation>מידע</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>File</source>
-        <translation>קובץ</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Name:</source>
-        <translation>שם:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Path:</source>
@@ -13076,7 +13068,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Image</source>
-        <translation>תמונה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Format:</source>
@@ -13084,7 +13076,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Width:</source>
-        <translation>רוחב:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Colorspace:</source>
@@ -13092,11 +13084,11 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Height:</source>
-        <translation>גובה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>DPI:</source>
-        <translation>DPI:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Layers:</source>
@@ -13132,7 +13124,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Criteria</source>
@@ -13152,7 +13144,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Size</source>
-        <translation>מידה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Type</source>
@@ -13232,11 +13224,11 @@ Please choose another one.</source>
     </message>
     <message>
         <source>X:</source>
-        <translation>X:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Y:</source>
-        <translation>Y:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Same as Page Margins</source>
@@ -13268,7 +13260,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Insert</source>
-        <translation>להוסיף</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Tag Image(s)</source>
@@ -13344,27 +13336,27 @@ Please choose another one.</source>
     </message>
     <message>
         <source>JPG</source>
-        <translation>JPG</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>TIFF</source>
-        <translation>TIFF</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PSD</source>
-        <translation>PSD</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>EPS/PS</source>
-        <translation>EPS/PS</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PDF</source>
-        <translation>PDF</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>JPG2000</source>
-        <translation>JPG2000</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>emb. PSD</source>
@@ -13484,7 +13476,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Width</source>
-        <translation>רוחב</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Height</source>
@@ -13506,7 +13498,7 @@ Please choose another one.</source>
     <name>PixmapExportPlugin</name>
     <message>
         <source>Save as &amp;Image...</source>
-        <translation>שמור &amp;כ-תמונה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Export As Image</source>
@@ -13518,7 +13510,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Save as Image</source>
-        <translation>שמור כ-תמונה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Export successful</source>
@@ -13618,7 +13610,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>File</source>
-        <translation>קובץ</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You need to restart the application to apply the changes.</source>
@@ -13626,18 +13618,18 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>PmPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation>מיבא: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation>מנתח קובץ:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Parsing failed!
@@ -13665,7 +13657,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     <name>PolygonWidgetBase</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Corn&amp;ers:</source>
@@ -13705,7 +13697,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source> %</source>
-        <translation> %</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Inner Rotation:</source>
@@ -13724,7 +13716,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     <name>PositionSetterWidget</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>X-pos:</source>
@@ -13736,15 +13728,15 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Width:</source>
-        <translation>רוחב:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Height:</source>
-        <translation>גובה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -13771,7 +13763,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;ביטול</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>User Interface</source>
@@ -13819,7 +13811,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Document Information</source>
-        <translation>פרטי המסמך</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PDF Export</source>
@@ -13855,7 +13847,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>External Tools</source>
-        <translation>כלים חיצוניים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Miscellaneous</source>
@@ -13886,7 +13878,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>PostScript</source>
-        <translation>PostScript</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Could not open preferences file &quot;%1&quot; for writing: %2</source>
@@ -13935,7 +13927,7 @@ Do you want to migrate them to the new Scribus version?</source>
     <name>Prefs_ColorManagement</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Color Management</source>
@@ -13955,7 +13947,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Convert all colors to printer space</source>
-        <translation>המר את כל הצבעים למרחב המדפסת</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Mark Colors out of Gamut</source>
@@ -13995,7 +13987,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Images:</source>
-        <translation>תמונות:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Solid Colors:</source>
@@ -14011,7 +14003,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Perceptual</source>
-        <translation>תפיסתי</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Relative Colorimetric</source>
@@ -14019,7 +14011,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Saturation</source>
-        <translation>רוויה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Absolute Colorimetric</source>
@@ -14038,7 +14030,7 @@ Do you want to migrate them to the new Scribus version?</source>
     <name>Prefs_Display</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Display</source>
@@ -14054,7 +14046,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Show Rulers</source>
-        <translation>להציג סרגלים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Rulers Relative to Page</source>
@@ -14094,11 +14086,11 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Left:</source>
-        <translation>שמאל:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Right:</source>
-        <translation>ימין:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Top:</source>
@@ -14142,7 +14134,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Colors</source>
-        <translation>צבעים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Page Fill:</source>
@@ -14238,7 +14230,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source> dpi</source>
-        <translation> dpi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Autosave Countdown Clock on the Canvas</source>
@@ -14249,15 +14241,15 @@ Do you want to migrate them to the new Scribus version?</source>
     <name>Prefs_DocumentInformation</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Document Information</source>
-        <translation>פרטי המסמך</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Document</source>
-        <translation>מסמך</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Title:</source>
@@ -14265,7 +14257,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Author:</source>
-        <translation>מחבר:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Subject:</source>
@@ -14277,7 +14269,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Description:</source>
-        <translation>תיאור:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Further Information</source>
@@ -14336,7 +14328,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation>שם</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Type</source>
@@ -14368,23 +14360,23 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Alt+A</source>
-        <translation>Alt+A</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation>&amp;העתק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation>Alt+C</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>&amp;מחק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Alt+D</source>
-        <translation>Alt+D</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>C&amp;lear</source>
@@ -14392,7 +14384,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Alt+L</source>
-        <translation>Alt+L</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>None</source>
@@ -14482,7 +14474,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation>שם</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shown</source>
@@ -14498,7 +14490,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Style</source>
-        <translation>סגנון</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Start</source>
@@ -14510,15 +14502,15 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Alt+A</source>
-        <translation>Alt+A</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>&amp;מחק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Alt+D</source>
-        <translation>Alt+D</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Field Width</source>
@@ -14545,7 +14537,7 @@ Do you want to migrate them to the new Scribus version?</source>
     <name>Prefs_DocumentSetup</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Document Setup</source>
@@ -14561,7 +14553,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Orientation:</source>
@@ -14573,11 +14565,11 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Width:</source>
-        <translation>רוחב:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Height:</source>
-        <translation>גובה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Apply changes to all pages</source>
@@ -14621,7 +14613,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Undo / Redo</source>
-        <translation>ביטול / חזרה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable Undo/Redo System</source>
@@ -14657,7 +14649,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Size</source>
-        <translation>מידה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Margins &amp;&amp; Bleeds</source>
@@ -14665,7 +14657,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Margins</source>
-        <translation>שוליים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Bleeds</source>
@@ -14728,7 +14720,7 @@ Do you want to migrate them to the new Scribus version?</source>
     <name>Prefs_ExternalTools</name>
     <message>
         <source>External Tools</source>
-        <translation>כלים חיצוניים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>External Tools and Applications</source>
@@ -14752,7 +14744,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation>Alt+C</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Antialias text for EPS and PDF onscreen rendering</source>
@@ -14764,7 +14756,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Alt+T</source>
-        <translation>Alt+T</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Antialias graphics for EPS and PDF onscreen rendering</source>
@@ -14776,15 +14768,15 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Alt+G</source>
-        <translation>Alt+G</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Resolution:</source>
-        <translation>רזולוציה:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source> dpi</source>
-        <translation> dpi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Image Processing Tool</source>
@@ -14832,7 +14824,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation>מחק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Change...</source>
@@ -14840,7 +14832,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>External Editor:</source>
-        <translation>עורך חיצוני:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;qt&gt;Path to the editor executable.&lt;/qt&gt;</source>
@@ -14872,7 +14864,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Alt+R</source>
-        <translation>Alt+R</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Locate Ghostscript</source>
@@ -14949,7 +14941,7 @@ Do you want to use this?</source>
     <name>Prefs_Fonts</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Fonts</source>
@@ -14957,7 +14949,7 @@ Do you want to use this?</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation>מחק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>C&amp;hange...</source>
@@ -15004,7 +14996,7 @@ Do you want to use this?</source>
     <name>Prefs_Guides</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Guides</source>
@@ -15036,7 +15028,7 @@ Do you want to use this?</source>
     </message>
     <message>
         <source>Margins</source>
-        <translation>שוליים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Page Grid</source>
@@ -15048,7 +15040,7 @@ Do you want to use this?</source>
     </message>
     <message>
         <source>Distances</source>
-        <translation>מרחקים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Minor Grid Spacing:</source>
@@ -15068,7 +15060,7 @@ Do you want to use this?</source>
     </message>
     <message>
         <source>Colors</source>
-        <translation>צבעים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Guides:</source>
@@ -15168,7 +15160,7 @@ Do you want to use this?</source>
     </message>
     <message>
         <source>Lines</source>
-        <translation>קווים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Crosses and Dots</source>
@@ -15183,7 +15175,7 @@ Do you want to use this?</source>
     <name>Prefs_Hyphenator</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hyphenation</source>
@@ -15223,7 +15215,7 @@ Do you want to use this?</source>
     </message>
     <message>
         <source>Characters</source>
-        <translation>תווים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Consecutive Hyphenations Allowed:</source>
@@ -15244,7 +15236,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Edit</source>
-        <translation>ערוך</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ignore List</source>
@@ -15283,7 +15275,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Image Cache</source>
@@ -15314,7 +15306,7 @@ A value of 0 means unlimited hyphenations.</source>
     <name>Prefs_ItemTools</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Item Tools</source>
@@ -15322,7 +15314,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Text</source>
-        <translation>טקסט</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Columns:</source>
@@ -15354,7 +15346,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source> %</source>
-        <translation> %</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Columns &amp; Text Distances</source>
@@ -15370,11 +15362,11 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Left:</source>
-        <translation>שמאל:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Right:</source>
-        <translation>ימין:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Font:</source>
@@ -15386,7 +15378,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Color:</source>
-        <translation>צבע:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Stroke:</source>
@@ -15426,7 +15418,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Scale Image to Frame Size</source>
@@ -15458,7 +15450,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Shapes</source>
-        <translation>צורות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Line Style:</source>
@@ -15474,7 +15466,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Lines</source>
-        <translation>קווים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Start Arrow:</source>
@@ -15531,11 +15523,11 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Arc</source>
-        <translation>קשת</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Spiral</source>
-        <translation>ספירלה</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -15554,7 +15546,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Shortcut</source>
-        <translation>קיצור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shortcut for Selected Action</source>
@@ -15566,7 +15558,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Alt+N</source>
-        <translation>Alt+N</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;User Defined Key</source>
@@ -15574,7 +15566,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Alt+U</source>
-        <translation>Alt+U</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Set &amp;Key</source>
@@ -15586,7 +15578,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>CTRL+ALT+SHIFT+W</source>
-        <translation>CTRL+ALT+SHIFT+W</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Loadable Shortcut Sets</source>
@@ -15606,7 +15598,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Alt+L</source>
-        <translation>Alt+L</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Import a shortcut set into the current configuration</source>
@@ -15618,7 +15610,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Alt+I</source>
-        <translation>Alt+I</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Export the current shortcuts into an importable file</source>
@@ -15630,7 +15622,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Alt+E</source>
-        <translation>Alt+E</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reload the default Scribus shortcuts</source>
@@ -15638,11 +15630,11 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>&amp;Reset</source>
-        <translation>&amp;לאפס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Alt+R</source>
-        <translation>Alt+R</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select a Key set file to read</source>
@@ -15673,7 +15665,7 @@ A value of 0 means unlimited hyphenations.</source>
     <name>Prefs_Miscellaneous</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Miscellaneous</source>
@@ -15704,7 +15696,7 @@ A value of 0 means unlimited hyphenations.</source>
     <name>Prefs_OperatorTools</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Operator Tools</source>
@@ -15728,7 +15720,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source> %</source>
-        <translation> %</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Miscellaneous</source>
@@ -15783,7 +15775,7 @@ A value of 0 means unlimited hyphenations.</source>
     <name>Prefs_PDFExport</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PDF Export</source>
@@ -15807,7 +15799,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Rotation and Mirroring</source>
@@ -15831,7 +15823,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source> dpi</source>
-        <translation> dpi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Clip to Printer Margins</source>
@@ -15931,7 +15923,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Color</source>
-        <translation>צבע</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Output Intended For:</source>
@@ -15975,7 +15967,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Color:</source>
-        <translation>צבע:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Frequency:</source>
@@ -15983,11 +15975,11 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Angle:</source>
-        <translation>זווית:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source> °</source>
-        <translation> °</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Spot Function:</source>
@@ -16067,7 +16059,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Extras</source>
-        <translation>תוספות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enable Presentation Effects</source>
@@ -16127,11 +16119,11 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Double Page Left</source>
-        <translation>הכפלת עמוד שמאלי</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Double Page Right</source>
-        <translation>הכפלת עמוד ימני</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Visual Appearance</source>
@@ -16431,7 +16423,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Perceptual</source>
-        <translation>תפיסתי</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Relative Colorimetric</source>
@@ -16439,7 +16431,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Saturation</source>
-        <translation>רוויה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Absolute Colorimetric</source>
@@ -16447,7 +16439,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Page</source>
-        <translation>דף</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No Script</source>
@@ -16567,7 +16559,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Enables viewing the document in full screen</source>
-        <translation>מאפשר צפייה במסמך במסך מלא</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Display the bookmarks upon opening</source>
@@ -16646,7 +16638,7 @@ A value of 0 means unlimited hyphenations.</source>
     <name>Prefs_PageSizes</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Page Sizes</source>
@@ -16665,7 +16657,7 @@ A value of 0 means unlimited hyphenations.</source>
     <name>Prefs_Paths</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Paths</source>
@@ -16681,7 +16673,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation>Alt+C</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Color Profiles:</source>
@@ -16705,7 +16697,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Alt+A</source>
-        <translation>Alt+A</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Document Templates:</source>
@@ -16717,7 +16709,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Alt+N</source>
-        <translation>Alt+N</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Default documents directory</source>
@@ -16744,7 +16736,7 @@ A value of 0 means unlimited hyphenations.</source>
     <name>Prefs_Plugins</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Plugins</source>
@@ -16772,7 +16764,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>File</source>
-        <translation>קובץ</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>You need to restart the application to apply the changes.</source>
@@ -16783,7 +16775,7 @@ A value of 0 means unlimited hyphenations.</source>
     <name>Prefs_PreflightVerifier</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Preflight Verifier</source>
@@ -16855,7 +16847,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source> dpi</source>
-        <translation> dpi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Maximum Resolution:</source>
@@ -16898,7 +16890,7 @@ A value of 0 means unlimited hyphenations.</source>
     <name>Prefs_Printer</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Printing</source>
@@ -16926,7 +16918,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation>רגיל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Separations</source>
@@ -16938,7 +16930,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Page</source>
-        <translation>דף</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Mirror Page(s) Horizontally</source>
@@ -16958,7 +16950,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Color</source>
-        <translation>צבע</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Apply Under Color Removal</source>
@@ -16974,7 +16966,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>PostScript</source>
-        <translation>PostScript</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Level 1</source>
@@ -17055,7 +17047,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>File</source>
-        <translation>קובץ</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>All</source>
@@ -17074,7 +17066,7 @@ A value of 0 means unlimited hyphenations.</source>
     <name>Prefs_Scrapbook</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Scrapbook</source>
@@ -17117,7 +17109,7 @@ A value of 0 means unlimited hyphenations.</source>
     <name>Prefs_Scripter</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Scripter</source>
@@ -17161,7 +17153,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Errors:</source>
-        <translation>שגיאות:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Strings:</source>
@@ -17180,15 +17172,15 @@ A value of 0 means unlimited hyphenations.</source>
     <name>Prefs_ShortWords</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Save</source>
-        <translation>שמור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reset</source>
-        <translation>לאפס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>User settings</source>
@@ -17227,7 +17219,7 @@ A value of 0 means unlimited hyphenations.</source>
     <name>Prefs_Spelling</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Spelling</source>
@@ -17278,7 +17270,7 @@ A value of 0 means unlimited hyphenations.</source>
     <name>Prefs_TableOfContents</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Table of Contents</source>
@@ -17290,19 +17282,19 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Alt+A</source>
-        <translation>Alt+A</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>&amp;מחק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Alt+D</source>
-        <translation>Alt+D</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Properties</source>
-        <translation>מאפיינים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Item Attribute Name:</source>
@@ -17365,7 +17357,7 @@ A value of 0 means unlimited hyphenations.</source>
     <name>Prefs_Typography</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Typography</source>
@@ -17381,7 +17373,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source> %</source>
-        <translation> %</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Scaling:</source>
@@ -17393,7 +17385,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Underline</source>
-        <translation>קו תחתון</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Line Width:</source>
@@ -17460,7 +17452,7 @@ A value of 0 means unlimited hyphenations.</source>
     <name>Prefs_UserInterface</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>User Interface</source>
@@ -17476,7 +17468,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>&amp;Language:</source>
-        <translation>&amp;שפה:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Theme:</source>
@@ -17504,7 +17496,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source> pt</source>
-        <translation> pt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Palettes:</source>
@@ -17544,7 +17536,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Show Splashscreen</source>
-        <translation>הצג מסך פתיחה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Startup Dialog</source>
@@ -17631,7 +17623,7 @@ A value of 0 means unlimited hyphenations.</source>
     <name>PrintDialog</name>
     <message>
         <source>File</source>
-        <translation>קובץ</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>All</source>
@@ -17639,19 +17631,19 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Cyan</source>
-        <translation>ציאן</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Magenta</source>
-        <translation>מג&apos;נטה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Yellow</source>
-        <translation>צהוב</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Black</source>
-        <translation>שחור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Print Current Pa&amp;ge</source>
@@ -17663,7 +17655,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>PostScript Files (*.ps);;All Files (*)</source>
-        <translation>PostScript קבצי (*.ps);;כל הקבצים (*)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Failed to retrieve printer settings</source>
@@ -17679,7 +17671,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Save As</source>
-        <translation>שמור בשם</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -17698,7 +17690,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>&amp;File:</source>
-        <translation>&amp;קובץ:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>C&amp;hange...</source>
@@ -17744,7 +17736,7 @@ a range of pages or a single page number.</source>
     </message>
     <message>
         <source>Options</source>
-        <translation>אפשרויות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Print Normal</source>
@@ -17773,7 +17765,7 @@ a range of pages or a single page number.</source>
     </message>
     <message>
         <source>Page</source>
-        <translation>דף</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Mirror Page(s) Horizontal</source>
@@ -17789,7 +17781,7 @@ a range of pages or a single page number.</source>
     </message>
     <message>
         <source>Color</source>
-        <translation>צבע</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Apply Under Color Removal</source>
@@ -17865,7 +17857,7 @@ a range of pages or a single page number.</source>
     </message>
     <message>
         <source>Left:</source>
-        <translation>שמאל:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Distance for bleed from the right of the physical page</source>
@@ -17881,7 +17873,7 @@ a range of pages or a single page number.</source>
     </message>
     <message>
         <source>Right:</source>
-        <translation>ימין:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Distance for bleed from the left of the physical page</source>
@@ -17901,11 +17893,11 @@ a range of pages or a single page number.</source>
     </message>
     <message>
         <source>&amp;Print</source>
-        <translation>&amp;הדפס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>ביטול</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Include PDF Annotations and Links into the output.
@@ -17945,7 +17937,7 @@ Note: PDF Forms will not be exported.</source>
     <name>PropertiesPalette</name>
     <message>
         <source>Properties</source>
-        <translation>מאפיינים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>X, Y, &amp;Z</source>
@@ -17953,19 +17945,19 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>&amp;Shape</source>
-        <translation>&amp;צורה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Text</source>
-        <translation>&amp;טקסט</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Image</source>
-        <translation>&amp;תמונה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Line</source>
-        <translation>קו</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Colors</source>
@@ -17973,7 +17965,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>&amp;Group</source>
-        <translation>קיבוץ עצמים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Transparency</source>
@@ -17981,7 +17973,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>T&amp;able</source>
-        <translation>טבלה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Drop Shadow</source>
@@ -17992,11 +17984,11 @@ Note: PDF Forms will not be exported.</source>
     <name>PropertiesPalette_Group</name>
     <message>
         <source>&amp;Edit...</source>
-        <translation>&amp;ערוך...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shape</source>
-        <translation>צורה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Text &amp;Flow Around Frame</source>
@@ -18055,19 +18047,19 @@ Note: PDF Forms will not be exported.</source>
     <name>PropertiesPalette_GroupBase</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shape</source>
-        <translation>צורה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Edit...</source>
-        <translation>&amp;ערוך...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Text Flow Around Frame</source>
@@ -18186,7 +18178,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Perceptual</source>
-        <translation>תפיסתי</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Relative Colorimetric</source>
@@ -18194,7 +18186,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Saturation</source>
-        <translation>רוויה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Absolute Colorimetric</source>
@@ -18242,11 +18234,11 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source> %</source>
-        <translation> %</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source> pt</source>
-        <translation> pt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Horizontal offset of image within frame</source>
@@ -18313,7 +18305,7 @@ Note: PDF Forms will not be exported.</source>
     <name>PropertiesPalette_ImageBase</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>X-Pos:</source>
@@ -18349,7 +18341,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Actual X-DPI:</source>
@@ -18365,7 +18357,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Proportional</source>
-        <translation>יחסי</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>To Frame Size</source>
@@ -18412,7 +18404,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>No Style</source>
-        <translation>ללא סגנון</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Left Point</source>
@@ -18480,11 +18472,11 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source> %</source>
-        <translation> %</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source> pt</source>
-        <translation> pt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hairline</source>
@@ -18535,7 +18527,7 @@ Note: PDF Forms will not be exported.</source>
     <name>PropertiesPalette_LineBase</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Basepoint:</source>
@@ -18590,7 +18582,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Color:</source>
-        <translation>צבע:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shade:</source>
@@ -18610,11 +18602,11 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Black</source>
-        <translation>שחור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Normal</source>
-        <translation>רגיל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Darken</source>
@@ -18666,11 +18658,11 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Saturation</source>
-        <translation>רוויה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Color</source>
-        <translation>צבע</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Luminosity</source>
@@ -18691,7 +18683,7 @@ Transparency</source>
     <name>PropertiesPalette_ShadowBase</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Object has a drop shadow</source>
@@ -18707,7 +18699,7 @@ Transparency</source>
     </message>
     <message>
         <source>Color:</source>
-        <translation>צבע:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shade:</source>
@@ -18719,7 +18711,7 @@ Transparency</source>
     </message>
     <message>
         <source> %</source>
-        <translation> %</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Blendmode:</source>
@@ -18727,7 +18719,7 @@ Transparency</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation>רגיל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Darken</source>
@@ -18779,11 +18771,11 @@ Transparency</source>
     </message>
     <message>
         <source>Saturation</source>
-        <translation>רוויה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Color</source>
-        <translation>צבע</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Luminosity</source>
@@ -18806,7 +18798,7 @@ Transparency</source>
     </message>
     <message>
         <source>Shape:</source>
-        <translation>צורה:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Choose the shape of frame...</source>
@@ -18814,7 +18806,7 @@ Transparency</source>
     </message>
     <message>
         <source>&amp;Edit...</source>
-        <translation>&amp;ערוך...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Set radius of corner rounding</source>
@@ -18881,19 +18873,19 @@ Transparency</source>
     <name>PropertiesPalette_ShapeBase</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shape</source>
-        <translation>צורה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Edit...</source>
-        <translation>&amp;ערוך...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Round Corners</source>
@@ -18963,7 +18955,7 @@ Transparency</source>
     <name>PropertiesPalette_TableBase</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Borders</source>
@@ -18971,11 +18963,11 @@ Transparency</source>
     </message>
     <message>
         <source>Width:</source>
-        <translation>רוחב:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Color:</source>
-        <translation>צבע:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Type:</source>
@@ -18987,7 +18979,7 @@ Transparency</source>
     </message>
     <message>
         <source> %</source>
-        <translation> %</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Fill</source>
@@ -18995,11 +18987,11 @@ Transparency</source>
     </message>
     <message>
         <source>Styles</source>
-        <translation>סגנונות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Table</source>
-        <translation>טבלה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cells</source>
@@ -19038,7 +19030,7 @@ Transparency</source>
     </message>
     <message>
         <source>Character St&amp;yle:</source>
-        <translation>סגנון &amp;תו:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Fixed Linespacing</source>
@@ -19054,7 +19046,7 @@ Transparency</source>
     </message>
     <message>
         <source> pt</source>
-        <translation> pt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Font Size</source>
@@ -19105,7 +19097,7 @@ Transparency</source>
     <name>PropertiesPalette_TextBase</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19116,7 +19108,7 @@ Transparency</source>
     </message>
     <message>
         <source>&amp;Width</source>
-        <translation>&amp;רוחב:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Y-Pos:</source>
@@ -19124,7 +19116,7 @@ Transparency</source>
     </message>
     <message>
         <source>&amp;Height:</source>
-        <translation>&amp;גובה:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;X1:</source>
@@ -19144,7 +19136,7 @@ Transparency</source>
     </message>
     <message>
         <source>&amp;Width:</source>
-        <translation>&amp;רוחב:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Name &quot;%1&quot; isn&apos;t unique.&lt;br/&gt;Please choose another.</source>
@@ -19152,11 +19144,11 @@ Transparency</source>
     </message>
     <message>
         <source>Properties</source>
-        <translation>מאפיינים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Name</source>
-        <translation>שם</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Geometry</source>
@@ -19176,7 +19168,7 @@ Transparency</source>
     </message>
     <message>
         <source> pt</source>
-        <translation> pt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Name of selected object</source>
@@ -19192,7 +19184,7 @@ Transparency</source>
     </message>
     <message>
         <source>Width</source>
-        <translation>רוחב</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Height</source>
@@ -19263,11 +19255,11 @@ Transparency</source>
     <name>PropertiesPalette_XYZBase</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Name</source>
-        <translation>שם</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Geometry</source>
@@ -19279,7 +19271,7 @@ Transparency</source>
     </message>
     <message>
         <source>&amp;Width:</source>
-        <translation>&amp;רוחב:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Y-Pos:</source>
@@ -19287,7 +19279,7 @@ Transparency</source>
     </message>
     <message>
         <source>&amp;Height:</source>
-        <translation>&amp;גובה:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Rotation:</source>
@@ -19299,7 +19291,7 @@ Transparency</source>
     </message>
     <message>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Level</source>
@@ -19334,7 +19326,7 @@ Transparency</source>
     </message>
     <message>
         <source> %</source>
-        <translation> %</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Offset to baseline of characters</source>
@@ -19373,7 +19365,7 @@ Transparency</source>
     <name>PropertyWidget_AdvancedBase</name>
     <message>
         <source>Frame</source>
-        <translation>מסגרת</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Word Spacing</source>
@@ -19404,7 +19396,7 @@ Transparency</source>
     </message>
     <message>
         <source>Width:</source>
-        <translation>רוחב:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>To&amp;p:</source>
@@ -19416,7 +19408,7 @@ Transparency</source>
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation>&amp;שמאל:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Right:</source>
@@ -19428,7 +19420,7 @@ Transparency</source>
     </message>
     <message>
         <source> pt</source>
-        <translation> pt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Number of columns in text frame</source>
@@ -19483,7 +19475,7 @@ Transparency</source>
     <name>PropertyWidget_DistanceBase</name>
     <message>
         <source>Frame</source>
-        <translation>מסגרת</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Colu&amp;mns:</source>
@@ -19495,7 +19487,7 @@ Transparency</source>
     </message>
     <message>
         <source>Width:</source>
-        <translation>רוחב:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>To&amp;p:</source>
@@ -19507,7 +19499,7 @@ Transparency</source>
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation>&amp;שמאל:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Right:</source>
@@ -19561,7 +19553,7 @@ Transparency</source>
     <name>PropertyWidget_DropCapBase</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Height</source>
@@ -19569,7 +19561,7 @@ Transparency</source>
     </message>
     <message>
         <source> lines</source>
-        <translation>קווים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Offset</source>
@@ -19627,7 +19619,7 @@ Transparency</source>
     <name>PropertyWidget_FlopBase</name>
     <message>
         <source>Frame</source>
-        <translation>מסגרת</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Maximum Ascent</source>
@@ -19665,7 +19657,7 @@ Transparency</source>
     <message>
         <source>Left Only</source>
         <comment>optical margins</comment>
-        <translation>שמאל בלבד</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Right Only</source>
@@ -19674,14 +19666,14 @@ Transparency</source>
     </message>
     <message>
         <source>Reset</source>
-        <translation>לאפס</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>PropertyWidget_OptMarginsBase</name>
     <message>
         <source>Frame</source>
-        <translation>מסגרת</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>None</source>
@@ -19693,7 +19685,7 @@ Transparency</source>
     </message>
     <message>
         <source>Left Only</source>
-        <translation>שמאל בלבד</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Right Only</source>
@@ -19701,7 +19693,7 @@ Transparency</source>
     </message>
     <message>
         <source>Reset</source>
-        <translation>לאפס</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -19716,7 +19708,7 @@ Transparency</source>
     </message>
     <message>
         <source> lines</source>
-        <translation>קווים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Do not split paragraph</source>
@@ -19747,7 +19739,7 @@ Transparency</source>
     <name>PropertyWidget_OrphansBase</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ensure that first lines of a paragraph won&apos;t end up separated from the rest (known as widow/orphan control)</source>
@@ -19759,7 +19751,7 @@ Transparency</source>
     </message>
     <message>
         <source> lines</source>
-        <translation>קווים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Don&apos;t separate last</source>
@@ -19778,7 +19770,7 @@ Transparency</source>
     <name>PropertyWidget_ParEffect</name>
     <message>
         <source>Lines</source>
-        <translation>קווים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Drop Caps</source>
@@ -19814,7 +19806,7 @@ Transparency</source>
     </message>
     <message>
         <source>Format</source>
-        <translation>עיצוב</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Start</source>
@@ -19857,7 +19849,7 @@ Transparency</source>
     <name>PropertyWidget_ParEffectBase</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Effect Parameters</source>
@@ -19885,7 +19877,7 @@ Transparency</source>
     </message>
     <message>
         <source>Lines</source>
-        <translation>קווים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Numbered List</source>
@@ -19905,7 +19897,7 @@ Transparency</source>
     </message>
     <message>
         <source>Format</source>
-        <translation>עיצוב</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Prefix</source>
@@ -19932,7 +19924,7 @@ Transparency</source>
     <name>PropertyWidget_PathText</name>
     <message>
         <source>Default</source>
-        <translation>ברירת מחדל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Stair Step</source>
@@ -19940,11 +19932,11 @@ Transparency</source>
     </message>
     <message>
         <source>Skew</source>
-        <translation>הטייה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Flip Text</source>
-        <translation>היפוך טקסט</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Curve</source>
@@ -19964,14 +19956,14 @@ Transparency</source>
     </message>
     <message>
         <source> pt</source>
-        <translation> pt</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>PropertyWidget_PathTextBase</name>
     <message>
         <source>Frame</source>
-        <translation>מסגרת</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Type:</source>
@@ -19987,7 +19979,7 @@ Transparency</source>
     </message>
     <message>
         <source>Flip Text</source>
-        <translation>היפוך טקסט</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Curve</source>
@@ -20021,18 +20013,18 @@ Transparency</source>
     <name>PropertyWidget_TextColorBase</name>
     <message>
         <source>Frame</source>
-        <translation>מסגרת</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>PubPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation>מיבא: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation>מנתח קובץ:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Parsing failed!
@@ -20046,15 +20038,15 @@ Document Liberation Project http://www.documentliberation.org</source>
     <name>PythonConsole</name>
     <message>
         <source>&amp;Open...</source>
-        <translation>&amp;פתח</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation>&amp;שמור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation>&amp;קובץ</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Run</source>
@@ -20082,11 +20074,11 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Save the Python Commands in File</source>
-        <translation>שמור את פקודות Python בקובץ</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Text Files (*.txt)</source>
-        <translation>קבצי טקסט (*.txt) </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Save Current Output</source>
@@ -20094,7 +20086,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Save &amp;As...</source>
-        <translation>שמור &amp;בשם</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Run As &amp;Console</source>
@@ -20118,15 +20110,15 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Ctrl+O</source>
-        <translation>Ctrl+O</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation>Ctrl+S</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation>&amp;צא</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>This is a standard Python console with some 
@@ -20196,7 +20188,7 @@ Scripter documentation for futher information. </source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>ביטול</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Add to Custom Colors</source>
@@ -20219,7 +20211,7 @@ Scripter documentation for futher information. </source>
     <name>QFileDialog</name>
     <message>
         <source>Copy or Move a File</source>
-        <translation>העתק או העבר קובץ</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Read: %1</source>
@@ -20231,7 +20223,7 @@ Scripter documentation for futher information. </source>
     </message>
     <message>
         <source>File &amp;name:</source>
-        <translation>&amp;שם קובץ:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>File &amp;type:</source>
@@ -20243,19 +20235,19 @@ Scripter documentation for futher information. </source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>ביטול</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>All Files (*)</source>
-        <translation>כל הקבצים (*)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Name</source>
-        <translation>שם</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Size</source>
-        <translation>מידה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Type</source>
@@ -20331,7 +20323,7 @@ Scripter documentation for futher information. </source>
     </message>
     <message>
         <source>File</source>
-        <translation>קובץ</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Dir</source>
@@ -20343,19 +20335,19 @@ Scripter documentation for futher information. </source>
     </message>
     <message>
         <source>Open</source>
-        <translation>פתח</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Save As</source>
-        <translation>שמור בשם</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation>&amp;פתח</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation>&amp;שמור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Rename</source>
@@ -20363,7 +20355,7 @@ Scripter documentation for futher information. </source>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>&amp;מחק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>R&amp;eload</source>
@@ -20391,11 +20383,11 @@ Scripter documentation for futher information. </source>
     </message>
     <message>
         <source>Show &amp;hidden files</source>
-        <translation>הצג קבצים &amp;מוסתרים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>the file</source>
-        <translation>הקובץ</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>the directory</source>
@@ -20407,7 +20399,7 @@ Scripter documentation for futher information. </source>
     </message>
     <message>
         <source>Delete %1</source>
-        <translation>מחק %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&lt;qt&gt;Are you sure you wish to delete %1 &quot;%2&quot;?&lt;/qt&gt;</source>
@@ -20435,11 +20427,11 @@ Scripter documentation for futher information. </source>
     </message>
     <message>
         <source>Save</source>
-        <translation>שמור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Error</source>
-        <translation>שגיאה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1
@@ -20449,7 +20441,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>All Files (*.*)</source>
-        <translation>כל הקבצים )*.*(</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select a Directory</source>
@@ -20481,7 +20473,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation>מחק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Are you sure you want to delete &apos;%1&apos;?</source>
@@ -20516,7 +20508,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>&amp;Underline</source>
-        <translation>קו תחתון</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Color</source>
@@ -20540,11 +20532,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>ביטול</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Close</source>
-        <translation>סגור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select Font</source>
@@ -20555,7 +20547,7 @@ Check path and filename.</source>
     <name>QLineEdit</name>
     <message>
         <source>Clear</source>
-        <translation>למחוק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select All</source>
@@ -20563,27 +20555,27 @@ Check path and filename.</source>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation>ביטול</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation>חזרה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cu&amp;t</source>
-        <translation>ג&amp;זור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation>&amp;העתק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation>&amp;הדבק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete</source>
-        <translation>מחק</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -20621,7 +20613,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;סגור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Stay on &amp;Top</source>
@@ -20637,7 +20629,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation>סגור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sh&amp;ade</source>
@@ -20675,15 +20667,15 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Open</source>
-        <translation>פתח</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Save as</source>
-        <translation>שמור בשם</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>All Files (*)</source>
-        <translation>כל הקבצים (*)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Newsletters</source>
@@ -20723,7 +20715,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Calendars</source>
-        <translation>לוחות שנה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Advertisements</source>
@@ -20763,7 +20755,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Text Documents</source>
-        <translation>מסמך טקסט</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Folds</source>
@@ -20783,15 +20775,15 @@ Check path and filename.</source>
     </message>
     <message>
         <source>HTML Files</source>
-        <translation>קבצי HTML</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>html</source>
-        <translation>html</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Text Files</source>
-        <translation>קבצי טקסט</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Comma Separated Value Files</source>
@@ -20881,7 +20873,7 @@ External Links
     </message>
     <message>
         <source>Greek</source>
-        <translation>יוונית</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Hungarian</source>
@@ -21315,19 +21307,19 @@ External Links
     </message>
     <message>
         <source>Page</source>
-        <translation>דף</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Master Page </source>
-        <translation>דף בסיס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>4A0</source>
-        <translation>4A0</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>2A0</source>
-        <translation>2A0</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Comm10E</source>
@@ -21400,7 +21392,7 @@ External Links
     </message>
     <message>
         <source>Scribus Development Version</source>
-        <translation>גרסת פיתוח Scribus</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>pt</source>
@@ -21530,7 +21522,7 @@ External Links
     <message>
         <source>Style not found.</source>
         <comment>python error</comment>
-        <translation>הסגנון לא נמצא.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cannot set style on a non-text frame.</source>
@@ -21602,7 +21594,7 @@ External Links
     </message>
     <message>
         <source>&amp;About Script...</source>
-        <translation>&amp;אודות סקריפט</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Script</source>
@@ -21618,7 +21610,7 @@ External Links
     </message>
     <message>
         <source>About Script</source>
-        <translation>אודות סקריפט</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Scribus Python interface module
@@ -21756,27 +21748,27 @@ is not exhaustive due to exceptions from called functions.
     <message>
         <source>page</source>
         <comment>page export</comment>
-        <translation>דף</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Copy #%1 of </source>
-        <translation>עותק #%1 של</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Black</source>
-        <translation>שחור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cyan</source>
-        <translation>ציאן</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Magenta</source>
-        <translation>מג&apos;נטה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Yellow</source>
-        <translation>צהוב</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Color Wheel</source>
@@ -21792,11 +21784,11 @@ is not exhaustive due to exceptions from called functions.
     </message>
     <message>
         <source>New From Template</source>
-        <translation>חדש מתבנית</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Save As Template</source>
-        <translation>שמור כתבנית</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Scripter</source>
@@ -21844,7 +21836,7 @@ is not exhaustive due to exceptions from called functions.
     </message>
     <message>
         <source>Searching for Fonts</source>
-        <translation>מחפש גופנים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The changes to your document have not been saved and you have requested to revert them. Do you wish to continue?</source>
@@ -21881,7 +21873,7 @@ is not exhaustive due to exceptions from called functions.
     </message>
     <message>
         <source>&amp;Import</source>
-        <translation type="vanished">&amp;ייבא</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Thai</source>
@@ -21893,7 +21885,7 @@ is not exhaustive due to exceptions from called functions.
     </message>
     <message>
         <source>Word Documents</source>
-        <translation>מסמכי Word</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Palm PDB Documents</source>
@@ -21929,7 +21921,7 @@ is not exhaustive due to exceptions from called functions.
     </message>
     <message>
         <source>Arabic</source>
-        <translation>ערבית</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Dzongkha</source>
@@ -21949,7 +21941,7 @@ is not exhaustive due to exceptions from called functions.
     </message>
     <message>
         <source>+style </source>
-        <translation>+סגנון</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>+color </source>
@@ -21957,11 +21949,11 @@ is not exhaustive due to exceptions from called functions.
     </message>
     <message>
         <source>+underline </source>
-        <translation>+קו תחתון</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>-underline </source>
-        <translation>-קו תחתון</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>+strikeout </source>
@@ -22157,7 +22149,7 @@ is not exhaustive due to exceptions from called functions.
     </message>
     <message>
         <source>Hebrew</source>
-        <translation>עברית</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Font %1 has broken metrics in file %2, ignoring metrics</source>
@@ -22173,7 +22165,7 @@ is not exhaustive due to exceptions from called functions.
     </message>
     <message>
         <source>%</source>
-        <translation>%</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Khmer</source>
@@ -22198,7 +22190,7 @@ is not exhaustive due to exceptions from called functions.
     <message>
         <source>°</source>
         <comment>degrees, unicode 0xB0</comment>
-        <translation>°</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>WMF Import</source>
@@ -22222,7 +22214,7 @@ is not exhaustive due to exceptions from called functions.
     </message>
     <message>
         <source>%1;;All Files (*)</source>
-        <translation>%1;;כל הקבצים (*)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Do you really want to overwrite the file:
@@ -22235,11 +22227,11 @@ is not exhaustive due to exceptions from called functions.
     </message>
     <message>
         <source>GIF</source>
-        <translation>GIF</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>JPEG</source>
-        <translation>JPEG</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Pattern Files</source>
@@ -22251,7 +22243,7 @@ is not exhaustive due to exceptions from called functions.
     </message>
     <message>
         <source>PNG</source>
-        <translation>PNG</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>PostScript &quot;*.ps&quot;</source>
@@ -22287,11 +22279,11 @@ is not exhaustive due to exceptions from called functions.
     </message>
     <message>
         <source>TIFF</source>
-        <translation>TIFF</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>XPM</source>
-        <translation>XPM</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Valid metrics were found for font %1, using metrics in file %2</source>
@@ -22303,7 +22295,7 @@ is not exhaustive due to exceptions from called functions.
     </message>
     <message>
         <source>Error</source>
-        <translation>שגיאה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Configfile %1 not found or the file is not readable</source>
@@ -22370,7 +22362,7 @@ is not exhaustive due to exceptions from called functions.
     </message>
     <message>
         <source>Xfig File</source>
-        <translation>קובץ Xfig</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Norwegian (Bokmål)</source>
@@ -22429,7 +22421,7 @@ Therefore the image may be not correct</source>
     </message>
     <message>
         <source>Save As</source>
-        <translation>שמור בשם</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Printing...</source>
@@ -22547,7 +22539,7 @@ Therefore the image may be not correct</source>
     </message>
     <message>
         <source>BMP</source>
-        <translation>BMP</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Scribus 1.5.0+ Support</source>
@@ -22935,7 +22927,7 @@ Therefore the image may be not correct</source>
     </message>
     <message>
         <source>11x17</source>
-        <translation>11x17</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Pages Importer</source>
@@ -23074,7 +23066,7 @@ Therefore the image may be not correct</source>
     </message>
     <message>
         <source>PostScript</source>
-        <translation>PostScript</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Adobe Photoshop</source>
@@ -23146,7 +23138,7 @@ Therefore the image may be not correct</source>
     <name>QTextEdit</name>
     <message>
         <source>Clear</source>
-        <translation>למחוק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select All</source>
@@ -23154,23 +23146,23 @@ Therefore the image may be not correct</source>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation>ביטול</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation>חזרה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cu&amp;t</source>
-        <translation>ג&amp;זור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation>&amp;העתק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation>&amp;הדבק</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -23201,7 +23193,7 @@ Therefore the image may be not correct</source>
     </message>
     <message>
         <source>Close</source>
-        <translation>סגור</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -23280,7 +23272,7 @@ Please choose another.</source>
     </message>
     <message>
         <source>Description</source>
-        <translation>תיאור:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Type</source>
@@ -23323,7 +23315,7 @@ Please choose another.</source>
     </message>
     <message>
         <source>Description</source>
-        <translation>תיאור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>ID</source>
@@ -23358,7 +23350,7 @@ Please choose another.</source>
     <name>RotationWidget</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Rotation:</source>
@@ -23380,7 +23372,7 @@ Please choose another.</source>
     <name>RulerMover</name>
     <message>
         <source>Reset Rulers</source>
-        <translation>לאפס סרגלים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Move on current Page</source>
@@ -23469,7 +23461,7 @@ Please choose another.</source>
     </message>
     <message>
         <source>Name:</source>
-        <translation>שם:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Name of the document template</source>
@@ -23509,7 +23501,7 @@ Please choose another.</source>
     </message>
     <message>
         <source>Description:</source>
-        <translation>תיאור:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Description of the document template</source>
@@ -23525,7 +23517,7 @@ Please choose another.</source>
     </message>
     <message>
         <source>Author:</source>
-        <translation>מחבר:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Author of the document template</source>
@@ -23580,7 +23572,7 @@ Please choose another.</source>
     </message>
     <message>
         <source> %</source>
-        <translation> %</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Advanced Formatting</source>
@@ -23592,7 +23584,7 @@ Please choose another.</source>
     </message>
     <message>
         <source>Colors</source>
-        <translation>צבעים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Parent Style</source>
@@ -23647,7 +23639,7 @@ Please choose another.</source>
     <name>SMCellStyle</name>
     <message>
         <source>Properties</source>
-        <translation>מאפיינים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cell Styles</source>
@@ -23659,7 +23651,7 @@ Please choose another.</source>
     </message>
     <message>
         <source>New Style</source>
-        <translation>סגנון חדש</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Clone of %1</source>
@@ -23668,7 +23660,7 @@ Please choose another.</source>
     <message>
         <source>%1 (%2)</source>
         <comment>This for unique name when creating a new character style. %1 will be the name of the style and %2 will be a number forming a style name like: New Style (2)</comment>
-        <translation>%1 (%2)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Setting that style as parent would create an infinite loop.</source>
@@ -23679,7 +23671,7 @@ Please choose another.</source>
     <name>SMCellStyleWidget</name>
     <message>
         <source>Colors</source>
-        <translation>צבעים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>TextLabel</source>
@@ -23695,7 +23687,7 @@ Please choose another.</source>
     </message>
     <message>
         <source>Text</source>
-        <translation>טקסט</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Fill Shade</source>
@@ -23714,19 +23706,19 @@ Please choose another.</source>
     <name>SMCharacterStyle</name>
     <message>
         <source>Properties</source>
-        <translation>מאפיינים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Character Styles</source>
-        <translation>סגנונות תו</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Character Style</source>
-        <translation>סגנון תו</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New Style</source>
-        <translation>סגנון חדש</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Clone of %1</source>
@@ -23735,7 +23727,7 @@ Please choose another.</source>
     <message>
         <source>%1 (%2)</source>
         <comment>This for unique name when creating a new character style. %1 will be the name of the style and %2 will be a number forming a style name like: New Style (2)</comment>
-        <translation>%1 (%2)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Setting that style as parent would create an infinite loop.</source>
@@ -23760,19 +23752,19 @@ Please choose another.</source>
     <name>SMLineStyle</name>
     <message>
         <source>Properties</source>
-        <translation>מאפיינים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Line Styles</source>
-        <translation>סגנונות שורה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Line Style</source>
-        <translation>סגנון שורה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New Style</source>
-        <translation>סגנון חדש</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Clone of %1</source>
@@ -23781,7 +23773,7 @@ Please choose another.</source>
     <message>
         <source>%1 (%2)</source>
         <comment>This for unique name when creating a new character style. %1 will be the name of the style and %2 will be a number forming a style name like: New Style (2)</comment>
-        <translation>%1 (%2)</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -23844,7 +23836,7 @@ Please choose another.</source>
     </message>
     <message>
         <source>%</source>
-        <translation>%</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Line Width:</source>
@@ -23879,15 +23871,15 @@ Please choose another.</source>
     </message>
     <message>
         <source>Properties</source>
-        <translation>מאפיינים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Character Style</source>
-        <translation>סגנון תו</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Lines:</source>
-        <translation>&amp;קווים:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Distance from Text:</source>
@@ -23943,7 +23935,7 @@ Please choose another.</source>
     </message>
     <message>
         <source>Ch&amp;aracter Style</source>
-        <translation>סגנון ת&amp;ו</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>None</source>
@@ -23988,7 +23980,7 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>Left Only</source>
-        <translation>שמאל בלבד</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Right Only</source>
@@ -24008,7 +24000,7 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source> lines</source>
-        <translation>קווים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Don&apos;t separate last</source>
@@ -24036,11 +24028,11 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>No Style</source>
-        <translation>ללא סגנון</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Lines:</source>
-        <translation>קווים:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>None</source>
@@ -24152,7 +24144,7 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>Document</source>
-        <translation>מסמך</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Section</source>
@@ -24164,11 +24156,11 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>Page</source>
-        <translation>דף</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Frame</source>
-        <translation>מסגרת</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Alignment and Distances</source>
@@ -24223,7 +24215,7 @@ Expressed as a percentage of the current white space value.</source>
     <message>
         <source>Left Only</source>
         <comment>Optical Margins</comment>
-        <translation>שמאל בלבד</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Right Only</source>
@@ -24235,15 +24227,15 @@ Expressed as a percentage of the current white space value.</source>
     <name>SMParagraphStyle</name>
     <message>
         <source>Paragraph Styles</source>
-        <translation>סגנונות פסקה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Paragraph Style</source>
-        <translation>סגנון פסקה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New Style</source>
-        <translation>סגנון חדש</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Clone of %1</source>
@@ -24252,7 +24244,7 @@ Expressed as a percentage of the current white space value.</source>
     <message>
         <source>%1 (%2)</source>
         <comment>This for unique name when creating a new character style. %1 will be the name of the style and %2 will be a number forming a style name like: New Style (2)</comment>
-        <translation>%1 (%2)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Setting that style as parent would create an infinite loop.</source>
@@ -24271,7 +24263,7 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>Delete Styles</source>
-        <translation>להסיר סגנונות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -24283,14 +24275,14 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>Alt+N</source>
-        <translation>Alt+N</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>SMRowWidget</name>
     <message>
         <source>No Style</source>
-        <translation>ללא סגנון</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -24311,19 +24303,19 @@ Expressed as a percentage of the current white space value.</source>
     <name>SMStyleImport</name>
     <message>
         <source>Character Styles</source>
-        <translation>סגנון תו</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Paragraph Styles</source>
-        <translation>סגנונות פסקה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Line Styles</source>
-        <translation>סגנונות שורה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Choose Styles</source>
-        <translation>בחר סגנונות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Available Styles</source>
@@ -24362,7 +24354,7 @@ Expressed as a percentage of the current white space value.</source>
     <name>SMTableStyle</name>
     <message>
         <source>Properties</source>
-        <translation>מאפיינים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Table Styles</source>
@@ -24374,7 +24366,7 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>New Style</source>
-        <translation>סגנון חדש</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Clone of %1</source>
@@ -24383,7 +24375,7 @@ Expressed as a percentage of the current white space value.</source>
     <message>
         <source>%1 (%2)</source>
         <comment>This for unique name when creating a new character style. %1 will be the name of the style and %2 will be a number forming a style name like: New Style (2)</comment>
-        <translation>%1 (%2)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Setting that style as parent would create an infinite loop.</source>
@@ -24394,7 +24386,7 @@ Expressed as a percentage of the current white space value.</source>
     <name>SMTableStyleWidget</name>
     <message>
         <source>Colors</source>
-        <translation>צבעים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>TextLabel</source>
@@ -24410,7 +24402,7 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>Text</source>
-        <translation>טקסט</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>A default style cannot be assigned a parent style</source>
@@ -24436,11 +24428,11 @@ Expressed as a percentage of the current white space value.</source>
     <name>SToolBAlign</name>
     <message>
         <source>Style of current paragraph</source>
-        <translation>סיגנון של הפיסקה הנוכחית</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Style Settings</source>
-        <translation>הגדרות הסגנון</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -24519,7 +24511,7 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>Save as &amp;SVG...</source>
-        <translation>שמור כ-&amp;SVG</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Compress File</source>
@@ -24547,7 +24539,7 @@ Caution: this will increase the file size!</source>
     <name>SVGImportPlugin</name>
     <message>
         <source>Import &amp;SVG...</source>
-        <translation>ייבא SVG</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Imports SVG Files</source>
@@ -24567,7 +24559,7 @@ converting their vector data into Scribus objects.</source>
     <name>SVGPlug</name>
     <message>
         <source>Group%1</source>
-        <translation>קבוצה%1</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -24657,11 +24649,11 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation>&amp;שמור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Reset</source>
-        <translation>&amp;לאפס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Save user configuration</source>
@@ -24704,15 +24696,15 @@ converting their vector data into Scribus objects.</source>
     <name>SaveAsTemplatePlugin</name>
     <message>
         <source>Save as &amp;Template...</source>
-        <translation>שמור כ&amp;תבנית</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Save a document as a template</source>
-        <translation>שמירת מסמך כתבנית</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Save a document as a template. Good way to ease the initial work for documents with a constant look</source>
-        <translation>שמירת מסמך כתבנית. דרך טובה כדי להקל על העבודה הראשונית עבור מסמכים עם מראה קבוע</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -24747,11 +24739,11 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Properties</source>
-        <translation>מאפיינים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Name:</source>
-        <translation>שם:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Tooltip:</source>
@@ -24759,7 +24751,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Text</source>
-        <translation>טקסט</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Font for use with PDF 1.3:</source>
@@ -24771,11 +24763,11 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Color:</source>
-        <translation>צבע:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Width:</source>
-        <translation>רוחב:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Thin</source>
@@ -24783,7 +24775,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation>רגיל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Wide</source>
@@ -24791,7 +24783,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Style:</source>
-        <translation>סגנון:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Solid</source>
@@ -24803,7 +24795,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Underline</source>
-        <translation>קו תחתון</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Beveled</source>
@@ -24920,7 +24912,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Characters</source>
-        <translation>תווים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Do Not Scroll</source>
@@ -24948,7 +24940,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Circle</source>
-        <translation>עיגול</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Star</source>
@@ -24956,7 +24948,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Square</source>
-        <translation>ריבוע</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Default is Checked</source>
@@ -24968,7 +24960,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Options</source>
-        <translation>אפשרויות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>None</source>
@@ -25029,7 +25021,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Edit...</source>
-        <translation>ערוך...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Destination</source>
@@ -25049,7 +25041,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Page:</source>
-        <translation>דף:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>X-Pos:</source>
@@ -25057,7 +25049,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source> pt</source>
-        <translation> pt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Y-Pos:</source>
@@ -25085,7 +25077,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>PDF</source>
-        <translation>PDF</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Import Data from:</source>
@@ -25169,7 +25161,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Format</source>
-        <translation>עיצוב</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Value is not validated</source>
@@ -25241,7 +25233,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>ביטול</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Flag is ignored for PDF 1.3</source>
@@ -25257,7 +25249,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Open</source>
-        <translation>פתח</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Images (*.tif *.png *.jpg *.xpm);;%1;;All Files (*)</source>
@@ -25385,7 +25377,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation>סגור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Quit</source>
@@ -25699,7 +25691,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;ביטול</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -25714,7 +25706,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>&amp;Import</source>
-        <translation>&amp;ייבא</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Export</source>
@@ -25746,7 +25738,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Character</source>
-        <translation>תו</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Quote</source>
@@ -25873,11 +25865,11 @@ converting their vector data into Scribus objects.</source>
     <name>Scribus12Format</name>
     <message>
         <source>Scribus 1.2.x Document</source>
-        <translation>מסמך Scribus 1.2.x </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Copy #%1 of </source>
-        <translation>עותק #%1 של</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Scribus 1.2.x File Format Support</source>
@@ -25894,14 +25886,14 @@ If you save it in this version, it will no longer be readable by older Scribus v
     </message>
     <message>
         <source>Group%1</source>
-        <translation>קבוצה%1</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>Scribus134Format</name>
     <message>
         <source>Copy #%1 of </source>
-        <translation>עותק #%1 של</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Scribus 1.3.4+ File Format Support</source>
@@ -25920,7 +25912,7 @@ If you save it in this version, it will no longer be readable by older Scribus v
     <name>Scribus13Format</name>
     <message>
         <source>Copy #%1 of </source>
-        <translation>עותק #%1 של</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Scribus 1.3.0-&gt;1.3.3.7 Document</source>
@@ -25948,7 +25940,7 @@ If you save it in this version, it will no longer be readable by older Scribus v
     </message>
     <message>
         <source>Copy #%1 of </source>
-        <translation>עותק #%1 של</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Scribus 1.5.0+ File Format Support</source>
@@ -25967,7 +25959,7 @@ If you save it in this version, it will no longer be readable by older Scribus v
     </message>
     <message>
         <source>Initializing Keyboard Shortcuts</source>
-        <translation>איתחול קיצורי מקשים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reading Preferences</source>
@@ -25979,7 +25971,7 @@ If you save it in this version, it will no longer be readable by older Scribus v
     </message>
     <message>
         <source>Searching for Fonts</source>
-        <translation>מחפש גופנים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>There are no fonts found on your system.</source>
@@ -25991,7 +25983,7 @@ If you save it in this version, it will no longer be readable by older Scribus v
     </message>
     <message>
         <source>Fatal Error</source>
-        <translation>שגיאה קטלנית</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Font System Initialized</source>
@@ -26006,7 +25998,7 @@ If you save it in this version, it will no longer be readable by older Scribus v
     <name>ScribusDoc</name>
     <message>
         <source>Document</source>
-        <translation>מסמך</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Background</source>
@@ -26063,7 +26055,7 @@ Rotation: %4</source>
     </message>
     <message>
         <source>Group%1</source>
-        <translation>קבוצה%1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Imported </source>
@@ -26072,7 +26064,7 @@ Rotation: %4</source>
     </message>
     <message>
         <source>No Style</source>
-        <translation>ללא סגנון</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>%1 note style has document as range and provide same numbering style as set %2</source>
@@ -26095,7 +26087,7 @@ Rotation: %4</source>
     </message>
     <message>
         <source>Fatal Error</source>
-        <translation>שגיאה קטלנית</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Open &amp;Recent</source>
@@ -26103,7 +26095,7 @@ Rotation: %4</source>
     </message>
     <message>
         <source>&amp;Import</source>
-        <translation>&amp;ייבא</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Export</source>
@@ -26135,7 +26127,7 @@ Rotation: %4</source>
     </message>
     <message>
         <source>Open</source>
-        <translation>פתח</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Importing Pages...</source>
@@ -26180,7 +26172,7 @@ Rotation: %4</source>
     </message>
     <message>
         <source>All Files (*)</source>
-        <translation>כל הקבצים (*)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cannot write the file: 
@@ -26189,7 +26181,7 @@ Rotation: %4</source>
     </message>
     <message>
         <source>Save As</source>
-        <translation>שמור בשם</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Saving...</source>
@@ -26205,7 +26197,7 @@ Rotation: %4</source>
     </message>
     <message>
         <source>Document</source>
-        <translation>מסמך</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Printing failed!</source>
@@ -26221,7 +26213,7 @@ Rotation: %4</source>
     </message>
     <message>
         <source>About Qt</source>
-        <translation>אודות Qt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Scribus Manual</source>
@@ -26229,11 +26221,11 @@ Rotation: %4</source>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation>&amp;מידה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Size</source>
-        <translation>מידה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Shade:</source>
@@ -26264,7 +26256,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>-Page%1</source>
-        <translation>-דף%1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Some objects are locked.</source>
@@ -26284,7 +26276,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Information</source>
-        <translation>מידע</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>The program %1 is already running!</source>
@@ -26304,7 +26296,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;Character</source>
-        <translation>&amp;תו</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Quote</source>
@@ -26324,11 +26316,11 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Do you really want to clear all your text?</source>
-        <translation>האם באמת אתה רוצה למחוק את כל הטקסט?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Scribus </source>
-        <translation>Scribus </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Some color profiles used by this document are not installed:</source>
@@ -26336,7 +26328,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>%1;;All Files (*)</source>
-        <translation>%1;;כל הקבצים (*)</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Applying User Shortcuts</source>
@@ -26361,7 +26353,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation>שם:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New Entry</source>
@@ -26381,7 +26373,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>The file may be damaged or may have been produced in a later version of Scribus.</source>
-        <translation>ייתכן שהקובץ פגום או שנוצר בגרסה מתקדמת יותר של Scribus.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Editing Symbol: %1</source>
@@ -26389,7 +26381,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="vanished">סגור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Unknown</source>
@@ -26433,7 +26425,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Edit </source>
-        <translation>ערוך</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Duplicate/Transform</source>
@@ -26461,7 +26453,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Image</source>
-        <translation>תמונה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Text Frame Links</source>
@@ -26469,7 +26461,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Path Tools</source>
-        <translation>נתיב כלים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Welding</source>
@@ -26505,15 +26497,15 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source> %</source>
-        <translation> %</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>X:</source>
-        <translation>X:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Y:</source>
-        <translation>Y:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Text Files (*.txt);;All Files (*)</source>
@@ -26580,7 +26572,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Options:</source>
-        <translation>אפשרויות:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Print help (this message) and exit</source>
@@ -26600,7 +26592,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Do not show the splashscreen on startup</source>
-        <translation>אל תציג מסך פתיחה בהפעלה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Output version information and exit</source>
@@ -26612,7 +26604,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>filename</source>
-        <translation>שם קובץ</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Use filename as path for user given preferences</source>
@@ -26632,7 +26624,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Scribus Version</source>
-        <translation>גרסת Scribus</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Scribus, Open Source Desktop Publishing</source>
@@ -26640,7 +26632,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Homepage</source>
-        <translation>דף הבית</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Documentation</source>
@@ -26648,7 +26640,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Wiki</source>
-        <translation>וויקי</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Issues</source>
@@ -26660,7 +26652,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Download a file from the Scribus website and show the latest available version.</source>
-        <translation type="vanished">תוריד קובץ מאתר Scribus ותציג את הגרסה המעדכנת ביותר.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Display a console window</source>
@@ -26703,7 +26695,7 @@ Consider using the Preflight Verifier to correct them</source>
     <name>ScribusView</name>
     <message>
         <source>Copy Here</source>
-        <translation>העתק כאן</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Move Here</source>
@@ -26711,15 +26703,15 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>ביטול</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Print: </source>
-        <translation>הדפס:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Enabled</source>
-        <translation>מופעל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Disabled</source>
@@ -26743,7 +26735,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Preview Mode</source>
-        <translation>מצב תצוגה מקדימה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>CMS is active. Therefore the color display may not match the perception by visually impaired</source>
@@ -26785,11 +26777,11 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation>&amp;קובץ</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation>&amp;חדש</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Run</source>
@@ -26797,11 +26789,11 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;סגור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ctrl+W</source>
-        <translation>Ctrl+W</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Exit</source>
@@ -26809,7 +26801,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Ctrl+R</source>
-        <translation>Ctrl+R</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Run script in &amp;console</source>
@@ -26817,7 +26809,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Ctrl+C</source>
-        <translation>Ctrl+C</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Python</source>
@@ -26825,7 +26817,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Ctrl+N</source>
-        <translation>Ctrl+N</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>QtScript</source>
@@ -26833,7 +26825,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Clear</source>
-        <translation>למחוק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Clear The Console</source>
@@ -26849,11 +26841,11 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Ctrl+A</source>
-        <translation>Ctrl+A</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation>&amp;פתח</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Open a script</source>
@@ -26861,11 +26853,11 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Ctrl+O</source>
-        <translation>Ctrl+O</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation>&amp;שמור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Save the current script</source>
@@ -26873,7 +26865,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation>Ctrl+S</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -26981,7 +26973,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Comments:</source>
@@ -27005,7 +26997,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Errors:</source>
-        <translation>שגיאות:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Base Texts:</source>
@@ -27020,11 +27012,11 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Delete Master Page?</source>
-        <translation>מחק את הדף בסיס?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Are you sure you want to delete this master page?</source>
-        <translation>בטוח שברצונך למחוק את דף בסיס זה?</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -27050,11 +27042,11 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Text</source>
-        <translation>טקסט</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Font</source>
-        <translation>גופן</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Font Size</source>
@@ -27082,7 +27074,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Left</source>
-        <translation>שמאל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Center</source>
@@ -27090,7 +27082,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Right</source>
-        <translation>ימין</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Block</source>
@@ -27130,7 +27122,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>&amp;סגור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>C&amp;lear</source>
@@ -27166,7 +27158,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Style</source>
-        <translation>סגנון</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -27211,7 +27203,7 @@ Consider using the Preflight Verifier to correct them</source>
     <name>ShadowValues</name>
     <message>
         <source> %</source>
-        <translation> %</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>X-Offset</source>
@@ -27249,19 +27241,19 @@ Consider using the Preflight Verifier to correct them</source>
     <name>ShapePlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation>מיבא: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation>מנתח קובץ:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation>יצירת פריטים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Group%1</source>
-        <translation>קבוצה%1</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -27322,19 +27314,19 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Alt</source>
-        <translation>Alt</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Ctrl</source>
-        <translation>Ctrl</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shift</source>
-        <translation>Shift</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Meta</source>
-        <translation>Meta</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Meta+</source>
@@ -27350,11 +27342,11 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Ctrl+</source>
-        <translation>Ctrl+</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No shortcut for the style</source>
-        <translation>אין קיצור דרך לסגנון זה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Style has user defined shortcut</source>
@@ -27369,22 +27361,22 @@ Consider using the Preflight Verifier to correct them</source>
     <name>SideBar</name>
     <message>
         <source>No Style</source>
-        <translation>ללא סגנון</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>SmlPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation>מיבא: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation>מנתח קובץ:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation>יצירת פריטים</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -27395,7 +27387,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Path Tools</source>
-        <translation>נתיב כלים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Smoothes a Path</source>
@@ -27426,7 +27418,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source> %</source>
-        <translation> %</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>End Edit</source>
@@ -27437,7 +27429,7 @@ Consider using the Preflight Verifier to correct them</source>
     <name>SpiralWidgetBase</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Start Angle:</source>
@@ -27453,7 +27445,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source> %</source>
-        <translation> %</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Sample Polygon</source>
@@ -27496,7 +27488,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Open</source>
-        <translation>פתח</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Text Files (*.txt);;All Files(*)</source>
@@ -27504,7 +27496,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Save as</source>
-        <translation>שמור בשם</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Do you want to save your changes?</source>
@@ -27528,7 +27520,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;Update Text Frame and Exit</source>
-        <translation>&amp;עדכן מסגרת טקסט וצא</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Exit Without Updating Text Frame</source>
@@ -27536,15 +27528,15 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Cu&amp;t</source>
-        <translation>ג&amp;זור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation>&amp;העתק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation>&amp;הדבק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>C&amp;lear</source>
@@ -27552,27 +27544,27 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;Update Text Frame</source>
-        <translation>&amp;עדכן מסגרת טקסט</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation>&amp;קובץ</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation>&amp;ערוך</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Select &amp;All</source>
-        <translation>בחר הכל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>File</source>
-        <translation>קובץ</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Search/Replace...</source>
-        <translation>חיפוש והחלפה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Fonts Preview...</source>
@@ -27596,7 +27588,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Clear All Text</source>
-        <translation>למחוק את כל הטקסט</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Story Editor - %1</source>
@@ -27608,15 +27600,15 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Do you really want to clear all your text?</source>
-        <translation>האם באמת אתה רוצה למחוק את כל הטקסט?</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Insert</source>
-        <translation>הוסיף</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Character</source>
-        <translation>תו</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Quote</source>
@@ -27647,7 +27639,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source> %</source>
-        <translation> %</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Displacement</source>
@@ -27662,11 +27654,11 @@ Consider using the Preflight Verifier to correct them</source>
     <name>StyleManager</name>
     <message>
         <source>Name:</source>
-        <translation>שם:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Reset</source>
-        <translation>&amp;לאפס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Apply</source>
@@ -27678,11 +27670,11 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation>&amp;חדש</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Import</source>
-        <translation>&amp;ייבא</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Clone</source>
@@ -27690,7 +27682,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>&amp;מחק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reset all changes</source>
@@ -27706,11 +27698,11 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Create a new style</source>
-        <translation>יצירת סגנון חדש</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Import styles from another document</source>
-        <translation>ייבא סגנונות ממסמך אחר</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Clone selected style</source>
@@ -27718,15 +27710,15 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Delete selected styles</source>
-        <translation>הסרת סגנונות שנבחרו</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New</source>
-        <translation>חדש</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Import</source>
-        <translation>ייבא</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Clone</source>
@@ -27734,11 +27726,11 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation>מחק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation>&amp;ערוך</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Done</source>
@@ -27746,15 +27738,15 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Shortcut</source>
-        <translation>קיצור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Name</source>
-        <translation>שם</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Edit</source>
-        <translation>ערוך</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>New %1</source>
@@ -27766,7 +27758,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Edit styles</source>
-        <translation>עריכת סגנונות </translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Name of the selected style</source>
@@ -27778,7 +27770,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Open</source>
-        <translation>פתח</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>documents (*.sla *.sla.gz *.scd *.scd.gz);;All Files (*)</source>
@@ -27786,7 +27778,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Alt+N</source>
-        <translation>Alt+N</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Clone copies the style to make similar styles easily.</source>
@@ -27794,15 +27786,15 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation>Alt+C</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Alt+I</source>
-        <translation>Alt+I</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Alt+D</source>
-        <translation>Alt+D</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please select a unique name for the style</source>
@@ -27810,11 +27802,11 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Alt+A</source>
-        <translation>Alt+A</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Alt+R</source>
-        <translation>Alt+R</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Style Manager</source>
@@ -27869,7 +27861,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Path Tools</source>
-        <translation>נתיב כלים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Subdivide</source>
@@ -27888,15 +27880,15 @@ Consider using the Preflight Verifier to correct them</source>
     <name>SvmPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation>מיבא: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation>מנתח קובץ:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation>יצירת פריטים</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -27923,7 +27915,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Merge Paragraph Styles</source>
-        <translation>מיזוג סגנונות פסקה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Merge paragraph styles by attributes. This will result in fewer similar paragraph styles, will retain style attributes, even if the original document&apos;s styles are named differently.</source>
@@ -27939,18 +27931,18 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Overwrite Paragraph Styles</source>
-        <translation>לדרוס סגנונות פסקה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>ביטול</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>SymbolPalette</name>
     <message>
         <source>Symbols</source>
-        <translation>סמלים</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -28019,7 +28011,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source> dpi</source>
-        <translation> dpi</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Resolution for EPS Graphics:</source>
@@ -28095,7 +28087,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Page</source>
-        <translation>דף</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show Page Pre&amp;views</source>
@@ -28179,7 +28171,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Left to Right</source>
-        <translation>משמאל לימין</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Top to Bottom</source>
@@ -28191,7 +28183,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Right to Left</source>
-        <translation>מימין לשמאל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Top-left to Bottom-Right</source>
@@ -28307,7 +28299,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Perceptual</source>
-        <translation>תפיסתי</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Relative Colorimetric</source>
@@ -28315,7 +28307,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Saturation</source>
-        <translation>רוויה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Absolute Colorimetric</source>
@@ -28323,7 +28315,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Images:</source>
-        <translation>תמונות:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>C&amp;olor</source>
@@ -28527,11 +28519,11 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Double Page Left</source>
-        <translation>הכפלת עמוד שמאלי</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Double Page Right</source>
-        <translation>הכפלת עמוד ימני</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Visual Appearance</source>
@@ -28656,11 +28648,11 @@ when PDF document is opened:</source>
     </message>
     <message>
         <source>Left:</source>
-        <translation>שמאל:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Right:</source>
-        <translation>ימין:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Use Document Bleeds</source>
@@ -28712,7 +28704,7 @@ when PDF document is opened:</source>
     </message>
     <message>
         <source>Maximum Image Resolution:</source>
-        <translation>רזולוציית תמונה מקסימלי:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show the document in single page mode</source>
@@ -28736,7 +28728,7 @@ when PDF document is opened:</source>
     </message>
     <message>
         <source>Enables viewing the document in full screen</source>
-        <translation>מאפשר צפייה במסמך במסך מלא</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Display the bookmarks upon opening</source>
@@ -28868,7 +28860,7 @@ when PDF document is opened:</source>
     </message>
     <message>
         <source>...</source>
-        <translation>...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>0 °</source>
@@ -28880,15 +28872,15 @@ when PDF document is opened:</source>
     </message>
     <message>
         <source>180 °</source>
-        <translation>180 °</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>270 °</source>
-        <translation>270 °</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source> °</source>
-        <translation> °</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Embedding Mode:</source>
@@ -28945,18 +28937,18 @@ when PDF document is opened:</source>
     <name>TableStyleComboBox</name>
     <message>
         <source>No Style</source>
-        <translation>ללא סגנון</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>Tabruler</name>
     <message>
         <source>Left</source>
-        <translation>שמאל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Right</source>
-        <translation>ימין</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Comma</source>
@@ -29091,7 +29083,7 @@ when PDF document is opened:</source>
     </message>
     <message>
         <source>Skew</source>
-        <translation>הטייה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Skew H = %1%2 V = %3%4</source>
@@ -29122,7 +29114,7 @@ when PDF document is opened:</source>
     </message>
     <message>
         <source> %</source>
-        <translation> %</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Vertical</source>
@@ -29142,7 +29134,7 @@ when PDF document is opened:</source>
     </message>
     <message>
         <source>Skew</source>
-        <translation>הטייה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Basepoint</source>
@@ -29232,7 +29224,7 @@ when PDF document is opened:</source>
     </message>
     <message>
         <source> %</source>
-        <translation> %</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Displacement</source>
@@ -29286,11 +29278,11 @@ when PDF document is opened:</source>
     </message>
     <message>
         <source>Move</source>
-        <translation>הזז</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Resize</source>
-        <translation>שנה מידה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Rotate</source>
@@ -29308,11 +29300,11 @@ W2: %3, H2: %4</source>
     </message>
     <message>
         <source>Selection</source>
-        <translation>בחירה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Group</source>
-        <translation>קבוצה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Selection/Group</source>
@@ -29337,7 +29329,7 @@ W: %3, H: %4</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>ביטול</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Set fill color</source>
@@ -29389,7 +29381,7 @@ W: %3, H: %4</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation>מחק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Rename</source>
@@ -29402,15 +29394,15 @@ to %2</source>
     </message>
     <message>
         <source>Apply Master Page</source>
-        <translation>יישם את הדף בסיס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Paste</source>
-        <translation>הדבק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Cut</source>
-        <translation>גזור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Set fill color transparency</source>
@@ -29438,7 +29430,7 @@ to %2</source>
     </message>
     <message>
         <source>No style</source>
-        <translation>ללא סגנון</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Set custom line style</source>
@@ -29502,7 +29494,7 @@ to %2</source>
     </message>
     <message>
         <source>Set paragraph style</source>
-        <translation>הגדרת סגנון פסקה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Set language</source>
@@ -29518,11 +29510,11 @@ to %2</source>
     </message>
     <message>
         <source>Image frame</source>
-        <translation>מסגרת תמונה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Text frame</source>
-        <translation>מסגרת טקסט</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Polygon</source>
@@ -29582,7 +29574,7 @@ to %2</source>
     </message>
     <message>
         <source>Page %1</source>
-        <translation>דף %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Set image scaling</source>
@@ -29610,7 +29602,7 @@ to %2</source>
     </message>
     <message>
         <source>Edit shape</source>
-        <translation>ערוך צורה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Reset contour line</source>
@@ -29626,7 +29618,7 @@ to %2</source>
     </message>
     <message>
         <source>Delete page</source>
-        <translation>מחיקת דף</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete pages</source>
@@ -29634,11 +29626,11 @@ to %2</source>
     </message>
     <message>
         <source>Add layer</source>
-        <translation>הוסף שכבה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Delete layer</source>
-        <translation>מחק שכבה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Rename layer</source>
@@ -29707,36 +29699,34 @@ to %2</source>
     <message>
         <source>X1: %1, Y1: %2
 X2: %4, Y2: %5</source>
-        <translation>X1: %1, Y1: %2
-X2: %4, Y2: %5</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>X: %1, Y: %2
 X: %4, Y: %5</source>
-        <translation>X: %1, Y: %2
-X: %4, Y: %5</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Apply text style</source>
-        <translation>ליישם סגנון טקסט</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Undo: %1</source>
         <comment>f.e. Undo: Move</comment>
-        <translation>&amp;ביטול: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation>ביטול</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Redo: %1</source>
         <comment>f.e. Redo: Move</comment>
-        <translation>&amp;חזרה: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation>חזרה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No object frame</source>
@@ -29756,7 +29746,7 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Insert frame</source>
-        <translation>להוסיף מסגרת</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Adjust frame to the image size</source>
@@ -29772,11 +29762,11 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>העתק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Copy page</source>
-        <translation>העתק דף</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Remove vertical auto guide</source>
@@ -29816,7 +29806,7 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Import Barcode</source>
-        <translation>ייבא ברקוד</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Duplicate layer %1</source>
@@ -29980,7 +29970,7 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Layer</source>
-        <translation>שכבה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Edit polygon</source>
@@ -30044,7 +30034,7 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Import text</source>
-        <translation>ייבא טקסט</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Clear text</source>
@@ -30104,7 +30094,7 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Import page</source>
-        <translation>ייבא דף</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Change Page Attributes</source>
@@ -30175,11 +30165,11 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation>ביטול</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation>חזרה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Show the action history for the selected item only. This changes the effect of the undo/redo buttons to act on the object or document.</source>
@@ -30200,8 +30190,7 @@ X: %4, Y: %5</translation>
     <message>
         <source>%1 - %2
 %3</source>
-        <translation>%1 - %2
-%3</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -30209,7 +30198,7 @@ X: %4, Y: %5</translation>
     <message>
         <source>%1: %2</source>
         <comment>undo target: action (f.e. Text frame: Resize)</comment>
-        <translation>%1: %2</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -30262,7 +30251,7 @@ X: %4, Y: %5</translation>
     <name>UpgradeChecker</name>
     <message>
         <source>Timed out when attempting to get update file.</source>
-        <translation>חלף הזמן שהוקצב במשך הניסיון להשיג את קובץ העדכון.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>File not found on server</source>
@@ -30275,15 +30264,15 @@ Error:%2 at line: %3, row: %4</source>
     </message>
     <message>
         <source>An error occurred while looking for updates for Scribus, please check your internet connection.</source>
-        <translation>אירעה שגיאה בעת חיפוש עדכונים ל-Scribus, אנא בדוק את חיבור האינטרנט שלך.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No updates are available for your version of Scribus %1</source>
-        <translation>אין עדכונים לגרסת-Scribus %1 שלך</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>One or more updates for your version of Scribus (%1) are available:</source>
-        <translation>זמין עדכון אחד או יותר לגרסת (%1) Scribus שלך:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Please visit www.scribus.net for details.</source>
@@ -30295,11 +30284,11 @@ Error:%2 at line: %3, row: %4</source>
     </message>
     <message>
         <source>This list may contain development/unstable versions.</source>
-        <translation>רשימה זו עשויה לכלול גרסאות פיתוח לא יציבים.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Error: %1</source>
-        <translation>שגיאה: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No data on your computer will be sent to an external location</source>
@@ -30307,7 +30296,7 @@ Error:%2 at line: %3, row: %4</source>
     </message>
     <message>
         <source>Attempting to get the Scribus version update file:</source>
-        <translation>מנסה להשיג את קובץ עדכון של גרסת Scribus</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -30342,11 +30331,11 @@ Would you like to start the system&apos;s default browser instead?</source>
     </message>
     <message>
         <source>Margins</source>
-        <translation>שוליים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Right:</source>
-        <translation>ימין:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Top:</source>
@@ -30358,7 +30347,7 @@ Would you like to start the system&apos;s default browser instead?</source>
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation>&amp;שמאל:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -30366,15 +30355,15 @@ Would you like to start the system&apos;s default browser instead?</source>
     </message>
     <message>
         <source>Alt+O</source>
-        <translation>Alt+O</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>&amp;ביטול</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation>Alt+C</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -30389,7 +30378,7 @@ Would you like to start the system&apos;s default browser instead?</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation>רגיל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Low</source>
@@ -30416,26 +30405,26 @@ Would you like to start the system&apos;s default browser instead?</source>
     <name>VivaPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation>מיבא: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation>מנתח קובץ:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation>יצירת פריטים</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>VsdPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation>מיבא: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation>מנתח קובץ:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Parsing failed!
@@ -30449,7 +30438,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     <name>WMFImportPlugin</name>
     <message>
         <source>Import &amp;WMF...</source>
-        <translation>ייבא WMF</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Imports WMF Files</source>
@@ -30473,11 +30462,11 @@ converting their vector data into Scribus objects.</source>
     <name>WpgPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation>מיבא: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation>מנתח קובץ:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -30499,34 +30488,34 @@ converting their vector data into Scribus objects.</source>
     <name>XarPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation>מיבא: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation>מנתח קובץ:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Group%1</source>
-        <translation>קבוצה%1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation>יצירת פריטים</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>XfigPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation>מיבא: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation>מנתח קובץ:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation>יצירת פריטים</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -30564,15 +30553,15 @@ converting their vector data into Scribus objects.</source>
     <name>XpsPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation>מיבא: %1</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation>מנתח קובץ:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation>יצירת פריטים</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -30603,7 +30592,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>ביטול</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -30653,7 +30642,7 @@ converting their vector data into Scribus objects.</source>
     <name>colorPalette</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shade:</source>
@@ -30661,7 +30650,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source> %</source>
-        <translation> %</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Linear</source>
@@ -30681,7 +30670,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Properties...</source>
-        <translation>מאפיינים...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>4 Colors</source>
@@ -30697,7 +30686,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Color</source>
-        <translation>צבע</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shade</source>
@@ -30709,7 +30698,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Color:</source>
-        <translation>צבע:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Transparency:</source>
@@ -30745,7 +30734,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>%</source>
-        <translation>%</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Stroke</source>
@@ -30769,7 +30758,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Angle:</source>
-        <translation>זווית:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Type:</source>
@@ -30820,7 +30809,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Name:</source>
-        <translation>שם:</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -30852,7 +30841,7 @@ please choose another one.</source>
     </message>
     <message>
         <source>Open</source>
-        <translation>פתח</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Importer:</source>
@@ -30898,7 +30887,7 @@ please choose another one.</source>
     </message>
     <message>
         <source>%</source>
-        <translation>%</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Original Size</source>
@@ -30906,7 +30895,7 @@ please choose another one.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation>סגור</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Current zoom level</source>
@@ -30921,7 +30910,7 @@ please choose another one.</source>
     <name>nftdialog</name>
     <message>
         <source>New From Template</source>
-        <translation>חדש מתבנית</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>All</source>
@@ -30929,7 +30918,7 @@ please choose another one.</source>
     </message>
     <message>
         <source>Name</source>
-        <translation>שם</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Page Size</source>
@@ -30937,11 +30926,11 @@ please choose another one.</source>
     </message>
     <message>
         <source>Colors</source>
-        <translation>צבעים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Description</source>
-        <translation>תיאור:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Usage</source>
@@ -30961,7 +30950,7 @@ please choose another one.</source>
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation>&amp;פתח</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Downloading Templates</source>
@@ -31013,11 +31002,11 @@ please choose another one.</source>
     </message>
     <message>
         <source>&amp;About</source>
-        <translation>&amp;אודות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation>&amp;עזרה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Preview</source>
@@ -31032,7 +31021,7 @@ please choose another one.</source>
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation>&amp;פתח</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>All</source>
@@ -31040,7 +31029,7 @@ please choose another one.</source>
     </message>
     <message>
         <source>Name</source>
-        <translation>שם</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Page Size</source>
@@ -31048,11 +31037,11 @@ please choose another one.</source>
     </message>
     <message>
         <source>Colors</source>
-        <translation>צבעים</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Description</source>
-        <translation>תיאור:</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Usage</source>
@@ -31116,11 +31105,11 @@ please choose another one.</source>
     </message>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;About</source>
-        <translation>&amp;אודות</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>&amp;Preview</source>
@@ -31128,7 +31117,7 @@ please choose another one.</source>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation>&amp;עזרה</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
@@ -31170,22 +31159,22 @@ please choose another one.</source>
     </message>
     <message>
         <source>Edit...</source>
-        <translation>ערוך...</translation>
+        <translation type="unfinished"/>
     </message>
 </context>
 <context>
     <name>selectDialog</name>
     <message>
         <source>Text Frame</source>
-        <translation>מסגרת טקסט</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Image Frame</source>
-        <translation>מסגרת תמונה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Shape</source>
-        <translation>צורה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Polyline</source>
@@ -31201,7 +31190,7 @@ please choose another one.</source>
     </message>
     <message>
         <source>Symbol</source>
-        <translation>סמל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Fill Color</source>
@@ -31221,11 +31210,11 @@ please choose another one.</source>
     </message>
     <message>
         <source>Yes</source>
-        <translation>כן</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>No</source>
-        <translation>לא</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Locked</source>
@@ -31316,7 +31305,7 @@ please choose another one.</source>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>&amp;מחק</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Choose a previously saved filter</source>
@@ -31387,7 +31376,7 @@ please choose another one.</source>
     </message>
     <message>
         <source>paragraph style</source>
-        <translation>סגנון פסקה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>all instances of</source>
@@ -31414,7 +31403,7 @@ please choose another one.</source>
     <name>transparencyPalette</name>
     <message>
         <source>Form</source>
-        <translation>טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Edit Line Color Properties</source>
@@ -31434,7 +31423,7 @@ please choose another one.</source>
     </message>
     <message>
         <source> %</source>
-        <translation> %</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Blend Mode:</source>
@@ -31442,7 +31431,7 @@ please choose another one.</source>
     </message>
     <message>
         <source>Normal</source>
-        <translation>רגיל</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Darken</source>
@@ -31494,11 +31483,11 @@ please choose another one.</source>
     </message>
     <message>
         <source>Saturation</source>
-        <translation>רוויה</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Color</source>
-        <translation>צבע</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Luminosity</source>
@@ -31538,7 +31527,7 @@ please choose another one.</source>
     </message>
     <message>
         <source>Properties...</source>
-        <translation>מאפיינים...</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Use inverted Pattern</source>
@@ -31549,7 +31538,7 @@ please choose another one.</source>
     <name>weldEditBase</name>
     <message>
         <source>Form</source>
-        <translation type="vanished">טופס</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Move weld Point</source>

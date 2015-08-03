@@ -190,11 +190,11 @@
     </message>
     <message>
         <source>Haiku Port:</source>
-        <translation type="unfinished"/>
+        <translation>Haiku Poort:</translation>
     </message>
     <message>
         <source>SVN Revision: %1</source>
-        <translation type="unfinished"/>
+        <translation>SVN Revisie: %1</translation>
     </message>
 </context>
 <context>
@@ -2472,19 +2472,19 @@ Configuration invalid</source>
     </message>
     <message>
         <source>EAN-13</source>
-        <translation type="unfinished"/>
+        <translation>EAN-13</translation>
     </message>
     <message>
         <source>EAN-8</source>
-        <translation type="unfinished"/>
+        <translation>EAN-8</translation>
     </message>
     <message>
         <source>UPC-A</source>
-        <translation type="unfinished"/>
+        <translation>UPC-A</translation>
     </message>
     <message>
         <source>UPC-E</source>
-        <translation type="unfinished"/>
+        <translation>UPC-E</translation>
     </message>
     <message>
         <source>EAN-5</source>
@@ -2520,7 +2520,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>ITF-14</source>
-        <translation type="unfinished"/>
+        <translation>ITF-14</translation>
     </message>
     <message>
         <source>Code 2 of 5</source>
@@ -2528,23 +2528,23 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Postnet</source>
-        <translation type="unfinished"/>
+        <translation>Postnet</translation>
     </message>
     <message>
         <source>Royal Mail</source>
-        <translation type="unfinished"/>
+        <translation>Royal Mail</translation>
     </message>
     <message>
         <source>MSI</source>
-        <translation type="unfinished"/>
+        <translation>MSI</translation>
     </message>
     <message>
         <source>Plessey</source>
-        <translation type="unfinished"/>
+        <translation>Plessey</translation>
     </message>
     <message>
         <source>QR Code</source>
-        <translation type="unfinished"/>
+        <translation>QR Code</translation>
     </message>
 </context>
 <context>
@@ -3169,11 +3169,11 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Lab</source>
-        <translation type="unfinished"/>
+        <translation>Lab</translation>
     </message>
     <message>
         <source>HLC</source>
-        <translation type="unfinished"/>
+        <translation>HLC</translation>
     </message>
     <message>
         <source>L:</source>
@@ -3200,23 +3200,23 @@ Please choose another one.</source>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Naam:</translation>
     </message>
     <message>
         <source>Color &amp;Model</source>
-        <translation type="unfinished"/>
+        <translation>Kleur&amp;model</translation>
     </message>
     <message>
         <source>Is Spot Color</source>
-        <translation type="unfinished"/>
+        <translation>Is Spot Kleur</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Annuleer</translation>
     </message>
     <message>
         <source>New</source>
@@ -3525,24 +3525,25 @@ Hoogte: %2</translation>
     </message>
     <message>
         <source>Go to Page %1</source>
-        <translation type="unfinished"/>
+        <translation>Ga naar Pagina %1</translation>
     </message>
     <message>
         <source>Go to URL %1</source>
-        <translation type="unfinished"/>
+        <translation>Ga naar URL %1</translation>
     </message>
     <message>
         <source>Go to Page %1 in File %2</source>
-        <translation type="unfinished"/>
+        <translation>Ga naar Pagina %1 in Bestand %2d</translation>
     </message>
     <message>
         <source>Page %1 does not exist!</source>
-        <translation type="unfinished"/>
+        <translation>Pagina %1 bestaat niet!</translation>
     </message>
     <message>
         <source>Link Target is Web URL.
 URL: %1</source>
-        <translation type="unfinished"/>
+        <translation>Link Doel is Web URL.
+URL: %1</translation>
     </message>
     <message>
         <source>Information</source>
@@ -9410,7 +9411,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">&amp;Naam:</translation>
     </message>
     <message>
         <source>New Master Page</source>

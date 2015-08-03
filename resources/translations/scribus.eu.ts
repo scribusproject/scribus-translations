@@ -158,7 +158,7 @@
     </message>
     <message>
         <source>Scribus Version</source>
-        <translation>Scribus bertsioa</translation>
+        <translation>Scribus bertsioa:</translation>
     </message>
     <message>
         <source>Check for Updates</source>
@@ -209,7 +209,7 @@
     </message>
     <message>
         <source>Enabled:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Gaituta:</translation>
     </message>
     <message>
         <source>Release Date:</source>
@@ -233,7 +233,7 @@
     </message>
     <message>
         <source>Scribus: About Plug-ins</source>
-        <translation>Scribus: Plugin-ei buruz</translation>
+        <translation>Scribus: Pluginei buruz</translation>
     </message>
 </context>
 <context>
@@ -340,7 +340,7 @@
     </message>
     <message>
         <source>&amp;Search/Replace...</source>
-        <translation>&amp;Bilatu/Ordeztu...</translation>
+        <translation>&amp;Bilatu eta ordeztu...</translation>
     </message>
     <message>
         <source>&amp;Master Pages...</source>
@@ -444,7 +444,7 @@
     </message>
     <message>
         <source>Raize to &amp;Top</source>
-        <translation type="unfinished"/>
+        <translation>Goratu g&amp;oraino</translation>
     </message>
     <message>
         <source>&amp;Lower</source>
@@ -452,7 +452,7 @@
     </message>
     <message>
         <source>&amp;Raize</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Goratu</translation>
     </message>
     <message>
         <source>&amp;Attributes...</source>
@@ -556,19 +556,19 @@
     </message>
     <message>
         <source>&amp;50%</source>
-        <translation>%&amp;50</translation>
+        <translation>% &amp;50</translation>
     </message>
     <message>
         <source>&amp;75%</source>
-        <translation>%&amp;75</translation>
+        <translation>% &amp;75</translation>
     </message>
     <message>
         <source>&amp;100%</source>
-        <translation>%&amp;100</translation>
+        <translation>% &amp;100</translation>
     </message>
     <message>
         <source>&amp;200%</source>
-        <translation>%&amp;200</translation>
+        <translation>% &amp;200</translation>
     </message>
     <message>
         <source>Show &amp;Margins</source>
@@ -632,7 +632,7 @@
     </message>
     <message>
         <source>Preflight &amp;Verifier</source>
-        <translation>&amp;Egiaztatzailea</translation>
+        <translation>&amp;Inprimatze aurreko egiaztatzailea</translation>
     </message>
     <message>
         <source>Symbols</source>
@@ -704,7 +704,7 @@
     </message>
     <message>
         <source>Toolti&amp;ps</source>
-        <translation>&amp;Argibidea</translation>
+        <translation>&amp;Argibideak</translation>
     </message>
     <message>
         <source>Scribus &amp;Manual...</source>
@@ -712,7 +712,7 @@
     </message>
     <message>
         <source>Non Breaking &amp;Space</source>
-        <translation>&amp;Zuriune zati ezina</translation>
+        <translation>Etenik gabeko &amp;zuriunea</translation>
     </message>
     <message>
         <source>Page &amp;Number</source>
@@ -804,15 +804,15 @@
     </message>
     <message>
         <source>Frame Break</source>
-        <translation>Markoa haustea</translation>
+        <translation>Marko-etena</translation>
     </message>
     <message>
         <source>Column Break</source>
-        <translation>Zutabe-jauzia</translation>
+        <translation>Zutabe-etena</translation>
     </message>
     <message>
         <source>Non Breaking Dash</source>
-        <translation>Marratxo zati ezina</translation>
+        <translation>Etenik gabeko mmarratxoa</translation>
     </message>
     <message>
         <source>Toggle Guides</source>
@@ -836,7 +836,7 @@
     </message>
     <message>
         <source>&amp;JavaScripts...</source>
-        <translation>&amp;JavaScript-ak...</translation>
+        <translation>&amp;JavaScript...</translation>
     </message>
     <message>
         <source>Convert to Master Page...</source>
@@ -1093,7 +1093,7 @@
     </message>
     <message>
         <source>&amp;400%</source>
-        <translation type="unfinished"/>
+        <translation>% &amp;400</translation>
     </message>
     <message>
         <source>Scribus Homepage</source>
@@ -1121,11 +1121,11 @@
     </message>
     <message>
         <source>&amp;About Plugins</source>
-        <translation>&amp;Plugin-ei buruz</translation>
+        <translation>&amp;Pluginei buruz</translation>
     </message>
     <message>
         <source>Insert Unicode Character Begin Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Txertatu hasiera-sekuentziako Unicode karakterea</translation>
     </message>
     <message>
         <source>Get Vector File...</source>
@@ -1133,7 +1133,7 @@
     </message>
     <message>
         <source>Advanced Select All...</source>
-        <translation type="unfinished"/>
+        <translation>Hautapen aurreratua...</translation>
     </message>
     <message>
         <source>Edit Source...</source>
@@ -1145,7 +1145,7 @@
     </message>
     <message>
         <source>Rulers Relative to Page</source>
-        <translation type="unfinished"/>
+        <translation>Orrialdearekiko erregela erlatiboak</translation>
     </message>
     <message>
         <source>Check for Updates</source>
@@ -1189,7 +1189,7 @@
     </message>
     <message>
         <source>&amp;Item</source>
-        <translation>E&amp;lementua</translation>
+        <translation>Ele&amp;mentua</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -1221,7 +1221,7 @@
     </message>
     <message>
         <source>E&amp;xtras</source>
-        <translation>&amp;Hainbat</translation>
+        <translation>E&amp;strak</translation>
     </message>
     <message>
         <source>Windows</source>
@@ -1241,7 +1241,7 @@
     </message>
     <message>
         <source>Plugin Menu Items</source>
-        <translation type="unfinished"/>
+        <translation>Plugin menuaren elementuak</translation>
     </message>
     <message>
         <source>Others</source>
@@ -1249,11 +1249,11 @@
     </message>
     <message>
         <source>Unicode Characters</source>
-        <translation type="unfinished"/>
+        <translation>Unicode karaktereak</translation>
     </message>
     <message>
         <source>Move/Resize Value Indicator</source>
-        <translation type="unfinished"/>
+        <translation>Mugitu/aldatu tamainaz balio-adierazlea</translation>
     </message>
     <message>
         <source>New &amp;from Template...</source>
@@ -1285,7 +1285,7 @@
     </message>
     <message>
         <source>Merge Cells</source>
-        <translation>Batu gelaxkak</translation>
+        <translation>Fusionatu gelaxkak</translation>
     </message>
     <message>
         <source>Split Cells...</source>
@@ -1461,7 +1461,7 @@
     </message>
     <message>
         <source>Edit text in the Story Editor</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Editatu testua artikulu-editorean</translation>
     </message>
     <message>
         <source>Eye Dropper</source>
@@ -1700,7 +1700,7 @@
     <name>AdjustCmsDialog</name>
     <message>
         <source>CMS Settings</source>
-        <translation type="unfinished"/>
+        <translation>CMS ezarpenak</translation>
     </message>
 </context>
 <context>
@@ -1715,11 +1715,11 @@
     </message>
     <message>
         <source>&amp;Relative To:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Erlatiboa honekiko:</translation>
     </message>
     <message>
         <source>&amp;Align Sides By:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Lerrokatu aldeak honen arabera:</translation>
     </message>
     <message>
         <source>...</source>
@@ -1743,7 +1743,7 @@
     </message>
     <message>
         <source>DockWidget</source>
-        <translation type="unfinished"/>
+        <translation>DockWidget</translation>
     </message>
 </context>
 <context>
@@ -1778,7 +1778,7 @@
     </message>
     <message>
         <source>&amp;Align Sides By:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Lerrokatu aldeak honen arabera:</translation>
     </message>
     <message>
         <source>Align bottoms</source>
@@ -1846,7 +1846,7 @@
     </message>
     <message>
         <source>When distributing by a set distance, reverse the direction of the distribution of items</source>
-        <translation type="unfinished"/>
+        <translation>Ezarritako distantzia baten arabera banatzean, alderantzikatu elementuen banaketaren norabidea</translation>
     </message>
     <message>
         <source>None Selected</source>
@@ -1926,11 +1926,11 @@
     </message>
     <message>
         <source>&lt;qt&gt;Align relative to the:&lt;ul&gt;&lt;li&gt;First selected item&lt;/li&gt;&lt;li&gt;Second Selected Item&lt;/li&gt;&lt;li&gt;The current page&lt;/li&gt;&lt;li&gt;The margins of the current page&lt;/li&gt;&lt;li&gt;A Guide&lt;/li&gt;&lt;li&gt;The selection&lt;/ul&gt;&lt;/qt&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;Lerrokatu honekiko erlatiboki:&lt;ul&gt;&lt;li&gt;Hautatutako lehen elementua&lt;/li&gt;&lt;li&gt;Hautatutako bigarren elementua&lt;/li&gt;&lt;li&gt;Uneko orrialdea&lt;/li&gt;&lt;li&gt;Uneko orrialdearen marjinak&lt;/li&gt;&lt;li&gt;Gida bat&lt;/li&gt;&lt;li&gt;Hautapena&lt;/ul&gt;&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>The location of the selected guide to align to</source>
-        <translation type="unfinished"/>
+        <translation>Lerrokatzea egiteko hautatu den gidaren kokapena</translation>
     </message>
     <message>
         <source>Move</source>
@@ -1942,7 +1942,7 @@
     </message>
     <message>
         <source>&lt;qt&gt;When aligning one side of an item do one of the following:&lt;ul&gt;&lt;li&gt;Always move the other side too (preserve existing width and height)&lt;/li&gt;&lt;li&gt;Keep the other side fixed (resize the item instead of moving it) whenever possible&lt;/li&gt;&lt;/ul&gt;&lt;/qt&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;Elementu baten alde bat lerrokatzean, egin hurrengoetako bat:&lt;ul&gt;&lt;li&gt;Mugitu beti beste aldea ere (mantendu hasierako zabalera eta altuera)&lt;/li&gt;&lt;li&gt;Mantendu beste aldea finko (haren tamaina aldatu, mugitu ordez), posible denean&lt;/li&gt;&lt;/ul&gt;&lt;/qt&gt;</translation>
     </message>
 </context>
 <context>
@@ -2216,11 +2216,11 @@
     </message>
     <message>
         <source>Adds support for spell-checking via Aspell. Languages can be chosen from among the installed Aspell dictionaries, and spell-checking can be done on the fly, or on selected text.</source>
-        <translation type="unfinished"/>
+        <translation>Ortografia-egiaztatzailea gehitzen du Aspell bidez. Instalatutako Aspell hiztegien araberako hizkuntzak hauta daitezke, eta ortografia dinamikoki egiazta daiteke, edo hautatutako testuaren gainean.</translation>
     </message>
     <message>
         <source>Aspell Plugin Error</source>
-        <translation type="unfinished"/>
+        <translation>Errorea Aspell pluginean</translation>
     </message>
 </context>
 <context>
@@ -2235,7 +2235,7 @@
     </message>
     <message>
         <source>The currently active dictionary. Scribus uses Aspell for dictionary support.&lt;br /&gt;If you require updated or more dictionaries, you should install them via your system&apos;s installation system or package manager.</source>
-        <translation type="unfinished"/>
+        <translation>Uneko hiztegi aktiboa. Scribus-ek Aspell darabil hiztegiak onartzeko&lt;br /&gt; Hiztegi gehiago edo hiztegi eguneratuak behar badituzu, sistemaren instalazioaren bidez edo pakete-kudeatzaile baten bidez instalatu beharko dizutu.</translation>
     </message>
     <message>
         <source>&amp;Add Word</source>
@@ -2255,7 +2255,7 @@
     </message>
     <message>
         <source>Replacement text for the current word that was not found in the dictionary</source>
-        <translation type="unfinished"/>
+        <translation>Hiztegian aurkitu ez den uneko hitzaren ordezko testua</translation>
     </message>
     <message>
         <source>Active Dictionary: </source>
@@ -2279,15 +2279,15 @@
     </message>
     <message>
         <source>Add the current word to the your personal spelling dictionary for future use</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu uneko hitza zure ortografia-hiztegiari, etorkizunean erabili ahal izateko.</translation>
     </message>
     <message>
         <source>Change the current word that was not found to that shown in the replacement entry field</source>
-        <translation type="unfinished"/>
+        <translation>Aldatu aurkitu ez den uneko hitza ordezkoen sarrera-eremuan agertu den hitzarekin</translation>
     </message>
     <message>
         <source>Change all occurrences of the current word in the text that was not found to that shown in the replacement entry field</source>
-        <translation type="unfinished"/>
+        <translation>Aldatu aurkitu ez den uneko hitzaren gertaldi guztiak ordezkoen sarrera-eremuan agertu den hitzarekin</translation>
     </message>
     <message>
         <source>Change A&amp;ll</source>
@@ -2310,15 +2310,15 @@
     </message>
     <message>
         <source>AspellPluginImpl::on_fskipAllBtn_clicked(): Unable to skip all instances of &quot;</source>
-        <translation type="unfinished"/>
+        <translation>AspellPluginImpl::on_fskipAllBtn_clicked(): Ezin dira saltatu honen instantzia guztiak: &quot;</translation>
     </message>
     <message>
         <source> by adding it to the session list.</source>
-        <translation type="unfinished"/>
+        <translation>hura saio-zerrendara gehituz.</translation>
     </message>
     <message>
         <source>AspellPluginImpl::on_faddWordBtn_clicked(): Unable to add word to personal list.</source>
-        <translation type="unfinished"/>
+        <translation>AspellPluginImpl::on_faddWordBtn_clicked(): Ezin izan da hitza gehitu zerrenda pertsonalera.</translation>
     </message>
     <message>
         <source>Spelling check complete</source>
@@ -2338,20 +2338,21 @@
     </message>
     <message>
         <source>Do you want start from the beginning of the selection with new language selected?</source>
-        <translation type="unfinished"/>
+        <translation>Hautapenaren hasieratik hasi nahi duzu hizkuntza berria hautatuta?</translation>
     </message>
     <message>
         <source>Spell Checker Plugin Failed to Initialize.
 Configuration invalid</source>
-        <translation type="unfinished"/>
+        <translation>Ortografia-egiaztatzailearen plugina ezin izan da hasieratu.
+Konfigurazio baliogabea</translation>
     </message>
     <message>
         <source>Spell Checker Plugin Failed to Initialize.</source>
-        <translation type="unfinished"/>
+        <translation>Ortografia-egiaztatzailearen plugina ezin izan da hasieratu</translation>
     </message>
     <message>
         <source>No Aspell dictionaries could be found.</source>
-        <translation type="unfinished"/>
+        <translation>Ez da Aspell hiztegirik aurkitu.</translation>
     </message>
 </context>
 <context>
@@ -2381,7 +2382,7 @@ Configuration invalid</source>
     <name>Barcode</name>
     <message>
         <source>Scribus frontend for Pure PostScript Barcode Writer</source>
-        <translation type="unfinished"/>
+        <translation>Scribus interfazea Pure PostScript Barcode Writer-erako</translation>
     </message>
     <message>
         <source>Barcode</source>
@@ -2460,7 +2461,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>12 or 13 digits with dashes. The legacy ISBN-10 format accepts 9 or 10 digits with dashes, but this standard was depreciated for public use after 1st January 2007. (Note: To convert an old ISBN-10 to a new ISBN-13, prefix 978- to the first 9 digits, e.g. 1-56592-479-7 -&gt; 978-1-56592-479. The final check-digit will be calculated automatically.)</source>
-        <translation type="unfinished"/>
+        <translation>12 edo 13 digitu, marratxoak barne. Bertsio zaharreko ISBN-10 formatuak 9 edo 10 digitu onartzen ditu, marratxoak barne, baina estandar hori baztertu egin zen erabilera publikorako 2007ko urtarrilaren 1ean. (Oharra: ISBN-10 zahar bat ISBN-13 berrira aldatzeko, jarri 978-aurrizki modura lehen 9 digituei, adib.  1-56592-479-7 -&gt; 978-1-56592-479. Azken kontrol-digitua automatikoki kalkulatuko da.)</translation>
     </message>
     <message>
         <source>Select Type</source>
@@ -2512,11 +2513,11 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Rationalized Codabar</source>
-        <translation type="unfinished"/>
+        <translation>Rationalized Codabar</translation>
     </message>
     <message>
         <source>Interleaved 2 of 5</source>
-        <translation type="unfinished"/>
+        <translation>2. tartekatua 5etik</translation>
     </message>
     <message>
         <source>ITF-14</source>
@@ -2524,7 +2525,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Code 2 of 5</source>
-        <translation type="unfinished"/>
+        <translation>2. kodea 5etik</translation>
     </message>
     <message>
         <source>Postnet</source>
@@ -2623,7 +2624,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Hints and help is shown here</source>
-        <translation>Argibideak eta laguntze erakusten dira</translation>
+        <translation>Argibideak eta laguntza erakusten dira</translation>
     </message>
     <message>
         <source>Co&amp;de:</source>
@@ -2655,19 +2656,19 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Incl&amp;ude Checksum Digit</source>
-        <translation type="unfinished"/>
+        <translation>Sartu &amp;kontroleko batura</translation>
     </message>
     <message>
         <source>I&amp;nclude Checksum</source>
-        <translation type="unfinished"/>
+        <translation>Sartu k&amp;ontroleko batura</translation>
     </message>
     <message>
         <source>&amp;Guard Whitespace</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Babestu zuriunea</translation>
     </message>
     <message>
         <source>&amp;Include Text in Barcode</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sartu testua kode-barran</translation>
     </message>
     <message>
         <source>Options</source>
@@ -2679,7 +2680,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Error &amp;checking:</source>
-        <translation type="unfinished"/>
+        <translation>Errore-e&amp;giaztatzea:</translation>
     </message>
     <message>
         <source>Minimum error checking; raized opportunistically if size of symbol is not increased</source>
@@ -2895,7 +2896,7 @@ Configuration invalid</source>
     <name>CMSPrefs</name>
     <message>
         <source>Monitor profiles can only be changed when no documents are currently opened.</source>
-        <translation type="unfinished"/>
+        <translation>Monitore-profilak dokumentuak irekita ez daudenean soilik alda daitezke.</translation>
     </message>
     <message>
         <source>Perceptual</source>
@@ -2975,7 +2976,9 @@ Configuration invalid</source>
     <message>
         <source>Color profile that you have generated or received from the manufacturer.
 This profile should be specific to your monitor and not a generic profile (i.e. sRGB).</source>
-        <translation type="unfinished"/>
+        <translation>Zuk sortutako edo hornitzailetik jasotako kolore-profila. 
+Profil hau zure monitorearentzako espezifikoa izan beharko litzateke, 
+eta ez profil orokorra (adib. sRGB).</translation>
     </message>
     <message>
         <source>P&amp;rinter:</source>
@@ -2988,7 +2991,8 @@ This profile should be specific to your monitor and not a generic profile (i.e. 
     <message>
         <source>Color profile for your printer model from the manufacturer.
 This profile should be specific to your printer and not a generic profile (i.e. sRGB).</source>
-        <translation type="unfinished"/>
+        <translation>Zure inprimagailuaren fabrikatzaileak inprimagailu mota horretarako ezarri duen kolore-profila.
+Profil hori inprimagailurako espezifikoa da eta ez profil generiko bat (adib. sRGB).</translation>
     </message>
     <message>
         <source>Images:</source>
@@ -2997,7 +3001,8 @@ This profile should be specific to your printer and not a generic profile (i.e. 
     <message>
         <source>Default rendering intent for images. Unless you know why to change it,
 Relative Colorimetric or Perceptual should be chosen.</source>
-        <translation type="unfinished"/>
+        <translation>Errendatze-saiakera lehenetsia irudietarako. Nola aldatu ez badakizu,
+aukeratu &apos;Koloremetria erlatiboa&apos; edo &apos;Pertzepziozkoa&apos;.</translation>
     </message>
     <message>
         <source>Sol&amp;id Colors:</source>
@@ -3006,43 +3011,48 @@ Relative Colorimetric or Perceptual should be chosen.</source>
     <message>
         <source>Default rendering intent for solid colors. Unless you know why to change it,
 Relative Colorimetric or Perceptual should be chosen.</source>
-        <translation type="unfinished"/>
+        <translation>Errendatze-saiakera lehenetsia kolore solidoetarako. Nola aldatu ez badakizu,
+aukeratu &apos;Koloremetria erlatiboa&apos; edo &apos;Pertzepziozkoa&apos;.</translation>
     </message>
     <message>
         <source>Enable 'soft proofing' of how your document colors will print,
 based on the chosen printer profile.</source>
-        <translation type="unfinished"/>
+        <translation>Gaitu zure dokumentuaren koloreak nola inprimatuko diren erakusten duen
+&apos;probatze biguna&apos;, hautatutako inprimagailu-profilean oinarrituta.</translation>
     </message>
     <message>
         <source>Simulate a full color managed environment :
 all colors, rgb or cmyk, are converted to printer color space.</source>
-        <translation type="unfinished"/>
+        <translation>Simulatu kolorea osorik kudeatutako ingurunea:
+kolore guztiak, RGB edo CMYK, inprimagailuaren kolore-espaziora bihurtzen dira.</translation>
     </message>
     <message>
         <source>Convert all colors to printer space</source>
-        <translation type="unfinished"/>
+        <translation>Bihurtu kolore guztiak inprimagailu-espaziora</translation>
     </message>
     <message>
         <source>Method of showing colors on the screen which may not print properly.
 This requires very accurate profiles and serves only as a warning.</source>
-        <translation type="unfinished"/>
+        <translation>Pantailako koloreak erakusteko metodoa, inprimatzeko desegokia izan daitekeena.
+Profil oso zehatzak behar ditu eta abisu modura soilik balio du.</translation>
     </message>
     <message>
         <source>Mark Colors out of &amp;Gamut</source>
-        <translation type="unfinished"/>
+        <translation>Markatu &amp;gamaz kanpo dauden koloreak</translation>
     </message>
     <message>
         <source>Black Point Compensation is a method of improving contrast in photos.
 It is recommended that you enable this if you have photos in your document.</source>
-        <translation type="unfinished"/>
+        <translation>Puntu beltzaren konpentsazioa argazkien kontrastea hobetzeko metodo bat da.
+Aukera hau gaitzea gomendatzen da zure dokumentuan argazkiak badituzu.</translation>
     </message>
     <message>
         <source>Document Rendering Intents</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentua errendatzeko saiakerak</translation>
     </message>
     <message>
         <source>Use &amp;Blackpoint Compensation</source>
-        <translation type="unfinished"/>
+        <translation>Erabili puntu &amp;beltzaren konpentsazioa</translation>
     </message>
 </context>
 <context>
@@ -3053,11 +3063,11 @@ It is recommended that you enable this if you have photos in your document.</sou
     </message>
     <message>
         <source>CMYK</source>
-        <translation>CMHB</translation>
+        <translation>CMYK</translation>
     </message>
     <message>
         <source>RGB</source>
-        <translation>GBU</translation>
+        <translation>RGB</translation>
     </message>
     <message>
         <source>Web Safe RGB</source>
@@ -3121,7 +3131,7 @@ It is recommended that you enable this if you have photos in your document.</sou
     </message>
     <message>
         <source>Is Spot Color</source>
-        <translation type="vanished">Laguntzako kolorea</translation>
+        <translation type="vanished">Kolore zuzena da</translation>
     </message>
     <message>
         <source>You cannot create a color named &quot;%1&quot;.
@@ -3131,15 +3141,15 @@ It is a reserved name for transparent color</translation>
     </message>
     <message>
         <source>Choosing this will make this color a spot color, thus creating another spot when creating plates or separations. This is used most often when a logo or other color needs exact representation or cannot be replicated with CMYK inks. Metallic and fluorescent inks are good examples which cannot be easily replicated with CMYK inks.</source>
-        <translation type="unfinished"/>
+        <translation>Hau hautatuz, kolorea kolore zuzen bihurtuko du, plakak edo banaketak sortzean kolore zuzen bat sortuz. Sarritan aukera hau erabiltzen da logo batek edo beste kolore batek ordezkapen zehatza, CMYK tinten bidez sortu ezin dena, behar duenean. Tinta metaliko eta fluoreszenteak, sidbidez, ezin dira erraz sortu CMYK tinten nahasketekin.</translation>
     </message>
     <message>
         <source>If color management is enabled, a triangle warning indicator is a warning that the color maybe outside of the color gamut of the current printer profile selected. What this means is the color may not print exactly as indicated on screen. More hints about gamut warnings are in the online help under Color Management.</source>
-        <translation type="unfinished"/>
+        <translation>Kolore-kudeaketa gaituta badago, triangelu itxurako abisu-adierazle batek zera adierazten du, hautatutako uneko inprimagailu-profilean kolorea beharbada gamaz kanpo dagoela. Horrek esan nahi du kolorea ez dela pantailan agertzen den bezala inprimatuko. Gama-abisu horiei buruzko informazio gehiago, lineako laguntzan, &quot;Kolore-kudeaketa&quot; atalean.</translation>
     </message>
     <message>
         <source>HSV Color Map</source>
-        <translation type="unfinished"/>
+        <translation>HSV kolore-mapa</translation>
     </message>
     <message>
         <source>Scribus Swatches</source>
@@ -3152,95 +3162,97 @@ It is a reserved name for transparent color</translation>
     <message>
         <source>You cannot create a color without a name.
 Please give it a name</source>
-        <translation type="unfinished"/>
+        <translation>Ezin duzu izenik gabeko kolorerik sortu.
+Eman izen bat.</translation>
     </message>
     <message>
         <source>The name of the color already exists.
 Please choose another one.</source>
-        <translation type="unfinished"/>
+        <translation>Kolorearen izena badago lehendik ere.
+Hautatu beste izen bat.</translation>
     </message>
     <message>
         <source>Lab</source>
-        <translation type="unfinished"/>
+        <translation>Lab</translation>
     </message>
     <message>
         <source>HLC</source>
-        <translation type="unfinished"/>
+        <translation>HLC</translation>
     </message>
     <message>
         <source>L:</source>
-        <translation type="unfinished"/>
+        <translation>L:</translation>
     </message>
     <message>
         <source>a:</source>
-        <translation type="unfinished"/>
+        <translation>a:</translation>
     </message>
     <message>
         <source>b:</source>
-        <translation type="unfinished"/>
+        <translation>b:</translation>
     </message>
     <message>
         <source>H:</source>
-        <translation type="unfinished"/>
+        <translation>H:</translation>
     </message>
 </context>
 <context>
     <name>CMYKChooseBase</name>
     <message>
         <source>Edit Color</source>
-        <translation type="unfinished"/>
+        <translation>Editatu kolorea</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Izena:</translation>
     </message>
     <message>
         <source>Color &amp;Model</source>
-        <translation type="unfinished"/>
+        <translation>Kolore-&amp;eredua:</translation>
     </message>
     <message>
         <source>Is Spot Color</source>
-        <translation type="unfinished"/>
+        <translation>Kolore zuzena da</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Ados</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Utzi</translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"/>
+        <translation>Berria</translation>
     </message>
     <message>
         <source>Old</source>
-        <translation type="unfinished"/>
+        <translation>Zaharra</translation>
     </message>
     <message>
         <source>C:</source>
-        <translation type="unfinished"/>
+        <translation>C:</translation>
     </message>
     <message>
         <source> %</source>
-        <translation type="unfinished"/>
+        <translation>%</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"/>
+        <translation>...</translation>
     </message>
     <message>
         <source>M:</source>
-        <translation type="unfinished"/>
+        <translation>M:</translation>
     </message>
     <message>
         <source>Y:</source>
-        <translation type="unfinished"/>
+        <translation>Y:</translation>
     </message>
     <message>
         <source>K:</source>
-        <translation type="unfinished"/>
+        <translation>K:</translation>
     </message>
 </context>
 <context>
@@ -3255,15 +3267,15 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Color %1 exists already!</source>
-        <translation type="unfinished"/>
+        <translation>%1 kolorea badago lehendik ere!</translation>
     </message>
     <message>
         <source>Color %1 appended.</source>
-        <translation type="unfinished"/>
+        <translation>%1 kolorea erantsi da.</translation>
     </message>
     <message>
         <source>Now opening the color manager.</source>
-        <translation type="unfinished"/>
+        <translation>Kolore-kudeatzailea irekitzen.</translation>
     </message>
     <message>
         <source>Color Merging</source>
@@ -3271,7 +3283,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Unable to find the requested color. You have probably selected black, gray or white. There is no way to process this color.</source>
-        <translation type="unfinished"/>
+        <translation>Ezin izan da aurkitu hautatutako kolorea. Ziur aski beltza, grisa edo zuria aukeratu duzu. Ez dago kolore hau prozesatzeko modurik.</translation>
     </message>
     <message>
         <source>Color Wheel</source>
@@ -3279,31 +3291,31 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Click the wheel to get the base color. Its color model depends on the chosen tab.</source>
-        <translation type="unfinished"/>
+        <translation>Klik gurpilean oinarri-kolorea atzitzeko. Haren kolore-eredua hautatutako fitxaren araberakoa da.</translation>
     </message>
     <message>
         <source>Result Colors</source>
-        <translation type="unfinished"/>
+        <translation>Emaitza-koloreak</translation>
     </message>
     <message>
         <source>CMYK</source>
-        <translation>CMHB</translation>
+        <translation>CMYK</translation>
     </message>
     <message>
         <source>RGB</source>
-        <translation>GBU</translation>
+        <translation>RGB</translation>
     </message>
     <message>
         <source>HSV</source>
-        <translation type="unfinished"/>
+        <translation>HSV</translation>
     </message>
     <message>
         <source>Colors of your chosen color scheme.</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu duzun kolore-eskemaren koloreak.</translation>
     </message>
     <message>
         <source>Color Scheme Method</source>
-        <translation type="unfinished"/>
+        <translation>Kolore-eskemaren metodoa</translation>
     </message>
     <message>
         <source>Angle:</source>
@@ -3311,19 +3323,19 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Difference between the selected value and the counted ones. Refer to documentation for more information.</source>
-        <translation type="unfinished"/>
+        <translation>Hautatutako balioaren eta zenbatutako balioen arteko diferentzia. Begiratu dokumentazioa informazio gehiagorako.</translation>
     </message>
     <message>
         <source>Select one of the methods to create a color scheme. Refer to documentation for more information.</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu metodoetako bat kolore-eskema sortzeko. Begiratu dokumentazioa informazio gehiagorako.</translation>
     </message>
     <message>
         <source>Merge created colors into the document colors</source>
-        <translation type="unfinished"/>
+        <translation>Fusionatu sortutako koloreak dokumentuaren koloreekin</translation>
     </message>
     <message>
         <source>&amp;Merge</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Fusionatu</translation>
     </message>
     <message>
         <source>Alt+M</source>
@@ -3331,7 +3343,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Replace created colors in the document colors</source>
-        <translation type="unfinished"/>
+        <translation>Ordeztu sortutako koloreak dokumentuaren koloreetan</translation>
     </message>
     <message>
         <source>&amp;Replace</source>
@@ -3359,15 +3371,15 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Sample color scheme.</source>
-        <translation type="unfinished"/>
+        <translation>Adibideko kolore-eskema.</translation>
     </message>
     <message>
         <source>Simulate common vision defects here. Select type of the defect.</source>
-        <translation type="unfinished"/>
+        <translation>Simulatu ikusmenaren arazo arruntak hemen. Hautatu arazo mota. </translation>
     </message>
     <message>
         <source>Vision Defect Type:</source>
-        <translation type="unfinished"/>
+        <translation>Ikusmen-arazoaren mota:</translation>
     </message>
     <message>
         <source>C:</source>
@@ -3383,11 +3395,11 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Y:</source>
-        <translation>H:</translation>
+        <translation>Y:</translation>
     </message>
     <message>
         <source>K:</source>
-        <translation>B:</translation>
+        <translation>K:</translation>
     </message>
     <message>
         <source>RGB:</source>
@@ -3399,15 +3411,15 @@ Please choose another one.</source>
     </message>
     <message>
         <source>R:</source>
-        <translation>G:</translation>
+        <translation>R:</translation>
     </message>
     <message>
         <source>G:</source>
-        <translation>B:</translation>
+        <translation>G:</translation>
     </message>
     <message>
         <source>B:</source>
-        <translation>U:</translation>
+        <translation>B:</translation>
     </message>
     <message>
         <source>CMYK:</source>
@@ -3467,7 +3479,7 @@ Altuera: %2</translation>
     <name>CanvasMode_EyeDropper</name>
     <message>
         <source>The selected color does not exist in the document&apos;s color set. Please enter a name for this new color.</source>
-        <translation type="unfinished"/>
+        <translation>Hautatutako kolorea ez dago dokumentuaren kolore multzoan. Sartu izen bat kolore berri horretarako</translation>
     </message>
     <message>
         <source>Color Not Found</source>
@@ -3494,15 +3506,15 @@ Altuera: %2</translation>
     </message>
     <message>
         <source>You are trying to insert a frame into an existing text chain, where would you like to insert it?</source>
-        <translation type="unfinished"/>
+        <translation>Marko bat lehendik dagoen testu-kate batean txertatzen saiatzen ari zara, non txertatu nahi duzu?</translation>
     </message>
     <message>
         <source>You are trying to link a frame to itself.</source>
-        <translation type="unfinished"/>
+        <translation>Marko bat bere buruarekin estekatzen saiatzen ari zara.</translation>
     </message>
     <message>
         <source>You are trying to link a non-empty frame to frame which is already linked.</source>
-        <translation type="unfinished"/>
+        <translation>Hutsik ez dagoen marko bat jadanik estekatuta dagoen marko batekin estekatzen saiatzen ari zara.</translation>
     </message>
 </context>
 <context>
@@ -3517,24 +3529,25 @@ Altuera: %2</translation>
     </message>
     <message>
         <source>Go to Page %1</source>
-        <translation type="unfinished"/>
+        <translation>Joan %1 orrialdera</translation>
     </message>
     <message>
         <source>Go to URL %1</source>
-        <translation type="unfinished"/>
+        <translation>Joan %1 URLra</translation>
     </message>
     <message>
         <source>Go to Page %1 in File %2</source>
-        <translation type="unfinished"/>
+        <translation>Joan %2 fitxategiko %1 orrialdera</translation>
     </message>
     <message>
         <source>Page %1 does not exist!</source>
-        <translation type="unfinished"/>
+        <translation>%1 orrialdea ez da existitzen!</translation>
     </message>
     <message>
         <source>Link Target is Web URL.
 URL: %1</source>
-        <translation type="unfinished"/>
+        <translation>Estekaren helburua sareko URL bat da.
+URLa: %1</translation>
     </message>
     <message>
         <source>Information</source>
@@ -3544,11 +3557,13 @@ URL: %1</source>
         <source>Link Target is external File.
 File: %1
 Page: %2</source>
-        <translation type="unfinished"/>
+        <translation>Estekaren helburua kanpoko fitxategi bat da.
+Fitxategia: %1
+Orrialdea: %2</translation>
     </message>
     <message>
         <source>Overflow Characters: %1 (%2 White Spaces)</source>
-        <translation type="unfinished"/>
+        <translation>Gainezkatze-karaktereak: %1 (%2 zuriune)</translation>
     </message>
 </context>
 <context>
@@ -3566,7 +3581,10 @@ Page: %2</source>
 
 Please submit your file (if possible) to the
 Document Liberation Project http://www.documentliberation.org</source>
-        <translation type="unfinished"/>
+        <translation>Analisiak huts egin du!
+
+Mesedez bidali zure fitxategia (posible bada)
+Document Liberation Project-era http://www.documentliberation.org</translation>
     </message>
 </context>
 <context>
@@ -3595,11 +3613,11 @@ Document Liberation Project http://www.documentliberation.org</source>
     <name>CharSelect</name>
     <message>
         <source>Scribus Char Palette (*.ucp);;All Files (*)</source>
-        <translation type="unfinished"/>
+        <translation>Scribus Char Palette (*.ucp);;Fitxagegi guztiak (*)</translation>
     </message>
     <message>
         <source>Choose a filename to open</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu irekiko den fitxategiaren izena</translation>
     </message>
     <message>
         <source>Error</source>
@@ -3607,11 +3625,11 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Error reading file %1 - file is corrupted propably.</source>
-        <translation type="unfinished"/>
+        <translation>Errorea %1 fitxategia irakurtzean - ziur aski fitxategia hondatuta dago.</translation>
     </message>
     <message>
         <source>Cannot write file %1</source>
-        <translation type="unfinished"/>
+        <translation>Ezin da %1 fitxategian idatzi</translation>
     </message>
     <message>
         <source>Character Palette</source>
@@ -3627,11 +3645,11 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Hide/Show Enhanced Palette</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Ezkutatu/erakutsi paleta hobetua</translation>
     </message>
     <message>
         <source>Save Quick Character Palette</source>
-        <translation type="unfinished"/>
+        <translation>Gorde karakte-paleta azkarra</translation>
     </message>
     <message>
         <source>Show/Hide Enhanced Palette</source>
@@ -3658,31 +3676,31 @@ Document Liberation Project http://www.documentliberation.org</source>
     <name>CharSelectEnhanced</name>
     <message>
         <source>Full Character Set</source>
-        <translation type="unfinished"/>
+        <translation>Karaktere multzo osoa</translation>
     </message>
     <message>
         <source>Basic Latin</source>
-        <translation type="unfinished"/>
+        <translation>Oinarrizko latina</translation>
     </message>
     <message>
         <source>Latin-1 Supplement</source>
-        <translation type="unfinished"/>
+        <translation>Latina-1 osagarria</translation>
     </message>
     <message>
         <source>Latin Extended-A</source>
-        <translation type="unfinished"/>
+        <translation>Latin hedatua-A</translation>
     </message>
     <message>
         <source>Latin Extended-B</source>
-        <translation type="unfinished"/>
+        <translation>Latin hedatua-B</translation>
     </message>
     <message>
         <source>General Punctuation</source>
-        <translation type="unfinished"/>
+        <translation>Puntuazio orokorra</translation>
     </message>
     <message>
         <source>Super- and Subscripts</source>
-        <translation type="unfinished"/>
+        <translation>Goi- eta azpi-indizeak</translation>
     </message>
     <message>
         <source>Currency Symbols</source>
@@ -3690,11 +3708,11 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Letterlike Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Letra-tankerako ikurrak</translation>
     </message>
     <message>
         <source>Number Forms</source>
-        <translation type="unfinished"/>
+        <translation>Zenbaki-formak</translation>
     </message>
     <message>
         <source>Arrows</source>
@@ -3702,35 +3720,35 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Mathematical Operators</source>
-        <translation type="unfinished"/>
+        <translation>Eragile matematikoak</translation>
     </message>
     <message>
         <source>Box Drawing</source>
-        <translation type="unfinished"/>
+        <translation>Box Drawing</translation>
     </message>
     <message>
         <source>Block Elements</source>
-        <translation type="unfinished"/>
+        <translation>Blokeatu elementuak</translation>
     </message>
     <message>
         <source>Geometric Shapes</source>
-        <translation type="unfinished"/>
+        <translation>Forma geometrikoak</translation>
     </message>
     <message>
         <source>Miscellaneous Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Hainbat ikur</translation>
     </message>
     <message>
         <source>Dingbats</source>
-        <translation type="unfinished"/>
+        <translation>Dingbats</translation>
     </message>
     <message>
         <source>Small Form Variants</source>
-        <translation type="unfinished"/>
+        <translation>Forma txikiko aldaerak</translation>
     </message>
     <message>
         <source>Ligatures</source>
-        <translation type="unfinished"/>
+        <translation>Lokailuak</translation>
     </message>
     <message>
         <source>Specials</source>
@@ -3742,15 +3760,15 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Greek Extended</source>
-        <translation type="unfinished"/>
+        <translation>Greziera hedatua</translation>
     </message>
     <message>
         <source>Cyrillic</source>
-        <translation type="unfinished"/>
+        <translation>Zirilikoa</translation>
     </message>
     <message>
         <source>Cyrillic Supplement</source>
-        <translation type="unfinished"/>
+        <translation>Ziriliko osagarria</translation>
     </message>
     <message>
         <source>Arabic</source>
@@ -3758,15 +3776,15 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Arabic Extended A</source>
-        <translation type="unfinished"/>
+        <translation>Arabiera hedatua A</translation>
     </message>
     <message>
         <source>Arabic Extended B</source>
-        <translation type="unfinished"/>
+        <translation>Arabiera hedatua B</translation>
     </message>
     <message>
         <source>Hebrew</source>
-        <translation type="unfinished"/>
+        <translation>Hebreera</translation>
     </message>
     <message>
         <source>Enhanced Character Palette</source>
@@ -3783,7 +3801,8 @@ Document Liberation Project http://www.documentliberation.org</source>
     <message>
         <source>You can see a thumbnail if you press and hold down the right mouse button.
 The Insert key inserts a Glyph into the Selection below and the Delete key removes the last inserted one</source>
-        <translation type="unfinished"/>
+        <translation>Miniatura bat ikus dezakezu saguaren eskuin botoia sakatuta mantentzen baduzu.
+Insert teklak glifo bat txertatzen du beheko hautapenean, eta Supr teklak txertatutako azkena kentzen du</translation>
     </message>
     <message>
         <source>Insert &amp;Code:</source>
@@ -3795,7 +3814,7 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     </message>
     <message>
         <source>Insert the characters at the cursor in the text</source>
-        <translation type="unfinished"/>
+        <translation>Txertatu karaktereak testuan, kurtsorearen posizioan</translation>
     </message>
     <message>
         <source>&amp;Insert</source>
@@ -3811,7 +3830,7 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     </message>
     <message>
         <source>Type in a four digit Unicode value directly here</source>
-        <translation type="unfinished"/>
+        <translation>Idatzi lau digituko Unicode balio bat zuzenean hemen</translation>
     </message>
 </context>
 <context>
@@ -3876,7 +3895,7 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     </message>
     <message>
         <source>Preflight Verifier</source>
-        <translation>Egiaztatzailea</translation>
+        <translation>Inprimatze aurreko egiaztatzailea</translation>
     </message>
     <message>
         <source>Items</source>
@@ -3908,31 +3927,31 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     </message>
     <message>
         <source>Transparency used</source>
-        <translation type="unfinished"/>
+        <translation>Gardentasuna erabili da</translation>
     </message>
     <message>
         <source>Blendmode used</source>
-        <translation type="unfinished"/>
+        <translation>Nahaste-modua erabili da</translation>
     </message>
     <message>
         <source>Layer &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; geruza</translation>
     </message>
     <message>
         <source>Annotation uses a non TrueType font</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Oharpenak TrueType ez den letra-tipoa darabil</translation>
     </message>
     <message>
         <source>Preflight profile to base the report generation on. Options can be set in Document Setup or Preferences</source>
-        <translation type="unfinished"/>
+        <translation>Txostena sortzeko erabiliko den inprimatze aurreko egiaztatze-profila. Aukerak dokumentuaren-konfigurazioan edo hobespenetan ezar daitezke.</translation>
     </message>
     <message>
         <source>Ignore found errors and continue to export or print. Be sure to understand the errors you are ignoring before continuing.</source>
-        <translation type="unfinished"/>
+        <translation>Ez ikusi aurkitutako erroreak eta jarraitu esportatzen edo inprimatzen. Jarraitu baino lehen, ziurtatu ez ikusten ari zaren erroreak ulertu dituzula.</translation>
     </message>
     <message>
         <source>Rerun the document scan to check corrections you may have made</source>
-        <translation type="unfinished"/>
+        <translation>Berriro exekutatu dokumentuaren eskaneatzea, egin dituzun zuzenketak egiaztatzeko</translation>
     </message>
     <message>
         <source>Empty Image Frame</source>
@@ -3944,7 +3963,7 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     </message>
     <message>
         <source>Print/Visible Mismatch</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Inprimatzen dena eta ikusten dena ez datoz bat</translation>
     </message>
     <message>
         <source>Master Pages</source>
@@ -3957,12 +3976,14 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     <message>
         <source>Image resolution below %1 DPI,
 currently %2 x %3 DPI</source>
-        <translation type="unfinished"/>
+        <translation>Irudiaren bereizmena %1 DPI azpitik,
+unekoa %2 x %3 DPI</translation>
     </message>
     <message>
         <source>Image resolution above %1 DPI,
 currently %2 x %3 DPI</source>
-        <translation type="unfinished"/>
+        <translation>Irudiaren bereizmena %1 DPI azpitik,
+unekoa %2 x %3 DPI</translation>
     </message>
     <message>
         <source>Image dimension is smaller than its frame</source>
@@ -3970,19 +3991,19 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>After Marks update document was changed</source>
-        <translation type="unfinished"/>
+        <translation>Markak eguneratu ondoren dokumentua aldatu egin da</translation>
     </message>
     <message>
         <source>Issues: %1</source>
-        <translation type="unfinished"/>
+        <translation>Arazoak: %1</translation>
     </message>
     <message>
         <source>Object colorspace is not CMYK or spot</source>
-        <translation type="unfinished"/>
+        <translation>Objektuaren kolore-espazioa ez da CMYK edo kolore zuzena</translation>
     </message>
     <message>
         <source>Applied master page has different page destination (left, middle, right side)</source>
-        <translation type="unfinished"/>
+        <translation>Aplikatutako orri maisuak helburuko orrialde desberdina du (ezkerreko, erdiko, eskuineko aldea) </translation>
     </message>
     <message>
         <source>Empty Text Frame</source>
@@ -3990,19 +4011,19 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Indicates that editorial changes have been made to a PDF are still present or your PDF contains unprintable annotation items. They may cause issues in professional printing. Also helpful reminder if you are wanting to publish a final draft without editorial relics.</source>
-        <translation type="unfinished"/>
+        <translation>PDF bati egindako aldaketa editorialak oraindik badaudela, edo zure PDFak inprimatu ezin diren oharpen-elementuak dituela adierazten du. Elementu horiek arazoak sor ditzakete inprimatze profesionalean. Bestalde, behin-betiko zirriborro bat aztarna editorialik gabe inprimatu nahi duzunerako gogoratze-abisua da.</translation>
     </message>
     <message>
         <source>Have you applied the correct Master Page?</source>
-        <translation type="unfinished"/>
+        <translation>Orri maisu zuzena aplikatu duzu?</translation>
     </message>
     <message>
         <source>If you have created an image frame, there is the presumption that you planned to put an image in it.</source>
-        <translation type="unfinished"/>
+        <translation>Irudi-marko bat sortu baduzu, hartan irudi bat sartuko duzula espero da.</translation>
     </message>
     <message>
         <source>If you have created a text frame, there is the presumption that you planned to put text in it.</source>
-        <translation type="unfinished"/>
+        <translation>Testu-marko bat sortu baduzu, hartan testua sartuko duzula espero da.</translation>
     </message>
     <message>
         <source>Imported document contains non-embedded fonts</source>
@@ -4014,78 +4035,78 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>This is a user definable setting serving as a caution for high resolution images, which may lead to unnecessarily large files.</source>
-        <translation type="unfinished"/>
+        <translation>Erabiltzaileak ezar dezakeen ezarpen honek bereizmen handiko irudien kasurako abisua dira, beharrezkoak ez diren fitxategia handiekin kontuz ibiltzeko.</translation>
     </message>
     <message>
         <source>mage doesnt fit the whole space you reserved for it. Maybe this is intended, or maybe this is caused by bad inner placement or scale. The result will either be a cropped image or white space around the image.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Irudiak ez du betetzen harentzako utzi duzun espazio guztia. Beharbada nahita egindako zerbait da, edo beharbada kokapen edo eskala oker baten ondorio da. Emaitza moztutako irudi bat edo irudiaren inguruko espazio zuria izango da.</translation>
     </message>
     <message>
         <source>This warning alerts you that you are using a bitmap based graphic format that is typically not used for high resolution images (.gif is one of those). This may result in poor viewing quality (for example: when commercially printed, viewed on a high-resolution screens, etc...). If your PDF will be printed commercially, there are some printing systems that will have difficulty printing these types of images.</source>
-        <translation type="unfinished"/>
+        <translation>Abisu honek esaten dizu bereizmen handiko irudietan normalean erabiltzen ez den bitmap-oinarriko formatu grafiko bat erabiltzen ari zarela (.gif horietako bat da). Horrek bistaratze-kalitate urria eragin dezake (adibidez komertzialki inprimatu nahi denerako, edo bereizmen handiko pantailetan ikusi nahi denerako). Zure PDFa komertzialki inprimatuko bada, zenbait inprimatze-sistemek zailtasunak eduki ditzakete irudi mota horiek inprimatzeko.</translation>
     </message>
     <message>
         <source>This is a user definable setting serving as a caution for low resolution images, which may lead to poor quality output.</source>
-        <translation type="unfinished"/>
+        <translation>Erabiltzaileak definitu ahal duen ezarpen bat da hau, dokumentuaren kalitate baxua eragin dezaketen bereizmen txikiko irudiak saihesteko erabil daitekeena.</translation>
     </message>
     <message>
         <source>You have one or more characters which do not have a corresponding glyph in your chosen font.</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu duzun letra-tipoan gliforik ez du(t)en karaktere bat edo gehiago dituzu.</translation>
     </message>
     <message>
         <source>The assigned image file cannot be found.</source>
-        <translation type="unfinished"/>
+        <translation>Esleitutako irudi-fitxategia ezin da aurkitu.</translation>
     </message>
     <message>
         <source>An object is placed somewhere outside of the page borders, it will not be printed and might be missing somewhere.</source>
-        <translation type="unfinished"/>
+        <translation>Objektu bat orrialde-ertzetik kanpo kokatu da, ez da inprimatuko eta agian zerbait galtzen ari zara.</translation>
     </message>
     <message>
         <source>PDF supports many different ways to represent the color of any object including RGB, CMYK and Spot (aka Separation) colors. Some of the PDF standards, such as PDF/X-1a, require the only CMYK and Spot colors be used.</source>
-        <translation type="unfinished"/>
+        <translation>PDFak edozein objekturen koloreak ordezkatzeko hainbat modu ditu, besteak beste RGB, CMYK eta Spot koloreak (kolore zuzenak). PDF estandarretako batzuk, esaterako PDF/X-1a, CMYK eta Spot koloreak erabiltzera behartzen dute.</translation>
     </message>
     <message>
         <source>The warning is verifying for you that there is a PDF loaded into an Image Frame, where it will be rasterized or converted to a bitmap. Its resolution may be less than ideal. See PDF Export to learn how to minimize this problem.</source>
-        <translation type="unfinished"/>
+        <translation>Abisuak egiaztatzen du PDF bat kargatu dela irudi-marko batean eta rasterizatu egingo dela edo bitmap bihurtuko dela. Haren bereizmena txikiegia izan daiteke. Begiratu PDFen esportazioa arazo hori nola txikitzen den ikusteko.</translation>
     </message>
     <message>
         <source>There is more text than can show in the frame as sized. Nonvisible excess characters like spaces and carriage returns may trigger this if nothing appears to be missing.</source>
-        <translation type="unfinished"/>
+        <translation>Markoan oraingo tamainan erakutsi daitekeena baino testu gehiago dago. Ezer falta ez dela badirudi, ikusgai ez diren soberako karaktereak, esaterako zuriuneak eta orga-itzulerak, izan daitezke errudunak.</translation>
     </message>
     <message>
         <source>This warning indicates that your document contains images that have a transparent layer. This is really only an issue if using older printing profiles or PostScript. It is safe to ignore this when exporting to PDF version greater than 1.4.</source>
-        <translation type="unfinished"/>
+        <translation>Abisu honek adierazten du zure dokumentuak geruza garden bat duten irudiak dituela. Gehienetan hori ez da arazoa; soilik inprimatze-profil zaharrak edo PostScript erabiltzen direnean. Segurua da abisu hau ez ikustea PDF formatuaren 1.4 bertsioa baino handiagora esportatzen bada.</translation>
     </message>
     <message>
         <source>Annotation uses a non-TrueType font</source>
-        <translation type="unfinished"/>
+        <translation>Oharpenak TrueType ez den letra-tipoa darabil</translation>
     </message>
     <message>
         <source>Annotations support only a standard set of fonts. Choose another one.</source>
-        <translation type="unfinished"/>
+        <translation>Oharpenek letra-tipoen multzo estandar bat baino ez dute onartzen. Hautatu beste bat.</translation>
     </message>
     <message>
         <source>This layer uses transparency, only an issue if using older printing profiles. You may safely ignore this when using modern printing methods, or exporting to PDF version greater than 1.4.</source>
-        <translation type="unfinished"/>
+        <translation>Geruza honek gardentasuna darabil, eta arazoa izan daiteke inprimatze-profil zaharrak erabiltzen badira. Abisu hau ez ikus dezakezu inprimatze-metodo modernoak erabiltzen badituzu edo PDF formatuaren 1.4 bertsioa baino berriagoetara esportatzen baduzu.</translation>
     </message>
     <message>
         <source>This layer uses blendmodes which relies on transparency, only an issue if using older printing profiles. You may safely ignore this when using modern printing methods, or exporting to PDF version greater than 1.4.</source>
-        <translation type="unfinished"/>
+        <translation>Geruza honek gardentasunetan oinarritzen diren nahaste-moduak darabiltza, eta hori arazoa izan daiteke inprimatze-profil zaharrak erabiltzen badira. Abisu hau ez ikus dezakezu inprimatze-metodo modernoak erabiltzen badituzu edo PDF formatuaren 1.4 bertsioa baino berriagoetara esportatzen baduzu.</translation>
     </message>
     <message>
         <source>Print/Visible mismatch</source>
-        <translation type="unfinished"/>
+        <translation>Inprimatzen dena eta ikusten dena ez datoz bat</translation>
     </message>
     <message>
         <source>The image does not fit the whole space you reserved for it. Maybe this is intended, or maybe this is caused by bad inner placement or scale. The result will either be a cropped image or white space around the image.</source>
-        <translation type="unfinished"/>
+        <translation>Irudiak ez du betetzen harentzat utzi duzun espazio osoa. Beharbada nahita egin duzu, edo beharbada irudia gaizki kokatuta edo gaizki eskalatuta dago. Emaitza moztutako irudi bat edo irudiaren ingurua espazio zuria izango da.</translation>
     </message>
 </context>
 <context>
     <name>ClockWidget</name>
     <message>
         <source>A</source>
-        <translation type="unfinished"/>
+        <translation>A</translation>
     </message>
 </context>
 <context>
@@ -4097,7 +4118,8 @@ currently %2 x %3 DPI</source>
     <message>
         <source>Cannot create directory:
 %1</source>
-        <translation type="unfinished"/>
+        <translation>Ezin da direktorioa sortu:
+%1</translation>
     </message>
     <message>
         <source>Collecting...</source>
@@ -4198,55 +4220,55 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Monochromatic Light</source>
-        <translation type="unfinished"/>
+        <translation>Argi monokromatikoa</translation>
     </message>
     <message>
         <source>Monochromatic Dark</source>
-        <translation type="unfinished"/>
+        <translation>Ilun monokromatikoa</translation>
     </message>
     <message>
         <source>1st. Analogous</source>
-        <translation type="unfinished"/>
+        <translation>1. analogoa</translation>
     </message>
     <message>
         <source>2nd. Analogous</source>
-        <translation type="unfinished"/>
+        <translation>2. analogoa</translation>
     </message>
     <message>
         <source>1st. Split</source>
-        <translation type="unfinished"/>
+        <translation>1. zatiketa</translation>
     </message>
     <message>
         <source>2nd. Split</source>
-        <translation type="unfinished"/>
+        <translation>2. zatiketa</translation>
     </message>
     <message>
         <source>3rd. Split</source>
-        <translation type="unfinished"/>
+        <translation>3. zatiketa</translation>
     </message>
     <message>
         <source>4th. Split</source>
-        <translation type="unfinished"/>
+        <translation>4. zatiketa</translation>
     </message>
     <message>
         <source>1st. Triadic</source>
-        <translation type="unfinished"/>
+        <translation>1. triadikoa</translation>
     </message>
     <message>
         <source>2nd. Triadic</source>
-        <translation type="unfinished"/>
+        <translation>2. triadikoa</translation>
     </message>
     <message>
         <source>1st. Tetradic (base opposite)</source>
-        <translation type="unfinished"/>
+        <translation>1. tetradikoa (aurkako oinarria)</translation>
     </message>
     <message>
         <source>2nd. Tetradic (angle)</source>
-        <translation type="unfinished"/>
+        <translation>2. tetradikoa (angelua)</translation>
     </message>
     <message>
         <source>3rd. Tetradic (angle opposite)</source>
-        <translation type="unfinished"/>
+        <translation>3. tetradikoa (aurkako angelua)</translation>
     </message>
 </context>
 <context>
@@ -4300,7 +4322,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>PDF 3D Annotation</source>
-        <translation type="unfinished"/>
+        <translation>PDF 3D oharpena</translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -4500,19 +4522,19 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Dashed Line</source>
-        <translation type="unfinished"/>
+        <translation>Lerro marratxoduna</translation>
     </message>
     <message>
         <source>Dotted Line</source>
-        <translation type="unfinished"/>
+        <translation>Lerro puntukatua</translation>
     </message>
     <message>
         <source>Dash Dot Line</source>
-        <translation type="unfinished"/>
+        <translation>Lerro marratxodun puntukatua</translation>
     </message>
     <message>
         <source>Dash Dot Dot Line</source>
-        <translation type="unfinished"/>
+        <translation>Lerro marratxodun puntukatu puntukatua</translation>
     </message>
     <message>
         <source>None</source>
@@ -4522,22 +4544,22 @@ currently %2 x %3 DPI</source>
     <message>
         <source>Left Protruding</source>
         <comment>Optical Margin Setting</comment>
-        <translation type="unfinished"/>
+        <translation>Ezkerreko nabarmentzea</translation>
     </message>
     <message>
         <source>Right Protruding</source>
         <comment>Optical Margin Setting</comment>
-        <translation type="unfinished"/>
+        <translation>Eskuineko nabarmentzea</translation>
     </message>
     <message>
         <source>Left Hanging Punctuation</source>
         <comment>Optical Margin Setting</comment>
-        <translation type="unfinished"/>
+        <translation>Ezkerreko alderantzizko puntuazioa</translation>
     </message>
     <message>
         <source>Right Hanging Punctuation</source>
         <comment>Optical Margin Setting</comment>
-        <translation type="unfinished"/>
+        <translation>Eskuineko alderantzizko puntuazioa</translation>
     </message>
     <message>
         <source>Default</source>
@@ -4546,19 +4568,19 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Min. Word Tracking</source>
-        <translation type="unfinished"/>
+        <translation>Hitzen jarraipen min.</translation>
     </message>
     <message>
         <source>Max. Word Tracking</source>
-        <translation type="unfinished"/>
+        <translation>Hitzen jarraipen max.</translation>
     </message>
     <message>
         <source>Min. Glyph Extension</source>
-        <translation type="unfinished"/>
+        <translation>Glifoen luzapen min.</translation>
     </message>
     <message>
         <source>Max. Glyph Extension</source>
-        <translation type="unfinished"/>
+        <translation>Glifoen luzapen max.</translation>
     </message>
     <message>
         <source>None</source>
@@ -4567,12 +4589,12 @@ currently %2 x %3 DPI</source>
     <message>
         <source>RGB</source>
         <comment>Colorspace</comment>
-        <translation>GBU</translation>
+        <translation>RGB</translation>
     </message>
     <message>
         <source>CMYK</source>
         <comment>Colorspace</comment>
-        <translation>CMHB</translation>
+        <translation>CMYK</translation>
     </message>
     <message>
         <source>Grayscale</source>
@@ -4582,7 +4604,7 @@ currently %2 x %3 DPI</source>
     <message>
         <source>Duotone</source>
         <comment>Colorspace</comment>
-        <translation type="unfinished"/>
+        <translation>Duotonoa</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -4595,11 +4617,11 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Text Frame</source>
-        <translation type="unfinished"/>
+        <translation>Testu-markoa</translation>
     </message>
     <message>
         <source>Image Frame</source>
-        <translation type="unfinished"/>
+        <translation>Irudi-markoa</translation>
     </message>
     <message>
         <source>Line</source>
@@ -4620,7 +4642,7 @@ currently %2 x %3 DPI</source>
     <message>
         <source>Multiple</source>
         <comment>Multiple frame types</comment>
-        <translation type="unfinished"/>
+        <translation>Anitza</translation>
     </message>
     <message>
         <source>PDF Push Button</source>
@@ -4644,27 +4666,27 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>PDF Text Annotation</source>
-        <translation type="unfinished"/>
+        <translation>PDF testu-oharpena</translation>
     </message>
     <message>
         <source>PDF Link Annotation</source>
-        <translation type="unfinished"/>
+        <translation>PDF esteka-oharpena</translation>
     </message>
     <message>
         <source>PostScript Level 1</source>
-        <translation type="unfinished"/>
+        <translation>1. mailako PostScript</translation>
     </message>
     <message>
         <source>PostScript Level 2</source>
-        <translation type="unfinished"/>
+        <translation>2. mailako PostScript</translation>
     </message>
     <message>
         <source>PostScript Level 3</source>
-        <translation type="unfinished"/>
+        <translation>3. mailako PostScript</translation>
     </message>
     <message>
         <source>Windows GDI</source>
-        <translation type="unfinished"/>
+        <translation>Windows GDI</translation>
     </message>
     <message>
         <source>Render Frame</source>
@@ -4672,15 +4694,15 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Default Paragraph Style</source>
-        <translation type="unfinished"/>
+        <translation>Paragrafo-estilo lehenetsia</translation>
     </message>
     <message>
         <source>Default Character Style</source>
-        <translation type="unfinished"/>
+        <translation>Karaktere-estilo lehenetsia</translation>
     </message>
     <message>
         <source>Default Line Style</source>
-        <translation type="unfinished"/>
+        <translation>Lerro-estilo lehenetsia</translation>
     </message>
     <message>
         <source>Group</source>
@@ -4688,7 +4710,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Regular Polygon</source>
-        <translation type="unfinished"/>
+        <translation>Poligono erregularra</translation>
     </message>
     <message>
         <source>Arc</source>
@@ -4704,11 +4726,11 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Default Table Style</source>
-        <translation type="unfinished"/>
+        <translation>Taula-estilo lehenetsia</translation>
     </message>
     <message>
         <source>Default Cell Style</source>
-        <translation type="unfinished"/>
+        <translation>Gelaxka-estilo lehenetsia</translation>
     </message>
     <message>
         <source>PDF Radio Button</source>
@@ -4720,27 +4742,27 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>RadioButton</source>
-        <translation type="unfinished"/>
+        <translation>AukeraBotoia</translation>
     </message>
     <message>
         <source>Textfield</source>
-        <translation type="unfinished"/>
+        <translation>Testueremua</translation>
     </message>
     <message>
         <source>Checkbox</source>
-        <translation type="unfinished"/>
+        <translation>Kontrollaukia</translation>
     </message>
     <message>
         <source>Combobox</source>
-        <translation type="unfinished"/>
+        <translation>Konbinaziokoadroa</translation>
     </message>
     <message>
         <source>Listbox</source>
-        <translation type="unfinished"/>
+        <translation>Zerrendakoadroa</translation>
     </message>
     <message>
         <source>TextAnnot</source>
-        <translation type="unfinished"/>
+        <translation>Testuoharp</translation>
     </message>
     <message>
         <source>Link</source>
@@ -4749,7 +4771,7 @@ currently %2 x %3 DPI</source>
     <message>
         <source>Monochrome</source>
         <comment>Colorspace</comment>
-        <translation type="unfinished"/>
+        <translation>Monokromoa</translation>
     </message>
     <message>
         <source>Alt</source>
@@ -4816,7 +4838,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Edit 3D Annotation...</source>
-        <translation type="unfinished"/>
+        <translation>Editatu 3D oharpena</translation>
     </message>
     <message>
         <source>Insert Mark</source>
@@ -4828,11 +4850,11 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Locking</source>
-        <translation>Blokeatzen</translation>
+        <translation>Blokeoa</translation>
     </message>
     <message>
         <source>Send to</source>
-        <translation>Bidali hona:</translation>
+        <translation>Bidali hona</translation>
     </message>
     <message>
         <source>Scrapbook</source>
@@ -4864,7 +4886,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Paste Recent</source>
-        <translation type="unfinished"/>
+        <translation>Itsatsi azkena</translation>
     </message>
     <message>
         <source>Content</source>
@@ -4897,7 +4919,7 @@ currently %2 x %3 DPI</source>
     <name>Cpalette</name>
     <message>
         <source>Pattern</source>
-        <translation type="unfinished"/>
+        <translation>Eredua</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -4905,7 +4927,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Create Mesh</source>
-        <translation type="unfinished"/>
+        <translation>Sortu sarea</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -4913,45 +4935,45 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="unfinished"/>
+        <translation>Gradientea</translation>
     </message>
     <message>
         <source>Hatch</source>
-        <translation type="unfinished"/>
+        <translation>Itzaleztadura</translation>
     </message>
 </context>
 <context>
     <name>CreateMode</name>
     <message>
         <source>3DAnnot</source>
-        <translation type="unfinished"/>
+        <translation>3DOharp</translation>
     </message>
 </context>
 <context>
     <name>CreateRange</name>
     <message>
         <source>Create Range</source>
-        <translation type="unfinished"/>
+        <translation>Sortu barrutia</translation>
     </message>
     <message>
         <source>Number of Pages in Document:</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentuaren orrialde kopurua:</translation>
     </message>
     <message>
         <source>Doc Page Range</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentuaren orrialde-barrutia</translation>
     </message>
     <message>
         <source>Basic Range Selection</source>
-        <translation type="unfinished"/>
+        <translation>Oinarrizko barruti-hautapena</translation>
     </message>
     <message>
         <source>Range of Pages</source>
-        <translation type="unfinished"/>
+        <translation>Orrialde-barrutia</translation>
     </message>
     <message>
         <source>De&amp;lete</source>
-        <translation type="unfinished"/>
+        <translation>E&amp;zabatu</translation>
     </message>
     <message>
         <source>Alt+L</source>
@@ -4959,7 +4981,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Move &amp;Down</source>
-        <translation type="unfinished"/>
+        <translation>Mugitu &amp;behera</translation>
     </message>
     <message>
         <source>Alt+D</source>
@@ -4967,7 +4989,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Move &amp;Up</source>
-        <translation type="unfinished"/>
+        <translation>Mugitu &amp;gora</translation>
     </message>
     <message>
         <source>Alt+U</source>
@@ -4975,11 +4997,11 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Add a Range of Pages</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu orrialde-barrutia</translation>
     </message>
     <message>
         <source>Consecutive Pages</source>
-        <translation type="unfinished"/>
+        <translation>Elkarren ondoko orrialdeak</translation>
     </message>
     <message>
         <source>Even Pages</source>
@@ -4995,7 +5017,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>&amp;Add To Range</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Gehitu barrutiari</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -5011,19 +5033,19 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Advanced Reordering</source>
-        <translation type="unfinished"/>
+        <translation>Berrordenatze aurreratua</translation>
     </message>
     <message>
         <source>Page Order</source>
-        <translation type="unfinished"/>
+        <translation>Orrialde-ordena</translation>
     </message>
     <message>
         <source>Sample Page Order:</source>
-        <translation type="unfinished"/>
+        <translation>Adibideko orrialde-ordena:</translation>
     </message>
     <message>
         <source>Page Group Size:</source>
-        <translation type="unfinished"/>
+        <translation>Orrialde multzoen tamaina:</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -5149,7 +5171,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Curve Files &quot;*.scu&quot; (*.scu *.SCU);;All Files (*)</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Curve Files &quot;*.scu&quot; (*.scu *.SCU);;Fitxategi guztiak (*)</translation>
     </message>
     <message>
         <source>Save as</source>
@@ -5163,27 +5185,27 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Inverts the curve</source>
-        <translation type="unfinished"/>
+        <translation>Kurba txertatzen du</translation>
     </message>
     <message>
         <source>Resets the curve</source>
-        <translation type="unfinished"/>
+        <translation>Kurba berrezartzen du</translation>
     </message>
     <message>
         <source>Switches between linear and cubic interpolation of the curve</source>
-        <translation type="unfinished"/>
+        <translation>Kurbaren interpolazio lineala eta kubikoa txandakatzen ditu</translation>
     </message>
     <message>
         <source>Loads a curve</source>
-        <translation type="unfinished"/>
+        <translation>Kurba kargatzen du</translation>
     </message>
     <message>
         <source>Saves this curve</source>
-        <translation type="unfinished"/>
+        <translation>Kurba hau gordetzen du</translation>
     </message>
     <message>
         <source>Curve Files (*.scu *.SCU);;All Files (*)</source>
-        <translation type="unfinished"/>
+        <translation>Kurba fitxategiak (*.scu *.SCU);;Fitxategi guztiak (*)</translation>
     </message>
 </context>
 <context>
@@ -5202,31 +5224,31 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Show Preview</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi aurrebista</translation>
     </message>
     <message>
         <source>&amp;Include Color Profiles</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sartu kolore-profilak</translation>
     </message>
     <message>
         <source>Show a preview and information for the selected file</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi hautatutako fitxategiaren aurrebista bat eta informazioa</translation>
     </message>
     <message>
         <source>Compress the Scribus document on save</source>
-        <translation type="unfinished"/>
+        <translation>Konprimatu Scribus dokumentua hura gordetzean</translation>
     </message>
     <message>
         <source>Include fonts when collecting files for the document. Be sure to know and understand licensing information for any fonts you collect and possibly redistribute.</source>
-        <translation type="unfinished"/>
+        <translation>Sartu letra-tipoak dokumentuaren fitxategiak biltzean. Ziurtatu ondo ezagutzen eta ulertzen duzula biltzen duzun eta agian birbanatuko duzun edozein letra-tiporen lizentzia-informazioa.</translation>
     </message>
     <message>
         <source>Include color profiles when collecting files for the document</source>
-        <translation type="unfinished"/>
+        <translation>Sartu kolore-profilak dokumentuaren fitxategiak biltzean</translation>
     </message>
     <message>
         <source>Import Option:</source>
-        <translation type="unfinished"/>
+        <translation>Inportatze-aukera:</translation>
     </message>
     <message>
         <source>Keep original size</source>
@@ -5234,11 +5256,11 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Downscale to page size</source>
-        <translation type="unfinished"/>
+        <translation>Txikitu eskala orrialde-tamainaraino</translation>
     </message>
     <message>
         <source>Upscale to page size</source>
-        <translation type="unfinished"/>
+        <translation>Handitu eskala orrialde-tamainaraino</translation>
     </message>
 </context>
 <context>
@@ -5340,7 +5362,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>&amp;Subject:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Gaia:</translation>
     </message>
     <message>
         <source>&amp;Keywords:</source>
@@ -5468,11 +5490,11 @@ denbora eta jurisdikzioa sartuz.</translation>
     <name>DownloadsPalette</name>
     <message>
         <source>Show In Finder</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi Finder-en</translation>
     </message>
     <message>
         <source>Show In Explorer</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi Explorer-en</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -5774,19 +5796,19 @@ huts egin du</translation>
     </message>
     <message>
         <source>Duotone</source>
-        <translation type="unfinished"/>
+        <translation>Duotonoa</translation>
     </message>
     <message>
         <source>Tritone</source>
-        <translation type="unfinished"/>
+        <translation>Tritonua</translation>
     </message>
     <message>
         <source>Quadtone</source>
-        <translation type="unfinished"/>
+        <translation>Kuatritonua</translation>
     </message>
     <message>
         <source>Curves</source>
-        <translation type="unfinished"/>
+        <translation>Kurbak</translation>
     </message>
 </context>
 <context>
@@ -5812,7 +5834,7 @@ huts egin du</translation>
     </message>
     <message>
         <source>An exception occured while running the script.</source>
-        <translation type="unfinished"/>
+        <translation>Salbuespena gertatu da script-a exekutatzean.</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -5843,11 +5865,11 @@ huts egin du</translation>
     </message>
     <message>
         <source>Insufficient memory for this image size.</source>
-        <translation type="unfinished"/>
+        <translation>Memoria gutxiegi irudi-tamaina honetarako.</translation>
     </message>
     <message>
         <source>Error writing the output file(s).</source>
-        <translation type="unfinished"/>
+        <translation>Errorea irteerako fitxategia(k) idaztean.</translation>
     </message>
 </context>
 <context>
@@ -5962,11 +5984,11 @@ Erabili 72 dpi irudiak pantailan erabiltzeko badira</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>TestuEtiketa</translation>
     </message>
     <message>
         <source>The compression ratio of your images - 100% is no compression, 0% highest compression. If in doubt, use &apos;Automatic&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Zure irudien konpresio-erlazioa - %100 konpresiorik gabea da, %0 konpresiorik altuena da. Zalantzan bazaude, erabili &apos;Automatikoa&apos; </translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -5974,7 +5996,7 @@ Erabili 72 dpi irudiak pantailan erabiltzeko badira</translation>
     </message>
     <message>
         <source>Naming of exported files:</source>
-        <translation type="unfinished"/>
+        <translation>Esportatutako fitxategien izenak:</translation>
     </message>
     <message>
         <source>Prefix:</source>
@@ -5986,11 +6008,11 @@ Erabili 72 dpi irudiak pantailan erabiltzeko badira</translation>
     </message>
     <message>
         <source>Don&apos;t export Page Background</source>
-        <translation type="unfinished"/>
+        <translation>Ez esportatu orrialdeen atzeko planoa</translation>
     </message>
     <message>
         <source>Create a range of pages</source>
-        <translation type="unfinished"/>
+        <translation>Sortu orrialdeen barruti bat</translation>
     </message>
 </context>
 <context>
@@ -6097,19 +6119,19 @@ Erabili 72 dpi irudiak pantailan erabiltzeko badira</translation>
     </message>
     <message>
         <source>Live Preview</source>
-        <translation type="unfinished"/>
+        <translation>Aurrebista dinamikoa</translation>
     </message>
     <message>
         <source>Plus</source>
-        <translation type="unfinished"/>
+        <translation>Gehi</translation>
     </message>
     <message>
         <source>Destination In</source>
-        <translation type="unfinished"/>
+        <translation>Helburua barrura</translation>
     </message>
     <message>
         <source>Destination Out</source>
-        <translation type="unfinished"/>
+        <translation>Helburua kanpora</translation>
     </message>
 </context>
 <context>
@@ -6148,29 +6170,32 @@ Erabili 72 dpi irudiak pantailan erabiltzeko badira</translation>
     </message>
     <message>
         <source>Colorspace:</source>
-        <translation>Kolore-eskala:</translation>
+        <translation>Kolore-espazioa:</translation>
     </message>
     <message>
         <source>File Format:</source>
-        <translation type="unfinished"/>
+        <translation>Fitxategi-formatua:</translation>
     </message>
 </context>
 <context>
     <name>FhPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Inportatzen: %1</translation>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Fitxategia analizatzen:</translation>
     </message>
     <message>
         <source>Parsing failed!
 
 Please submit your file (if possible) to the
 Document Liberation Project http://www.documentliberation.org</source>
-        <translation type="unfinished"/>
+        <translation>Analisiak huts egin du!
+
+Mesedez bidali zure fitxategia (posible bada)
+Document Liberation Project-era http://www.documentliberation.org</translation>
     </message>
 </context>
 <context>
@@ -6195,26 +6220,26 @@ Document Liberation Project http://www.documentliberation.org</source>
     <name>FlattenPathPlugin</name>
     <message>
         <source>Flatten Path</source>
-        <translation type="unfinished"/>
+        <translation>Berdindu bidea</translation>
     </message>
     <message>
         <source>Path Tools</source>
-        <translation type="unfinished"/>
+        <translation>Bide-tresnak</translation>
     </message>
     <message>
         <source>Flattens a Path</source>
-        <translation type="unfinished"/>
+        <translation>Bide bat berdintzen du</translation>
     </message>
     <message>
         <source>Converts a Bezier Path to a Path made of line segments.</source>
-        <translation type="unfinished"/>
+        <translation>Bezier bide bat segmentuz osatutako bide bihurtzen du.</translation>
     </message>
 </context>
 <context>
     <name>FontComboH</name>
     <message>
         <source>Family:</source>
-        <translation type="unfinished"/>
+        <translation>Familia:</translation>
     </message>
     <message>
         <source>Style:</source>
@@ -6222,11 +6247,11 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Font Family of Selected Text or Text Frame</source>
-        <translation type="unfinished"/>
+        <translation>Hautatutako testuaren edo testu-markoaren letra-tipoaren familia</translation>
     </message>
     <message>
         <source>Font Style of Selected Text or Text Frame</source>
-        <translation type="unfinished"/>
+        <translation>Hautatutako testuaren edo testu-markoaren letra-tipoaren estiloa</translation>
     </message>
 </context>
 <context>
@@ -6237,11 +6262,11 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Use Font</source>
-        <translation type="unfinished"/>
+        <translation>Erabili letra-tipoa</translation>
     </message>
     <message>
         <source>Family</source>
-        <translation type="unfinished"/>
+        <translation>Familia</translation>
     </message>
     <message>
         <source>Style</source>
@@ -6249,7 +6274,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Variant</source>
-        <translation type="unfinished"/>
+        <translation>Aldaera</translation>
     </message>
     <message>
         <source>Type</source>
@@ -6265,19 +6290,19 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Subset</source>
-        <translation type="unfinished"/>
+        <translation>Azpimultzoa</translation>
     </message>
     <message>
         <source>Access</source>
-        <translation type="unfinished"/>
+        <translation>Atzipena</translation>
     </message>
     <message>
         <source>Used in Doc</source>
-        <translation type="unfinished"/>
+        <translation>Erabilia dokumentuan</translation>
     </message>
     <message>
         <source>Path to Font File</source>
-        <translation type="unfinished"/>
+        <translation>Letra-tipoaren fitxategiaren bidea</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -6292,20 +6317,20 @@ Document Liberation Project http://www.documentliberation.org</source>
     <message>
         <source>User</source>
         <comment>font preview</comment>
-        <translation type="unfinished"/>
+        <translation>Erabiltzailea</translation>
     </message>
     <message>
         <source>System</source>
         <comment>font preview</comment>
-        <translation type="unfinished"/>
+        <translation>Sistema</translation>
     </message>
     <message>
         <source>Click to change the value</source>
-        <translation type="unfinished"/>
+        <translation>Klik balioa aldatzeko</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="unfinished"/>
+        <translation>Eskema</translation>
     </message>
 </context>
 <context>
@@ -6326,15 +6351,15 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Fonts Preview</source>
-        <translation type="unfinished"/>
+        <translation>Letra-tipoen aurrebista</translation>
     </message>
     <message>
         <source>&amp;Quick Search:</source>
-        <translation type="unfinished"/>
+        <translation>Bilaketa a&amp;zkarra:</translation>
     </message>
     <message>
         <source>&amp;Font Size:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Letra-tipoaren tamaina:</translation>
     </message>
     <message>
         <source>Text</source>
@@ -6342,11 +6367,11 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Sample text to display</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsiko den adibideko testua</translation>
     </message>
     <message>
         <source>Se&amp;t</source>
-        <translation type="unfinished"/>
+        <translation>Eza&amp;rri</translation>
     </message>
     <message>
         <source>Alt+T</source>
@@ -6354,7 +6379,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Reset the text</source>
-        <translation type="unfinished"/>
+        <translation>Berrezarri testua</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -6366,19 +6391,19 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Typing the text here provides quick searching in the font names. Searching is case insensitive. The given text is taken as substring.</source>
-        <translation type="unfinished"/>
+        <translation>Testua hemen idaztean, letra-tipoen izenen bilaketa azkarra egin daiteke. Bilaketak ez ditu maiuskulak eta minuskulak bereizten. Emandako testua azpikate gisa hartzen da.</translation>
     </message>
     <message>
         <source>&amp;Default</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Lehenetsia</translation>
     </message>
     <message>
         <source>Show Extended Font Information</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi letra-tipoaren informazio hedatua</translation>
     </message>
     <message>
         <source>Set the preview text</source>
-        <translation type="unfinished"/>
+        <translation>Ezarri aurrebista-testua</translation>
     </message>
 </context>
 <context>
@@ -6429,14 +6454,14 @@ dokumentua kargatzea gelditzen du.</translation>
     </message>
     <message>
         <source>Enabling this tells Scribus to use these replacements for missing fonts permanently in all future layouts. This can be reverted or changed in File &gt; Preferences &gt; Fonts.</source>
-        <translation type="unfinished"/>
+        <translation>Hau gaituta, Scribus-ek ordezkapen hauek erabiliko ditu falta diren letra-tipoak behin-betiko ordezkatzeko etorkizuneko diseinuetan. Hau aldatzeko, joan Fitxategia &gt; Hobespenak &gt; Letra-tipoak atalera.</translation>
     </message>
 </context>
 <context>
     <name>FontSelect</name>
     <message>
         <source>Select Alternate Font</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu letra-tipo alternatiboa</translation>
     </message>
     <message>
         <source>Font</source>
@@ -6489,18 +6514,18 @@ dokumentua kargatzea gelditzen du.</translation>
     <name>GradientPreview</name>
     <message>
         <source>Add Stop</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu geldiunea</translation>
     </message>
     <message>
         <source>Remove Stop</source>
-        <translation type="unfinished"/>
+        <translation>Kendu geldiunea</translation>
     </message>
 </context>
 <context>
     <name>GradientVectorBase</name>
     <message>
         <source>Gradient Vector</source>
-        <translation type="unfinished"/>
+        <translation>Gradiente-bektorea</translation>
     </message>
     <message>
         <source>Start:</source>
@@ -6508,7 +6533,7 @@ dokumentua kargatzea gelditzen du.</translation>
     </message>
     <message>
         <source>/</source>
-        <translation type="unfinished"/>
+        <translation>/</translation>
     </message>
     <message>
         <source>End:</source>
@@ -6516,11 +6541,11 @@ dokumentua kargatzea gelditzen du.</translation>
     </message>
     <message>
         <source>Skew:</source>
-        <translation type="unfinished"/>
+        <translation>Okerdura:</translation>
     </message>
     <message>
         <source>Focal:</source>
-        <translation type="unfinished"/>
+        <translation>Fokua:</translation>
     </message>
     <message>
         <source>Scale:</source>
@@ -6528,51 +6553,51 @@ dokumentua kargatzea gelditzen du.</translation>
     </message>
     <message>
         <source>1. Point:</source>
-        <translation type="unfinished"/>
+        <translation>1. puntua:</translation>
     </message>
     <message>
         <source>2. Point:</source>
-        <translation type="unfinished"/>
+        <translation>2. puntua:</translation>
     </message>
     <message>
         <source>3. Point:</source>
-        <translation type="unfinished"/>
+        <translation>3. puntua:</translation>
     </message>
     <message>
         <source>4. Point:</source>
-        <translation type="unfinished"/>
+        <translation>4. puntua:</translation>
     </message>
     <message>
         <source>5. Point:</source>
-        <translation type="unfinished"/>
+        <translation>5. puntua:</translation>
     </message>
     <message>
         <source>Edit Grid Points</source>
-        <translation type="unfinished"/>
+        <translation>Editatu saretako puntuak</translation>
     </message>
     <message>
         <source>Edit Control Points</source>
-        <translation type="unfinished"/>
+        <translation>Editatu kontrol-puntuak</translation>
     </message>
     <message>
         <source>Reset selected Control Point</source>
-        <translation type="unfinished"/>
+        <translation>Berrezarri hautatutako kontrol-puntua</translation>
     </message>
     <message>
         <source>Reset all Control Points</source>
-        <translation type="unfinished"/>
+        <translation>Berrezarri kontrol-puntu guztiak</translation>
     </message>
     <message>
         <source>New Mesh...</source>
-        <translation type="unfinished"/>
+        <translation>Sare berria...</translation>
     </message>
     <message>
         <source>Reset Mesh</source>
-        <translation type="unfinished"/>
+        <translation>Berrezarri sarea</translation>
     </message>
     <message>
         <source>Mesh -&gt; Shape</source>
-        <translation type="unfinished"/>
+        <translation>Sarea -&gt; Forma</translation>
     </message>
     <message>
         <source>Snap to other Mesh Points</source>
@@ -6580,18 +6605,18 @@ dokumentua kargatzea gelditzen du.</translation>
     </message>
     <message>
         <source>Add Patch</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu adabakia</translation>
     </message>
     <message>
         <source>Remove Patch</source>
-        <translation type="unfinished"/>
+        <translation>Kendu adabakia</translation>
     </message>
 </context>
 <context>
     <name>GuideManager</name>
     <message>
         <source>&amp;Single</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Bakarra</translation>
     </message>
     <message>
         <source>Horizontals</source>
@@ -6607,7 +6632,7 @@ dokumentua kargatzea gelditzen du.</translation>
     </message>
     <message>
         <source>D&amp;elete</source>
-        <translation type="unfinished"/>
+        <translation>E&amp;zabatu</translation>
     </message>
     <message>
         <source>Alt+E</source>
@@ -6615,11 +6640,11 @@ dokumentua kargatzea gelditzen du.</translation>
     </message>
     <message>
         <source>Verticals</source>
-        <translation type="unfinished"/>
+        <translation>Bertikalak</translation>
     </message>
     <message>
         <source>A&amp;dd</source>
-        <translation type="unfinished"/>
+        <translation>Ge&amp;hitu</translation>
     </message>
     <message>
         <source>Alt+D</source>
@@ -6627,7 +6652,7 @@ dokumentua kargatzea gelditzen du.</translation>
     </message>
     <message>
         <source>De&amp;lete</source>
-        <translation type="unfinished"/>
+        <translation>E&amp;zabatu</translation>
     </message>
     <message>
         <source>Alt+L</source>
@@ -6635,11 +6660,11 @@ dokumentua kargatzea gelditzen du.</translation>
     </message>
     <message>
         <source>&amp;Lock Guides</source>
-        <translation type="unfinished"/>
+        <translation>B&amp;lokeatu gidak</translation>
     </message>
     <message>
         <source>Appl&amp;y to All Pages</source>
-        <translation type="unfinished"/>
+        <translation>Apli&amp;katu orrialde guztietan</translation>
     </message>
     <message>
         <source>Alt+Y</source>
@@ -6647,15 +6672,15 @@ dokumentua kargatzea gelditzen du.</translation>
     </message>
     <message>
         <source>&amp;Column/Row</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Zutabea/errenkada</translation>
     </message>
     <message>
         <source>&amp;Number:</source>
-        <translation type="unfinished"/>
+        <translation>ZE&amp;nbakia:</translation>
     </message>
     <message>
         <source>U&amp;se Gap:</source>
-        <translation type="unfinished"/>
+        <translation>E&amp;rabili tartea:</translation>
     </message>
     <message>
         <source>Alt+S</source>
@@ -6671,19 +6696,19 @@ dokumentua kargatzea gelditzen du.</translation>
     </message>
     <message>
         <source>M&amp;argins</source>
-        <translation type="unfinished"/>
+        <translation>M&amp;arjinak</translation>
     </message>
     <message>
         <source>S&amp;election</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Hautapena</translation>
     </message>
     <message>
         <source>Nu&amp;mber:</source>
-        <translation type="unfinished"/>
+        <translation>Zen&amp;bakia:</translation>
     </message>
     <message>
         <source>Use &amp;Gap:</source>
-        <translation type="unfinished"/>
+        <translation>Erabili &amp;tartea:</translation>
     </message>
     <message>
         <source>Alt+G</source>
@@ -6691,107 +6716,107 @@ dokumentua kargatzea gelditzen du.</translation>
     </message>
     <message>
         <source>&amp;Misc</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Denetari</translation>
     </message>
     <message>
         <source>Delete all guides from the current page</source>
-        <translation type="unfinished"/>
+        <translation>Ezabatu uneko orrialdeko gida guztiak</translation>
     </message>
     <message>
         <source>Delete Guides from Current &amp;Page</source>
-        <translation type="unfinished"/>
+        <translation>Ezabatu uneko &amp;orrialdeko gidak</translation>
     </message>
     <message>
         <source>Delete all guides from the current document</source>
-        <translation type="unfinished"/>
+        <translation>Ezabatu uneko dokumentuko gida guztiak</translation>
     </message>
     <message>
         <source>Delete Guides from &amp;All Pages</source>
-        <translation type="unfinished"/>
+        <translation>Ezabatu orrialde &amp;guztietako gidak</translation>
     </message>
     <message>
         <source>Guide Manager</source>
-        <translation type="unfinished"/>
+        <translation>Gida-kudeatzailea</translation>
     </message>
     <message>
         <source>Add a new horizontal guide</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu gida horizontal berria</translation>
     </message>
     <message>
         <source>Delete the selected horizontal guide</source>
-        <translation type="unfinished"/>
+        <translation>Ezabatu hautatutako gida horizontala</translation>
     </message>
     <message>
         <source>Add a new vertical guide</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu gida bertikal berria</translation>
     </message>
     <message>
         <source>Delete the selected vertical guide</source>
-        <translation type="unfinished"/>
+        <translation>Ezabatu hautatutako gida bertikala</translation>
     </message>
     <message>
         <source>Lock the guides</source>
-        <translation type="unfinished"/>
+        <translation>Blokeatu gidak</translation>
     </message>
     <message>
         <source>Apply to all pages</source>
-        <translation type="unfinished"/>
+        <translation>Aplikatu orrialde guztietan</translation>
     </message>
     <message>
         <source>Number of horizontal guides to create</source>
-        <translation type="unfinished"/>
+        <translation>Sortuko diren gida horizontalen kopurua</translation>
     </message>
     <message>
         <source>Number of vertical guides to create</source>
-        <translation type="unfinished"/>
+        <translation>Sortuko diren gida bertikalen kopurua</translation>
     </message>
     <message>
         <source>Create rows with guides, with an additional gap between the rows</source>
-        <translation type="unfinished"/>
+        <translation>Sortu errenkadak gidekin, errenkaden arteko tarte bat gehiago sartuz</translation>
     </message>
     <message>
         <source>Create columns with guides, with an additional gap between the columns</source>
-        <translation type="unfinished"/>
+        <translation>Sortu zutabeak gidekin, zutabeen arteko tarte bat gehiago sartuz</translation>
     </message>
     <message>
         <source>Create the selected number of horizontal guides relative to the current page</source>
-        <translation type="unfinished"/>
+        <translation>Sortu hautatutako gida horizontalen kopurua, uneko orrialdearekiko</translation>
     </message>
     <message>
         <source>Create the selected number of horizontal guides relative to the current page&apos;s margins</source>
-        <translation type="unfinished"/>
+        <translation>Sortu hautatutako gida horizontalen kopurua, uneko orrialdearen marjinekiko</translation>
     </message>
     <message>
         <source>Create the selected number of horizontal guides relative to the current selection of items</source>
-        <translation type="unfinished"/>
+        <translation>Sortu hautatutako gida horizontalen kopurua, uneko elementu-hautapenarekiko</translation>
     </message>
     <message>
         <source>Create the selected number of vertical guides relative to the current page</source>
-        <translation type="unfinished"/>
+        <translation>Sortu hautatutako gida bertikalen kopurua, uneko orrialdearekiko</translation>
     </message>
     <message>
         <source>Create the selected number of vertical guides relative to the current page&apos;s margins</source>
-        <translation type="unfinished"/>
+        <translation>Sortu hautatutako gida bertikalen kopurua, uneko orrialdearen marjinekiko</translation>
     </message>
     <message>
         <source>Create the selected number of vertical guides relative to the current selection of items</source>
-        <translation type="unfinished"/>
+        <translation>Sortu hautatutako gida bertikalen kopurua, uneko elementu-hautapenarekiko</translation>
     </message>
     <message>
         <source>Apply the shown guides to all pages in the document</source>
-        <translation type="unfinished"/>
+        <translation>Aplikatu erakutsitako gidak dokumentuko orrialde guztiei</translation>
     </message>
     <message>
         <source>Delete all guides shown on the current page</source>
-        <translation type="unfinished"/>
+        <translation>Ezabatu uneko orrialdean erakutsitako gida guztiak</translation>
     </message>
     <message>
         <source>Delete all guides from all pages</source>
-        <translation type="unfinished"/>
+        <translation>Ezabatu orrialde guztietako gida guztiak</translation>
     </message>
     <message>
         <source>Refer to</source>
-        <translation type="unfinished"/>
+        <translation>Erreferentzia honi:</translation>
     </message>
 </context>
 <context>
@@ -6846,11 +6871,11 @@ dokumentua kargatzea gelditzen du.</translation>
     </message>
     <message>
         <source>Navigation</source>
-        <translation type="unfinished"/>
+        <translation>Nabigazioa</translation>
     </message>
     <message>
         <source>Loading Failed</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Kargatzeak huts egin du</translation>
     </message>
     <message>
         <source>&amp;Add Bookmark</source>
@@ -6866,19 +6891,19 @@ dokumentua kargatzea gelditzen du.</translation>
     </message>
     <message>
         <source>Scribus Help</source>
-        <translation type="unfinished"/>
+        <translation>Scribus laguntza</translation>
     </message>
     <message>
         <source>&amp;Exit</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Irten</translation>
     </message>
     <message>
         <source>Find &amp;Next...</source>
-        <translation type="unfinished"/>
+        <translation>Aurkitu &amp;hurrengoa...</translation>
     </message>
     <message>
         <source>Find &amp;Previous...</source>
-        <translation type="unfinished"/>
+        <translation>Aurkitu a&amp;urrekoa...</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -6891,7 +6916,7 @@ dokumentua kargatzea gelditzen du.</translation>
     <message>
         <source>&lt;h2&gt;&lt;p&gt;Sorry, no manual is installed!&lt;/p&gt;&lt;p&gt;Please see:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;http://docs.scribus.net for updated documentation&lt;/li&gt;&lt;li&gt;http://www.scribus.net for downloads&lt;/li&gt;&lt;/ul&gt;&lt;/h2&gt;</source>
         <comment>HTML message for no documentation available to show</comment>
-        <translation type="unfinished"/>
+        <translation>&lt;h2&gt;&lt;p&gt;Barkatu, ez da eskulibururik instalatu!&lt;/p&gt;&lt;p&gt;Begiratu:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;http://docs.scribus.net dokumentazio eguneratua jasotzeko&lt;/li&gt;&lt;li&gt;http://www.scribus.net deskargetarako&lt;/li&gt;&lt;/ul&gt;&lt;/h2&gt;</translation>
     </message>
 </context>
 <context>
@@ -6910,7 +6935,7 @@ dokumentua kargatzea gelditzen du.</translation>
     </message>
     <message>
         <source>Searching is case insensitive</source>
-        <translation type="unfinished"/>
+        <translation>Bilaketak ez ditu maiuskulak eta minuskulak bereizten</translation>
     </message>
     <message>
         <source>&amp;Search</source>
@@ -6918,7 +6943,7 @@ dokumentua kargatzea gelditzen du.</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"/>
+        <translation>1</translation>
     </message>
     <message>
         <source>Book&amp;marks</source>
@@ -6948,42 +6973,42 @@ dokumentua kargatzea gelditzen du.</translation>
     <name>HunspellDialogBase</name>
     <message>
         <source>Check Spelling</source>
-        <translation type="unfinished"/>
+        <translation>Ortografia egiaztatzea</translation>
     </message>
     <message>
         <source>Text Language:</source>
-        <translation type="unfinished"/>
+        <translation>Testuaren hizkuntza:</translation>
     </message>
     <message>
         <source>Not in dictionary</source>
-        <translation type="unfinished"/>
+        <translation>Ez dago hiztegian</translation>
     </message>
     <message>
         <source>Ignore Once</source>
-        <translation type="unfinished"/>
+        <translation>Ez ikusi behin</translation>
     </message>
     <message>
         <source>Ignore All</source>
-        <translation type="unfinished"/>
+        <translation>Ez ikusi denak</translation>
     </message>
     <message>
         <source>Suggestions</source>
-        <translation type="unfinished"/>
+        <translation>Iradokizunak</translation>
     </message>
     <message>
         <source>Change</source>
-        <translation type="unfinished"/>
+        <translation>Aldatu</translation>
     </message>
     <message>
         <source>Change All</source>
-        <translation type="unfinished"/>
+        <translation>Aldatu denak</translation>
     </message>
 </context>
 <context>
     <name>HunspellPlugin</name>
     <message>
         <source>Check Spelling...</source>
-        <translation type="unfinished"/>
+        <translation>Ortografia egiaztatzea...</translation>
     </message>
 </context>
 <context>
@@ -7007,12 +7032,14 @@ dokumentua kargatzea gelditzen du.</translation>
     <message>
         <source>Add to the
 Exception List</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu
+salbuespen-zerrendara</translation>
     </message>
     <message>
         <source>Add to the
 Ignore List</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu
+ezikusien zerrendara</translation>
     </message>
 </context>
 <context>
@@ -7102,87 +7129,89 @@ Ignore List</source>
     </message>
     <message>
         <source>Exposure time</source>
-        <translation type="unfinished"/>
+        <translation>Esposizio-denbora</translation>
     </message>
     <message>
         <source>Aperture:</source>
-        <translation type="unfinished"/>
+        <translation>Irekidura:</translation>
     </message>
     <message>
         <source>ISO equiv.:</source>
-        <translation type="unfinished"/>
+        <translation>ISO baliok.:</translation>
     </message>
 </context>
 <context>
     <name>ImportAIPlugin</name>
     <message>
         <source>Import AI...</source>
-        <translation type="unfinished"/>
+        <translation>Inportatu AI...</translation>
     </message>
     <message>
         <source>Imports Illustrator Files</source>
-        <translation type="unfinished"/>
+        <translation>Illustrator fitxategiak inportatzen ditu</translation>
     </message>
     <message>
         <source>Imports most Illustrator files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Illustrator fitxategi gehienak uneko dokumentura inportatzen ditu,
+haien datu bektorialak Scribus objektu bihurtuz.</translation>
     </message>
     <message>
         <source>The file could not be imported</source>
-        <translation type="unfinished"/>
+        <translation>Fitxategia ezin izan da inportatu</translation>
     </message>
     <message>
         <source>This file contains 2 versions of the data.</source>
-        <translation type="unfinished"/>
+        <translation>Fitxategiak datuen 2 bertsio ditu</translation>
     </message>
     <message>
         <source>Choose which one should be imported</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu bietako zein inportatuko den</translation>
     </message>
     <message>
         <source>Use the pdf part</source>
-        <translation type="unfinished"/>
+        <translation>Erabili PDF zatia</translation>
     </message>
     <message>
         <source>Use the ai part</source>
-        <translation type="unfinished"/>
+        <translation>Erabili AI zatia</translation>
     </message>
     <message>
         <source>The PDF Import plugin could not be found</source>
-        <translation type="unfinished"/>
+        <translation>Ezin izan da aurkitu PDFak inportatzeko plugina</translation>
     </message>
     <message>
         <source>The EPS Import plugin could not be found</source>
-        <translation type="unfinished"/>
+        <translation>Ezin izan da aurkitu EPSak inportatzeko plugina</translation>
     </message>
 </context>
 <context>
     <name>ImportCdrPlugin</name>
     <message>
         <source>Import Corel Draw...</source>
-        <translation type="unfinished"/>
+        <translation>Inportatu Corel Draw...</translation>
     </message>
     <message>
         <source>Corel Draw</source>
-        <translation type="unfinished"/>
+        <translation>Corel Draw</translation>
     </message>
     <message>
         <source>Corel Draw CDR (*.cdr *.CDR)</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Corel Draw CDR (*.cdr *.CDR)</translation>
     </message>
     <message>
         <source>Imports Corel Draw Files</source>
-        <translation type="unfinished"/>
+        <translation>Corel Draw fitxategiak inportatzen ditu</translation>
     </message>
     <message>
         <source>Imports most Corel Draw files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Corel Draw fitxategi gehienak uneko dokumentura inportatzen ditu,
+haien datu bektorialak Scribus objektu bihurtuz.</translation>
     </message>
     <message>
         <source>Corel Draw (*.cdr *.CDR)</source>
-        <translation type="unfinished"/>
+        <translation>Corel Draw (*.cdr *.CDR)</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7190,38 +7219,42 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>The Uniconverter Import plugin could not be found</source>
-        <translation type="unfinished"/>
+        <translation>Ezin izan da aurkitu Uniconverter inportatzeko plugina</translation>
     </message>
     <message>
         <source>Parsing failed!
 
 Please submit your file (if possible) to the
 Document Liberation Project http://www.documentliberation.org</source>
-        <translation type="unfinished"/>
+        <translation>Analisiak huts egin du!
+
+Mesedez bidali zure fitxategia (posible bada)
+Document Liberation Project-era http://www.documentliberation.org</translation>
     </message>
 </context>
 <context>
     <name>ImportCgmPlugin</name>
     <message>
         <source>Import Cgm...</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Inportatu CGM...</translation>
     </message>
     <message>
         <source>CGM File</source>
-        <translation type="unfinished"/>
+        <translation>CGm fitxategia</translation>
     </message>
     <message>
         <source>CGM File (*.cgm *.CGM)</source>
-        <translation type="unfinished"/>
+        <translation>CGM fitxategia (*.cgm *.CGM)</translation>
     </message>
     <message>
         <source>Imports CGM Files</source>
-        <translation type="unfinished"/>
+        <translation>CGM fitxategiak inportatzen ditu</translation>
     </message>
     <message>
         <source>Imports most binary CGM files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>CGM fitxategi bitar gehienak uneko dokumentura inportatzen ditu,
+Haien datu bektorialak Scribus objektu bihurtuz.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7229,31 +7262,32 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Import Computer Graphics Metafile...</source>
-        <translation type="unfinished"/>
+        <translation>Inportatu Computer Graphics Metafile...</translation>
     </message>
     <message>
         <source>Computer Graphics Metafile</source>
-        <translation type="unfinished"/>
+        <translation>Computer Graphics Metafile</translation>
     </message>
     <message>
         <source>Computer Graphics Metafile (*.cgm *.CGM)</source>
-        <translation type="unfinished"/>
+        <translation>Computer Graphics Metafile (*.cgm *.CGM)</translation>
     </message>
 </context>
 <context>
     <name>ImportCvgPlugin</name>
     <message>
         <source>Import Cvg...</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Inportatu CVG...</translation>
     </message>
     <message>
         <source>Imports Cvg Files</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">CVG fitxategiak inportatzen ditu</translation>
     </message>
     <message>
         <source>Imports most Cvg files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">CVG fitxategi gehienak uneko dokumentura inportatzen ditu,
+haien datu bektorialak Scribus objektu bihurtuz.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7261,40 +7295,42 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Import Calamus Vector Graphics...</source>
-        <translation type="unfinished"/>
+        <translation>Inportatu Calamus Vector Graphics...</translation>
     </message>
     <message>
         <source>Imports Calamus Vector Graphics Files</source>
-        <translation type="unfinished"/>
+        <translation>Calamus Vector Graphics fitxategiak inportatzen ditu</translation>
     </message>
     <message>
         <source>Imports most Calamus Vector Graphics files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Calamus Vector Graphics fitxategi gehienak uneko dokumentura
+inportatzen ditu, haien datu bektorialak Scribus objektu bihurtuz.</translation>
     </message>
 </context>
 <context>
     <name>ImportDrwPlugin</name>
     <message>
         <source>Import DRW...</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Inportatu DRW...</translation>
     </message>
     <message>
         <source>Micrografx DRW File</source>
-        <translation type="unfinished"/>
+        <translation>Micrografx DRW fitxategia</translation>
     </message>
     <message>
         <source>Micrografx DRW File (*.drw *.DRW)</source>
-        <translation type="unfinished"/>
+        <translation>Micrografx DRW fitxategia (*.drw *.DRW)</translation>
     </message>
     <message>
         <source>Imports DRW Files</source>
-        <translation type="unfinished"/>
+        <translation>DRW fitxategiak inportatzen ditu</translation>
     </message>
     <message>
         <source>Imports most DRW files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>DRW fitxategi gehienak uneko dokumentura inportatzen ditu,
+haien datu bektorialak Scribus objektu bihurtuz.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7302,47 +7338,48 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Micrografx DRW</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Micrografx DRW</translation>
     </message>
     <message>
         <source>Micrografx DRW (*.drw *.DRW)</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Micrografx DRW (*.drw *.DRW)</translation>
     </message>
     <message>
         <source>Import Micrografx Draw...</source>
-        <translation type="unfinished"/>
+        <translation>Inportatu Micrografx Draw...</translation>
     </message>
     <message>
         <source>Micrografx Draw</source>
-        <translation type="unfinished"/>
+        <translation>Micrografx Draw</translation>
     </message>
     <message>
         <source>Micrografx Draw (*.drw *.DRW)</source>
-        <translation type="unfinished"/>
+        <translation>Micrografx Draw (*.drw *.DRW)</translation>
     </message>
 </context>
 <context>
     <name>ImportEmfPlugin</name>
     <message>
         <source>Import EMF...</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Inportatu EMF...</translation>
     </message>
     <message>
         <source>EMF</source>
-        <translation type="unfinished"/>
+        <translation>EMF</translation>
     </message>
     <message>
         <source>EMF (*.emf *.EMF)</source>
-        <translation type="unfinished"/>
+        <translation>EMF (*.emf *.EMF)</translation>
     </message>
     <message>
         <source>Imports EMF Files</source>
-        <translation type="unfinished"/>
+        <translation>EMF fitxategiak inportatzen ditu</translation>
     </message>
     <message>
         <source>Imports most EMF files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>EMF fitxategi gehienak uneko dokumentura inportatzen ditu,
+haien datu bektorialak Scribus objektu bihurtuz.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7350,67 +7387,69 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Import Enhanced Metafile...</source>
-        <translation type="unfinished"/>
+        <translation>Inportatu Enhanced Metafile...</translation>
     </message>
     <message>
         <source>Enhanced Metafile</source>
-        <translation type="unfinished"/>
+        <translation>Enhanced Metafile</translation>
     </message>
     <message>
         <source>Enhanced Metafile (*.emf *.EMF)</source>
-        <translation type="unfinished"/>
+        <translation>Enhanced Metafile (*.emf *.EMF)</translation>
     </message>
 </context>
 <context>
     <name>ImportFhPlugin</name>
     <message>
         <source>Import Freehand...</source>
-        <translation type="unfinished"/>
+        <translation>Inportatu Freehand...</translation>
     </message>
     <message>
         <source>Freehand</source>
-        <translation type="unfinished"/>
+        <translation>Freehand</translation>
     </message>
     <message>
         <source>Freehand (*.fh* *.FH*)</source>
-        <translation type="unfinished"/>
+        <translation>Freehand (*.fh* *.FH*)</translation>
     </message>
     <message>
         <source>Imports Freehand Files</source>
-        <translation type="unfinished"/>
+        <translation>Freehand fitxategia inportatzen ditu</translation>
     </message>
     <message>
         <source>Imports most Freehand files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Freehand fitxategi gehienak uneko dokumentura inportatzen ditu,
+haien datu bektorialak Scribus objektu bihurtuz.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
-        <translation type="unfinished"/>
+        <translation>Onartutako formatu guztiak</translation>
     </message>
 </context>
 <context>
     <name>ImportIdml</name>
     <message>
         <source>Imports Adobe Idml Packages</source>
-        <translation type="unfinished"/>
+        <translation>Adobe IDML paketeak inportatzen ditu</translation>
     </message>
     <message>
         <source>Imports Adobe Indesign's idml packages into Scribus
  converting Indesign objects into scribus pageitems; not all are supported in Scribus, but all those supported are being imported here</source>
-        <translation type="unfinished"/>
+        <translation>Adobe Indesign aplikazioaren IDML paketeak inportatzen ditu,
+Indesign objektuak Scribus elementu bihurtuz; Scribus-ek ez ditu denak onartzen, baina onartutako guztiak hona inportatuko dira</translation>
     </message>
     <message>
         <source>GPL</source>
-        <translation type="unfinished"/>
+        <translation>GPL</translation>
     </message>
     <message>
         <source>Adobe Indesign IDML</source>
-        <translation type="unfinished"/>
+        <translation>Adobe Indesign IDML</translation>
     </message>
     <message>
         <source>Adobe Indesign IDML (*.idml *.IDML)</source>
-        <translation type="unfinished"/>
+        <translation>Adobe Indesign IDML (*.idml *.IDML)</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7421,32 +7460,33 @@ converting their vector data into Scribus objects.</source>
     <name>ImportIdmlPlugin</name>
     <message>
         <source>Import Idml...</source>
-        <translation type="unfinished"/>
+        <translation>Inportatu IDML...</translation>
     </message>
     <message>
         <source>Adobe Indesign IDML</source>
-        <translation type="unfinished"/>
+        <translation>Adobe Indesign IDML</translation>
     </message>
     <message>
         <source>Adobe Indesign IDML (*.idml *.IDML)</source>
-        <translation type="unfinished"/>
+        <translation>Adobe Indesign IDML (*.idml *.IDML)</translation>
     </message>
     <message>
         <source>Imports IDML Files</source>
-        <translation type="unfinished"/>
+        <translation>IDML fitxategiak inportatzen ditu</translation>
     </message>
     <message>
         <source>Imports most IDML files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>IDML fitxategi gehienak uneko dokumentura inportatzen ditu,
+haien datu bektorialak Scribus objektu bihurtuz.</translation>
     </message>
     <message>
         <source>Adobe Indesign IDMS</source>
-        <translation type="unfinished"/>
+        <translation>Adobe Indesign IDMS</translation>
     </message>
     <message>
         <source>Adobe Indesign IDMS (*.idms *.IDMS)</source>
-        <translation type="unfinished"/>
+        <translation>Adobe Indesign IDMS (*.idms *.IDMS)</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7457,34 +7497,35 @@ converting their vector data into Scribus objects.</source>
     <name>ImportOdgPlugin</name>
     <message>
         <source>Import ODF Document...</source>
-        <translation type="unfinished"/>
+        <translation>Inportatu ODF dokumentua...</translation>
     </message>
     <message>
         <source>ODF Drawing</source>
         <comment>Import/export format name</comment>
-        <translation type="unfinished"/>
+        <translation>ODF Drawing</translation>
     </message>
     <message>
         <source>ODF Drawing (*.odg *.ODG *.fodg *.FODG)</source>
-        <translation type="unfinished"/>
+        <translation>ODF Drawing (*.odg *.ODG *.fodg *.FODG)</translation>
     </message>
     <message>
         <source>ODF Presentation</source>
         <comment>Import/export format name</comment>
-        <translation type="unfinished"/>
+        <translation>ODF Presentation</translation>
     </message>
     <message>
         <source>ODF Presentation (*.odp *.ODP *.fodp *.FODP)</source>
-        <translation type="unfinished"/>
+        <translation>ODF Presentation (*.odp *.ODP *.fodp *.FODP)</translation>
     </message>
     <message>
         <source>Imports ODF Drawing Files</source>
-        <translation type="unfinished"/>
+        <translation>ODF Drawing fitxategiak inportatzen ditu</translation>
     </message>
     <message>
         <source>Imports most ODF Drawing files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>ODF Drawing fitxategi gehienak uneko dokumentura
+inportatzen ditu, haien datu bektorialak Scribus objektu bihurtuz.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7495,40 +7536,42 @@ converting their vector data into Scribus objects.</source>
     <name>ImportPSPlugin</name>
     <message>
         <source>Import PostScript...</source>
-        <translation type="unfinished"/>
+        <translation>Inportatu PostScript...</translation>
     </message>
     <message>
         <source>Imports PostScript Files</source>
-        <translation type="unfinished"/>
+        <translation>PostScript fitxategiak inportatzen ditu</translation>
     </message>
     <message>
         <source>Imports most PostScript files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>PostScript fitxategi gehienak uneko dokumentura inportatzen ditu,
+haien datu bektorialak Scribus objektu bihurtuz.</translation>
     </message>
 </context>
 <context>
     <name>ImportPagesPlugin</name>
     <message>
         <source>Import iWorks Pages...</source>
-        <translation type="unfinished"/>
+        <translation>Inportatu iWorks Pages...</translation>
     </message>
     <message>
         <source>iWorks Pages</source>
-        <translation type="unfinished"/>
+        <translation>iWorks Pages</translation>
     </message>
     <message>
         <source>iWorks Pages (*.pages *.PAGES)</source>
-        <translation type="unfinished"/>
+        <translation>iWorks Pages (*.pages *.PAGES)</translation>
     </message>
     <message>
         <source>Imports iWorks Pages Files</source>
-        <translation type="unfinished"/>
+        <translation>iWorks Pages fitxategiak inportatzen ditu</translation>
     </message>
     <message>
         <source>Imports most iWorks Pages files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>iWorks Pages fitxategi gehienak uneko dokumentura
+inportatzen ditu, haien datu bektorialak Scribus objektu bihurtuz.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7539,16 +7582,17 @@ converting their vector data into Scribus objects.</source>
     <name>ImportPctPlugin</name>
     <message>
         <source>Import Pict...</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Inportatu Pict...</translation>
     </message>
     <message>
         <source>Imports Pict Files</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Inportatu Pict fitxategiak</translation>
     </message>
     <message>
         <source>Imports most Mac Pict files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Mac Pict fitxategi gehienak uneko dokumentura
+inportatzen ditu, haien datu bektorialak Scribus objektu bihurtuz.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7556,32 +7600,34 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Import Macintosh Pict...</source>
-        <translation type="unfinished"/>
+        <translation>Inportatu Macintosh Pict...</translation>
     </message>
     <message>
         <source>Imports Macintosh Pict Files</source>
-        <translation type="unfinished"/>
+        <translation>Macintosh Pict fitxategiak inportatzen ditu</translation>
     </message>
     <message>
         <source>Imports most Macintosh Pict files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Macintosh Pict fitxategi gehienak uneko dokumentura
+inportatzen ditu, haien datu bektorialak Scribus objektu bihurtuz.</translation>
     </message>
 </context>
 <context>
     <name>ImportPdfPlugin</name>
     <message>
         <source>Import PDF...</source>
-        <translation type="unfinished"/>
+        <translation>Inportatu PDF...</translation>
     </message>
     <message>
         <source>Imports PDF Files</source>
-        <translation type="unfinished"/>
+        <translation>PDF fitxategiak inportatzen ditu</translation>
     </message>
     <message>
         <source>Imports most PDF files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>PDF fitxategi gehienak uneko dokumentura inportatzen
+ditu, haien datu bektorialak Scribus objektu bihurtuz.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7589,31 +7635,32 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>The Import plugin cannot handle Postscript files</source>
-        <translation type="unfinished"/>
+        <translation>Inportazio-pluginak ezin ditu PostScript fitxategiak maneiatu</translation>
     </message>
 </context>
 <context>
     <name>ImportPmPlugin</name>
     <message>
         <source>Import Pagemaker...</source>
-        <translation type="unfinished"/>
+        <translation>Inportatu Pagemaker...</translation>
     </message>
     <message>
         <source>Pagemaker</source>
-        <translation type="unfinished"/>
+        <translation>Pagemaker</translation>
     </message>
     <message>
         <source>Pagemaker (*.pmd *.PMD *.pm *.PM *.pm3 *.PM3 *.pm4 *.PM4 *.pm5 *.PM5 *.pm6 *.PM6 *.p65 *.P65)</source>
-        <translation type="unfinished"/>
+        <translation>Pagemaker (*.pmd *.PMD *.pm *.PM *.pm3 *.PM3 *.pm4 *.PM4 *.pm5 *.PM5 *.pm6 *.PM6 *.p65 *.P65)</translation>
     </message>
     <message>
         <source>Imports Pagemaker Files</source>
-        <translation type="unfinished"/>
+        <translation>Pagemaker fitxategiak inportatzen ditu</translation>
     </message>
     <message>
         <source>Imports most Pagemaker files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Pagemaker fitxategi gehienak uneko dokumentura inportatzen
+ditu, haien datu bektorialak Scribus objektu bihurtuz.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7624,24 +7671,25 @@ converting their vector data into Scribus objects.</source>
     <name>ImportPubPlugin</name>
     <message>
         <source>Import PUB...</source>
-        <translation type="unfinished"/>
+        <translation>Inportatu PUB...</translation>
     </message>
     <message>
         <source>MS Publisher</source>
-        <translation type="unfinished"/>
+        <translation>MS Publisher</translation>
     </message>
     <message>
         <source>MS Publisher (*.pub *.PUB)</source>
-        <translation type="unfinished"/>
+        <translation>MS Publisher (*.pub *.PUB)</translation>
     </message>
     <message>
         <source>Imports PUB Files</source>
-        <translation type="unfinished"/>
+        <translation>Inportatu PUB fitxategiak</translation>
     </message>
     <message>
         <source>Imports most MS Publisher files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>MS Publisher fitxategi gehienak uneko dokumentura inportatzen
+ditu, haien datu bektorialak Scribus objektu bihurtuz.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7652,28 +7700,29 @@ converting their vector data into Scribus objects.</source>
     <name>ImportShapePlugin</name>
     <message>
         <source>Import Dia Shapes...</source>
-        <translation type="unfinished"/>
+        <translation>Inportatu Dia Shapes...</translation>
     </message>
     <message>
         <source>Dia Shapes &quot;*.shape&quot; File</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Dia Shapes &quot;*.shape&quot; fitxategia</translation>
     </message>
     <message>
         <source>Dia Shapes &quot;*.shape&quot; File (*.shape *.SHAPE)</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Dia Shapes &quot;*.shape&quot; fitxategia (*.shape *.SHAPE)</translation>
     </message>
     <message>
         <source>Imports Dia shape Files</source>
-        <translation type="unfinished"/>
+        <translation>Dia shape fitxategiak inportatzen ditu</translation>
     </message>
     <message>
         <source>Imports most Dia shapes into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Dia Shapes gehienak uneko dokumentura inportatzen
+ditu, haien datu bektorialak Scribus objektu bihurtuz.</translation>
     </message>
     <message>
         <source>Dia shapes &quot;*.shape&quot; File (*.shape *.SHAPE)</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Dia shapes &quot;*.shape&quot; fitxategia (*.shape *.SHAPE)</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7681,39 +7730,40 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Dia Shapes</source>
-        <translation type="unfinished"/>
+        <translation>Dia Shapes</translation>
     </message>
     <message>
         <source>Dia Shapes (*.shape *.SHAPE)</source>
-        <translation type="unfinished"/>
+        <translation>Dia Shapes (*.shape *.SHAPE)</translation>
     </message>
     <message>
         <source>Dia shapes (*.shape *.SHAPE)</source>
-        <translation type="unfinished"/>
+        <translation>Dia shapes (*.shape *.SHAPE)</translation>
     </message>
 </context>
 <context>
     <name>ImportSmlPlugin</name>
     <message>
         <source>Import Sml...</source>
-        <translation type="unfinished"/>
+        <translation>Inportatu SML...</translation>
     </message>
     <message>
         <source>Kivio Stencils &quot;*.sml&quot; File</source>
-        <translation type="unfinished"/>
+        <translation>Kivio Stencils &quot;*.sml&quot; fitxategia</translation>
     </message>
     <message>
         <source>Kivio Stencils &quot;*.sml&quot; File (*.sml *.SML)</source>
-        <translation type="unfinished"/>
+        <translation>Kivio Stencils &quot;*.sml&quot; fitxategia (*.sml *.SML)</translation>
     </message>
     <message>
         <source>Imports Sml Files</source>
-        <translation type="unfinished"/>
+        <translation>SML fitxategiak inportatzen ditu</translation>
     </message>
     <message>
         <source>Imports most Kivio stencils into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Kivio Stencils gehienak uneko dokumentura inportatzen
+ditu, haien datu bektorialak Scribus objektu bihurtuz.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7721,35 +7771,36 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Kivio Stencils</source>
-        <translation type="unfinished"/>
+        <translation>Kivio Stencils</translation>
     </message>
     <message>
         <source>Kivio Stencils (*.sml *.SML)</source>
-        <translation type="unfinished"/>
+        <translation>Kivio Stencils (*.sml *.SML)</translation>
     </message>
 </context>
 <context>
     <name>ImportSvmPlugin</name>
     <message>
         <source>Import SVM...</source>
-        <translation type="unfinished"/>
+        <translation>Inportatu SVM...</translation>
     </message>
     <message>
         <source>SVM</source>
-        <translation type="unfinished"/>
+        <translation>SVM</translation>
     </message>
     <message>
         <source>SVM (*.svm *.svm)</source>
-        <translation type="unfinished"/>
+        <translation>SVM (*.svm *.svm)</translation>
     </message>
     <message>
         <source>Imports SVM Files</source>
-        <translation type="unfinished"/>
+        <translation>SVM fitxategiak inportatzen ditu</translation>
     </message>
     <message>
         <source>Imports most SVM files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>SVM fitxategi gehienak uneko dokumentura inportatzen
+ditu, haien datu bektorialak Scribus objektu bihurtuz.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7760,24 +7811,25 @@ converting their vector data into Scribus objects.</source>
     <name>ImportVivaPlugin</name>
     <message>
         <source>Import Viva...</source>
-        <translation type="unfinished"/>
+        <translation>Inportatu Viva...</translation>
     </message>
     <message>
         <source>Viva Designer XML</source>
-        <translation type="unfinished"/>
+        <translation>Viva Designer XML</translation>
     </message>
     <message>
         <source>Viva Designer XML (*.xml *.XML)</source>
-        <translation type="unfinished"/>
+        <translation>Viva Designer XML (*.xml *.XML)</translation>
     </message>
     <message>
         <source>Imports Viva Files</source>
-        <translation type="unfinished"/>
+        <translation>Viva fitxategiak inportatzen dit</translation>
     </message>
     <message>
         <source>Imports most Viva files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Viva fitxategi gehienak uneko dokumentura inportatzen
+ditu, haien datu bektorialak Scribus objektu bihurtuz.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7788,24 +7840,25 @@ converting their vector data into Scribus objects.</source>
     <name>ImportVsdPlugin</name>
     <message>
         <source>Import Visio...</source>
-        <translation type="unfinished"/>
+        <translation>Inportatu Visio...</translation>
     </message>
     <message>
         <source>MS Visio</source>
-        <translation type="unfinished"/>
+        <translation>MS Visio</translation>
     </message>
     <message>
         <source>MS Visio (*.vsd *.VSD *.vdx *.VDX *.vsdx *.VSDX)</source>
-        <translation type="unfinished"/>
+        <translation>MS Visio (*.vsd *.VSD *.vdx *.VDX *.vsdx *.VSDX)</translation>
     </message>
     <message>
         <source>Imports MS Visio Files</source>
-        <translation type="unfinished"/>
+        <translation>MS Visio fitxategiak inportatzen ditu</translation>
     </message>
     <message>
         <source>Imports most MS Visio files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>MS Visio fitxategi gehienak uneko dokumentura inportatzen
+ditu, haien datu bektorialak Scribus objektu bihurtuz.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7816,16 +7869,17 @@ converting their vector data into Scribus objects.</source>
     <name>ImportWpgPlugin</name>
     <message>
         <source>Import WPG...</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Inportatu WPG...</translation>
     </message>
     <message>
         <source>Imports WPG Files</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">WPG fitxategiak inportatzen ditu</translation>
     </message>
     <message>
         <source>Imports most WPG files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">WPG fitxategi gehienak uneko dokumentura inportatzen
+ditu, haien datu bektorialak Scribus objektu bihurtuz.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7833,40 +7887,42 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Import WordPerfect Graphics...</source>
-        <translation type="unfinished"/>
+        <translation>Inportatu WordPerfect Graphics...</translation>
     </message>
     <message>
         <source>Imports WordPerfect Graphics Files</source>
-        <translation type="unfinished"/>
+        <translation>WordPerfect Graphics fitxategiak inportatzen ditu</translation>
     </message>
     <message>
         <source>Imports most WordPerfect Graphics files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>WordPerfect Graphics fitxategi gehienak uneko dokumentura
+inportatzen ditu, haien datu bektorialak Scribus objektu bihurtuz.</translation>
     </message>
 </context>
 <context>
     <name>ImportXarPlugin</name>
     <message>
         <source>Import Xara...</source>
-        <translation type="unfinished"/>
+        <translation>Inportatu Xara...</translation>
     </message>
     <message>
         <source>XARA &quot;*.xar&quot; File</source>
-        <translation type="unfinished"/>
+        <translation>XARA &quot;*.xar&quot; fitxategia</translation>
     </message>
     <message>
         <source>XARA &quot;*.xar&quot; File (*.xar *.XAR)</source>
-        <translation type="unfinished"/>
+        <translation>XARA &quot;*.xar&quot; fitxategia (*.xar *.XAR)</translation>
     </message>
     <message>
         <source>Imports Xara Files</source>
-        <translation type="unfinished"/>
+        <translation>Xara fitxategiak inportatzen ditu</translation>
     </message>
     <message>
         <source>Imports most Xara files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Xara fitxategi gehienak uneko dokumentura inportatzen
+ditu, haien datu bektorialak Scribus objektu bihurtuz.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7874,27 +7930,28 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>XARA</source>
-        <translation type="unfinished"/>
+        <translation>XARA</translation>
     </message>
     <message>
         <source>XARA (*.xar *.XAR)</source>
-        <translation type="unfinished"/>
+        <translation>XARA (*.xar *.XAR)</translation>
     </message>
 </context>
 <context>
     <name>ImportXfigPlugin</name>
     <message>
         <source>Import Xfig...</source>
-        <translation type="unfinished"/>
+        <translation>Inportatu Xfig...</translation>
     </message>
     <message>
         <source>Imports Xfig Files</source>
-        <translation type="unfinished"/>
+        <translation>Xfig fitxategiak inportatzen ditu</translation>
     </message>
     <message>
         <source>Imports most Xfig files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Xfig fitxategi gehienak uneko dokumentura inportatzen
+ditu, haien datu bektorialak Scribus objektu bihurtuz.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7905,32 +7962,33 @@ converting their vector data into Scribus objects.</source>
     <name>ImportXpsPlugin</name>
     <message>
         <source>Import Xps...</source>
-        <translation type="unfinished"/>
+        <translation>Inportatu XPS...</translation>
     </message>
     <message>
         <source>Microsoft XPS</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft XPS</translation>
     </message>
     <message>
         <source>Microsoft XPS (*.xps *.XPS)</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft XPS (*.xps *.XPS)</translation>
     </message>
     <message>
         <source>Open XML Paper</source>
-        <translation type="unfinished"/>
+        <translation>Open XML Paper</translation>
     </message>
     <message>
         <source>Open XML Paper (*.oxps *.OXPS)</source>
-        <translation type="unfinished"/>
+        <translation>Open XML Paper (*.oxps *.OXPS)</translation>
     </message>
     <message>
         <source>Imports XPS and Open XML Paper Files</source>
-        <translation type="unfinished"/>
+        <translation>XPS eta Open XML Paper fitxategiak inportatzen ditu</translation>
     </message>
     <message>
         <source>Imports most XPS and Open XML Paper files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>XPS eta Open XML Paper fitxategi gehienak uneko dokumentura
+inportatzen ditu, haien datu bektorialak Scribus objektu bihurtuz.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7952,11 +8010,11 @@ converting their vector data into Scribus objects.</source>
     <name>ImpositionBase</name>
     <message>
         <source>Imposition</source>
-        <translation type="unfinished"/>
+        <translation>Inposatzea</translation>
     </message>
     <message>
         <source>Gri&amp;d</source>
-        <translation type="unfinished"/>
+        <translation>Sa&amp;reta</translation>
     </message>
     <message>
         <source>Copies</source>
@@ -7964,7 +8022,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Do&amp;uble sided</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Bi aldetatik</translation>
     </message>
     <message>
         <source>Alt+U</source>
@@ -7972,62 +8030,65 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Front side</source>
-        <translation type="unfinished"/>
+        <translation>Aurreko aldea</translation>
     </message>
     <message>
         <source>Back side</source>
-        <translation type="unfinished"/>
+        <translation>Atzeko aldea</translation>
     </message>
     <message>
         <source>&amp;Booklet</source>
-        <translation type="unfinished"/>
+        <translation>Liburu&amp;xka</translation>
     </message>
     <message>
         <source>Pages per sheet</source>
-        <translation type="unfinished"/>
+        <translation>Orrialdeak orriko</translation>
     </message>
     <message>
         <source>4</source>
-        <translation type="unfinished"/>
+        <translation>4</translation>
     </message>
     <message>
         <source>8</source>
-        <translation type="unfinished"/>
+        <translation>8</translation>
     </message>
     <message>
         <source>16</source>
-        <translation type="unfinished"/>
+        <translation>16</translation>
     </message>
     <message>
         <source>Pages</source>
-        <translation type="unfinished"/>
+        <translation>Orrialdeak</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans Serif'; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Separate pages with a comma, ranges with a hyphen, e.g. 1,4,9-11 to get pages 1,4,9,10,11.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans Serif&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Banandu orrialdeak komarekin, barrutiak marratxoarekin, adib. 1,4,9-11 honako orrialdeak jasotzeko: 1,4,9,10,11.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Fold</source>
-        <translation type="unfinished"/>
+        <translation>Agiri tolestua</translation>
     </message>
     <message>
         <source>Front page from</source>
-        <translation type="unfinished"/>
+        <translation>Aurreko azala hemendik:</translation>
     </message>
     <message>
         <source>Double sided</source>
-        <translation type="unfinished"/>
+        <translation>Bi aldetatik</translation>
     </message>
     <message>
         <source>Back page from</source>
-        <translation type="unfinished"/>
+        <translation>Atzeko azala hemendik:</translation>
     </message>
     <message>
         <source>Destination page</source>
-        <translation type="unfinished"/>
+        <translation>Helburuko orrialdea</translation>
     </message>
     <message>
         <source>Size</source>
@@ -8047,11 +8108,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"/>
+        <translation>Aurrebista</translation>
     </message>
     <message>
         <source>Refresh preview</source>
-        <translation type="unfinished"/>
+        <translation>Freskatu aurrebista</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -8074,30 +8135,30 @@ p, li { white-space: pre-wrap; }
     <name>ImpositionPlugin</name>
     <message>
         <source>&amp;Imposition...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Inposatzea...</translation>
     </message>
     <message>
         <source>Imposition dialog</source>
-        <translation type="unfinished"/>
+        <translation>Inposatze-koadroa</translation>
     </message>
     <message>
         <source>Imposition on grids, booklets and folds</source>
-        <translation type="unfinished"/>
+        <translation>Inposatzea saretetan, liburuxketan eta agiri tolestuetan</translation>
     </message>
 </context>
 <context>
     <name>InlinePalette</name>
     <message>
         <source>Paste to Item</source>
-        <translation type="unfinished"/>
+        <translation>Itsatsi elementura</translation>
     </message>
     <message>
         <source>Edit Item</source>
-        <translation type="unfinished"/>
+        <translation>Editatu elementua</translation>
     </message>
     <message>
         <source>Remove Item</source>
-        <translation type="unfinished"/>
+        <translation>Kendu elementua</translation>
     </message>
     <message>
         <source>Inline Items</source>
@@ -8183,7 +8244,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>T&amp;ype</source>
-        <translation type="unfinished"/>
+        <translation>M&amp;ota</translation>
     </message>
     <message>
         <source>&amp;Text Frame</source>
@@ -8195,15 +8256,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Location</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kokapena</translation>
     </message>
     <message>
         <source>Page Placement</source>
-        <translation type="unfinished"/>
+        <translation>Orrialde-kokapena</translation>
     </message>
     <message>
         <source>Current Page</source>
-        <translation type="unfinished"/>
+        <translation>Uneko orrialdea</translation>
     </message>
     <message>
         <source>All Pages</source>
@@ -8215,23 +8276,23 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Position of Frame</source>
-        <translation type="unfinished"/>
+        <translation>Markoaren posizioa</translation>
     </message>
     <message>
         <source>Top Left of Margins</source>
-        <translation type="unfinished"/>
+        <translation>Marjinen goi ezkerrean</translation>
     </message>
     <message>
         <source>Top Left of Page</source>
-        <translation type="unfinished"/>
+        <translation>Orriadearen goi ezkerrean</translation>
     </message>
     <message>
         <source>Top Left of Bleed</source>
-        <translation type="unfinished"/>
+        <translation>Koskatzearen goi ezkerrean</translation>
     </message>
     <message>
         <source>X:</source>
-        <translation type="unfinished"/>
+        <translation>X:</translation>
     </message>
     <message>
         <source>Y:</source>
@@ -8243,19 +8304,19 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Same as the Page Margins</source>
-        <translation type="unfinished"/>
+        <translation>Orrialde-marjinen bera</translation>
     </message>
     <message>
         <source>Same as the Page</source>
-        <translation type="unfinished"/>
+        <translation>Orrialdearen bera</translation>
     </message>
     <message>
         <source>Same as the Bleed</source>
-        <translation type="unfinished"/>
+        <translation>Koskatzearen bera</translation>
     </message>
     <message>
         <source>Same as the Imported Image</source>
-        <translation type="unfinished"/>
+        <translation>Inportatutako irudiaren bera</translation>
     </message>
     <message>
         <source>Height:</source>
@@ -8267,39 +8328,39 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Options</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Aukerak</translation>
     </message>
     <message>
         <source>Source Image:</source>
-        <translation type="unfinished"/>
+        <translation>Iturburu-irudia:</translation>
     </message>
     <message>
         <source>There are no options for this type of frame</source>
-        <translation type="unfinished"/>
+        <translation>Ez dago aukerarik mota honetako markoetarako</translation>
     </message>
     <message>
         <source>Columns:</source>
-        <translation type="unfinished"/>
+        <translation>Zutabeak:</translation>
     </message>
     <message>
         <source>Gap:</source>
-        <translation type="unfinished"/>
+        <translation>Tartea:</translation>
     </message>
     <message>
         <source>Source Document:</source>
-        <translation type="unfinished"/>
+        <translation>Iturburu-dokumentua:</translation>
     </message>
     <message>
         <source>Range of Pages</source>
-        <translation type="unfinished"/>
+        <translation>Orrialde-barrutia</translation>
     </message>
     <message>
         <source>Custom Position</source>
-        <translation type="unfinished"/>
+        <translation>Posizio pertsonalizatua</translation>
     </message>
     <message>
         <source>Custom Size</source>
-        <translation type="unfinished"/>
+        <translation>Tamaina pertsonalizatua</translation>
     </message>
     <message>
         <source>&lt;b&gt;Insert a text frame&lt;/b&gt;&lt;br/&gt;A text frame allows you to enter any text in a defined position with the formatting you choose. You may select a text file on the Options tab if you want to immediately import a document into the frame. Scribus supports a wide variety of importable formats from plain text to OpenOffice.org.&lt;br/&gt;Your text may be edited and formatted on the page directly or in the Story Editor.</source>
@@ -8311,127 +8372,127 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Insert one or more text frames</source>
-        <translation type="unfinished"/>
+        <translation>Txertatu testu-marko bat edo gehiago</translation>
     </message>
     <message>
         <source>Insert one or more image frames</source>
-        <translation type="unfinished"/>
+        <translation>Txertatu irudi-marko bat edo gehiago</translation>
     </message>
     <message>
         <source>Place the new frames on the current page, on all pages or on a selected range</source>
-        <translation type="unfinished"/>
+        <translation>Kokatu marko berriak uneko orrialdean, orrialde guztietan edo hautatutako barruti batean</translation>
     </message>
     <message>
         <source>Insert the frame on the current page only</source>
-        <translation type="unfinished"/>
+        <translation>Txertatu markoa uneko orrialdean soilik</translation>
     </message>
     <message>
         <source>Insert one frame for each existing page</source>
-        <translation type="unfinished"/>
+        <translation>Txertatu marko bat existitzen den orrialde bakoitzeko</translation>
     </message>
     <message>
         <source>Insert frames on a range of pages</source>
-        <translation type="unfinished"/>
+        <translation>Txertatu markoak orrialdeen barruti batean</translation>
     </message>
     <message>
         <source>Range of pages to insert frames on</source>
-        <translation type="unfinished"/>
+        <translation>Markoak txertatuko diren orrialde-barrutia</translation>
     </message>
     <message>
         <source>Position the new frame in relation to the page</source>
-        <translation type="unfinished"/>
+        <translation>Kokatu marko berria orrialdearen barruan</translation>
     </message>
     <message>
         <source>Insert the frame at the top left of the page margins</source>
-        <translation type="unfinished"/>
+        <translation>Txertatu markoa orrialde-marjinen goi ezkerrean</translation>
     </message>
     <message>
         <source>Insert the frame at the top left of the page</source>
-        <translation type="unfinished"/>
+        <translation>Txertatu markoa orrialdearen goi ezkerrean</translation>
     </message>
     <message>
         <source>Insert the frame at the top left of the page bleed</source>
-        <translation type="unfinished"/>
+        <translation>Txertatu markoa orrialde-koskatzearen goi ezkerrean</translation>
     </message>
     <message>
         <source>Insert the frame at a custom position on the page</source>
-        <translation type="unfinished"/>
+        <translation>Txertatu markoa orrialdearen posizio pertsonalizatu batean</translation>
     </message>
     <message>
         <source>Top position of the inserted frame</source>
-        <translation type="unfinished"/>
+        <translation>Txertatutako markoaren goiko posizioa</translation>
     </message>
     <message>
         <source>Left position of the inserted frame</source>
-        <translation type="unfinished"/>
+        <translation>Txertatutako markoaren ezkerreko posizioa</translation>
     </message>
     <message>
         <source>Insert the new frame with the same dimensions as the page margins</source>
-        <translation type="unfinished"/>
+        <translation>Txertatu marko berria orrialde-marjinen dimentsio berekin</translation>
     </message>
     <message>
         <source>Insert the new frame with the same dimensions as the page</source>
-        <translation type="unfinished"/>
+        <translation>Txertatu marko berria orrialdearen dimentsio berekin</translation>
     </message>
     <message>
         <source>Insert the new frame with the same dimensions as the bleed area outside the boundary of the page itself</source>
-        <translation type="unfinished"/>
+        <translation>Txertatu marko berria orrialdearen beraren kanpoko mugetan dagoen koskatze-arearen dimentsio berekin</translation>
     </message>
     <message>
         <source>Insert the new frame with the same dimensions as the image that will be imported</source>
-        <translation type="unfinished"/>
+        <translation>Txertatu marko berria inportatuko den irudiaren dimentsio berekin</translation>
     </message>
     <message>
         <source>Insert the new frame with a custom size</source>
-        <translation type="unfinished"/>
+        <translation>Txertatu marko berria tamaina pertsonalizatu batekin</translation>
     </message>
     <message>
         <source>Width of the inserted frame</source>
-        <translation type="unfinished"/>
+        <translation>Txertatutako markoaren zabalera</translation>
     </message>
     <message>
         <source>Height of the inserted frame</source>
-        <translation type="unfinished"/>
+        <translation>Txertatutako markoaren altuera</translation>
     </message>
     <message>
         <source>Number of columns for the inserted text frame</source>
-        <translation type="unfinished"/>
+        <translation>Txertatutako testu-markoaren zutabe kopurua</translation>
     </message>
     <message>
         <source>Distance between the columns in the text frame</source>
-        <translation type="unfinished"/>
+        <translation>Testu-markoaren zutabeen arteko distantzia</translation>
     </message>
     <message>
         <source>Link the inserted text frames together to form a chain of frames</source>
-        <translation type="unfinished"/>
+        <translation>Estekatu txertatutako testu-markoak elkarri markoen kate bat osatzeko</translation>
     </message>
     <message>
         <source>Link Inserted Frames</source>
-        <translation type="unfinished"/>
+        <translation>Estekatu txertatutako markoak</translation>
     </message>
     <message>
         <source>Link the first inserted frame to a preexisting text frame</source>
-        <translation type="unfinished"/>
+        <translation>Estekatu txertatutako lehen markoa lehendik dagoen testu-marko bati</translation>
     </message>
     <message>
         <source>Link to Existing Frame</source>
-        <translation type="unfinished"/>
+        <translation>Estekatu lehendik dagoen marko bati</translation>
     </message>
     <message>
         <source>Name of existing text frame to link to</source>
-        <translation type="unfinished"/>
+        <translation>Lehendik dagoen testu-markoaren izena</translation>
     </message>
     <message>
         <source>Source document to load into the text frame</source>
-        <translation type="unfinished"/>
+        <translation>Testu-markoan kargatuko den iturburu-dokumentua</translation>
     </message>
     <message>
         <source>Source image to load into the inserted image frame</source>
-        <translation type="unfinished"/>
+        <translation>Txertatutako irudi-markoan kargatuko den iturburu-irudia</translation>
     </message>
     <message>
         <source>Insert Frames</source>
-        <translation type="unfinished"/>
+        <translation>Txertatu markoak</translation>
     </message>
 </context>
 <context>
@@ -8453,7 +8514,7 @@ p, li { white-space: pre-wrap; }
     <name>InsertTableColumnsDialog</name>
     <message>
         <source>Insert Column(s)</source>
-        <translation type="unfinished"/>
+        <translation>Txertatu zutabea(k)</translation>
     </message>
     <message>
         <source>Number of Columns:</source>
@@ -8469,7 +8530,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>positions</source>
-        <translation type="unfinished"/>
+        <translation>posizio</translation>
     </message>
     <message>
         <source>After</source>
@@ -8477,18 +8538,18 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Beginning</source>
-        <translation type="unfinished"/>
+        <translation>Hasiera</translation>
     </message>
     <message>
         <source>End</source>
-        <translation type="unfinished"/>
+        <translation>Amaiera</translation>
     </message>
 </context>
 <context>
     <name>InsertTableRowsDialog</name>
     <message>
         <source>Insert Row(s)</source>
-        <translation type="unfinished"/>
+        <translation>Txertatu errenkada(k)</translation>
     </message>
     <message>
         <source>Number of Rows:</source>
@@ -8504,7 +8565,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>positions</source>
-        <translation type="unfinished"/>
+        <translation>posizio</translation>
     </message>
     <message>
         <source>After</source>
@@ -8512,11 +8573,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Beginning</source>
-        <translation type="unfinished"/>
+        <translation>Hasiera</translation>
     </message>
     <message>
         <source>End</source>
-        <translation type="unfinished"/>
+        <translation>Amaiera</translation>
     </message>
 </context>
 <context>
@@ -8562,27 +8623,27 @@ p, li { white-space: pre-wrap; }
     <name>LatexEditor</name>
     <message>
         <source>Enter Code:</source>
-        <translation type="unfinished"/>
+        <translation>Sartu kodea:</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished"/>
+        <translation>Eguneratu</translation>
     </message>
     <message>
         <source>Revert</source>
-        <translation type="unfinished"/>
+        <translation>Leheneratu</translation>
     </message>
     <message>
         <source>Program Messages:</source>
-        <translation type="unfinished"/>
+        <translation>Programa-mezuak:</translation>
     </message>
     <message>
         <source>Status: Unknown</source>
-        <translation type="unfinished"/>
+        <translation>Egoera: ezezaguna</translation>
     </message>
     <message>
         <source>Kill Program</source>
-        <translation type="unfinished"/>
+        <translation>Hil programa</translation>
     </message>
     <message>
         <source>Options</source>
@@ -8602,15 +8663,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Program:</source>
-        <translation type="unfinished"/>
+        <translation>Programa:</translation>
     </message>
     <message>
         <source>Use Preamble</source>
-        <translation type="unfinished"/>
+        <translation>Erabili hitzaurrea</translation>
     </message>
     <message>
         <source>Status: </source>
-        <translation type="unfinished"/>
+        <translation>Egoera:</translation>
     </message>
     <message>
         <source>Error</source>
@@ -8622,11 +8683,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Running</source>
-        <translation type="unfinished"/>
+        <translation>Exekutatzen</translation>
     </message>
     <message>
         <source>No item selected!</source>
-        <translation type="unfinished"/>
+        <translation>Ez da elementurik hautatu!</translation>
     </message>
     <message>
         <source>Editor</source>
@@ -8638,31 +8699,31 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>An editor for this frame is already running!</source>
-        <translation type="unfinished"/>
+        <translation>Editore bat abian dago marko honetarako!</translation>
     </message>
     <message>
         <source>Editor running!</source>
-        <translation type="unfinished"/>
+        <translation>Editorea exekutatzen!</translation>
     </message>
     <message>
         <source>Please specify an editor in the preferences!</source>
-        <translation type="unfinished"/>
+        <translation>Mesedez adierazi editore bat hobespenetan!</translation>
     </message>
     <message>
         <source>Could not create a temporary file to run the external editor!</source>
-        <translation type="unfinished"/>
+        <translation>Ezin izan da aldi baterako fitxategia sortu kanpoko editorea exekutatzeko!</translation>
     </message>
     <message>
         <source>Run External Editor...</source>
-        <translation type="unfinished"/>
+        <translation>Exekutatu kanpoko editorea...</translation>
     </message>
     <message>
         <source>Running the editor failed with exitcode %d!</source>
-        <translation type="unfinished"/>
+        <translation>Editorearen exekuzioak huts egin du %d irteera-kodea emanda!</translation>
     </message>
     <message>
         <source>Running the editor &quot;%1&quot; failed!</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; editorearen exekuzioak huts egin du!</translation>
     </message>
     <message>
         <source>Insert Symbol</source>
@@ -8765,47 +8826,47 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Color of the Layer Indicator - Each layer has a color assigned to display on the canvas when layer indicators are enabled. You can double click to edit the color. </source>
-        <translation type="unfinished"/>
+        <translation>Geruza-adierazlearen kolorea - Geruza-adierazleak gaituta daudenean, geruza bakoitzak kolore bat du esleituta oihalean erakusten denerako. Klik bikoitza erabil dezakezu kolorea editatzeko.</translation>
     </message>
     <message>
         <source>Make Layer Visible - Uncheck to hide the layer from the display </source>
-        <translation type="unfinished"/>
+        <translation>Egin geruza ikusgai - Kendu marka geruza ezkutatzeko</translation>
     </message>
     <message>
         <source>Print Layer - Uncheck to disable printing. </source>
-        <translation type="unfinished"/>
+        <translation>Inprimatze-geruza - Kendu marka inprimatzea desgaitzeko.</translation>
     </message>
     <message>
         <source>Lock or Unlock Layer - Unchecked is unlocked </source>
-        <translation type="unfinished"/>
+        <translation>Blokeatu edo desblokeatu geruza - Marka kenduta dagoenean, desblokeatuta dago</translation>
     </message>
     <message>
         <source>Outline Mode - Toggles the &apos;wireframe&apos; display of objects to speed the display of very complex objects.</source>
-        <translation type="unfinished"/>
+        <translation>Eskema-modua - Objektuen iIngerada-bilbea&apos; ikuspegia txandakatzen du objektu oso konplexuen bistaratzea azkartzeko. </translation>
     </message>
     <message>
         <source>Selects the Blendmode, works only in PDF 1.4</source>
-        <translation type="unfinished"/>
+        <translation>Nahaste modua hautatzen du, PDF 1.4 formatuan soilik dabil</translation>
     </message>
     <message>
         <source>Layer Transparency, works only in PDF 1.4 and SVG</source>
-        <translation type="unfinished"/>
+        <translation>Geruza-gardentasuna, PDF 1.4 eta SVG formatuetan soilik dabil</translation>
     </message>
     <message>
         <source>Add a New Layer</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu geruza berria</translation>
     </message>
     <message>
         <source>Duplicate the Current Layer</source>
-        <translation type="unfinished"/>
+        <translation>Bikoiztu uneko geruza</translation>
     </message>
     <message>
         <source>Raise Layer</source>
-        <translation type="unfinished"/>
+        <translation>Goratu geruza</translation>
     </message>
     <message>
         <source>Lower Layer</source>
-        <translation type="unfinished"/>
+        <translation>Beheratu geruza</translation>
     </message>
     <message>
         <source>Make text in lower layers flow around objects - Enabling this forces text in lower layers to flow around objects of the layer for which this option has been enabled</source>
@@ -8813,18 +8874,18 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Name of the Layer - Double click on the name of a layer to edit the name</source>
-        <translation type="unfinished"/>
+        <translation>Geruzaren izena - Klik bikoitza geruzaren izenean hura editatzeko</translation>
     </message>
     <message>
         <source>Select Objects on Layer - Check to enable selecting. </source>
-        <translation type="unfinished"/>
+        <translation>Hautatu objektuak geruzan - Markatu hautatzea gaitzeko.</translation>
     </message>
 </context>
 <context>
     <name>LensDialogBase</name>
     <message>
         <source>Optical Lens</source>
-        <translation type="unfinished"/>
+        <translation>Objektibo optikoa</translation>
     </message>
     <message>
         <source>+</source>
@@ -8836,23 +8897,23 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Lens Parameters</source>
-        <translation type="unfinished"/>
+        <translation>Objektiboaren parametroak</translation>
     </message>
     <message>
         <source>Add a new lens</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu objektibo berria</translation>
     </message>
     <message>
         <source>&amp;Add Lens</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Gehitu objektiboa</translation>
     </message>
     <message>
         <source>Remove selected lens</source>
-        <translation type="unfinished"/>
+        <translation>Kendu hautatutako objektiboa</translation>
     </message>
     <message>
         <source>&amp;Remove Lens</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kendu objektiboa</translation>
     </message>
     <message>
         <source>Zoom In</source>
@@ -8864,70 +8925,70 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;X Pos:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;X kok.:</translation>
     </message>
     <message>
         <source>Horizontal position of the lens</source>
-        <translation type="unfinished"/>
+        <translation>Objektiboaren kokapen horizontala</translation>
     </message>
     <message>
         <source>&amp;Y Pos:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Y kok.:</translation>
     </message>
     <message>
         <source>Vertical position of the lens</source>
-        <translation type="unfinished"/>
+        <translation>Objektiboaren kokapen bertikala</translation>
     </message>
     <message>
         <source>The selected lens acts like a magnification lens</source>
-        <translation type="unfinished"/>
+        <translation>Hautatutako objektiboak handitze-objektibo modura jokatzen du</translation>
     </message>
     <message>
         <source>&amp;Magnification Lens</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Handitze-objektiboa</translation>
     </message>
     <message>
         <source>The selected lens acts like a fish eye lens</source>
-        <translation type="unfinished"/>
+        <translation>Hautatutako objektiboak arrain-begi modura jokatzen du</translation>
     </message>
     <message>
         <source>&amp;Fish Eye Lens</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Arrain-begi objektiboa</translation>
     </message>
     <message>
         <source>Ra&amp;dius:</source>
-        <translation type="unfinished"/>
+        <translation>Erra&amp;dioa</translation>
     </message>
     <message>
         <source>Radius of the lens</source>
-        <translation type="unfinished"/>
+        <translation>Objektiboaren erradioa</translation>
     </message>
     <message>
         <source>&amp;Strength:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sendotasuna</translation>
     </message>
     <message>
         <source>Strength of the lens</source>
-        <translation type="unfinished"/>
+        <translation>Objektiboaren sendotasuna</translation>
     </message>
 </context>
 <context>
     <name>LensEffectsPlugin</name>
     <message>
         <source>Lens Effects...</source>
-        <translation type="unfinished"/>
+        <translation>Objektibo-efektuak...</translation>
     </message>
     <message>
         <source>Path Tools</source>
-        <translation type="unfinished"/>
+        <translation>Bide-tresnak</translation>
     </message>
     <message>
         <source>Lens Effects</source>
-        <translation type="unfinished"/>
+        <translation>Objektibo-efektuak</translation>
     </message>
     <message>
         <source>Apply fancy lens effects</source>
-        <translation type="unfinished"/>
+        <translation>Aplikatu objektibo-efektu erakargarriak</translation>
     </message>
 </context>
 <context>
@@ -8938,16 +8999,17 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>An error occured while opening file or file is damaged</source>
-        <translation type="unfinished"/>
+        <translation>Errorea gertatu da fitxategia irekitzean edo fitxategia hondatuta dago</translation>
     </message>
     <message>
         <source>An error occured while parsing file at line %1, column %2 :
 %3</source>
-        <translation type="unfinished"/>
+        <translation>Errorea gertatu da fitxategia analizatzean, %1 lerroan, %2 zutabean :
+%3</translation>
     </message>
     <message>
         <source>No File Loader Plugins Found</source>
-        <translation type="unfinished"/>
+        <translation>Ez da fitxategi-kargatzaile pluginik aurkitu</translation>
     </message>
 </context>
 <context>
@@ -8990,19 +9052,19 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Random Paragraphs</source>
-        <translation type="unfinished"/>
+        <translation>Ausazko paragrafoak</translation>
     </message>
     <message>
         <source>Number of paragraphs of selected sample text to insert</source>
-        <translation type="unfinished"/>
+        <translation>Txertatuko den paragrafo kopurua hautatutako adibideko testutik </translation>
     </message>
     <message>
         <source>List of languages available to insert sample text in</source>
-        <translation type="unfinished"/>
+        <translation>Adibideko testua txertatuko den hizkuntza erabilgarrien zerrenda</translation>
     </message>
     <message>
         <source>Append to existing text</source>
-        <translation type="unfinished"/>
+        <translation>Erantsi lehendik dagoen testuari</translation>
     </message>
 </context>
 <context>
@@ -9061,23 +9123,23 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Size of the inserted pages, either a standard or custom size.</source>
-        <translation type="unfinished"/>
+        <translation>Txertatutako orrialdeen tamaina, bai estandarra bai pertsonalizatua.</translation>
     </message>
     <message>
         <source>Orientation of the page(s) to be inserted</source>
-        <translation type="unfinished"/>
+        <translation>Txertatuko d(ir)en orrialde(ar)en orientazioa</translation>
     </message>
     <message>
         <source>Width of the page(s) to be inserted</source>
-        <translation type="unfinished"/>
+        <translation>Txertatuko d(ir)en orrialde(ar)en zabalera</translation>
     </message>
     <message>
         <source>Height of the page(s) to be inserted</source>
-        <translation type="unfinished"/>
+        <translation>Txertatuko d(ir)en orrialde(ar)en altuera</translation>
     </message>
     <message>
         <source>When inserting a new page between others, move objects with their current pages. This is the default action.</source>
-        <translation type="unfinished"/>
+        <translation>Orrialde berria beste batzuen artean txertatzean, mugitu objektuak beren orrialdeekin. Ekintza lehenetsia da hau.</translation>
     </message>
 </context>
 <context>
@@ -9135,11 +9197,11 @@ distantzia</translation>
     </message>
     <message>
         <source>Apply settings to:</source>
-        <translation type="unfinished"/>
+        <translation>Aplikatu ezarpenak honi:</translation>
     </message>
     <message>
         <source>All Document Pages</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentuaren orrialde guztiak</translation>
     </message>
     <message>
         <source>All Master Pages</source>
@@ -9147,7 +9209,7 @@ distantzia</translation>
     </message>
     <message>
         <source>Apply the margin changes to all existing master pages in the document</source>
-        <translation type="unfinished"/>
+        <translation>Aplikatu marjina-aldaketak dokumentuko orri maisu guztiei</translation>
     </message>
     <message>
         <source>Margin Guides</source>
@@ -9155,11 +9217,11 @@ distantzia</translation>
     </message>
     <message>
         <source>Top:</source>
-        <translation>Goia:</translation>
+        <translation>Goian:</translation>
     </message>
     <message>
         <source>Bottom:</source>
-        <translation>Behea:</translation>
+        <translation>Behean:</translation>
     </message>
     <message>
         <source>Distance for bleed from the top of the physical page</source>
@@ -9179,31 +9241,31 @@ distantzia</translation>
     </message>
     <message>
         <source>Bleeds</source>
-        <translation type="unfinished"/>
+        <translation>Koskatzeak</translation>
     </message>
     <message>
         <source>Inside:</source>
-        <translation type="unfinished"/>
+        <translation>Barruan:</translation>
     </message>
     <message>
         <source>Outside:</source>
-        <translation type="unfinished"/>
+        <translation>Kanpoan:</translation>
     </message>
     <message>
         <source>Left:</source>
-        <translation>Ezkerra:</translation>
+        <translation>Ezkerrean:</translation>
     </message>
     <message>
         <source>Right:</source>
-        <translation>Eskuina:</translation>
+        <translation>Eskuinean:</translation>
     </message>
     <message>
         <source>Distance between the left margin guide and the edge of the page. If a double-sided, 3 or 4-fold layout is selected, this margin space can be used to achieve the correct margins for binding</source>
-        <translation type="unfinished"/>
+        <translation>Ezkerreko marjinako gidaren eta orrialde-ertzaren arteko distantzia. Bi, hiru edo lau aldeko diseinu bat hautatu bada, marjineko espazio hori liburua josteko marjina zuzenak lortzeko erabil daiteke.</translation>
     </message>
     <message>
         <source>Distance between the right margin guide and the edge of the page. If a double-sided, 3 or 4-fold layout is selected, this margin space can be used to achieve the correct margins for binding</source>
-        <translation type="unfinished"/>
+        <translation>Eskuineko marjinako gidaren eta orrialde-ertzaren arteko distantzia. Bi, hiru edo lau aldeko diseinu bat hautatu bada, marjineko espazio hori liburua josteko marjina zuzenak lortzeko erabil daiteke.</translation>
     </message>
 </context>
 <context>
@@ -9306,7 +9368,7 @@ distantzia</translation>
     </message>
     <message>
         <source>Edit selected Mark`s label. To create new Mark select &quot;New Mark&quot; in drop list and input new label</source>
-        <translation type="unfinished"/>
+        <translation>Editatu hautatutako marken etiketa. Marka berria sortzeko, hautatu &apos;Marka berria&apos; goitibeherako zerrendan eta sartu etiketa berria</translation>
     </message>
     <message>
         <source>Edit variable text</source>
@@ -9314,11 +9376,11 @@ distantzia</translation>
     </message>
     <message>
         <source>Mark with Variable Text</source>
-        <translation type="unfinished"/>
+        <translation>Testu aldakorreko marka</translation>
     </message>
     <message>
         <source>Edit selected Mark`s label.</source>
-        <translation type="unfinished"/>
+        <translation>Editatu hautatutako markaren etiketa.</translation>
     </message>
 </context>
 <context>
@@ -9395,75 +9457,75 @@ distantzia</translation>
     <name>MasterPagesPalette</name>
     <message>
         <source>Edit Master Pages</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Editatu orri maisuak</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">&amp;Izena:</translation>
     </message>
     <message>
         <source>New Master Page</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Orri maisu berria</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Izena:</translation>
     </message>
     <message>
         <source>New MasterPage</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">OrriMaisu berria</translation>
     </message>
     <message>
         <source>Copy #%1 of </source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Kopiatu #%1 hautetatik: </translation>
     </message>
     <message>
         <source>Duplicate the selected master page</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Bikoiztu hautatutako orri maisua</translation>
     </message>
     <message>
         <source>Delete the selected master page</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Ezabatu hautatutako orri maisua</translation>
     </message>
     <message>
         <source>Add a new master page</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Gehitu orri maisu berria</translation>
     </message>
     <message>
         <source>Import master pages from another document</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Inportatu orri maisuak beste dokumentu batetik</translation>
     </message>
     <message>
         <source>New Master Page %1</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Orri maisu berria: %1</translation>
     </message>
     <message>
         <source>Unable to Rename Master Page</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Ezin izan da orri maisua berrizendatu</translation>
     </message>
     <message>
         <source>The Normal page is not allowed to be renamed.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Normal orrialdea ezin da berrizendatu.</translation>
     </message>
     <message>
         <source>Rename Master Page</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Berrizendatu orri maisua</translation>
     </message>
     <message>
         <source>New Name:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Izen berria:</translation>
     </message>
     <message>
         <source>Copy #%1 of %2</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">#%1. kopia %2(e)tik</translation>
     </message>
     <message>
         <source>This master page is used at least once in the document.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Orri maisu hau gutxienez behin erabili da dokumentuan.</translation>
     </message>
     <message>
         <source>Do you really want to delete master page &quot;%1&quot;?</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Benetan ezabatu nahi duzu &quot;%1&quot; orri maisua?</translation>
     </message>
 </context>
 <context>
@@ -9597,11 +9659,11 @@ batentzako, edo orrialde bakar batentzako izan daiteke.</translation>
     </message>
     <message>
         <source>Mesh Distortion</source>
-        <translation type="unfinished"/>
+        <translation>Sare-distortsioa</translation>
     </message>
     <message>
         <source>Drag the red handles with the mouse to distort the mesh</source>
-        <translation type="unfinished"/>
+        <translation>Arrastatu helduleku gorriak saguarekin sarea distortsionatzeko</translation>
     </message>
     <message>
         <source>Zoom In</source>
@@ -9614,7 +9676,7 @@ batentzako, edo orrialde bakar batentzako izan daiteke.</translation>
     <message>
         <source>Resets the selected handles to their initial position.
 If no handle is selected all handles will be reset.</source>
-        <translation type="unfinished"/>
+        <translation>Hautatutako heldulekuak hasierako posiziora berrezartzen ditu. Heldulekurik hautatu ez bada, helduleku guztiak berrezarriko dira.</translation>
     </message>
     <message>
         <source>&amp;Reset</source>
@@ -9625,15 +9687,15 @@ If no handle is selected all handles will be reset.</source>
     <name>MeshDistortionPlugin</name>
     <message>
         <source>Mesh Distortion...</source>
-        <translation type="unfinished"/>
+        <translation>Sare-distortsioa...</translation>
     </message>
     <message>
         <source>Path Tools</source>
-        <translation type="unfinished"/>
+        <translation>Bide-tresnak</translation>
     </message>
     <message>
         <source>Mesh Distortion of Polygons</source>
-        <translation type="unfinished"/>
+        <translation>Poligonoen sare-distortsioa...</translation>
     </message>
 </context>
 <context>
@@ -9714,7 +9776,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>Swap with Page</source>
-        <translation type="unfinished"/>
+        <translation>Trukatu orrialdearekin</translation>
     </message>
 </context>
 <context>
@@ -9733,42 +9795,42 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>%v of %m</source>
-        <translation type="unfinished"/>
+        <translation>%v %m(e)tik</translation>
     </message>
 </context>
 <context>
     <name>MultipleDuplicate</name>
     <message>
         <source>&amp;Horizontal Shift:</source>
-        <translation type="unfinished"/>
+        <translation>Desplazamendu &amp;horizontala:</translation>
     </message>
     <message>
         <source>&amp;Vertical Shift:</source>
-        <translation type="unfinished"/>
+        <translation>Desplazamendu &amp;bertikala:</translation>
     </message>
     <message>
         <source>&amp;Horizontal Gap:</source>
-        <translation type="unfinished"/>
+        <translation>Tarte &amp;horizontala:</translation>
     </message>
     <message>
         <source>&amp;Vertical Gap:</source>
-        <translation type="unfinished"/>
+        <translation>Tarte &amp;bertikala:</translation>
     </message>
     <message>
         <source>Multiple Duplicate</source>
-        <translation type="unfinished"/>
+        <translation>Bikoiztu anitza</translation>
     </message>
     <message>
         <source>&amp;By Number of Copies</source>
-        <translation type="unfinished"/>
+        <translation>Kopia kopuruaren &amp;arabera</translation>
     </message>
     <message>
         <source>&amp;Number of Copies:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kopia kopurua:</translation>
     </message>
     <message>
         <source>&amp;Shift Created Items By</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Desplazatu sortutako elementua honenbeste</translation>
     </message>
     <message>
         <source>Alt+S</source>
@@ -9776,7 +9838,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>Create &amp;Gap Between Items Of</source>
-        <translation type="unfinished"/>
+        <translation>Sortu elementuen arteko honenbesteko &amp;tartea</translation>
     </message>
     <message>
         <source>Alt+G</source>
@@ -9788,7 +9850,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>By &amp;Rows &amp;&amp; Columns</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Errenkaden eta zutabeen arabera</translation>
     </message>
     <message>
         <source>Vertical Gap:</source>
@@ -9826,11 +9888,11 @@ If no handle is selected all handles will be reset.</source>
     <name>MyPluginImpl</name>
     <message>
         <source>Scribus - My Plugin</source>
-        <translation>Scribus - nire plugin-a</translation>
+        <translation>Scribus - Nire plugina</translation>
     </message>
     <message>
         <source>The plugin worked!</source>
-        <translation>Plugin-ak funtzionatzen du!</translation>
+        <translation>Pluginak funtzionatu du!</translation>
     </message>
 </context>
 <context>
@@ -10005,19 +10067,19 @@ hautatu baduzu.</translation>
     </message>
     <message>
         <source>Left:</source>
-        <translation>Ezkerra:</translation>
+        <translation>Ezkerrean:</translation>
     </message>
     <message>
         <source>Right:</source>
-        <translation>Eskuina:</translation>
+        <translation>Eskuinean:</translation>
     </message>
     <message>
         <source>Top:</source>
-        <translation>Goia:</translation>
+        <translation>Goian:</translation>
     </message>
     <message>
         <source>Bottom:</source>
-        <translation>Behea:</translation>
+        <translation>Behean:</translation>
     </message>
     <message>
         <source>Link</source>
@@ -10039,11 +10101,11 @@ distantzia</translation>
     </message>
     <message>
         <source>Distance between the left margin guide and the edge of the page. If a double-sided, 3 or 4-fold layout is selected, this margin space can be used to achieve the correct margins for binding</source>
-        <translation type="unfinished"/>
+        <translation>Ezkerreko marjinako gidaren eta orrialde-ertzaren arteko distantzia. Bi, hiru edo lau aldeko diseinu bat hautatu bada, marjineko espazio hori liburua josteko marjina zuzenak lortzeko erabil daiteke.</translation>
     </message>
     <message>
         <source>Distance between the right margin guide and the edge of the page. If a double-sided, 3 or 4-fold layout is selected, this margin space can be used to achieve the correct margins for binding</source>
-        <translation type="unfinished"/>
+        <translation>Eskuineko marjinako gidaren eta orrialde-ertzaren arteko distantzia. Bi, hiru edo lau aldeko diseinu bat hautatu bada, marjineko espazio hori liburua josteko marjina zuzenak lortzeko erabil daiteke.</translation>
     </message>
     <message>
         <source>&amp;Inside:</source>
@@ -10215,27 +10277,27 @@ distantzia</translation>
     </message>
     <message>
         <source>Set Contour to Image Clip</source>
-        <translation type="unfinished"/>
+        <translation>Ezarri ingerada irudi-mozteari</translation>
     </message>
     <message>
         <source>Reset the Contour Line to the Clipping Path of the Image</source>
-        <translation type="unfinished"/>
+        <translation>Berrezarri ingerada-lerroa irudiaren mozte-bideari</translation>
     </message>
     <message>
         <source>to Canvas</source>
-        <translation type="unfinished"/>
+        <translation>oihalera</translation>
     </message>
     <message>
         <source>to Page</source>
-        <translation type="unfinished"/>
+        <translation>orrialdera</translation>
     </message>
     <message>
         <source>Set Shape to Image Clip</source>
-        <translation type="unfinished"/>
+        <translation>Ezarri forma irudi-mozteari</translation>
     </message>
     <message>
         <source>Set the Shape to the Clipping Path of the Image</source>
-        <translation type="unfinished"/>
+        <translation>Ezarri forma irudiaren mozte-bideari</translation>
     </message>
     <message>
         <source>OK</source>
@@ -10274,7 +10336,7 @@ distantzia</translation>
     </message>
     <message>
         <source>Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Zenbakitzea</translation>
     </message>
     <message>
         <source>Range</source>
@@ -10282,7 +10344,7 @@ distantzia</translation>
     </message>
     <message>
         <source>Start Number</source>
-        <translation type="unfinished"/>
+        <translation>Hasierako zenbakia</translation>
     </message>
     <message>
         <source>Prefix</source>
@@ -10294,31 +10356,31 @@ distantzia</translation>
     </message>
     <message>
         <source>Superscript in text</source>
-        <translation type="unfinished"/>
+        <translation>Goi-indizea testuan</translation>
     </message>
     <message>
         <source>Superscript in notes</source>
-        <translation type="unfinished"/>
+        <translation>Goi-indizea oharretan</translation>
     </message>
     <message>
         <source>Mark Character Style</source>
-        <translation type="unfinished"/>
+        <translation>Marken karaktere-estiloa</translation>
     </message>
     <message>
         <source>Note Paragraph Style</source>
-        <translation type="unfinished"/>
+        <translation>Oharren paragrafo-estiloa</translation>
     </message>
     <message>
         <source>Auto Height</source>
-        <translation type="unfinished"/>
+        <translation>Altuera automatikoa</translation>
     </message>
     <message>
         <source>Auto Width</source>
-        <translation type="unfinished"/>
+        <translation>Zabalera automatikoa</translation>
     </message>
     <message>
         <source>Auto Welding</source>
-        <translation type="unfinished"/>
+        <translation>Soldadura automatikoa</translation>
     </message>
     <message>
         <source>Remove if empty</source>
@@ -10362,7 +10424,7 @@ distantzia</translation>
     </message>
     <message>
         <source>Dialog is in adding new notes style mode. After pressing Cancel button dialog will be switched into normal notes styles edit mode.</source>
-        <translation type="unfinished"/>
+        <translation>Elkarrizketa-koadroa ohar-estilo berriak gehitzeko moduan dago. &apos;Utzi&apos; botoia sakatzen bada, ohar-estiloen edizio normalera aldatuko da.</translation>
     </message>
     <message>
         <source>Add Style</source>
@@ -10378,24 +10440,25 @@ distantzia</translation>
     </message>
     <message>
         <source>Warning! Deleting Notes Style</source>
-        <translation type="unfinished"/>
+        <translation>Abisua! Oharren estiloa ezabatzen</translation>
     </message>
     <message>
         <source>You are going to delete notes style %1. All notes and marks using that style are also going to be deleted.</source>
-        <translation type="unfinished"/>
+        <translation>Oharren %1 estiloa ezabatzera zoaz. Estilo hori darabiltzen ohar eta marka guztiak ere ezabatu egingo dira.</translation>
     </message>
     <message>
         <source>Cancel Adding</source>
-        <translation type="unfinished"/>
+        <translation>Utzi gehitzea</translation>
     </message>
     <message>
         <source>Notes Styles Editor is in adding new notes style mode. After pressing Cancel button Notes Styles Editor switch into normal notes styles edit mode.</source>
-        <translation type="unfinished"/>
+        <translation>Ohar-estiloen editorea ohar-estilo berriak gehitzeko moduan dago. &apos;Utzi&apos; botoia sakatzen bada, ohar-estiloen edizio normalera aldatuko da.</translation>
     </message>
     <message>
         <source>New notes style will be add to document only after pressing Apply button.
 You cannot switch to different notes style before you apply that new one or press Cancel button and exit from adding mode.</source>
-        <translation type="unfinished"/>
+        <translation>Ohar berrien estiloa &apos;Aplikatu&apos; botoia sakatzean soilik gehituko da dokumentura.
+Ezin duzu ohar-estilo desberdinen artean txandakatu berria aplikatu baino lehen edo &apos;Utzi&apos; botoia sakatu eta gehitze-modutik irten baino lehen.</translation>
     </message>
 </context>
 <context>
@@ -10432,22 +10495,22 @@ objektuetan bihurtuz.</translation>
     </message>
     <message>
         <source>This file contains some unsupported features</source>
-        <translation type="unfinished"/>
+        <translation>Fitxategi honek onartzen ez diren zenbait ezaugarri ditu</translation>
     </message>
     <message>
         <source>The file could not be imported</source>
-        <translation type="unfinished"/>
+        <translation>Fitxategia ezin izan da inportatu</translation>
     </message>
     <message>
         <source>OpenOffice.org 1.x Draw (*.sxd *.SXD)</source>
-        <translation type="unfinished"/>
+        <translation>OpenOffice.org 1.x Draw (*.sxd *.SXD)</translation>
     </message>
 </context>
 <context>
     <name>OSGEditor</name>
     <message>
         <source>3D Properties</source>
-        <translation type="unfinished"/>
+        <translation>3D propietateak</translation>
     </message>
     <message>
         <source>Load Model ...</source>
@@ -10475,27 +10538,27 @@ objektuetan bihurtuz.</translation>
     </message>
     <message>
         <source>Solid Wireframe</source>
-        <translation type="unfinished"/>
+        <translation>Ingerada-bilbe solidoa</translation>
     </message>
     <message>
         <source>Transparent</source>
-        <translation type="unfinished"/>
+        <translation>Gardena</translation>
     </message>
     <message>
         <source>Transparent Wireframe</source>
-        <translation type="unfinished"/>
+        <translation>Ingerada-bilbe gardena</translation>
     </message>
     <message>
         <source>Wireframe</source>
-        <translation type="unfinished"/>
+        <translation>Ingerada-bilbea</translation>
     </message>
     <message>
         <source>Shaded Wireframe</source>
-        <translation type="unfinished"/>
+        <translation>Ingerada-bilbe itzaleztatua</translation>
     </message>
     <message>
         <source>Hidden Wireframe</source>
-        <translation type="unfinished"/>
+        <translation>Ingerada-bilbe ezkutua</translation>
     </message>
     <message>
         <source>Vertices</source>
@@ -10503,19 +10566,19 @@ objektuetan bihurtuz.</translation>
     </message>
     <message>
         <source>Shaded Vertices</source>
-        <translation type="unfinished"/>
+        <translation>erpin itzaleztatuak</translation>
     </message>
     <message>
         <source>Illustration</source>
-        <translation type="unfinished"/>
+        <translation>Ilustrazioa</translation>
     </message>
     <message>
         <source>Solid Outline</source>
-        <translation type="unfinished"/>
+        <translation>Eskema solidoa</translation>
     </message>
     <message>
         <source>Shaded Illustration</source>
-        <translation type="unfinished"/>
+        <translation>Ilustrazio itzaleztatua</translation>
     </message>
     <message>
         <source>Line Color:</source>
@@ -10523,7 +10586,7 @@ objektuetan bihurtuz.</translation>
     </message>
     <message>
         <source>Face Color:</source>
-        <translation type="unfinished"/>
+        <translation>Aurpegi-kolorea:</translation>
     </message>
     <message>
         <source>Opacity:</source>
@@ -10535,23 +10598,23 @@ objektuetan bihurtuz.</translation>
     </message>
     <message>
         <source>Render Style:</source>
-        <translation type="unfinished"/>
+        <translation>Errendatze-estiloa:</translation>
     </message>
     <message>
         <source>Bounding Box</source>
-        <translation type="unfinished"/>
+        <translation>Muga-koadroa</translation>
     </message>
     <message>
         <source>Transparent Bounding Box</source>
-        <translation type="unfinished"/>
+        <translation>Muga-koadro gardena</translation>
     </message>
     <message>
         <source>Transparent Bounding Box Outline</source>
-        <translation type="unfinished"/>
+        <translation>Muga-koadro gardenaren eskema</translation>
     </message>
     <message>
         <source>Lighting:</source>
-        <translation type="unfinished"/>
+        <translation>Argiztapena:</translation>
     </message>
     <message>
         <source>None</source>
@@ -10559,7 +10622,7 @@ objektuetan bihurtuz.</translation>
     </message>
     <message>
         <source>Headlamp</source>
-        <translation type="unfinished"/>
+        <translation>Kopeta-argia</translation>
     </message>
     <message>
         <source>White</source>
@@ -10575,35 +10638,35 @@ objektuetan bihurtuz.</translation>
     </message>
     <message>
         <source>Hard</source>
-        <translation type="unfinished"/>
+        <translation>Gogorra</translation>
     </message>
     <message>
         <source>Primary</source>
-        <translation type="unfinished"/>
+        <translation>Nagusia</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished"/>
+        <translation>Urdina</translation>
     </message>
     <message>
         <source>Red</source>
-        <translation type="unfinished"/>
+        <translation>Gorria</translation>
     </message>
     <message>
         <source>Cube</source>
-        <translation type="unfinished"/>
+        <translation>Kuboa</translation>
     </message>
     <message>
         <source>CAD</source>
-        <translation type="unfinished"/>
+        <translation>CAD</translation>
     </message>
     <message>
         <source>Artwork</source>
-        <translation type="unfinished"/>
+        <translation>Artwork</translation>
     </message>
     <message>
         <source>Field of Vision</source>
-        <translation type="unfinished"/>
+        <translation>Ikuste-eremua</translation>
     </message>
     <message>
         <source>Angle:</source>
@@ -10611,11 +10674,11 @@ objektuetan bihurtuz.</translation>
     </message>
     <message>
         <source>Add View...</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu ikuspegia...</translation>
     </message>
     <message>
         <source>Remove View</source>
-        <translation type="unfinished"/>
+        <translation>Kendu ikuspegia</translation>
     </message>
 </context>
 <context>
@@ -10626,7 +10689,7 @@ objektuetan bihurtuz.</translation>
     </message>
     <message>
         <source>Add a new View</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu ikuspegi berria</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -10634,11 +10697,11 @@ objektuetan bihurtuz.</translation>
     </message>
     <message>
         <source>New View</source>
-        <translation type="unfinished"/>
+        <translation>Ikuspegi berria</translation>
     </message>
     <message>
         <source>Import 3-D Model</source>
-        <translation type="unfinished"/>
+        <translation>Inportatu 3D eredua</translation>
     </message>
 </context>
 <context>
@@ -10676,11 +10739,11 @@ objektuetan bihurtuz.</translation>
     </message>
     <message>
         <source>Merge Paragraph Styles</source>
-        <translation>Batu paragrafo-estiloak</translation>
+        <translation>Fusionatu paragrafo-estiloak</translation>
     </message>
     <message>
         <source>Merge paragraph styles by attributes. This will result in fewer similar paragraph styles, will retain style attributes, even if the original document&apos;s styles are named differently.</source>
-        <translation>Merge paragraph styles by attributes. This will result in fewer similar paragraph styles, will retain style attributes, even if the original document&apos;s styles are named differently.</translation>
+        <translation>Fusionatu paragrafo-estiloak atributuen arabera. Horrela, paragrafo-estilo gutxiago izango dira, eta estilo-atributuak mantenduko dira nahiz eta jatorrizko dokumentuen estiloek izen desberdinak izan.</translation>
     </message>
     <message>
         <source>Prepend the document name to the paragraph style name in Scribus.</source>
@@ -10719,7 +10782,7 @@ inportatzean.</translation>
     <name>OneClick</name>
     <message>
         <source>Basepoint</source>
-        <translation type="unfinished"/>
+        <translation>Oinarri-puntua</translation>
     </message>
     <message>
         <source>Size</source>
@@ -10743,21 +10806,21 @@ inportatzean.</translation>
     </message>
     <message>
         <source>Remember Values</source>
-        <translation type="unfinished"/>
+        <translation>Gogoratu balioak</translation>
     </message>
 </context>
 <context>
     <name>OpenPalette</name>
     <message>
         <source>empty palette</source>
-        <translation type="unfinished"/>
+        <translation>paleta hutsa</translation>
     </message>
 </context>
 <context>
     <name>OpenPaletteModel</name>
     <message>
         <source>Elements</source>
-        <translation type="unfinished"/>
+        <translation>Elementuak</translation>
     </message>
     <message>
         <source>Visible</source>
@@ -10768,7 +10831,7 @@ inportatzean.</translation>
     <name>OutlinePalette</name>
     <message>
         <source>Element</source>
-        <translation type="unfinished"/>
+        <translation>Elementua</translation>
     </message>
     <message>
         <source>Name &quot;%1&quot; isn&apos;t unique.&lt;br/&gt;Please choose another.</source>
@@ -10784,19 +10847,19 @@ inportatzean.</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="unfinished"/>
+        <translation>Eskema</translation>
     </message>
     <message>
         <source>Enter a keyword or regular expression to filter the outline.</source>
-        <translation type="unfinished"/>
+        <translation>Sartu gako-hitz bat edo adierazpen erregular bat eskema iragazteko.</translation>
     </message>
     <message>
         <source>Filter:</source>
-        <translation type="unfinished"/>
+        <translation>Iragazkia:</translation>
     </message>
     <message>
         <source>Active</source>
-        <translation type="unfinished"/>
+        <translation>Aktiboa</translation>
     </message>
     <message>
         <source>Visible</source>
@@ -10808,15 +10871,15 @@ inportatzean.</translation>
     </message>
     <message>
         <source>Locked</source>
-        <translation type="unfinished"/>
+        <translation>Blokeatuta</translation>
     </message>
     <message>
         <source>Layer: &quot;</source>
-        <translation type="unfinished"/>
+        <translation>Geruza: &quot;</translation>
     </message>
     <message>
         <source>Inline Frame</source>
-        <translation type="unfinished"/>
+        <translation>Lerro arteko markoa</translation>
     </message>
 </context>
 <context>
@@ -10834,31 +10897,31 @@ inportatzean.</translation>
     <name>OutlineWidget</name>
     <message>
         <source>Layer is:</source>
-        <translation type="unfinished"/>
+        <translation>Geruza honela dago:</translation>
     </message>
     <message>
         <source>active</source>
-        <translation type="unfinished"/>
+        <translation>aktibo</translation>
     </message>
     <message>
         <source>visible</source>
-        <translation type="unfinished"/>
+        <translation>ikusgai</translation>
     </message>
     <message>
         <source>invisible</source>
-        <translation type="unfinished"/>
+        <translation>ikusezin</translation>
     </message>
     <message>
         <source>printing</source>
-        <translation type="unfinished"/>
+        <translation>inprimatzen</translation>
     </message>
     <message>
         <source>non printing</source>
-        <translation type="unfinished"/>
+        <translation>ez inprimatzen</translation>
     </message>
     <message>
         <source>locked</source>
-        <translation type="unfinished"/>
+        <translation>bokeatuta</translation>
     </message>
     <message>
         <source>X-Pos:</source>
@@ -10889,7 +10952,7 @@ inportatzean.</translation>
     </message>
     <message>
         <source>Open PDF after Export</source>
-        <translation type="unfinished"/>
+        <translation>Ireki PDFa esportazioaren ondoren</translation>
     </message>
     <message>
         <source>&amp;Save</source>
@@ -10897,7 +10960,7 @@ inportatzean.</translation>
     </message>
     <message>
         <source>Open the exported PDF with the PDF viewer as set in External Tools preferences, when not exporting to a multi-file export destination.</source>
-        <translation type="unfinished"/>
+        <translation>Ireki esportatutako PDFa kanpoko tresnen hobespenetan ezarri den PDF bisorearekin, fitxategi anitzeko esportazioa egin ez denean</translation>
     </message>
     <message>
         <source>The save button will be disabled if you are trying to export PDF/X and the info string is missing from the PDF/X tab.</source>
@@ -10913,12 +10976,13 @@ inportatzean.</translation>
     </message>
     <message>
         <source>%1 does not exists and will be created, continue?</source>
-        <translation type="unfinished"/>
+        <translation>%1 ez dago lehendik eta sortu egingo da, jarraitu?</translation>
     </message>
     <message>
         <source>Cannot create directory: 
 %1</source>
-        <translation type="unfinished"/>
+        <translation>Ezin izan da direktorioa sortu: 
+%1</translation>
     </message>
     <message>
         <source>Save As</source>
@@ -10929,7 +10993,7 @@ inportatzean.</translation>
     <name>PDFLibCore</name>
     <message>
         <source>Saving PDF</source>
-        <translation type="unfinished"/>
+        <translation>PDFa gordetzen</translation>
     </message>
     <message>
         <source>Exporting Master Page:</source>
@@ -10937,15 +11001,15 @@ inportatzean.</translation>
     </message>
     <message>
         <source>Exporting Page:</source>
-        <translation type="unfinished"/>
+        <translation>Orrialdea esportatzen:</translation>
     </message>
     <message>
         <source>Exporting Items on Current Page:</source>
-        <translation type="unfinished"/>
+        <translation>Uneko orrialdearen elementuak esportatzen:</translation>
     </message>
     <message>
         <source>Qt build miss both &quot;UTF-16&quot; and &quot;ISO-10646-UCS-2&quot; text codecs, pdf export is not possible</source>
-        <translation type="unfinished"/>
+        <translation>Qt bertsioak &quot;UTF-16&quot; eta &quot;ISO-10646-UCS-2&quot; testu-kodekak falta ditu, ezin da PDFra esportatu</translation>
     </message>
     <message>
         <source>Page:</source>
@@ -10957,30 +11021,30 @@ inportatzean.</translation>
     </message>
     <message>
         <source>Failed to load an image : %1</source>
-        <translation type="unfinished"/>
+        <translation>Irudi bat kargatzeak huts egin du : %1</translation>
     </message>
     <message>
         <source>Failed to write an image : %1</source>
-        <translation type="unfinished"/>
+        <translation>Irudi bat idazteak huts egin du : %1</translation>
     </message>
     <message>
         <source>Failed to load an image mask : %1</source>
-        <translation type="unfinished"/>
+        <translation>Irudi-maskara bat kargatzeak huts egin du : %1</translation>
     </message>
     <message>
         <source>Insufficient memory for processing an image</source>
-        <translation type="unfinished"/>
+        <translation>Memoria gutxi irudi bat prozesatzeko</translation>
     </message>
     <message>
         <source>A write error occurred, please check available disk space</source>
-        <translation type="unfinished"/>
+        <translation>Idazte-errorea gertatu da, begiratu tokirik duzun diskoan</translation>
     </message>
 </context>
 <context>
     <name>PDFToolBar</name>
     <message>
         <source>PDF Tools</source>
-        <translation type="unfinished"/>
+        <translation>PDF tresnak</translation>
     </message>
 </context>
 <context>
@@ -11023,7 +11087,7 @@ inportatzean.</translation>
     </message>
     <message>
         <source>&amp;Display CMYK</source>
-        <translation>&amp;Bistaratu CMHB</translation>
+        <translation>&amp;Bistaratu CMYK</translation>
     </message>
     <message>
         <source>&amp;C</source>
@@ -11095,7 +11159,7 @@ inportatzean.</translation>
     </message>
     <message>
         <source>Enable &amp;Antialiasing</source>
-        <translation type="unfinished"/>
+        <translation>Gaitu &amp;antialiasing-a</translation>
     </message>
     <message>
         <source>Fit to Width</source>
@@ -11103,15 +11167,15 @@ inportatzean.</translation>
     </message>
     <message>
         <source>Fit to Height</source>
-        <translation type="unfinished"/>
+        <translation>Doitu altuerari</translation>
     </message>
     <message>
         <source>Fit to Page</source>
-        <translation type="unfinished"/>
+        <translation>Doitu orrialdeari</translation>
     </message>
     <message>
         <source>Provides a more pleasant view of Type 1 fonts, TrueType Fonts, OpenType Fonts, EPS, PDF and vector graphics in the preview, at the expense of a slight slowdown in previewing</source>
-        <translation type="unfinished"/>
+        <translation>Type 1, TrueType eta OpenType letra-tipoen, eta EPS, PDF eta grafiko bektorialen ikuspegi atseginagoa eskaintzen du aurrebistan, aurrebisa apur bat moteltzearen truke</translation>
     </message>
     <message>
         <source>Display Settings</source>
@@ -11119,43 +11183,43 @@ inportatzean.</translation>
     </message>
     <message>
         <source>Mirror Page(s) Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Ispilatu orrialdea(k) horizontalean</translation>
     </message>
     <message>
         <source>Mirror Page(s) Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Ispilatu orrialdea(k) bertikalean</translation>
     </message>
     <message>
         <source>Print in Grayscale</source>
-        <translation type="unfinished"/>
+        <translation>Inprimatu gris-eskalan</translation>
     </message>
     <message>
         <source>Convert Spot Colors</source>
-        <translation type="unfinished"/>
+        <translation>Bihurtu kolore zuzenak</translation>
     </message>
     <message>
         <source>Enables Spot Colors to be converted to composite colors. Unless you are planning to print spot colors at a commercial printer, this is probably best left enabled.</source>
-        <translation>Enables Spot Colors to be converted to composite colors. Unless you are planning to print spot colors at a commercial printer, this is probably best left enabled.</translation>
+        <translation>Kolore zuzenak kolore konposatu bihur daitezen ahalbidetzen du. Inprimagailu komertzial batean kolore zuzenak inprimatuko ez badituzu, hobe izango da aukera hau gaituta uztzen baduzu.</translation>
     </message>
     <message>
         <source>Apply Color Profiles</source>
-        <translation type="unfinished"/>
+        <translation>Aplikatu kolore-profilak</translation>
     </message>
     <message>
         <source>Allows you to embed color profiles in the print stream when color management is enabled</source>
-        <translation type="unfinished"/>
+        <translation>Kolore-profilak inprimatze-korrontean kapsulatzea ahalbidetzen du, kolore-kudeaketa gaituta dagoenean</translation>
     </message>
     <message>
         <source>Clip to Printer Margins</source>
-        <translation type="unfinished"/>
+        <translation>Moztu inprimatze-marjinetara</translation>
     </message>
     <message>
         <source>Display Ink Coverage</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi tinta-estaldura</translation>
     </message>
     <message>
         <source>Threshold:</source>
-        <translation type="unfinished"/>
+        <translation>Atalasea:</translation>
     </message>
     <message>
         <source> %</source>
@@ -11174,23 +11238,23 @@ inportatzean.</translation>
     </message>
     <message>
         <source>Exporting Page:</source>
-        <translation type="unfinished"/>
+        <translation>Orrialdea esportatzen:</translation>
     </message>
     <message>
         <source>Failed to write data for an image</source>
-        <translation type="unfinished"/>
+        <translation>Irudi baten datuak idazteak huts egin du</translation>
     </message>
     <message>
         <source>Failed to load an image : %1</source>
-        <translation type="unfinished"/>
+        <translation>Irudi bat kargatzeak huts egin du : %1</translation>
     </message>
     <message>
         <source>Failed to load an image mask : %1</source>
-        <translation type="unfinished"/>
+        <translation>Irudi-maskara bat kargatzeak huts egin du : %1</translation>
     </message>
     <message>
         <source>Insufficient memory for processing an image</source>
-        <translation type="unfinished"/>
+        <translation>Memoria gutxi irudi bat prozesatzeko</translation>
     </message>
 </context>
 <context>
@@ -11233,7 +11297,7 @@ inportatzean.</translation>
     </message>
     <message>
         <source>RegularPolygon</source>
-        <translation type="unfinished"/>
+        <translation>PoligonoErregularra</translation>
     </message>
     <message>
         <source>Arc</source>
@@ -11325,11 +11389,11 @@ inportatzean.</translation>
     </message>
     <message>
         <source>Relationship</source>
-        <translation>Harremana</translation>
+        <translation>Erlazioa</translation>
     </message>
     <message>
         <source>Relationship To</source>
-        <translation type="unfinished"/>
+        <translation>Erlazioa honekin</translation>
     </message>
     <message>
         <source>Attributes</source>
@@ -11352,11 +11416,11 @@ inportatzean.</translation>
     </message>
     <message>
         <source>Original PPI:</source>
-        <translation type="unfinished"/>
+        <translation>Jatorrizko PPIa:</translation>
     </message>
     <message>
         <source>Actual PPI:</source>
-        <translation type="unfinished"/>
+        <translation>Uneko PPIa:</translation>
     </message>
     <message>
         <source>Size:</source>
@@ -11364,7 +11428,7 @@ inportatzean.</translation>
     </message>
     <message>
         <source>Colorspace:</source>
-        <translation>Kolore-eskala:</translation>
+        <translation>Kolore-espazioa:</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -11376,7 +11440,7 @@ inportatzean.</translation>
     </message>
     <message>
         <source>Pages:</source>
-        <translation type="unfinished"/>
+        <translation>Orrialdeak:</translation>
     </message>
     <message>
         <source>Embedded Image missing</source>
@@ -11384,15 +11448,15 @@ inportatzean.</translation>
     </message>
     <message>
         <source>missing</source>
-        <translation type="unfinished"/>
+        <translation>falta da</translation>
     </message>
     <message>
         <source>No Image Loaded</source>
-        <translation type="unfinished"/>
+        <translation>Ez da irudirik kargatu</translation>
     </message>
     <message>
         <source>missing or corrupt</source>
-        <translation type="unfinished"/>
+        <translation>falta da edo hondatuta dago</translation>
     </message>
 </context>
 <context>
@@ -11403,23 +11467,23 @@ inportatzean.</translation>
     </message>
     <message>
         <source>Running the external application failed!</source>
-        <translation type="unfinished"/>
+        <translation>Kanpoko aplikazioa exekutatzeak huts egin du!</translation>
     </message>
     <message>
         <source>Could not create a temporary file to run the application!</source>
-        <translation type="unfinished"/>
+        <translation>Ezin izan da aldi baterako fitxategia sortu aplikazioa exekutatzeko!</translation>
     </message>
     <message>
         <source>Running the application &quot;%1&quot; failed!</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; aplikazioa exekutatzeak huts egin du!</translation>
     </message>
     <message>
         <source>Running</source>
-        <translation type="unfinished"/>
+        <translation>Exekutatzen</translation>
     </message>
     <message>
         <source>The application &quot;%1&quot; crashed!</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; aplikazioa kraskatu egin da!</translation>
     </message>
     <message>
         <source>Application</source>
@@ -11443,19 +11507,19 @@ inportatzean.</translation>
     </message>
     <message>
         <source>This is usually a problem with your input. Please check the program&apos;s output.</source>
-        <translation type="unfinished"/>
+        <translation>Gehienetan zure sarreraren arazo bat izan ohi da. Begiratu programaren irteera.</translation>
     </message>
     <message>
         <source>Do you want to open the editor to fix the problem?</source>
-        <translation type="unfinished"/>
+        <translation>Editorea ireki nahi duzu arazoa konpontzeko?</translation>
     </message>
     <message>
         <source>The config file didn&apos;t specify a executable path!</source>
-        <translation type="unfinished"/>
+        <translation>Konfigurazio-fitxategiak ez du bide exekutagarri bat adierazten!</translation>
     </message>
     <message>
         <source>The application &quot;%1&quot; failed to start! Please check the path: </source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; aplikazioaren abioak huts egin du! Egiaztatu bidea:</translation>
     </message>
     <message>
         <source>Render Frame</source>
@@ -11463,7 +11527,7 @@ inportatzean.</translation>
     </message>
     <message>
         <source>No configuration defined to run the application!</source>
-        <translation type="unfinished"/>
+        <translation>Ez da konfiguraziorik definitu aplikazioa exekutatzeko!</translation>
     </message>
     <message>
         <source>No application defined</source>
@@ -11482,11 +11546,11 @@ inportatzean.</translation>
     <name>PageItem_NoteFrame</name>
     <message>
         <source>Endnote frame </source>
-        <translation type="unfinished"/>
+        <translation>Amaiera-oharraren markoa</translation>
     </message>
     <message>
         <source>Footnote frame </source>
-        <translation type="unfinished"/>
+        <translation>Oin-oharraren markoa</translation>
     </message>
     <message>
         <source>No Style</source>
@@ -11497,7 +11561,7 @@ inportatzean.</translation>
     <name>PageItem_OSGFrame</name>
     <message>
         <source>OSG</source>
-        <translation type="unfinished"/>
+        <translation>OSG</translation>
     </message>
     <message>
         <source>Default</source>
@@ -11505,7 +11569,7 @@ inportatzean.</translation>
     </message>
     <message>
         <source>3D Model</source>
-        <translation type="unfinished"/>
+        <translation>3D eredua</translation>
     </message>
     <message>
         <source>File:</source>
@@ -11535,11 +11599,11 @@ inportatzean.</translation>
     <name>PageItem_TextFrame</name>
     <message>
         <source>Linked Text</source>
-        <translation type="unfinished"/>
+        <translation>Estekatutako testua</translation>
     </message>
     <message>
         <source>Text Frame</source>
-        <translation type="unfinished"/>
+        <translation>Testu-markoa</translation>
     </message>
     <message>
         <source>Paragraphs: </source>
@@ -11571,11 +11635,11 @@ inportatzean.</translation>
     <message>
         <source>Number of pages to show side-by-side on the canvas
 Often used for allowing items to be placed across page spreads</source>
-        <translation type="unfinished"/>
+        <translation>Oihalean elkarren alboan erakutsiko den orrialde kopurua. Sarritan elementuak hainbat orrialdetan barrena kokatzeko erabiltzen da. </translation>
     </message>
     <message>
         <source>Location on the canvas where the first page of the document is placed</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentuaren lehen orrialdea kokatzen den oihalaren kokapena</translation>
     </message>
 </context>
 <context>
@@ -11617,7 +11681,7 @@ Often used for allowing items to be placed across page spreads</source>
     </message>
     <message>
         <source>Copy #%1 of %2</source>
-        <translation type="unfinished"/>
+        <translation>#%1. kopia %2(e)tik</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
@@ -11649,7 +11713,7 @@ Often used for allowing items to be placed across page spreads</source>
     </message>
     <message>
         <source>The Normal page is not allowed to be renamed.</source>
-        <translation type="unfinished"/>
+        <translation>Normal orrialdea ezin da berrizendatu.</translation>
     </message>
 </context>
 <context>
@@ -11660,7 +11724,7 @@ Often used for allowing items to be placed across page spreads</source>
     </message>
     <message>
         <source>&lt;&lt;&lt; Return to Normal Page Mode</source>
-        <translation type="unfinished"/>
+        <translation>&lt;&lt;&lt; Itzuli orrialde normalaren modura</translation>
     </message>
 </context>
 <context>
@@ -11687,15 +11751,15 @@ Often used for allowing items to be placed across page spreads</source>
     </message>
     <message>
         <source>List of master pages in the document. Master page names may be dragged onto the page view below to apply master pages, or onto the empty space between pages to create new pages.</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentuko orri maisuen zerrenda. Orri maisuen izenak beheko orrialde-ikuspegira arrastatu daitezke orri maisuak aplikatzeko, edo orrialdeen arteko hutsarteetara orrialde berriak sortzeko</translation>
     </message>
     <message>
         <source>List of normal pages in the document, shown with the document layout. Pages may be dragged to rearrange or delete them.</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentuko orrialde normalen zerrenda, dokumentuaren diseinuarekin erakutsiak. Orrialdeak arrastatu egin daitezke haiek berrantolatzeko edo ezabatzeko</translation>
     </message>
     <message>
         <source>Drag pages or master pages onto the trash to delete them</source>
-        <translation type="unfinished"/>
+        <translation>Arrastatu orrialdeak edo orri maisuak zakarrontzira haiek ezabatzeko</translation>
     </message>
 </context>
 <context>
@@ -11742,7 +11806,7 @@ Often used for allowing items to be placed across page spreads</source>
     <message>
         <source> of %1</source>
         <comment>number of pages in document</comment>
-        <translation type="unfinished"/>
+        <translation>%1(e)tik</translation>
     </message>
 </context>
 <context>
@@ -11764,7 +11828,10 @@ Often used for allowing items to be placed across page spreads</source>
 
 Please submit your file (if possible) to the
 Document Liberation Project http://www.documentliberation.org</source>
-        <translation type="unfinished"/>
+        <translation>Analisiak huts egin du!
+
+Mesedez bidali zure fitxategia (posible bada)
+Document Liberation Project-era http://www.documentliberation.org</translation>
     </message>
 </context>
 <context>
@@ -11782,7 +11849,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"/>
+        <translation>1</translation>
     </message>
     <message>
         <source>Import colors to the current set from an existing document</source>
@@ -11890,7 +11957,7 @@ kolore-multzotik</translation>
     </message>
     <message>
         <source>Merge Color Set</source>
-        <translation type="unfinished"/>
+        <translation>Fusionatu kolore-multzoa</translation>
     </message>
     <message>
         <source>Sort by Name</source>
@@ -11922,11 +11989,11 @@ kolore-multzotik</translation>
     </message>
     <message>
         <source>Do you really want to clear all your gradients?</source>
-        <translation type="unfinished"/>
+        <translation>Benetan zure gradiente guztiak garbitu nahi dituzu?</translation>
     </message>
     <message>
         <source>Do you really want to clear all your colors and gradients?</source>
-        <translation type="unfinished"/>
+        <translation>Benetan zure kolore eta gradiente guztiak garbitu nahi dituzu?</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -11934,11 +12001,11 @@ kolore-multzotik</translation>
     </message>
     <message>
         <source>Scribus Gradient Files &quot;*.sgr&quot; (*.sgr *.SGR);;</source>
-        <translation type="unfinished"/>
+        <translation>Scribus Gradient Files &quot;*.sgr&quot; (*.sgr *.SGR);;</translation>
     </message>
     <message>
         <source>Gimp Gradient Files &quot;*.ggr&quot; (*.ggr *.GGR);;</source>
-        <translation type="unfinished"/>
+        <translation>Gimp Gradient Files &quot;*.ggr&quot; (*.ggr *.GGR);;</translation>
     </message>
     <message>
         <source>All Files (*)</source>
@@ -11950,7 +12017,7 @@ kolore-multzotik</translation>
     </message>
     <message>
         <source>All Supported Formats (%1);;Documents (%2);;Other Files (%3);;All Files (*)</source>
-        <translation type="unfinished"/>
+        <translation>Onartutako formatu guztiak (%1);;Dokumentuak (%2);;Beste fitxategiak (%3);;Fitxategi guztiak (*)</translation>
     </message>
     <message>
         <source>Import Colors</source>
@@ -11998,7 +12065,7 @@ See the Edit Colors section of the documentation for more details.</source>
     </message>
     <message>
         <source>Load Set</source>
-        <translation type="unfinished"/>
+        <translation>Kargatu multzoa</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -12006,11 +12073,11 @@ See the Edit Colors section of the documentation for more details.</source>
     </message>
     <message>
         <source>Rename Entry</source>
-        <translation type="unfinished"/>
+        <translation>Berrizendatu sarrera</translation>
     </message>
     <message>
         <source>Do you really want to clear all your patterns?</source>
-        <translation type="unfinished"/>
+        <translation>Benetan zure eredu guztiak garbitu nahi dituzu?</translation>
     </message>
     <message>
         <source>Choose a Directory</source>
@@ -12032,104 +12099,104 @@ See the Edit Colors section of the documentation for more details.</source>
     <name>PathAlongPathPlugin</name>
     <message>
         <source>Path Along Path...</source>
-        <translation type="unfinished"/>
+        <translation>Bidea bidean zehar...</translation>
     </message>
     <message>
         <source>Path Tools</source>
-        <translation type="unfinished"/>
+        <translation>Bide-tresnak</translation>
     </message>
     <message>
         <source>Bends a Polygon along a Polyline</source>
-        <translation type="unfinished"/>
+        <translation>Poligono bat polilerro baten luzeran okertzen du</translation>
     </message>
     <message>
         <source>This plugin bends a Polygon with the help of a Polyline.</source>
-        <translation type="unfinished"/>
+        <translation>Plugin honek poligono bat okertzen du polilerro baten laguntzarekin.</translation>
     </message>
     <message>
         <source>Bends a Polygon along a Path.</source>
-        <translation type="unfinished"/>
+        <translation>Poligono bat bide baten luzeran okertzen du.</translation>
     </message>
 </context>
 <context>
     <name>PathConnectDialogBase</name>
     <message>
         <source>Connect Paths</source>
-        <translation type="unfinished"/>
+        <translation>Konektatu bideak</translation>
     </message>
     <message>
         <source>Starting Point</source>
-        <translation type="unfinished"/>
+        <translation>Hasierako puntua</translation>
     </message>
     <message>
         <source>End Point</source>
-        <translation type="unfinished"/>
+        <translation>Amaierako puntua</translation>
     </message>
     <message>
         <source>a straight Line</source>
-        <translation type="unfinished"/>
+        <translation>lerro zuzena</translation>
     </message>
     <message>
         <source>Points moving</source>
-        <translation type="unfinished"/>
+        <translation>Puntuak mugitzen</translation>
     </message>
     <message>
         <source>Preview on Canvas</source>
-        <translation type="unfinished"/>
+        <translation>Aurrebista oihalean</translation>
     </message>
     <message>
         <source>Connect First Line</source>
-        <translation type="unfinished"/>
+        <translation>Konektatu lehen lerroa</translation>
     </message>
     <message>
         <source>with Second Line</source>
-        <translation type="unfinished"/>
+        <translation>bigarren lerroarekin</translation>
     </message>
     <message>
         <source>by using:</source>
-        <translation type="unfinished"/>
+        <translation>hau erabiliz:</translation>
     </message>
 </context>
 <context>
     <name>PathConnectPlugin</name>
     <message>
         <source>Connect Paths</source>
-        <translation type="unfinished"/>
+        <translation>Konektatu bideak</translation>
     </message>
     <message>
         <source>Path Tools</source>
-        <translation type="unfinished"/>
+        <translation>Bide-tresnak</translation>
     </message>
     <message>
         <source>Connect 2 Polylines.</source>
-        <translation type="unfinished"/>
+        <translation>Konektatu bi polilerro.</translation>
     </message>
     <message>
         <source>Connects two Paths.</source>
-        <translation type="unfinished"/>
+        <translation>Bi bide konektatzen ditu.</translation>
     </message>
 </context>
 <context>
     <name>PathCutPlugin</name>
     <message>
         <source>Cut Polygon</source>
-        <translation type="unfinished"/>
+        <translation>Moztu poligonoa</translation>
     </message>
     <message>
         <source>Path Tools</source>
-        <translation type="unfinished"/>
+        <translation>Bide-tresnak</translation>
     </message>
     <message>
         <source>Cuts a Polygon by a Polyline</source>
-        <translation type="unfinished"/>
+        <translation>Poligono bat polilerro batekin mozten du</translation>
     </message>
     <message>
         <source>Qt Version too old</source>
-        <translation type="unfinished"/>
+        <translation>Qt bertsioa zaharregia da</translation>
     </message>
     <message>
         <source>This plugin requires at least version 4.3.3 of the Qt library</source>
-        <translation type="unfinished"/>
+        <translation>Pluginak Qt liburutegiaren 4.3.3 bertsioa edo berriagoa behar du</translation>
     </message>
     <message>
         <source>Error</source>
@@ -12138,81 +12205,81 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <source>The cutting line must cross the polygon and
 both end points must lie outside of the polygon</source>
-        <translation type="unfinished"/>
+        <translation>Mozte-lerroak poligonoa zeharkatu behar du eta amaierako puntuek poligonotik kanpo egon behar dute</translation>
     </message>
     <message>
         <source>Cuts a Polygon with a Path.</source>
-        <translation type="unfinished"/>
+        <translation>Poligono bat bide batekin mozten du.</translation>
     </message>
 </context>
 <context>
     <name>PathDialogBase</name>
     <message>
         <source>Path along Path</source>
-        <translation type="unfinished"/>
+        <translation>Bidea bidean zehar</translation>
     </message>
     <message>
         <source>Effect Type</source>
-        <translation type="unfinished"/>
+        <translation>Efektu mota</translation>
     </message>
     <message>
         <source>Single</source>
-        <translation type="unfinished"/>
+        <translation>Bakarra</translation>
     </message>
     <message>
         <source>Single, stretched</source>
-        <translation type="unfinished"/>
+        <translation>Bakarra, luzatua</translation>
     </message>
     <message>
         <source>Repeated</source>
-        <translation type="unfinished"/>
+        <translation>Errepikatua</translation>
     </message>
     <message>
         <source>Repeated, stretched</source>
-        <translation type="unfinished"/>
+        <translation>Errepikatua, luzatua</translation>
     </message>
     <message>
         <source>Horizontal Offset</source>
-        <translation type="unfinished"/>
+        <translation>Desplazamendu horizontala</translation>
     </message>
     <message>
         <source>Vertical Offset</source>
-        <translation type="unfinished"/>
+        <translation>Desplazamendu bertikala</translation>
     </message>
     <message>
         <source>Gap between Objects</source>
-        <translation type="unfinished"/>
+        <translation>Objektuen arteko tartea</translation>
     </message>
     <message>
         <source>Preview on Canvas</source>
-        <translation type="unfinished"/>
+        <translation>Aurrebista oihalean</translation>
     </message>
     <message>
         <source>Rotate Objects by:</source>
-        <translation type="unfinished"/>
+        <translation>Biratu objektuak honen arabera:</translation>
     </message>
     <message>
         <source>0°</source>
-        <translation type="unfinished"/>
+        <translation>0°</translation>
     </message>
     <message>
         <source>90°</source>
-        <translation type="unfinished"/>
+        <translation>90°</translation>
     </message>
     <message>
         <source>180°</source>
-        <translation type="unfinished"/>
+        <translation>180°</translation>
     </message>
     <message>
         <source>270°</source>
-        <translation type="unfinished"/>
+        <translation>270°</translation>
     </message>
 </context>
 <context>
     <name>PathFinderBase</name>
     <message>
         <source>Boolean Path Operations</source>
-        <translation type="unfinished"/>
+        <translation>Bide-eragiketa boolearrak</translation>
     </message>
     <message>
         <source>+</source>
@@ -12220,11 +12287,11 @@ both end points must lie outside of the polygon</source>
     </message>
     <message>
         <source>=</source>
-        <translation type="unfinished"/>
+        <translation>=</translation>
     </message>
     <message>
         <source>Operation</source>
-        <translation type="unfinished"/>
+        <translation>Eragiketa</translation>
     </message>
     <message>
         <source>...</source>
@@ -12232,31 +12299,31 @@ both end points must lie outside of the polygon</source>
     </message>
     <message>
         <source>Swap Shapes</source>
-        <translation type="unfinished"/>
+        <translation>Trukatu formak</translation>
     </message>
     <message>
         <source>First source shape.</source>
-        <translation type="unfinished"/>
+        <translation>Lehen iturburuko forma.</translation>
     </message>
     <message>
         <source>Second source shape.</source>
-        <translation type="unfinished"/>
+        <translation>Bigarren iturburuko forma.</translation>
     </message>
     <message>
         <source>The resulting shape.</source>
-        <translation type="unfinished"/>
+        <translation>Emaitza gisa lortu den forma.</translation>
     </message>
     <message>
         <source>Unites the shapes</source>
-        <translation type="unfinished"/>
+        <translation>Formak batzen ditu</translation>
     </message>
     <message>
         <source>Intersection of the shapes</source>
-        <translation type="unfinished"/>
+        <translation>Formen ebaketa</translation>
     </message>
     <message>
         <source>Result is the area where the two shapes do not intersect</source>
-        <translation type="unfinished"/>
+        <translation>Emaitza bi formak ebakitzen ez diren azalera da</translation>
     </message>
     <message>
         <source>Break apart,
@@ -12265,51 +12332,51 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     </message>
     <message>
         <source>Custom Colors</source>
-        <translation type="unfinished"/>
+        <translation>Kolore pertsonalizatuak</translation>
     </message>
     <message>
         <source>Stroke:</source>
-        <translation type="unfinished"/>
+        <translation>Trazua:</translation>
     </message>
     <message>
         <source>Fill:</source>
-        <translation type="unfinished"/>
+        <translation>Betegarria:</translation>
     </message>
     <message>
         <source>Keep a copy of the original item after applying the operation</source>
-        <translation type="unfinished"/>
+        <translation>Mantendu jatorrizko elementuaren kopia bat eragiketa aplikatu ondoren </translation>
     </message>
     <message>
         <source>Keep</source>
-        <translation type="unfinished"/>
+        <translation>Mantendu</translation>
     </message>
     <message>
         <source>Subtracts the second shape from the first shape</source>
-        <translation type="unfinished"/>
+        <translation>Bigarren forma lehen formari kentzen dio</translation>
     </message>
     <message>
         <source>Exchange the Source Shapes</source>
-        <translation type="unfinished"/>
+        <translation>Trukatu iturburuko formak</translation>
     </message>
     <message>
         <source>The resulting shape uses the color of the first source shape</source>
-        <translation type="unfinished"/>
+        <translation>Emaitza gisa lortutako formak lehen iturburuko formaren kolorea darabil</translation>
     </message>
     <message>
         <source>First Shape</source>
-        <translation type="unfinished"/>
+        <translation>Lehen forma</translation>
     </message>
     <message>
         <source>The resulting shape uses the color of the second source shape</source>
-        <translation type="unfinished"/>
+        <translation>Emaitza gisa lortutako formak bigarren iturburuko formaren kolorea darabil</translation>
     </message>
     <message>
         <source>Second Shape</source>
-        <translation type="unfinished"/>
+        <translation>Bigarren forma</translation>
     </message>
     <message>
         <source>The resulting shape uses the colors listed below</source>
-        <translation type="unfinished"/>
+        <translation>Emaitza gisa lortutako formak behean zerrendatutako koloreak darabiltza</translation>
     </message>
     <message>
         <source>Stroke Color</source>
@@ -12321,59 +12388,59 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     </message>
     <message>
         <source>Result Takes Color from:</source>
-        <translation type="unfinished"/>
+        <translation>Emaitzak hemendik hartzen du kolorea:</translation>
     </message>
 </context>
 <context>
     <name>PathFinderDialog</name>
     <message>
         <source>Result gets Color of:</source>
-        <translation type="unfinished"/>
+        <translation>Emaitzak honen kolorea hartzen du:</translation>
     </message>
     <message>
         <source>Intersection gets Color of:</source>
-        <translation type="unfinished"/>
+        <translation>Ebakidurak honen kolorea hartzen du:</translation>
     </message>
 </context>
 <context>
     <name>PathFinderPlugin</name>
     <message>
         <source>Path Operations...</source>
-        <translation type="unfinished"/>
+        <translation>Bide-eragiketak...</translation>
     </message>
     <message>
         <source>Path Tools</source>
-        <translation type="unfinished"/>
+        <translation>Bide-tresnak</translation>
     </message>
     <message>
         <source>Path Operations</source>
-        <translation type="unfinished"/>
+        <translation>Bide-eragiketak</translation>
     </message>
     <message>
         <source>Apply fancy boolean operations to paths.</source>
-        <translation type="unfinished"/>
+        <translation>Aplikazu eragiketa boolear erakargarriak bideei.</translation>
     </message>
 </context>
 <context>
     <name>PathStrokerPlugin</name>
     <message>
         <source>Create Path from Stroke</source>
-        <translation type="unfinished"/>
+        <translation>Sortu bidea trazutik</translation>
     </message>
     <message>
         <source>Path Tools</source>
-        <translation type="unfinished"/>
+        <translation>Bide-tresnak</translation>
     </message>
     <message>
         <source>Converts the stroke of a Path to a filled Path.</source>
-        <translation type="unfinished"/>
+        <translation>Bide baten trazua bide bete bihurtzen du.</translation>
     </message>
 </context>
 <context>
     <name>PatternPropsDialog</name>
     <message>
         <source>Pattern Properties</source>
-        <translation type="unfinished"/>
+        <translation>Eredu-propietateak</translation>
     </message>
     <message>
         <source> pt</source>
@@ -12385,11 +12452,11 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     </message>
     <message>
         <source>Offsets</source>
-        <translation type="unfinished"/>
+        <translation>Desplazamenduak</translation>
     </message>
     <message>
         <source>X:</source>
-        <translation type="unfinished"/>
+        <translation>X:</translation>
     </message>
     <message>
         <source>Y:</source>
@@ -12397,15 +12464,15 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     </message>
     <message>
         <source>Scaling</source>
-        <translation type="unfinished"/>
+        <translation>Eskalatzea</translation>
     </message>
     <message>
         <source>X-Scale:</source>
-        <translation type="unfinished"/>
+        <translation>X eskala:</translation>
     </message>
     <message>
         <source>Y-Scale:</source>
-        <translation type="unfinished"/>
+        <translation>Y eskala:</translation>
     </message>
     <message>
         <source>Rotation</source>
@@ -12413,11 +12480,11 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     </message>
     <message>
         <source>Skewing</source>
-        <translation type="unfinished"/>
+        <translation>Okerdura</translation>
     </message>
     <message>
         <source>Spacing</source>
-        <translation type="unfinished"/>
+        <translation>Tartea</translation>
     </message>
     <message>
         <source>Value:</source>
@@ -12425,11 +12492,11 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     </message>
     <message>
         <source>X-Skew:</source>
-        <translation type="unfinished"/>
+        <translation>X okerdura:</translation>
     </message>
     <message>
         <source>Y-Skew:</source>
-        <translation type="unfinished"/>
+        <translation>Y okerdura:</translation>
     </message>
     <message>
         <source>Angle:</source>
@@ -12437,7 +12504,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     </message>
     <message>
         <source>Flip:</source>
-        <translation type="unfinished"/>
+        <translation>Irauli:</translation>
     </message>
     <message>
         <source>Close</source>
@@ -12463,19 +12530,19 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <name>PdfImportOptions</name>
     <message>
         <source>PDF-Import</source>
-        <translation type="unfinished"/>
+        <translation>PDF inportazioa</translation>
     </message>
     <message>
         <source>Importing File:</source>
-        <translation type="unfinished"/>
+        <translation>Fitxategia inportatzen:</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>TestuEtiketa</translation>
     </message>
     <message>
         <source>Page Range</source>
-        <translation type="unfinished"/>
+        <translation>Orrialde-barrutia</translation>
     </message>
     <message>
         <source>All Pages</source>
@@ -12487,31 +12554,31 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     </message>
     <message>
         <source>Choose Pages</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu orrialdeak</translation>
     </message>
     <message>
         <source>Crop to:</source>
-        <translation type="unfinished"/>
+        <translation>Moztu hemen:</translation>
     </message>
     <message>
         <source>Media Box</source>
-        <translation type="unfinished"/>
+        <translation>Multimedia-kutxa</translation>
     </message>
     <message>
         <source>Bleed Box</source>
-        <translation type="unfinished"/>
+        <translation>Koskatze-kutxa</translation>
     </message>
     <message>
         <source>Trim Box</source>
-        <translation type="unfinished"/>
+        <translation>Arbastatze-kutxa</translation>
     </message>
     <message>
         <source>Crop Box</source>
-        <translation type="unfinished"/>
+        <translation>Mozte-kutxa</translation>
     </message>
     <message>
         <source>Art Box</source>
-        <translation type="unfinished"/>
+        <translation>Arte-kutxa</translation>
     </message>
 </context>
 <context>
@@ -12530,7 +12597,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     </message>
     <message>
         <source>Open PDF-File</source>
-        <translation type="unfinished"/>
+        <translation>Ireki PDF fitxategia</translation>
     </message>
     <message>
         <source>Password</source>
@@ -12541,11 +12608,11 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <name>PermitDialog</name>
     <message>
         <source>Confirm to run unsafe script</source>
-        <translation type="unfinished"/>
+        <translation>Baieztatu segurua ez den script-a exekutatzeko</translation>
     </message>
     <message>
         <source>scriptname.py</source>
-        <translation type="unfinished"/>
+        <translation>scriptname.py</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -12555,11 +12622,17 @@ p, li { white-space: pre-wrap; }
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Attention:&lt;/span&gt; This script file contains code which &lt;span style=&quot; font-style:italic;&quot;&gt;might harm &lt;/span&gt;your system.&lt;/p&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;You should only permit execution of this script if you are sure that it comes from a trustworthy source. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans Serif&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Adi:&lt;/span&gt; Script fitxategi honek zure sistema &lt;span style=&quot; font-style:italic;&quot;&gt;kalte dezakeen&lt;/span&gt; kodea du.&lt;/p&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Script honen exekuzioa onartu beharko zenuke soilik ziur bazaude jatorri fidagarria duela.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>De&amp;tails &gt;&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Xehetasunak &gt;&gt;</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -12567,19 +12640,23 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'DejaVu Sans'; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Sans Serif&apos;;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;DejaVu Sans&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Sans Serif&apos;;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Remember preference for this file</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Gogoratu fitxategi honen hobespena</translation>
     </message>
     <message>
         <source>&amp;Allow</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Onartu</translation>
     </message>
     <message>
         <source>&amp;Deny</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ukatu</translation>
     </message>
 </context>
 <context>
@@ -12602,19 +12679,19 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Colorspace:</source>
-        <translation>Kolore-eskala:</translation>
+        <translation>Kolore-espazioa:</translation>
     </message>
     <message>
         <source>Result</source>
-        <translation type="unfinished"/>
+        <translation>Emaitza</translation>
     </message>
     <message>
         <source>Search Results for: </source>
-        <translation type="unfinished"/>
+        <translation>Bilatu emaitzak honetarako:</translation>
     </message>
     <message>
         <source>&amp;Preview</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Aurrebista</translation>
     </message>
     <message>
         <source>Alt+P</source>
@@ -12622,7 +12699,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Select</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Hautatu</translation>
     </message>
     <message>
         <source>Alt+S</source>
@@ -12637,19 +12714,19 @@ p, li { white-space: pre-wrap; }
     <name>PicSearchOptions</name>
     <message>
         <source>The filesystem will be searched for case insensitive file names when you check this on. Remember it is not default on most operating systems except MS Windows</source>
-        <translation type="unfinished"/>
+        <translation>Hau markatzen baduzu, maiuskulak eta minuskulak bereizi gabe bilatuko dira fitxategi-izenak fitxategi-sisteman. Gogoan izan hori ez dela portaera lehenetsia sistema eragile askotan (MS Windowsen bai)</translation>
     </message>
     <message>
         <source>Cancel Search</source>
-        <translation type="unfinished"/>
+        <translation>Utzi bilaketa</translation>
     </message>
     <message>
         <source>Start Search</source>
-        <translation type="unfinished"/>
+        <translation>Hasi bilaketa</translation>
     </message>
     <message>
         <source>Select a base directory for search</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu oinarri-direktorio bat bilaketarako</translation>
     </message>
     <message>
         <source>Scribus - Image Search</source>
@@ -12657,11 +12734,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>The search failed: %1</source>
-        <translation type="unfinished"/>
+        <translation>Bilaketak huts egin du: %1</translation>
     </message>
     <message>
         <source>Search Images</source>
-        <translation type="unfinished"/>
+        <translation>Bilatu irudiak</translation>
     </message>
     <message>
         <source>Search for:</source>
@@ -12669,7 +12746,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Start at:</source>
-        <translation type="unfinished"/>
+        <translation>Hasi hemen:</translation>
     </message>
     <message>
         <source>Change...</source>
@@ -12677,20 +12754,21 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Searching</source>
-        <translation type="unfinished"/>
+        <translation>Bilatzen</translation>
     </message>
     <message>
         <source>Case insensitive search</source>
-        <translation type="unfinished"/>
+        <translation>Maiuskulak/minuskulak kontuan hartu gabeko bilaketa</translation>
     </message>
     <message>
         <source>Search recursively</source>
-        <translation type="unfinished"/>
+        <translation>Bilatu errekurtsiboki</translation>
     </message>
     <message>
         <source>Base directory for search does not exist.
 Please choose another one.</source>
-        <translation type="unfinished"/>
+        <translation>Bilaketaren oinarri-direktorioa ez da existitzen.
+Hautatu beste bat.</translation>
     </message>
 </context>
 <context>
@@ -12709,35 +12787,35 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Not on a Page</source>
-        <translation type="unfinished"/>
+        <translation>Ez orrialde batean</translation>
     </message>
     <message>
         <source>JPG</source>
-        <translation type="unfinished"/>
+        <translation>JPG</translation>
     </message>
     <message>
         <source>TIFF</source>
-        <translation type="unfinished"/>
+        <translation>TIFF</translation>
     </message>
     <message>
         <source>PSD</source>
-        <translation type="unfinished"/>
+        <translation>PSD</translation>
     </message>
     <message>
         <source>EPS/PS</source>
-        <translation type="unfinished"/>
+        <translation>EPS/PS</translation>
     </message>
     <message>
         <source>PDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF</translation>
     </message>
     <message>
         <source>JPG2000</source>
-        <translation type="unfinished"/>
+        <translation>JPG2000</translation>
     </message>
     <message>
         <source>emb. PSD</source>
-        <translation type="unfinished"/>
+        <translation>emb. PSD</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -12745,7 +12823,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>n/a</source>
-        <translation type="unfinished"/>
+        <translation>n/a</translation>
     </message>
     <message>
         <source>Information</source>
@@ -12753,11 +12831,11 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Path:</source>
-        <translation type="unfinished"/>
+        <translation>Bidea:</translation>
     </message>
     <message>
         <source>Search...</source>
-        <translation type="unfinished"/>
+        <translation>Bilatu...</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -12769,7 +12847,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>DPI:</source>
-        <translation type="unfinished"/>
+        <translation>DPI:</translation>
     </message>
     <message>
         <source>Format:</source>
@@ -12777,7 +12855,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Colorspace:</source>
-        <translation>Kolore-eskala:</translation>
+        <translation>Kolore-espazioa:</translation>
     </message>
     <message>
         <source>Size</source>
@@ -12785,7 +12863,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Pixels:</source>
-        <translation type="unfinished"/>
+        <translation>Pixelak:</translation>
     </message>
     <message>
         <source>Scale:</source>
@@ -12793,35 +12871,35 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Printed:</source>
-        <translation type="unfinished"/>
+        <translation>Inprimatua:</translation>
     </message>
     <message>
         <source>Layout</source>
-        <translation type="unfinished"/>
+        <translation>Diseinua</translation>
     </message>
     <message>
         <source>On Page:</source>
-        <translation type="unfinished"/>
+        <translation>Orrialdean:</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu</translation>
     </message>
     <message>
         <source>Image Tools</source>
-        <translation type="unfinished"/>
+        <translation>Irudi-tresnak</translation>
     </message>
     <message>
         <source>Set format specific properties of certain image types, like clipping paths</source>
-        <translation type="unfinished"/>
+        <translation>Ezarri zenbait irudi moten propietate espezifikoak, esaterako mozte-bideak</translation>
     </message>
     <message>
         <source>Image Visible</source>
-        <translation type="unfinished"/>
+        <translation>Irudia ikusgai</translation>
     </message>
     <message>
         <source>Image Effects...</source>
-        <translation type="unfinished"/>
+        <translation>Irudi-efektuak...</translation>
     </message>
     <message>
         <source>Edit Image...</source>
@@ -12829,7 +12907,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Extended Image Properties...</source>
-        <translation type="unfinished"/>
+        <translation>Irudi-propietate hedatuak...</translation>
     </message>
     <message>
         <source>Sort by Name</source>
@@ -12837,59 +12915,59 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Sort by Page</source>
-        <translation type="unfinished"/>
+        <translation>Ordenatu orrialdearen arabera</translation>
     </message>
     <message>
         <source>Manage Images</source>
-        <translation type="unfinished"/>
+        <translation>Kudeatu irudiak</translation>
     </message>
     <message>
         <source>Go to</source>
-        <translation type="unfinished"/>
+        <translation>Joan hona:</translation>
     </message>
     <message>
         <source>Name of the image file</source>
-        <translation type="unfinished"/>
+        <translation>Irudi-fitxategiaren izena</translation>
     </message>
     <message>
         <source>Location where the image file is stored</source>
-        <translation type="unfinished"/>
+        <translation>Irudi-fitxategia gordeta dagoen kokapena</translation>
     </message>
     <message>
         <source>Search for a missing image</source>
-        <translation type="unfinished"/>
+        <translation>Bilatu falta den irudi bat</translation>
     </message>
     <message>
         <source>Type of the image</source>
-        <translation type="unfinished"/>
+        <translation>Irudi mota</translation>
     </message>
     <message>
         <source>The colorspace of the image</source>
-        <translation type="unfinished"/>
+        <translation>Irudiaren kolore-espazioa</translation>
     </message>
     <message>
         <source>Colorspace used within the image, eg RGB or CMYK</source>
-        <translation type="unfinished"/>
+        <translation>Irudian erabilitako kolore-espazioa, adib. RGB edo CMYK</translation>
     </message>
     <message>
         <source>Native resolution of the image, in dots per inch</source>
-        <translation type="unfinished"/>
+        <translation>Irudiaren jatorrizko bereizmena, DPItan</translation>
     </message>
     <message>
         <source>Height and width of the image</source>
-        <translation type="unfinished"/>
+        <translation>Irudiaren zabalera eta altuera</translation>
     </message>
     <message>
         <source>Horizontal and vertical scaling applied to the image</source>
-        <translation type="unfinished"/>
+        <translation>Eskalatze horizontal eta bertikala irudiari aplikatuta</translation>
     </message>
     <message>
         <source>Size of the image when printed</source>
-        <translation type="unfinished"/>
+        <translation>Irudiaren tamaina inprimatuko denean</translation>
     </message>
     <message>
         <source>Page that the image is displayed on</source>
-        <translation type="unfinished"/>
+        <translation>Irudia zein orrialdetan erakutsiko den</translation>
     </message>
     <message>
         <source>Page Item:</source>
@@ -12897,43 +12975,43 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Name of the page item that contains the image</source>
-        <translation type="unfinished"/>
+        <translation>Irudia daukan orrialde-elementuaren izena</translation>
     </message>
     <message>
         <source>Effective DPI:</source>
-        <translation type="unfinished"/>
+        <translation>DPI efektiboa:</translation>
     </message>
     <message>
         <source>Effective resolution of the image after scaling</source>
-        <translation type="unfinished"/>
+        <translation>Irudiaren bereizmen efektiboa eskalatzearen ondoren</translation>
     </message>
     <message>
         <source>Move to the page that the image is on</source>
-        <translation type="unfinished"/>
+        <translation>Mugitu irudia dagoen orrialdera</translation>
     </message>
     <message>
         <source>Move to the page that the item is on and select it</source>
-        <translation type="unfinished"/>
+        <translation>Mugitu elementua dagoen orrialdera eta hura hautatu</translation>
     </message>
     <message>
         <source>Enable or disable exporting of the item</source>
-        <translation type="unfinished"/>
+        <translation>Gaitu edo desgaitu elementuaren esportazioa</translation>
     </message>
     <message>
         <source>Export/Print Image</source>
-        <translation type="unfinished"/>
+        <translation>Esportatu/inprimatu irudia</translation>
     </message>
     <message>
         <source>Edit the image in the default editor</source>
-        <translation type="unfinished"/>
+        <translation>Editatu irudia editore lehenetsian</translation>
     </message>
     <message>
         <source>Make the image visible or invisible</source>
-        <translation type="unfinished"/>
+        <translation>Bihurtu irudia ikusgai edo ikusezin</translation>
     </message>
     <message>
         <source>Apply non destructive effects to the image in its frame</source>
-        <translation type="unfinished"/>
+        <translation>Aplikatu suntsitzaileak ez diren efektuak irudian bere markoaren barruan</translation>
     </message>
     <message>
         <source>Embedded Image</source>
@@ -12944,71 +13022,71 @@ Please choose another one.</source>
     <name>PictureBrowser</name>
     <message>
         <source>Scribus Picture Browser</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Scribus irudi-arakatzailea</translation>
     </message>
     <message>
         <source>Folder Browser</source>
-        <translation type="unfinished"/>
+        <translation>Karpeta-arakatzailea</translation>
     </message>
     <message>
         <source>Collection Browser</source>
-        <translation type="unfinished"/>
+        <translation>Bilduma-arakatzailea</translation>
     </message>
     <message>
         <source>Document Browser</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentu-arakatzailea</translation>
     </message>
     <message>
         <source>Include Subdirectories</source>
-        <translation type="unfinished"/>
+        <translation>Sartu azpidirektorioak</translation>
     </message>
     <message>
         <source>Create new category</source>
-        <translation type="unfinished"/>
+        <translation>Sortu kategoria berria</translation>
     </message>
     <message>
         <source>New collection</source>
-        <translation type="unfinished"/>
+        <translation>Bilduma berria</translation>
     </message>
     <message>
         <source>Delete selected collection</source>
-        <translation type="unfinished"/>
+        <translation>Ezabatu hautatutako bilduma</translation>
     </message>
     <message>
         <source>Edit selected collection</source>
-        <translation type="unfinished"/>
+        <translation>Editatu hautatutako bilduma</translation>
     </message>
     <message>
         <source>Add selected images to collection(s)</source>
-        <translation type="unfinished"/>
+        <translation>gehitu hautatutako irudiak bildumari</translation>
     </message>
     <message>
         <source>Remove selected images from current collection</source>
-        <translation type="unfinished"/>
+        <translation>Kendu hautatutako irudiak uneko bildumatik</translation>
     </message>
     <message>
         <source>Tag selected images</source>
-        <translation type="unfinished"/>
+        <translation>Etiketatu hautatutako irudiak</translation>
     </message>
     <message>
         <source>Import collection/collectionset</source>
-        <translation type="unfinished"/>
+        <translation>Inportatu bilduma/bilduma multzoa</translation>
     </message>
     <message>
         <source>Export collection/collectionset</source>
-        <translation type="unfinished"/>
+        <translation>Esportatu bilduma/bilduma multzoa</translation>
     </message>
     <message>
         <source>add selected images to collections</source>
-        <translation type="unfinished"/>
+        <translation>gehitu hautatutako irudiak bildumetara</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"/>
+        <translation>Gehiago</translation>
     </message>
     <message>
         <source>Always on Top</source>
-        <translation type="unfinished"/>
+        <translation>Beti gainean</translation>
     </message>
     <message>
         <source>Sort by Name</source>
@@ -13016,11 +13094,11 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Sort by Date</source>
-        <translation type="unfinished"/>
+        <translation>Ordenatu dataren arabera</translation>
     </message>
     <message>
         <source>Sort by Size</source>
-        <translation type="unfinished"/>
+        <translation>Ordenatu tamainaren arabera</translation>
     </message>
     <message>
         <source>Sort by Type</source>
@@ -13028,7 +13106,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Change sortorder</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Aldatu ordena</translation>
     </message>
     <message>
         <source>Zoom in</source>
@@ -13040,35 +13118,35 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Preview with Information</source>
-        <translation type="unfinished"/>
+        <translation>Aurrebista informazioarekin</translation>
     </message>
     <message>
         <source>Quick Insert</source>
-        <translation type="unfinished"/>
+        <translation>Txertatze azkarra</translation>
     </message>
     <message>
         <source>Custom Insert</source>
-        <translation type="unfinished"/>
+        <translation>Txertatze pertsonalizatua</translation>
     </message>
     <message>
         <source>Add to Collection</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu bildumari</translation>
     </message>
     <message>
         <source>Go</source>
-        <translation type="unfinished"/>
+        <translation>Joan</translation>
     </message>
     <message>
         <source>0 Image(s) Displayed, 0 Image(s) Filtered</source>
-        <translation type="unfinished"/>
+        <translation>0 irudi erakusten, 0 irudi iragazita</translation>
     </message>
     <message>
         <source>Autosave Settings</source>
-        <translation type="unfinished"/>
+        <translation>Gordetze automatikoaren ezarpenak</translation>
     </message>
     <message>
         <source>Reset Settings</source>
-        <translation type="unfinished"/>
+        <translation>Berrezartze-ezarpenak</translation>
     </message>
     <message>
         <source>Close</source>
@@ -13088,7 +13166,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Path:</source>
-        <translation type="unfinished"/>
+        <translation>Bidea:</translation>
     </message>
     <message>
         <source>Size:</source>
@@ -13112,7 +13190,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Colorspace:</source>
-        <translation>Kolore-eskala:</translation>
+        <translation>Kolore-espazioa:</translation>
     </message>
     <message>
         <source>Height:</source>
@@ -13120,11 +13198,11 @@ Please choose another one.</source>
     </message>
     <message>
         <source>DPI:</source>
-        <translation type="unfinished"/>
+        <translation>DPI:</translation>
     </message>
     <message>
         <source>Layers:</source>
-        <translation type="unfinished"/>
+        <translation>Geruzak:</translation>
     </message>
     <message>
         <source>Embedded Profile:</source>
@@ -13136,23 +13214,23 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Filter / Search</source>
-        <translation type="unfinished"/>
+        <translation>Iragazi / bilatu</translation>
     </message>
     <message>
         <source>Filters:</source>
-        <translation type="unfinished"/>
+        <translation>Iragazkiak:</translation>
     </message>
     <message>
         <source>Filter Displayed Images</source>
-        <translation type="unfinished"/>
+        <translation>Iragazi erakutsitako irudiak</translation>
     </message>
     <message>
         <source>Search Images</source>
-        <translation type="unfinished"/>
+        <translation>Bilatu irudiak</translation>
     </message>
     <message>
         <source>Filter Collections</source>
-        <translation type="unfinished"/>
+        <translation>Iragazi bildumak</translation>
     </message>
     <message>
         <source>...</source>
@@ -13160,15 +13238,15 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Criteria</source>
-        <translation type="unfinished"/>
+        <translation>Irizpideak</translation>
     </message>
     <message>
         <source>&lt;&lt; Add</source>
-        <translation type="unfinished"/>
+        <translation>&lt;&lt; Gehitu</translation>
     </message>
     <message>
         <source>Name (Wildcards Allowed)</source>
-        <translation type="unfinished"/>
+        <translation>Izena (komodinak onartzen dira)</translation>
     </message>
     <message>
         <source>Date</source>
@@ -13184,79 +13262,79 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Tag</source>
-        <translation type="unfinished"/>
+        <translation>Etiketa</translation>
     </message>
     <message>
         <source>Contains</source>
-        <translation type="unfinished"/>
+        <translation>Dauka</translation>
     </message>
     <message>
         <source>Doesn&apos;t Contain</source>
-        <translation type="unfinished"/>
+        <translation>Ez dauka</translation>
     </message>
     <message>
         <source>Newer than</source>
-        <translation type="unfinished"/>
+        <translation>Hau baino berriagoa</translation>
     </message>
     <message>
         <source>Older than</source>
-        <translation type="unfinished"/>
+        <translation>Hau baino zaharragoa</translation>
     </message>
     <message>
         <source>Smaller than</source>
-        <translation type="unfinished"/>
+        <translation>Hau baino txikiagoa</translation>
     </message>
     <message>
         <source>Bigger than</source>
-        <translation type="unfinished"/>
+        <translation>Hau baino handiagoa</translation>
     </message>
     <message>
         <source> KB</source>
-        <translation type="unfinished"/>
+        <translation>KB</translation>
     </message>
     <message>
         <source>add</source>
-        <translation type="unfinished"/>
+        <translation>gehitu</translation>
     </message>
     <message>
         <source>Apply Filters</source>
-        <translation type="unfinished"/>
+        <translation>Aplikatu iragazkiak</translation>
     </message>
     <message>
         <source>Clear Filters</source>
-        <translation type="unfinished"/>
+        <translation>Garbitu iragazkiak</translation>
     </message>
     <message>
         <source>Insert Image</source>
-        <translation type="unfinished"/>
+        <translation>Txertatu irudia</translation>
     </message>
     <message>
         <source>Image Placement</source>
-        <translation type="unfinished"/>
+        <translation>Irudi-kokapena</translation>
     </message>
     <message>
         <source>Position of New Frame(s)</source>
-        <translation type="unfinished"/>
+        <translation>Marko berri(ar)en posizioa</translation>
     </message>
     <message>
         <source>Top Left of Margins</source>
-        <translation type="unfinished"/>
+        <translation>Marjinen goi ezkerrean</translation>
     </message>
     <message>
         <source>Top Left of Page</source>
-        <translation type="unfinished"/>
+        <translation>Orriadearen goi ezkerrean</translation>
     </message>
     <message>
         <source>Top Left of Bleed</source>
-        <translation type="unfinished"/>
+        <translation>Koskatzearen goi ezkerrean</translation>
     </message>
     <message>
         <source>Custom Position</source>
-        <translation type="unfinished"/>
+        <translation>Posizio pertsonalizatua</translation>
     </message>
     <message>
         <source>X:</source>
-        <translation type="unfinished"/>
+        <translation>X:</translation>
     </message>
     <message>
         <source>Y:</source>
@@ -13264,31 +13342,31 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Same as Page Margins</source>
-        <translation type="unfinished"/>
+        <translation>Orrialde-marjinen bera</translation>
     </message>
     <message>
         <source>Same as Page</source>
-        <translation type="unfinished"/>
+        <translation>Orrialdearen bera</translation>
     </message>
     <message>
         <source>Same as Bleed</source>
-        <translation type="unfinished"/>
+        <translation>Koskatzearen bera</translation>
     </message>
     <message>
         <source>Custom Size</source>
-        <translation type="unfinished"/>
+        <translation>Tamaina pertsonalizatua</translation>
     </message>
     <message>
         <source>Insert Image into</source>
-        <translation type="unfinished"/>
+        <translation>Txertatu irudia hemen:</translation>
     </message>
     <message>
         <source>0 Page(s)</source>
-        <translation type="unfinished"/>
+        <translation>0 orrialde</translation>
     </message>
     <message>
         <source>0 Frame(s)</source>
-        <translation type="unfinished"/>
+        <translation>0 marko</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -13296,215 +13374,215 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Tag Image(s)</source>
-        <translation type="unfinished"/>
+        <translation>Etiketatu irudia(k)</translation>
     </message>
     <message>
         <source>Selected Images:</source>
-        <translation type="unfinished"/>
+        <translation>Hautatutako irudiak:</translation>
     </message>
     <message>
         <source>Tag Selected Image(s)</source>
-        <translation type="unfinished"/>
+        <translation>Etiketatu hautatutako irudia(k)</translation>
     </message>
     <message>
         <source>Add New Tag</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu etiketa berria</translation>
     </message>
     <message>
         <source>Set Tags</source>
-        <translation type="unfinished"/>
+        <translation>Ezarri etiketak</translation>
     </message>
     <message>
         <source>Picture Browser Error</source>
-        <translation type="unfinished"/>
+        <translation>Errorea irudi-arakatzailean</translation>
     </message>
     <message>
         <source>No Image(s) Selected</source>
-        <translation type="unfinished"/>
+        <translation>Ez da irudirik hautatu</translation>
     </message>
     <message>
         <source>You have to create a category first</source>
-        <translation type="unfinished"/>
+        <translation>Kategoria bat sortu behar duzu lehenengo</translation>
     </message>
     <message>
         <source>No image(s) selected</source>
-        <translation type="unfinished"/>
+        <translation>Ez da irudirik hautatu</translation>
     </message>
     <message>
         <source>No page/image frame selected</source>
-        <translation type="unfinished"/>
+        <translation>Ez da orrialderik/irudi-markorik hautatu</translation>
     </message>
     <message>
         <source>Directory does not exist</source>
-        <translation type="unfinished"/>
+        <translation>Direktorioa ez da existitzen</translation>
     </message>
     <message>
         <source>Select Directory</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu direktorioa</translation>
     </message>
     <message>
         <source>Import Image Collection</source>
-        <translation type="unfinished"/>
+        <translation>Inportatu irudi-bilduma</translation>
     </message>
     <message>
         <source>Scribus ImageCollection (*.sic)</source>
-        <translation type="unfinished"/>
+        <translation>Scribus ImageCollection (irudi-bilduma) (*.sic)</translation>
     </message>
     <message>
         <source>Export Image Collection</source>
-        <translation type="unfinished"/>
+        <translation>Esportatu irudi-bilduma</translation>
     </message>
     <message>
         <source>You have to select something you want to export</source>
-        <translation type="unfinished"/>
+        <translation>Esportatu nahi duzuna hautatu behar duzu</translation>
     </message>
     <message>
         <source>No tag entered</source>
-        <translation type="unfinished"/>
+        <translation>Ez da etiketarik sartu</translation>
     </message>
     <message>
         <source>Image still loading</source>
-        <translation type="unfinished"/>
+        <translation>Irudia kargatzen ari da</translation>
     </message>
     <message>
         <source>JPG</source>
-        <translation type="unfinished"/>
+        <translation>JPG</translation>
     </message>
     <message>
         <source>TIFF</source>
-        <translation type="unfinished"/>
+        <translation>TIFF</translation>
     </message>
     <message>
         <source>PSD</source>
-        <translation type="unfinished"/>
+        <translation>PSD</translation>
     </message>
     <message>
         <source>EPS/PS</source>
-        <translation type="unfinished"/>
+        <translation>EPS/PS</translation>
     </message>
     <message>
         <source>PDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF</translation>
     </message>
     <message>
         <source>JPG2000</source>
-        <translation type="unfinished"/>
+        <translation>JPG2000</translation>
     </message>
     <message>
         <source>emb. PSD</source>
-        <translation type="unfinished"/>
+        <translation>emb. PSD</translation>
     </message>
     <message>
         <source>not available</source>
-        <translation type="unfinished"/>
+        <translation>ez dago erabilgarri</translation>
     </message>
     <message>
         <source>No image selected</source>
-        <translation type="unfinished"/>
+        <translation>Ez da irudirik hautatu</translation>
     </message>
     <message>
         <source>Go to Page</source>
-        <translation type="unfinished"/>
+        <translation>Joan orrialdera</translation>
     </message>
     <message>
         <source>Preview Images Only</source>
-        <translation type="unfinished"/>
+        <translation>Irudien aurrebista soilik</translation>
     </message>
     <message>
         <source>Page(s):</source>
-        <translation type="unfinished"/>
+        <translation>Orrialdea(k);</translation>
     </message>
     <message>
         <source>Image Frame(s):</source>
-        <translation type="unfinished"/>
+        <translation>Irudi-markoa(k):</translation>
     </message>
     <message>
         <source>Picture Browser</source>
-        <translation type="unfinished"/>
+        <translation>Irudi-arakatzailea</translation>
     </message>
     <message>
         <source>Move the document view to the selected page</source>
-        <translation type="unfinished"/>
+        <translation>Mugitu dokumentuaren bista hautatutako orrialdera</translation>
     </message>
     <message>
         <source>Show/Hide advanced tools</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi/ezkutatu tresna aurreratuak</translation>
     </message>
     <message>
         <source>Always keep Picture Browser on top of other windows</source>
-        <translation type="unfinished"/>
+        <translation>Mantendu beti argazki-arakatzailea beste leihoen gainean</translation>
     </message>
     <message>
         <source>Change sort order</source>
-        <translation type="unfinished"/>
+        <translation>Aldatu ordena</translation>
     </message>
     <message>
         <source>Change preview settings</source>
-        <translation type="unfinished"/>
+        <translation>Aldatu aurrebistaren ezarpenak</translation>
     </message>
     <message>
         <source>Enable Picture Browser autosave settings</source>
-        <translation type="unfinished"/>
+        <translation>Gaitu argazki-arakatzailearen gordetze automatikoko ezarpenak</translation>
     </message>
     <message>
         <source>Reset Picture Browser to default settings</source>
-        <translation type="unfinished"/>
+        <translation>Berrezarri argazki-arakatzailea ezarpen lehenetsietara</translation>
     </message>
     <message>
         <source>Select a directory</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu direktorio bat</translation>
     </message>
     <message>
         <source>Add filter</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu iragazkia</translation>
     </message>
     <message>
         <source>Filter criteria</source>
-        <translation type="unfinished"/>
+        <translation>Iragazki-irizpidea</translation>
     </message>
     <message>
         <source>Search criteria</source>
-        <translation type="unfinished"/>
+        <translation>Bilatu irizpidea</translation>
     </message>
     <message>
         <source>Type name</source>
-        <translation type="unfinished"/>
+        <translation>Mota-izena</translation>
     </message>
     <message>
         <source>Set date</source>
-        <translation type="unfinished"/>
+        <translation>Ezarri data</translation>
     </message>
     <message>
         <source>Set size</source>
-        <translation type="unfinished"/>
+        <translation>Ezarri tamaina</translation>
     </message>
     <message>
         <source>Select file type(s)</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu fitxategi mota(k)</translation>
     </message>
     <message>
         <source>Select the page(s) where to insert the image(s)</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu irudia(k) txertatuko d(ir)en orrialdea(k)</translation>
     </message>
     <message>
         <source>Select which frame(s) to use</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu zein marko erabiliko den</translation>
     </message>
     <message>
         <source>Set the position of the image frame(s) to insert</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu txertatuko d(ir)en irudi-marko(ar)en posizioa</translation>
     </message>
     <message>
         <source>Horizontal position</source>
-        <translation type="unfinished"/>
+        <translation>Posizio horizontala</translation>
     </message>
     <message>
         <source>Vertical position</source>
-        <translation type="unfinished"/>
+        <translation>Posizio bertikala</translation>
     </message>
     <message>
         <source>Set the size of the image frame(s) to insert</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu txertatuko d(ir)en irudi-marko(ar)en tamaina</translation>
     </message>
     <message>
         <source>Width</source>
@@ -13516,14 +13594,14 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Type Tag name</source>
-        <translation type="unfinished"/>
+        <translation>Idatzi etiketa-izena</translation>
     </message>
 </context>
 <context>
     <name>PictureBrowserPlugin</name>
     <message>
         <source>&amp;Picture Browser...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Irudi-arakatzailea...</translation>
     </message>
 </context>
 <context>
@@ -13546,15 +13624,15 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Export successful</source>
-        <translation type="unfinished"/>
+        <translation>Esportazioa ongi egin da</translation>
     </message>
     <message>
         <source>The target location %1 must be an existing directory</source>
-        <translation type="unfinished"/>
+        <translation>Helburuko kokapenak (%1) existitzen den direktorio bat izan behar du</translation>
     </message>
     <message>
         <source>The target location %1 must be writable</source>
-        <translation type="unfinished"/>
+        <translation>Helburuko kokapenak (%1) idazgarria izan behar du</translation>
     </message>
 </context>
 <context>
@@ -13562,7 +13640,7 @@ Please choose another one.</source>
     <message>
         <source>Cannot find plugin</source>
         <comment>plugin manager</comment>
-        <translation>Ezin da plugin-a aurkitu</translation>
+        <translation>Ezin da plugina aurkitu</translation>
     </message>
     <message>
         <source>unknown error</source>
@@ -13577,7 +13655,7 @@ Please choose another one.</source>
     <message>
         <source>Plugin: loading %1</source>
         <comment>plugin manager</comment>
-        <translation>Plugin-a: %1 kargatzen</translation>
+        <translation>Pluginak: %1 kargatzen</translation>
     </message>
     <message>
         <source>init failed</source>
@@ -13592,22 +13670,22 @@ Please choose another one.</source>
     <message>
         <source>Plugin: %1 loaded</source>
         <comment>plugin manager</comment>
-        <translation>Plugin-a: %1 kargatuta</translation>
+        <translation>Pluginak: %1 kargatuta</translation>
     </message>
     <message>
         <source>Plugin: %1 failed to load: %2</source>
         <comment>plugin manager</comment>
-        <translation>Plugin-a: huts egin du %1 kargatzean: %2</translation>
+        <translation>Pluginak: %1 ez da ongi kargatu: %2</translation>
     </message>
     <message>
         <source>Plugin: %1 initialized ok </source>
         <comment>plugin manager</comment>
-        <translation type="unfinished"/>
+        <translation>Pluginak: %1 ongi hasieratua </translation>
     </message>
     <message>
         <source>Plugin: %1 failed post initialization</source>
         <comment>plugin manager</comment>
-        <translation type="unfinished"/>
+        <translation>Pluginak: %1 hasieratze ondokoak huts egin du</translation>
     </message>
     <message>
         <source>There is a problem loading %1 of %2 plugins. %3 This is probably caused by some kind of dependency issue or old plugins existing in your install directory. If you clean out your install directory and reinstall and this still occurs, please report it on bugs.scribus.net.</source>
@@ -13622,7 +13700,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Plugin</source>
-        <translation>Plugin-a</translation>
+        <translation>Plugina</translation>
     </message>
     <message>
         <source>How to run</source>
@@ -13638,7 +13716,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Plugin ID</source>
-        <translation>Plugin-aren IDa</translation>
+        <translation>Pluginaren IDa</translation>
     </message>
     <message>
         <source>File</source>
@@ -13668,7 +13746,10 @@ Please choose another one.</source>
 
 Please submit your file (if possible) to the
 Document Liberation Project http://www.documentliberation.org</source>
-        <translation type="unfinished"/>
+        <translation>Analisiak huts egin du!
+
+Mesedez bidali zure fitxategia (posible bada)
+Document Liberation Project-era http://www.documentliberation.org</translation>
     </message>
 </context>
 <context>
@@ -13693,11 +13774,11 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Corn&amp;ers:</source>
-        <translation type="unfinished"/>
+        <translation>I&amp;zkinak:</translation>
     </message>
     <message>
         <source>Number of corners for polygons</source>
-        <translation type="unfinished"/>
+        <translation>Izkina kopurua poligonoetarako</translation>
     </message>
     <message>
         <source>&amp;Rotation:</source>
@@ -13705,7 +13786,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Degrees of rotation for polygons</source>
-        <translation type="unfinished"/>
+        <translation>Biraketa-graduak poligonoetarako</translation>
     </message>
     <message>
         <source>Sample Polygon</source>
@@ -13713,19 +13794,19 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Apply Convex/Concave Factor to change shape of Polygons</source>
-        <translation type="unfinished"/>
+        <translation>Aplikatu ahur/ganbil faktorea poligonoen forma aldatezeko</translation>
     </message>
     <message>
         <source>Apply &amp;Factor</source>
-        <translation type="unfinished"/>
+        <translation>Aplikatu &amp;faktorea</translation>
     </message>
     <message>
         <source>&amp;Factor:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Faktorea:</translation>
     </message>
     <message>
         <source>A negative value will make the polygon concave (or star shaped), a positive value will make it convex</source>
-        <translation type="unfinished"/>
+        <translation>Balio negatiboek poligonoa ahur (izar formako) bihurtuko dute, balio positiboek ganbil bihurtuko dute</translation>
     </message>
     <message>
         <source> %</source>
@@ -13733,15 +13814,15 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Inner Rotation:</source>
-        <translation type="unfinished"/>
+        <translation>Barneko biraketa:</translation>
     </message>
     <message>
         <source>Inner C&amp;urvature:</source>
-        <translation type="unfinished"/>
+        <translation>Barneko k&amp;urbadura:</translation>
     </message>
     <message>
         <source>Outer Curvature:</source>
-        <translation type="unfinished"/>
+        <translation>Kanpoko kurbadura:</translation>
     </message>
 </context>
 <context>
@@ -13779,11 +13860,11 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Export...</source>
-        <translation type="unfinished"/>
+        <translation>Esportatu...</translation>
     </message>
     <message>
         <source>Defaults</source>
-        <translation type="unfinished"/>
+        <translation>Lehenespenak</translation>
     </message>
     <message>
         <source>&amp;Apply</source>
@@ -13819,11 +13900,11 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Item Tools</source>
-        <translation type="unfinished"/>
+        <translation>Elementu-tresnak</translation>
     </message>
     <message>
         <source>Operator Tools</source>
-        <translation type="unfinished"/>
+        <translation>Eragile-tresnak</translation>
     </message>
     <message>
         <source>Hyphenator</source>
@@ -13851,7 +13932,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Preflight Verifier</source>
-        <translation>Egiaztatzailea</translation>
+        <translation>Inprimatze aurreko egiaztatzailea</translation>
     </message>
     <message>
         <source>Document Item Attributes</source>
@@ -13859,7 +13940,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Tables of Contents</source>
-        <translation type="unfinished"/>
+        <translation>Gaien aurkibideak</translation>
     </message>
     <message>
         <source>Sections</source>
@@ -13891,11 +13972,11 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Plugins</source>
-        <translation>Luzapenak</translation>
+        <translation>Pluginak</translation>
     </message>
     <message>
         <source>Image Cache</source>
-        <translation type="unfinished"/>
+        <translation>Irudi-cachea</translation>
     </message>
 </context>
 <context>
@@ -13919,7 +14000,8 @@ Document Liberation Project http://www.documentliberation.org</source>
     <message>
         <source>Scribus has detected existing Scribus 1.3.5 preferences files.
 Do you want to migrate them to the new Scribus version?</source>
-        <translation type="unfinished"/>
+        <translation>Scribus-ek Scribus 1.3.5 bertsioaren hobespen-fitxategi bat antzeman du.
+Haiek migratu nahi dituzu Scribus bertsio berrira?</translation>
     </message>
     <message>
         <source>Writing to preferences file &quot;%1&quot; failed: QIODevice status code %2</source>
@@ -13959,7 +14041,7 @@ gogorreko leku erabilgarria.</translation>
     </message>
     <message>
         <source>No valid renderframe config found. Using defaults!</source>
-        <translation type="unfinished"/>
+        <translation>Ez da baliozko errendatze-marko konfiguraturik aurkitu. Lehenespenak erabiliko dira!</translation>
     </message>
 </context>
 <context>
@@ -13978,23 +14060,23 @@ gogorreko leku erabilgarria.</translation>
     </message>
     <message>
         <source>Activate Color Management</source>
-        <translation type="unfinished"/>
+        <translation>Aktibatu kolore-kudeaketa</translation>
     </message>
     <message>
         <source>Simulate Printer on the Screen</source>
-        <translation type="unfinished"/>
+        <translation>Simulatu inprimagailua pantailan</translation>
     </message>
     <message>
         <source>Convert all colors to printer space</source>
-        <translation type="unfinished"/>
+        <translation>Bihurtu kolore guztiak inprimagailu-espaziora</translation>
     </message>
     <message>
         <source>Mark Colors out of Gamut</source>
-        <translation type="unfinished"/>
+        <translation>Markatu gamaz kanpo dauden koloreak</translation>
     </message>
     <message>
         <source>Use Blackpoint Compensation</source>
-        <translation type="unfinished"/>
+        <translation>Erabili puntu beltzaren konpentsazioa</translation>
     </message>
     <message>
         <source>Document Profiles</source>
@@ -14002,27 +14084,27 @@ gogorreko leku erabilgarria.</translation>
     </message>
     <message>
         <source>RGB Images:</source>
-        <translation type="unfinished"/>
+        <translation>RGB irudiak:</translation>
     </message>
     <message>
         <source>CMYK Images:</source>
-        <translation type="unfinished"/>
+        <translation>CMYK irudiak:</translation>
     </message>
     <message>
         <source>RGB Solid Colors:</source>
-        <translation type="unfinished"/>
+        <translation>RGB kolore solidoak:</translation>
     </message>
     <message>
         <source>CMYK Solid Colors:</source>
-        <translation type="unfinished"/>
+        <translation>CMYK kolore solidoak:</translation>
     </message>
     <message>
         <source>Printer:</source>
-        <translation type="unfinished"/>
+        <translation>Inprimagailua:</translation>
     </message>
     <message>
         <source>Document Rendering Intents</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentua errendatzeko saiakerak</translation>
     </message>
     <message>
         <source>Images:</source>
@@ -14038,7 +14120,7 @@ gogorreko leku erabilgarria.</translation>
     </message>
     <message>
         <source>Monitor:</source>
-        <translation type="unfinished"/>
+        <translation>Monitorea:</translation>
     </message>
     <message>
         <source>Perceptual</source>
@@ -14058,11 +14140,11 @@ gogorreko leku erabilgarria.</translation>
     </message>
     <message>
         <source>Monitor profiles can only be changed when no documents are open.</source>
-        <translation type="unfinished"/>
+        <translation>Monitore-profilak dokumentuak irekita ez daudenean soilik alda daitezke.</translation>
     </message>
     <message>
         <source>&lt;qt&gt;Color Management cannot be activated due to missing color profiles.&lt;/br&gt;You need to install at least one RGB and one CMYK profile.</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;Kolore-kudeaketa ezin da aktibatu kolore-profilak falta direlako.&lt;/br&gt;Gutxienez RGB profil bat eta CMYK profil bat instalatu behar dituzu.</translation>
     </message>
 </context>
 <context>
@@ -14077,11 +14159,11 @@ gogorreko leku erabilgarria.</translation>
     </message>
     <message>
         <source>Show Images</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi irudiak</translation>
     </message>
     <message>
         <source>Show Text Control Characters</source>
-        <translation type="unfinished"/>
+        <translation>Erautsi testu-kontrolerako karaktereak</translation>
     </message>
     <message>
         <source>Show Rulers</source>
@@ -14089,15 +14171,15 @@ gogorreko leku erabilgarria.</translation>
     </message>
     <message>
         <source>Show Rulers Relative to Page</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi erregelak orrialdearekiko modu erlatiboan</translation>
     </message>
     <message>
         <source>Show Text Chains</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi testu-kateak</translation>
     </message>
     <message>
         <source>Show Frames</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi markoak</translation>
     </message>
     <message>
         <source>Show Layer Indicators</source>
@@ -14105,71 +14187,71 @@ gogorreko leku erabilgarria.</translation>
     </message>
     <message>
         <source>Show Unprintable Area in Margin Color</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi inprimatuko ez de area marjinen koloreakin</translation>
     </message>
     <message>
         <source>Show Bleed Area</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi koskatze-area</translation>
     </message>
     <message>
         <source>Show Page Shadow</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi orrialde-itzala</translation>
     </message>
     <message>
         <source>Show Preflight Verifier Warnings on the Page</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi inprimatze aurreko egiaztatzailearen abisuak orrian</translation>
     </message>
     <message>
         <source>Scratch Space</source>
-        <translation type="unfinished"/>
+        <translation>Zirriborro-espazioa</translation>
     </message>
     <message>
         <source>Left:</source>
-        <translation>Ezkerra:</translation>
+        <translation>Ezkerrean:</translation>
     </message>
     <message>
         <source>Right:</source>
-        <translation>Eskuina:</translation>
+        <translation>Eskuinean:</translation>
     </message>
     <message>
         <source>Top:</source>
-        <translation>Goia:</translation>
+        <translation>Goian:</translation>
     </message>
     <message>
         <source>Bottom:</source>
-        <translation>Behea:</translation>
+        <translation>Behean:</translation>
     </message>
     <message>
         <source>Display Scaling</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi eskalatzea:</translation>
     </message>
     <message>
         <source>Scratch Space:</source>
-        <translation type="unfinished"/>
+        <translation>Zirriborro-espazioa:</translation>
     </message>
     <message>
         <source>Gaps Between Pages</source>
-        <translation type="unfinished"/>
+        <translation>Orrialdeen arteko tartea</translation>
     </message>
     <message>
         <source>Pages</source>
-        <translation type="unfinished"/>
+        <translation>Orrialdeak</translation>
     </message>
     <message>
         <source>Horizontal:</source>
-        <translation type="unfinished"/>
+        <translation>Horizontala:</translation>
     </message>
     <message>
         <source>Vertical:</source>
-        <translation type="unfinished"/>
+        <translation>Bertikala:</translation>
     </message>
     <message>
         <source>Scale%</source>
-        <translation type="unfinished"/>
+        <translation>Eskala%</translation>
     </message>
     <message>
         <source>Resets the scale to the default dpi of your display</source>
-        <translation type="unfinished"/>
+        <translation>Eskala berrezartzen du zure monitorearen DPI lehenetsietara</translation>
     </message>
     <message>
         <source>Colors</source>
@@ -14177,91 +14259,91 @@ gogorreko leku erabilgarria.</translation>
     </message>
     <message>
         <source>Page Fill:</source>
-        <translation type="unfinished"/>
+        <translation>Orrialde-betegarria:</translation>
     </message>
     <message>
         <source>Selected Page Border:</source>
-        <translation type="unfinished"/>
+        <translation>Hautatutako orrialde-ertza:</translation>
     </message>
     <message>
         <source>Frames:</source>
-        <translation type="unfinished"/>
+        <translation>Markoak:</translation>
     </message>
     <message>
         <source>Locked Frames:</source>
-        <translation type="unfinished"/>
+        <translation>Blokeatutako markoak:</translation>
     </message>
     <message>
         <source>Selected Frames:</source>
-        <translation type="unfinished"/>
+        <translation>Hautatutako markoak:</translation>
     </message>
     <message>
         <source>Linked Frames:</source>
-        <translation type="unfinished"/>
+        <translation>Estekatutako markoak:</translation>
     </message>
     <message>
         <source>Grouped Frames:</source>
-        <translation type="unfinished"/>
+        <translation>Taldekatutako markoak:</translation>
     </message>
     <message>
         <source>Annotation Frames:</source>
-        <translation type="unfinished"/>
+        <translation>Oharpen-markoak:</translation>
     </message>
     <message>
         <source>Text Control Characters:</source>
-        <translation type="unfinished"/>
+        <translation>Testu-kontrolerako karaktereak:</translation>
     </message>
     <message>
         <source>Color for paper (onscreen)</source>
-        <translation type="unfinished"/>
+        <translation>Kolorea papererako (pantailan)</translation>
     </message>
     <message>
         <source>Mask the area outside the margins in the margin color</source>
-        <translation type="unfinished"/>
+        <translation>Maskaratu marjinen kanpoko area marjinen kolorearekin</translation>
     </message>
     <message>
         <source>Enable or disable  the display of linked frames.</source>
-        <translation type="unfinished"/>
+        <translation>Gaitu edo desgaitu estekatutako markoen bistaratzea</translation>
     </message>
     <message>
         <source>Display non-printing characters such as paragraph markers in text frames</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi inprimatzen ez diren karaktereak, esaterako testu-markoetako paragrafo-markatzaileak</translation>
     </message>
     <message>
         <source>Turns the display of frames on or off</source>
-        <translation type="unfinished"/>
+        <translation>Aktibatu edo desaktibatu markoen bistaratzea</translation>
     </message>
     <message>
         <source>Turns the display of layer indicators on or off</source>
-        <translation type="unfinished"/>
+        <translation>Aktibatu edo desaktibatu geruza-adierazleen bistaratzea</translation>
     </message>
     <message>
         <source>Turns the display of images on or off</source>
-        <translation type="unfinished"/>
+        <translation>Aktibatu edo desaktibatu irudien bistaratzea</translation>
     </message>
     <message>
         <source>Turns the page shadow on or off</source>
-        <translation type="unfinished"/>
+        <translation>Aktibatu edo desaktibatu orrialde-itzalaren bistaratzea</translation>
     </message>
     <message>
         <source>Defines amount of space left of the document canvas available as a pasteboard for creating and modifying elements and dragging them onto the active page</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentu-oihalaren ezkerrean espazio-kantitate bat definitzen du arbel gisa erabilgarri egon dadin, bertan elementuak sortu eta aldatzeko eta ondoren orrialde aktibora arrastatu ahal izateko</translation>
     </message>
     <message>
         <source>Defines amount of space right of the document canvas available as a pasteboard for creating and modifying elements and dragging them onto the active page</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentu-oihalaren eskuinean espazio-kantitate bat definitzen du arbel gisa erabilgarri egon dadin, bertan elementuak sortu eta aldatzeko eta ondoren orrialde aktibora arrastatu ahal izateko</translation>
     </message>
     <message>
         <source>Defines amount of space above the document canvas available as a pasteboard for creating and modifying elements and dragging them onto the active page</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentu-oihalaren goialdean espazio-kantitate bat definitzen du arbel gisa erabilgarri egon dadin, bertan elementuak sortu eta aldatzeko eta ondoren orrialde aktibora arrastatu ahal izateko</translation>
     </message>
     <message>
         <source>Defines amount of space below the document canvas available as a pasteboard for creating and modifying elements and dragging them onto the active page</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentu-oihalaren behealdean espazio-kantitate bat definitzen du arbel gisa erabilgarri egon dadin, bertan elementuak sortu eta aldatzeko eta ondoren orrialde aktibora arrastatu ahal izateko</translation>
     </message>
     <message>
         <source>Set the default zoom level</source>
-        <translation type="unfinished"/>
+        <translation>Ezarri zoom-maila lehenetsia</translation>
     </message>
     <message>
         <source>Place a ruler against your screen and drag the slider to set the zoom level so Scribus will display your pages and objects on them at the correct size</source>
@@ -14273,7 +14355,7 @@ gogorreko leku erabilgarria.</translation>
     </message>
     <message>
         <source>Show Autosave Countdown Clock on the Canvas</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi oihalean gordetze automatikoko atzerako kontaketako erlojua</translation>
     </message>
 </context>
 <context>
@@ -14367,7 +14449,7 @@ gogorreko leku erabilgarria.</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Izena:</translation>
+        <translation>Izena</translation>
     </message>
     <message>
         <source>Type</source>
@@ -14383,15 +14465,15 @@ gogorreko leku erabilgarria.</translation>
     </message>
     <message>
         <source>Relationship</source>
-        <translation>Harremana</translation>
+        <translation>Erlazioa</translation>
     </message>
     <message>
         <source>Relationship To</source>
-        <translation type="unfinished"/>
+        <translation>Erlazioa honekin</translation>
     </message>
     <message>
         <source>Auto Add To</source>
-        <translation type="unfinished"/>
+        <translation>Automatikoki gehitu honi</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -14509,23 +14591,23 @@ gogorreko leku erabilgarria.</translation>
     </message>
     <message>
         <source>Document Sections</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentu-atalak</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Izena:</translation>
+        <translation>Izena</translation>
     </message>
     <message>
         <source>Shown</source>
-        <translation type="unfinished"/>
+        <translation>Bistan</translation>
     </message>
     <message>
         <source>From</source>
-        <translation type="unfinished"/>
+        <translation>Hemendik</translation>
     </message>
     <message>
         <source>To</source>
-        <translation type="unfinished"/>
+        <translation>Hona</translation>
     </message>
     <message>
         <source>Style</source>
@@ -14533,7 +14615,7 @@ gogorreko leku erabilgarria.</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"/>
+        <translation>Hasiera</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -14553,23 +14635,23 @@ gogorreko leku erabilgarria.</translation>
     </message>
     <message>
         <source>Field Width</source>
-        <translation type="unfinished"/>
+        <translation>Eremu-zabalera</translation>
     </message>
     <message>
         <source>Fill Character</source>
-        <translation type="unfinished"/>
+        <translation>Betegarri-karakterea</translation>
     </message>
     <message>
         <source>Reversed</source>
-        <translation type="unfinished"/>
+        <translation>Alderantzikatua</translation>
     </message>
     <message>
         <source>*</source>
-        <translation type="unfinished"/>
+        <translation>*</translation>
     </message>
     <message>
         <source>CJK</source>
-        <translation type="unfinished"/>
+        <translation>CJK</translation>
     </message>
 </context>
 <context>
@@ -14620,47 +14702,47 @@ gogorreko leku erabilgarria.</translation>
     </message>
     <message>
         <source>Layout</source>
-        <translation type="unfinished"/>
+        <translation>Diseinua</translation>
     </message>
     <message>
         <source>Page Layout</source>
-        <translation type="unfinished"/>
+        <translation>Orrialde-diseinua</translation>
     </message>
     <message>
         <source>Saving &amp;&amp; Undo</source>
-        <translation type="unfinished"/>
+        <translation>Gorde &amp;&amp; desegin</translation>
     </message>
     <message>
         <source>Save in Compressed Format</source>
-        <translation type="unfinished"/>
+        <translation>Gorde formatu konprimatuan</translation>
     </message>
     <message>
         <source>Autosave</source>
-        <translation type="unfinished"/>
+        <translation>Gorde automatikoki</translation>
     </message>
     <message>
         <source>Enable Automatic Saving of Documents</source>
-        <translation type="unfinished"/>
+        <translation>Gaitu dokumentuen gordetze automatikoa</translation>
     </message>
     <message>
         <source>Interval:</source>
-        <translation type="unfinished"/>
+        <translation>Tartea:</translation>
     </message>
     <message>
         <source> min</source>
-        <translation type="unfinished"/>
+        <translation>min</translation>
     </message>
     <message>
         <source>Undo / Redo</source>
-        <translation type="unfinished"/>
+        <translation>Desegin / berregin</translation>
     </message>
     <message>
         <source>Enable Undo/Redo System</source>
-        <translation type="unfinished"/>
+        <translation>Gaitu sistemaren desegin/berregin</translation>
     </message>
     <message>
         <source>Action History Length:</source>
-        <translation type="unfinished"/>
+        <translation>Ekintza-historiaren luzera:</translation>
     </message>
     <message>
         <source>Single Page</source>
@@ -14672,7 +14754,7 @@ gogorreko leku erabilgarria.</translation>
     </message>
     <message>
         <source>Double Page</source>
-        <translation type="unfinished"/>
+        <translation>Orrialde bikoitza</translation>
     </message>
     <message>
         <source>3-Fold</source>
@@ -14692,7 +14774,7 @@ gogorreko leku erabilgarria.</translation>
     </message>
     <message>
         <source>Margins &amp;&amp; Bleeds</source>
-        <translation type="unfinished"/>
+        <translation>Marjinak &amp;&amp; koskatzeak</translation>
     </message>
     <message>
         <source>Margins</source>
@@ -14700,7 +14782,7 @@ gogorreko leku erabilgarria.</translation>
     </message>
     <message>
         <source>Bleeds</source>
-        <translation type="unfinished"/>
+        <translation>Koskatzeak</translation>
     </message>
     <message>
         <source>Portrait</source>
@@ -14712,23 +14794,23 @@ gogorreko leku erabilgarria.</translation>
     </message>
     <message>
         <source>Width of document pages, editable if you have chosen a custom page size</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentu-orrialdeen zabalera, editagarria orrialde-tamaina pertsonalizatu hautatu baduzu</translation>
     </message>
     <message>
         <source>Height of document pages, editable if you have chosen a custom page size</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentu-orrialdeen altuera, editagarria orrialde-tamaina pertsonalizatu hautatu baduzu</translation>
     </message>
     <message>
         <source>Default page size, either a standard size or a custom size. More page sizes can be made visible by activating them in Preferences.</source>
-        <translation type="unfinished"/>
+        <translation>Orrialde-tamaina lehenetsia, estandarra edo pertsonalizatua. Orrialde-tamaina gehiago egin daitezke ikusgai haiek &apos;Hobespenak&apos; atalean aktibatuz.</translation>
     </message>
     <message>
         <source>Enable or disable more page sizes by jumping to Page Size preferences</source>
-        <translation type="unfinished"/>
+        <translation>Gaitu edo desgaitu orrialde-tamaina gehiago &apos;Orrialde-tamaina&apos; hobespenera salto eginez</translation>
     </message>
     <message>
         <source>Default orientation of document pages</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentu-orrialdeen orientazio lehenetsia</translation>
     </message>
     <message>
         <source>Default unit of measurement for document editing</source>
@@ -14736,23 +14818,23 @@ gogorreko leku erabilgarria.</translation>
     </message>
     <message>
         <source>When enabled, Scribus saves a backup copy of your file with the .bak extension each time the time period elapses</source>
-        <translation type="unfinished"/>
+        <translation>Gaituta dagoenean, Scribus-ek zure fitxategiaren .bak luzapeneko babeskopia bat gordetzen du denbora-tartea betetzen den bakoitzean.</translation>
     </message>
     <message>
         <source>Time period between saving automatically</source>
-        <translation type="unfinished"/>
+        <translation>Gordetze automatikoen arteko denbora-tartea</translation>
     </message>
     <message>
         <source>Set the length of the action history in steps. If set to 0 infinite amount of actions will be stored.</source>
-        <translation type="unfinished"/>
+        <translation>Ezarri ekintza-historiaren luzera urratsetan. 0 balioa ematen bazaio, ekintza kopuru mugagabea gordeko da.</translation>
     </message>
     <message>
         <source>Apply the page size changes to all existing pages in the document</source>
-        <translation type="unfinished"/>
+        <translation>Aplikatu orrialde-tamainaren aldaketak dokumentuko orrialde guztiei</translation>
     </message>
     <message>
         <source>Apply the page size changes to all existing master pages in the document</source>
-        <translation type="unfinished"/>
+        <translation>Aplikatu orrialde-tamainaren aldaketak dokumentuko orri maisu guztiei</translation>
     </message>
 </context>
 <context>
@@ -14763,19 +14845,19 @@ gogorreko leku erabilgarria.</translation>
     </message>
     <message>
         <source>External Tools and Applications</source>
-        <translation type="unfinished"/>
+        <translation>Kanpoko tresnak eta aplikazioak</translation>
     </message>
     <message>
         <source>PostScript Interpreter</source>
-        <translation type="unfinished"/>
+        <translation>PostScript interpretatzailea</translation>
     </message>
     <message>
         <source>&amp;Name of Executable:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Exekutagarriaren izena:</translation>
     </message>
     <message>
         <source>&lt;qt&gt;Add the path for the Ghostscript interpreter. On Windows, please note it is important to note you need to use the program named gswin32c.exe - NOT gswin32.exe. Otherwise, this maybe cause a hang when starting Scribus.&lt;/qt&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;Gehitu Ghostscript interpretatzailearen bidea. Windowsen, kontuan izan gswin32c.exe (EZ gswin32.exe) izeneko programa behar duzula. Bestela, Scribus blokeatu egin daiteke abioan.&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>&amp;Change...</source>
@@ -14787,11 +14869,11 @@ gogorreko leku erabilgarria.</translation>
     </message>
     <message>
         <source>Antialias text for EPS and PDF onscreen rendering</source>
-        <translation type="unfinished"/>
+        <translation>Testuen antialias-a EPS eta PDF formatuen pantaila-errendatzerako</translation>
     </message>
     <message>
         <source>Antialias &amp;Text</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Testuen antialias-a</translation>
     </message>
     <message>
         <source>Alt+T</source>
@@ -14799,11 +14881,11 @@ gogorreko leku erabilgarria.</translation>
     </message>
     <message>
         <source>Antialias graphics for EPS and PDF onscreen rendering</source>
-        <translation type="unfinished"/>
+        <translation>Irudien antialias-a EPS eta PDF formatuen pantaila-errendatzerako</translation>
     </message>
     <message>
         <source>Antialias &amp;Graphics</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Irudien antialias-a</translation>
     </message>
     <message>
         <source>Alt+G</source>
@@ -14819,43 +14901,43 @@ gogorreko leku erabilgarria.</translation>
     </message>
     <message>
         <source>Image Processing Tool</source>
-        <translation type="unfinished"/>
+        <translation>Irudiak prozesatzeko tresna</translation>
     </message>
     <message>
         <source>Name of &amp;Executable:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Exekutagarriaren izena:</translation>
     </message>
     <message>
         <source>&lt;qt&gt;File system location for graphics editor. If you use gimp and your distribution includes it, we recommend &apos;gimp-remote&apos;, as it allows you to edit the image in an already running instance of gimp.&lt;/qt&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;Grafikoen editorearen kokapena sisteman. GIMP erabiltzen baduzu eta zure sistemak instalatuta badauka, &apos;gimp-remote&apos; idaztea gomendatzen dizugu, horrela lehendik abian dagoen GIMP instantzian editatuko baitituzu irudiak.&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>Web Browser</source>
-        <translation type="unfinished"/>
+        <translation>Web arakatzailea</translation>
     </message>
     <message>
         <source>PDF Viewer</source>
-        <translation type="unfinished"/>
+        <translation>PDF ikustailea</translation>
     </message>
     <message>
         <source>Uniconvertor</source>
-        <translation type="unfinished"/>
+        <translation>Uniconvertor</translation>
     </message>
     <message>
         <source>Render Frames</source>
-        <translation type="unfinished"/>
+        <translation>Errendatu markoak</translation>
     </message>
     <message>
         <source>Configurations:</source>
-        <translation type="unfinished"/>
+        <translation>Konfigurazioak:</translation>
     </message>
     <message>
         <source>Up</source>
-        <translation type="unfinished"/>
+        <translation>Gora</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="unfinished"/>
+        <translation>Behera</translation>
     </message>
     <message>
         <source>Add</source>
@@ -14871,15 +14953,15 @@ gogorreko leku erabilgarria.</translation>
     </message>
     <message>
         <source>External Editor:</source>
-        <translation type="unfinished"/>
+        <translation>Kanpoko editorea:</translation>
     </message>
     <message>
         <source>&lt;qt&gt;Path to the editor executable.&lt;/qt&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;Editorearen exekutagarriaren bide-izena.&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>Start with empty frame</source>
-        <translation type="unfinished"/>
+        <translation>Hasi marko hutsarekin</translation>
     </message>
     <message>
         <source>Use Embedded Editor</source>
@@ -14887,19 +14969,19 @@ gogorreko leku erabilgarria.</translation>
     </message>
     <message>
         <source>Always use the configured DPI setting for calculating the size, even if the image file reports something different.</source>
-        <translation type="unfinished"/>
+        <translation>Erabili beti konfiguratutako DPI ezarpena tamaian kalkulatzeko, baita irudi-fitxategiak beste zerbait dionean ere.</translation>
     </message>
     <message>
         <source>Force DPI</source>
-        <translation type="unfinished"/>
+        <translation>Behartu DPIa</translation>
     </message>
     <message>
         <source>Rescan for the external tools if they do not exist in the already specified location</source>
-        <translation type="unfinished"/>
+        <translation>Berreskaneatu kanpoko tresnen bila haiek ez badaude dagoeneko adierazi den kokapenean</translation>
     </message>
     <message>
         <source>&amp;Rescan</source>
-        <translation type="unfinished"/>
+        <translation>Be&amp;rreskaneatu</translation>
     </message>
     <message>
         <source>Alt+R</source>
@@ -14907,73 +14989,75 @@ gogorreko leku erabilgarria.</translation>
     </message>
     <message>
         <source>Locate Ghostscript</source>
-        <translation type="unfinished"/>
+        <translation>Bilatu Ghostscript</translation>
     </message>
     <message>
         <source>Locate your image editor</source>
-        <translation type="unfinished"/>
+        <translation>Bilatu zure irudi-editorea</translation>
     </message>
     <message>
         <source>Locate your web browser</source>
-        <translation type="unfinished"/>
+        <translation>Bilatu zure web arakatzailea</translation>
     </message>
     <message>
         <source>Locate your PDF viewer</source>
-        <translation type="unfinished"/>
+        <translation>Bilatu zure PDF ikustailea</translation>
     </message>
     <message>
         <source>Locate the uniconvertor executable</source>
-        <translation type="unfinished"/>
+        <translation>Bilatu uniconvertor exekutagarria</translation>
     </message>
     <message>
         <source>Locate your editor</source>
-        <translation type="unfinished"/>
+        <translation>Bilatu zure editorea</translation>
     </message>
     <message>
         <source>Uniconvertor executable not found!</source>
-        <translation type="unfinished"/>
+        <translation>Uniconvertor exekutagarria ez da aurkitu!</translation>
     </message>
     <message>
         <source>Locate a Configuration file</source>
-        <translation type="unfinished"/>
+        <translation>Bilatu konfigurazio-fitxategi bat</translation>
     </message>
     <message>
         <source>Configuration files</source>
-        <translation type="unfinished"/>
+        <translation>Konfigurazio-fitxategiak</translation>
     </message>
     <message>
         <source>Change Command</source>
-        <translation type="unfinished"/>
+        <translation>Aldatu komandoa</translation>
     </message>
     <message>
         <source>Enter new command: (leave empty to reset to default command; use quotes around arguments with spaces)</source>
-        <translation type="unfinished"/>
+        <translation>Sartu komando berria: (utzi hutsik komando lehenetsia berrezartzeko; erabili komatxoak zuriuneak dituzten argumentuetan)</translation>
     </message>
     <message>
         <source>Command: </source>
-        <translation type="unfinished"/>
+        <translation>Komandoa:</translation>
     </message>
     <message>
         <source>LaTeX Command</source>
-        <translation type="unfinished"/>
+        <translation>LaTeX komandoa</translation>
     </message>
     <message>
         <source>Scribus has found the following pdflatex command:
 %1
 Do you want to use this?</source>
-        <translation type="unfinished"/>
+        <translation>Scribus-ek onako pdflatex komandoa aurkitu d:
+%1
+Hori erabili nahi duzu?</translation>
     </message>
     <message>
         <source>&lt;qt&gt;File system location for web browser.&lt;/qt&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;Web arakatzailearen kokapena fitxategi-sisteman.&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>&lt;qt&gt;File system location for PDF viewer.&lt;/qt&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;PDF ikustailearen kokalekua fitxategi-sisteman.&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>&lt;qt&gt;File system location for Uniconvertor.&lt;/qt&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;Uniconvertor-en kokapena fitxategi-sisteman.&lt;/qt&gt;</translation>
     </message>
 </context>
 <context>
@@ -15004,7 +15088,7 @@ Do you want to use this?</source>
     </message>
     <message>
         <source>Available Fonts</source>
-        <translation>Erabilgarri dauden letra-tipoak:</translation>
+        <translation>Erabilgarri dauden letra-tipoak</translation>
     </message>
     <message>
         <source>Font Substitutions</source>
@@ -15024,7 +15108,7 @@ Do you want to use this?</source>
     </message>
     <message>
         <source>Font search paths can only be set in File &gt; Preferences, and only when there is no document currently open. Close any open documents, then use File &gt; Preferences &gt; Fonts to change the font search path.</source>
-        <translation type="unfinished"/>
+        <translation>Letra-tipoen bilaketa-bideak &apos;Fitxategia &gt; Hobespenak&apos; atalean soilik ezar daitezke, eta soilik dokumenturik irekita ez dagoenean. Itxi irekitako dokumentu guztiak, eta ondoren erabili &apos;Fitxategia &gt; Hobespenak &gt; Letra-tipoak&apos; letra-tipoen bilaketarako bidea aldatzeko</translation>
     </message>
     <message>
         <source>Choose a Directory</source>
@@ -15043,11 +15127,11 @@ Do you want to use this?</source>
     </message>
     <message>
         <source>Placement</source>
-        <translation type="unfinished"/>
+        <translation>Kokapena</translation>
     </message>
     <message>
         <source>Placement:</source>
-        <translation type="unfinished"/>
+        <translation>Kokapena:</translation>
     </message>
     <message>
         <source>Snap Distance:</source>
@@ -15063,7 +15147,7 @@ Do you want to use this?</source>
     </message>
     <message>
         <source>Visibility</source>
-        <translation type="unfinished"/>
+        <translation>Ikusgaitasuna</translation>
     </message>
     <message>
         <source>Margins</source>
@@ -15071,7 +15155,7 @@ Do you want to use this?</source>
     </message>
     <message>
         <source>Page Grid</source>
-        <translation type="unfinished"/>
+        <translation>Orrialde-sareta</translation>
     </message>
     <message>
         <source>Baseline Grid</source>
@@ -15083,19 +15167,19 @@ Do you want to use this?</source>
     </message>
     <message>
         <source>Minor Grid Spacing:</source>
-        <translation type="unfinished"/>
+        <translation>2. mailako saretaren tartea:</translation>
     </message>
     <message>
         <source>Baseline Grid Spacing:</source>
-        <translation type="unfinished"/>
+        <translation>Oinarri-saretaren tartea:</translation>
     </message>
     <message>
         <source>Major Grid Spacing:</source>
-        <translation type="unfinished"/>
+        <translation>Sareta nagusiaren tartea:</translation>
     </message>
     <message>
         <source>Baseline Grid Offset:</source>
-        <translation type="unfinished"/>
+        <translation>Oinarri-saretaren desplazamendua:</translation>
     </message>
     <message>
         <source>Colors</source>
@@ -15103,27 +15187,27 @@ Do you want to use this?</source>
     </message>
     <message>
         <source>Guides:</source>
-        <translation type="unfinished"/>
+        <translation>Gidak:</translation>
     </message>
     <message>
         <source>Margins:</source>
-        <translation type="unfinished"/>
+        <translation>Marjinak:</translation>
     </message>
     <message>
         <source>Major Grid:</source>
-        <translation type="unfinished"/>
+        <translation>Sareta nagusia:</translation>
     </message>
     <message>
         <source>Minor Grid:</source>
-        <translation type="unfinished"/>
+        <translation>2. mailako sareta:</translation>
     </message>
     <message>
         <source>Baseline Grid:</source>
-        <translation type="unfinished"/>
+        <translation>Oinarri-sareta:</translation>
     </message>
     <message>
         <source>Place guides in front of or behind objects on the page</source>
-        <translation type="unfinished"/>
+        <translation>Kokatu gidak orrialdeko objektuen aurrean edo atzean</translation>
     </message>
     <message>
         <source>Distance between the minor grid lines</source>
@@ -15135,11 +15219,11 @@ Do you want to use this?</source>
     </message>
     <message>
         <source>Distance within which an object will snap to your placed guides. After setting this you will need to restart Scribus to set this setting.</source>
-        <translation type="unfinished"/>
+        <translation>Objektu bat gidetara zein distantziatik atxikiko den. Hau ezarri ondoren, Scribus berrabiarazi beharko duzu ezarpena indarrean sar dadin.</translation>
     </message>
     <message>
         <source>Radius of the area where Scribus will allow you to grab an objects handles.After setting this you will need to restart Scribus to set this setting.</source>
-        <translation type="unfinished"/>
+        <translation>Objektuen heldulekuak atzitu ahal diren azaleraren erradioa. Hau ezarri ondoren, Scribus berrabiarazi beharko duzu ezarpena indarrean sar dadin.</translation>
     </message>
     <message>
         <source>Color of the minor grid lines</source>
@@ -15191,11 +15275,11 @@ Do you want to use this?</source>
     </message>
     <message>
         <source>Content Objects</source>
-        <translation type="unfinished"/>
+        <translation>Eduki-objektuak</translation>
     </message>
     <message>
         <source>Grid</source>
-        <translation type="unfinished"/>
+        <translation>Sareta</translation>
     </message>
     <message>
         <source>Lines</source>
@@ -15203,11 +15287,11 @@ Do you want to use this?</source>
     </message>
     <message>
         <source>Crosses and Dots</source>
-        <translation type="unfinished"/>
+        <translation>Gurutzeak eta puntuak</translation>
     </message>
     <message>
         <source>BaselineGrid</source>
-        <translation type="unfinished"/>
+        <translation>Oinarri-sareta</translation>
     </message>
 </context>
 <context>
@@ -15218,27 +15302,27 @@ Do you want to use this?</source>
     </message>
     <message>
         <source>Hyphenation</source>
-        <translation type="unfinished"/>
+        <translation>Hitz-zatiketa</translation>
     </message>
     <message>
         <source>A dialog box showing all possible hyphens for each word will show up when you use the Extras, Hyphenate Text option.</source>
-        <translation type="unfinished"/>
+        <translation>Hitz bakoitzaren zatiketa-aukerak erakusten dituen elkarrizketa-koadroa bistaratuko da &apos;Estrak&apos; menuko &apos;Zatitu testua&apos; erabiltzean.</translation>
     </message>
     <message>
         <source>&amp;Hyphenation Suggestions</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Hitz-zatiketarako iradokizunak</translation>
     </message>
     <message>
         <source>Enables automatic hyphenation of your text while typing.</source>
-        <translation type="unfinished"/>
+        <translation>Idatzi ahala zure testuko hitzak automatikoki zatitzea gaitzen du.</translation>
     </message>
     <message>
         <source>Hyphenate Text Automatically &amp;During Typing</source>
-        <translation type="unfinished"/>
+        <translation>Zatitu hitzak automatikoki i&amp;datzi ahala</translation>
     </message>
     <message>
         <source>Behaviour</source>
-        <translation type="unfinished"/>
+        <translation>Portaera</translation>
     </message>
     <message>
         <source>Language:</source>
@@ -15246,11 +15330,11 @@ Do you want to use this?</source>
     </message>
     <message>
         <source>Smallest Word:</source>
-        <translation type="unfinished"/>
+        <translation>Hitzik laburrena:</translation>
     </message>
     <message>
         <source>Length of the smallest word to be hyphenated.</source>
-        <translation type="unfinished"/>
+        <translation>Zatituko den hitzik laburrenaren luzera</translation>
     </message>
     <message>
         <source>Characters</source>
@@ -15258,20 +15342,21 @@ Do you want to use this?</source>
     </message>
     <message>
         <source>Consecutive Hyphenations Allowed:</source>
-        <translation type="unfinished"/>
+        <translation>Elkarren ondoko hitz-zatiketak onartzen dira:</translation>
     </message>
     <message>
         <source>Maximum number of Hyphenations following each other.
 A value of 0 means unlimited hyphenations.</source>
-        <translation type="unfinished"/>
+        <translation>Jarraian egin daitekeen hitz-zatiketen gehienezko kopurua. 
+0 balioak mugarik gabeko hitz-zatiketa adierazten du.</translation>
     </message>
     <message>
         <source>Word Lists</source>
-        <translation type="unfinished"/>
+        <translation>Hitz-zerrendak</translation>
     </message>
     <message>
         <source>Exceptions</source>
-        <translation type="unfinished"/>
+        <translation>Salbuespenak</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -15279,38 +15364,38 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Ignore List</source>
-        <translation type="unfinished"/>
+        <translation>Ez ikusi zerrenda</translation>
     </message>
     <message>
         <source>Add a new Entry</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu sarrera berria</translation>
     </message>
     <message>
         <source>Edit Entry</source>
-        <translation type="unfinished"/>
+        <translation>Editatu sarrera</translation>
     </message>
     <message>
         <source>Exception List</source>
-        <translation type="unfinished"/>
+        <translation>Salbuespen-zerrenda</translation>
     </message>
 </context>
 <context>
     <name>Prefs_ImageCache</name>
     <message>
         <source>Enabling the image cache will significantly speed up the loading of images. Enable the cache if you are often working on large documents with lots of images and if you have plenty of disk space in your application data directory.</source>
-        <translation type="unfinished"/>
+        <translation>Irudien cachea gaitzeak asko azkartuko du irudiak kargatzea. Gaitu cachea irudi asko dituzten dokumentu handiekin lan egiten baduzu eta espazio asko badaukazu aplikazioen datuen direktorioan zure diskoan.</translation>
     </message>
     <message>
         <source>Limit the total size of all files in the image cache directory to this amount.</source>
-        <translation type="unfinished"/>
+        <translation>Mugatu irudi-cacheko direktorioko fitxategi guztien tamaina osoa kantitate honetara.</translation>
     </message>
     <message>
         <source>Limit the number of cache entries to this number.</source>
-        <translation type="unfinished"/>
+        <translation>Mugatu cache-sarreren kopurua zenbaki honetara.</translation>
     </message>
     <message>
         <source>Set the level of compression for images in the cache. Higher values result in smaller cache files but also make writes to the cache slower.</source>
-        <translation type="unfinished"/>
+        <translation>Ezarri cache-ko irudien konprimaketa-maila. Balio altuagoek cache-fitxategi txikiagoak emango ditu, baina cache-an idaztea motelagoa izango da.</translation>
     </message>
     <message>
         <source>Form</source>
@@ -15318,27 +15403,27 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Image Cache</source>
-        <translation type="unfinished"/>
+        <translation>Irudi-cachea</translation>
     </message>
     <message>
         <source>Enable Image Cache</source>
-        <translation type="unfinished"/>
+        <translation>Gaitu irudi-cachea</translation>
     </message>
     <message>
         <source>Cache Size Limit:</source>
-        <translation type="unfinished"/>
+        <translation>Cache-tamainaren muga:</translation>
     </message>
     <message>
         <source> Mb</source>
-        <translation type="unfinished"/>
+        <translation>Mb</translation>
     </message>
     <message>
         <source>Cache Entry Limit:</source>
-        <translation type="unfinished"/>
+        <translation>Cache-sarreren muga:</translation>
     </message>
     <message>
         <source>Compression Level:</source>
-        <translation type="unfinished"/>
+        <translation>Konpresio-maila:</translation>
     </message>
 </context>
 <context>
@@ -15349,7 +15434,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Item Tools</source>
-        <translation type="unfinished"/>
+        <translation>Elementu-tresnak</translation>
     </message>
     <message>
         <source>Text</source>
@@ -15357,11 +15442,11 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Columns:</source>
-        <translation type="unfinished"/>
+        <translation>Zutabeak:</translation>
     </message>
     <message>
         <source>Column Gap:</source>
-        <translation type="unfinished"/>
+        <translation>Zutabe-tartea:</translation>
     </message>
     <message>
         <source>Tab Fill Character:</source>
@@ -15389,23 +15474,23 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Columns &amp; Text Distances</source>
-        <translation type="unfinished"/>
+        <translation>Zutabeen &amp; testuen distantziak</translation>
     </message>
     <message>
         <source>Top:</source>
-        <translation>Goia:</translation>
+        <translation>Goian:</translation>
     </message>
     <message>
         <source>Bottom:</source>
-        <translation>Behea:</translation>
+        <translation>Behean:</translation>
     </message>
     <message>
         <source>Left:</source>
-        <translation>Ezkerra:</translation>
+        <translation>Ezkerrean:</translation>
     </message>
     <message>
         <source>Right:</source>
-        <translation>Eskuina:</translation>
+        <translation>Eskuinean:</translation>
     </message>
     <message>
         <source>Font:</source>
@@ -15421,11 +15506,11 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Stroke:</source>
-        <translation type="unfinished"/>
+        <translation>Trazua:</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"/>
+        <translation>Aurrebista</translation>
     </message>
     <message>
         <source>Images</source>
@@ -15433,15 +15518,15 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Use Embedded Clipping Path</source>
-        <translation type="unfinished"/>
+        <translation>Erabili kapsulatutako mozte-bidea</translation>
     </message>
     <message>
         <source>Scaling</source>
-        <translation type="unfinished"/>
+        <translation>Eskalatzea</translation>
     </message>
     <message>
         <source>Free Scaling</source>
-        <translation type="unfinished"/>
+        <translation>Eskalatze askea</translation>
     </message>
     <message>
         <source>scalingButtonGroup</source>
@@ -15449,11 +15534,11 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Horizontal Scaling:</source>
-        <translation type="unfinished"/>
+        <translation>Eskalatze horizontala:</translation>
     </message>
     <message>
         <source>Vertical Scaling:</source>
-        <translation type="unfinished"/>
+        <translation>Eskalatze bertikala:</translation>
     </message>
     <message>
         <source>...</source>
@@ -15461,11 +15546,11 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Scale Image to Frame Size</source>
-        <translation type="unfinished"/>
+        <translation>Eskalatu irudia marko-tamainara</translation>
     </message>
     <message>
         <source>Keep Aspect Ratio</source>
-        <translation type="unfinished"/>
+        <translation>Mantendu aspektu-erlazioa</translation>
     </message>
     <message>
         <source>On Screen Preview</source>
@@ -15473,7 +15558,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Full Resolution</source>
-        <translation type="unfinished"/>
+        <translation>Bereizmen osoa</translation>
     </message>
     <message>
         <source>previewButtonGroup</source>
@@ -15481,15 +15566,15 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Normal Resolution</source>
-        <translation type="unfinished"/>
+        <translation>Bereizmen normala</translation>
     </message>
     <message>
         <source>Low Resolution</source>
-        <translation type="unfinished"/>
+        <translation>Bereizmen txikia</translation>
     </message>
     <message>
         <source>Shapes</source>
-        <translation type="unfinished"/>
+        <translation>Formak</translation>
     </message>
     <message>
         <source>Line Style:</source>
@@ -15501,7 +15586,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Regular Polygons</source>
-        <translation type="unfinished"/>
+        <translation>Poligono erregularrak</translation>
     </message>
     <message>
         <source>Lines</source>
@@ -15517,7 +15602,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Hairline</source>
-        <translation type="unfinished"/>
+        <translation>Ile-lerroa</translation>
     </message>
     <message>
         <source>Woven silk pyjamas exchanged for blue quartz</source>
@@ -15546,15 +15631,15 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Calligraphic Pen</source>
-        <translation type="unfinished"/>
+        <translation>Arkatz kaligrafikoa</translation>
     </message>
     <message>
         <source>Pen Angle:</source>
-        <translation type="unfinished"/>
+        <translation>Arkatz-angelua:</translation>
     </message>
     <message>
         <source>Pen Width:</source>
-        <translation type="unfinished"/>
+        <translation>Arkatz-zabalera:</translation>
     </message>
     <message>
         <source>Keep horizontal and vertical scaling the same</source>
@@ -15577,7 +15662,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Search:</source>
-        <translation type="unfinished"/>
+        <translation>Bilatu:</translation>
     </message>
     <message>
         <source>Action</source>
@@ -15589,11 +15674,11 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Shortcut for Selected Action</source>
-        <translation type="unfinished"/>
+        <translation>Hautatutako ekintzaren laster-tekla</translation>
     </message>
     <message>
         <source>&amp;No Key</source>
-        <translation type="unfinished"/>
+        <translation>Gakorik e&amp;z</translation>
     </message>
     <message>
         <source>Alt+N</source>
@@ -15601,7 +15686,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>&amp;User Defined Key</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Erabiltzaileak definitutako gakoa</translation>
     </message>
     <message>
         <source>Alt+U</source>
@@ -15609,7 +15694,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Set &amp;Key</source>
-        <translation type="unfinished"/>
+        <translation>Ezarri &amp;gakoa</translation>
     </message>
     <message>
         <source>Alt+K</source>
@@ -15617,23 +15702,23 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>CTRL+ALT+SHIFT+W</source>
-        <translation type="unfinished"/>
+        <translation>CTRL+ALT+SHIFT+W</translation>
     </message>
     <message>
         <source>Loadable Shortcut Sets</source>
-        <translation type="unfinished"/>
+        <translation>Laster-teklen multzo kargagarriak</translation>
     </message>
     <message>
         <source>Keyboard shortcut sets available to load</source>
-        <translation type="unfinished"/>
+        <translation>Laster-tekla multzoak erabilgarri kargatuak izateko</translation>
     </message>
     <message>
         <source>Load the selected shortcut set</source>
-        <translation type="unfinished"/>
+        <translation>Kargatu hautatutako laster-teklen multzoa</translation>
     </message>
     <message>
         <source>&amp;Load</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kargatu</translation>
     </message>
     <message>
         <source>Alt+L</source>
@@ -15641,11 +15726,11 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Import a shortcut set into the current configuration</source>
-        <translation type="unfinished"/>
+        <translation>Inportatu laster-teklen multzo bat uneko konfigurazioan</translation>
     </message>
     <message>
         <source>&amp;Import...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Inportatu...</translation>
     </message>
     <message>
         <source>Alt+I</source>
@@ -15653,11 +15738,11 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Export the current shortcuts into an importable file</source>
-        <translation type="unfinished"/>
+        <translation>Esportatu uneko laster-teklak fitxategi inportagarri batera</translation>
     </message>
     <message>
         <source>&amp;Export...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Esportatu...</translation>
     </message>
     <message>
         <source>Alt+E</source>
@@ -15665,7 +15750,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Reload the default Scribus shortcuts</source>
-        <translation type="unfinished"/>
+        <translation>Birkargatu Scribus-en laster-tekla lehenetsiak</translation>
     </message>
     <message>
         <source>&amp;Reset</source>
@@ -15677,23 +15762,23 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Select a Key set file to read</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu irakurriko den tekla multzoen fitxategia</translation>
     </message>
     <message>
         <source>Key Set XML Files (*.xml)</source>
-        <translation type="unfinished"/>
+        <translation>Tekla multzoen XML fitxategiak (*.xml)</translation>
     </message>
     <message>
         <source>Select a Key set file to save to</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu gordeko den tekla-multzoen fitxategia</translation>
     </message>
     <message>
         <source>Export Keyboard Shortcuts to File</source>
-        <translation type="unfinished"/>
+        <translation>Esportatu teklatuko laster-teklak fitxategira</translation>
     </message>
     <message>
         <source>Enter the name of the shortcut set:</source>
-        <translation type="unfinished"/>
+        <translation>Sartu laster-teklen multzoaren izena:</translation>
     </message>
     <message>
         <source>The %1 key sequence is already in use by &quot;%2&quot;</source>
@@ -15712,11 +15797,11 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Always ask before fonts are replaced when loading a document</source>
-        <translation type="unfinished"/>
+        <translation>Galdetu beti letra-tipoak ordeztu baino lehen, dokumentu bat kargatzean</translation>
     </message>
     <message>
         <source>Preview of current Paragraph Style is visible when editing Styles</source>
-        <translation type="unfinished"/>
+        <translation>Uneko paragrafo-estiloaren aurrebista ikusgai dago estiloak editatzean</translation>
     </message>
     <message>
         <source>Lorem Ipsum</source>
@@ -15724,11 +15809,11 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Always use standard Lorem Ipsum text</source>
-        <translation type="unfinished"/>
+        <translation>Erabili beti Lorem Ipsum testu estandarra</translation>
     </message>
     <message>
         <source>Paragraph Count:</source>
-        <translation type="unfinished"/>
+        <translation>Paragrafo kopurua:</translation>
     </message>
 </context>
 <context>
@@ -15739,23 +15824,23 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Operator Tools</source>
-        <translation type="unfinished"/>
+        <translation>Eragile-tresnak</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Zoom-a</translation>
     </message>
     <message>
         <source>Minimum:</source>
-        <translation type="unfinished"/>
+        <translation>Minimoa:</translation>
     </message>
     <message>
         <source>Maximum:</source>
-        <translation type="unfinished"/>
+        <translation>Maximoa:</translation>
     </message>
     <message>
         <source>Stepping:</source>
-        <translation type="unfinished"/>
+        <translation>Urrats-tamaina:</translation>
     </message>
     <message>
         <source> %</source>
@@ -15767,23 +15852,23 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Item Duplicate</source>
-        <translation type="unfinished"/>
+        <translation>Elementu-bikoizketa</translation>
     </message>
     <message>
         <source>X Displacement:</source>
-        <translation type="unfinished"/>
+        <translation>X desplazamendua:</translation>
     </message>
     <message>
         <source>Y Displacement:</source>
-        <translation type="unfinished"/>
+        <translation>Y desplazamendua:</translation>
     </message>
     <message>
         <source>Rotation Tool</source>
-        <translation type="unfinished"/>
+        <translation>Biraketa-tresna</translation>
     </message>
     <message>
         <source>Constrain To:</source>
-        <translation type="unfinished"/>
+        <translation>Mugatu hona:</translation>
     </message>
     <message>
         <source>Minimum magnification allowed</source>
@@ -15799,15 +15884,15 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Horizontal displacement of page items</source>
-        <translation type="unfinished"/>
+        <translation>Orrialde-elementuen desplazamendu horizontala</translation>
     </message>
     <message>
         <source>Vertical displacement of page items</source>
-        <translation type="unfinished"/>
+        <translation>Orrialde-elementuen desplazamendu bertikala</translation>
     </message>
     <message>
         <source>Constrain value for the rotation tool when the Control key is pressed</source>
-        <translation type="unfinished"/>
+        <translation>Mugatu biraketa-tresnaren balioa Control tekla sakatuta dagoenean</translation>
     </message>
 </context>
 <context>
@@ -15834,7 +15919,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Choose Pages</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu orrialdeak</translation>
     </message>
     <message>
         <source>...</source>
@@ -15842,7 +15927,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Rotation and Mirroring</source>
-        <translation type="unfinished"/>
+        <translation>Biraketa eta ispilatzea</translation>
     </message>
     <message>
         <source>Rotation:</source>
@@ -15850,7 +15935,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Page Mirroring:</source>
-        <translation type="unfinished"/>
+        <translation>Orrialde-ispilatzea:</translation>
     </message>
     <message>
         <source>Page Binding:</source>
@@ -15858,7 +15943,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Resolution for EPS Graphics:</source>
-        <translation type="unfinished"/>
+        <translation>Bereizmena EPS grafikoetarako:</translation>
     </message>
     <message>
         <source> dpi</source>
@@ -15866,7 +15951,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Clip to Printer Margins</source>
-        <translation type="unfinished"/>
+        <translation>Moztu inprimatze-marjinetara</translation>
     </message>
     <message>
         <source>Limit Maximum Image Resolution to:</source>
@@ -15874,7 +15959,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Allow Copying Text and Graphics</source>
-        <translation type="unfinished"/>
+        <translation>Onartu testua eta grafikoak kopiatzea</translation>
     </message>
     <message>
         <source>File Options</source>
@@ -15882,47 +15967,47 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Pages</source>
-        <translation type="unfinished"/>
+        <translation>Orrialdeak</translation>
     </message>
     <message>
         <source>Compatibility:</source>
-        <translation type="unfinished"/>
+        <translation>Bateragarritasuna:</translation>
     </message>
     <message>
         <source>Generate Thumbnails</source>
-        <translation type="unfinished"/>
+        <translation>Sortu miniaturak</translation>
     </message>
     <message>
         <source>Save Linked Text Frames as PDF Articles</source>
-        <translation type="unfinished"/>
+        <translation>Gorde estekatutako testu-markoak PDF artikulu gisa</translation>
     </message>
     <message>
         <source>Include Layers</source>
-        <translation type="unfinished"/>
+        <translation>Sartu geruzak</translation>
     </message>
     <message>
         <source>Include Bookmarks</source>
-        <translation type="unfinished"/>
+        <translation>Sartu laster-markak</translation>
     </message>
     <message>
         <source>Embed PDF &amp;&amp; EPS Files (Experimental)</source>
-        <translation type="unfinished"/>
+        <translation>Kapsulatu PDF &amp;&amp; EPS fitxategiak (esperimentala)</translation>
     </message>
     <message>
         <source>Compression</source>
-        <translation type="unfinished"/>
+        <translation>Konpresioa</translation>
     </message>
     <message>
         <source>Compress Text and Vector Graphics</source>
-        <translation type="unfinished"/>
+        <translation>Konprimatu testua eta grafiko bektorialak</translation>
     </message>
     <message>
         <source>Image Compression Method:</source>
-        <translation type="unfinished"/>
+        <translation>Irudiak konprimatzeko metodoa:</translation>
     </message>
     <message>
         <source>Image Compression Quality:</source>
-        <translation type="unfinished"/>
+        <translation>Irudien konpresio-kalitatea:</translation>
     </message>
     <message>
         <source>Security</source>
@@ -15966,11 +16051,11 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Output Intended For:</source>
-        <translation type="unfinished"/>
+        <translation>Irteera hona:</translation>
     </message>
     <message>
         <source>Convert Spot Colors to Process Colors</source>
-        <translation>Bihurtu kolore laguntzaileak kuatrokomiara</translation>
+        <translation>Bihurtu kolore zuzenak prozesu-koloreetara</translation>
     </message>
     <message>
         <source>Solid Colors</source>
@@ -16026,43 +16111,43 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Pre-Press</source>
-        <translation type="unfinished"/>
+        <translation>Aurreinprimaketa</translation>
     </message>
     <message>
         <source>Printer Marks</source>
-        <translation type="unfinished"/>
+        <translation>Inprimatze-markak</translation>
     </message>
     <message>
         <source>Page Information</source>
-        <translation type="unfinished"/>
+        <translation>Orrialde-informazioa</translation>
     </message>
     <message>
         <source>Registration Marks</source>
-        <translation type="unfinished"/>
+        <translation>Erregistro-markak</translation>
     </message>
     <message>
         <source>Crop Marks</source>
-        <translation type="unfinished"/>
+        <translation>Mozte-markak</translation>
     </message>
     <message>
         <source>Bleed Marks</source>
-        <translation type="unfinished"/>
+        <translation>Koskatze-markak</translation>
     </message>
     <message>
         <source>Color Bars</source>
-        <translation type="unfinished"/>
+        <translation>Kolore-barrak</translation>
     </message>
     <message>
         <source>Bleed Settings</source>
-        <translation type="unfinished"/>
+        <translation>Koskatze-ezarpenak</translation>
     </message>
     <message>
         <source>Use Document Bleeds</source>
-        <translation type="unfinished"/>
+        <translation>Erabili dokumentu-koskatzeak</translation>
     </message>
     <message>
         <source>PDF/X-3 Output Intent</source>
-        <translation type="unfinished"/>
+        <translation>PDF/X-3 irteera</translation>
     </message>
     <message>
         <source>Output Profile:</source>
@@ -16070,7 +16155,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Information String:</source>
-        <translation type="unfinished"/>
+        <translation>Informazio-katea:</translation>
     </message>
     <message>
         <source>Fonts</source>
@@ -16078,7 +16163,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Available Fonts</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Letra-tipo erabilgarriak</translation>
     </message>
     <message>
         <source>Embed All</source>
@@ -16086,7 +16171,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Outline All</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Denen eskema</translation>
     </message>
     <message>
         <source>Fonts to Embed</source>
@@ -16094,7 +16179,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Fonts to Outline</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Eskema erauziko zaien letra-tipoak</translation>
     </message>
     <message>
         <source>Extras</source>
@@ -16170,7 +16255,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Use Viewer&apos;s Default</source>
-        <translation>Erabili bisorearen balio lehenetsia</translation>
+        <translation>Erabili ikustailearen balio lehenetsia</translation>
     </message>
     <message>
         <source>Use Full Screen Mode</source>
@@ -16190,11 +16275,11 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Hide Viewer&apos;s Menu Bar</source>
-        <translation>Ezkutatu bisorearen menu-barra</translation>
+        <translation>Ezkutatu ikustailearen menu-barra</translation>
     </message>
     <message>
         <source>Hide Viewer&apos;s Tool Bar</source>
-        <translation>Ezkutatu bisorearen tresna-barra</translation>
+        <translation>Ezkutatu ikustailearen tresna-barra</translation>
     </message>
     <message>
         <source>Zoom Pages to fit Viewer Window</source>
@@ -16206,7 +16291,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Javascript to be executed when PDF document is opened:</source>
-        <translation type="unfinished"/>
+        <translation>PDF dokumentua irekitzean exekutatuko den Javascript kodea:</translation>
     </message>
     <message>
         <source>Automatically rotate the exported pages</source>
@@ -16236,7 +16321,7 @@ batentzako, edo orrialde bakar batentzako izan daiteke.</translation>
     </message>
     <message>
         <source>Generates thumbnails of each page in the PDF. Some viewers can use the thumbnails for navigation.</source>
-        <translation>Generates thumbnails of each page in the PDF. Some viewers can use the thumbnails for navigation.</translation>
+        <translation>Orrialde bakoitzaren miniaturak sortzen ditu PDFan. Ikustaile batzuk miniaturak erabil ditzakete nabigaziorako.</translation>
     </message>
     <message>
         <source>Generate PDF Articles, which is useful for navigating linked articles in a PDF.</source>
@@ -16256,7 +16341,7 @@ batentzako, edo orrialde bakar batentzako izan daiteke.</translation>
     </message>
     <message>
         <source>Export PDFs in image frames as embedded PDFs. This does *not* yet take care of colorspaces, so you should know what you are doing before setting this to &apos;true&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Esportatu irudi-markoetako PDFak kapsulatutako PDF gisa. Honek ez ditu kolore-espazioak kontuan hartzen, beraz zertan ari zaren jakin behar duzu hau onartu baino lehen.</translation>
     </message>
     <message>
         <source>Enables lossless compression of text and graphics. Unless you have a reason, leave this checked. This reduces PDF file size.</source>
@@ -16272,7 +16357,7 @@ batentzako, edo orrialde bakar batentzako izan daiteke.</translation>
     </message>
     <message>
         <source>Limits the resolution of your bitmap images to the selected DPI. Images with a lower resolution will be left untouched. Leaving this unchecked will render them at their native resolution. Enabling this will increase memory usage and slow down export.</source>
-        <translation type="unfinished"/>
+        <translation>Zure bitmap-irudien bereizmena hautatutako DPIaren funtzioan mugatzen du. Bereizmen txikiagoa duten irudiak ez dira ukituko. Hau markatzen ez bada, irudiak jatorrizko bereizmenarekin errendatuko dira. Hau gaitzeak memoria-erabilera handituko du eta esportazioa motelduko du.</translation>
     </message>
     <message>
         <source>DPI (Dots Per Inch) for image export.</source>
@@ -16356,31 +16441,31 @@ batentzako, edo orrialde bakar batentzako izan daiteke.</translation>
     </message>
     <message>
         <source>Creates crop marks in the PDF indicating where the paper should be cut or trimmed after printing</source>
-        <translation type="unfinished"/>
+        <translation>Mozte-markak sortzen ditu PDFan, inprimaketaren ondoren papera nondik moztu behar den adierazteko</translation>
     </message>
     <message>
         <source>This creates bleed marks which are indicated by  _ . _ and show the bleed limit</source>
-        <translation type="unfinished"/>
+        <translation>Honek  _ . _ bidez adierazten diren koskatze-markak sortzen ditu eta koskatze-muga erakusten du</translation>
     </message>
     <message>
         <source>Add registration marks to each separation</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu erregistro-markak banaketa bakoitzari</translation>
     </message>
     <message>
         <source>Add color calibration bars</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu kolore-kalibrazioko barrak</translation>
     </message>
     <message>
         <source>Add document information which includes the document title and page numbers</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu dokumentuaren informazioa, izenburua eta orrialde-zenbakiak barne</translation>
     </message>
     <message>
         <source>Indicate the distance offset for the registration marks</source>
-        <translation type="unfinished"/>
+        <translation>Adierazi erregistro-marken desplazamendu-distantzia</translation>
     </message>
     <message>
         <source>Use the existing bleed settings from the document preferences</source>
-        <translation type="unfinished"/>
+        <translation>Erabili dokumentu-hobespenetako koskatze-ezarpenak</translation>
     </message>
     <message>
         <source>Output profile for printing. If possible, get some guidance from your printer on profile selection.</source>
@@ -16524,15 +16609,15 @@ batentzako, edo orrialde bakar batentzako izan daiteke.</translation>
     </message>
     <message>
         <source>Cover</source>
-        <translation type="unfinished"/>
+        <translation>Estali</translation>
     </message>
     <message>
         <source>Uncover</source>
-        <translation type="unfinished"/>
+        <translation>Desestali</translation>
     </message>
     <message>
         <source>Fade</source>
-        <translation type="unfinished"/>
+        <translation>Iraungi</translation>
     </message>
     <message>
         <source>Embed fonts into the PDF. Embedding the fonts will preserve the layout and appearance of your document.</source>
@@ -16577,103 +16662,103 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Convert all glyphs in the document to outlines.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Bihurtu dokumentuo glifo guztiak eskemetara.</translation>
     </message>
     <message>
         <source>Show the document in single page mode</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi dokumentua orrialde bakarreko moduan</translation>
     </message>
     <message>
         <source>Show the document in single page mode with the pages displayed continuously end to end like a scroll</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi dokumentua orrialde bakarreko moduan, orrialdeak jarraian erakutsiz amaieraraino korritzean</translation>
     </message>
     <message>
         <source>Show the document with facing pages, starting with the first page displayed on the left</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi dokumentua aurrez aurre dauden orrialdeekin, lehen orrialdea ezkerrean erakutsiz</translation>
     </message>
     <message>
         <source>Show the document with facing pages, starting with the first page displayed on the right</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi dokumentua aurrez aurre dauden orrialdeekin, lehen orrialdea eskuinean erakutsiz</translation>
     </message>
     <message>
         <source>Use the viewer&apos;s defaults or the user&apos;s preferences if set differently from the viewer defaults</source>
-        <translation type="unfinished"/>
+        <translation>Erabili bisorearen balio lehenetsiak edo erabiltzaile-hobespenak bisoraren lehenespenen desberdinak badira</translation>
     </message>
     <message>
         <source>Enables viewing the document in full screen</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentua pantaila osoan ikustea gaitzen du</translation>
     </message>
     <message>
         <source>Display the bookmarks upon opening</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi laster-markak irekitzean</translation>
     </message>
     <message>
         <source>Display the page thumbnails upon opening</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi orrialde-miniaturak irekitzean</translation>
     </message>
     <message>
         <source>Forces the displaying of layers. Useful only for PDF 1.5+.</source>
-        <translation type="unfinished"/>
+        <translation>Behartu geruzak erakustea. PDF 1.5+ bertsioetan soilik erabilgarria.</translation>
     </message>
     <message>
         <source>Hides the Tool Bar which has selection and other editing capabilities</source>
-        <translation type="unfinished"/>
+        <translation>Hautapenak egiteko eta beste edizio-gaitasun batzuetarako ahamena duen tresna-barra ezkutatzen du</translation>
     </message>
     <message>
         <source>Hides the Menu Bar for the viewer, the PDF will display in a plain window. </source>
-        <translation type="unfinished"/>
+        <translation>Bisorearen menu-barra ezkutatzen du, PDFa leiho arrunt batean erakutsiko da.</translation>
     </message>
     <message>
         <source>Fit the document page or pages to the available space in the viewer window.</source>
-        <translation type="unfinished"/>
+        <translation>Doitu dokumentuaren orrialdea edo orrialdeak bisorearen leihoan erabilgarri dagoen espaziora.</translation>
     </message>
     <message>
         <source>Mark Length:</source>
-        <translation type="unfinished"/>
+        <translation>Marken luzera:</translation>
     </message>
     <message>
         <source>Mark Offset:</source>
-        <translation type="unfinished"/>
+        <translation>Marken desplazamendua:</translation>
     </message>
     <message>
         <source>Length of crop marks</source>
-        <translation type="unfinished"/>
+        <translation>Mozte-marken luzera</translation>
     </message>
     <message>
         <source>Choose an owner password which enables or disables all the security features in your exported PDF</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu jabe-pasahitz bat, esportatu duzun PDFaren segurtasun-ezaugarriak gaitu edo desgaitzeko</translation>
     </message>
     <message>
         <source>Create a range of pages</source>
-        <translation type="unfinished"/>
+        <translation>Sortu orrialdeen barruti bat</translation>
     </message>
     <message>
         <source>Embedding mode:</source>
-        <translation type="unfinished"/>
+        <translation>Kapsulatze modua:</translation>
     </message>
     <message>
         <source>Embed or Subset</source>
-        <translation type="unfinished"/>
+        <translation>Kapsulatu edo azpimultzoa sortu</translation>
     </message>
     <message>
         <source>Outline All Fonts</source>
-        <translation type="unfinished"/>
+        <translation>Letra-tipo guztiak eskema bihurtu</translation>
     </message>
     <message>
         <source>Do Not Embed</source>
-        <translation type="unfinished"/>
+        <translation>Ez kapsulatu</translation>
     </message>
     <message>
         <source>Fonts to Subset</source>
-        <translation type="unfinished"/>
+        <translation>Azpimultzo gisa gordeko diren letra-tipoak</translation>
     </message>
     <message>
         <source>Subset All</source>
-        <translation type="unfinished"/>
+        <translation>Denen azpimultzoak</translation>
     </message>
     <message>
         <source>Embed only subset fonts with glyphs used in the document into the PDF.</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentuan erabilitako glifoak dituzten letra-tipoen azpimultzoak soilik kapsulatu PDFan. </translation>
     </message>
 </context>
 <context>
@@ -16759,7 +16844,7 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Default Scripter scripts directory</source>
-        <translation type="unfinished"/>
+        <translation>Scripter script-en direktorio lehenetsia</translation>
     </message>
     <message>
         <source>Additional directory for document templates</source>
@@ -16782,11 +16867,11 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Plugins</source>
-        <translation>Luzapenak</translation>
+        <translation>Pluginak</translation>
     </message>
     <message>
         <source>Plugin</source>
-        <translation>Plugin-a</translation>
+        <translation>Plugina</translation>
     </message>
     <message>
         <source>How to run</source>
@@ -16802,7 +16887,7 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Plugin ID</source>
-        <translation>Plugin-aren IDa</translation>
+        <translation>Pluginaren IDa</translation>
     </message>
     <message>
         <source>File</source>
@@ -16821,7 +16906,7 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Preflight Verifier</source>
-        <translation>Egiaztatzailea</translation>
+        <translation>Inprimatze aurreko egiaztatzailea</translation>
     </message>
     <message>
         <source>Show pages without errors</source>
@@ -16865,7 +16950,7 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Check for items not on a page</source>
-        <translation type="unfinished"/>
+        <translation>Bilatu orrialderen batean ez dauden elementurik dagoen</translation>
     </message>
     <message>
         <source>Check for overflow in text frames</source>
@@ -16873,7 +16958,7 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Check for used transparencies</source>
-        <translation type="unfinished"/>
+        <translation>Bilatu erabilitako gardentasunak</translation>
     </message>
     <message>
         <source>Check for missing images</source>
@@ -16897,11 +16982,11 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Check for placed PDF files</source>
-        <translation type="unfinished"/>
+        <translation>Bilatu kokatutako PDF fitxategiak</translation>
     </message>
     <message>
         <source>Check for GIF images</source>
-        <translation type="unfinished"/>
+        <translation>Bilatu GIF irudiak</translation>
     </message>
     <message>
         <source>Check for PDF Annotations and Fields</source>
@@ -16913,19 +16998,19 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Ignore non-printable layers</source>
-        <translation type="unfinished"/>
+        <translation>Ez ikusi inprimatzeko ez diren geruzak</translation>
     </message>
     <message>
         <source>Check for part filled image frames</source>
-        <translation type="unfinished"/>
+        <translation>Bilatu partzialki betetako irudi-markoak</translation>
     </message>
     <message>
         <source>Check for empty text frames</source>
-        <translation type="unfinished"/>
+        <translation>Bilatu hutsik dauden testu-markoak</translation>
     </message>
     <message>
         <source>Check if applied master page location is the same as each page&apos;s location</source>
-        <translation type="unfinished"/>
+        <translation>Bilatu ea aplikatutako orri maisuen kokapena berdina den orrialde guztien kokapenean</translation>
     </message>
 </context>
 <context>
@@ -16964,11 +17049,11 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Separations</source>
-        <translation type="unfinished"/>
+        <translation>Banaketak</translation>
     </message>
     <message>
         <source>Include PDF Annotations and Links</source>
-        <translation type="unfinished"/>
+        <translation>Sartu PDF oharpenak eta estekak</translation>
     </message>
     <message>
         <source>Page</source>
@@ -16976,19 +17061,19 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Mirror Page(s) Horizontally</source>
-        <translation type="unfinished"/>
+        <translation>Ispilatu orria(k) horizontalki</translation>
     </message>
     <message>
         <source>Mirror Page(s) Vertically</source>
-        <translation type="unfinished"/>
+        <translation>Ispilatu orria(k) bertikalki</translation>
     </message>
     <message>
         <source>Set Media Size</source>
-        <translation type="unfinished"/>
+        <translation>Ezarri euskarriaren tamaina</translation>
     </message>
     <message>
         <source>Clip to Printer Margins</source>
-        <translation type="unfinished"/>
+        <translation>Moztu inprimatze-marjinetara</translation>
     </message>
     <message>
         <source>Color</source>
@@ -16996,15 +17081,15 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Apply Under Color Removal</source>
-        <translation type="unfinished"/>
+        <translation>Aplikatu azpikoloreak</translation>
     </message>
     <message>
         <source>Convert Spot Colors to Process Colors</source>
-        <translation>Bihurtu kolore laguntzaileak kuatrokomiara</translation>
+        <translation>Bihurtu kolore zuzenak prozesu-koloreetara</translation>
     </message>
     <message>
         <source>Apply ICC Profiles</source>
-        <translation type="unfinished"/>
+        <translation>Aplikatu ICC profilak</translation>
     </message>
     <message>
         <source>PostScript</source>
@@ -17036,23 +17121,23 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Marks and Bleeds</source>
-        <translation type="unfinished"/>
+        <translation>Markak eta koskatzeak</translation>
     </message>
     <message>
         <source>Crop Marks</source>
-        <translation type="unfinished"/>
+        <translation>Mozte-markak</translation>
     </message>
     <message>
         <source>Bleed Marks</source>
-        <translation type="unfinished"/>
+        <translation>Koskatze-markak</translation>
     </message>
     <message>
         <source>Registration Marks</source>
-        <translation type="unfinished"/>
+        <translation>Erregistro-markak</translation>
     </message>
     <message>
         <source>Color Bars</source>
-        <translation type="unfinished"/>
+        <translation>Kolore-barrak</translation>
     </message>
     <message>
         <source>Offset:</source>
@@ -17060,20 +17145,21 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Bleed Settings</source>
-        <translation type="unfinished"/>
+        <translation>Koskatze-ezarpenak</translation>
     </message>
     <message>
         <source>Do not show objects outside the margins on the printed page</source>
-        <translation type="unfinished"/>
+        <translation>Ez erakutsi inprimatutako orrialdearen marjinetatik at dauden objektuak</translation>
     </message>
     <message>
         <source>Use an alternative print manager, such as kprinter or gtklp, to utilize additional printing options</source>
-        <translation type="unfinished"/>
+        <translation>Erabili inprimatze-kudeatzaile alternatibo bat, esaterako kprinter edo gtklp, inprimatze-aukera gehiago erabiltzeko</translation>
     </message>
     <message>
         <source>Sets the PostScript Level.
  Setting to Level 1 or 2 can create huge files</source>
-        <translation type="unfinished"/>
+        <translation>PostScript maila ezartzen du.
+1. edo 2. maila ezartzeak fitxategi handiak sor ditzake</translation>
     </message>
     <message>
         <source>A way of switching off some of the gray shades which are composed of cyan, yellow and magenta and using black instead. UCR most affects parts of images which are neutral and/or dark tones which are close to the gray. Use of this may improve printing some images and some experimentation and testing is need on a case by case basis. UCR reduces the possibility of over saturation with CMY inks.</source>
@@ -17085,7 +17171,7 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Allows you to embed color profiles in the print stream when color management is enabled</source>
-        <translation type="unfinished"/>
+        <translation>Kolore-profilak inprimatze-korrontean kapsulatzea ahalbidetzen du, kolore-kudeaketa gaituta dagoenean</translation>
     </message>
     <message>
         <source>File</source>
@@ -17093,7 +17179,7 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Dena</translation>
     </message>
     <message>
         <source>Length:</source>
@@ -17101,7 +17187,7 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>This enables you to explicitly set the media size of the PostScript file. Not recommended unless requested by your printer.</source>
-        <translation type="unfinished"/>
+        <translation>PostScript fitxategiaren multimedia-tamaina esplizituki ezartzea gaitzen du. Ez da gomendatzen zure inprimagailuak berariaz eskatzen ez badu.</translation>
     </message>
 </context>
 <context>
@@ -17120,7 +17206,7 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Keep Copied Items Permanently Across Sessions</source>
-        <translation type="unfinished"/>
+        <translation>Mantendu kopiatutako elementuak iraunkorki saioetan zehar</translation>
     </message>
     <message>
         <source>Write Item Previews to the Scrapbook Directory</source>
@@ -17136,15 +17222,15 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>This enables copied items to be kept permanently in the scrapbook</source>
-        <translation type="unfinished"/>
+        <translation>Kopiatutako elementuak ebakinen albumean modu iraunkorrean mantentzea ahalbidetzen du</translation>
     </message>
     <message>
         <source>Save generated scrapbook previews in the scrapbook directory</source>
-        <translation type="unfinished"/>
+        <translation>Gorde sortutako ebakinen albumen aurrebistak ebakinen albumen direktorioan</translation>
     </message>
     <message>
         <source>The minimum number is 1; the maximum is 100</source>
-        <translation type="unfinished"/>
+        <translation>Kopuru minimoa 1 da; maximoa 100 da</translation>
     </message>
 </context>
 <context>
@@ -17155,7 +17241,7 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Scripter</source>
-        <translation>Script motorra</translation>
+        <translation>Scripter</translation>
     </message>
     <message>
         <source>Extensions</source>
@@ -17179,7 +17265,7 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Base Texts:</source>
-        <translation type="unfinished"/>
+        <translation>Oinarri-testuak:</translation>
     </message>
     <message>
         <source>Comments:</source>
@@ -17191,7 +17277,7 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Signs:</source>
-        <translation type="unfinished"/>
+        <translation>Ikurrak:</translation>
     </message>
     <message>
         <source>Errors:</source>
@@ -17238,7 +17324,7 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>User configuration exists already. Do you really want to overwrite it?</source>
-        <translation type="unfinished"/>
+        <translation>Erabiltzaile-konfigurazioa badago lehendik. Hura gainidatzi nahi duzu?</translation>
     </message>
     <message>
         <source>Cannot write file %1.</source>
@@ -17356,7 +17442,7 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Page Number Placement:</source>
-        <translation type="unfinished"/>
+        <translation>Orrialde-zenbakien kokapena:</translation>
     </message>
     <message>
         <source>Place page numbers of the entries at the beginning or the end of the line, or not at all</source>
@@ -17380,11 +17466,11 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Beginning</source>
-        <translation type="unfinished"/>
+        <translation>Hasiera</translation>
     </message>
     <message>
         <source>End</source>
-        <translation type="unfinished"/>
+        <translation>Amaiera</translation>
     </message>
     <message>
         <source>Not Shown</source>
@@ -17392,7 +17478,7 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Table of Contents %1</source>
-        <translation type="unfinished"/>
+        <translation>%1 gaien aurkibidea</translation>
     </message>
 </context>
 <context>
@@ -17439,7 +17525,7 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Strikeout</source>
-        <translation type="unfinished"/>
+        <translation>Marratzea</translation>
     </message>
     <message>
         <source>Small Caps</source>
@@ -17447,11 +17533,11 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Automatic Line Spacing</source>
-        <translation>Lerrotarte automatikoa</translation>
+        <translation>Lerroarte automatikoa</translation>
     </message>
     <message>
         <source>Line Spacing:</source>
-        <translation>Lerrotartea:</translation>
+        <translation>Lerroartea:</translation>
     </message>
     <message>
         <source>Displacement below the baseline of the normal font on a line</source>
@@ -17487,7 +17573,7 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Percentage increase over the font size for the line spacing</source>
-        <translation>Ehunekoa letra-tamaina handitzeko lerrotartean</translation>
+        <translation>Ehunekoa letra-tamaina handitzeko lerroartean</translation>
     </message>
 </context>
 <context>
@@ -17554,63 +17640,67 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Use Smart Text Selection</source>
-        <translation type="unfinished"/>
+        <translation>Erabili testu-hautapen adimenduna</translation>
     </message>
     <message>
         <source>Interactivity</source>
-        <translation type="unfinished"/>
+        <translation>Interaktibotasuna</translation>
     </message>
     <message>
         <source>Time before resize or move starts:</source>
-        <translation type="unfinished"/>
+        <translation>Denbora tamaina-aldaketa edo mugimendua hasi baino lehen:</translation>
     </message>
     <message>
         <source> ms</source>
-        <translation type="unfinished"/>
+        <translation> ms</translation>
     </message>
     <message>
         <source>&amp;Wheel Jump:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Gurpil-jauzia:</translation>
     </message>
     <message>
         <source>Start Up</source>
-        <translation type="unfinished"/>
+        <translation>Abioa</translation>
     </message>
     <message>
         <source>Show Splashscreen</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi harrerako pantaila</translation>
     </message>
     <message>
         <source>Show Startup Dialog</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi abioko elkarrizketa-koadroa</translation>
     </message>
     <message>
         <source>Select your default language for Scribus to run with. Leave this blank to choose based on environment variables. You can still override this by passing a command line option when starting Scribus</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu Scribus-ek erabiliko duen hizkuntza lehenetsia. Utzi hau hutsik
+inguruneko aldagaien arabera aukeratzeko. Komando-lerroko aukera bat
+erabil dezakezu, Scribus abiaraztean, erabilera hau gainidazteko</translation>
     </message>
     <message>
         <source>Choose the default window decoration and looks. Scribus inherits any available KDE or Qt themes, if Qt is configured to search KDE plugins.</source>
-        <translation type="unfinished"/>
+        <translation>Aukeratu leihoen dekorazio eta itxura lehenetsia. Scribus-ek
+erabilgarri dauden KDE edo Qt gaiak jasotzen ditu, baldin eta Qt 
+konfiguratuta badago KDEko pluginak bilatzeko.</translation>
     </message>
     <message>
         <source>Palette windows will use smaller (space savy) widgets. Requires application restart</source>
-        <translation type="unfinished"/>
+        <translation>Paleta-leihoek widget txikiagoak (toki gutxiago betetzen dutenak) erabiliko dituzte. Aplikazioa berrabiarazi behar da</translation>
     </message>
     <message>
         <source>Number of recently edited documents to show in the File menu</source>
-        <translation type="unfinished"/>
+        <translation>&apos;Fitxategi&apos; menuan erakutsiko den azken dokumentuen kopurua</translation>
     </message>
     <message>
         <source>Default font size for the menus and windows</source>
-        <translation type="unfinished"/>
+        <translation>Letra-tipoaren tamaina lehenetsia menu eta leihoetan</translation>
     </message>
     <message>
         <source>Default font size for the tool windows</source>
-        <translation type="unfinished"/>
+        <translation>Letra-tipoaren tamaina lehenetsia tresna-leihoetan</translation>
     </message>
     <message>
         <source>Number of lines Scribus will scroll for each move of the mouse wheel</source>
-        <translation type="unfinished"/>
+        <translation>Sagu-gurpilaren mugimendu bakoitzean Scribus-ek korrituko duen lerro kopurua</translation>
     </message>
     <message>
         <source/>
@@ -17622,11 +17712,11 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Icon Set:</source>
-        <translation type="unfinished"/>
+        <translation>Ikono multzoa:</translation>
     </message>
     <message>
         <source>Choose the default icon set</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu ikono multzo lehenetsia</translation>
     </message>
 </context>
 <context>
@@ -17705,11 +17795,11 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Inside:</source>
-        <translation type="unfinished"/>
+        <translation>Barruan:</translation>
     </message>
     <message>
         <source>Outside:</source>
-        <translation type="unfinished"/>
+        <translation>Kanpoan:</translation>
     </message>
     <message>
         <source>Save As</source>
@@ -17720,19 +17810,19 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     <name>PrintDialogBase</name>
     <message>
         <source>Setup Printer</source>
-        <translation type="unfinished"/>
+        <translation>Konfiguratu inprimagailua</translation>
     </message>
     <message>
         <source>Print Destination</source>
-        <translation type="unfinished"/>
+        <translation>Inprimatze-helburua</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Aukerak...</translation>
     </message>
     <message>
         <source>&amp;File:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Fitxategia:</translation>
     </message>
     <message>
         <source>C&amp;hange...</source>
@@ -17740,15 +17830,15 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Use an alternative print manager, such as kprinter or gtklp, to utilize additional printing options</source>
-        <translation type="unfinished"/>
+        <translation>Erabili inprimatze-kudeatzaile alternatibo bat, esaterako kprinter edo gtklp, inprimatze-aukera gehiago erabiltzeko</translation>
     </message>
     <message>
         <source>A&amp;lternative Printer Command</source>
-        <translation type="unfinished"/>
+        <translation>Inprimate-komando a&amp;lternatiboa</translation>
     </message>
     <message>
         <source>Co&amp;mmand:</source>
-        <translation type="unfinished"/>
+        <translation>Ko&amp;mandoa:</translation>
     </message>
     <message>
         <source>Range</source>
@@ -17756,11 +17846,11 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Print &amp;All</source>
-        <translation type="unfinished"/>
+        <translation>Inprimatu den&amp;a</translation>
     </message>
     <message>
         <source>N&amp;umber of Copies:</source>
-        <translation type="unfinished"/>
+        <translation>Kopia kop&amp;urua:</translation>
     </message>
     <message>
         <source>Print Current Pa&amp;ge</source>
@@ -17768,7 +17858,7 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Print &amp;Range</source>
-        <translation type="unfinished"/>
+        <translation>Inprimatze-ba&amp;rrutia</translation>
     </message>
     <message>
         <source>Insert a comma separated list of tokens where
@@ -17788,24 +17878,25 @@ batentzako, edo orrialde bakar batentzako izan daiteke.</translation>
     </message>
     <message>
         <source>Print Separations</source>
-        <translation type="unfinished"/>
+        <translation>Inprimatze-banaketak</translation>
     </message>
     <message>
         <source>Print in Color if Available</source>
-        <translation type="unfinished"/>
+        <translation>Inprimatu kolorean, posible bada</translation>
     </message>
     <message>
         <source>Print in Grayscale</source>
-        <translation type="unfinished"/>
+        <translation>Inprimatu gris-eskalan</translation>
     </message>
     <message>
         <source>Sets the PostScript Level.
  Setting to Level 1 or 2 can create huge files</source>
-        <translation type="unfinished"/>
+        <translation>PostScript maila ezartzen du.
+1. edo 2. maila ezartzeak fitxategi handiak sor ditzake</translation>
     </message>
     <message>
         <source>Advanced Options</source>
-        <translation type="unfinished"/>
+        <translation>Aukera aurreratuak</translation>
     </message>
     <message>
         <source>Page</source>
@@ -17813,15 +17904,15 @@ batentzako, edo orrialde bakar batentzako izan daiteke.</translation>
     </message>
     <message>
         <source>Mirror Page(s) Horizontal</source>
-        <translation type="unfinished"/>
+        <translation>Ispilatu orrialdea(k) horizontalean</translation>
     </message>
     <message>
         <source>Mirror Page(s) Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Ispilatu orrialdea(k) bertikalean</translation>
     </message>
     <message>
         <source>Set Media Size</source>
-        <translation type="unfinished"/>
+        <translation>Ezarri euskarriaren tamaina</translation>
     </message>
     <message>
         <source>Color</source>
@@ -17829,55 +17920,55 @@ batentzako, edo orrialde bakar batentzako izan daiteke.</translation>
     </message>
     <message>
         <source>Apply Under Color Removal</source>
-        <translation type="unfinished"/>
+        <translation>Aplikatu azpikoloreak</translation>
     </message>
     <message>
         <source>Convert Spot Colors to Process Colors</source>
-        <translation>Bihurtu kolore laguntzaileak kuatrokomiara</translation>
+        <translation>Bihurtu kolore zuzenak prozesu-koloreetara</translation>
     </message>
     <message>
         <source>Allows you to embed color profiles in the print stream when color management is enabled</source>
-        <translation type="unfinished"/>
+        <translation>Kolore-profilak inprimatze-korrontean kapsulatzea ahalbidetzen du, kolore-kudeaketa gaituta dagoenean</translation>
     </message>
     <message>
         <source>Apply Color Profiles</source>
-        <translation type="unfinished"/>
+        <translation>Aplikatu kolore-profilak</translation>
     </message>
     <message>
         <source>Marks</source>
-        <translation type="unfinished"/>
+        <translation>Markak</translation>
     </message>
     <message>
         <source>This creates crop marks in the PDF indicating where the paper should be cut or trimmed after printing</source>
-        <translation type="unfinished"/>
+        <translation>Honek mozte-markak sortzen ditu PDFan, inprimaketaren ondoren papera nondik moztu behar den adierazteko.</translation>
     </message>
     <message>
         <source>Crop Marks</source>
-        <translation type="unfinished"/>
+        <translation>Mozte-markak</translation>
     </message>
     <message>
         <source>Add registration marks which are added to each separation</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu banaketa bakoitzari erantsiko zaizkion erregistro-markak</translation>
     </message>
     <message>
         <source>Registration Marks</source>
-        <translation type="unfinished"/>
+        <translation>Erregistro-markak</translation>
     </message>
     <message>
         <source>This creates bleed marks which are indicated by  _ . _ and show the bleed limit</source>
-        <translation type="unfinished"/>
+        <translation>Honek  _ . _ bidez adierazten diren koskatze-markak sortzen ditu eta koskatze-muga erakusten du</translation>
     </message>
     <message>
         <source>Bleed Marks</source>
-        <translation type="unfinished"/>
+        <translation>Koskatze-markak</translation>
     </message>
     <message>
         <source>Add color calibration bars</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu kolore-kalibrazioko barrak</translation>
     </message>
     <message>
         <source>Color Bars</source>
-        <translation type="unfinished"/>
+        <translation>Kolore-barrak</translation>
     </message>
     <message>
         <source>Offset:</source>
@@ -17885,15 +17976,15 @@ batentzako, edo orrialde bakar batentzako izan daiteke.</translation>
     </message>
     <message>
         <source>Indicate the distance offset for the registration marks</source>
-        <translation type="unfinished"/>
+        <translation>Adierazi erregistro-marken desplazamendu-distantzia</translation>
     </message>
     <message>
         <source>Bleeds</source>
-        <translation type="unfinished"/>
+        <translation>Koskatzeak</translation>
     </message>
     <message>
         <source>Top:</source>
-        <translation>Goia:</translation>
+        <translation>Goian:</translation>
     </message>
     <message>
         <source>Distance for bleed from the top of the physical page</source>
@@ -17901,7 +17992,7 @@ batentzako, edo orrialde bakar batentzako izan daiteke.</translation>
     </message>
     <message>
         <source>Left:</source>
-        <translation>Ezkerra:</translation>
+        <translation>Ezkerrean:</translation>
     </message>
     <message>
         <source>Distance for bleed from the right of the physical page</source>
@@ -17909,7 +18000,7 @@ batentzako, edo orrialde bakar batentzako izan daiteke.</translation>
     </message>
     <message>
         <source>Bottom:</source>
-        <translation>Behea:</translation>
+        <translation>Behean:</translation>
     </message>
     <message>
         <source>Distance for bleed from the bottom of the physical page</source>
@@ -17917,7 +18008,7 @@ batentzako, edo orrialde bakar batentzako izan daiteke.</translation>
     </message>
     <message>
         <source>Right:</source>
-        <translation>Eskuina:</translation>
+        <translation>Eskuinean:</translation>
     </message>
     <message>
         <source>Distance for bleed from the left of the physical page</source>
@@ -17925,19 +18016,19 @@ batentzako, edo orrialde bakar batentzako izan daiteke.</translation>
     </message>
     <message>
         <source>Use the existing bleed settings from the document preferences</source>
-        <translation type="unfinished"/>
+        <translation>Erabili dokumentu-hobespenetako koskatze-ezarpenak</translation>
     </message>
     <message>
         <source>Use Document Bleeds</source>
-        <translation type="unfinished"/>
+        <translation>Erabili dokumentu-koskatzeak</translation>
     </message>
     <message>
         <source>Preview...</source>
-        <translation type="unfinished"/>
+        <translation>Aurrebista...</translation>
     </message>
     <message>
         <source>&amp;Print</source>
-        <translation type="unfinished"/>
+        <translation>In&amp;primatu</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -17946,19 +18037,19 @@ batentzako, edo orrialde bakar batentzako izan daiteke.</translation>
     <message>
         <source>Include PDF Annotations and Links into the output.
 Note: PDF Forms will not be exported.</source>
-        <translation type="unfinished"/>
+        <translation>Sartu PDF oharpenak eta estekak irteeran. Oharra: PDF inprimakiak ez dira esportatuko.</translation>
     </message>
     <message>
         <source>Include PDF Annotations and Links</source>
-        <translation type="unfinished"/>
+        <translation>Sartu PDF oharpenak eta estekak</translation>
     </message>
     <message>
         <source>This enables you to explicitly set the media size of the PostScript file. Not recommended unless requested by your printer.</source>
-        <translation type="unfinished"/>
+        <translation>PostScript fitxategiaren multimedia-tamaina esplizituki ezartzea gaitzen du. Ez da gomendatzen zure inprimagailuak berariaz eskatzen ez badu.</translation>
     </message>
     <message>
         <source>Clip to Printer Margins</source>
-        <translation type="unfinished"/>
+        <translation>Moztu inprimatze-marjinetara</translation>
     </message>
     <message>
         <source>&lt;qt&gt;A way of switching off some of the gray shades which are composed of cyan, yellow and magenta and using black instead. Under Color Removal mostly affects parts of images which are neutral and/or dark tones which are close to the gray. Use of this may improve printing some images and some experimentation and testing is need on a case by case basis. Under Color Removal reduces the possibility of over saturation with CMY inks.&lt;/qt&gt;</source>
@@ -17974,7 +18065,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Create a range of pages</source>
-        <translation type="unfinished"/>
+        <translation>Sortu orrialdeen barruti bat</translation>
     </message>
 </context>
 <context>
@@ -18013,7 +18104,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>&amp;Transparency</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Gardentasuna</translation>
     </message>
     <message>
         <source>T&amp;able</source>
@@ -18021,7 +18112,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Drop Shadow</source>
-        <translation type="unfinished"/>
+        <translation>Itzal paraleloa</translation>
     </message>
 </context>
 <context>
@@ -18032,11 +18123,11 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Shape</source>
-        <translation type="unfinished"/>
+        <translation>Forma</translation>
     </message>
     <message>
         <source>Text &amp;Flow Around Frame</source>
-        <translation type="unfinished"/>
+        <translation>Testu-&amp;fluxua markoaren inguruan</translation>
     </message>
     <message>
         <source>Disabled</source>
@@ -18044,7 +18135,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Use Frame &amp;Shape</source>
-        <translation type="unfinished"/>
+        <translation>Erabili &amp;markoaren forma</translation>
     </message>
     <message>
         <source>Use &amp;Bounding Box</source>
@@ -18056,15 +18147,15 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Use Image Clip Path</source>
-        <translation type="unfinished"/>
+        <translation>Erabili irudiaren mozte-bidea</translation>
     </message>
     <message>
         <source>Disable text flow from lower frames around object</source>
-        <translation type="unfinished"/>
+        <translation>Desgaitu azpiragoko markoen testu-fluxua objektuaren inguruan</translation>
     </message>
     <message>
         <source>Use the frame shape for text flow of text frames below the object.</source>
-        <translation type="unfinished"/>
+        <translation>Erabili markoaren forma objektuaren azpian dauden testu-markoen testu-fluxurako.</translation>
     </message>
     <message>
         <source>Use the bounding box, which is always rectangular, instead of the frame&apos;s shape for text flow of text frames below the object. </source>
@@ -18076,7 +18167,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Use the clipping path of the image</source>
-        <translation type="unfinished"/>
+        <translation>Erabili irudiaren mozte-bidea</translation>
     </message>
     <message>
         <source>Any path self-intersections or subpaths create holes in the fill.</source>
@@ -18084,7 +18175,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Fill is solid unless a subpath is counterdirectional.</source>
-        <translation type="unfinished"/>
+        <translation>Betegarria solidoa da azpibide bat kontrako noranzkoa ez bada.</translation>
     </message>
 </context>
 <context>
@@ -18095,7 +18186,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Shape</source>
-        <translation type="unfinished"/>
+        <translation>Forma</translation>
     </message>
     <message>
         <source>...</source>
@@ -18107,7 +18198,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Text Flow Around Frame</source>
-        <translation type="unfinished"/>
+        <translation>Testu-fluxua markoaren inguruan</translation>
     </message>
     <message>
         <source>Disabled</source>
@@ -18115,7 +18206,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Use &amp;Frame Shape</source>
-        <translation type="unfinished"/>
+        <translation>Erabili &amp;markoaren forma</translation>
     </message>
     <message>
         <source>Use &amp;Bounding Box</source>
@@ -18127,11 +18218,11 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Use Image Clip Path</source>
-        <translation type="unfinished"/>
+        <translation>Erabili irudiaren mozte-bidea</translation>
     </message>
     <message>
         <source>Transparency</source>
-        <translation type="unfinished"/>
+        <translation>Gardentasuna</translation>
     </message>
     <message>
         <source>Fill Rule</source>
@@ -18186,7 +18277,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>&amp;Page Number:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Orrialde-zenbakia:</translation>
     </message>
     <message>
         <source>Rotation:</source>
@@ -18314,11 +18405,11 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Effective horizontal DPI of the image after scaling</source>
-        <translation type="unfinished"/>
+        <translation>Irudiaren DPI horizontal efektiboa eskalatzearen ondoren</translation>
     </message>
     <message>
         <source>Effective vertical DPI of the image after scaling</source>
-        <translation type="unfinished"/>
+        <translation>Irudiaren DPI bertikal efektiboa eskalatzearen ondoren</translation>
     </message>
     <message>
         <source>Use image proportions rather than those of the frame</source>
@@ -18334,15 +18425,15 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Compression method used in PDF export for the image</source>
-        <translation type="unfinished"/>
+        <translation>Irudiaren PDF esportazioan erabilitako konpresio-metodoa</translation>
     </message>
     <message>
         <source>Compression quality used in PDF export for the image</source>
-        <translation type="unfinished"/>
+        <translation>Irudiaren PDF esportazioan erabilitako konpresio-kalitatea</translation>
     </message>
     <message>
         <source>&amp;To Frame Size</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Markoaren tamainara</translation>
     </message>
 </context>
 <context>
@@ -18361,7 +18452,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>&amp;Page Number:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Orrialde-zenbakia:</translation>
     </message>
     <message>
         <source>Y-Pos:</source>
@@ -18373,7 +18464,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Scaling</source>
-        <translation type="unfinished"/>
+        <translation>Eskalatzea</translation>
     </message>
     <message>
         <source>X-Sc&amp;ale:</source>
@@ -18397,7 +18488,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Free</source>
-        <translation type="unfinished"/>
+        <translation>Askea</translation>
     </message>
     <message>
         <source>Proportional</source>
@@ -18405,7 +18496,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>To Frame Size</source>
-        <translation type="unfinished"/>
+        <translation>Markoaren tamainara</translation>
     </message>
     <message>
         <source>Color Management</source>
@@ -18413,15 +18504,15 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Input Profile</source>
-        <translation type="unfinished"/>
+        <translation>Sarrerako profila</translation>
     </message>
     <message>
         <source>Intent</source>
-        <translation type="unfinished"/>
+        <translation>Saiakera</translation>
     </message>
     <message>
         <source>PDF Compression</source>
-        <translation type="unfinished"/>
+        <translation>PDF konpresioa</translation>
     </message>
     <message>
         <source>Method:</source>
@@ -18524,7 +18615,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Hairline</source>
-        <translation type="unfinished"/>
+        <translation>Ile-lerroa</translation>
     </message>
     <message>
         <source>Change settings for left or end points</source>
@@ -18552,19 +18643,19 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Arrow head style for start of line</source>
-        <translation type="unfinished"/>
+        <translation>Geziburu-estiloa lerroaren hasierarako</translation>
     </message>
     <message>
         <source>Arrow head style for end of line</source>
-        <translation type="unfinished"/>
+        <translation>Geziburu-estiloa lerroaren amaierarako</translation>
     </message>
     <message>
         <source>Arrow head scale for start of line</source>
-        <translation type="unfinished"/>
+        <translation>Geziburu-eskala lerroaren hasierarako</translation>
     </message>
     <message>
         <source>Arrow head scale for end of line</source>
-        <translation type="unfinished"/>
+        <translation>Geziburu-eskala lerroaren amaierarako</translation>
     </message>
 </context>
 <context>
@@ -18599,7 +18690,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Hairline</source>
-        <translation type="unfinished"/>
+        <translation>Ile-lerroa</translation>
     </message>
     <message>
         <source>Ed&amp;ges:</source>
@@ -18614,15 +18705,15 @@ Note: PDF Forms will not be exported.</source>
     <name>PropertiesPalette_Shadow</name>
     <message>
         <source>X-Offset:</source>
-        <translation type="unfinished"/>
+        <translation>X desplazamendua:</translation>
     </message>
     <message>
         <source>Y-Offset:</source>
-        <translation type="unfinished"/>
+        <translation>Y desplazamendua:</translation>
     </message>
     <message>
         <source>Blur:</source>
-        <translation type="unfinished"/>
+        <translation>Lausotzea:</translation>
     </message>
     <message>
         <source>Color:</source>
@@ -18638,11 +18729,11 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Blendmode:</source>
-        <translation type="unfinished"/>
+        <translation>Nahaste modua:</translation>
     </message>
     <message>
         <source>Has Drop Shadow</source>
-        <translation type="unfinished"/>
+        <translation>Itzal paraleloa dauka</translation>
     </message>
     <message>
         <source>Black</source>
@@ -18715,12 +18806,14 @@ Note: PDF Forms will not be exported.</source>
     <message>
         <source>Content covers
 Drop Shadow</source>
-        <translation type="unfinished"/>
+        <translation>Edukiak itzal
+paraleloa estaltzen du</translation>
     </message>
     <message>
         <source>Inherit Object
 Transparency</source>
-        <translation type="unfinished"/>
+        <translation>Heredatu objektuen
+gardentasuna</translation>
     </message>
 </context>
 <context>
@@ -18731,15 +18824,15 @@ Transparency</source>
     </message>
     <message>
         <source>Object has a drop shadow</source>
-        <translation type="unfinished"/>
+        <translation>Objektuak itzal paraleloa du</translation>
     </message>
     <message>
         <source>X-Offset:</source>
-        <translation type="unfinished"/>
+        <translation>X desplazamendua:</translation>
     </message>
     <message>
         <source>Y-Offset:</source>
-        <translation type="unfinished"/>
+        <translation>Y desplazamendua:</translation>
     </message>
     <message>
         <source>Color:</source>
@@ -18759,7 +18852,7 @@ Transparency</source>
     </message>
     <message>
         <source>Blendmode:</source>
-        <translation type="unfinished"/>
+        <translation>Nahaste modua:</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -18827,7 +18920,7 @@ Transparency</source>
     </message>
     <message>
         <source>Blur:</source>
-        <translation type="unfinished"/>
+        <translation>Lausotzea:</translation>
     </message>
     <message>
         <source> px</source>
@@ -18838,7 +18931,7 @@ Transparency</source>
     <name>PropertiesPalette_Shape</name>
     <message>
         <source> pt</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">pt</translation>
     </message>
     <message>
         <source>Shape:</source>
@@ -18858,7 +18951,7 @@ Transparency</source>
     </message>
     <message>
         <source>R&amp;ound Corners:</source>
-        <translation type="unfinished"/>
+        <translation>Biribildu iz&amp;kinak:</translation>
     </message>
     <message>
         <source>Fill Rule</source>
@@ -18874,7 +18967,7 @@ Transparency</source>
     </message>
     <message>
         <source>Text &amp;Flow Around Frame</source>
-        <translation type="unfinished"/>
+        <translation>Testu-&amp;fluxua markoaren inguruan</translation>
     </message>
     <message>
         <source>Disabled</source>
@@ -18882,7 +18975,7 @@ Transparency</source>
     </message>
     <message>
         <source>Use Frame &amp;Shape</source>
-        <translation type="unfinished"/>
+        <translation>Erabili &amp;markoaren forma</translation>
     </message>
     <message>
         <source>Use &amp;Bounding Box</source>
@@ -18894,7 +18987,7 @@ Transparency</source>
     </message>
     <message>
         <source>Use Image Clip Path</source>
-        <translation type="unfinished"/>
+        <translation>Erabili irudiaren mozte-bidea</translation>
     </message>
     <message>
         <source>This rule determines the &amp;quot;insideness&amp;quot; of a point on the canvas by drawing a ray from that point to infinity in any direction and counting the number of path segments from the given shape that the ray crosses. If this number is odd, the point is inside, if even, the point is outside.</source>
@@ -18910,7 +19003,7 @@ Transparency</source>
     </message>
     <message>
         <source>Fill is solid unless a subpath is counterdirectional.</source>
-        <translation type="unfinished"/>
+        <translation>Betegarria solidoa da azpibide bat kontrako noranzkoa ez bada.</translation>
     </message>
 </context>
 <context>
@@ -18921,7 +19014,7 @@ Transparency</source>
     </message>
     <message>
         <source>Shape</source>
-        <translation type="unfinished"/>
+        <translation>Forma</translation>
     </message>
     <message>
         <source>...</source>
@@ -18933,11 +19026,11 @@ Transparency</source>
     </message>
     <message>
         <source>Round Corners</source>
-        <translation type="unfinished"/>
+        <translation>Biribildu izkinak</translation>
     </message>
     <message>
         <source>Text Flow Around Frame</source>
-        <translation type="unfinished"/>
+        <translation>Testu-fluxua markoaren inguruan</translation>
     </message>
     <message>
         <source>Disabled</source>
@@ -18949,7 +19042,7 @@ Transparency</source>
     </message>
     <message>
         <source>Use &amp;Frame Shape</source>
-        <translation type="unfinished"/>
+        <translation>Erabili &amp;markoaren forma</translation>
     </message>
     <message>
         <source>Use &amp;Bounding Box</source>
@@ -18961,7 +19054,7 @@ Transparency</source>
     </message>
     <message>
         <source>Use Image Clip Path</source>
-        <translation type="unfinished"/>
+        <translation>Erabili irudiaren mozte-bidea</translation>
     </message>
     <message>
         <source>Fill Rule</source>
@@ -18980,19 +19073,19 @@ Transparency</source>
     <name>PropertiesPalette_Table</name>
     <message>
         <source>Cell style of currently selected cell</source>
-        <translation type="unfinished"/>
+        <translation>Hautatutako gelaxkaren estiloa</translation>
     </message>
     <message>
         <source>Table style of currently selected table</source>
-        <translation type="unfinished"/>
+        <translation>Hautatutako taularen estiloa</translation>
     </message>
     <message>
         <source>Remove Direct Cell Formatting</source>
-        <translation type="unfinished"/>
+        <translation>Kendu gelaxka-formatu zuzena</translation>
     </message>
     <message>
         <source>Remove Direct Table Formatting</source>
-        <translation type="unfinished"/>
+        <translation>Kendu taula-formatu zuzena</translation>
     </message>
 </context>
 <context>
@@ -19003,7 +19096,7 @@ Transparency</source>
     </message>
     <message>
         <source>Borders</source>
-        <translation type="unfinished"/>
+        <translation>Ertzak</translation>
     </message>
     <message>
         <source>Width:</source>
@@ -19027,11 +19120,11 @@ Transparency</source>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"/>
+        <translation>Betegarria</translation>
     </message>
     <message>
         <source>Styles</source>
-        <translation type="unfinished"/>
+        <translation>Estiloak</translation>
     </message>
     <message>
         <source>Table</source>
@@ -19039,22 +19132,22 @@ Transparency</source>
     </message>
     <message>
         <source>Cells</source>
-        <translation type="unfinished"/>
+        <translation>Gelaxkak</translation>
     </message>
 </context>
 <context>
     <name>PropertiesPalette_Text</name>
     <message>
         <source>First Line Offset</source>
-        <translation type="unfinished"/>
+        <translation>Lehen lerroaren desplazamendua</translation>
     </message>
     <message>
         <source>Optical Margins</source>
-        <translation type="unfinished"/>
+        <translation>Marjina optikoak</translation>
     </message>
     <message>
         <source>Advanced Settings</source>
-        <translation type="unfinished"/>
+        <translation>Ezarpen aurreratuak</translation>
     </message>
     <message>
         <source>Path Text Properties</source>
@@ -19066,15 +19159,15 @@ Transparency</source>
     </message>
     <message>
         <source>Baseline</source>
-        <translation type="unfinished"/>
+        <translation>Oinarri-lerroa</translation>
     </message>
     <message>
         <source>Paragraph St&amp;yle:</source>
-        <translation type="unfinished"/>
+        <translation>Pa&amp;ragrafo-estiloa:</translation>
     </message>
     <message>
         <source>Character St&amp;yle:</source>
-        <translation type="unfinished"/>
+        <translation>K&amp;araktere-estiloa:</translation>
     </message>
     <message>
         <source>Fixed Linespacing</source>
@@ -19102,39 +19195,39 @@ Transparency</source>
     </message>
     <message>
         <source>Select the line spacing mode.</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu lerroarte modua.</translation>
     </message>
     <message>
         <source>Paragraph style of currently selected text or paragraph</source>
-        <translation type="unfinished"/>
+        <translation>Hautatutako testuaren edo paragrafoaren paragrafo-estiloa</translation>
     </message>
     <message>
         <source>Character style of currently selected text or paragraph</source>
-        <translation type="unfinished"/>
+        <translation>Hautatutako testuaren edo paragrafoaren karaktere-estiloa</translation>
     </message>
     <message>
         <source>Remove Direct Paragraph Formatting</source>
-        <translation type="unfinished"/>
+        <translation>Kendu paragrafo-formatu zuzena</translation>
     </message>
     <message>
         <source>Remove Direct Character Formatting</source>
-        <translation type="unfinished"/>
+        <translation>Kendu karaktere-formatu zuzena</translation>
     </message>
     <message>
         <source>Orphans and Widows</source>
-        <translation type="unfinished"/>
+        <translation>Umezurtzak eta alargunak</translation>
     </message>
     <message>
         <source>Color &amp;&amp; Effects</source>
-        <translation type="unfinished"/>
+        <translation>Kolorea &amp;&amp; efektuak</translation>
     </message>
     <message>
         <source>Columns &amp;&amp; Text Distances</source>
-        <translation type="unfinished"/>
+        <translation>Zutabeak &amp;&amp; testu-distantziak</translation>
     </message>
     <message>
         <source>Paragraph Effects</source>
-        <translation type="unfinished"/>
+        <translation>Paragrafo-efektuak</translation>
     </message>
 </context>
 <context>
@@ -19152,7 +19245,7 @@ Transparency</source>
     </message>
     <message>
         <source>&amp;Width</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Zabalera</translation>
     </message>
     <message>
         <source>&amp;Y-Pos:</source>
@@ -19192,7 +19285,7 @@ Transparency</source>
     </message>
     <message>
         <source>Name</source>
-        <translation>Izena:</translation>
+        <translation>Izena</translation>
     </message>
     <message>
         <source>Geometry</source>
@@ -19244,11 +19337,11 @@ Transparency</source>
     </message>
     <message>
         <source>Group the selected objects</source>
-        <translation type="unfinished"/>
+        <translation>Elkartu hautatutako objektuak</translation>
     </message>
     <message>
         <source>Ungroup the selected group</source>
-        <translation type="unfinished"/>
+        <translation>Banandu hautatutako taldea</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -19284,7 +19377,7 @@ Transparency</source>
     </message>
     <message>
         <source>Enable or disable exporting of the object</source>
-        <translation type="unfinished"/>
+        <translation>Gaitu edo desgaitu objektua esportatzea</translation>
     </message>
     <message>
         <source>Keep the aspect ratio</source>
@@ -19292,7 +19385,7 @@ Transparency</source>
     </message>
     <message>
         <source>Indicates the level the object is on, 1 means the object is at the bottom</source>
-        <translation type="unfinished"/>
+        <translation>Objektua zein mailan dagoen adierazten du, 1 zenbakiak objektua behealdean dagoela esan nahi du</translation>
     </message>
 </context>
 <context>
@@ -19303,7 +19396,7 @@ Transparency</source>
     </message>
     <message>
         <source>Name</source>
-        <translation>Izena:</translation>
+        <translation>Izena</translation>
     </message>
     <message>
         <source>Geometry</source>
@@ -19343,30 +19436,30 @@ Transparency</source>
     </message>
     <message>
         <source>0</source>
-        <translation type="unfinished"/>
+        <translation>0</translation>
     </message>
 </context>
 <context>
     <name>PropertyWidget_Advanced</name>
     <message>
         <source>Word Tracking</source>
-        <translation type="unfinished"/>
+        <translation>Hitzen jarraipena</translation>
     </message>
     <message>
         <source>Min:</source>
-        <translation type="unfinished"/>
+        <translation>Min:</translation>
     </message>
     <message>
         <source>Norm:</source>
-        <translation type="unfinished"/>
+        <translation>Norm:</translation>
     </message>
     <message>
         <source>Glyph Extension</source>
-        <translation type="unfinished"/>
+        <translation>Glifo-luzera</translation>
     </message>
     <message>
         <source>Max:</source>
-        <translation type="unfinished"/>
+        <translation>Max:</translation>
     </message>
     <message>
         <source> %</source>
@@ -19390,19 +19483,19 @@ Transparency</source>
     </message>
     <message>
         <source>Minimal width of spaces between words</source>
-        <translation type="unfinished"/>
+        <translation>Hitzen arteko zuriuneen zabalera minimoa</translation>
     </message>
     <message>
         <source>Normal width of spaces between words</source>
-        <translation type="unfinished"/>
+        <translation>Hitzen arteko zuriuneen zabalera normala</translation>
     </message>
     <message>
         <source>Minimal shrinkage of glyphs for justification</source>
-        <translation type="unfinished"/>
+        <translation>Glifoen uzkurdura minimoa justifikaziorako</translation>
     </message>
     <message>
         <source>Maximal extension of glyphs for justification</source>
-        <translation type="unfinished"/>
+        <translation>Glifoen luzera maximoa justifikaziorako</translation>
     </message>
 </context>
 <context>
@@ -19413,19 +19506,19 @@ Transparency</source>
     </message>
     <message>
         <source>Word Spacing</source>
-        <translation type="unfinished"/>
+        <translation>Hitzen arteko tartea</translation>
     </message>
     <message>
         <source>Min:</source>
-        <translation type="unfinished"/>
+        <translation>Min:</translation>
     </message>
     <message>
         <source>Max:</source>
-        <translation type="unfinished"/>
+        <translation>Max:</translation>
     </message>
     <message>
         <source>Glyph Extension</source>
-        <translation type="unfinished"/>
+        <translation>Glifo-luzapena</translation>
     </message>
 </context>
 <context>
@@ -19436,7 +19529,7 @@ Transparency</source>
     </message>
     <message>
         <source>Gap:</source>
-        <translation type="unfinished"/>
+        <translation>Tartea:</translation>
     </message>
     <message>
         <source>Width:</source>
@@ -19504,7 +19597,7 @@ Transparency</source>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"/>
+        <translation>Goian</translation>
     </message>
     <message>
         <source>Middle</source>
@@ -19512,7 +19605,7 @@ Transparency</source>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Behean</translation>
     </message>
 </context>
 <context>
@@ -19527,7 +19620,7 @@ Transparency</source>
     </message>
     <message>
         <source>Gap:</source>
-        <translation type="unfinished"/>
+        <translation>Tartea:</translation>
     </message>
     <message>
         <source>Width:</source>
@@ -19555,11 +19648,11 @@ Transparency</source>
     </message>
     <message>
         <source>Vertical Alignment</source>
-        <translation type="unfinished"/>
+        <translation>Lerrokatze bertikala</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"/>
+        <translation>Goian</translation>
     </message>
     <message>
         <source>Middle</source>
@@ -19567,30 +19660,30 @@ Transparency</source>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Behean</translation>
     </message>
 </context>
 <context>
     <name>PropertyWidget_DropCap</name>
     <message>
         <source>Use Drop Caps</source>
-        <translation type="unfinished"/>
+        <translation>Erabili letra kapitalak</translation>
     </message>
     <message>
         <source>Drop Caps lines</source>
-        <translation type="unfinished"/>
+        <translation>Letra kapitalen lerroak</translation>
     </message>
     <message>
         <source>Drop Caps offset</source>
-        <translation type="unfinished"/>
+        <translation>Letra kapitalen desplazamendua</translation>
     </message>
     <message>
         <source>Drop Cap use character style...</source>
-        <translation type="unfinished"/>
+        <translation>Letra kapitalen erabilerarako karaktere-estiloa...</translation>
     </message>
     <message>
         <source>Choose character style or leave blank for use default paragraph style</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu karaktere-estiloa edo utzi hutsik paragrafo-estilo lehenetsia erabiltzeko</translation>
     </message>
 </context>
 <context>
@@ -19609,30 +19702,30 @@ Transparency</source>
     </message>
     <message>
         <source>Offset</source>
-        <translation type="unfinished"/>
+        <translation>Desplazamendua</translation>
     </message>
     <message>
         <source>use Drop Caps</source>
-        <translation type="unfinished"/>
+        <translation>erabili letra kapitalak</translation>
     </message>
     <message>
         <source>Use Character Style</source>
-        <translation type="unfinished"/>
+        <translation>Erabili karaktere-estiloa</translation>
     </message>
     <message>
         <source>Number of lines used by the drop cap</source>
-        <translation type="unfinished"/>
+        <translation>Letra kapitalak erabilitako lerro kopurua</translation>
     </message>
 </context>
 <context>
     <name>PropertyWidget_Flop</name>
     <message>
         <source>Maximum Ascent</source>
-        <translation type="unfinished"/>
+        <translation>Igoera maximoa</translation>
     </message>
     <message>
         <source>Font Ascent</source>
-        <translation type="unfinished"/>
+        <translation>Letra-tipoaren igoera</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -19640,15 +19733,15 @@ Transparency</source>
     </message>
     <message>
         <source>Set the height of the first line of the text frame to use the tallest height of the included characters</source>
-        <translation type="unfinished"/>
+        <translation>Ezarri testu-markoaren lehen lerroaren altuerak karaktereen altuerarik handiena erabil dezan</translation>
     </message>
     <message>
         <source>Set the height of the first line of text frame to use the full ascent of the font(s) in use</source>
-        <translation type="unfinished"/>
+        <translation>Ezarri testu-markoaren lehen lerroaren altuerak letra-tipo(ar)en igoera osoa erabil dezan</translation>
     </message>
     <message>
         <source>Set the height of the first line of the text frame to the specified line height</source>
-        <translation type="unfinished"/>
+        <translation>Ezarri testu-markoaren lehen lerroaren altuerak adierazitako lerro-altuera erabil dezan</translation>
     </message>
     <message>
         <source>Baseline Grid</source>
@@ -19656,7 +19749,7 @@ Transparency</source>
     </message>
     <message>
         <source>Set the base line of the first line of the text frame to the base line grid</source>
-        <translation type="unfinished"/>
+        <translation>Ezarri testu-markoaren lehen lerroaren oinarri-lerroa saretarena izan dadin</translation>
     </message>
 </context>
 <context>
@@ -19667,7 +19760,7 @@ Transparency</source>
     </message>
     <message>
         <source>Maximum Ascent</source>
-        <translation type="unfinished"/>
+        <translation>Igoera maximoa</translation>
     </message>
     <message>
         <source>flopGroup</source>
@@ -19675,7 +19768,7 @@ Transparency</source>
     </message>
     <message>
         <source>Font Ascent</source>
-        <translation type="unfinished"/>
+        <translation>Letra-tipoaren igoera</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -19696,17 +19789,17 @@ Transparency</source>
     <message>
         <source>Both Sides</source>
         <comment>optical margins</comment>
-        <translation type="unfinished"/>
+        <translation>Bi aldeak</translation>
     </message>
     <message>
         <source>Left Only</source>
         <comment>optical margins</comment>
-        <translation type="unfinished"/>
+        <translation>Ezkerra soilik</translation>
     </message>
     <message>
         <source>Right Only</source>
         <comment>optical margins</comment>
-        <translation type="unfinished"/>
+        <translation>Eskuina soilik</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -19725,15 +19818,15 @@ Transparency</source>
     </message>
     <message>
         <source>Both Sides</source>
-        <translation type="unfinished"/>
+        <translation>Bi aldeak</translation>
     </message>
     <message>
         <source>Left Only</source>
-        <translation type="unfinished"/>
+        <translation>Ezkerra soilik</translation>
     </message>
     <message>
         <source>Right Only</source>
-        <translation type="unfinished"/>
+        <translation>Eskuina soilik</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -19744,11 +19837,11 @@ Transparency</source>
     <name>PropertyWidget_Orphans</name>
     <message>
         <source>Don&apos;t separate first</source>
-        <translation type="unfinished"/>
+        <translation>Ez bereizi lehena</translation>
     </message>
     <message>
         <source>Don&apos;t separate last</source>
-        <translation type="unfinished"/>
+        <translation>Ez bereizi azkena</translation>
     </message>
     <message>
         <source> lines</source>
@@ -19756,27 +19849,27 @@ Transparency</source>
     </message>
     <message>
         <source>Do not split paragraph</source>
-        <translation type="unfinished"/>
+        <translation>Ez zatitu paragrafoa</translation>
     </message>
     <message>
         <source>Keep with next paragraph</source>
-        <translation type="unfinished"/>
+        <translation>Mantendu hurrengo paragrafoarekin</translation>
     </message>
     <message>
         <source>Ensure that first lines of a paragraph won&apos;t end up separated from the rest (known as widow/orphan control)</source>
-        <translation type="unfinished"/>
+        <translation>Ziurtatu paragrafo baten lehen lerroak ez direla paragrafotik bereiziko (alargunen/umezurtzen kontrola)</translation>
     </message>
     <message>
         <source>Ensure that last lines of a paragraph won&apos;t end up separated from the rest (known as widow/orphan control)</source>
-        <translation type="unfinished"/>
+        <translation>Ziurtatu paragrafo baten azken lerroak ez direla paragrafotik bereiziko (alargunen/umezurtzen kontrola)</translation>
     </message>
     <message>
         <source>If checked, ensures that the paragraph won&apos;t be split across multiple pages or columns</source>
-        <translation type="unfinished"/>
+        <translation>Markatuta badago, paragrafoa ez da zatituko orrialde edo zutabe anitzetan</translation>
     </message>
     <message>
         <source>If checked, automatically moves the paragraph to the next column or page if the next paragraph isn&apos;t on the same page or column</source>
-        <translation type="unfinished"/>
+        <translation>Markatuta badago, paragrafoa hurrengo zutabera edo orrialdera mugituko du hurrengo paragrafoa orrialde edo zutabe berean ez badago</translation>
     </message>
 </context>
 <context>
@@ -19787,11 +19880,11 @@ Transparency</source>
     </message>
     <message>
         <source>Ensure that first lines of a paragraph won&apos;t end up separated from the rest (known as widow/orphan control)</source>
-        <translation type="unfinished"/>
+        <translation>Ziurtatu paragrafo baten lehen lerroek ez direla paragrafotik bereiziko (alargunen/umezurtzen kontrola)</translation>
     </message>
     <message>
         <source>Don&apos;t separate first</source>
-        <translation type="unfinished"/>
+        <translation>Ez bereizi lehena</translation>
     </message>
     <message>
         <source> lines</source>
@@ -19799,15 +19892,15 @@ Transparency</source>
     </message>
     <message>
         <source>Don&apos;t separate last</source>
-        <translation type="unfinished"/>
+        <translation>Ez bereizi azkena</translation>
     </message>
     <message>
         <source>Do not split paragraph</source>
-        <translation type="unfinished"/>
+        <translation>Ez zatitu paragrafoa</translation>
     </message>
     <message>
         <source>Keep with next paragraph</source>
-        <translation type="unfinished"/>
+        <translation>Mantendu hurrengo paragrafoarekin</translation>
     </message>
 </context>
 <context>
@@ -19818,27 +19911,27 @@ Transparency</source>
     </message>
     <message>
         <source>Drop Caps</source>
-        <translation type="unfinished"/>
+        <translation>Letra kapitalak</translation>
     </message>
     <message>
         <source>Bulleted List</source>
-        <translation type="unfinished"/>
+        <translation>Buletdun zerrenda</translation>
     </message>
     <message>
         <source>Bullet Char(s)</source>
-        <translation type="unfinished"/>
+        <translation>Bulet-karakterea(k)</translation>
     </message>
     <message>
         <source>Enhanced char table to choose bullet chars</source>
-        <translation type="unfinished"/>
+        <translation>Karaktere-taula hobetua bulet-karaktereak hautatzeko</translation>
     </message>
     <message>
         <source>Char Table</source>
-        <translation type="unfinished"/>
+        <translation>Karaktere-taula</translation>
     </message>
     <message>
         <source>Numbered List</source>
-        <translation type="unfinished"/>
+        <translation>Zenbakidun zerrenda</translation>
     </message>
     <message>
         <source>Level</source>
@@ -19846,7 +19939,7 @@ Transparency</source>
     </message>
     <message>
         <source>Set</source>
-        <translation type="unfinished"/>
+        <translation>Ezarri</translation>
     </message>
     <message>
         <source>Format</source>
@@ -19854,7 +19947,7 @@ Transparency</source>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"/>
+        <translation>Hasiera</translation>
     </message>
     <message>
         <source>Prefix</source>
@@ -19866,27 +19959,27 @@ Transparency</source>
     </message>
     <message>
         <source>Offset</source>
-        <translation type="unfinished"/>
+        <translation>Desplazamendua</translation>
     </message>
     <message>
         <source>Auto-Indent</source>
-        <translation type="unfinished"/>
+        <translation>Koska automatikoa</translation>
     </message>
     <message>
         <source>Char Style</source>
-        <translation type="unfinished"/>
+        <translation>Karaktere-estiloa</translation>
     </message>
     <message>
         <source>Choose chracter style or leave blank for use default paragraph style</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu karaktere-estiloa edo utzi hutsik paragrafo-estilo lehenetsia erabiltzeko</translation>
     </message>
     <message>
         <source>No Paragraph Effects</source>
-        <translation type="unfinished"/>
+        <translation>Paragrafo-efekturik ez</translation>
     </message>
     <message>
         <source>Numerated List</source>
-        <translation type="unfinished"/>
+        <translation>Zenbakidun zerrenda</translation>
     </message>
 </context>
 <context>
@@ -19897,27 +19990,27 @@ Transparency</source>
     </message>
     <message>
         <source>Effect Parameters</source>
-        <translation type="unfinished"/>
+        <translation>Efektu-parametroak</translation>
     </message>
     <message>
         <source>Char Style</source>
-        <translation type="unfinished"/>
+        <translation>Karaktere-estiloa</translation>
     </message>
     <message>
         <source>AutoIndent</source>
-        <translation type="unfinished"/>
+        <translation>KoskaAutomatikoa</translation>
     </message>
     <message>
         <source>Offset</source>
-        <translation type="unfinished"/>
+        <translation>Desplazamendua</translation>
     </message>
     <message>
         <source>Drop Caps</source>
-        <translation type="unfinished"/>
+        <translation>Letra kapitalak</translation>
     </message>
     <message>
         <source>Number of lines used by the drop cap</source>
-        <translation type="unfinished"/>
+        <translation>Letra kapitalak erabilitako lerro kopurua</translation>
     </message>
     <message>
         <source>Lines</source>
@@ -19925,7 +20018,7 @@ Transparency</source>
     </message>
     <message>
         <source>Numbered List</source>
-        <translation type="unfinished"/>
+        <translation>Zenbakidun zerrenda</translation>
     </message>
     <message>
         <source>Level</source>
@@ -19933,11 +20026,11 @@ Transparency</source>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"/>
+        <translation>Hasiera</translation>
     </message>
     <message>
         <source>Set</source>
-        <translation type="unfinished"/>
+        <translation>Ezarri</translation>
     </message>
     <message>
         <source>Format</source>
@@ -19953,15 +20046,15 @@ Transparency</source>
     </message>
     <message>
         <source>Bulleted List</source>
-        <translation type="unfinished"/>
+        <translation>Buletdun zerrenda</translation>
     </message>
     <message>
         <source>Bullet Char(s)</source>
-        <translation type="unfinished"/>
+        <translation>Bulet-karakterea(k)</translation>
     </message>
     <message>
         <source>Char Table</source>
-        <translation type="unfinished"/>
+        <translation>Karaktere-taula</translation>
     </message>
 </context>
 <context>
@@ -19972,15 +20065,15 @@ Transparency</source>
     </message>
     <message>
         <source>Stair Step</source>
-        <translation type="unfinished"/>
+        <translation>Eskailera-maila </translation>
     </message>
     <message>
         <source>Skew</source>
-        <translation type="unfinished"/>
+        <translation>Okertu</translation>
     </message>
     <message>
         <source>Flip Text</source>
-        <translation type="unfinished"/>
+        <translation>Irauli testua</translation>
     </message>
     <message>
         <source>Show Curve</source>
@@ -20023,7 +20116,7 @@ Transparency</source>
     </message>
     <message>
         <source>Flip Text</source>
-        <translation type="unfinished"/>
+        <translation>Irauli testua</translation>
     </message>
     <message>
         <source>Show Curve</source>
@@ -20034,7 +20127,7 @@ Transparency</source>
     <name>PropertyWidget_TextColor</name>
     <message>
         <source>Color of selected text. If Outline text decoration is enabled, this color will be the fill color. If Drop Shadow Text is enabled, then this will be the top most color.</source>
-        <translation>Color of selected text. If Outline text decoration is enabled, this color will be the fill color. If Drop Shadow Text is enabled, then this will be the top most color.</translation>
+        <translation>Hautatutako testuaren kolorea. Testuaren eskemaren dekorazioa gaituta badago, kolore hau betegarri-kolorea izango da. Testuaren itzal paraleloa gaituta badago, hau gaineragoko kolorea izango da.</translation>
     </message>
     <message>
         <source>Color of text stroke and/or drop shadow, depending which is chosen.If both are chosen, then they share the same color.</source>
@@ -20076,7 +20169,10 @@ Biak aukeratzen badira, kolore berdina partekatuko dute.</translation>
 
 Please submit your file (if possible) to the
 Document Liberation Project http://www.documentliberation.org</source>
-        <translation type="unfinished"/>
+        <translation>Analisiak huts egin du!
+
+Mesedez bidali zure fitxategia (posible bada)
+Document Liberation Project-era http://www.documentliberation.org</translation>
     </message>
 </context>
 <context>
@@ -20147,19 +20243,19 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Python Scripts (*.py *.PY)</source>
-        <translation type="unfinished"/>
+        <translation>Python script-ak (*.py *.PY)</translation>
     </message>
     <message>
         <source>Col: %1 Row: %2/%3</source>
-        <translation type="unfinished"/>
+        <translation>Zut: %1 Err: %2/%3</translation>
     </message>
     <message>
         <source>Ctrl+O</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+O</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+S</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
@@ -20169,20 +20265,23 @@ Document Liberation Project http://www.documentliberation.org</source>
         <source>This is a standard Python console with some 
 known limitations. Please consult the Scribus 
 Scripter documentation for futher information. </source>
-        <translation type="unfinished"/>
+        <translation>Muga ezagun batzuk dituen Python kontsola estandar
+bat da. Kontsulatu Scribus-en Scripter dokumentazioa
+informazio gehiagorako.</translation>
     </message>
     <message>
         <source>Another script is already running...</source>
-        <translation type="unfinished"/>
+        <translation>Beste script bat exekutatzen ari da...</translation>
     </message>
     <message>
         <source>Please let it finish its task...</source>
-        <translation type="unfinished"/>
+        <translation>Utzi bere lana amai dezan...</translation>
     </message>
     <message>
         <source>
 &gt;&gt;&gt; Another script is already running...</source>
-        <translation type="unfinished"/>
+        <translation>
+&gt;&gt;&gt; Beste script bat exekutatzen ari da...</translation>
     </message>
 </context>
 <context>
@@ -20241,15 +20340,15 @@ Scripter documentation for futher information. </source>
     </message>
     <message>
         <source>Select color</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Hautatu kolorea</translation>
     </message>
     <message>
         <source>Pick Screen Color</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu pantaila-kolorea</translation>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu kolorea</translation>
     </message>
 </context>
 <context>
@@ -20332,11 +20431,11 @@ Scripter documentation for futher information. </source>
     </message>
     <message>
         <source>Preview File Info</source>
-        <translation>Aurrikusi datuak</translation>
+        <translation>Aurreikusi fitxategi-informazioa</translation>
     </message>
     <message>
         <source>Preview File Contents</source>
-        <translation>Aurrikusi edukia</translation>
+        <translation>Aurreikusi fitxategi-edukiak</translation>
     </message>
     <message>
         <source>Read-write</source>
@@ -20500,23 +20599,23 @@ Egiaztatu bidea eta fitxategi-izena.</translation>
     </message>
     <message>
         <source>Files of type:</source>
-        <translation type="unfinished"/>
+        <translation>Mota honetako fitxategiak:</translation>
     </message>
     <message>
         <source>Look in:</source>
-        <translation type="unfinished"/>
+        <translation>Begiratu hemen:</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished"/>
+        <translation>Aurrera</translation>
     </message>
     <message>
         <source>Parent Directory</source>
-        <translation type="unfinished"/>
+        <translation>Direktorio gurasoa</translation>
     </message>
     <message>
         <source>Recent Places</source>
-        <translation type="unfinished"/>
+        <translation>Azken tokiak</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -20524,11 +20623,11 @@ Egiaztatu bidea eta fitxategi-izena.</translation>
     </message>
     <message>
         <source>Are you sure you want to delete &apos;%1&apos;?</source>
-        <translation type="unfinished"/>
+        <translation>Ziur zaude &apos;%1&apos; ezabatu nahi duzula?</translation>
     </message>
     <message>
         <source>&amp;New Folder</source>
-        <translation type="unfinished"/>
+        <translation>Karpeta &amp;berria</translation>
     </message>
 </context>
 <context>
@@ -20702,7 +20801,7 @@ Egiaztatu bidea eta fitxategi-izena.</translation>
     <name>QObject</name>
     <message>
         <source>Spell check (Aspell)</source>
-        <translation type="unfinished"/>
+        <translation>Ortografia-egiaztatzailea (Aspell)</translation>
     </message>
     <message>
         <source>Initializing...</source>
@@ -20806,7 +20905,7 @@ Egiaztatu bidea eta fitxategi-izena.</translation>
     </message>
     <message>
         <source>Folds</source>
-        <translation>Diptikoak</translation>
+        <translation>Agiri tolestuak</translation>
     </message>
     <message>
         <source>Own Templates</source>
@@ -20942,7 +21041,7 @@ Kanpoko estekak
     </message>
     <message>
         <source>Kurdish</source>
-        <translation type="unfinished"/>
+        <translation>Kurduera</translation>
     </message>
     <message>
         <source>Lithuanian</source>
@@ -21246,7 +21345,7 @@ Kanpoko estekak
     <message>
         <source>Line space mode invalid, must be 0, 1 or 2</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Lerroarte modua baliogabea da, 0, 1, edo 2 izan behar du</translation>
     </message>
     <message>
         <source>Cannot set line spacing mode on a non-text frame.</source>
@@ -21388,7 +21487,7 @@ Kanpoko estekak
     </message>
     <message>
         <source>Unable to read settings XML:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Ezin da ezarpenen XMLa irakurri:</translation>
     </message>
     <message>
         <source>%1 (line %2 col %3)</source>
@@ -21417,7 +21516,7 @@ Kanpoko estekak
     <message>
         <source>unexpected null &lt;%2&gt; node</source>
         <comment>Load PDF settings</comment>
-        <translation type="unfinished"/>
+        <translation type="vanished">espero ez zen &lt;%2&gt; nodo nulua</translation>
     </message>
     <message>
         <source>node &lt;%1&gt; not an element</source>
@@ -21498,7 +21597,7 @@ Kanpoko estekak
     <message>
         <source>Failed to open document.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation type="vanished">Ezin izan da dokumentua ireki.</translation>
     </message>
     <message>
         <source>Failed to save document.</source>
@@ -21515,7 +21614,7 @@ Kanpoko estekak
     </message>
     <message>
         <source>Invalid property</source>
-        <translation type="unfinished"/>
+        <translation>Baliogabeko propietatea</translation>
     </message>
     <message>
         <source>Couldn&apos;t convert result type &apos;%1&apos;.</source>
@@ -21606,17 +21705,17 @@ Kanpoko estekak
     <message>
         <source>Line width out of bounds, must be 0 &lt;= line_width &lt;= 300.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Lerro-zabalera mugetatik kanpo, 0 &lt;= lerro_zabalera &lt;= 300 izan behar du.</translation>
     </message>
     <message>
         <source>Line shade out of bounds, must be 0 &lt;= shade &lt;= 100.</source>
         <comment>python error</comment>
-        <translation>Lerroen itzaldura mugetatik kanpo dago, 0 &lt;= zabalera &lt;= 100 izan behar du.</translation>
+        <translation>Lerro-itzaldura mugetatik kanpo, 0 &lt;= itzaldura &lt;= 100 izan behar du.</translation>
     </message>
     <message>
         <source>Fill shade out of bounds, must be 0 &lt;= shade &lt;= 100.</source>
         <comment>python error</comment>
-        <translation>Itzaldura mugetatik kanpo dago, 0 &lt;= zabalera &lt;= 100 izan behar du.</translation>
+        <translation>Betegarri-itzaldura mugetatik kanpo, 0 &lt;= itzaldura &lt;= 100 izan behar du.</translation>
     </message>
     <message>
         <source>Line style not found.</source>
@@ -21651,7 +21750,7 @@ Kanpoko estekak
     </message>
     <message>
         <source>&amp;Scribus Scripts</source>
-        <translation>&amp;Scribus-eko script-a</translation>
+        <translation>&amp;Scribus script-ak</translation>
     </message>
     <message>
         <source>&amp;Recent Scripts</source>
@@ -21693,36 +21792,33 @@ Details of what exceptions each function may throw are provided on the
 function's documentation, though as with most Python code this list
 is not exhaustive due to exceptions from called functions.
 </source>
-        <translation>Scribus Python interface module
+        <translation>Scribus-eko Python interfazeko modulua
 
-This module is the Python interface for Scribus. It provides functions
-to control scribus and to manipulate objects on the canvas. Each
-function is documented individually below.
+Modulu hau Scribus-en Python interfazea da. Scribus kontrolatzeko
+eta oihaleko objektuak kontrolatzeko funtzioak eskaintzen ditu.
+Funtzioak banaka daude dokumentatuta azpian. 
 
-A few things are common across most of the interface.
+Gauza gehienak berdinak dira interfazean. 
 
-Most functions operate on frames. Frames are identified by their name,
-a string - they are not real Python objects. Many functions take an
-optional (non-keyword) parameter, a frame name.
-Many exceptions are also common across most functions. These are
-not currently documented in the docstring for each function.
-- Many functions will raise a NoDocOpenError if you try to use them
-without a document to operate on.
-- If you do not pass a frame name to a function that requires one,
-the function will use the currently selected frame, if any, or
-raise a NoValidObjectError if it can&apos;t find anything to operate
-on.
-- Many functions will raise WrongFrameTypeError if you try to use them
-on a frame type that they do not make sense with. For example, setting
-the text color on a graphics frame doesn&apos;t make sense, and will result
-in this exception being raised.
-- Errors resulting from calls to the underlying Python API will be
-passed through unaltered. As such, the list of exceptions thrown by
-any function as provided here and in its docstring is incomplete.
+Funtzio gehienak markoei aplikatzen zaizkie. Markoak izenaren arabera (kate bat)
+identifikatzen dira, ez dira ordea egiazko Python objektuak. Funtzio askok aukerazko 
+parametroa (ez dira gakoak) hartzen dute: markoaren izena. Salbuespen asko
+ere berdinak dira funtzio gehienetan. Hauek ez daude dokumentatuta funtzio 
+bakoitzeko dokumentu-esaldian.
+- Funtzio askok NoDocOpenError abiaraziko dute hauek erabiltzen saiatzen
+ari bazara eta eragiteko dokumenturik ez badago. 
+- Funtzio bati ez badiozu marko-izenik ematen, une horretan hautatutako
+markoa erabiliko du, eta hautapenik ez badago, NoValidObjectError abiaraziko du. 
+- Funtzio askok WrongFrameTypeError abiaraziko dute zentzurik ez duen
+marko-mota ematen bazaie. Adibidez, testuaren kolorea irudi-marko batean
+saiatzeak ez du zentzurik, eta ondorioz salbuespena abiaraziko da. 
+-Azpiko Python APIari deitzean gertatzen diren erroreak 
+bere hartan bistaratuko dira. Beraz, edozein funtzioren 
+salbuespenen zerrenda, hemen ematen dena, osatu gabe dago. 
 
-Details of what exceptions each function may throw are provided on the
-function&apos;s documentation, though as with most Python code this list
-is not exhaustive due to exceptions from called functions.
+Funtzio bakoitzak sor ditzakeen salbuespei buruzko xehetasunak funtzioaren
+dokumentazioan ematen dira, nahiz eta Python kode askotan bezala, zerrenda
+hori ez den osoa, deitutako funtzioetako salbuespenen ondorioz.
 </translation>
     </message>
     <message>
@@ -21775,27 +21871,27 @@ is not exhaustive due to exceptions from called functions.
     </message>
     <message>
         <source>memcpy header: %1 %2 %3</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">memcpy goiburua: %1 %2 %3</translation>
     </message>
     <message>
         <source>table &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">&apos;%1&apos; taula</translation>
     </message>
     <message>
         <source>memcpy table: %1 %2 %3</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">memcpy taula: %1 %2 %3</translation>
     </message>
     <message>
         <source>memcpy offset: %1 %2 %3</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">memcpy desplazamendua: %1 %2 %3</translation>
     </message>
     <message>
         <source>Scribus Crash</source>
-        <translation type="unfinished"/>
+        <translation>Scribus-en kraskadura</translation>
     </message>
     <message>
         <source>Scribus crashes due to Signal #%1</source>
-        <translation type="unfinished"/>
+        <translation>Scribus kraskatu da #%1 seinalearen ondorioz</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -21859,7 +21955,7 @@ is not exhaustive due to exceptions from called functions.
     </message>
     <message>
         <source>My Plugin</source>
-        <translation>Nire plugin-a</translation>
+        <translation>Nire plugina</translation>
     </message>
     <message>
         <source>New From Template</source>
@@ -21871,7 +21967,7 @@ is not exhaustive due to exceptions from called functions.
     </message>
     <message>
         <source>Scripter</source>
-        <translation>Script motorra</translation>
+        <translation>Scripter</translation>
     </message>
     <message>
         <source>Short Words</source>
@@ -21891,7 +21987,7 @@ is not exhaustive due to exceptions from called functions.
     </message>
     <message>
         <source>Scribus crashes due to the following exception : %1</source>
-        <translation type="unfinished"/>
+        <translation>Scribus kraskatu da honako salbuespenagatik: %1</translation>
     </message>
     <message>
         <source>Creating Font Cache</source>
@@ -21948,11 +22044,11 @@ is not exhaustive due to exceptions from called functions.
     </message>
     <message>
         <source>C&amp;reate</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">&amp;Sortu</translation>
     </message>
     <message>
         <source>&amp;Import</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">I&amp;nportatu</translation>
     </message>
     <message>
         <source>Thai</source>
@@ -21996,7 +22092,7 @@ is not exhaustive due to exceptions from called functions.
     </message>
     <message>
         <source>Font %1(%2) is broken</source>
-        <translation type="unfinished"/>
+        <translation>%1(%2) letra-tipoa hondatuta dago</translation>
     </message>
     <message>
         <source>Arabic</source>
@@ -22004,7 +22100,7 @@ is not exhaustive due to exceptions from called functions.
     </message>
     <message>
         <source>Dzongkha</source>
-        <translation type="unfinished"/>
+        <translation>Dzongkha</translation>
     </message>
     <message>
         <source>Estonian</source>
@@ -22012,55 +22108,55 @@ is not exhaustive due to exceptions from called functions.
     </message>
     <message>
         <source>font %1 </source>
-        <translation type="unfinished"/>
+        <translation>%1 letra-tipoa</translation>
     </message>
     <message>
         <source>size %1 </source>
-        <translation type="unfinished"/>
+        <translation>%1 tamaina</translation>
     </message>
     <message>
         <source>+style </source>
-        <translation type="unfinished"/>
+        <translation>+estiloa</translation>
     </message>
     <message>
         <source>+color </source>
-        <translation type="unfinished"/>
+        <translation>+kolorea</translation>
     </message>
     <message>
         <source>+underline </source>
-        <translation type="unfinished"/>
+        <translation>+azpimarra</translation>
     </message>
     <message>
         <source>-underline </source>
-        <translation type="unfinished"/>
+        <translation>-azpimarra</translation>
     </message>
     <message>
         <source>+strikeout </source>
-        <translation type="unfinished"/>
+        <translation>+marratua</translation>
     </message>
     <message>
         <source>-strikeout </source>
-        <translation type="unfinished"/>
+        <translation>-marratua</translation>
     </message>
     <message>
         <source>+shadow </source>
-        <translation type="unfinished"/>
+        <translation>+itzala</translation>
     </message>
     <message>
         <source>-shadow </source>
-        <translation type="unfinished"/>
+        <translation>-itzala</translation>
     </message>
     <message>
         <source>+outline </source>
-        <translation type="unfinished"/>
+        <translation>+eskema</translation>
     </message>
     <message>
         <source>-outline </source>
-        <translation type="unfinished"/>
+        <translation>-eskema</translation>
     </message>
     <message>
         <source>-tracking </source>
-        <translation type="unfinished"/>
+        <translation>-jarraipena</translation>
     </message>
     <message>
         <source>+stretch </source>
@@ -22068,7 +22164,7 @@ is not exhaustive due to exceptions from called functions.
     </message>
     <message>
         <source>parent= %1</source>
-        <translation type="unfinished"/>
+        <translation>nagusia= %1</translation>
     </message>
     <message>
         <source>Font %1 is broken (no Face), discarding it</source>
@@ -22076,59 +22172,59 @@ is not exhaustive due to exceptions from called functions.
     </message>
     <message>
         <source>Latin</source>
-        <translation type="unfinished"/>
+        <translation>Latina</translation>
     </message>
     <message>
         <source>Icelandic</source>
-        <translation type="unfinished"/>
+        <translation>Islandiera</translation>
     </message>
     <message>
         <source>Romanian</source>
-        <translation type="unfinished"/>
+        <translation>Errumaniera</translation>
     </message>
     <message>
         <source>Quarto</source>
-        <translation type="unfinished"/>
+        <translation>Laurdena</translation>
     </message>
     <message>
         <source>Foolscap</source>
-        <translation type="unfinished"/>
+        <translation>Folioa</translation>
     </message>
     <message>
         <source>Letter</source>
-        <translation type="unfinished"/>
+        <translation>Gutuna</translation>
     </message>
     <message>
         <source>Govt. Letter</source>
-        <translation type="unfinished"/>
+        <translation>Gobernu gutuna</translation>
     </message>
     <message>
         <source>Legal</source>
-        <translation type="unfinished"/>
+        <translation>Legala</translation>
     </message>
     <message>
         <source>Ledger</source>
-        <translation type="unfinished"/>
+        <translation>Liburu nagusia</translation>
     </message>
     <message>
         <source>Executive</source>
-        <translation type="unfinished"/>
+        <translation>Exekutiboa</translation>
     </message>
     <message>
         <source>Post</source>
-        <translation type="unfinished"/>
+        <translation>Posta</translation>
     </message>
     <message>
         <source>Crown</source>
-        <translation type="unfinished"/>
+        <translation>Koroa</translation>
     </message>
     <message>
         <source>Large Post</source>
-        <translation type="unfinished"/>
+        <translation>Posta handia</translation>
     </message>
     <message>
         <source>Demy</source>
-        <translation type="unfinished"/>
+        <translation>Demy</translation>
     </message>
     <message>
         <source>Medium</source>
@@ -22136,111 +22232,111 @@ is not exhaustive due to exceptions from called functions.
     </message>
     <message>
         <source>Royal</source>
-        <translation type="unfinished"/>
+        <translation>Erregearena</translation>
     </message>
     <message>
         <source>Elephant</source>
-        <translation type="unfinished"/>
+        <translation>Elefantea</translation>
     </message>
     <message>
         <source>Double Demy</source>
-        <translation type="unfinished"/>
+        <translation>Demy bikoitza</translation>
     </message>
     <message>
         <source>Quad Demy</source>
-        <translation type="unfinished"/>
+        <translation>Demy laukoitza</translation>
     </message>
     <message>
         <source>STMT</source>
-        <translation type="unfinished"/>
+        <translation>STMT</translation>
     </message>
     <message>
         <source>A</source>
-        <translation type="unfinished"/>
+        <translation>A</translation>
     </message>
     <message>
         <source>B</source>
-        <translation type="unfinished"/>
+        <translation>B</translation>
     </message>
     <message>
         <source>C</source>
-        <translation type="unfinished"/>
+        <translation>C</translation>
     </message>
     <message>
         <source>D</source>
-        <translation type="unfinished"/>
+        <translation>D</translation>
     </message>
     <message>
         <source>E</source>
-        <translation type="unfinished"/>
+        <translation>E</translation>
     </message>
     <message>
         <source>%1 may be corrupted : missing resolution tags</source>
-        <translation type="unfinished"/>
+        <translation>%1 hondatuta egon daiteke : bereizmen-etiketak falta dira</translation>
     </message>
     <message>
         <source>Font %1 has broken glyph %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 letra-tipoak %2 glifoa hondatuta dauka</translation>
     </message>
     <message>
         <source>Transparency out of bounds, must be 0 &lt;= transparency &lt;= 1.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Gardentasuna mugetatik kanpo, 0 &lt;= gardentasuna &lt;= 1 izan behar du.</translation>
     </message>
     <message>
         <source>Blendmode out of bounds, must be 0 &lt;= blendmode &lt;= 15.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Nahaste modua mugetatik kanpo, 0 &lt;= nahaste modua &lt;= 15 izan behar du.</translation>
     </message>
     <message>
         <source>Scribus 1.2.x Support</source>
-        <translation type="unfinished"/>
+        <translation>Scribus 1.2.x euskarria</translation>
     </message>
     <message>
         <source>This file is not recognized as a PDB document. Please, report this as a bug if you are sure it is one.</source>
         <comment>PDB Importer</comment>
-        <translation type="unfinished"/>
+        <translation>Fitxategi hau ez da PDB dokumentu gisa hautematen. Mesedez, jakinarazi akatsa ziur bazaude PDB bat dela.</translation>
     </message>
     <message>
         <source>Cannot get number of lines of non-text frame.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin da lerro kopurua atzitu testu-markoa ez den batean.</translation>
     </message>
     <message>
         <source>+tracking %1 </source>
-        <translation type="unfinished"/>
+        <translation>+jarraipena %1</translation>
     </message>
     <message>
         <source>+baseline %1 </source>
-        <translation type="unfinished"/>
+        <translation>+oinarri-lerroa %1 </translation>
     </message>
     <message>
         <source>Breton</source>
-        <translation type="unfinished"/>
+        <translation>Bretoiera</translation>
     </message>
     <message>
         <source>%1 may be corrupted : missing or wrong resolution tags</source>
-        <translation type="unfinished"/>
+        <translation>%1 hondatuta egon daiteke : bereizmen-etiketak falta dira edo okerrak dira</translation>
     </message>
     <message>
         <source>German (Swiss)</source>
-        <translation type="unfinished"/>
+        <translation>Alemana (Suitza)</translation>
     </message>
     <message>
         <source>Hebrew</source>
-        <translation type="unfinished"/>
+        <translation>Hebreera</translation>
     </message>
     <message>
         <source>Font %1 has broken metrics in file %2, ignoring metrics</source>
-        <translation type="unfinished"/>
+        <translation>%1 letra-tipoak metrika hondatuta dauka %2 fitxategian, metrika ez ikusten</translation>
     </message>
     <message>
         <source>Chinese (Trad.)</source>
-        <translation type="unfinished"/>
+        <translation>Txinera (trad.)</translation>
     </message>
     <message>
         <source>Scribus 1.3.0-&gt;1.3.3.x Support</source>
-        <translation type="unfinished"/>
+        <translation>Scribus 1.3.0-&gt;1.3.3.x euskarria</translation>
     </message>
     <message>
         <source>%</source>
@@ -22248,48 +22344,48 @@ is not exhaustive due to exceptions from called functions.
     </message>
     <message>
         <source>Khmer</source>
-        <translation type="unfinished"/>
+        <translation>Khmerera</translation>
     </message>
     <message>
         <source>Lao</source>
-        <translation type="unfinished"/>
+        <translation>Laosera</translation>
     </message>
     <message>
         <source>Vietnamese</source>
-        <translation type="unfinished"/>
+        <translation>Vietnamera</translation>
     </message>
     <message>
         <source>An error occurred while initializing icc transforms</source>
-        <translation type="unfinished"/>
+        <translation>Errorea gertatu da ICC transformazioak hasieratzean</translation>
     </message>
     <message>
         <source>Output profile is not supported</source>
-        <translation type="unfinished"/>
+        <translation>Irteerako profila ez da onartzen</translation>
     </message>
     <message>
         <source>°</source>
         <comment>degrees, unicode 0xB0</comment>
-        <translation type="unfinished"/>
+        <translation>°</translation>
     </message>
     <message>
         <source>WMF Import</source>
-        <translation type="unfinished"/>
+        <translation>WMF inportazioa</translation>
     </message>
     <message>
         <source>New Layer</source>
-        <translation type="unfinished"/>
+        <translation>Geruza berria</translation>
     </message>
     <message>
         <source>Adobe Illustrator Importer</source>
-        <translation type="unfinished"/>
+        <translation>Adobe Illustrator inportatzailea</translation>
     </message>
     <message>
         <source>Imposition</source>
-        <translation type="unfinished"/>
+        <translation>Inposatzea</translation>
     </message>
     <message>
         <source>PostScript Importer</source>
-        <translation type="unfinished"/>
+        <translation>PostScript inportatzailea</translation>
     </message>
     <message>
         <source>%1;;All Files (*)</source>
@@ -22298,79 +22394,80 @@ is not exhaustive due to exceptions from called functions.
     <message>
         <source>Do you really want to overwrite the file:
 %1 ?</source>
-        <translation type="unfinished"/>
+        <translation>Benetan fitxategia gainidatzi nahi duzu:
+%1 ?</translation>
     </message>
     <message>
         <source>Encapsulated PostScript &quot;*.eps&quot;</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Encapsulated PostScript &quot;*.eps&quot;</translation>
     </message>
     <message>
         <source>GIF</source>
-        <translation type="unfinished"/>
+        <translation>GIF</translation>
     </message>
     <message>
         <source>JPEG</source>
-        <translation type="unfinished"/>
+        <translation>JPEG</translation>
     </message>
     <message>
         <source>Pattern Files</source>
-        <translation type="unfinished"/>
+        <translation>Eredu-fitxategiak</translation>
     </message>
     <message>
         <source>PDF Document</source>
-        <translation type="unfinished"/>
+        <translation>PDF dokumentua</translation>
     </message>
     <message>
         <source>PNG</source>
-        <translation type="unfinished"/>
+        <translation>PNG</translation>
     </message>
     <message>
         <source>PostScript &quot;*.ps&quot;</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">PostScript &quot;*.ps&quot;</translation>
     </message>
     <message>
         <source>Adobe Photoshop &quot;*.psd&quot;</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Adobe Photoshop &quot;*.psd&quot;</translation>
     </message>
     <message>
         <source>Windows Meta File &quot;*.wmf&quot;</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Windows Meta File &quot;*.wmf&quot;</translation>
     </message>
     <message>
         <source>Scalable Vector Graphics &quot;*.svg&quot;</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Scalable Vector Graphics &quot;*.svg&quot;</translation>
     </message>
     <message>
         <source>Adobe Illustrator &quot;*.ai&quot;</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Adobe Illustrator &quot;*.ai&quot;</translation>
     </message>
     <message>
         <source>GraphicsMagick File</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">GraphicsMagick fitxategia</translation>
     </message>
     <message>
         <source>UniConvertor File</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">UniConvertor fitxategia</translation>
     </message>
     <message>
         <source>Macintosh Pict File</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Macintosh Pict File</translation>
     </message>
     <message>
         <source>TIFF</source>
-        <translation type="unfinished"/>
+        <translation>TIFF</translation>
     </message>
     <message>
         <source>XPM</source>
-        <translation type="unfinished"/>
+        <translation>XPM</translation>
     </message>
     <message>
         <source>Valid metrics were found for font %1, using metrics in file %2</source>
-        <translation type="unfinished"/>
+        <translation>Baliozko metrika aurkitu da %1 letra-tipoan, %2 fitxategiko metrika erabiltzen</translation>
     </message>
     <message>
         <source>No metrics found for font %1, ignoring font</source>
-        <translation type="unfinished"/>
+        <translation>Ez da metrikarik aurkitu %1 letra-tiporako, letra-tipoa ez ikusten</translation>
     </message>
     <message>
         <source>Error</source>
@@ -22378,22 +22475,22 @@ is not exhaustive due to exceptions from called functions.
     </message>
     <message>
         <source>Configfile %1 not found or the file is not readable</source>
-        <translation type="unfinished"/>
+        <translation>%1 konfigurazio-fitxategia ez da aurkitu edo fitxategia ezin da irakurri</translation>
     </message>
     <message>
         <source>second argument is not tuple: must be tuple of int values.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>bigarren argumentua ez da tuploa: balio osoen tuploa izan behar du</translation>
     </message>
     <message>
         <source>second argument contains non-numeric values: must be list of int values.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>bigarren argumentuak zenbakiak ez diren balioak ditu: balio osoen zerrenda izan behar du.</translation>
     </message>
     <message>
         <source>Cannot have an empty paragraph style name.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin da eduki izenik gabeko paragrafo-estilorik.</translation>
     </message>
     <message>
         <source>hasdropcap has to be 0 or 1.</source>
@@ -22403,21 +22500,21 @@ is not exhaustive due to exceptions from called functions.
     <message>
         <source>Cannot have an empty char style name.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin da eduki izenik gabeko karaktere-estilorik.</translation>
     </message>
     <message>
         <source>Can only hyphenate text frame</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Testu-markoan soilik aplika daiteke hitz-zatiketa</translation>
     </message>
     <message>
         <source>Can only dehyphenate text frame</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Testu-markoan soilik ken daiteke hitz-zatiketa</translation>
     </message>
     <message>
         <source>Lens Effects</source>
-        <translation type="unfinished"/>
+        <translation>Objektibo-efektuak</translation>
     </message>
     <message>
         <source>PathCutter</source>
@@ -22433,28 +22530,28 @@ is not exhaustive due to exceptions from called functions.
     </message>
     <message>
         <source>Subdivide</source>
-        <translation type="unfinished"/>
+        <translation>Zatitu</translation>
     </message>
     <message>
         <source>Xfig Importer</source>
-        <translation type="unfinished"/>
+        <translation>Xfig inportatzailea</translation>
     </message>
     <message>
         <source>Xfig File</source>
-        <translation type="unfinished"/>
+        <translation>Xfig fitxategia</translation>
     </message>
     <message>
         <source>Norwegian (Bokmål)</source>
-        <translation type="unfinished"/>
+        <translation>Norvegiera (Bokmål)</translation>
     </message>
     <message>
         <source>Parsing the configfile %1 failed! Depending on the type of the error render frames might not work correctly!
 %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 konfigurazio-fitxategiaren analisiak huts egin du! Errore motaren arabera markoen errendatzeak ez du zuzen funtzionatuko! %2</translation>
     </message>
     <message>
         <source>MeshDistortion</source>
-        <translation type="unfinished"/>
+        <translation>SareDistortsioa</translation>
     </message>
     <message>
         <source>PathAlongPath</source>
@@ -22463,29 +22560,29 @@ is not exhaustive due to exceptions from called functions.
     <message>
         <source>Cannot get text distances of non-text frame.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin dira testukoa ez den marko baten testu-distantziak atzitu. </translation>
     </message>
     <message>
         <source>Text distances out of bounds, must be positive.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Testu-distantziak mugetatik kanpo, positiboak izan behar dute.</translation>
     </message>
     <message>
         <source>Cannot set text distances on a non-text frame.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin dira testu-distantziak ezarri testuarena ez den marko batean.</translation>
     </message>
     <message>
         <source>Bengali</source>
-        <translation type="unfinished"/>
+        <translation>Bengaliera</translation>
     </message>
     <message>
         <source>Sanskrit</source>
-        <translation type="unfinished"/>
+        <translation>Sanskritoa</translation>
     </message>
     <message>
         <source>Scribus 1.3.4+ Support</source>
-        <translation type="unfinished"/>
+        <translation>Scribus 1.3.4+ euskarria</translation>
     </message>
     <message>
         <source>PathConnect</source>
@@ -22509,96 +22606,96 @@ Therefore the image may be not correct</source>
     <message>
         <source>Color name cannot be an empty string.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Kolorearen izenak ezin du kate huts bat izan</translation>
     </message>
     <message>
         <source>Stop shade out of bounds, must be 0 &lt;= shade &lt;= 100.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Itzaldura-geldiunea mugetatik kanpo, 0 &lt;= itzaldura &lt;= 100 izan behar du.</translation>
     </message>
     <message>
         <source>Ramp point out of bounds, must be 0 &lt;= rampPoint &lt;= 1.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Arrapala-puntua mugetatik kanpo, 0 &lt;= arrapalaPuntua &lt;= 1 izan behar du.</translation>
     </message>
     <message>
         <source>Opacity out of bounds, must be 0 &lt;= transparency &lt;= 1.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Opakutasuna mugetatik kanpo, 0 &lt;= gardentasuna &lt;= 1 izan behar du.</translation>
     </message>
     <message>
         <source>Character scaling out of bounds, must be &gt;= 10</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Karaktere-eskalatzea mugetatik kanpo, &gt;= 10 izan behar du</translation>
     </message>
     <message>
         <source>Cannot set character scaling on a non-text frame.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin da karaktere-eskalatzea ezarri testu-markoa ez den batean.</translation>
     </message>
     <message>
         <source>Opening the configfile %1 failed! %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 konfigurazio-fitxategia irekitzeak huts egin du! %2</translation>
     </message>
     <message>
         <source>Cvg Importer</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Cvg inportatzailea</translation>
     </message>
     <message>
         <source>Pict Importer</source>
-        <translation type="unfinished"/>
+        <translation>Pict inportatzailea</translation>
     </message>
     <message>
         <source>Uniconvertor Import</source>
-        <translation type="unfinished"/>
+        <translation>Uniconvertor inportatzailea</translation>
     </message>
     <message>
         <source>WPG Importer</source>
-        <translation type="unfinished"/>
+        <translation>WPG inportatzailea</translation>
     </message>
     <message>
         <source>Xara Importer</source>
-        <translation type="unfinished"/>
+        <translation>Xara inportatzailea</translation>
     </message>
     <message>
         <source>Picture Browser</source>
-        <translation type="unfinished"/>
+        <translation>Irudi-arakatzailea</translation>
     </message>
     <message>
         <source>Could not get pixel data!</source>
-        <translation type="unfinished"/>
+        <translation>Ezin da pixelen daturik atzitu!</translation>
     </message>
     <message>
         <source>Could not get alpha channel data!</source>
-        <translation type="unfinished"/>
+        <translation>Ezin da alfa kanalaren daturik atzitu!</translation>
     </message>
     <message>
         <source>Could not allocate output buffer!</source>
-        <translation type="unfinished"/>
+        <translation>Ezin da irteerako bufferra esleitu!</translation>
     </message>
     <message>
         <source> (mp items)</source>
-        <translation type="unfinished"/>
+        <translation> (mp elementuak)</translation>
     </message>
     <message>
         <source>Quark XPress Tags Document</source>
-        <translation type="unfinished"/>
+        <translation>Quark XPress Tags Document</translation>
     </message>
     <message>
         <source>Cgm Importer</source>
-        <translation type="unfinished"/>
+        <translation>Cgm inportatzailea</translation>
     </message>
     <message>
         <source>Adobe IDML Importer</source>
-        <translation type="unfinished"/>
+        <translation>Adobe IDML inportatzailea</translation>
     </message>
     <message>
         <source>DRW Importer</source>
-        <translation type="unfinished"/>
+        <translation>DRW inportatzailea</translation>
     </message>
     <message>
         <source>Scripter Plugin</source>
-        <translation type="unfinished"/>
+        <translation>Scripter plugina</translation>
     </message>
     <message>
         <source>Highlighter error: Invalid index returned by Qt&apos;s QString.indexOf(). This is a incompatibility between different Qt versions and it can only be fixed by recompiling Scribus with the same Qt version that is running on this system. Syntax highlighting is disabled now, but render frames should continue to work without problems.</source>
@@ -22606,31 +22703,31 @@ Therefore the image may be not correct</source>
     </message>
     <message>
         <source>PGF</source>
-        <translation type="unfinished"/>
+        <translation>PGF</translation>
     </message>
     <message>
         <source>Calamus CVG File</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Calamus CVG fitxategia</translation>
     </message>
     <message>
         <source>Word Perfect WPG File</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Word Perfect WPG fitxategia</translation>
     </message>
     <message>
         <source>BMP</source>
-        <translation type="unfinished"/>
+        <translation>BMP</translation>
     </message>
     <message>
         <source>Scribus 1.5.0+ Support</source>
-        <translation type="unfinished"/>
+        <translation>Scribus 1.3.4+ euskarria {1.5.0+?}</translation>
     </message>
     <message>
         <source>Shape Importer</source>
-        <translation type="unfinished"/>
+        <translation>Forma inportatzailea</translation>
     </message>
     <message>
         <source>Sml Importer</source>
-        <translation type="unfinished"/>
+        <translation>Sml inportatzailea</translation>
     </message>
     <message>
         <source>FlattenPath</source>
@@ -22642,270 +22739,270 @@ Therefore the image may be not correct</source>
     </message>
     <message>
         <source>Grids</source>
-        <translation type="unfinished"/>
+        <translation>Saretak</translation>
     </message>
     <message>
         <source>PDF Importer</source>
-        <translation type="unfinished"/>
+        <translation>PDF inportatzailea</translation>
     </message>
     <message>
         <source>Cannot set cell text on a non-table item.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin da gelaxka-testua ezarri taula ez den elementu batean.</translation>
     </message>
     <message>
         <source>The cell %1,%2 does not exist in table</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>%1,%2 gelaxka ez da existitzen taulan</translation>
     </message>
     <message>
         <source>Cannot get cell style on a non-table item.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin da gelaxka-estiloa atzitu taula ez den elementu batean.</translation>
     </message>
     <message>
         <source>Cannot set cell style on a non-table item.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin da gelaxka-estiloa ezarri taula ez den elementu batean.</translation>
     </message>
     <message>
         <source>Cannot get cell row span from non-table item.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin da gelaxka-errenkadaren bitartea atzitu taula ez den elementu batetik.</translation>
     </message>
     <message>
         <source>Cannot get cell column span from non-table item.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin da gelaxka-zutabearen bitartea atzitu taula ez den elementu batetik.</translation>
     </message>
     <message>
         <source>Cannot get cell fill color on a non-table item.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin da gelaxkaren atzeko kolorea atzitu taula ez den elementu batean.</translation>
     </message>
     <message>
         <source>Cannot set cell fill color on a non-table item.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin da gelaxkaren atzeko kolorea ezarri taula ez den elementu batean.</translation>
     </message>
     <message>
         <source>Cannot set cell left border on a non-table item.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin da gelaxkaren ezkerreko ertza ezarri taula ez den elementu batean.</translation>
     </message>
     <message>
         <source>Cannot set cell right border on a non-table item.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin da gelaxkaren eskuineko ertza ezarri taula ez den elementu batean.</translation>
     </message>
     <message>
         <source>Cannot set cell top border on a non-table item.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin da gelaxkaren goiko ertza ezarri taula ez den elementu batean.</translation>
     </message>
     <message>
         <source>Cannot set cell bottom border on a non-table item.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin da gelaxkaren beheko ertza ezarri taula ez den elementu batean.</translation>
     </message>
     <message>
         <source>Cannot set cell left padding on a non-table item.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin da gelaxkaren ezkerreko betegarria ezarri taula ez den elementu batean.</translation>
     </message>
     <message>
         <source>Cell padding must be &gt;= 0.0</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Gelaxkaren betegarriek &gt;= 0,0 izan behar dute</translation>
     </message>
     <message>
         <source>Cannot set cell right padding on a non-table item.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin da gelaxkaren eskuineko betegarria ezarri taula ez den elementu batean.</translation>
     </message>
     <message>
         <source>Cannot set cell top padding on a non-table item.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin da gelaxkaren goiko betegarria ezarri taula ez den elementu batean.</translation>
     </message>
     <message>
         <source>Cannot set cell bottom padding on a non-table item.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin da gelaxkaren beheko betegarria ezarri taula ez den elementu batean.</translation>
     </message>
     <message>
         <source>Both numRows and numColumns must be greater than 0.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>errenkadaKopuruak eta zutabeKopuruak 0 baino handiagoa izan behar dute.</translation>
     </message>
     <message>
         <source>Cannot get table row count of non-table item.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin da taularen errenkada kopurua atzitu taula ez den elementu batean.</translation>
     </message>
     <message>
         <source>Cannot get table column count of non-table item.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin da taularen zutabe kopurua atzitu taula ez den elementu batean.</translation>
     </message>
     <message>
         <source>Cannot insert rows on a non-table item.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin dira errenkadak txertatu taula ez den elementu batean.</translation>
     </message>
     <message>
         <source>Table row index out of bounds, must be &gt;= 0 and &lt; %1</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Taula-errenkadaren indizea mugetatik kanpo, &gt;=0 eta &lt; %1 izan behar du</translation>
     </message>
     <message>
         <source>Table row count out of bounds, must be &gt;= 1</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Taula-errenkadaren zenbakia mugetatik kanpo, &gt;= 1 izan behar du</translation>
     </message>
     <message>
         <source>Cannot remove rows from a non-table item.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin dira errenkadak kendu taula ez den elementu batetik.</translation>
     </message>
     <message>
         <source>Table row count out of bounds, must be &gt;= 1 and &lt; %1</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Taula-errenkadaren zenbakia mugetatik kanpo, &gt;= 1 eta &lt; %1 izan behar du</translation>
     </message>
     <message>
         <source>Row deletion range out of bounds, index + numRows must be &lt;= %1</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Errenkada-ezabaketaren barrutia mugetatik kanpo, indizea + errenkadaKopurua &lt;= %1 izan behar du</translation>
     </message>
     <message>
         <source>Cannot get row height from non-table item.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin dira errenkaden altuera atzitu taula ez den elementu batean.</translation>
     </message>
     <message>
         <source>Cannot resize row on a non-table item.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin da errenkaden tamaina aldatu taula ez den elementu batean.</translation>
     </message>
     <message>
         <source>Table row height must be &gt; 0.0</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Taularen errenkada-altuerak &gt; 0.0 izan behar du</translation>
     </message>
     <message>
         <source>Cannot insert columns on a non-table item.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin dira zutabeak txertatu taula ez den elementu batean.</translation>
     </message>
     <message>
         <source>Table column index out of bounds, must be &gt;= 0 and &lt; %1</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Taula-zutabearen indizea mugetatik kanpo, &gt;= 0 eta &lt; %1 izan behar du</translation>
     </message>
     <message>
         <source>Table column count out of bounds, must be &gt;= 1</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Taula-zutabearen zenbakia mugetatik kanpo, &gt;= 1 izan behar du</translation>
     </message>
     <message>
         <source>Cannot remove columns from a non-table item.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin dira zutabeak kendu taula ez den elementu batetik.</translation>
     </message>
     <message>
         <source>Table column count out of bounds, must be &gt;= 1 and &lt; %1</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Taula-zutabearen indizea mugetatik kanpo, &gt;= 1 eta &lt; %1 izan behar du</translation>
     </message>
     <message>
         <source>Column deletion range out of bounds, index + numColumns must be &lt;= %1</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Zutabe-ezabaketaren barrutia mugetatik kanpo, indizea + zutabeKopurua &lt;= %1 izan behar du</translation>
     </message>
     <message>
         <source>Cannot get column width from non-table item.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin da zutabeen zabalera atzitu taula ez den elementu bateti.</translation>
     </message>
     <message>
         <source>Cannot resize column on a non-table item.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin da zutabeen tamaina aldatu taula ez den elementu batean.</translation>
     </message>
     <message>
         <source>Table column width must be &gt; 0.0</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Taularen zutabe-zabalerak &gt; 0.0 izan behar du</translation>
     </message>
     <message>
         <source>Cannot merge cells on a non-table item.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin dira gelaxkak fusionatu taula ez den elementu batean.</translation>
     </message>
     <message>
         <source>Number of rows and columns must both be &gt; 0.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Errenkada eta zutabe kopuruek &gt; 0 izan behar dute biek.</translation>
     </message>
     <message>
         <source>The area %1,%2 %3x%4 is not inside the table.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>%1,%2 %3x%4 area ez dago taularen barruan.</translation>
     </message>
     <message>
         <source>Cannot get table style on a non-table item.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin da taula-estiloa atzitu taula ez den elementu batean.</translation>
     </message>
     <message>
         <source>Cannot set table style on a non-table item.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin da taula-estiloa ezarri taula ez den elementu batean.</translation>
     </message>
     <message>
         <source>Cannot get table fill color on a non-table item.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin da taularen betegarri-kolorea atzitu taula ez den elementu batean.</translation>
     </message>
     <message>
         <source>Cannot set table fill color on a non-table item.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin da taularen betegarri-kolorea ezarri taula ez den elementu batean.</translation>
     </message>
     <message>
         <source>Cannot set table left border on a non-table item.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin da taularen ezkerreko ertza ezarri taula ez den elementu batean.</translation>
     </message>
     <message>
         <source>Cannot set table right border on a non-table item.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin da taularen eskuineko ertza ezarri taula ez den elementu batean.</translation>
     </message>
     <message>
         <source>Cannot set table top border on a non-table item.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin da taularen goiko ertza ezarri taula ez den elementu batean.</translation>
     </message>
     <message>
         <source>Cannot set table bottom border on a non-table item.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin da taularen beheko ertza ezarri taula ez den elementu batean.</translation>
     </message>
     <message>
         <source>Expected a list of border lines</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ertz-lerroen zerrenda bat espero zen</translation>
     </message>
     <message>
         <source>Border line width must be &gt; 0.0</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ertz-lerroaren zabalerak &gt; 0,0 baino handiagoa izan behar du</translation>
     </message>
     <message>
         <source>Idml Importer</source>
-        <translation type="unfinished"/>
+        <translation>Idml inportatzailea</translation>
     </message>
     <message>
         <source>Border lines are specified as (width,style,color,shade) tuples</source>
@@ -22914,63 +23011,63 @@ Therefore the image may be not correct</source>
     </message>
     <message>
         <source>Aragonese</source>
-        <translation type="unfinished"/>
+        <translation>Aragoiera</translation>
     </message>
     <message>
         <source>Belarusian</source>
-        <translation type="unfinished"/>
+        <translation>Bielorrusiera</translation>
     </message>
     <message>
         <source>English (Australia)</source>
-        <translation type="unfinished"/>
+        <translation>Ingelesa (Australia)</translation>
     </message>
     <message>
         <source>English (Canada)</source>
-        <translation type="unfinished"/>
+        <translation>Ingelesa (Kanada)</translation>
     </message>
     <message>
         <source>English (UK)</source>
-        <translation type="unfinished"/>
+        <translation>Ingelesa (EB)</translation>
     </message>
     <message>
         <source>English (New Zealand)</source>
-        <translation type="unfinished"/>
+        <translation>Ingelesa (Zeelanda Berria)</translation>
     </message>
     <message>
         <source>English (South Africa)</source>
-        <translation type="unfinished"/>
+        <translation>Ingelesa (Hegoafrika)</translation>
     </message>
     <message>
         <source>Spanish (Argentina)</source>
-        <translation type="unfinished"/>
+        <translation>Espainiera (Argentina)</translation>
     </message>
     <message>
         <source>Hunspell Plugin</source>
-        <translation type="unfinished"/>
+        <translation>Hunspell plugina</translation>
     </message>
     <message>
         <source>Bengali (Bangladesh)</source>
-        <translation type="unfinished"/>
+        <translation>Bengaliera (Bangladesh)</translation>
     </message>
     <message>
         <source>German (Austria)</source>
-        <translation type="unfinished"/>
+        <translation>Alemana (Austria)</translation>
     </message>
     <message>
         <source>English (US)</source>
-        <translation type="unfinished"/>
+        <translation>Ingelesa (AEB)</translation>
     </message>
     <message>
         <source>Scottish Gaelic</source>
-        <translation type="unfinished"/>
+        <translation>Eskoziako gaelikoa</translation>
     </message>
     <message>
         <source>Gujarati</source>
-        <translation type="unfinished"/>
+        <translation>Gujaratera</translation>
     </message>
     <message>
         <source>Nepali</source>
-        <translation type="unfinished"/>
+        <translation>Nepalera</translation>
     </message>
     <message>
         <source>You are running a development version of Scribus 1.5.x. The document you are working with was created in Scribus 1.2.x.  Saving the current file under 1.5.x renders it unable to be edited in Scribus 1.2.x versions. To preserve the ability to edit in 1.2.x, save this file under a different name and further edit the newly named file and the original will be untouched. Are you sure you wish to proceed with this operation?</source>
@@ -22978,7 +23075,7 @@ Therefore the image may be not correct</source>
     </message>
     <message>
         <source>PUB Importer</source>
-        <translation type="unfinished"/>
+        <translation>PUB inportatzailea</translation>
     </message>
     <message>
         <source>&lt;p&gt;You are trying to import more pages than there are available in the current document counting from the active page.&lt;/p&gt;Choose one of the following:&lt;ul&gt;&lt;li&gt;&lt;b&gt;Create&lt;/b&gt; missing pages&lt;/li&gt;&lt;li&gt;&lt;b&gt;Import&lt;/b&gt; pages until the last page&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cancel&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;</source>
@@ -22986,87 +23083,87 @@ Therefore the image may be not correct</source>
     </message>
     <message>
         <source>Unacceptable settings for note style</source>
-        <translation type="unfinished"/>
+        <translation>Ezarpen onartezinak oharpen-estilorako</translation>
     </message>
     <message>
         <source>Compact Disc</source>
-        <translation type="unfinished"/>
+        <translation>Disko konpaktua</translation>
     </message>
     <message>
         <source>Letter Half</source>
-        <translation type="unfinished"/>
+        <translation>Letter Half</translation>
     </message>
     <message>
         <source>US Letter</source>
-        <translation type="unfinished"/>
+        <translation>US Letter</translation>
     </message>
     <message>
         <source>US Legal</source>
-        <translation type="unfinished"/>
+        <translation>US Legal</translation>
     </message>
     <message>
         <source>11x17</source>
-        <translation type="unfinished"/>
+        <translation>11x17</translation>
     </message>
     <message>
         <source>Pages Importer</source>
-        <translation type="unfinished"/>
+        <translation>Pages inportatzailea</translation>
     </message>
     <message>
         <source>Viva Importer</source>
-        <translation type="unfinished"/>
+        <translation>Viva inportatzailea</translation>
     </message>
     <message>
         <source>MS Visio Importer</source>
-        <translation type="unfinished"/>
+        <translation>MS Visio inportatzailea</translation>
     </message>
     <message>
         <source>Xps Importer</source>
-        <translation type="unfinished"/>
+        <translation>Xps inportatzailea</translation>
     </message>
     <message>
         <source>XPS Export</source>
-        <translation type="unfinished"/>
+        <translation>XPS esportatzailea</translation>
     </message>
     <message>
         <source>Microsoft XPS (*.xps *.XPS);;All Files (*)</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft XPS (*.xps *.XPS);;Fitxategi guztiak (*)</translation>
     </message>
     <message>
         <source>Output Settings:</source>
-        <translation type="unfinished"/>
+        <translation>Irteerako ezarpenak:</translation>
     </message>
     <message>
         <source>Low Resolution</source>
-        <translation type="unfinished"/>
+        <translation>Bereizmen txikia</translation>
     </message>
     <message>
         <source>Medium Resolution</source>
-        <translation type="unfinished"/>
+        <translation>Bereizmen ertaina</translation>
     </message>
     <message>
         <source>High Resolution</source>
-        <translation type="unfinished"/>
+        <translation>Bereizmen altua</translation>
     </message>
     <message>
         <source>Anii</source>
-        <translation type="unfinished"/>
+        <translation>Anii</translation>
     </message>
     <message>
         <source>Open Document Importer</source>
-        <translation type="unfinished"/>
+        <translation>Open Document inportatzailea</translation>
     </message>
     <message>
         <source>OpenOffice.org Draw (*.sxd *.SXD);;All Files (*)</source>
-        <translation type="unfinished"/>
+        <translation>OpenOffice.org Draw (*.sxd *.SXD);;Fitxategi guztiak (*)</translation>
     </message>
     <message>
         <source>Corel Draw Importer</source>
-        <translation type="unfinished"/>
+        <translation>Corel Draw inportatzailea</translation>
     </message>
     <message>
         <source>Open Raster Files</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Open Raster fitxategiak</translation>
     </message>
     <message>
         <source>unexpected null &lt;%1&gt; node</source>
@@ -23076,21 +23173,21 @@ Therefore the image may be not correct</source>
     <message>
         <source>element &lt;%1&gt; value must be an integer</source>
         <comment>Load PDF settings</comment>
-        <translation type="unfinished"/>
+        <translation>elementuaren &lt;%1&gt; balioak zenbaki osoa izan behar du</translation>
     </message>
     <message>
         <source>element &lt;%1&gt; value must be a double</source>
         <comment>Load PDF settings</comment>
-        <translation type="unfinished"/>
+        <translation>elementuaren &lt;%1&gt; balioak doitasun bikoitzekoa izan behar du</translation>
     </message>
     <message>
         <source>Pagemaker Importer</source>
-        <translation type="unfinished"/>
+        <translation>Pagemaker inportatzailea</translation>
     </message>
     <message>
         <source>Failed to open document: %1</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin izan da dokumentua ireki: %1</translation>
     </message>
     <message>
         <source>Master page does not exist: &apos;%1&apos;</source>
@@ -23100,36 +23197,36 @@ Therefore the image may be not correct</source>
     <message>
         <source>Page number out of range: %1.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Orrialde-zenbakia barrutitik kanpo: %1.</translation>
     </message>
     <message>
         <source>Failed to apply masterpage &apos;%1&apos; on page: %2</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin da &apos;%1&apos; orri maisua aplikatu %2 orrialdean</translation>
     </message>
     <message>
         <source>Bosnian</source>
-        <translation type="unfinished"/>
+        <translation>Bosniera</translation>
     </message>
     <message>
         <source>Serbian (Latin)</source>
-        <translation type="unfinished"/>
+        <translation>Serbiera (Latina)</translation>
     </message>
     <message>
         <source>Telugu</source>
-        <translation type="unfinished"/>
+        <translation>Telugua</translation>
     </message>
     <message>
         <source>EMF Importer</source>
-        <translation type="unfinished"/>
+        <translation>EMF inportatzailea</translation>
     </message>
     <message>
         <source>SVM Importer</source>
-        <translation type="unfinished"/>
+        <translation>SVM inportatzailea</translation>
     </message>
     <message>
         <source>Qt supported File</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Qt-k onartutako fitxategia</translation>
     </message>
     <message>
         <source>Custom Shapes</source>
@@ -23141,7 +23238,7 @@ Therefore the image may be not correct</source>
     </message>
     <message>
         <source>Encapsulated PostScript</source>
-        <translation type="unfinished"/>
+        <translation>Encapsulated PostScript</translation>
     </message>
     <message>
         <source>PostScript</source>
@@ -23149,68 +23246,68 @@ Therefore the image may be not correct</source>
     </message>
     <message>
         <source>Adobe Photoshop</source>
-        <translation type="unfinished"/>
+        <translation>Adobe Photoshop</translation>
     </message>
     <message>
         <source>Windows Meta File</source>
-        <translation type="unfinished"/>
+        <translation>Windows Meta File</translation>
     </message>
     <message>
         <source>Scalable Vector Graphics</source>
-        <translation type="unfinished"/>
+        <translation>Scalable Vector Graphics</translation>
     </message>
     <message>
         <source>Adobe Illustrator</source>
-        <translation type="unfinished"/>
+        <translation>Adobe Illustrator</translation>
     </message>
     <message>
         <source>Calamus CVG</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Calamus CVG</translation>
     </message>
     <message>
         <source>Word Perfect WPG</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Word Perfect WPG</translation>
     </message>
     <message>
         <source>Open Raster</source>
-        <translation type="unfinished"/>
+        <translation>Open Raster</translation>
     </message>
     <message>
         <source>GraphicsMagick</source>
-        <translation type="unfinished"/>
+        <translation>GraphicsMagick</translation>
     </message>
     <message>
         <source>UniConvertor</source>
-        <translation type="unfinished"/>
+        <translation>UniConvertor</translation>
     </message>
     <message>
         <source>Macintosh Pict</source>
-        <translation type="unfinished"/>
+        <translation>Macintosh Pict</translation>
     </message>
     <message>
         <source>&lt;fontEmbedding&gt; invalid</source>
         <comment>Load PDF settings</comment>
-        <translation type="unfinished"/>
+        <translation>&lt;fontEmbedding&gt; baliogabea</translation>
     </message>
     <message>
         <source>Calamus Vector Graphics Importer</source>
-        <translation type="unfinished"/>
+        <translation>Calamus Vector Graphics inportatzailea</translation>
     </message>
     <message>
         <source>Calamus Vector Graphics</source>
-        <translation type="unfinished"/>
+        <translation>Calamus Vector Graphics</translation>
     </message>
     <message>
         <source>WordPerfect Graphics</source>
-        <translation type="unfinished"/>
+        <translation>WordPerfect Graphics</translation>
     </message>
     <message>
         <source>Qt Supported File</source>
-        <translation type="unfinished"/>
+        <translation>Qt-k onartutako fitxategia</translation>
     </message>
     <message>
         <source>Freehand Importer</source>
-        <translation type="unfinished"/>
+        <translation>Freehand inportatzailea</translation>
     </message>
 </context>
 <context>
@@ -23279,34 +23376,34 @@ Therefore the image may be not correct</source>
     <name>QtIOCompressor</name>
     <message>
         <source>Internal zlib error when compressing: </source>
-        <translation type="unfinished"/>
+        <translation>Barneko zlib errorea konprimatzean:</translation>
     </message>
     <message>
         <source>Error writing to underlying device: </source>
-        <translation type="unfinished"/>
+        <translation>Errorea azpiko gailura idaztean:</translation>
     </message>
     <message>
         <source>Error opening underlying device: </source>
-        <translation type="unfinished"/>
+        <translation>Errorea azpiko gailua irekitzean:</translation>
     </message>
     <message>
         <source>Error reading data from underlying device: </source>
-        <translation type="unfinished"/>
+        <translation>Errorea azpiko gailuaren datuak irakurtzean:</translation>
     </message>
     <message>
         <source>Internal zlib error when decompressing: </source>
-        <translation type="unfinished"/>
+        <translation>Barneko zlib errorea deskonprimatzean:</translation>
     </message>
 </context>
 <context>
     <name>QtIOCompressor::open</name>
     <message>
         <source>The gzip format not supported in this version of zlib.</source>
-        <translation type="unfinished"/>
+        <translation>Gzip formatua ez da onartzen zlib-en bertsio honetan.</translation>
     </message>
     <message>
         <source>Internal zlib error: </source>
-        <translation type="unfinished"/>
+        <translation>Barneko zlib errorea:</translation>
     </message>
 </context>
 <context>
@@ -23314,28 +23411,31 @@ Therefore the image may be not correct</source>
     <message>
         <source>Name &quot;%1&quot; already exists.
 Do you want to replace the current contents?</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; izena badago lehendik ere.
+Uneko edukiak ordeztu nahi dituzu?</translation>
     </message>
     <message>
         <source>Name &quot;%1&quot; is not unique.
 Please choose another.</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; izena ez da bakarra.
+Hautatu beste bat.</translation>
     </message>
     <message>
         <source>Name &quot;%1&quot; is not allowed.
 Please choose another.</source>
-        <translation type="unfinished"/>
+        <translation>&quot;%1&quot; izena ez da onartzen.
+Hautatu beste bat.</translation>
     </message>
 </context>
 <context>
     <name>ResourceManager</name>
     <message>
         <source>Show In Finder</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi Finder-en</translation>
     </message>
     <message>
         <source>Show In Explorer</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi Explorer-en</translation>
     </message>
     <message>
         <source>Fonts</source>
@@ -23343,11 +23443,11 @@ Please choose another.</source>
     </message>
     <message>
         <source>Hyphenation Dictionaries</source>
-        <translation type="unfinished"/>
+        <translation>Hitz-zatiketarako hiztegiak</translation>
     </message>
     <message>
         <source>Spelling Dictionaries</source>
-        <translation type="unfinished"/>
+        <translation>Ortografia egiaztatzeko hiztegiak</translation>
     </message>
     <message>
         <source>Description</source>
@@ -23382,11 +23482,11 @@ Please choose another.</source>
     <name>ResourceManagerBase</name>
     <message>
         <source>Resource Manager</source>
-        <translation type="unfinished"/>
+        <translation>Baliabide-kudeatzailea</translation>
     </message>
     <message>
         <source>Category:</source>
-        <translation type="unfinished"/>
+        <translation>Kategoria:</translation>
     </message>
     <message>
         <source>Installed</source>
@@ -23398,7 +23498,7 @@ Please choose another.</source>
     </message>
     <message>
         <source>ID</source>
-        <translation type="unfinished"/>
+        <translation>IDa</translation>
     </message>
     <message>
         <source>Location</source>
@@ -23406,7 +23506,7 @@ Please choose another.</source>
     </message>
     <message>
         <source>Show in Filesystem</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi fitxategi-sisteman</translation>
     </message>
     <message>
         <source>Delete Selected</source>
@@ -23414,7 +23514,7 @@ Please choose another.</source>
     </message>
     <message>
         <source>Available</source>
-        <translation type="unfinished"/>
+        <translation>Erabilgarri</translation>
     </message>
     <message>
         <source>Download</source>
@@ -23422,7 +23522,7 @@ Please choose another.</source>
     </message>
     <message>
         <source>Update Available List</source>
-        <translation type="unfinished"/>
+        <translation>Eguneratu erabilgarrien zerrenda</translation>
     </message>
 </context>
 <context>
@@ -23437,7 +23537,7 @@ Please choose another.</source>
     </message>
     <message>
         <source>+90</source>
-        <translation type="unfinished"/>
+        <translation>+90</translation>
     </message>
 </context>
 <context>
@@ -23451,54 +23551,54 @@ Please choose another.</source>
     <name>RulerMover</name>
     <message>
         <source>Reset Rulers</source>
-        <translation type="unfinished"/>
+        <translation>Berrezarri erregelak</translation>
     </message>
     <message>
         <source>Move on current Page</source>
-        <translation type="unfinished"/>
+        <translation>Mugitu uneko orrialdean</translation>
     </message>
     <message>
         <source>Origin at Top Left</source>
-        <translation type="unfinished"/>
+        <translation>Jatorria goi ezkerrera</translation>
     </message>
     <message>
         <source>Origin at Top Right</source>
-        <translation type="unfinished"/>
+        <translation>Jatorria goi eskuinera</translation>
     </message>
     <message>
         <source>Origin at Bottom Left</source>
-        <translation type="unfinished"/>
+        <translation>Jatorria behe ezkerrera</translation>
     </message>
     <message>
         <source>Origin at Bottom Right</source>
-        <translation type="unfinished"/>
+        <translation>Jatorria behe eskuinera</translation>
     </message>
     <message>
         <source>Origin at Center</source>
-        <translation type="unfinished"/>
+        <translation>Jatorria erdira</translation>
     </message>
     <message>
         <source>Origin at Top Center</source>
-        <translation type="unfinished"/>
+        <translation>Jatorria goi erdira</translation>
     </message>
     <message>
         <source>Origin at Bottom Center</source>
-        <translation type="unfinished"/>
+        <translation>Jatorria behe erdira</translation>
     </message>
 </context>
 <context>
     <name>RunScriptDialog</name>
     <message>
         <source>Python Scripts (*.py *.PY);; All Files (*)</source>
-        <translation type="unfinished"/>
+        <translation>Python script-ak (*.py *.PY);; Fitxategi guztiak (*)</translation>
     </message>
     <message>
         <source>Run as Extension Script</source>
-        <translation type="unfinished"/>
+        <translation>Exekutatu luzapen-script gisa</translation>
     </message>
     <message>
         <source>Run Script</source>
-        <translation type="unfinished"/>
+        <translation>Exekutatu script-a</translation>
     </message>
 </context>
 <context>
@@ -23509,27 +23609,27 @@ Please choose another.</source>
     </message>
     <message>
         <source>Legal</source>
-        <translation type="unfinished"/>
+        <translation>Legala</translation>
     </message>
     <message>
         <source>Letter</source>
-        <translation type="unfinished"/>
+        <translation>Gutuna</translation>
     </message>
     <message>
         <source>Tabloid</source>
-        <translation type="unfinished"/>
+        <translation>Tabloidea</translation>
     </message>
     <message>
         <source>landscape</source>
-        <translation type="unfinished"/>
+        <translation>horizontala</translation>
     </message>
     <message>
         <source>portrait</source>
-        <translation type="unfinished"/>
+        <translation>bertikala</translation>
     </message>
     <message>
         <source>custom</source>
-        <translation type="unfinished"/>
+        <translation>pertsonalizatua</translation>
     </message>
 </context>
 <context>
@@ -23544,27 +23644,27 @@ Please choose another.</source>
     </message>
     <message>
         <source>Name of the document template</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentu-txantiloiaren izena</translation>
     </message>
     <message>
         <source>Show more details to describe the document template</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi xehetasun gehiago dokumentu-txantiloia deskribatzeko</translation>
     </message>
     <message>
         <source>&amp;More Details</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Xehetasun gehiago</translation>
     </message>
     <message>
         <source>Category:</source>
-        <translation type="unfinished"/>
+        <translation>Kategoria:</translation>
     </message>
     <message>
         <source>Category of the document template</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentu-txantiloiaren kategoria</translation>
     </message>
     <message>
         <source>Page Size:</source>
-        <translation type="unfinished"/>
+        <translation>Orrialde-tamaina:</translation>
     </message>
     <message>
         <source>Page size of the document template</source>
@@ -23572,11 +23672,11 @@ Please choose another.</source>
     </message>
     <message>
         <source>Colors:</source>
-        <translation type="unfinished"/>
+        <translation>Koloreak:</translation>
     </message>
     <message>
         <source>Description of the color format of the document, or some hints regarding colors used</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentuaren kolore-formatuaren deskribapena, edo zenbait zantzu erabilitako koloreen inguruan</translation>
     </message>
     <message>
         <source>Description:</source>
@@ -23584,15 +23684,15 @@ Please choose another.</source>
     </message>
     <message>
         <source>Description of the document template</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentu-txantiloiaren deskribapena</translation>
     </message>
     <message>
         <source>Usage:</source>
-        <translation type="unfinished"/>
+        <translation>Erabilera:</translation>
     </message>
     <message>
         <source>Planned usage of the document template</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentu-txantiloia zertarako erabiliko den</translation>
     </message>
     <message>
         <source>Author:</source>
@@ -23600,15 +23700,15 @@ Please choose another.</source>
     </message>
     <message>
         <source>Author of the document template</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentu-txantiloiaren egilea</translation>
     </message>
     <message>
         <source>Email:</source>
-        <translation type="unfinished"/>
+        <translation>Posta:</translation>
     </message>
     <message>
         <source>Email address of the author of the document template</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentu-txantiloiaren egilearen posta elektronikoa</translation>
     </message>
 </context>
 <context>
@@ -23620,14 +23720,14 @@ Please choose another.</source>
     </message>
     <message>
         <source>Use parent style&apos;s alignment instead of overriding it</source>
-        <translation type="unfinished"/>
+        <translation>Erabili estilo gurasoaren lerrokatzea hura gainidatzi ordez</translation>
     </message>
 </context>
 <context>
     <name>SMCStyleWidget</name>
     <message>
         <source>Tracking</source>
-        <translation type="unfinished"/>
+        <translation>Jarraipena</translation>
     </message>
     <message>
         <source>Language</source>
@@ -23635,7 +23735,7 @@ Please choose another.</source>
     </message>
     <message>
         <source>Based On:</source>
-        <translation type="unfinished"/>
+        <translation>Honetan oinarrituta:</translation>
     </message>
     <message>
         <source>Language:</source>
@@ -23647,7 +23747,7 @@ Please choose another.</source>
     </message>
     <message>
         <source>Basic Formatting</source>
-        <translation type="unfinished"/>
+        <translation>Oinarrizko formatua</translation>
     </message>
     <message>
         <source> %</source>
@@ -23655,11 +23755,11 @@ Please choose another.</source>
     </message>
     <message>
         <source>Advanced Formatting</source>
-        <translation type="unfinished"/>
+        <translation>Formatu aurreratua</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>TestuEtiketa</translation>
     </message>
     <message>
         <source>Colors</source>
@@ -23667,11 +23767,11 @@ Please choose another.</source>
     </message>
     <message>
         <source>Parent Style</source>
-        <translation type="unfinished"/>
+        <translation>Estilo gurasoa</translation>
     </message>
     <message>
         <source>Font Family</source>
-        <translation type="unfinished"/>
+        <translation>Letra-tipoaren familia</translation>
     </message>
     <message>
         <source>Font Size</source>
@@ -23679,15 +23779,15 @@ Please choose another.</source>
     </message>
     <message>
         <source>Baseline Offset</source>
-        <translation type="unfinished"/>
+        <translation>Oinarri-lerroaren desplazamendua</translation>
     </message>
     <message>
         <source>Horizontal Scaling</source>
-        <translation type="unfinished"/>
+        <translation>Eskalatze horizontala</translation>
     </message>
     <message>
         <source>Vertical Scaling</source>
-        <translation type="unfinished"/>
+        <translation>Eskalatze bertikala</translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -23707,11 +23807,11 @@ Please choose another.</source>
     </message>
     <message>
         <source>A default style cannot be assigned a parent style</source>
-        <translation type="unfinished"/>
+        <translation>Estilo lehenetsi bat ezin zaio guraso estilo bati esleitu</translation>
     </message>
     <message>
         <source>Default width for space</source>
-        <translation type="unfinished"/>
+        <translation>Zabalera lehenetsia espaziorako</translation>
     </message>
 </context>
 <context>
@@ -23722,28 +23822,28 @@ Please choose another.</source>
     </message>
     <message>
         <source>Cell Styles</source>
-        <translation type="unfinished"/>
+        <translation>Gelaxka-estiloak</translation>
     </message>
     <message>
         <source>Cell Style</source>
-        <translation type="unfinished"/>
+        <translation>Gelaxka-estiloa</translation>
     </message>
     <message>
         <source>New Style</source>
-        <translation type="unfinished"/>
+        <translation>Estilo berria</translation>
     </message>
     <message>
         <source>Clone of %1</source>
-        <translation type="unfinished"/>
+        <translation>%1(e)n klona</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
         <comment>This for unique name when creating a new character style. %1 will be the name of the style and %2 will be a number forming a style name like: New Style (2)</comment>
-        <translation type="unfinished"/>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>Setting that style as parent would create an infinite loop.</source>
-        <translation type="unfinished"/>
+        <translation>Estilo hori guraso gisa ezartzeak amaigabeko begizta bat sortuko luke.</translation>
     </message>
 </context>
 <context>
@@ -23754,7 +23854,7 @@ Please choose another.</source>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>TestuEtiketa</translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -23762,7 +23862,7 @@ Please choose another.</source>
     </message>
     <message>
         <source>Based On:</source>
-        <translation type="unfinished"/>
+        <translation>Honetan oinarrituta:</translation>
     </message>
     <message>
         <source>Text</source>
@@ -23774,7 +23874,7 @@ Please choose another.</source>
     </message>
     <message>
         <source>A default style cannot be assigned a parent style</source>
-        <translation type="unfinished"/>
+        <translation>Estilo lehenetsi bat ezin zaio guraso estilo bati esleitu</translation>
     </message>
     <message>
         <source>Shade</source>
@@ -23789,42 +23889,42 @@ Please choose another.</source>
     </message>
     <message>
         <source>Character Styles</source>
-        <translation type="unfinished"/>
+        <translation>Karaktere-estiloak</translation>
     </message>
     <message>
         <source>Character Style</source>
-        <translation type="unfinished"/>
+        <translation>Karaktere-estiloa</translation>
     </message>
     <message>
         <source>New Style</source>
-        <translation type="unfinished"/>
+        <translation>Estilo berria</translation>
     </message>
     <message>
         <source>Clone of %1</source>
-        <translation type="unfinished"/>
+        <translation>%1(e)n klona</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
         <comment>This for unique name when creating a new character style. %1 will be the name of the style and %2 will be a number forming a style name like: New Style (2)</comment>
-        <translation type="unfinished"/>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>Setting that style as parent would create an infinite loop.</source>
-        <translation type="unfinished"/>
+        <translation>Estilo hori guraso gisa ezartzak amaigabeko begizta bat sortuko luke.</translation>
     </message>
 </context>
 <context>
     <name>SMColorCombo</name>
     <message>
         <source>Use Parent Value</source>
-        <translation type="unfinished"/>
+        <translation>Erabili balio gurasoa</translation>
     </message>
 </context>
 <context>
     <name>SMFontComboH</name>
     <message>
         <source>Use Parent Font</source>
-        <translation type="unfinished"/>
+        <translation>Erabili letra-tipo gurasoa</translation>
     </message>
 </context>
 <context>
@@ -23835,24 +23935,24 @@ Please choose another.</source>
     </message>
     <message>
         <source>Line Styles</source>
-        <translation type="unfinished"/>
+        <translation>Lerro-estiloak</translation>
     </message>
     <message>
         <source>Line Style</source>
-        <translation type="unfinished"/>
+        <translation>Lerro-estiloa</translation>
     </message>
     <message>
         <source>New Style</source>
-        <translation type="unfinished"/>
+        <translation>Estilo berria</translation>
     </message>
     <message>
         <source>Clone of %1</source>
-        <translation type="unfinished"/>
+        <translation>%1(e)n klona</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
         <comment>This for unique name when creating a new character style. %1 will be the name of the style and %2 will be a number forming a style name like: New Style (2)</comment>
-        <translation type="unfinished"/>
+        <translation>%1 (%2)</translation>
     </message>
 </context>
 <context>
@@ -23883,23 +23983,23 @@ Please choose another.</source>
     </message>
     <message>
         <source>Add a new line</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu lerro berria</translation>
     </message>
     <message>
         <source>Remove a line</source>
-        <translation type="unfinished"/>
+        <translation>Kendu lerro bat</translation>
     </message>
     <message>
         <source>Line style</source>
-        <translation type="unfinished"/>
+        <translation>Lerro-estiloa</translation>
     </message>
     <message>
         <source>Line width</source>
-        <translation type="unfinished"/>
+        <translation>Lerro-zabalera</translation>
     </message>
     <message>
         <source>End style</source>
-        <translation type="unfinished"/>
+        <translation>Amaiera-estiloa</translation>
     </message>
     <message>
         <source>Join style</source>
@@ -23907,11 +24007,11 @@ Please choose another.</source>
     </message>
     <message>
         <source>Line color</source>
-        <translation type="unfinished"/>
+        <translation>Lerro-kolorea</translation>
     </message>
     <message>
         <source>Line shade</source>
-        <translation type="unfinished"/>
+        <translation>Lerro-itzaleztadura</translation>
     </message>
     <message>
         <source>%</source>
@@ -23938,15 +24038,15 @@ Please choose another.</source>
     </message>
     <message>
         <source>Distances and Alignment</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Distantzeak eta lerrokatzea</translation>
     </message>
     <message>
         <source>Drop Caps</source>
-        <translation type="unfinished"/>
+        <translation>Letra kapitalak</translation>
     </message>
     <message>
         <source>Tabulators and Indentation</source>
-        <translation type="unfinished"/>
+        <translation>Tabuladoreak eta koskak</translation>
     </message>
     <message>
         <source>Properties</source>
@@ -23954,15 +24054,15 @@ Please choose another.</source>
     </message>
     <message>
         <source>Character Style</source>
-        <translation type="unfinished"/>
+        <translation>Karaktere-estiloa</translation>
     </message>
     <message>
         <source>&amp;Lines:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Lerroak:</translation>
     </message>
     <message>
         <source>Distance from Text:</source>
-        <translation type="unfinished"/>
+        <translation>Distantzia testutik:</translation>
     </message>
     <message>
         <source>Alignment</source>
@@ -23970,11 +24070,11 @@ Please choose another.</source>
     </message>
     <message>
         <source>Parent Style</source>
-        <translation type="unfinished"/>
+        <translation>Estilo gurasoa</translation>
     </message>
     <message>
         <source>Line Spacing Mode</source>
-        <translation type="unfinished"/>
+        <translation>Lerroen arteko tartearen modua</translation>
     </message>
     <message>
         <source>Line Spacing</source>
@@ -23982,39 +24082,39 @@ Please choose another.</source>
     </message>
     <message>
         <source>Space Above</source>
-        <translation type="unfinished"/>
+        <translation>Espazio gainean</translation>
     </message>
     <message>
         <source>Space Below</source>
-        <translation type="unfinished"/>
+        <translation>Espazioa azpian</translation>
     </message>
     <message>
         <source>Drop Cap Lines</source>
-        <translation type="unfinished"/>
+        <translation>Letra kapitalen lerroak</translation>
     </message>
     <message>
         <source>First Line Indent</source>
-        <translation type="unfinished"/>
+        <translation>Lehen lerroaren koska</translation>
     </message>
     <message>
         <source>Left Indent</source>
-        <translation type="unfinished"/>
+        <translation>Ezkerreko koska</translation>
     </message>
     <message>
         <source>Right Indent</source>
-        <translation type="unfinished"/>
+        <translation>Eskuineko koska</translation>
     </message>
     <message>
         <source>Based On:</source>
-        <translation type="unfinished"/>
+        <translation>Honetan oinarrituta:</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>TestuEtiketa</translation>
     </message>
     <message>
         <source>Ch&amp;aracter Style</source>
-        <translation type="unfinished"/>
+        <translation>K&amp;araktere-estiloa</translation>
     </message>
     <message>
         <source>None</source>
@@ -24027,55 +24127,55 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>Maximum compression of glyphs</source>
-        <translation type="unfinished"/>
+        <translation>Glifoen konpresio maximoa</translation>
     </message>
     <message>
         <source>Maximum extension of glyphs</source>
-        <translation type="unfinished"/>
+        <translation>Glifoen luzera maximoa</translation>
     </message>
     <message>
         <source>Optical Margins</source>
-        <translation type="unfinished"/>
+        <translation>Marjina optikoak</translation>
     </message>
     <message>
         <source>A default style cannot be assigned a parent style</source>
-        <translation type="unfinished"/>
+        <translation>Estilo lehenetsi bat ezin zaio guraso estilo bati esleitu</translation>
     </message>
     <message>
         <source>Use Parent Value</source>
-        <translation type="unfinished"/>
+        <translation>Erabili balio gurasoa</translation>
     </message>
     <message>
         <source>Reset to Default</source>
-        <translation type="unfinished"/>
+        <translation>Berrezarri lehenespenetara</translation>
     </message>
     <message>
         <source>Advanced Settings</source>
-        <translation type="unfinished"/>
+        <translation>Ezarpen aurreratuak</translation>
     </message>
     <message>
         <source>Both Sides</source>
-        <translation type="unfinished"/>
+        <translation>Bi aldeak</translation>
     </message>
     <message>
         <source>Left Only</source>
-        <translation type="unfinished"/>
+        <translation>Ezkerra soilik</translation>
     </message>
     <message>
         <source>Right Only</source>
-        <translation type="unfinished"/>
+        <translation>Eskuina soilik</translation>
     </message>
     <message>
         <source>Orphans and Widows</source>
-        <translation type="unfinished"/>
+        <translation>Umezurtzak eta alargunak</translation>
     </message>
     <message>
         <source>Ensure that first lines of a paragraph won&apos;t end up separated from the rest (known as widow/orphan control)</source>
-        <translation type="unfinished"/>
+        <translation>Ziurtatu paragrafo baten lehen lerroek ez direla paragrafotik bereiziko (alargunen/umezurtzen kontrola)</translation>
     </message>
     <message>
         <source>Don&apos;t separate first</source>
-        <translation type="unfinished"/>
+        <translation>Ez bereizi lehena</translation>
     </message>
     <message>
         <source> lines</source>
@@ -24083,27 +24183,27 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>Don&apos;t separate last</source>
-        <translation type="unfinished"/>
+        <translation>Ez bereizi azkena</translation>
     </message>
     <message>
         <source>Do not split paragraph</source>
-        <translation type="unfinished"/>
+        <translation>Ez zatitu paragrafoa</translation>
     </message>
     <message>
         <source>Keep with next paragraph</source>
-        <translation type="unfinished"/>
+        <translation>Mantendu hurrengo paragrafoarekin</translation>
     </message>
     <message>
         <source>Ensure that last lines of a paragraph won&apos;t end up separated from the rest (known as widow/orphan control)</source>
-        <translation type="unfinished"/>
+        <translation>Ziurtatu paragrafo baten azken lerroak ez direla paragrafotik bereiziko (alargunen/umezurtzen kontrola)</translation>
     </message>
     <message>
         <source>If checked, ensures that the paragraph won&apos;t be split across multiple pages or columns</source>
-        <translation type="unfinished"/>
+        <translation>Markatuta badago, paragrafoa ez da zatituko orrialde edo zutabe anitzetan</translation>
     </message>
     <message>
         <source>If checked, automatically moves the paragraph to the next column or page if the next paragraph isn&apos;t on the same page or column</source>
-        <translation type="unfinished"/>
+        <translation>Markatuta badago, paragrafoa hurrengo zutabera edo orrialdera mugituko du hurrengo paragrafoa orrialde edo zutabe berean ez badago</translation>
     </message>
     <message>
         <source>No Style</source>
@@ -24111,7 +24211,7 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>Lines:</source>
-        <translation type="unfinished"/>
+        <translation>Lerroak:</translation>
     </message>
     <message>
         <source>None</source>
@@ -24135,39 +24235,39 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>Paragraph Effects</source>
-        <translation type="unfinished"/>
+        <translation>Paragrafo-efektuak</translation>
     </message>
     <message>
         <source>Character Style for Effect:</source>
-        <translation type="unfinished"/>
+        <translation>Karaktere-estiloa efekturako:</translation>
     </message>
     <message>
         <source>AutoIndent</source>
-        <translation type="unfinished"/>
+        <translation>KoskaAutomatikoa</translation>
     </message>
     <message>
         <source>Use Parent`s Values</source>
-        <translation type="unfinished"/>
+        <translation>Erabili balio gurasoak</translation>
     </message>
     <message>
         <source>Bullets</source>
-        <translation type="unfinished"/>
+        <translation>Buletak</translation>
     </message>
     <message>
         <source>Bullet Char/String</source>
-        <translation type="unfinished"/>
+        <translation>Buleten karakterea/katea</translation>
     </message>
     <message>
         <source>Char Table</source>
-        <translation type="unfinished"/>
+        <translation>Karaktere-taula</translation>
     </message>
     <message>
         <source>Numeration</source>
-        <translation type="unfinished"/>
+        <translation>Zenbakitzea</translation>
     </message>
     <message>
         <source>Set:</source>
-        <translation type="unfinished"/>
+        <translation>Multzoa:</translation>
     </message>
     <message>
         <source>Level</source>
@@ -24175,15 +24275,15 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>Create New Set:</source>
-        <translation type="unfinished"/>
+        <translation>Sortu multzo berria:</translation>
     </message>
     <message>
         <source>Nums Format</source>
-        <translation type="unfinished"/>
+        <translation>Zenbakien formatua</translation>
     </message>
     <message>
         <source>Start with</source>
-        <translation type="unfinished"/>
+        <translation>Hasi honekin:</translation>
     </message>
     <message>
         <source>Prefix</source>
@@ -24195,15 +24295,15 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>Restart</source>
-        <translation type="unfinished"/>
+        <translation>Berrabiarazi</translation>
     </message>
     <message>
         <source>Restart after other format</source>
-        <translation type="unfinished"/>
+        <translation>Berrabiarazi beste formateatze baten ondoren</translation>
     </message>
     <message>
         <source>Restart after higher level</source>
-        <translation type="unfinished"/>
+        <translation>Berrabiarazi maila altuagoaren ondoren</translation>
     </message>
     <message>
         <source>Enhanced Char Table for inserting customs chars as bullets</source>
@@ -24219,7 +24319,7 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>Numbering Style</source>
-        <translation type="unfinished"/>
+        <translation>Zenbakitze-estiloa</translation>
     </message>
     <message>
         <source>Document</source>
@@ -24243,15 +24343,15 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>Alignment and Distances</source>
-        <translation type="unfinished"/>
+        <translation>Lerrokatzea eta distantziak</translation>
     </message>
     <message>
         <source>Use Parent&apos;s Values</source>
-        <translation type="unfinished"/>
+        <translation>Erabili balio gurasoak</translation>
     </message>
     <message>
         <source>Glyph Extension </source>
-        <translation type="unfinished"/>
+        <translation>Glifoen luzera</translation>
     </message>
     <message>
         <source>Minimum:</source>
@@ -24265,21 +24365,21 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>Choose character style or leave blank for use default paragraph style</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu karaktere-estiloa edo utzi hutsik paragrafo-estilo lehenetsia erabiltzeko</translation>
     </message>
     <message>
         <source>Min. Space Width:</source>
-        <translation type="unfinished"/>
+        <translation>Ezpazio-zabalera min.:</translation>
     </message>
     <message>
         <source>Min:</source>
         <comment>Glyph Extension</comment>
-        <translation type="unfinished"/>
+        <translation>Min:</translation>
     </message>
     <message>
         <source>Max:</source>
         <comment>Glyph Extension</comment>
-        <translation type="unfinished"/>
+        <translation>Max:</translation>
     </message>
     <message>
         <source>None</source>
@@ -24289,45 +24389,45 @@ Expressed as a percentage of the current white space value.</source>
     <message>
         <source>Both Sides</source>
         <comment>Optical Margins</comment>
-        <translation type="unfinished"/>
+        <translation>Bi aldeak</translation>
     </message>
     <message>
         <source>Left Only</source>
         <comment>Optical Margins</comment>
-        <translation type="unfinished"/>
+        <translation>Ezkerra soilik</translation>
     </message>
     <message>
         <source>Right Only</source>
         <comment>Optical Margins</comment>
-        <translation type="unfinished"/>
+        <translation>Eskuina soilik</translation>
     </message>
 </context>
 <context>
     <name>SMParagraphStyle</name>
     <message>
         <source>Paragraph Styles</source>
-        <translation type="unfinished"/>
+        <translation>Paragrafo-estiloak</translation>
     </message>
     <message>
         <source>Paragraph Style</source>
-        <translation type="unfinished"/>
+        <translation>Paragrafo-estiloa</translation>
     </message>
     <message>
         <source>New Style</source>
-        <translation type="unfinished"/>
+        <translation>Estilo berria</translation>
     </message>
     <message>
         <source>Clone of %1</source>
-        <translation type="unfinished"/>
+        <translation>%1(e)n klona</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
         <comment>This for unique name when creating a new character style. %1 will be the name of the style and %2 will be a number forming a style name like: New Style (2)</comment>
-        <translation type="unfinished"/>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>Setting that style as parent would create an infinite loop.</source>
-        <translation type="unfinished"/>
+        <translation>Estilo hori guraso gisa ezartzak amaigabeko begizta bat sortuko luke.</translation>
     </message>
 </context>
 <context>
@@ -24338,11 +24438,11 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>Replace with</source>
-        <translation type="unfinished"/>
+        <translation>Ordeztu honekin:</translation>
     </message>
     <message>
         <source>Delete Styles</source>
-        <translation type="unfinished"/>
+        <translation>Ezabatu estiloak</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -24350,7 +24450,7 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>Ca&amp;ncel</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Utzi</translation>
     </message>
     <message>
         <source>Alt+N</source>
@@ -24368,53 +24468,53 @@ Expressed as a percentage of the current white space value.</source>
     <name>SMScComboBox</name>
     <message>
         <source>Use Parent Value</source>
-        <translation type="unfinished"/>
+        <translation>Erabili balio gurasoa</translation>
     </message>
 </context>
 <context>
     <name>SMShadeButton</name>
     <message>
         <source>Use Parent Value</source>
-        <translation type="unfinished"/>
+        <translation>Erabili balio gurasoa</translation>
     </message>
 </context>
 <context>
     <name>SMStyleImport</name>
     <message>
         <source>Character Styles</source>
-        <translation type="unfinished"/>
+        <translation>Karaktere-estiloak</translation>
     </message>
     <message>
         <source>Paragraph Styles</source>
-        <translation type="unfinished"/>
+        <translation>Paragrafo-estiloak</translation>
     </message>
     <message>
         <source>Line Styles</source>
-        <translation type="unfinished"/>
+        <translation>Lerro-estiloak</translation>
     </message>
     <message>
         <source>Choose Styles</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu estiloak</translation>
     </message>
     <message>
         <source>Available Styles</source>
-        <translation type="unfinished"/>
+        <translation>Estilo erabilgarriak</translation>
     </message>
     <message>
         <source>&amp;Rename Imported Style</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Berrizendatu inportatutako estiloa</translation>
     </message>
     <message>
         <source>R&amp;eplace Existing Style</source>
-        <translation type="unfinished"/>
+        <translation>O&amp;rdeztu lehendik dagoen estiloa</translation>
     </message>
     <message>
         <source>Select or Unselect All</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu edo desautatu dena</translation>
     </message>
     <message>
         <source>In case of a name clash</source>
-        <translation type="unfinished"/>
+        <translation>Izenen gatazka badago</translation>
     </message>
 </context>
 <context>
@@ -24426,7 +24526,7 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>Use parent style&apos;s effects instead of overriding them</source>
-        <translation type="unfinished"/>
+        <translation>Erabili estilo gurasoaren efektuak haiek gainidatzi ordez</translation>
     </message>
 </context>
 <context>
@@ -24437,28 +24537,28 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>Table Styles</source>
-        <translation type="unfinished"/>
+        <translation>Taula-estiloak</translation>
     </message>
     <message>
         <source>Table Style</source>
-        <translation type="unfinished"/>
+        <translation>Taula-estiloa</translation>
     </message>
     <message>
         <source>New Style</source>
-        <translation type="unfinished"/>
+        <translation>Estilo berria</translation>
     </message>
     <message>
         <source>Clone of %1</source>
-        <translation type="unfinished"/>
+        <translation>%1(e)n klona</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
         <comment>This for unique name when creating a new character style. %1 will be the name of the style and %2 will be a number forming a style name like: New Style (2)</comment>
-        <translation type="unfinished"/>
+        <translation>%1 (%2)</translation>
     </message>
     <message>
         <source>Setting that style as parent would create an infinite loop.</source>
-        <translation type="unfinished"/>
+        <translation>Estilo hori guraso gisa ezartzak amaigabeko begizta bat sortuko luke.</translation>
     </message>
 </context>
 <context>
@@ -24469,7 +24569,7 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>TestuEtiketa</translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -24477,7 +24577,7 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>Based On:</source>
-        <translation type="unfinished"/>
+        <translation>Honetan oinarrituta:</translation>
     </message>
     <message>
         <source>Text</source>
@@ -24485,7 +24585,7 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>A default style cannot be assigned a parent style</source>
-        <translation type="unfinished"/>
+        <translation>Estilo lehenetsi bat ezin zaio guraso estilo bati esleitu</translation>
     </message>
     <message>
         <source>Shade</source>
@@ -24500,7 +24600,7 @@ Expressed as a percentage of the current white space value.</source>
     <name>SMTabruler</name>
     <message>
         <source> Parent Tabs </source>
-        <translation type="unfinished"/>
+        <translation>Fitxa gurasoak</translation>
     </message>
 </context>
 <context>
@@ -24590,28 +24690,29 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>Save as &amp;SVG...</source>
-        <translation type="unfinished"/>
+        <translation>Gorde &amp;SVG gisa...</translation>
     </message>
     <message>
         <source>Compress File</source>
-        <translation type="unfinished"/>
+        <translation>Konprimatu fitxategia</translation>
     </message>
     <message>
         <source>Save Images inline</source>
-        <translation type="unfinished"/>
+        <translation>Gorde irudiak txertatuta</translation>
     </message>
     <message>
         <source>Adds all Images on the Page inline to the SVG.
 Caution: this will increase the file size!</source>
-        <translation type="unfinished"/>
+        <translation>Irudi guztiak SVGan txertatuta gordetzen ditu.
+Kontuz: honek fitxategi-tamaina handituko du!</translation>
     </message>
     <message>
         <source>Export Page background</source>
-        <translation type="unfinished"/>
+        <translation>Esportatu orrialdearen atzeko planoa</translation>
     </message>
     <message>
         <source>Adds the Page itself as background to the SVG.</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu orrialdea bera SVGaren atzeko plano gisa.</translation>
     </message>
 </context>
 <context>
@@ -24632,7 +24733,7 @@ beraien bektore-datuak Scribus objektuetan bihurtuz.</translation>
     </message>
     <message>
         <source>The file could not be imported</source>
-        <translation type="unfinished"/>
+        <translation>Fitxategia ezin izan da inportatu</translation>
     </message>
 </context>
 <context>
@@ -24670,51 +24771,51 @@ beraien bektore-datuak Scribus objektuetan bihurtuz.</translation>
     </message>
     <message>
         <source>&amp;Languages:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Hizkuntzak:</translation>
     </message>
     <message>
         <source>&amp;Selected Frames</source>
-        <translation type="unfinished"/>
+        <translation>Hautatutako &amp;markoak</translation>
     </message>
     <message>
         <source>Active &amp;Page</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Orrialde aktiboa</translation>
     </message>
     <message>
         <source>&amp;All Items</source>
-        <translation type="unfinished"/>
+        <translation>Elementu &amp;guztiak</translation>
     </message>
     <message>
         <source>Language Settings</source>
-        <translation type="unfinished"/>
+        <translation>Hizkuntza-ezarpenak</translation>
     </message>
     <message>
         <source>&amp;Use Language from Style Definition</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Erabili estilo-definizioaren hizkuntza</translation>
     </message>
     <message>
         <source>Apply Unbreakable Space To:</source>
-        <translation type="unfinished"/>
+        <translation>Apikatu etenik gabeko zuriunea honi:</translation>
     </message>
     <message>
         <source>Apply Unbreakable Space To:</source>
         <comment>short words plugin</comment>
-        <translation type="unfinished"/>
+        <translation>Aplikatu etenik gabeko zuriunea honi:</translation>
     </message>
     <message>
         <source>&amp;Selected Frames</source>
         <comment>short words plugin</comment>
-        <translation type="unfinished"/>
+        <translation>Hautatutako &amp;markoak</translation>
     </message>
     <message>
         <source>Active &amp;Page</source>
         <comment>short words plugin</comment>
-        <translation type="unfinished"/>
+        <translation>&amp;Orrialde aktiboa</translation>
     </message>
     <message>
         <source>&amp;All Items</source>
         <comment>short words plugin</comment>
-        <translation type="unfinished"/>
+        <translation>Elementu &amp;guztiak</translation>
     </message>
 </context>
 <context>
@@ -24769,7 +24870,7 @@ beraien bektore-datuak Scribus objektuetan bihurtuz.</translation>
     </message>
     <message>
         <source>User configuration exists already. Do you really want to overwrite it?</source>
-        <translation type="unfinished"/>
+        <translation>Erabiltzaile-konfigurazioa badago lehendik. Hura gainidatzi nahi duzu?</translation>
     </message>
 </context>
 <context>
@@ -24827,7 +24928,7 @@ beraien bektore-datuak Scribus objektuetan bihurtuz.</translation>
     </message>
     <message>
         <source>Tooltip:</source>
-        <translation type="unfinished"/>
+        <translation>Argibidea:</translation>
     </message>
     <message>
         <source>Text</source>
@@ -24899,7 +25000,7 @@ beraien bektore-datuak Scribus objektuetan bihurtuz.</translation>
     </message>
     <message>
         <source>Do Not Export Value</source>
-        <translation type="unfinished"/>
+        <translation>Ez esportatu balioa</translation>
     </message>
     <message>
         <source>Visibility:</source>
@@ -24972,7 +25073,7 @@ beraien bektore-datuak Scribus objektuetan bihurtuz.</translation>
     </message>
     <message>
         <source>Outlined</source>
-        <translation>Kanpoko ertza</translation>
+        <translation>Eskema erauzita</translation>
     </message>
     <message>
         <source>Push</source>
@@ -25141,23 +25242,23 @@ beraien bektore-datuak Scribus objektuetan bihurtuz.</translation>
     </message>
     <message>
         <source>Submit format:</source>
-        <translation type="unfinished"/>
+        <translation>Bidaltze-formatua:</translation>
     </message>
     <message>
         <source>FDF</source>
-        <translation type="unfinished"/>
+        <translation>FDF</translation>
     </message>
     <message>
         <source>HTML</source>
-        <translation type="unfinished"/>
+        <translation>HTML</translation>
     </message>
     <message>
         <source>XFDF</source>
-        <translation type="unfinished"/>
+        <translation>XFDF</translation>
     </message>
     <message>
         <source>PDF</source>
-        <translation type="unfinished"/>
+        <translation>PDF</translation>
     </message>
     <message>
         <source>Import Data from:</source>
@@ -25333,11 +25434,11 @@ beraien bektore-datuak Scribus objektuetan bihurtuz.</translation>
     </message>
     <message>
         <source>Images (*.tif *.png *.jpg *.xpm);;%1;;All Files (*)</source>
-        <translation type="unfinished"/>
+        <translation>Irudiak (*.tif *.png *.jpg *.xpm);;%1;;Fitxategi guztiak (*)</translation>
     </message>
     <message>
         <source>Images (*.tif *.png *.jpg *.xpm);;PostScript (*.eps *.epsi);;All Files (*)</source>
-        <translation type="unfinished"/>
+        <translation>Irudiak (*.tif *.png *.jpg *.xpm);;PostScript (*.eps *.epsi);;Fitxategi guztiak (*)</translation>
     </message>
     <message>
         <source>Example:</source>
@@ -25357,71 +25458,71 @@ beraien bektore-datuak Scribus objektuetan bihurtuz.</translation>
     </message>
     <message>
         <source>Radio Button</source>
-        <translation type="unfinished"/>
+        <translation>Aukera-botoia</translation>
     </message>
     <message>
         <source>Named</source>
-        <translation type="unfinished"/>
+        <translation>Izendatua</translation>
     </message>
     <message>
         <source>Action Name</source>
-        <translation type="unfinished"/>
+        <translation>Ekintza-izena</translation>
     </message>
     <message>
         <source>First Page</source>
-        <translation type="unfinished"/>
+        <translation>Lehen orrialdea</translation>
     </message>
     <message>
         <source>Previous Page</source>
-        <translation type="unfinished"/>
+        <translation>Aurreko orrialdea</translation>
     </message>
     <message>
         <source>Next Page</source>
-        <translation type="unfinished"/>
+        <translation>Hurrengo orrialdea</translation>
     </message>
     <message>
         <source>Last Page</source>
-        <translation type="unfinished"/>
+        <translation>Azken orrialdea</translation>
     </message>
     <message>
         <source>Go Back</source>
-        <translation type="unfinished"/>
+        <translation>Atzera</translation>
     </message>
     <message>
         <source>Go Forward</source>
-        <translation type="unfinished"/>
+        <translation>Aurrera</translation>
     </message>
     <message>
         <source>Go Back Doc</source>
-        <translation type="unfinished"/>
+        <translation>Atzeko dokumentura</translation>
     </message>
     <message>
         <source>Go Forward Doc</source>
-        <translation type="unfinished"/>
+        <translation>Aurreko dokumentura</translation>
     </message>
     <message>
         <source>Go To Page</source>
-        <translation type="unfinished"/>
+        <translation>Joan orrialdera</translation>
     </message>
     <message>
         <source>Actual Size</source>
-        <translation type="unfinished"/>
+        <translation>Uneko tamaina</translation>
     </message>
     <message>
         <source>Fit Page</source>
-        <translation type="unfinished"/>
+        <translation>Doitu orrialdera</translation>
     </message>
     <message>
         <source>Fit Width</source>
-        <translation type="unfinished"/>
+        <translation>Doitu zabalerara</translation>
     </message>
     <message>
         <source>Fit Height</source>
-        <translation type="unfinished"/>
+        <translation>Doitu altuerara</translation>
     </message>
     <message>
         <source>Fit Visible</source>
-        <translation type="unfinished"/>
+        <translation>Doitu ikusgaira</translation>
     </message>
     <message>
         <source>Single Page</source>
@@ -25429,31 +25530,31 @@ beraien bektore-datuak Scribus objektuetan bihurtuz.</translation>
     </message>
     <message>
         <source>Two Pages</source>
-        <translation type="unfinished"/>
+        <translation>Bi orrialde</translation>
     </message>
     <message>
         <source>One Column</source>
-        <translation type="unfinished"/>
+        <translation>Zutabe bat</translation>
     </message>
     <message>
         <source>Two Columns</source>
-        <translation type="unfinished"/>
+        <translation>Bi zutabe</translation>
     </message>
     <message>
         <source>Zoom View In</source>
-        <translation type="unfinished"/>
+        <translation>Handiagotu ikuspegia</translation>
     </message>
     <message>
         <source>Zoom View Out</source>
-        <translation type="unfinished"/>
+        <translation>Txikiagotu ikuspegia</translation>
     </message>
     <message>
         <source>Zoom To</source>
-        <translation type="unfinished"/>
+        <translation>Zoom hona:</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"/>
+        <translation>Inprimatu</translation>
     </message>
     <message>
         <source>Close</source>
@@ -25461,11 +25562,11 @@ beraien bektore-datuak Scribus objektuetan bihurtuz.</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"/>
+        <translation>Irten</translation>
     </message>
     <message>
         <source>General Prefs</source>
-        <translation type="unfinished"/>
+        <translation>Hobespen orokorrak</translation>
     </message>
     <message>
         <source>General Info</source>
@@ -25473,293 +25574,293 @@ beraien bektore-datuak Scribus objektuetan bihurtuz.</translation>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation type="unfinished"/>
+        <translation>Orrialde-konfigurazioa</translation>
     </message>
     <message>
         <source>Full Screen</source>
-        <translation type="unfinished"/>
+        <translation>Pantaila osoa</translation>
     </message>
     <message>
         <source>Show/Hide Bookmarks</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi/ezkutatu laster-markak</translation>
     </message>
     <message>
         <source>Show/Hide Thumbnails</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi/ezkutatu miniaturak</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar Editing</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi/ezkutatu edizioaren tresna-barra</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar Commenting</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi/ezkutatu iruzkinen tresna-barra</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar Edit</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi/ezkutatu edizioaren tresna-barra</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar File</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi/ezkutatu fitxategiaren tresna-barra</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar Find</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi/ezkutatu bilaketaren tresna-barra</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar Forms</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi/ezkutatu inprimakien tresna-barra</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar Measuring</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi/ezkutatu neurketen tresna-barra</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar Data</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi/ezkutatu datuen tresna-barra</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar Page Display</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi/ezkutatu orrialde-bistaratzearen tresna-barra</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar Navigation</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi/ezkutatu nabigazioaren tresna-barra</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar Print Production</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi/ezkutatu inprimatze-ekoizpenaren tresna-barra</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar Redaction</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi/ezkutatu idazketaren tresna-barra</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar Basic Tools</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi/ezkutatu oinarrizko tresnen tresna-barra</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar Tasks</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi/ezkutatu atazen tresna-barra</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar Typewriter</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi/ezkutatu idazmakinaren tresna-barra</translation>
     </message>
     <message>
         <source>Show/Hide Articles</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi/ezkutatu artikuluak</translation>
     </message>
     <message>
         <source>Show/Hide File Attachment</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi/ezkutatu fitxategi-eranskina</translation>
     </message>
     <message>
         <source>Show/Hide Annot Manager</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi/ezkutatu oharpen-kudeatzailea</translation>
     </message>
     <message>
         <source>Show/Hide Fields</source>
-        <translation type="unfinished"/>
+        <translation>Eratkusi/ezkutatu eremuak</translation>
     </message>
     <message>
         <source>Show/Hide Optional Content</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi/ezkutatu aukerako edukia</translation>
     </message>
     <message>
         <source>Show/Hide Model Tree</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi/ezkutatu eredu-zuhaitza</translation>
     </message>
     <message>
         <source>Show/Hide Signatures</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi/ezkutatu sinadurak</translation>
     </message>
     <message>
         <source>Courier</source>
-        <translation type="unfinished"/>
+        <translation>Courier</translation>
     </message>
     <message>
         <source>Courier Bold</source>
-        <translation type="unfinished"/>
+        <translation>Courier Bold</translation>
     </message>
     <message>
         <source>Courier Italic</source>
-        <translation type="unfinished"/>
+        <translation>Courier Italic</translation>
     </message>
     <message>
         <source>Courier Bold Italic</source>
-        <translation type="unfinished"/>
+        <translation>Courier Bold Italic</translation>
     </message>
     <message>
         <source>Helvetica</source>
-        <translation type="unfinished"/>
+        <translation>Helvetica</translation>
     </message>
     <message>
         <source>Helvetica Bold</source>
-        <translation type="unfinished"/>
+        <translation>Helvetica Bold</translation>
     </message>
     <message>
         <source>Helvetica Italic</source>
-        <translation type="unfinished"/>
+        <translation>Helvetica Italic</translation>
     </message>
     <message>
         <source>Helvetica Bold Italic</source>
-        <translation type="unfinished"/>
+        <translation>Helvetica Bold Italic</translation>
     </message>
     <message>
         <source>Times</source>
-        <translation type="unfinished"/>
+        <translation>Times</translation>
     </message>
     <message>
         <source>Times Bold</source>
-        <translation type="unfinished"/>
+        <translation>Times Bold</translation>
     </message>
     <message>
         <source>Times Italic</source>
-        <translation type="unfinished"/>
+        <translation>Times Italic</translation>
     </message>
     <message>
         <source>Times Bold Italic</source>
-        <translation type="unfinished"/>
+        <translation>Times Bold Italic</translation>
     </message>
     <message>
         <source>Zapf Dingbats</source>
-        <translation type="unfinished"/>
+        <translation>Zapf Dingbats</translation>
     </message>
     <message>
         <source>Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Symbols</translation>
     </message>
     <message>
         <source>Plain Text</source>
-        <translation type="unfinished"/>
+        <translation>Testu laua</translation>
     </message>
     <message>
         <source>9,999.99</source>
-        <translation type="unfinished"/>
+        <translation>9,999.99</translation>
     </message>
     <message>
         <source>9.999,99</source>
-        <translation type="unfinished"/>
+        <translation>9.999,99</translation>
     </message>
     <message>
         <source>9999.99</source>
-        <translation type="unfinished"/>
+        <translation>9999.99</translation>
     </message>
     <message>
         <source>9999,99</source>
-        <translation type="unfinished"/>
+        <translation>9999,99</translation>
     </message>
     <message>
         <source>m/d</source>
-        <translation type="unfinished"/>
+        <translation>h/e</translation>
     </message>
     <message>
         <source>m/d/yy</source>
-        <translation type="unfinished"/>
+        <translation>h/e/uu</translation>
     </message>
     <message>
         <source>mm/dd/yy</source>
-        <translation type="unfinished"/>
+        <translation>hh/ee/uu</translation>
     </message>
     <message>
         <source>mm/yy</source>
-        <translation type="unfinished"/>
+        <translation>hh/u</translation>
     </message>
     <message>
         <source>d-mmm</source>
-        <translation type="unfinished"/>
+        <translation>e-uuuu</translation>
     </message>
     <message>
         <source>d-mmm-yy</source>
-        <translation type="unfinished"/>
+        <translation>e-hhhh-uu</translation>
     </message>
     <message>
         <source>dd-mmm-yy</source>
-        <translation type="unfinished"/>
+        <translation>ee-hhhh-uu</translation>
     </message>
     <message>
         <source>dd/mm/yy</source>
-        <translation type="unfinished"/>
+        <translation>ee/hh/uu</translation>
     </message>
     <message>
         <source>dd/mm/yyyy</source>
-        <translation type="unfinished"/>
+        <translation>ee/hh/uuuu</translation>
     </message>
     <message>
         <source>dd.mm.yyyy</source>
-        <translation type="unfinished"/>
+        <translation>ee.hh.uuuu</translation>
     </message>
     <message>
         <source>yy-mm-dd</source>
-        <translation type="unfinished"/>
+        <translation>uu-hh-ee</translation>
     </message>
     <message>
         <source>mmm-yy</source>
-        <translation type="unfinished"/>
+        <translation>hhh-uu</translation>
     </message>
     <message>
         <source>mmmm-yy</source>
-        <translation type="unfinished"/>
+        <translation>hhhh-uu</translation>
     </message>
     <message>
         <source>mmm d, yyyy</source>
-        <translation type="unfinished"/>
+        <translation>hhh e, uuuu</translation>
     </message>
     <message>
         <source>mmmm d, yyyy</source>
-        <translation type="unfinished"/>
+        <translation>hhhh e, uuuu</translation>
     </message>
     <message>
         <source>m/d/yy h:MM tt</source>
-        <translation type="unfinished"/>
+        <translation>h/e/uu o:MM tt</translation>
     </message>
     <message>
         <source>m/d/yy HH:MM</source>
-        <translation type="unfinished"/>
+        <translation>h/e/uu OO:MM</translation>
     </message>
     <message>
         <source>yyyy-mm-dd</source>
-        <translation type="unfinished"/>
+        <translation>uuuu-hh-ee</translation>
     </message>
     <message>
         <source>HH:MM</source>
-        <translation type="unfinished"/>
+        <translation>OO:MM</translation>
     </message>
     <message>
         <source>h:MM tt</source>
-        <translation type="unfinished"/>
+        <translation>o:MM tt</translation>
     </message>
     <message>
         <source>HH:MM:ss</source>
-        <translation type="unfinished"/>
+        <translation>OO:MM:ss</translation>
     </message>
     <message>
         <source>h:MM:ss tt</source>
-        <translation type="unfinished"/>
+        <translation>o:MM:ss tt</translation>
     </message>
 </context>
 <context>
     <name>ScGTFileDialog</name>
     <message>
         <source>Select a file to import</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu inportatuko den fitxategia</translation>
     </message>
     <message>
         <source>Append</source>
-        <translation type="unfinished"/>
+        <translation>Erantsi</translation>
     </message>
     <message>
         <source>Show options</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi aukerak</translation>
     </message>
 </context>
 <context>
     <name>ScInputDialog</name>
     <message>
         <source>Input Dialog</source>
-        <translation type="unfinished"/>
+        <translation>Sarrerako elkarrizketa-koadroa</translation>
     </message>
     <message>
         <source>InputDialog</source>
@@ -25782,7 +25883,7 @@ beraien bektore-datuak Scribus objektuetan bihurtuz.</translation>
     </message>
     <message>
         <source>Paste Recent</source>
-        <translation type="unfinished"/>
+        <translation>Itsatsi azkena</translation>
     </message>
     <message>
         <source>&amp;Import</source>
@@ -25814,7 +25915,7 @@ beraien bektore-datuak Scribus objektuetan bihurtuz.</translation>
     </message>
     <message>
         <source>C&amp;onvert To</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Bi&amp;hurtu hona:</translation>
     </message>
     <message>
         <source>Character</source>
@@ -25838,79 +25939,79 @@ beraien bektore-datuak Scribus objektuetan bihurtuz.</translation>
     </message>
     <message>
         <source>Online &amp;Tutorials</source>
-        <translation type="unfinished"/>
+        <translation>Lineako &amp;tutorialak</translation>
     </message>
     <message>
         <source>C&amp;onvert to</source>
-        <translation type="unfinished"/>
+        <translation>Bi&amp;hurtu honetan</translation>
     </message>
     <message>
         <source>Duplicate/Transform</source>
-        <translation type="unfinished"/>
+        <translation>Bikoiztu/eraldatu</translation>
     </message>
     <message>
         <source>Grouping</source>
-        <translation type="unfinished"/>
+        <translation>Elkartzea</translation>
     </message>
     <message>
         <source>Locking</source>
-        <translation type="unfinished"/>
+        <translation>Blokeoa</translation>
     </message>
     <message>
         <source>Send to</source>
-        <translation type="unfinished"/>
+        <translation>Bidali hona</translation>
     </message>
     <message>
         <source>Scrapbook</source>
-        <translation type="unfinished"/>
+        <translation>Berri laburren albuma</translation>
     </message>
     <message>
         <source>Adjust</source>
-        <translation type="unfinished"/>
+        <translation>Doitu</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished"/>
+        <translation>Irudia</translation>
     </message>
     <message>
         <source>Text Frame Links</source>
-        <translation type="unfinished"/>
+        <translation>Testu-markoen estekak</translation>
     </message>
     <message>
         <source>Welding</source>
-        <translation type="unfinished"/>
+        <translation>Soldadura</translation>
     </message>
     <message>
         <source>Marks</source>
-        <translation type="unfinished"/>
+        <translation>Markak</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Zoom-a</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"/>
+        <translation>Aurrebista</translation>
     </message>
     <message>
         <source>Measurement</source>
-        <translation type="unfinished"/>
+        <translation>Neurketa</translation>
     </message>
     <message>
         <source>Text Frames</source>
-        <translation type="unfinished"/>
+        <translation>Testu-markoak</translation>
     </message>
     <message>
         <source>Image Frames</source>
-        <translation type="unfinished"/>
+        <translation>Irudi-markoak</translation>
     </message>
     <message>
         <source>Document</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentua</translation>
     </message>
     <message>
         <source>Grids and Guides</source>
-        <translation type="unfinished"/>
+        <translation>Saretak eta gidak</translation>
     </message>
 </context>
 <context>
@@ -25938,7 +26039,7 @@ beraien bektore-datuak Scribus objektuetan bihurtuz.</translation>
     <name>ScProgressBar</name>
     <message>
         <source>%1 of %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 %2(e)tik</translation>
     </message>
 </context>
 <context>
@@ -25953,16 +26054,17 @@ beraien bektore-datuak Scribus objektuetan bihurtuz.</translation>
     </message>
     <message>
         <source>Scribus 1.2.x File Format Support</source>
-        <translation type="unfinished"/>
+        <translation>Scribus 1.2.x fitxategi-formatuaren euskarria</translation>
     </message>
     <message>
         <source>Allows Scribus to read Scribus 1.2.x formatted files.</source>
-        <translation type="unfinished"/>
+        <translation>Scribus 1.2.x formatuko fitxategiak irakurtzea ahalbidetzen dio Scribus-i.</translation>
     </message>
     <message>
         <source>You have opened a file produced by Scribus 1.2.x.
 If you save it in this version, it will no longer be readable by older Scribus versions.</source>
-        <translation type="unfinished"/>
+        <translation>Scribus 1.2.x. bertsioarekin sortutako fitxategi bat ireki duzu.
+Bertsio honetan gordetzen baduzu, Scribus bertsio zaharrek ezin izango dute irakurri.</translation>
     </message>
     <message>
         <source>Group%1</source>
@@ -25977,15 +26079,15 @@ If you save it in this version, it will no longer be readable by older Scribus v
     </message>
     <message>
         <source>Scribus 1.3.4+ File Format Support</source>
-        <translation type="unfinished"/>
+        <translation>Scribus 1.3.4+ fitxategi-formatuaren euskarria</translation>
     </message>
     <message>
         <source>Allows Scribus to read Scribus 1.3.4 and higher formatted files.</source>
-        <translation type="unfinished"/>
+        <translation>Scribus 1.3.4 formatuko eta formatu berriagoko fitxategiak irakurtzea ahalbidetzen dio Scribus-i.</translation>
     </message>
     <message>
         <source>Scribus 1.3.4+ Document</source>
-        <translation type="unfinished"/>
+        <translation>Scribus 1.3.4+ dokumentua</translation>
     </message>
 </context>
 <context>
@@ -25996,27 +26098,28 @@ If you save it in this version, it will no longer be readable by older Scribus v
     </message>
     <message>
         <source>Scribus 1.3.0-&gt;1.3.3.7 Document</source>
-        <translation type="unfinished"/>
+        <translation>Scribus 1.3.0-&gt;1.3.3.7 dokumentua</translation>
     </message>
     <message>
         <source>Scribus 1.3.x File Format Support</source>
-        <translation type="unfinished"/>
+        <translation>Scribus 1.3.x fitxategi-formatuaren euskarria</translation>
     </message>
     <message>
         <source>Allows Scribus to read Scribus 1.3.0-&gt;1.3.3.x formatted files.</source>
-        <translation type="unfinished"/>
+        <translation>Scribus 1.3.0-&gt;1.3.3.x formatuko fitxategiak irakurtzea ahalbidetzen dio Scribus-i.</translation>
     </message>
     <message>
         <source>You have opened a file produced by Scribus 1.3.3.x.
 If you save it in this version, it will no longer be readable by older Scribus versions.</source>
-        <translation type="unfinished"/>
+        <translation>Scribus 1.3.3.x. bertsioarekin sortutako fitxategi bat ireki duzu.
+Bertsio honetan gordetzen baduzu, Scribus bertsio zaharrek ezin izango dute irakurri.</translation>
     </message>
 </context>
 <context>
     <name>Scribus150Format</name>
     <message>
         <source>Scribus 1.5.0+ Document</source>
-        <translation type="unfinished"/>
+        <translation>Scribus 1.5.0+ dokumentua</translation>
     </message>
     <message>
         <source>Copy #%1 of </source>
@@ -26024,30 +26127,30 @@ If you save it in this version, it will no longer be readable by older Scribus v
     </message>
     <message>
         <source>Scribus 1.5.0+ File Format Support</source>
-        <translation type="unfinished"/>
+        <translation>Scribus 1.5.0+ fitxategi-formatuaren euskarria</translation>
     </message>
     <message>
         <source>Allows Scribus to read Scribus 1.5.0 and higher formatted files.</source>
-        <translation type="unfinished"/>
+        <translation>Scribus 1.5.0 formatuko eta formatu berriagoko fitxategiak irakurtzea ahalbidetzen dio Scribus-i.</translation>
     </message>
 </context>
 <context>
     <name>ScribusCore</name>
     <message>
         <source>Initializing Plugins</source>
-        <translation type="unfinished"/>
+        <translation>Pluginak hasieratzen</translation>
     </message>
     <message>
         <source>Initializing Keyboard Shortcuts</source>
-        <translation type="unfinished"/>
+        <translation>Teklatuaren laster-teklak hasieratzen</translation>
     </message>
     <message>
         <source>Reading Preferences</source>
-        <translation type="unfinished"/>
+        <translation>Hobespenak irakurtzen</translation>
     </message>
     <message>
         <source>Initializing Image Cache</source>
-        <translation type="unfinished"/>
+        <translation>Irudi-cachea hasieratzen</translation>
     </message>
     <message>
         <source>Searching for Fonts</source>
@@ -26055,11 +26158,11 @@ If you save it in this version, it will no longer be readable by older Scribus v
     </message>
     <message>
         <source>There are no fonts found on your system.</source>
-        <translation type="unfinished"/>
+        <translation>Ez da letra-tiporik aurkitu zure sisteman.</translation>
     </message>
     <message>
         <source>Exiting now.</source>
-        <translation type="unfinished"/>
+        <translation>Irteten orain</translation>
     </message>
     <message>
         <source>Fatal Error</source>
@@ -26067,11 +26170,11 @@ If you save it in this version, it will no longer be readable by older Scribus v
     </message>
     <message>
         <source>Font System Initialized</source>
-        <translation type="unfinished"/>
+        <translation>Letra-tipoen sistema hasieratu da</translation>
     </message>
     <message>
         <source>Reading Color Profiles</source>
-        <translation type="unfinished"/>
+        <translation>Kolore-profilak irakurtzen</translation>
     </message>
 </context>
 <context>
@@ -26102,17 +26205,19 @@ If you save it in this version, it will no longer be readable by older Scribus v
     </message>
     <message>
         <source>&amp;Skip locked objects</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Saltatu blokeatutako objektuak</translation>
     </message>
     <message>
         <source>An error occurred while opening ICC profiles, color management is not enabled.</source>
-        <translation type="unfinished"/>
+        <translation>Errorea gertatu da ICC profilak irekitzean, kolore-kudeaketa ez da gaitu.</translation>
     </message>
     <message>
         <source>Number of copies: %1
 Horizontal gap: %2
 Vertical gap: %3</source>
-        <translation type="unfinished"/>
+        <translation>Kopia kopurua: %1
+Tarte horizontala: %2
+Tarte bertikala: %3</translation>
     </message>
     <message>
         <source>Adjusting Colors</source>
@@ -26120,18 +26225,21 @@ Vertical gap: %3</source>
     </message>
     <message>
         <source>remove direct paragraph formatting</source>
-        <translation type="unfinished"/>
+        <translation>kendu paragrafo-formatu zuzena</translation>
     </message>
     <message>
         <source>remove direct char formatting</source>
-        <translation type="unfinished"/>
+        <translation>kendu karaktere-formatu zuzena</translation>
     </message>
     <message>
         <source>Number of copies: %1
 Horizontal shift: %2
 Vertical shift: %3
 Rotation: %4</source>
-        <translation type="unfinished"/>
+        <translation>Kopia kopurua: %1
+Desplazamendu horizontala: %2
+Desplazamendu bertikala: %3
+Biraketa: %4</translation>
     </message>
     <message>
         <source>Group%1</source>
@@ -26140,7 +26248,7 @@ Rotation: %4</source>
     <message>
         <source>Imported </source>
         <comment>Prefix of imported default style</comment>
-        <translation type="unfinished"/>
+        <translation>Inportatua</translation>
     </message>
     <message>
         <source>No Style</source>
@@ -26152,7 +26260,7 @@ Rotation: %4</source>
     </message>
     <message>
         <source>Do you really want to clear the content of all selected frames?</source>
-        <translation type="unfinished"/>
+        <translation>Benetan garbitu nahi duzu hautatutako marko guztien edukia?</translation>
     </message>
 </context>
 <context>
@@ -26199,7 +26307,7 @@ Rotation: %4</source>
     </message>
     <message>
         <source>C&amp;onvert To</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Bi&amp;hurtu hona:</translation>
     </message>
     <message>
         <source>Ready</source>
@@ -26228,7 +26336,8 @@ Rotation: %4</source>
     <message>
         <source>File does not exist on the specified path :
 %1</source>
-        <translation type="unfinished"/>
+        <translation>Fitxategia ez dago adierazitako bidean :
+%1</translation>
     </message>
     <message>
         <source>File %1 is not in an acceptable format</source>
@@ -26248,7 +26357,7 @@ Rotation: %4</source>
     </message>
     <message>
         <source>Filename and Path for Image</source>
-        <translation type="unfinished"/>
+        <translation>Irudiaren fitxategi-izena eta bidea</translation>
     </message>
     <message>
         <source>All Files (*)</source>
@@ -26270,7 +26379,7 @@ Rotation: %4</source>
     </message>
     <message>
         <source>Scribus has detected some errors. Consider using the Preflight Verifier to correct them</source>
-        <translation>Scribus has detected some errors. Consider using the Preflight Verifier to correct them</translation>
+        <translation>Scribus-ek zenbait errore antzeman du. Inprimatze aurreko egiaztatzailea erabil dezakezu haiek zuzentzeko.</translation>
     </message>
     <message>
         <source>Printing...</source>
@@ -26310,16 +26419,17 @@ Rotation: %4</source>
     </message>
     <message>
         <source>&amp;Shade:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">&amp;Itzaldura:</translation>
     </message>
     <message>
         <source>Shade</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Itzaldura</translation>
     </message>
     <message>
         <source>An error occurred while opening monitor profile.
 Former monitor profile will be used.</source>
-        <translation type="unfinished"/>
+        <translation>Errorea gertatu da monitore-profila irekitzean.
+Aurreko monitore-profila erabiliko da.</translation>
     </message>
     <message>
         <source>All</source>
@@ -26328,14 +26438,14 @@ Former monitor profile will be used.</source>
     <message>
         <source>Scribus detected some errors.
 Consider using the Preflight Verifier  to correct them.</source>
-        <translation>Scribus detected some errors.
-Consider using the Preflight Verifier  to correct them.</translation>
+        <translation>Scribus-ek zenbait errore antzeman du.
+Inprimatze aurreko egiaztatzailea erabil dezakezu haiek zuzentzeko.</translation>
     </message>
     <message>
         <source>Detected some errors.
 Consider using the Preflight Verifier to correct them</source>
-        <translation>Detected some errors.
-Consider using the Preflight Verifier to correct them</translation>
+        <translation>Zenbait errore antzeman dira.
+Inprimatze aurreko egiaztatzailea erabil dezakezu haiek zuzentzeko.</translation>
     </message>
     <message>
         <source>-Page%1</source>
@@ -26351,7 +26461,7 @@ Consider using the Preflight Verifier to correct them</translation>
     </message>
     <message>
         <source>Locate your PDF viewer</source>
-        <translation type="unfinished"/>
+        <translation>Bilatu zure PDF ikustailea</translation>
     </message>
     <message>
         <source>&amp;Unlock All</source>
@@ -26379,11 +26489,11 @@ Consider using the Preflight Verifier to correct them</translation>
     </message>
     <message>
         <source>&amp;Character</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Karakterea</translation>
     </message>
     <message>
         <source>&amp;Quote</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Aipua</translation>
     </message>
     <message>
         <source>Liga&amp;ture</source>
@@ -26391,11 +26501,11 @@ Consider using the Preflight Verifier to correct them</translation>
     </message>
     <message>
         <source>Paste Recent</source>
-        <translation type="unfinished"/>
+        <translation>Itsatsi azkena</translation>
     </message>
     <message>
         <source>Documents (*.sla *.sla.gz);;All Files (*)</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentuak (*.sla *.sla.gz);;Fitxategi guztiak (*)</translation>
     </message>
     <message>
         <source>Do you really want to clear all your text?</source>
@@ -26403,11 +26513,11 @@ Consider using the Preflight Verifier to correct them</translation>
     </message>
     <message>
         <source>Scribus </source>
-        <translation type="unfinished"/>
+        <translation>Scribus</translation>
     </message>
     <message>
         <source>Some color profiles used by this document are not installed:</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentu honek erabilitako zenbait kolore-profil ez daude instalatuta:</translation>
     </message>
     <message>
         <source>%1;;All Files (*)</source>
@@ -26415,20 +26525,20 @@ Consider using the Preflight Verifier to correct them</translation>
     </message>
     <message>
         <source>Applying User Shortcuts</source>
-        <translation type="unfinished"/>
+        <translation>Erabiltzailearen laster-teklak aplikatzen</translation>
     </message>
     <message>
         <source>Updating Images</source>
-        <translation type="unfinished"/>
+        <translation>Irudiak eguneratzen</translation>
     </message>
     <message>
         <source>Your document was saved to a temporary file and could not be moved: 
 %1</source>
-        <translation type="unfinished"/>
+        <translation>Zure dokumentua aldi baterako fitxategi batera gorde da eta ezin izan da mugitu: %1</translation>
     </message>
     <message>
         <source>Print engine initialization failed</source>
-        <translation type="unfinished"/>
+        <translation>Inprimatze-gailuaren hasieratzeak huts egin du</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -26444,19 +26554,19 @@ Consider using the Preflight Verifier to correct them</translation>
     </message>
     <message>
         <source>Ghostscript is missing : PostScript Print Preview is not available</source>
-        <translation type="unfinished"/>
+        <translation>Ghostscript falta da : PostScript inprimatze-aurrebista ez dago erabilgarri</translation>
     </message>
     <message>
         <source>Document is already opened</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentua irekita dago</translation>
     </message>
     <message>
         <source>This document is already in use.You&apos;ll be switched into its window now.</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentu hau erabiltzen ari da. Haren leihora eramango zaitugu.</translation>
     </message>
     <message>
         <source>The file may be damaged or may have been produced in a later version of Scribus.</source>
-        <translation type="unfinished"/>
+        <translation>Fitxategia hondatuta egon daiteke edo Scribus-en bertsio berriago batekin sortua izan daiteke.</translation>
     </message>
     <message>
         <source>Editing Symbol: %1</source>
@@ -26472,27 +26582,27 @@ Consider using the Preflight Verifier to correct them</translation>
     </message>
     <message>
         <source>%1 Objects selected, Selection Size = %2 x %3</source>
-        <translation type="unfinished"/>
+        <translation>%1 objektu hautatu da, hautapenaren tamaina = %2 x %3</translation>
     </message>
     <message>
         <source>Initializing Languages</source>
-        <translation type="unfinished"/>
+        <translation>Hizkuntzak hasieratzen</translation>
     </message>
     <message>
         <source>All Supported Formats (%1);;%2All Files (*)</source>
-        <translation type="unfinished"/>
+        <translation>Onartutako formatu guztiak (%1);;%2Fitxategi guztiak (*)</translation>
     </message>
     <message>
         <source>Marks</source>
-        <translation type="unfinished"/>
+        <translation>Markak</translation>
     </message>
     <message>
         <source>Insert new </source>
-        <translation type="unfinished"/>
+        <translation>Txertatu berria</translation>
     </message>
     <message>
         <source>Anchor mark</source>
-        <translation type="unfinished"/>
+        <translation>Aingura-marka</translation>
     </message>
     <message>
         <source>Mark with &lt;%1&gt; variable text</source>
@@ -26508,23 +26618,23 @@ Consider using the Preflight Verifier to correct them</translation>
     </message>
     <message>
         <source>Edit </source>
-        <translation type="unfinished"/>
+        <translation>Editatu</translation>
     </message>
     <message>
         <source>Duplicate/Transform</source>
-        <translation type="unfinished"/>
+        <translation>Bikoiztu/eraldatu</translation>
     </message>
     <message>
         <source>Grouping</source>
-        <translation type="unfinished"/>
+        <translation>Elkartzea</translation>
     </message>
     <message>
         <source>Locking</source>
-        <translation>Blokeatzen</translation>
+        <translation>Blokeoa</translation>
     </message>
     <message>
         <source>Send to</source>
-        <translation>Bidali hona:</translation>
+        <translation>Bidali hona</translation>
     </message>
     <message>
         <source>Scrapbook</source>
@@ -26532,7 +26642,7 @@ Consider using the Preflight Verifier to correct them</translation>
     </message>
     <message>
         <source>Adjust</source>
-        <translation type="unfinished"/>
+        <translation>Doitu</translation>
     </message>
     <message>
         <source>Image</source>
@@ -26540,27 +26650,27 @@ Consider using the Preflight Verifier to correct them</translation>
     </message>
     <message>
         <source>Text Frame Links</source>
-        <translation type="unfinished"/>
+        <translation>Testu-markoen estekak</translation>
     </message>
     <message>
         <source>Path Tools</source>
-        <translation type="unfinished"/>
+        <translation>Bide-tresnak</translation>
     </message>
     <message>
         <source>Welding</source>
-        <translation type="unfinished"/>
+        <translation>Soldadura</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Zoom-a</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"/>
+        <translation>Aurrebista</translation>
     </message>
     <message>
         <source>Measures</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Neurketak</translation>
     </message>
     <message>
         <source>Text Frames</source>
@@ -26572,11 +26682,11 @@ Consider using the Preflight Verifier to correct them</translation>
     </message>
     <message>
         <source>Grids and Guides</source>
-        <translation type="unfinished"/>
+        <translation>Saretak eta gidak</translation>
     </message>
     <message>
         <source>S&amp;paces / Breaks</source>
-        <translation type="unfinished"/>
+        <translation>Z&amp;uriuneak eta etenak</translation>
     </message>
     <message>
         <source> %</source>
@@ -26584,7 +26694,7 @@ Consider using the Preflight Verifier to correct them</translation>
     </message>
     <message>
         <source>X:</source>
-        <translation type="unfinished"/>
+        <translation>X:</translation>
     </message>
     <message>
         <source>Y:</source>
@@ -26592,43 +26702,43 @@ Consider using the Preflight Verifier to correct them</translation>
     </message>
     <message>
         <source>Text Files (*.txt);;All Files (*)</source>
-        <translation type="unfinished"/>
+        <translation>Testu-fitxategiak (*.txt);;Fitxategi guztiak (*)</translation>
     </message>
     <message>
         <source>Editing Inline Item</source>
-        <translation type="unfinished"/>
+        <translation>Lerro arteko elementua editatzen</translation>
     </message>
     <message>
         <source>Current zoom level</source>
-        <translation type="unfinished"/>
+        <translation>Uneko zoom-maila</translation>
     </message>
     <message>
         <source>Zoom to 100%</source>
-        <translation type="unfinished"/>
+        <translation>%100eko zoom-a</translation>
     </message>
     <message>
         <source>Zoom out by the stepping value in Tools preferences</source>
-        <translation type="unfinished"/>
+        <translation>Txikiagotu tresnen-hobespenetan ezarritako urrats-tamainak jarraituz</translation>
     </message>
     <message>
         <source>Zoom in by the stepping value in Tools preferences</source>
-        <translation type="unfinished"/>
+        <translation>Handiagotu tresnen-hobespenetan ezarritako urrats-tamainak jarraituz</translation>
     </message>
     <message>
         <source>Select the current layer</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu uneko geruza</translation>
     </message>
     <message>
         <source>Select the current unit</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu uneko unitatea</translation>
     </message>
     <message>
         <source>C&amp;onvert to</source>
-        <translation type="unfinished"/>
+        <translation>Bi&amp;hurtu honetan</translation>
     </message>
     <message>
         <source>%1 selected</source>
-        <translation type="unfinished"/>
+        <translation>%1 hautatua</translation>
     </message>
     <message>
         <source>C&amp;reate</source>
@@ -26636,7 +26746,7 @@ Consider using the Preflight Verifier to correct them</translation>
     </message>
     <message>
         <source>Measurement</source>
-        <translation type="unfinished"/>
+        <translation>Neurketa</translation>
     </message>
 </context>
 <context>
@@ -26683,7 +26793,7 @@ Consider using the Preflight Verifier to correct them</translation>
     </message>
     <message>
         <source>Use right to left dialog button ordering (eg. Cancel/No/Yes instead of Yes/No/Cancel)</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Erabili eskuinetik ezkerrerako botoi-ordena elkarrizketa-koadroetan (adib. Utzi/Ez/Bai eta ez Bai/Ez/Utzi)</translation>
     </message>
     <message>
         <source>filename</source>
@@ -26707,7 +26817,7 @@ Consider using the Preflight Verifier to correct them</translation>
     </message>
     <message>
         <source>Scribus Version</source>
-        <translation>Scribus bertsioa</translation>
+        <translation>Scribus bertsioa:</translation>
     </message>
     <message>
         <source>Scribus, Open Source Desktop Publishing</source>
@@ -26731,47 +26841,47 @@ Consider using the Preflight Verifier to correct them</translation>
     </message>
     <message>
         <source>Stop the showing of the splashscreen on startup. Writes an empty file called .neversplash in ~/.scribus.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Ez erakutsi harrera-pantaila abioan. .neversplash izeneko fitxategi huts bat idazten du ~/.scribus direktorioan</translation>
     </message>
     <message>
         <source>Download a file from the Scribus website and show the latest available version.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Deskargatu fitxategi bat Scribus-en webgunetik eta erakutsi eskuragarri dagoen azken bertsioa.</translation>
     </message>
     <message>
         <source>Display a console window</source>
-        <translation type="unfinished"/>
+        <translation>Erautsi kontsola-leiho bat</translation>
     </message>
     <message>
         <source>Show location ICC profile information on console while starting</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Erakutsi ICC profilen kokapen-informazioa kontsolan abioan</translation>
     </message>
     <message>
         <source>Invalid argument: %1</source>
-        <translation type="unfinished"/>
+        <translation>Baliogabeko argumentua: %1</translation>
     </message>
     <message>
         <source>Run unit tests and exit</source>
-        <translation type="unfinished"/>
+        <translation>Exekutatu unitate-probak eta irten</translation>
     </message>
     <message>
         <source>Run filename in Python scripter</source>
-        <translation type="unfinished"/>
+        <translation>Exekutatu fitxategi-izena Python Scripter-en</translation>
     </message>
     <message>
         <source>Do not start GUI</source>
-        <translation type="unfinished"/>
+        <translation>Ez abiarazi erabiltzaile-interfazea</translation>
     </message>
     <message>
         <source>Stop showing the splashscreen on startup. Writes an empty file called .neversplash in ~/.scribus</source>
-        <translation type="unfinished"/>
+        <translation>Ez erakutsi harrera-pantaila abioan. .neversplash izeneko fitxategi huts bat idazten du ~/.scribus direktorioan</translation>
     </message>
     <message>
         <source>Show location of ICC profile information on console while starting</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi ICC profilen kokapen-informazioa kontsolan abioan</translation>
     </message>
     <message>
         <source>Download a file from the Scribus website and show the latest available version</source>
-        <translation type="unfinished"/>
+        <translation>Deskargatu fitxategi bat Scribus-en webgunetik eta erakutsi eskuragarri dagoen azken bertsioa.</translation>
     </message>
 </context>
 <context>
@@ -26802,7 +26912,7 @@ Consider using the Preflight Verifier to correct them</translation>
     </message>
     <message>
         <source>Linking Text Frames</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Testu-markoak estekatzen</translation>
     </message>
     <message>
         <source>Cannot Convert In-Use Item</source>
@@ -26823,15 +26933,15 @@ eragiketa saltatu egingo da</translation>
     </message>
     <message>
         <source>CMS is active. Therefore the color display may not match the perception by visually impaired</source>
-        <translation type="unfinished"/>
+        <translation>CMS aktibatuta dago. Hortaz, koloreen bistaratzea beharbada ez dator bat ikusmena gaizki dutenen pertzepzioarekin</translation>
     </message>
     <message>
         <source>Enter Object Size</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Sartu objektu-tamaina</translation>
     </message>
     <message>
         <source>You are trying to link a frame to itself.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Marko bat bere buruarekin estekatzen saiatzen ari zara.</translation>
     </message>
     <message>
         <source>End Edit</source>
@@ -26839,7 +26949,7 @@ eragiketa saltatu egingo da</translation>
     </message>
     <message>
         <source>Click here to leave this special edit mode.</source>
-        <translation type="unfinished"/>
+        <translation>Klik hemen edizio-modu berezi hau uzteko</translation>
     </message>
 </context>
 <context>
@@ -26857,7 +26967,7 @@ eragiketa saltatu egingo da</translation>
     <name>ScriptEditor</name>
     <message>
         <source>Script Editor</source>
-        <translation type="unfinished"/>
+        <translation>Script-editorea</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -26877,19 +26987,19 @@ eragiketa saltatu egingo da</translation>
     </message>
     <message>
         <source>Ctrl+W</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+W</translation>
     </message>
     <message>
         <source>&amp;Exit</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Irten</translation>
     </message>
     <message>
         <source>Ctrl+R</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+R</translation>
     </message>
     <message>
         <source>Run script in &amp;console</source>
-        <translation type="unfinished"/>
+        <translation>Exekutatu script-a &amp;kontsolan</translation>
     </message>
     <message>
         <source>Ctrl+C</source>
@@ -26897,7 +27007,7 @@ eragiketa saltatu egingo da</translation>
     </message>
     <message>
         <source>Python</source>
-        <translation type="unfinished"/>
+        <translation>Python</translation>
     </message>
     <message>
         <source>Ctrl+N</source>
@@ -26905,7 +27015,7 @@ eragiketa saltatu egingo da</translation>
     </message>
     <message>
         <source>QtScript</source>
-        <translation type="unfinished"/>
+        <translation>QtScript</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -26913,19 +27023,19 @@ eragiketa saltatu egingo da</translation>
     </message>
     <message>
         <source>Clear The Console</source>
-        <translation type="unfinished"/>
+        <translation>Garbitu kontsola</translation>
     </message>
     <message>
         <source>Save &amp;As</source>
-        <translation type="unfinished"/>
+        <translation>Gorde &amp;honela</translation>
     </message>
     <message>
         <source>Save the  script</source>
-        <translation type="unfinished"/>
+        <translation>Gorde script-a</translation>
     </message>
     <message>
         <source>Ctrl+A</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+A</translation>
     </message>
     <message>
         <source>&amp;Open</source>
@@ -26933,11 +27043,11 @@ eragiketa saltatu egingo da</translation>
     </message>
     <message>
         <source>Open a script</source>
-        <translation type="unfinished"/>
+        <translation>Ireki script bat</translation>
     </message>
     <message>
         <source>Ctrl+O</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+O</translation>
     </message>
     <message>
         <source>&amp;Save</source>
@@ -26945,11 +27055,11 @@ eragiketa saltatu egingo da</translation>
     </message>
     <message>
         <source>Save the current script</source>
-        <translation type="unfinished"/>
+        <translation>Gordeko uneko script-a</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+S</translation>
     </message>
 </context>
 <context>
@@ -26960,7 +27070,7 @@ eragiketa saltatu egingo da</translation>
     </message>
     <message>
         <source>Scripter</source>
-        <translation>Script motorra</translation>
+        <translation>Scripter</translation>
     </message>
 </context>
 <context>
@@ -26989,7 +27099,7 @@ helbidera bidaliko bazenu.</translation>
     </message>
     <message>
         <source>Setting up the Python plugin failed. Error details were printed to stderr. </source>
-        <translation>Setting up the Python plugin failed. Error details were printed to stderr. </translation>
+        <translation>Python pluginaren konfigurazioak huts egin du. Errorearen xehetasunak stderr-en inprimatu dira.</translation>
     </message>
     <message>
         <source>Documentation for:</source>
@@ -27005,33 +27115,33 @@ helbidera bidaliko bazenu.</translation>
     </message>
     <message>
         <source>Python Scripts (*.py *.PY);;All Files (*)</source>
-        <translation type="unfinished"/>
+        <translation>Python script-ak (*.py *.PY);;Fitxategi guztiak (*)</translation>
     </message>
 </context>
 <context>
     <name>ScripterImpl</name>
     <message>
         <source>Scripter</source>
-        <translation>Script motorra</translation>
+        <translation>Scripter</translation>
     </message>
     <message>
         <source>Please enter a Python command:</source>
-        <translation type="unfinished"/>
+        <translation>Sartu Python komando bat:</translation>
     </message>
     <message>
         <source>Scribus - Scripter Plugin</source>
-        <translation type="unfinished"/>
+        <translation>Scribus - Scripter plugina</translation>
     </message>
     <message>
         <source>If you see this box, Scripter probably works :)</source>
-        <translation type="unfinished"/>
+        <translation>Kutxa hau ikusten baduzu, Scripter ziur asko badabil :)</translation>
     </message>
 </context>
 <context>
     <name>ScripterPrefsGui</name>
     <message>
         <source>Scripter Preferences</source>
-        <translation>Script-hobespenak</translation>
+        <translation>Scripter-en hobespenak</translation>
     </message>
     <message>
         <source>Enable Extension Scripts</source>
@@ -27071,7 +27181,7 @@ helbidera bidaliko bazenu.</translation>
     </message>
     <message>
         <source>Signs:</source>
-        <translation type="unfinished"/>
+        <translation>Ikurrak:</translation>
     </message>
     <message>
         <source>Strings:</source>
@@ -27087,7 +27197,7 @@ helbidera bidaliko bazenu.</translation>
     </message>
     <message>
         <source>Base Texts:</source>
-        <translation type="unfinished"/>
+        <translation>Oinarri-testuak:</translation>
     </message>
 </context>
 <context>
@@ -27120,7 +27230,7 @@ helbidera bidaliko bazenu.</translation>
     <name>SearchReplace</name>
     <message>
         <source>Search/Replace</source>
-        <translation>Bilatu/Ordeztu</translation>
+        <translation>Bilatu eta ordeztu</translation>
     </message>
     <message>
         <source>Search for:</source>
@@ -27224,19 +27334,19 @@ helbidera bidaliko bazenu.</translation>
     </message>
     <message>
         <source>Search for text or formatting in the current text</source>
-        <translation type="unfinished"/>
+        <translation>Bilatu testua edo formatua uneko testuan</translation>
     </message>
     <message>
         <source>Replace the searched for formatting with the replacement values</source>
-        <translation type="unfinished"/>
+        <translation>Ordeztu bilatutako formatua ordezte-balioekin</translation>
     </message>
     <message>
         <source>Replace all found instances</source>
-        <translation type="unfinished"/>
+        <translation>Ordeztu aurkitutako instantzia guztiak</translation>
     </message>
     <message>
         <source>Clear all search and replace options</source>
-        <translation type="unfinished"/>
+        <translation>Garbitu bilatze- eta ordezte-aukera guztiak</translation>
     </message>
     <message>
         <source>Close search and replace</source>
@@ -27308,7 +27418,7 @@ helbidera bidaliko bazenu.</translation>
     </message>
     <message>
         <source>Photoshop Custom Shape (*.csh *.CSH)</source>
-        <translation type="unfinished"/>
+        <translation>Photoshop Custom Shape (*.csh *.CSH)</translation>
     </message>
     <message>
         <source>Custom Shapes</source>
@@ -27316,7 +27426,7 @@ helbidera bidaliko bazenu.</translation>
     </message>
     <message>
         <source>Load Photoshop Custom Shapes</source>
-        <translation>Kargatu Photoshop-en forma pertsonalizatuak</translation>
+        <translation>Kargatu Photoshop Custom Shapes</translation>
     </message>
     <message>
         <source>Close current Tab</source>
@@ -27346,7 +27456,7 @@ helbidera bidaliko bazenu.</translation>
     <name>ShapePlugin</name>
     <message>
         <source>Palette for Photoshop Custom Shapes.</source>
-        <translation type="unfinished"/>
+        <translation>Paleta Photoshop Custom Shapes elementuetarako</translation>
     </message>
 </context>
 <context>
@@ -27388,15 +27498,15 @@ helbidera bidaliko bazenu.</translation>
     <name>ShortcutWidget</name>
     <message>
         <source>&amp;No Key</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Gakorik ez</translation>
     </message>
     <message>
         <source>&amp;User Defined Key</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Erabiltzaileak definitutako gakoa</translation>
     </message>
     <message>
         <source>Set &amp;Key</source>
-        <translation type="unfinished"/>
+        <translation>Ezarri &amp;gakoa</translation>
     </message>
     <message>
         <source>Alt</source>
@@ -27416,31 +27526,31 @@ helbidera bidaliko bazenu.</translation>
     </message>
     <message>
         <source>Meta+</source>
-        <translation type="unfinished"/>
+        <translation>Meta+</translation>
     </message>
     <message>
         <source>Shift+</source>
-        <translation type="unfinished"/>
+        <translation>Shift+</translation>
     </message>
     <message>
         <source>Alt+</source>
-        <translation type="unfinished"/>
+        <translation>Alt+</translation>
     </message>
     <message>
         <source>Ctrl+</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+</translation>
     </message>
     <message>
         <source>No shortcut for the style</source>
-        <translation type="unfinished"/>
+        <translation>Ez dago laster-teklarik estilorako</translation>
     </message>
     <message>
         <source>Style has user defined shortcut</source>
-        <translation type="unfinished"/>
+        <translation>Estiloak erabiltzaileak definitutako laster-tekla du</translation>
     </message>
     <message>
         <source>Assign a shortcut for the style</source>
-        <translation type="unfinished"/>
+        <translation>Esleitu laster-tekla bat estiloari</translation>
     </message>
 </context>
 <context>
@@ -27469,26 +27579,26 @@ helbidera bidaliko bazenu.</translation>
     <name>SmoothPathPlugin</name>
     <message>
         <source>Smooth Path</source>
-        <translation type="unfinished"/>
+        <translation>Leundu bidea</translation>
     </message>
     <message>
         <source>Path Tools</source>
-        <translation type="unfinished"/>
+        <translation>Bide-tresnak</translation>
     </message>
     <message>
         <source>Smoothes a Path</source>
-        <translation type="unfinished"/>
+        <translation>Bide bat leuntzen du</translation>
     </message>
     <message>
         <source>Converts a Polyline made of straight Lines to a smoothed Bezier Curve.</source>
-        <translation type="unfinished"/>
+        <translation>Lerro zuzenekin sortutako polilerro bat Bezier kurba leundu bihurtzen du.</translation>
     </message>
 </context>
 <context>
     <name>SpiralVectorBase</name>
     <message>
         <source>Edit Spiral</source>
-        <translation type="unfinished"/>
+        <translation>Editatu espirala</translation>
     </message>
     <message>
         <source>Start Angle:</source>
@@ -27500,7 +27610,7 @@ helbidera bidaliko bazenu.</translation>
     </message>
     <message>
         <source>Factor:</source>
-        <translation type="unfinished"/>
+        <translation>Faktorea:</translation>
     </message>
     <message>
         <source> %</source>
@@ -27527,7 +27637,7 @@ helbidera bidaliko bazenu.</translation>
     </message>
     <message>
         <source>Factor:</source>
-        <translation type="unfinished"/>
+        <translation>Faktorea:</translation>
     </message>
     <message>
         <source> %</source>
@@ -27546,11 +27656,11 @@ helbidera bidaliko bazenu.</translation>
     </message>
     <message>
         <source>&amp;Sample Text...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Adibideko testua...</translation>
     </message>
     <message>
         <source>&amp;Smart Text Selection</source>
-        <translation type="unfinished"/>
+        <translation>Te&amp;stu-hautapen adimenduna</translation>
     </message>
     <message>
         <source>Current Paragraph:</source>
@@ -27578,7 +27688,7 @@ helbidera bidaliko bazenu.</translation>
     </message>
     <message>
         <source>Text Files (*.txt);;All Files(*)</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Testu-fitxategiak (*.txt);;Fitxategi guztiak (*)</translation>
     </message>
     <message>
         <source>Save as</source>
@@ -27650,7 +27760,7 @@ helbidera bidaliko bazenu.</translation>
     </message>
     <message>
         <source>&amp;Search/Replace...</source>
-        <translation>&amp;Bilatu/Ordeztu...</translation>
+        <translation>&amp;Bilatu eta ordeztu...</translation>
     </message>
     <message>
         <source>&amp;Fonts Preview...</source>
@@ -27702,7 +27812,7 @@ helbidera bidaliko bazenu.</translation>
     </message>
     <message>
         <source>Spaces &amp;&amp; Breaks</source>
-        <translation>Zuriuneak eta jauziak</translation>
+        <translation>Zuriuneak eta etenak</translation>
     </message>
     <message>
         <source>Ligature</source>
@@ -27714,7 +27824,7 @@ helbidera bidaliko bazenu.</translation>
     </message>
     <message>
         <source>Text Files (*.txt);;All Files (*)</source>
-        <translation type="unfinished"/>
+        <translation>Testu-fitxategiak (*.txt);;Fitxategi guztiak (*)</translation>
     </message>
 </context>
 <context>
@@ -27752,7 +27862,7 @@ helbidera bidaliko bazenu.</translation>
     </message>
     <message>
         <source>&lt;&lt; &amp;Done</source>
-        <translation type="unfinished"/>
+        <translation>&lt;&lt; &amp;Egina</translation>
     </message>
     <message>
         <source>&amp;New</source>
@@ -27764,7 +27874,7 @@ helbidera bidaliko bazenu.</translation>
     </message>
     <message>
         <source>&amp;Clone</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Klonatu</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -27828,7 +27938,7 @@ helbidera bidaliko bazenu.</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Izena:</translation>
+        <translation>Izena</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -27836,11 +27946,11 @@ helbidera bidaliko bazenu.</translation>
     </message>
     <message>
         <source>New %1</source>
-        <translation type="unfinished"/>
+        <translation>%1 berria</translation>
     </message>
     <message>
         <source>This key sequence is already in use</source>
-        <translation type="unfinished"/>
+        <translation>Tekla-sekuentzia hau hartuta dago jadanik</translation>
     </message>
     <message>
         <source>Edit styles</source>
@@ -27852,7 +27962,7 @@ helbidera bidaliko bazenu.</translation>
     </message>
     <message>
         <source>More than one style selected</source>
-        <translation type="unfinished"/>
+        <translation>Estilo bat baino gehiago hautatu da</translation>
     </message>
     <message>
         <source>Open</source>
@@ -27860,7 +27970,7 @@ helbidera bidaliko bazenu.</translation>
     </message>
     <message>
         <source>documents (*.sla *.sla.gz *.scd *.scd.gz);;All Files (*)</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentuak (*.sla *.sla.gz *.scd *.scd.gz);;Fitxategi guztiak (*)</translation>
     </message>
     <message>
         <source>Alt+N</source>
@@ -27868,7 +27978,7 @@ helbidera bidaliko bazenu.</translation>
     </message>
     <message>
         <source>Clone copies the style to make similar styles easily.</source>
-        <translation type="unfinished"/>
+        <translation>Klonatzeak estiloa kopiatzen du antzeko estiloak sortzea errazteko</translation>
     </message>
     <message>
         <source>Alt+C</source>
@@ -27884,7 +27994,7 @@ helbidera bidaliko bazenu.</translation>
     </message>
     <message>
         <source>Please select a unique name for the style</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu izen bakarra estilorako</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -27932,7 +28042,7 @@ helbidera bidaliko bazenu.</translation>
     <message>
         <source>Outline. Hold down the button momentarily to change the outline stroke width.</source>
         <comment>Text Style Selector</comment>
-        <translation type="unfinished"/>
+        <translation>Eskema. Mantendu botoia sakatuta eskema-trazuaren zabalera aldatzeko.</translation>
     </message>
     <message>
         <source>Shadowed Text. Hold down the button momentarily to enable the offset spacing.</source>
@@ -27943,23 +28053,23 @@ helbidera bidaliko bazenu.</translation>
     <name>SubdividePlugin</name>
     <message>
         <source>Subdivide Path</source>
-        <translation type="unfinished"/>
+        <translation>Zatitu bidea</translation>
     </message>
     <message>
         <source>Path Tools</source>
-        <translation type="unfinished"/>
+        <translation>Bide-tresnak</translation>
     </message>
     <message>
         <source>Subdivide</source>
-        <translation type="unfinished"/>
+        <translation>Zatitu</translation>
     </message>
     <message>
         <source>Subdivide selected Path</source>
-        <translation type="unfinished"/>
+        <translation>Zatitu hautatutako bidea</translation>
     </message>
     <message>
         <source>Subdivide a path by inserting new Nodes.</source>
-        <translation type="unfinished"/>
+        <translation>Zatitu bidea nodo berriak txertatuta.</translation>
     </message>
 </context>
 <context>
@@ -28001,11 +28111,11 @@ helbidera bidaliko bazenu.</translation>
     </message>
     <message>
         <source>Merge Paragraph Styles</source>
-        <translation>Batu paragrafo-estiloak</translation>
+        <translation>Fusionatu paragrafo-estiloak</translation>
     </message>
     <message>
         <source>Merge paragraph styles by attributes. This will result in fewer similar paragraph styles, will retain style attributes, even if the original document&apos;s styles are named differently.</source>
-        <translation>Merge paragraph styles by attributes. This will result in fewer similar paragraph styles, will retain style attributes, even if the original document&apos;s styles are named differently.</translation>
+        <translation>Fusionatu paragrafo-estiloak atributuen arabera. Horrela, paragrafo-estilo gutxiago izango dira, eta estilo-atributuak mantenduko dira nahiz eta jatorrizko dokumentuen estiloek izen desberdinak izan.</translation>
     </message>
     <message>
         <source>Prepend the document name to the paragraph style name in Scribus.</source>
@@ -28146,7 +28256,7 @@ bertsioko dokumentua inportatzean.</translation>
     </message>
     <message>
         <source>Available Fonts:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Letra-tipo erabilgarriak:</translation>
     </message>
     <message>
         <source>Fonts to embed:</source>
@@ -28278,7 +28388,7 @@ bertsioko dokumentua inportatzean.</translation>
     </message>
     <message>
         <source>E&amp;xtras</source>
-        <translation>&amp;Hainbat</translation>
+        <translation>E&amp;strak</translation>
     </message>
     <message>
         <source>&amp;Use Encryption</source>
@@ -28526,7 +28636,7 @@ bertsioko dokumentua inportatzean.</translation>
     </message>
     <message>
         <source>Convert Spot Colors to Process Colors</source>
-        <translation>Bihurtu kolore laguntzaileak kuatrokomiara</translation>
+        <translation>Bihurtu kolore zuzenak prozesu-koloreetara</translation>
     </message>
     <message>
         <source>Compression &amp;Quality:</source>
@@ -28542,7 +28652,7 @@ bertsioko dokumentua inportatzean.</translation>
     </message>
     <message>
         <source>Enables Spot Colors to be converted to composite colors. Unless you are planning to print spot colors at a commercial printer, this is probably best left enabled.</source>
-        <translation>Enables Spot Colors to be converted to composite colors. Unless you are planning to print spot colors at a commercial printer, this is probably best left enabled.</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <source>Include La&amp;yers</source>
@@ -28699,27 +28809,27 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Printer Marks</source>
-        <translation type="unfinished"/>
+        <translation>Inprimatze-markak</translation>
     </message>
     <message>
         <source>Crop Marks</source>
-        <translation type="unfinished"/>
+        <translation>Mozte-markak</translation>
     </message>
     <message>
         <source>Bleed Marks</source>
-        <translation type="unfinished"/>
+        <translation>Koskatze-markak</translation>
     </message>
     <message>
         <source>Registration Marks</source>
-        <translation type="unfinished"/>
+        <translation>Erregistro-markak</translation>
     </message>
     <message>
         <source>Color Bars</source>
-        <translation type="unfinished"/>
+        <translation>Kolore-barrak</translation>
     </message>
     <message>
         <source>Page Information</source>
-        <translation type="unfinished"/>
+        <translation>Orrialde-informazioa</translation>
     </message>
     <message>
         <source>Offset:</source>
@@ -28727,11 +28837,11 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Bleed Settings</source>
-        <translation type="unfinished"/>
+        <translation>Koskatze-ezarpenak</translation>
     </message>
     <message>
         <source>Top:</source>
-        <translation>Goia:</translation>
+        <translation>Goian:</translation>
     </message>
     <message>
         <source>Bottom:</source>
@@ -28739,19 +28849,19 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Left:</source>
-        <translation>Ezkerra:</translation>
+        <translation>Ezkerrean:</translation>
     </message>
     <message>
         <source>Right:</source>
-        <translation>Eskuina:</translation>
+        <translation>Eskuinean:</translation>
     </message>
     <message>
         <source>Use Document Bleeds</source>
-        <translation type="unfinished"/>
+        <translation>Erabili dokumentu-koskatzeak</translation>
     </message>
     <message>
         <source>Pre-Press</source>
-        <translation type="unfinished"/>
+        <translation>Aurreinprimaketa</translation>
     </message>
     <message>
         <source>Method of compression to use for images. Automatic allows Scribus to choose the best method. ZIP is lossless and good for images with solid colors. JPEG is better at creating smaller PDF files which have many photos (with slight image quality loss possible). Leave it set to Automatic unless you have a need for special compression options.</source>
@@ -28767,27 +28877,27 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Inside:</source>
-        <translation type="unfinished"/>
+        <translation>Barruan:</translation>
     </message>
     <message>
         <source>Outside:</source>
-        <translation type="unfinished"/>
+        <translation>Kanpoan:</translation>
     </message>
     <message>
         <source>&amp;Embed all</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kapsulatu dena</translation>
     </message>
     <message>
         <source>Fonts to outline:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Eskema erauziko zaien letra-tipoak:</translation>
     </message>
     <message>
         <source>&amp;Outline all</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">&amp;Eskema denetatik</translation>
     </message>
     <message>
         <source>Convert all glyphs in the document to outlines.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Bihurtu dokumentuo glifo guztiak eskemetara.</translation>
     </message>
     <message>
         <source>Document Layout</source>
@@ -28795,87 +28905,87 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Maximum Image Resolution:</source>
-        <translation type="unfinished"/>
+        <translation>Irudien bereizmen maximoa:</translation>
     </message>
     <message>
         <source>Show the document in single page mode</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi dokumentua orrialde bakarreko moduan</translation>
     </message>
     <message>
         <source>Show the document in single page mode with the pages displayed continuously end to end like a scroll</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi dokumentua orrialde bakarreko moduan, orrialdeak jarraian erakutsiz amaieraraino korritzean</translation>
     </message>
     <message>
         <source>Show the document with facing pages, starting with the first page displayed on the left</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi dokumentua aurrez aurre dauden orrialdeekin, lehen orrialdea ezkerrean erakutsiz</translation>
     </message>
     <message>
         <source>Show the document with facing pages, starting with the first page displayed on the right</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi dokumentua aurrez aurre dauden orrialdeekin, lehen orrialdea eskuinean erakutsiz</translation>
     </message>
     <message>
         <source>Use the viewer&apos;s defaults or the user&apos;s preferences if set differently from the viewer defaults</source>
-        <translation type="unfinished"/>
+        <translation>Erabili bisorearen balio lehenetsiak edo erabiltzaile-hobespenak bisoraren lehenespenen desberdinak badira</translation>
     </message>
     <message>
         <source>Enables viewing the document in full screen</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentua pantaila osoan ikustea gaitzen du</translation>
     </message>
     <message>
         <source>Display the bookmarks upon opening</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi laster-markak irekitzean</translation>
     </message>
     <message>
         <source>Display the page thumbnails upon opening</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi orrialde-miniaturak irekitzean</translation>
     </message>
     <message>
         <source>Forces the displaying of layers. Useful only for PDF 1.5+.</source>
-        <translation type="unfinished"/>
+        <translation>Behartu geruzak erakustea. PDF 1.5+ bertsioetan soilik erabilgarria.</translation>
     </message>
     <message>
         <source>Hides the Tool Bar which has selection and other editing capabilities</source>
-        <translation type="unfinished"/>
+        <translation>Hautapenak egiteko eta beste edizio-gaitasun batzuetarako ahamena duen tresna-barra ezkutatzen du</translation>
     </message>
     <message>
         <source>Hides the Menu Bar for the viewer, the PDF will display in a plain window. </source>
-        <translation type="unfinished"/>
+        <translation>Bisorearen menu-barra ezkutatzen du, PDFa leiho arrunt batean erakutsiko da.</translation>
     </message>
     <message>
         <source>Fit the document page or pages to the available space in the viewer window.</source>
-        <translation type="unfinished"/>
+        <translation>Doitu dokumentuaren orrialdea edo orrialdeak bisorearen leihoan erabilgarri dagoen espaziora.</translation>
     </message>
     <message>
         <source>Limits the resolution of your bitmap images to the selected DPI. Images with a lower resolution will be left untouched. Leaving this unchecked will render them at their native resolution. Enabling this will increase memory usage and slow down export.</source>
-        <translation type="unfinished"/>
+        <translation>Zure bitmap-irudien bereizmena hautatutako DPIaren funtzioan mugatzen du. Bereizmen txikiagoa duten irudiak ez dira ukituko. Hau markatzen ez bada, irudiak jatorrizko bereizmenarekin errendatuko dira. Hau gaitzeak memoria-erabilera handituko du eta esportazioa motelduko du.</translation>
     </message>
     <message>
         <source>Creates crop marks in the PDF indicating where the paper should be cut or trimmed after printing</source>
-        <translation type="unfinished"/>
+        <translation>Mozte-markak sortzen ditu PDFan, inprimaketaren ondoren papera nondik moztu behar den adierazteko.</translation>
     </message>
     <message>
         <source>This creates bleed marks which are indicated by  _ . _ and show the bleed limit</source>
-        <translation type="unfinished"/>
+        <translation>Honek  _ . _ bidez adierazten diren koskatze-markak sortzen ditu eta koskatze-muga erakusten du</translation>
     </message>
     <message>
         <source>Add registration marks to each separation</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu erregistro-markak banaketa bakoitzari</translation>
     </message>
     <message>
         <source>Add color calibration bars</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu kolore-kalibrazioko barrak</translation>
     </message>
     <message>
         <source>Add document information which includes the document title and page numbers</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu dokumentuaren informazioa, izenburua eta orrialde-zenbakiak barne</translation>
     </message>
     <message>
         <source>Indicate the distance offset for the registration marks</source>
-        <translation type="unfinished"/>
+        <translation>Adierazi erregistro-marken desplazamendu-distantzia</translation>
     </message>
     <message>
         <source>Use the existing bleed settings from the document preferences</source>
-        <translation type="unfinished"/>
+        <translation>Erabili dokumentu-hobespenetako koskatze-ezarpenak</translation>
     </message>
     <message>
         <source>Use Color Profile</source>
@@ -28895,7 +29005,7 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Export PDFs in image frames as embedded PDFs. This does *not* yet take care of colorspaces, so you should know what you are doing before setting this to &apos;true&apos;.</source>
-        <translation type="unfinished"/>
+        <translation>Esportatu irudi-markoetako PDFak kapsulatutako PDF gisa. Honek ez ditu kolore-espazioak kontuan hartzen, beraz zertan ari zaren jakin behar duzu hau onartu baino lehen.</translation>
     </message>
     <message>
         <source>Push</source>
@@ -28903,19 +29013,19 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Cover</source>
-        <translation type="unfinished"/>
+        <translation>Estali</translation>
     </message>
     <message>
         <source>Uncover</source>
-        <translation type="unfinished"/>
+        <translation>Desestali</translation>
     </message>
     <message>
         <source>Fade</source>
-        <translation type="unfinished"/>
+        <translation>Iraungi</translation>
     </message>
     <message>
         <source>Embed PDF &amp;&amp; EPS files (EXPERIMENTAL)</source>
-        <translation type="unfinished"/>
+        <translation>Kapsulatu PDF &amp;&amp; EPS fitxategiak (ESPERIMENTALA)</translation>
     </message>
     <message>
         <source>Rendering Intent:</source>
@@ -28923,7 +29033,7 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Clip to Printer Margins</source>
-        <translation type="unfinished"/>
+        <translation>Moztu inprimatze-marjinetara</translation>
     </message>
     <message>
         <source>Length:</source>
@@ -28931,19 +29041,19 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Indicate the size of crops&apos;marks</source>
-        <translation type="unfinished"/>
+        <translation>Adierazi mozte-marken tamaina</translation>
     </message>
     <message>
         <source>Image Quality Settings</source>
-        <translation type="unfinished"/>
+        <translation>Irudien kalitate-ezarpenak</translation>
     </message>
     <message>
         <source>Choose an owner password which enables or disables all the security features in your exported PDF</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu jabe-pasahitz bat, esportatu duzun PDFaren segurtasun-ezaugarriak gaitu edo desgaitzeko</translation>
     </message>
     <message>
         <source>Create a range of pages</source>
-        <translation type="unfinished"/>
+        <translation>Sortu orrialdeen barruti bat</translation>
     </message>
     <message>
         <source>TabWidget</source>
@@ -28979,27 +29089,27 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Embed or Subset</source>
-        <translation type="unfinished"/>
+        <translation>Kapsulatu edo azpimultzoa sortu</translation>
     </message>
     <message>
         <source>Outline All Fonts</source>
-        <translation type="unfinished"/>
+        <translation>Letra-tipo guztiak eskema bihurtu</translation>
     </message>
     <message>
         <source>Do Not Embed</source>
-        <translation type="unfinished"/>
+        <translation>Ez kapsulatu</translation>
     </message>
     <message>
         <source>Fonts to subset:</source>
-        <translation type="unfinished"/>
+        <translation>Azpimultzo gisa gordeko diren letra-tipoak:</translation>
     </message>
     <message>
         <source>&amp;Subset all</source>
-        <translation type="unfinished"/>
+        <translation>Guztien a&amp;zpimultzoak</translation>
     </message>
     <message>
         <source>Embed only subset fonts with glyphs used in the document into the PDF.</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentuan erabilitako glifoak dituzten letra-tipoen azpimultzoak soilik kapsulatu PDFan.</translation>
     </message>
 </context>
 <context>
@@ -29063,7 +29173,7 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Delete all Tabulators</source>
-        <translation>Ezabatu tabultatzaile guztiak</translation>
+        <translation>Ezabatu tabulatzaile guztiak</translation>
     </message>
     <message>
         <source>&amp;Position:</source>
@@ -29096,15 +29206,15 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Indentation from the right for the whole paragraph</source>
-        <translation type="unfinished"/>
+        <translation>Paragrafo osorako koska eskuinetik</translation>
     </message>
     <message>
         <source>Fill Character of Tab</source>
-        <translation type="unfinished"/>
+        <translation>Fitxaren betegarri-karakterea</translation>
     </message>
     <message>
         <source>Type/Orientation of Tab</source>
-        <translation type="unfinished"/>
+        <translation>Fitxaren mota/orientazioa</translation>
     </message>
     <message>
         <source>Position of Tab</source>
@@ -29120,7 +29230,7 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Delete selected Tabulator</source>
-        <translation type="unfinished"/>
+        <translation>Ezabatu hautatutako tabulatzailea</translation>
     </message>
 </context>
 <context>
@@ -29134,11 +29244,11 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     <name>TransformDialog</name>
     <message>
         <source>Scaling</source>
-        <translation type="unfinished"/>
+        <translation>Eskalatzea</translation>
     </message>
     <message>
         <source>Translation</source>
-        <translation type="unfinished"/>
+        <translation>Translazioa</translation>
     </message>
     <message>
         <source>Rotation</source>
@@ -29146,7 +29256,7 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Skewing</source>
-        <translation type="unfinished"/>
+        <translation>Okerdura</translation>
     </message>
     <message>
         <source>Scale</source>
@@ -29154,15 +29264,15 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Scale H = %1 % V = %2 %</source>
-        <translation type="unfinished"/>
+        <translation>Eskala H = %1 % V = %2 %</translation>
     </message>
     <message>
         <source>Translate</source>
-        <translation type="unfinished"/>
+        <translation>Tokiz aldatu</translation>
     </message>
     <message>
         <source>Translate H = %1%2 V = %3%4</source>
-        <translation type="unfinished"/>
+        <translation>Tokiz aldatu H = %1%2 V = %3%4</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -29170,22 +29280,22 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Rotate Angle = %1%2</source>
-        <translation type="unfinished"/>
+        <translation>Biratu angelua = %1%2</translation>
     </message>
     <message>
         <source>Skew</source>
-        <translation type="unfinished"/>
+        <translation>Okertu</translation>
     </message>
     <message>
         <source>Skew H = %1%2 V = %3%4</source>
-        <translation type="unfinished"/>
+        <translation>Okertu H = %1%2 V = %3%4</translation>
     </message>
 </context>
 <context>
     <name>TransformDialogBase</name>
     <message>
         <source>Transform</source>
-        <translation type="unfinished"/>
+        <translation>Eraldatu</translation>
     </message>
     <message>
         <source>Add</source>
@@ -29197,7 +29307,7 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Scaling</source>
-        <translation type="unfinished"/>
+        <translation>Eskalatzea</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -29213,7 +29323,7 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Translation</source>
-        <translation type="unfinished"/>
+        <translation>Translazioa</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -29225,11 +29335,11 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Skew</source>
-        <translation type="unfinished"/>
+        <translation>Okertu</translation>
     </message>
     <message>
         <source>Basepoint</source>
-        <translation type="unfinished"/>
+        <translation>Oinarri-puntua</translation>
     </message>
     <message>
         <source>Copies</source>
@@ -29240,15 +29350,15 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     <name>UnZip</name>
     <message>
         <source>ZIP operation completed successfully.</source>
-        <translation type="unfinished"/>
+        <translation>ZIP eragiketa ongi burutu da.</translation>
     </message>
     <message>
         <source>Failed to initialize or load zlib library.</source>
-        <translation type="unfinished"/>
+        <translation>Ezin izan da zlib liburutegia hasieratu edo kargatu.</translation>
     </message>
     <message>
         <source>zlib library error.</source>
-        <translation type="unfinished"/>
+        <translation>zlib liburutegiaren errorea.</translation>
     </message>
     <message>
         <source>Unable to create or open file.</source>
@@ -29256,11 +29366,11 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Partially corrupted archive. Some files might be extracted.</source>
-        <translation type="unfinished"/>
+        <translation>Partzialki hondatutako fitxategia. Zenbait fitxategi erauz daitezke.</translation>
     </message>
     <message>
         <source>Corrupted archive.</source>
-        <translation type="unfinished"/>
+        <translation>Fitxategi hondatua.</translation>
     </message>
     <message>
         <source>Wrong password.</source>
@@ -29300,7 +29410,7 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Inconsistent headers. Archive might be corrupted.</source>
-        <translation type="unfinished"/>
+        <translation>Koherentziarik gabeko goiburuak. Fitxategia hondatuta egon daiteke.</translation>
     </message>
     <message>
         <source>Unknown error.</source>
@@ -29633,7 +29743,7 @@ to %2</source>
     </message>
     <message>
         <source>Import Uniconvertor image</source>
-        <translation type="unfinished"/>
+        <translation>Inportatu Uniconvertor irudia</translation>
     </message>
     <message>
         <source>Import EPS image</source>
@@ -29733,7 +29843,7 @@ to %2</source>
     </message>
     <message>
         <source>Raize layer</source>
-        <translation type="unfinished"/>
+        <translation>Goratu geruza</translation>
     </message>
     <message>
         <source>Lower layer</source>
@@ -29805,12 +29915,12 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Apply text style</source>
-        <translation type="unfinished"/>
+        <translation>Aplikatu testu-estiloa</translation>
     </message>
     <message>
         <source>&amp;Undo: %1</source>
         <comment>f.e. Undo: Move</comment>
-        <translation type="unfinished"/>
+        <translation>&amp;Desegin: %1</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
@@ -29819,7 +29929,7 @@ X: %4, Y: %5</translation>
     <message>
         <source>&amp;Redo: %1</source>
         <comment>f.e. Redo: Move</comment>
-        <translation type="unfinished"/>
+        <translation>&amp;Berregin: %1</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
@@ -29827,35 +29937,35 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>No object frame</source>
-        <translation type="unfinished"/>
+        <translation>Ez dago objektu-markorik</translation>
     </message>
     <message>
         <source>Reset control point</source>
-        <translation type="unfinished"/>
+        <translation>Berrezarri kontrol-puntua</translation>
     </message>
     <message>
         <source>Reset control points</source>
-        <translation type="unfinished"/>
+        <translation>Berrezarri kontrol-puntuak</translation>
     </message>
     <message>
         <source>Apply image effects</source>
-        <translation type="unfinished"/>
+        <translation>Aplikatu irudi-efektuak</translation>
     </message>
     <message>
         <source>Insert frame</source>
-        <translation type="unfinished"/>
+        <translation>Txertatu markoa</translation>
     </message>
     <message>
         <source>Adjust frame to the image size</source>
-        <translation type="unfinished"/>
+        <translation>Doitu markoa irudiaren tamainara</translation>
     </message>
     <message>
         <source>Set start and end arrows</source>
-        <translation type="unfinished"/>
+        <translation>Ezarri hasierako eta amaierako geziak</translation>
     </message>
     <message>
         <source>Remove all guides</source>
-        <translation type="unfinished"/>
+        <translation>Kendu gida guztiak</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -29867,59 +29977,59 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Remove vertical auto guide</source>
-        <translation type="unfinished"/>
+        <translation>Kendu gida automatiko bertikala</translation>
     </message>
     <message>
         <source>Remove horizontal auto guide</source>
-        <translation type="unfinished"/>
+        <translation>Kendu gida automatiko horizontala</translation>
     </message>
     <message>
         <source>Text flows around image clipping path</source>
-        <translation type="unfinished"/>
+        <translation>Testua irudia mozten duen bidearen inguruan</translation>
     </message>
     <message>
         <source>Remove page guides</source>
-        <translation type="unfinished"/>
+        <translation>Kendu orrialde-gidak</translation>
     </message>
     <message>
         <source>Convert to outlines</source>
-        <translation type="unfinished"/>
+        <translation>Bihurtu eskemetara</translation>
     </message>
     <message>
         <source>Change formula</source>
-        <translation type="unfinished"/>
+        <translation>Aldatu formula</translation>
     </message>
     <message>
         <source>Import AI drawing</source>
-        <translation type="unfinished"/>
+        <translation>Inportatu AI marrazkia</translation>
     </message>
     <message>
         <source>Import XFig drawing</source>
-        <translation type="unfinished"/>
+        <translation>Inportatu XFig marrazkia</translation>
     </message>
     <message>
         <source>Render frame</source>
-        <translation type="unfinished"/>
+        <translation>Errendatu markoa</translation>
     </message>
     <message>
         <source>Import Barcode</source>
-        <translation type="unfinished"/>
+        <translation>Inportatu barra-kodea</translation>
     </message>
     <message>
         <source>Duplicate layer %1</source>
-        <translation type="unfinished"/>
+        <translation>Bikoiztu %1 geruza</translation>
     </message>
     <message>
         <source>More than 20 items involved</source>
-        <translation type="unfinished"/>
+        <translation>20 elementu baino gehiago</translation>
     </message>
     <message>
         <source>Import WMF drawing</source>
-        <translation type="unfinished"/>
+        <translation>Inportatu WMF marrazkia</translation>
     </message>
     <message>
         <source>Change shape type</source>
-        <translation type="unfinished"/>
+        <translation>Aldatu forma mota</translation>
     </message>
     <message>
         <source>Change page properties</source>
@@ -29927,15 +30037,15 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Enable text flow around for lower layers</source>
-        <translation type="unfinished"/>
+        <translation>Gaitu inguruko testu-fluxua azpiragoko geruzetan</translation>
     </message>
     <message>
         <source>Disable text flow around for lower layers</source>
-        <translation type="unfinished"/>
+        <translation>Desgaitu inguruko testu-fluxua azpiragoko geruzetan</translation>
     </message>
     <message>
         <source>Set layer blend mode</source>
-        <translation type="unfinished"/>
+        <translation>Ezarri geruzaren nahaste modua</translation>
     </message>
     <message>
         <source>Set layer opacity</source>
@@ -29951,11 +30061,11 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Link text frame</source>
-        <translation type="unfinished"/>
+        <translation>Estekatu testu-markoa</translation>
     </message>
     <message>
         <source>Unlink text frame</source>
-        <translation type="unfinished"/>
+        <translation>Desestekatu testu-markoa</translation>
     </message>
     <message>
         <source>Move page</source>
@@ -29963,27 +30073,27 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Clear image frame content</source>
-        <translation type="unfinished"/>
+        <translation>Garbitu irudi-markoaren edukia</translation>
     </message>
     <message>
         <source>Path Operation</source>
-        <translation type="unfinished"/>
+        <translation>Bide-eragiketa</translation>
     </message>
     <message>
         <source>Connect path</source>
-        <translation type="unfinished"/>
+        <translation>Konektatu bidea</translation>
     </message>
     <message>
         <source>Change overprint</source>
-        <translation type="unfinished"/>
+        <translation>Aldatu gaininprimatzea</translation>
     </message>
     <message>
         <source>Change blend mode</source>
-        <translation type="unfinished"/>
+        <translation>Aldatu nahaste modua</translation>
     </message>
     <message>
         <source>Change action PDF</source>
-        <translation type="unfinished"/>
+        <translation>Aldatu ekintza PDFa</translation>
     </message>
     <message>
         <source>Add master page</source>
@@ -30003,67 +30113,67 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Combine Polygons</source>
-        <translation type="unfinished"/>
+        <translation>Konbinatu poligonoak</translation>
     </message>
     <message>
         <source>Split Polygons</source>
-        <translation type="unfinished"/>
+        <translation>Zatitu poligonoak</translation>
     </message>
     <message>
         <source>Level up</source>
-        <translation type="unfinished"/>
+        <translation>Maila gora</translation>
     </message>
     <message>
         <source>Level down</source>
-        <translation type="unfinished"/>
+        <translation>Maila behera</translation>
     </message>
     <message>
         <source>Send to front</source>
-        <translation type="unfinished"/>
+        <translation>Bidali aurrera</translation>
     </message>
     <message>
         <source>Send to bottom</source>
-        <translation type="unfinished"/>
+        <translation>Bidali atzera</translation>
     </message>
     <message>
         <source>Change image resolution</source>
-        <translation type="unfinished"/>
+        <translation>Aldatu irudiaren bereizmena</translation>
     </message>
     <message>
         <source>Set mask gradient type</source>
-        <translation type="unfinished"/>
+        <translation>Ezarri maskara-gradientearen mota</translation>
     </message>
     <message>
         <source>Change round corner</source>
-        <translation type="unfinished"/>
+        <translation>Aldatu izkina biribildua</translation>
     </message>
     <message>
         <source>Set start arrow scale</source>
-        <translation type="unfinished"/>
+        <translation>Ezarri hasierako geziaren eskala</translation>
     </message>
     <message>
         <source>Set end arrow scale</source>
-        <translation type="unfinished"/>
+        <translation>Ezarri amaierako geziaren eskala</translation>
     </message>
     <message>
         <source>Change fill gradient type</source>
-        <translation type="unfinished"/>
+        <translation>Aldatu betegarriaren gradiente mota</translation>
     </message>
     <message>
         <source>Change fill gradient values</source>
-        <translation type="unfinished"/>
+        <translation>Aldatu betegarriaren gradientearen balioak</translation>
     </message>
     <message>
         <source>Change stroke gradient values</source>
-        <translation type="unfinished"/>
+        <translation>Aldatu trazuaren gradiente-balioak</translation>
     </message>
     <message>
         <source>Change gradient color</source>
-        <translation type="unfinished"/>
+        <translation>Aldatu gradientearen kolorea</translation>
     </message>
     <message>
         <source>Change stroke gradient type</source>
-        <translation type="unfinished"/>
+        <translation>Aldatu trazuaren gradiente mota</translation>
     </message>
     <message>
         <source>Layer</source>
@@ -30083,27 +30193,27 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Change columns</source>
-        <translation type="unfinished"/>
+        <translation>Aldatu zutabeak</translation>
     </message>
     <message>
         <source>Change columns gap</source>
-        <translation type="unfinished"/>
+        <translation>Aldatu zutabeen tartea</translation>
     </message>
     <message>
         <source>Change text to frame distance</source>
-        <translation type="unfinished"/>
+        <translation>Aldatu testutik markora dagoen distantzia</translation>
     </message>
     <message>
         <source>Show image</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi irudia</translation>
     </message>
     <message>
         <source>Create mesh gradient</source>
-        <translation type="unfinished"/>
+        <translation>Sortu sare-gradientea</translation>
     </message>
     <message>
         <source>Change mesh gradient</source>
-        <translation type="unfinished"/>
+        <translation>Aldatu sare-gradientea</translation>
     </message>
     <message>
         <source>Change Mode</source>
@@ -30115,7 +30225,7 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Change First Line Offset</source>
-        <translation type="unfinished"/>
+        <translation>Aldatu lehen lerroaren desplazamendua</translation>
     </message>
     <message>
         <source>Delete text</source>
@@ -30175,7 +30285,7 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Change gradient position</source>
-        <translation type="unfinished"/>
+        <translation>Aldatu gradientearen posizioa</translation>
     </message>
     <message>
         <source>Duplicate</source>
@@ -30183,11 +30293,11 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Remove mesh patch</source>
-        <translation type="unfinished"/>
+        <translation>Kendu sare-adabakia</translation>
     </message>
     <message>
         <source>Remove text style</source>
-        <translation type="unfinished"/>
+        <translation>Kendu testu-estiloa</translation>
     </message>
     <message>
         <source>Import page</source>
@@ -30195,11 +30305,11 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Change Page Attributes</source>
-        <translation type="unfinished"/>
+        <translation>Aldatu orrialde-atributuak</translation>
     </message>
     <message>
         <source>Transform</source>
-        <translation type="unfinished"/>
+        <translation>Eraldatu</translation>
     </message>
     <message>
         <source>Weld Items</source>
@@ -30215,39 +30325,39 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Drop Shadow</source>
-        <translation type="unfinished"/>
+        <translation>Itzal paraleloa</translation>
     </message>
     <message>
         <source>Drop Shadow Color</source>
-        <translation type="unfinished"/>
+        <translation>Itzal paraleloaren kolorea</translation>
     </message>
     <message>
         <source>Drop Shadow Shade</source>
-        <translation type="unfinished"/>
+        <translation>Itzal paraleloaren itzala</translation>
     </message>
     <message>
         <source>Drop Shadow Blur Radius</source>
-        <translation type="unfinished"/>
+        <translation>Itzal paraleloaren lausotze-erradioa</translation>
     </message>
     <message>
         <source>Drop Shadow X Offset</source>
-        <translation type="unfinished"/>
+        <translation>Itzal paraleloaren X desplazamendua</translation>
     </message>
     <message>
         <source>Drop Shadow Y Offset</source>
-        <translation type="unfinished"/>
+        <translation>Itzal paraleloaren Y desplazamendua</translation>
     </message>
     <message>
         <source>Drop Shadow Opacity</source>
-        <translation type="unfinished"/>
+        <translation>Itzal paraleloaren opakutasuna</translation>
     </message>
     <message>
         <source>Drop Shadow Blend Mode</source>
-        <translation type="unfinished"/>
+        <translation>Itzal paraleloaren nahaste modua</translation>
     </message>
     <message>
         <source>Swap page</source>
-        <translation type="unfinished"/>
+        <translation>Trukatu orrialdea</translation>
     </message>
     <message>
         <source>Unweld Items</source>
@@ -30270,19 +30380,19 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Show the action history for the selected item only. This changes the effect of the undo/redo buttons to act on the object or document.</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi ekintza-historia hautatutako elementurako soilik. Honek desegin/berregin botoien efektua aldatzen du, ojektuari edo dokumentuari lotutakoa izan dadin.</translation>
     </message>
     <message>
         <source>Undo the last action for either the current object or the document</source>
-        <translation type="unfinished"/>
+        <translation>Desegin azken ekintza uneko objekturako edo dokumenturako</translation>
     </message>
     <message>
         <source>Redo the last action for either the current object or the document</source>
-        <translation type="unfinished"/>
+        <translation>Berregin azken ekintza uneko objektuarekiko edo dokumentuarekiko</translation>
     </message>
     <message>
         <source>Show Selected Object Only</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi hautatutako objektua soilik</translation>
     </message>
     <message>
         <source>%1 - %2
@@ -30306,26 +30416,26 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>&amp;Search:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Bilatu:</translation>
     </message>
     <message>
         <source>Enter the search phrase. Then press Enter.</source>
-        <translation type="unfinished"/>
+        <translation>Sartu bilaketarako esaldia. Ondoren sakatu Enter</translation>
     </message>
 </context>
 <context>
     <name>UniconvImportPlugin</name>
     <message>
         <source>Imports Vector Files with UniConvertor</source>
-        <translation type="unfinished"/>
+        <translation>Fitxategi bektorialak inportatzen ditu UniConvertor bidez</translation>
     </message>
     <message>
         <source>Converts many vector formats to SVG and then loads the resulting SVG.</source>
-        <translation type="unfinished"/>
+        <translation>Hainbat formatu bektorial SVG formatura bihurtzen ditu eta ondoren SVGa kargatzen du.</translation>
     </message>
     <message>
         <source>Uniconvertor Import</source>
-        <translation type="unfinished"/>
+        <translation>Uniconvertor inportatzailea</translation>
     </message>
     <message>
         <source>Starting Uniconvertor failed! The executable name in File-&gt;Preferences-&gt;External Tools may be incorrect or the software has been uninstalled since preferences were set. (%1)</source>
@@ -30333,47 +30443,48 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Uniconvertor did not exit correctly: %1</source>
-        <translation type="unfinished"/>
+        <translation>Uniconvertor ez da ongi itxi: %1</translation>
     </message>
     <message>
         <source>Uniconvertor failed to convert the file: %1</source>
-        <translation type="unfinished"/>
+        <translation>Uniconvertor-ek ezin izan du fitxategia bihurtu: %1</translation>
     </message>
     <message>
         <source>The SVG Import plugin could not be found</source>
-        <translation type="unfinished"/>
+        <translation>Ezin izan da aurkitu SVG inportatzeko plugina</translation>
     </message>
 </context>
 <context>
     <name>UpgradeChecker</name>
     <message>
         <source>Timed out when attempting to get update file.</source>
-        <translation type="unfinished"/>
+        <translation>Denboraz kanpo eguneraketa-fitxategia eskuratzen saiatzean</translation>
     </message>
     <message>
         <source>File not found on server</source>
-        <translation type="unfinished"/>
+        <translation>Fitxategia ez da aurkitu zerbitzarian</translation>
     </message>
     <message>
         <source>Could not open version file: %1
 Error:%2 at line: %3, row: %4</source>
-        <translation type="unfinished"/>
+        <translation>Ezin izan da fitxategiaren bertsioa ireki: %1
+%2 errorea %3 lerroan, %4 errenkadan</translation>
     </message>
     <message>
         <source>An error occurred while looking for updates for Scribus, please check your internet connection.</source>
-        <translation type="unfinished"/>
+        <translation>Errorea gertatu da Scribus-en eguneraketak bilatzean, egiaztatu zure Internet konexioa</translation>
     </message>
     <message>
         <source>No updates are available for your version of Scribus %1</source>
-        <translation type="unfinished"/>
+        <translation>Ez dago eguneraketarik eskuragarri zure Scribus %1 bertsiorako</translation>
     </message>
     <message>
         <source>One or more updates for your version of Scribus (%1) are available:</source>
-        <translation type="unfinished"/>
+        <translation>Zure Scribus bertsioaren (%1) eguneraketa bat edo gehiago dago eskuragarri:</translation>
     </message>
     <message>
         <source>Please visit www.scribus.net for details.</source>
-        <translation type="unfinished"/>
+        <translation>Bisitatu www.scribus.net xehetasun gehiagorako.</translation>
     </message>
     <message>
         <source>Finished</source>
@@ -30381,35 +30492,36 @@ Error:%2 at line: %3, row: %4</source>
     </message>
     <message>
         <source>This list may contain development/unstable versions.</source>
-        <translation type="unfinished"/>
+        <translation>Zerrenda honek garapen-bertsioak edo bertsio desegonkorrak izan ditzake.</translation>
     </message>
     <message>
         <source>Error: %1</source>
-        <translation type="unfinished"/>
+        <translation>Errorea: %1</translation>
     </message>
     <message>
         <source>No data on your computer will be sent to an external location</source>
-        <translation type="unfinished"/>
+        <translation>Ez da zure ordenagailuko daturik bidaliko kanpoko leku batera</translation>
     </message>
     <message>
         <source>Attempting to get the Scribus version update file:</source>
-        <translation type="unfinished"/>
+        <translation>Scribus bertsioaren eguneraketa-fitxategia atzitzen:</translation>
     </message>
 </context>
 <context>
     <name>UrlLauncher</name>
     <message>
         <source>Locate your web browser</source>
-        <translation type="unfinished"/>
+        <translation>Bilatu zure web arakatzailea</translation>
     </message>
     <message>
         <source>External Web Browser Failed to Start</source>
-        <translation type="unfinished"/>
+        <translation>Kanpoko web arakatzailearen abioak huts egin du</translation>
     </message>
     <message>
         <source>Scribus was not able to start the external web browser application %1. Please check the setting in Preferences.
 Would you like to start the system&apos;s default browser instead?</source>
-        <translation type="unfinished"/>
+        <translation>Scribus-ek ezin izan du %1 kanpoko web nabigatzailea ireki. Egiaztatu ezarpena &apos;Hobespenak&apos; atalean.
+Sistemaren nabigatzaile lehenetsia ireki nahi duzu?</translation>
     </message>
 </context>
 <context>
@@ -30420,11 +30532,11 @@ Would you like to start the system&apos;s default browser instead?</source>
     </message>
     <message>
         <source>Use Printer Margins</source>
-        <translation type="unfinished"/>
+        <translation>Erabili inprimagailuaren marjinak</translation>
     </message>
     <message>
         <source>Select &amp;Printer:</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu &amp;inprimagailua:</translation>
     </message>
     <message>
         <source>Margins</source>
@@ -30432,7 +30544,7 @@ Would you like to start the system&apos;s default browser instead?</source>
     </message>
     <message>
         <source>Right:</source>
-        <translation>Eskuina:</translation>
+        <translation>Eskuinean:</translation>
     </message>
     <message>
         <source>&amp;Top:</source>
@@ -30467,7 +30579,7 @@ Would you like to start the system&apos;s default browser instead?</source>
     <name>ViewToolBar</name>
     <message>
         <source>View Tools</source>
-        <translation type="unfinished"/>
+        <translation>Bistaratze-tresnak</translation>
     </message>
     <message>
         <source>High</source>
@@ -30483,19 +30595,19 @@ Would you like to start the system&apos;s default browser instead?</source>
     </message>
     <message>
         <source>Select the image preview quality</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu irudien aurrebisten kalitatea</translation>
     </message>
     <message>
         <source>Select the visual appearance of the display. You can choose between normal and several color blindness forms</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu bistaratzearen itxura. Itxura normalaren eta hainbat kolore-itsutasunen artean aukera dezakezu.</translation>
     </message>
     <message>
         <source>Select image preview quality</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu irudien aurrebisten kalitatea</translation>
     </message>
     <message>
         <source>Select display visual appearance</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu bistaratzearen itxura</translation>
     </message>
 </context>
 <context>
@@ -30528,31 +30640,35 @@ Would you like to start the system&apos;s default browser instead?</source>
 
 Please submit your file (if possible) to the
 Document Liberation Project http://www.documentliberation.org</source>
-        <translation type="unfinished"/>
+        <translation>Analisiak huts egin du!
+
+Mesedez bidali zure fitxategia (posible bada)
+Document Liberation Project-era http://www.documentliberation.org</translation>
     </message>
 </context>
 <context>
     <name>WMFImportPlugin</name>
     <message>
         <source>Import &amp;WMF...</source>
-        <translation type="unfinished"/>
+        <translation>Inportatu &amp;WMF...</translation>
     </message>
     <message>
         <source>Imports WMF Files</source>
-        <translation type="unfinished"/>
+        <translation>WMF fitxategiak inportatzen ditu</translation>
     </message>
     <message>
         <source>Imports most WMF files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>WMF fitxategi gehienak uneko dokumentura inportatzen ditu,
+haien datu bektorialak Scribus objektu bihurtuz.</translation>
     </message>
     <message>
         <source>The file could not be imported</source>
-        <translation type="unfinished"/>
+        <translation>Fitxategia ezin izan da inportatu</translation>
     </message>
     <message>
         <source>WMF file contains some unsupported features</source>
-        <translation type="unfinished"/>
+        <translation>WMF fitxategiak onartzen ez diren zenbait ezaugarri ditu</translation>
     </message>
 </context>
 <context>
@@ -30570,15 +30686,15 @@ converting their vector data into Scribus objects.</source>
     <name>XPSExportPlugin</name>
     <message>
         <source>Save as XPS...</source>
-        <translation type="unfinished"/>
+        <translation>Gorde XPS gisa...</translation>
     </message>
     <message>
         <source>Exports XPS Files</source>
-        <translation type="unfinished"/>
+        <translation>Esportatu XPS fitxategiak</translation>
     </message>
     <message>
         <source>Exports the current document into an XPS file.</source>
-        <translation type="unfinished"/>
+        <translation>Uneko dokumentua XPS fitxategi batera esportatzen du.</translation>
     </message>
 </context>
 <context>
@@ -30619,19 +30735,19 @@ converting their vector data into Scribus objects.</source>
     <name>XpsImportOptions</name>
     <message>
         <source>XPS Import</source>
-        <translation type="unfinished"/>
+        <translation>XPS inportazioa</translation>
     </message>
     <message>
         <source>Importing File:</source>
-        <translation type="unfinished"/>
+        <translation>Fitxategia inportatzen:</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>TestuEtiketa</translation>
     </message>
     <message>
         <source>Page Range</source>
-        <translation type="unfinished"/>
+        <translation>Orrialde-barrutia</translation>
     </message>
     <message>
         <source>All Pages</source>
@@ -30643,7 +30759,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Choose Pages</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu orrialdeak</translation>
     </message>
 </context>
 <context>
@@ -30665,15 +30781,15 @@ converting their vector data into Scribus objects.</source>
     <name>XtgDialog</name>
     <message>
         <source>Quark XPress Tags Importer Options</source>
-        <translation type="unfinished"/>
+        <translation>Quark XPress Tags inportatzailearen aukerak</translation>
     </message>
     <message>
         <source>Use document name as a prefix for Styles</source>
-        <translation type="unfinished"/>
+        <translation>Erabili dokumentuaren izena estiloen aurrizki gisa</translation>
     </message>
     <message>
         <source>Prepend the document name to the Style name in Scribus.</source>
-        <translation type="unfinished"/>
+        <translation>Erantsi aurretik dokumentu-izena estilo-izenari Scribus-en</translation>
     </message>
     <message>
         <source>Do not ask again</source>
@@ -30681,7 +30797,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Make these settings the default and do not prompt again when importing an XPress Tags document.</source>
-        <translation type="unfinished"/>
+        <translation>Ezarpen hauek ezarpen lehenetsi bihurtu eta ez eskatu berriro XPress Tags dokumentu bat inportatzean.</translation>
     </message>
     <message>
         <source>OK</source>
@@ -30696,15 +30812,15 @@ converting their vector data into Scribus objects.</source>
     <name>Zip</name>
     <message>
         <source>ZIP operation completed successfully.</source>
-        <translation type="unfinished"/>
+        <translation>ZIP eragiketa ongi burutu da.</translation>
     </message>
     <message>
         <source>Failed to initialize or load zlib library.</source>
-        <translation type="unfinished"/>
+        <translation>Ezin izan da zlib liburutegia hasieratu edo kargatu.</translation>
     </message>
     <message>
         <source>zlib library error.</source>
-        <translation type="unfinished"/>
+        <translation>zlib liburutegiaren errorea.</translation>
     </message>
     <message>
         <source>Unable to create or open file.</source>
@@ -30755,7 +30871,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Radial</source>
-        <translation type="unfinished"/>
+        <translation>Erradiala</translation>
     </message>
     <message>
         <source>Move Vector</source>
@@ -30763,7 +30879,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Pattern follows Path</source>
-        <translation type="unfinished"/>
+        <translation>Ereduak bidea jarraitzen du</translation>
     </message>
     <message>
         <source>Properties...</source>
@@ -30771,7 +30887,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>4 Colors</source>
-        <translation type="unfinished"/>
+        <translation>4 kolore</translation>
     </message>
     <message>
         <source>Diamond</source>
@@ -30779,7 +30895,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Mesh</source>
-        <translation type="unfinished"/>
+        <translation>Sarea</translation>
     </message>
     <message>
         <source>Color</source>
@@ -30791,7 +30907,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Transparency</source>
-        <translation type="unfinished"/>
+        <translation>Gardentasuna</translation>
     </message>
     <message>
         <source>Color:</source>
@@ -30799,19 +30915,19 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Transparency:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Gardentasuna:</translation>
     </message>
     <message>
         <source>Edit Colors</source>
-        <translation type="unfinished"/>
+        <translation>Editatu koloreak</translation>
     </message>
     <message>
         <source>Display only used colors</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi erabilitako koloreak soilik</translation>
     </message>
     <message>
         <source>Overprinting</source>
-        <translation type="unfinished"/>
+        <translation>Gaininprimatzen</translation>
     </message>
     <message>
         <source>Knockout</source>
@@ -30819,15 +30935,15 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Overprint</source>
-        <translation type="unfinished"/>
+        <translation>Gaininprimatzea</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"/>
+        <translation>Betegarria</translation>
     </message>
     <message>
         <source>Fill Mode</source>
-        <translation type="unfinished"/>
+        <translation>Betegarri modua</translation>
     </message>
     <message>
         <source>%</source>
@@ -30835,23 +30951,23 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Stroke</source>
-        <translation type="unfinished"/>
+        <translation>Trazua</translation>
     </message>
     <message>
         <source>Stroke Mode</source>
-        <translation type="unfinished"/>
+        <translation>Trazu modua</translation>
     </message>
     <message>
         <source>Conical</source>
-        <translation type="unfinished"/>
+        <translation>Konikoa</translation>
     </message>
     <message>
         <source>Patch Mesh</source>
-        <translation type="unfinished"/>
+        <translation>Jarri adabakia sareari</translation>
     </message>
     <message>
         <source>Distance:</source>
-        <translation type="unfinished"/>
+        <translation>Distantzia:</translation>
     </message>
     <message>
         <source>Angle:</source>
@@ -30863,15 +30979,15 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Single</source>
-        <translation type="unfinished"/>
+        <translation>Bakarra</translation>
     </message>
     <message>
         <source>Double</source>
-        <translation type="unfinished"/>
+        <translation>Bikoitza</translation>
     </message>
     <message>
         <source>Triple</source>
-        <translation type="unfinished"/>
+        <translation>Hirukoitza</translation>
     </message>
     <message>
         <source>Line Color:</source>
@@ -30883,7 +30999,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Extend:</source>
-        <translation type="unfinished"/>
+        <translation>Hedatu:</translation>
     </message>
     <message>
         <source>None</source>
@@ -30902,7 +31018,7 @@ converting their vector data into Scribus objects.</source>
     <name>gradientAddEditDialog</name>
     <message>
         <source>Edit Gradient</source>
-        <translation type="unfinished"/>
+        <translation>Editatu gradientea</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -30914,12 +31030,14 @@ converting their vector data into Scribus objects.</source>
     <message>
         <source>You cannot create a gradient without a name
 Please give it a name</source>
-        <translation type="unfinished"/>
+        <translation>Ezin duzu izenik gabeko gradienterik sortu.
+Eman izen bat</translation>
     </message>
     <message>
         <source>The name of the gradient already exists,
 please choose another one.</source>
-        <translation type="unfinished"/>
+        <translation>Gradientearen izena badago lehendik,
+hautatu beste izen bat.</translation>
     </message>
 </context>
 <context>
@@ -30942,15 +31060,15 @@ please choose another one.</source>
     </message>
     <message>
         <source>&amp;Importer:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Inportatzailea</translation>
     </message>
     <message>
         <source>Import &amp;Text Only</source>
-        <translation type="unfinished"/>
+        <translation>Inportatu &amp;testua soilik</translation>
     </message>
     <message>
         <source>&amp;Encoding:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kodeketa:</translation>
     </message>
 </context>
 <context>
@@ -30977,11 +31095,11 @@ galdetu berriro inportatzailea hautatzeko fitxategi-mota honentzako.</translatio
     </message>
     <message>
         <source>Fit to Window</source>
-        <translation type="unfinished"/>
+        <translation>Doitu leihora</translation>
     </message>
     <message>
         <source>Custom Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Zoom pertsonalizatua</translation>
     </message>
     <message>
         <source>%</source>
@@ -30989,7 +31107,7 @@ galdetu berriro inportatzailea hautatzeko fitxategi-mota honentzako.</translatio
     </message>
     <message>
         <source>Original Size</source>
-        <translation type="unfinished"/>
+        <translation>Jatorrizko tamaina</translation>
     </message>
     <message>
         <source>Close</source>
@@ -30997,11 +31115,11 @@ galdetu berriro inportatzailea hautatzeko fitxategi-mota honentzako.</translatio
     </message>
     <message>
         <source>Current zoom level</source>
-        <translation type="unfinished"/>
+        <translation>Uneko zoom-maila</translation>
     </message>
     <message>
         <source>Set zoom to 100%</source>
-        <translation type="unfinished"/>
+        <translation>Ezarri tamaina %100era</translation>
     </message>
 </context>
 <context>
@@ -31016,7 +31134,7 @@ galdetu berriro inportatzailea hautatzeko fitxategi-mota honentzako.</translatio
     </message>
     <message>
         <source>Name</source>
-        <translation>Izena:</translation>
+        <translation>Izena</translation>
     </message>
     <message>
         <source>Page Size</source>
@@ -31110,7 +31228,7 @@ http://www.scribus.net</translation>
     </message>
     <message>
         <source>&amp;Preview</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Aurrebista</translation>
     </message>
 </context>
 <context>
@@ -31129,7 +31247,7 @@ http://www.scribus.net</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Izena:</translation>
+        <translation>Izena</translation>
     </message>
     <message>
         <source>Page Size</source>
@@ -31215,7 +31333,7 @@ erabiltzaile guztientzat.</translation>
     </message>
     <message>
         <source>&amp;Preview</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Aurrebista</translation>
     </message>
     <message>
         <source>&amp;Help</source>
@@ -31226,22 +31344,22 @@ erabiltzaile guztientzat.</translation>
     <name>replaceColorDialog</name>
     <message>
         <source>Replace Color</source>
-        <translation type="unfinished"/>
+        <translation>Ordeztu kolorea</translation>
     </message>
     <message>
         <source>Replace:</source>
-        <translation type="unfinished"/>
+        <translation>Ordeztu:</translation>
     </message>
     <message>
         <source>with:</source>
-        <translation type="unfinished"/>
+        <translation>honekin:</translation>
     </message>
 </context>
 <context>
     <name>replaceColorsDialog</name>
     <message>
         <source>Original</source>
-        <translation type="unfinished"/>
+        <translation>Jatorrizkoa</translation>
     </message>
     <message>
         <source>Replacement</source>
@@ -31249,11 +31367,11 @@ erabiltzaile guztientzat.</translation>
     </message>
     <message>
         <source>Replace Colors</source>
-        <translation type="unfinished"/>
+        <translation>Ordeztu kolorea</translation>
     </message>
     <message>
         <source>Add ...</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu...</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -31268,15 +31386,15 @@ erabiltzaile guztientzat.</translation>
     <name>selectDialog</name>
     <message>
         <source>Text Frame</source>
-        <translation type="unfinished"/>
+        <translation>Testu-markoa</translation>
     </message>
     <message>
         <source>Image Frame</source>
-        <translation type="unfinished"/>
+        <translation>Irudi-markoa</translation>
     </message>
     <message>
         <source>Shape</source>
-        <translation type="unfinished"/>
+        <translation>Forma</translation>
     </message>
     <message>
         <source>Polyline</source>
@@ -31308,7 +31426,7 @@ erabiltzaile guztientzat.</translation>
     </message>
     <message>
         <source>Printable</source>
-        <translation type="unfinished"/>
+        <translation>Inprimagarria</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -31320,79 +31438,79 @@ erabiltzaile guztientzat.</translation>
     </message>
     <message>
         <source>Locked</source>
-        <translation type="unfinished"/>
+        <translation>Blokeatuta</translation>
     </message>
     <message>
         <source>Select all items on the current page</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu uneko orrialdeko elementu guztiak</translation>
     </message>
     <message>
         <source>Select all items on the current layer on all pages</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu uneko geruzako orrialde guztietako elementu guztiak</translation>
     </message>
     <message>
         <source>Select all items not on a page</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu orrialde batean ez dauden elementu guztiak</translation>
     </message>
     <message>
         <source>Narrow the selection of items based on various item properties</source>
-        <translation type="unfinished"/>
+        <translation>Mugatu elementuen hautapena elementuen hainbat propietatetan oinarrituta</translation>
     </message>
     <message>
         <source>With the Following Attributes</source>
-        <translation type="unfinished"/>
+        <translation>Honako atributuekin</translation>
     </message>
     <message>
         <source>Select based on item type</source>
-        <translation type="unfinished"/>
+        <translation>Elementu motan oinarritutako hautapena</translation>
     </message>
     <message>
         <source>Item Type</source>
-        <translation type="unfinished"/>
+        <translation>Elementu mota</translation>
     </message>
     <message>
         <source>Select based on the color that the item is filled with</source>
-        <translation type="unfinished"/>
+        <translation>Elementuaren betegarriaren kolorean oinarritutako hautapena</translation>
     </message>
     <message>
         <source>Select based on the color of the line or outline</source>
-        <translation type="unfinished"/>
+        <translation>Lerroaren edo eskemaren kolorean oinarritutako hautapena</translation>
     </message>
     <message>
         <source>Select based on the width of the line of the item</source>
-        <translation type="unfinished"/>
+        <translation>Elementuaren lerroaren zabaleran oinarritutako hautapena</translation>
     </message>
     <message>
         <source>Select items based on whether they will be printed or not</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu elementuak haiek inprimatuak izango diren edo ez kontuan hartuta</translation>
     </message>
     <message>
         <source>Select items based on their locked status</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu elementuak haien blokeo-egoeran oinarrituta</translation>
     </message>
     <message>
         <source>Select items based on whether they have their size locked or not</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu elementuak haien tamaina blokeatuta dagoen ala ez kontuan hartuta</translation>
     </message>
     <message>
         <source>Select All Items</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu elementu guztiak</translation>
     </message>
     <message>
         <source>on Current Page</source>
-        <translation type="unfinished"/>
+        <translation>uneko orrialdean</translation>
     </message>
     <message>
         <source>on Current Layer</source>
-        <translation type="unfinished"/>
+        <translation>uneko geruzan</translation>
     </message>
     <message>
         <source>on the Scratch Space</source>
-        <translation type="unfinished"/>
+        <translation>zirriborro-espazioan</translation>
     </message>
     <message>
         <source>Resizable</source>
-        <translation type="unfinished"/>
+        <translation>Tamaina aldagarria</translation>
     </message>
 </context>
 <context>
@@ -31601,7 +31719,7 @@ erabiltzaile guztientzat.</translation>
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="unfinished"/>
+        <translation>Gradientea</translation>
     </message>
     <message>
         <source>Linear</source>
@@ -31609,7 +31727,7 @@ erabiltzaile guztientzat.</translation>
     </message>
     <message>
         <source>Radial</source>
-        <translation type="unfinished"/>
+        <translation>Erradiala</translation>
     </message>
     <message>
         <source>Move the start of the gradient vector with the left mouse button pressed and move the end of the gradient vector with the right mouse button pressed</source>
@@ -31622,11 +31740,11 @@ botoia sakatuz, eta aldatu gradientearen amaierako bektorea saguaren eskuineko b
     </message>
     <message>
         <source>Use Luminosity as Alpha</source>
-        <translation type="unfinished"/>
+        <translation>Erabili argitasuna alfa gisa</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation type="unfinished"/>
+        <translation>Eredua</translation>
     </message>
     <message>
         <source>Properties...</source>
@@ -31634,22 +31752,22 @@ botoia sakatuz, eta aldatu gradientearen amaierako bektorea saguaren eskuineko b
     </message>
     <message>
         <source>Use inverted Pattern</source>
-        <translation type="unfinished"/>
+        <translation>Erabili eredu alderantzikatua</translation>
     </message>
 </context>
 <context>
     <name>weldEditBase</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Inprimakia</translation>
     </message>
     <message>
         <source>Move weld Point</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Mugitu soldadura-puntua</translation>
     </message>
     <message>
         <source>Move Object</source>
-        <translation type="unfinished"/>
+        <translation>Mugitu objektua</translation>
     </message>
     <message>
         <source>End Edit</source>
@@ -31661,7 +31779,7 @@ botoia sakatuz, eta aldatu gradientearen amaierako bektorea saguaren eskuineko b
     </message>
     <message>
         <source>Move Weld Point</source>
-        <translation type="unfinished"/>
+        <translation>Mugitu soldadura-puntua</translation>
     </message>
 </context>
 </TS>
