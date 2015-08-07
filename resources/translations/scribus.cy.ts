@@ -12,7 +12,7 @@
     </message>
     <message>
         <source>Group%1</source>
-        <translation>Grŵp%1</translation>
+        <translation>Grŵp %1</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -67,7 +67,7 @@
     </message>
     <message>
         <source>Bugs and Feature Requests</source>
-        <translation type="unfinished"/>
+        <translation>Bugs a Fodwedd Deisyfion</translation>
     </message>
     <message>
         <source>Mailing List</source>
@@ -317,7 +317,7 @@
     </message>
     <message>
         <source>&amp;Item Action Mode</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Eitem Gweithred Modd</translation>
     </message>
     <message>
         <source>Cu&amp;t</source>
@@ -365,7 +365,7 @@
     </message>
     <message>
         <source>&amp;Center</source>
-        <translation>&amp;Canol...</translation>
+        <translation>&amp;Canol</translation>
     </message>
     <message>
         <source>&amp;Right</source>
@@ -397,27 +397,27 @@
     </message>
     <message>
         <source>&amp;All Caps</source>
-        <translation type="unfinished"/>
+        <translation>Oll Priflythyren</translation>
     </message>
     <message>
         <source>Small &amp;Caps</source>
-        <translation type="unfinished"/>
+        <translation>Llythrennau bach &amp;Priflythyren </translation>
     </message>
     <message>
         <source>Su&amp;perscript</source>
-        <translation type="unfinished"/>
+        <translation>Uw&amp;chysgrif</translation>
     </message>
     <message>
         <source>Su&amp;bscript</source>
-        <translation type="unfinished"/>
+        <translation>Iis&amp;ysgrif</translation>
     </message>
     <message>
         <source>D&amp;uplicate</source>
-        <translation type="unfinished"/>
+        <translation>D&amp;yblygeb</translation>
     </message>
     <message>
         <source>&amp;Multiple Duplicate</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Lluosog Dyblygeb</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -425,19 +425,19 @@
     </message>
     <message>
         <source>&amp;Group</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Grŵp</translation>
     </message>
     <message>
         <source>&amp;Ungroup</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dadgrwpio</translation>
     </message>
     <message>
         <source>Is &amp;Locked</source>
-        <translation type="unfinished"/>
+        <translation>Y mae &amp;Ar glo</translation>
     </message>
     <message>
         <source>Si&amp;ze is Locked</source>
-        <translation type="unfinished"/>
+        <translation>Mae ma&amp;int Ar glo</translation>
     </message>
     <message>
         <source>Lower to &amp;Bottom</source>
@@ -445,11 +445,11 @@
     </message>
     <message>
         <source>Raize to &amp;Top</source>
-        <translation type="unfinished"/>
+        <translation>Ailmaint i&apos;r Top</translation>
     </message>
     <message>
         <source>&amp;Lower</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Isfaf</translation>
     </message>
     <message>
         <source>&amp;Raize</source>
@@ -637,7 +637,7 @@
     </message>
     <message>
         <source>Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Symbolau</translation>
     </message>
     <message>
         <source>&amp;Tools</source>
@@ -1238,7 +1238,7 @@
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Cymorth</translation>
     </message>
     <message>
         <source>Plugin Menu Items</source>
@@ -1686,7 +1686,7 @@
     </message>
     <message>
         <source>Edit Weld</source>
-        <translation type="unfinished"/>
+        <translation>Golygu Pwynt</translation>
     </message>
     <message>
         <source>&amp;Downloads</source>
@@ -2112,7 +2112,7 @@
     </message>
     <message>
         <source>to</source>
-        <translation type="unfinished"/>
+        <translation>at</translation>
     </message>
     <message>
         <source>Alt+O</source>
@@ -2179,14 +2179,14 @@
     </message>
     <message>
         <source>End Edit</source>
-        <translation type="unfinished"/>
+        <translation>Diwedd Golygu</translation>
     </message>
 </context>
 <context>
     <name>ArcWidgetBase</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>Start Angle:</source>
@@ -2919,7 +2919,7 @@ Configuration invalid</source>
     <name>CMSPrefsBase</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>&amp;Activate Color Management</source>
@@ -4299,7 +4299,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Symbol</source>
-        <translation type="unfinished"/>
+        <translation>Symbol</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -4400,11 +4400,11 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Ie</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Na</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
@@ -4590,11 +4590,11 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Text Frame</source>
-        <translation type="unfinished"/>
+        <translation>Ffram Testun</translation>
     </message>
     <message>
         <source>Image Frame</source>
-        <translation type="unfinished"/>
+        <translation>Ffram Delwedd</translation>
     </message>
     <message>
         <source>Line</source>
@@ -4892,7 +4892,7 @@ currently %2 x %3 DPI</source>
     <name>Cpalette</name>
     <message>
         <source>Pattern</source>
-        <translation type="unfinished"/>
+        <translation>Patrwm</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -4908,7 +4908,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="unfinished"/>
+        <translation>Graddiant</translation>
     </message>
     <message>
         <source>Hatch</source>
@@ -5999,15 +5999,15 @@ Defnyddiwch 72 dpi ar gyfer Delweddau a fwriedir i&apos;r Sgrin</translation>
     </message>
     <message>
         <source>Darken</source>
-        <translation type="unfinished"/>
+        <translation>Tywyllu</translation>
     </message>
     <message>
         <source>Lighten</source>
-        <translation type="unfinished"/>
+        <translation>Ysgafnhau</translation>
     </message>
     <message>
         <source>Hue</source>
-        <translation type="unfinished"/>
+        <translation>Arlliw</translation>
     </message>
     <message>
         <source>Saturation</source>
@@ -6015,19 +6015,19 @@ Defnyddiwch 72 dpi ar gyfer Delweddau a fwriedir i&apos;r Sgrin</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Lliw</translation>
     </message>
     <message>
         <source>Luminosity</source>
-        <translation type="unfinished"/>
+        <translation>Goleuedd</translation>
     </message>
     <message>
         <source>Multiply</source>
-        <translation type="unfinished"/>
+        <translation>Amlhau</translation>
     </message>
     <message>
         <source>Screen</source>
-        <translation type="unfinished"/>
+        <translation>Sgrin</translation>
     </message>
     <message>
         <source>Dissolve</source>
@@ -6035,31 +6035,31 @@ Defnyddiwch 72 dpi ar gyfer Delweddau a fwriedir i&apos;r Sgrin</translation>
     </message>
     <message>
         <source>Overlay</source>
-        <translation type="unfinished"/>
+        <translation>Troshaen</translation>
     </message>
     <message>
         <source>Hard Light</source>
-        <translation type="unfinished"/>
+        <translation>Gola Caled</translation>
     </message>
     <message>
         <source>Soft Light</source>
-        <translation type="unfinished"/>
+        <translation>Gola Meddal</translation>
     </message>
     <message>
         <source>Difference</source>
-        <translation type="unfinished"/>
+        <translation>Gwahaniaeth</translation>
     </message>
     <message>
         <source>Color Dodge</source>
-        <translation type="unfinished"/>
+        <translation>Lliw Ystryw</translation>
     </message>
     <message>
         <source>Color Burn</source>
-        <translation type="unfinished"/>
+        <translation>Llosgi Lliw</translation>
     </message>
     <message>
         <source>Blend Mode:</source>
-        <translation type="unfinished"/>
+        <translation>Cytuno Modd:</translation>
     </message>
     <message>
         <source>Opacity:</source>
@@ -6087,7 +6087,7 @@ Defnyddiwch 72 dpi ar gyfer Delweddau a fwriedir i&apos;r Sgrin</translation>
     </message>
     <message>
         <source>Exclusion</source>
-        <translation type="unfinished"/>
+        <translation>Gwaharddiad</translation>
     </message>
     <message>
         <source>Live Preview</source>
@@ -6891,7 +6891,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     <name>HelpBrowserNavigation</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>&amp;Contents</source>
@@ -8690,7 +8690,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Blend Mode:</source>
-        <translation type="unfinished"/>
+        <translation>Cytuno Modd:</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -8698,51 +8698,51 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Darken</source>
-        <translation type="unfinished"/>
+        <translation>Tywyllu</translation>
     </message>
     <message>
         <source>Lighten</source>
-        <translation type="unfinished"/>
+        <translation>Ysgafnhau</translation>
     </message>
     <message>
         <source>Multiply</source>
-        <translation type="unfinished"/>
+        <translation>Amlhau</translation>
     </message>
     <message>
         <source>Screen</source>
-        <translation type="unfinished"/>
+        <translation>Sgrin</translation>
     </message>
     <message>
         <source>Overlay</source>
-        <translation type="unfinished"/>
+        <translation>Troshaen</translation>
     </message>
     <message>
         <source>Hard Light</source>
-        <translation type="unfinished"/>
+        <translation>Gola Caled</translation>
     </message>
     <message>
         <source>Soft Light</source>
-        <translation type="unfinished"/>
+        <translation>Gola Meddal</translation>
     </message>
     <message>
         <source>Difference</source>
-        <translation type="unfinished"/>
+        <translation>Gwahaniaeth</translation>
     </message>
     <message>
         <source>Color Dodge</source>
-        <translation type="unfinished"/>
+        <translation>Lliw Ystryw</translation>
     </message>
     <message>
         <source>Color Burn</source>
-        <translation type="unfinished"/>
+        <translation>Llosgi Lliw</translation>
     </message>
     <message>
         <source>Exclusion</source>
-        <translation type="unfinished"/>
+        <translation>Gwaharddiad</translation>
     </message>
     <message>
         <source>Hue</source>
-        <translation type="unfinished"/>
+        <translation>Arlliw</translation>
     </message>
     <message>
         <source>Saturation</source>
@@ -8750,11 +8750,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Lliw</translation>
     </message>
     <message>
         <source>Luminosity</source>
-        <translation type="unfinished"/>
+        <translation>Goleuedd</translation>
     </message>
     <message>
         <source>Color of the Layer Indicator - Each layer has a color assigned to display on the canvas when layer indicators are enabled. You can double click to edit the color. </source>
@@ -9651,7 +9651,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>Properties...</source>
-        <translation type="unfinished"/>
+        <translation>Priodweddau...</translation>
     </message>
     <message>
         <source>Angle:</source>
@@ -9983,7 +9983,7 @@ If no handle is selected all handles will be reset.</source>
     <name>NewMarginWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>Preset Layouts:</source>
@@ -10309,7 +10309,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Ymgeisio</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -10788,7 +10788,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Locked</source>
-        <translation type="unfinished"/>
+        <translation>Ar glo</translation>
     </message>
     <message>
         <source>Layer: &quot;</source>
@@ -11201,7 +11201,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Symbol</source>
-        <translation type="unfinished"/>
+        <translation>Symbol</translation>
     </message>
     <message>
         <source>Copy of</source>
@@ -11519,7 +11519,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Text Frame</source>
-        <translation type="unfinished"/>
+        <translation>Ffram Testun</translation>
     </message>
     <message>
         <source>Paragraphs: </source>
@@ -11636,7 +11636,7 @@ Often used for allowing items to be placed across page spreads</source>
     <name>PagePalette_MasterPagesBase</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>&lt;&lt;&lt; Return to Normal Page Mode</source>
@@ -11682,7 +11682,7 @@ Often used for allowing items to be placed across page spreads</source>
     <name>PagePalette_PagesBase</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>Available Master Pages:</source>
@@ -11794,7 +11794,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>D&amp;uplicate</source>
-        <translation type="unfinished"/>
+        <translation>D&amp;yblygeb</translation>
     </message>
     <message>
         <source>Delete the currently selected color</source>
@@ -12595,7 +12595,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Preview</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Rhagolwg</translation>
     </message>
     <message>
         <source>Alt+P</source>
@@ -13631,7 +13631,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
 </context>
 <context>
@@ -13671,7 +13671,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     <name>PolygonWidgetBase</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>Corn&amp;ers:</source>
@@ -13730,7 +13730,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     <name>PositionSetterWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>X-pos:</source>
@@ -13941,7 +13941,7 @@ Do you want to migrate them to the new Scribus version?</source>
     <name>Prefs_ColorManagement</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>Color Management</source>
@@ -14044,7 +14044,7 @@ Do you want to migrate them to the new Scribus version?</source>
     <name>Prefs_Display</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>Display</source>
@@ -14255,7 +14255,7 @@ Do you want to migrate them to the new Scribus version?</source>
     <name>Prefs_DocumentInformation</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>Document Information</source>
@@ -14551,7 +14551,7 @@ Do you want to migrate them to the new Scribus version?</source>
     <name>Prefs_DocumentSetup</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>Document Setup</source>
@@ -14955,7 +14955,7 @@ Do you want to use this?</source>
     <name>Prefs_Fonts</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>Fonts</source>
@@ -15010,7 +15010,7 @@ Do you want to use this?</source>
     <name>Prefs_Guides</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>Guides</source>
@@ -15189,7 +15189,7 @@ Do you want to use this?</source>
     <name>Prefs_Hyphenator</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>Hyphenation</source>
@@ -15289,7 +15289,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>Image Cache</source>
@@ -15320,7 +15320,7 @@ A value of 0 means unlimited hyphenations.</source>
     <name>Prefs_ItemTools</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>Item Tools</source>
@@ -15679,7 +15679,7 @@ A value of 0 means unlimited hyphenations.</source>
     <name>Prefs_Miscellaneous</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>Miscellaneous</source>
@@ -15710,7 +15710,7 @@ A value of 0 means unlimited hyphenations.</source>
     <name>Prefs_OperatorTools</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>Operator Tools</source>
@@ -15789,7 +15789,7 @@ A value of 0 means unlimited hyphenations.</source>
     <name>Prefs_PDFExport</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>PDF Export</source>
@@ -15937,7 +15937,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Lliw</translation>
     </message>
     <message>
         <source>Output Intended For:</source>
@@ -16652,7 +16652,7 @@ A value of 0 means unlimited hyphenations.</source>
     <name>Prefs_PageSizes</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>Page Sizes</source>
@@ -16671,7 +16671,7 @@ A value of 0 means unlimited hyphenations.</source>
     <name>Prefs_Paths</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>Paths</source>
@@ -16750,7 +16750,7 @@ A value of 0 means unlimited hyphenations.</source>
     <name>Prefs_Plugins</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -16789,7 +16789,7 @@ A value of 0 means unlimited hyphenations.</source>
     <name>Prefs_PreflightVerifier</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>Preflight Verifier</source>
@@ -16904,7 +16904,7 @@ A value of 0 means unlimited hyphenations.</source>
     <name>Prefs_Printer</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>Printing</source>
@@ -16964,7 +16964,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Lliw</translation>
     </message>
     <message>
         <source>Apply Under Color Removal</source>
@@ -17080,7 +17080,7 @@ A value of 0 means unlimited hyphenations.</source>
     <name>Prefs_Scrapbook</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>Scrapbook</source>
@@ -17123,7 +17123,7 @@ A value of 0 means unlimited hyphenations.</source>
     <name>Prefs_Scripter</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>Scripter</source>
@@ -17186,7 +17186,7 @@ A value of 0 means unlimited hyphenations.</source>
     <name>Prefs_ShortWords</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>Save</source>
@@ -17233,7 +17233,7 @@ A value of 0 means unlimited hyphenations.</source>
     <name>Prefs_Spelling</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>Spelling</source>
@@ -17284,7 +17284,7 @@ A value of 0 means unlimited hyphenations.</source>
     <name>Prefs_TableOfContents</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>Table of Contents</source>
@@ -17371,7 +17371,7 @@ A value of 0 means unlimited hyphenations.</source>
     <name>Prefs_Typography</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>Typography</source>
@@ -17466,7 +17466,7 @@ A value of 0 means unlimited hyphenations.</source>
     <name>Prefs_UserInterface</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>User Interface</source>
@@ -17797,7 +17797,7 @@ amrediad tudalennau, neu rhif tudalen unigol.</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Lliw</translation>
     </message>
     <message>
         <source>Apply Under Color Removal</source>
@@ -17981,7 +17981,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>&amp;Group</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Grŵp</translation>
     </message>
     <message>
         <source>&amp;Transparency</source>
@@ -18004,7 +18004,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Shape</source>
-        <translation type="unfinished"/>
+        <translation>Siâp</translation>
     </message>
     <message>
         <source>Text &amp;Flow Around Frame</source>
@@ -18063,11 +18063,11 @@ Note: PDF Forms will not be exported.</source>
     <name>PropertiesPalette_GroupBase</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>Shape</source>
-        <translation type="unfinished"/>
+        <translation>Siâp</translation>
     </message>
     <message>
         <source>...</source>
@@ -18321,7 +18321,7 @@ Note: PDF Forms will not be exported.</source>
     <name>PropertiesPalette_ImageBase</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>X-Pos:</source>
@@ -18543,7 +18543,7 @@ Note: PDF Forms will not be exported.</source>
     <name>PropertiesPalette_LineBase</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>&amp;Basepoint:</source>
@@ -18626,51 +18626,51 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Darken</source>
-        <translation type="unfinished"/>
+        <translation>Tywyllu</translation>
     </message>
     <message>
         <source>Lighten</source>
-        <translation type="unfinished"/>
+        <translation>Ysgafnhau</translation>
     </message>
     <message>
         <source>Multiply</source>
-        <translation type="unfinished"/>
+        <translation>Amlhau</translation>
     </message>
     <message>
         <source>Screen</source>
-        <translation type="unfinished"/>
+        <translation>Sgrin</translation>
     </message>
     <message>
         <source>Overlay</source>
-        <translation type="unfinished"/>
+        <translation>Troshaen</translation>
     </message>
     <message>
         <source>Hard Light</source>
-        <translation type="unfinished"/>
+        <translation>Gola Caled</translation>
     </message>
     <message>
         <source>Soft Light</source>
-        <translation type="unfinished"/>
+        <translation>Gola Meddal</translation>
     </message>
     <message>
         <source>Difference</source>
-        <translation type="unfinished"/>
+        <translation>Gwahaniaeth</translation>
     </message>
     <message>
         <source>Exclusion</source>
-        <translation type="unfinished"/>
+        <translation>Gwaharddiad</translation>
     </message>
     <message>
         <source>Color Dodge</source>
-        <translation type="unfinished"/>
+        <translation>Lliw Ystryw</translation>
     </message>
     <message>
         <source>Color Burn</source>
-        <translation type="unfinished"/>
+        <translation>Llosgi Lliw</translation>
     </message>
     <message>
         <source>Hue</source>
-        <translation type="unfinished"/>
+        <translation>Arlliw</translation>
     </message>
     <message>
         <source>Saturation</source>
@@ -18678,11 +18678,11 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Lliw</translation>
     </message>
     <message>
         <source>Luminosity</source>
-        <translation type="unfinished"/>
+        <translation>Goleuedd</translation>
     </message>
     <message>
         <source>Content covers
@@ -18699,7 +18699,7 @@ Transparency</source>
     <name>PropertiesPalette_ShadowBase</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>Object has a drop shadow</source>
@@ -18739,51 +18739,51 @@ Transparency</source>
     </message>
     <message>
         <source>Darken</source>
-        <translation type="unfinished"/>
+        <translation>Tywyllu</translation>
     </message>
     <message>
         <source>Lighten</source>
-        <translation type="unfinished"/>
+        <translation>Ysgafnhau</translation>
     </message>
     <message>
         <source>Multiply</source>
-        <translation type="unfinished"/>
+        <translation>Amlhau</translation>
     </message>
     <message>
         <source>Screen</source>
-        <translation type="unfinished"/>
+        <translation>Sgrin</translation>
     </message>
     <message>
         <source>Overlay</source>
-        <translation type="unfinished"/>
+        <translation>Troshaen</translation>
     </message>
     <message>
         <source>Hard Light</source>
-        <translation type="unfinished"/>
+        <translation>Gola Caled</translation>
     </message>
     <message>
         <source>Soft Light</source>
-        <translation type="unfinished"/>
+        <translation>Gola Meddal</translation>
     </message>
     <message>
         <source>Difference</source>
-        <translation type="unfinished"/>
+        <translation>Gwahaniaeth</translation>
     </message>
     <message>
         <source>Exclusion</source>
-        <translation type="unfinished"/>
+        <translation>Gwaharddiad</translation>
     </message>
     <message>
         <source>Color Dodge</source>
-        <translation type="unfinished"/>
+        <translation>Lliw Ystryw</translation>
     </message>
     <message>
         <source>Color Burn</source>
-        <translation type="unfinished"/>
+        <translation>Llosgi Lliw</translation>
     </message>
     <message>
         <source>Hue</source>
-        <translation type="unfinished"/>
+        <translation>Arlliw</translation>
     </message>
     <message>
         <source>Saturation</source>
@@ -18791,11 +18791,11 @@ Transparency</source>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Lliw</translation>
     </message>
     <message>
         <source>Luminosity</source>
-        <translation type="unfinished"/>
+        <translation>Goleuedd</translation>
     </message>
     <message>
         <source>Blur:</source>
@@ -18889,11 +18889,11 @@ Transparency</source>
     <name>PropertiesPalette_ShapeBase</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>Shape</source>
-        <translation type="unfinished"/>
+        <translation>Siâp</translation>
     </message>
     <message>
         <source>...</source>
@@ -18971,7 +18971,7 @@ Transparency</source>
     <name>PropertiesPalette_TableBase</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>Borders</source>
@@ -19113,7 +19113,7 @@ Transparency</source>
     <name>PropertiesPalette_TextBase</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
 </context>
 <context>
@@ -19271,7 +19271,7 @@ Transparency</source>
     <name>PropertiesPalette_XYZBase</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>Name</source>
@@ -19569,7 +19569,7 @@ Transparency</source>
     <name>PropertyWidget_DropCapBase</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>Height</source>
@@ -19755,7 +19755,7 @@ Transparency</source>
     <name>PropertyWidget_OrphansBase</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>Ensure that first lines of a paragraph won&apos;t end up separated from the rest (known as widow/orphan control)</source>
@@ -19865,7 +19865,7 @@ Transparency</source>
     <name>PropertyWidget_ParEffectBase</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>Effect Parameters</source>
@@ -20547,7 +20547,7 @@ Gwiriwch y llwybr ac enw&apos;r ffeil.</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Ymgeisio</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -23369,7 +23369,7 @@ Please choose another.</source>
     <name>RotationWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>Rotation:</source>
@@ -25568,7 +25568,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Symbolau</translation>
     </message>
     <message>
         <source>Plain Text</source>
@@ -26770,7 +26770,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>End Edit</source>
-        <translation type="unfinished"/>
+        <translation>Diwedd Golygu</translation>
     </message>
     <message>
         <source>Click here to leave this special edit mode.</source>
@@ -26992,7 +26992,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>Comments:</source>
@@ -27443,14 +27443,14 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>End Edit</source>
-        <translation type="unfinished"/>
+        <translation>Diwedd Golygu</translation>
     </message>
 </context>
 <context>
     <name>SpiralWidgetBase</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>Start Angle:</source>
@@ -27964,7 +27964,7 @@ Consider using the Preflight Verifier to correct them</source>
     <name>SymbolPalette</name>
     <message>
         <source>Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Symbolau</translation>
     </message>
 </context>
 <context>
@@ -30670,7 +30670,7 @@ converting their vector data into Scribus objects.</source>
     <name>colorPalette</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>Shade:</source>
@@ -30682,15 +30682,15 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Linear</source>
-        <translation type="unfinished"/>
+        <translation>Llinellol</translation>
     </message>
     <message>
         <source>Radial</source>
-        <translation type="unfinished"/>
+        <translation>Rheiddiol</translation>
     </message>
     <message>
         <source>Move Vector</source>
-        <translation type="unfinished"/>
+        <translation>Symud Fector</translation>
     </message>
     <message>
         <source>Pattern follows Path</source>
@@ -30698,7 +30698,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Properties...</source>
-        <translation type="unfinished"/>
+        <translation>Priodweddau...</translation>
     </message>
     <message>
         <source>4 Colors</source>
@@ -30714,7 +30714,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Lliw</translation>
     </message>
     <message>
         <source>Shade</source>
@@ -30919,7 +30919,7 @@ please choose another one.</source>
     </message>
     <message>
         <source>Original Size</source>
-        <translation type="unfinished"/>
+        <translation>Gwreiddiol Maint</translation>
     </message>
     <message>
         <source>Close</source>
@@ -31034,11 +31034,11 @@ please choose another one.</source>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Cymorth</translation>
     </message>
     <message>
         <source>&amp;Preview</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Rhagolwg</translation>
     </message>
 </context>
 <context>
@@ -31133,7 +31133,7 @@ please choose another one.</source>
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>&amp;About</source>
@@ -31141,33 +31141,33 @@ please choose another one.</source>
     </message>
     <message>
         <source>&amp;Preview</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Rhagolwg</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Cymorth</translation>
     </message>
 </context>
 <context>
     <name>replaceColorDialog</name>
     <message>
         <source>Replace Color</source>
-        <translation type="unfinished"/>
+        <translation>Newid Lliw</translation>
     </message>
     <message>
         <source>Replace:</source>
-        <translation type="unfinished"/>
+        <translation>Newid:</translation>
     </message>
     <message>
         <source>with:</source>
-        <translation type="unfinished"/>
+        <translation>gyda:</translation>
     </message>
 </context>
 <context>
     <name>replaceColorsDialog</name>
     <message>
         <source>Original</source>
-        <translation type="unfinished"/>
+        <translation>Gwreiddiol</translation>
     </message>
     <message>
         <source>Replacement</source>
@@ -31175,11 +31175,11 @@ please choose another one.</source>
     </message>
     <message>
         <source>Replace Colors</source>
-        <translation type="unfinished"/>
+        <translation>Newid Lliw</translation>
     </message>
     <message>
         <source>Add ...</source>
-        <translation type="unfinished"/>
+        <translation>Adio</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -31194,15 +31194,15 @@ please choose another one.</source>
     <name>selectDialog</name>
     <message>
         <source>Text Frame</source>
-        <translation type="unfinished"/>
+        <translation>Ffram Testun</translation>
     </message>
     <message>
         <source>Image Frame</source>
-        <translation type="unfinished"/>
+        <translation>Ffram Delwedd</translation>
     </message>
     <message>
         <source>Shape</source>
-        <translation type="unfinished"/>
+        <translation>Siâp</translation>
     </message>
     <message>
         <source>Polyline</source>
@@ -31218,7 +31218,7 @@ please choose another one.</source>
     </message>
     <message>
         <source>Symbol</source>
-        <translation type="unfinished"/>
+        <translation>Symbol</translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -31226,27 +31226,27 @@ please choose another one.</source>
     </message>
     <message>
         <source>Line Color</source>
-        <translation type="unfinished"/>
+        <translation>Lliw Llinell</translation>
     </message>
     <message>
         <source>Line Width</source>
-        <translation type="unfinished"/>
+        <translation>Lled llinell</translation>
     </message>
     <message>
         <source>Printable</source>
-        <translation type="unfinished"/>
+        <translation>Printiedig</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Ie</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Na</translation>
     </message>
     <message>
         <source>Locked</source>
-        <translation type="unfinished"/>
+        <translation>Ar glo</translation>
     </message>
     <message>
         <source>Select all items on the current page</source>
@@ -31274,7 +31274,7 @@ please choose another one.</source>
     </message>
     <message>
         <source>Item Type</source>
-        <translation type="unfinished"/>
+        <translation>Math eitem</translation>
     </message>
     <message>
         <source>Select based on the color that the item is filled with</source>
@@ -31318,14 +31318,14 @@ please choose another one.</source>
     </message>
     <message>
         <source>Resizable</source>
-        <translation type="unfinished"/>
+        <translation>Newid maint</translation>
     </message>
 </context>
 <context>
     <name>tfDia</name>
     <message>
         <source>Create filter</source>
-        <translation type="unfinished"/>
+        <translation>Creu ffilter</translation>
     </message>
     <message>
         <source>C&amp;lear</source>
@@ -31356,31 +31356,31 @@ please choose another one.</source>
     </message>
     <message>
         <source>Remove this filter row</source>
-        <translation type="unfinished"/>
+        <translation>Diddymu y ffilter rhes</translation>
     </message>
     <message>
         <source>Add a new filter row</source>
-        <translation type="unfinished"/>
+        <translation>Ategu newydd ffilter rhes</translation>
     </message>
     <message>
         <source>to</source>
-        <translation type="unfinished"/>
+        <translation>at</translation>
     </message>
     <message>
         <source>and</source>
-        <translation type="unfinished"/>
+        <translation>ac</translation>
     </message>
     <message>
         <source>remove match</source>
-        <translation type="unfinished"/>
+        <translation>symud cydweddu</translation>
     </message>
     <message>
         <source>do not remove match</source>
-        <translation type="unfinished"/>
+        <translation>peidio a symud cydweddu</translation>
     </message>
     <message>
         <source>words</source>
-        <translation type="unfinished"/>
+        <translation>geiriau</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -31388,50 +31388,50 @@ please choose another one.</source>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"/>
+        <translation>Amnewid</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Ymgeisio</translation>
     </message>
     <message>
         <source>Value at the left is a regular expression</source>
-        <translation type="unfinished"/>
+        <translation>Gwerth ar y chwith fel y mae rheolaidd mynegiant</translation>
     </message>
     <message>
         <source>with</source>
-        <translation type="unfinished"/>
+        <translation>gyda</translation>
     </message>
     <message>
         <source>paragraph style</source>
-        <translation type="unfinished"/>
+        <translation>paragraffau arddull</translation>
     </message>
     <message>
         <source>all instances of</source>
-        <translation type="unfinished"/>
+        <translation>pob enghreifftiau o</translation>
     </message>
     <message>
         <source>all paragraphs</source>
-        <translation type="unfinished"/>
+        <translation>holl paragraffau</translation>
     </message>
     <message>
         <source>paragraphs starting with</source>
-        <translation type="unfinished"/>
+        <translation>paragraffau cychwyniad gydag</translation>
     </message>
     <message>
         <source>paragraphs with less than</source>
-        <translation type="unfinished"/>
+        <translation>paragraffau ag llai nag</translation>
     </message>
     <message>
         <source>paragraphs with more than</source>
-        <translation type="unfinished"/>
+        <translation>paragraffau ag mwy nag</translation>
     </message>
 </context>
 <context>
     <name>transparencyPalette</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <source>Edit Line Color Properties</source>
@@ -31455,7 +31455,7 @@ please choose another one.</source>
     </message>
     <message>
         <source>Blend Mode:</source>
-        <translation type="unfinished"/>
+        <translation>Cytuno Modd:</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -31463,51 +31463,51 @@ please choose another one.</source>
     </message>
     <message>
         <source>Darken</source>
-        <translation type="unfinished"/>
+        <translation>Tywyllu</translation>
     </message>
     <message>
         <source>Lighten</source>
-        <translation type="unfinished"/>
+        <translation>Ysgafnhau</translation>
     </message>
     <message>
         <source>Multiply</source>
-        <translation type="unfinished"/>
+        <translation>Amlhau</translation>
     </message>
     <message>
         <source>Screen</source>
-        <translation type="unfinished"/>
+        <translation>Sgrin</translation>
     </message>
     <message>
         <source>Overlay</source>
-        <translation type="unfinished"/>
+        <translation>Troshaen</translation>
     </message>
     <message>
         <source>Hard Light</source>
-        <translation type="unfinished"/>
+        <translation>Gola Caled</translation>
     </message>
     <message>
         <source>Soft Light</source>
-        <translation type="unfinished"/>
+        <translation>Gola Meddal</translation>
     </message>
     <message>
         <source>Difference</source>
-        <translation type="unfinished"/>
+        <translation>Gwahaniaeth</translation>
     </message>
     <message>
         <source>Exclusion</source>
-        <translation type="unfinished"/>
+        <translation>Gwaharddiad</translation>
     </message>
     <message>
         <source>Color Dodge</source>
-        <translation type="unfinished"/>
+        <translation>Lliw Ystryw</translation>
     </message>
     <message>
         <source>Color Burn</source>
-        <translation type="unfinished"/>
+        <translation>Llosgi Lliw</translation>
     </message>
     <message>
         <source>Hue</source>
-        <translation type="unfinished"/>
+        <translation>Arlliw</translation>
     </message>
     <message>
         <source>Saturation</source>
@@ -31515,11 +31515,11 @@ please choose another one.</source>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Lliw</translation>
     </message>
     <message>
         <source>Luminosity</source>
-        <translation type="unfinished"/>
+        <translation>Goleuedd</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -31527,15 +31527,15 @@ please choose another one.</source>
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="unfinished"/>
+        <translation>Graddiant</translation>
     </message>
     <message>
         <source>Linear</source>
-        <translation type="unfinished"/>
+        <translation>Llinellol</translation>
     </message>
     <message>
         <source>Radial</source>
-        <translation type="unfinished"/>
+        <translation>Rheiddiol</translation>
     </message>
     <message>
         <source>Move the start of the gradient vector with the left mouse button pressed and move the end of the gradient vector with the right mouse button pressed</source>
@@ -31543,50 +31543,50 @@ please choose another one.</source>
     </message>
     <message>
         <source>Move Vector</source>
-        <translation type="unfinished"/>
+        <translation>Symud Fector</translation>
     </message>
     <message>
         <source>Use Luminosity as Alpha</source>
-        <translation type="unfinished"/>
+        <translation>Defnydd Goleuedd fel Alffa</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation type="unfinished"/>
+        <translation>Patrwm</translation>
     </message>
     <message>
         <source>Properties...</source>
-        <translation type="unfinished"/>
+        <translation>Priodweddau...</translation>
     </message>
     <message>
         <source>Use inverted Pattern</source>
-        <translation type="unfinished"/>
+        <translation>Iws gwrthdro Patrwm</translation>
     </message>
 </context>
 <context>
     <name>weldEditBase</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Ffurflen</translation>
     </message>
     <message>
         <source>Move weld Point</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Symud weldio Pwynt</translation>
     </message>
     <message>
         <source>Move Object</source>
-        <translation type="unfinished"/>
+        <translation>Symud Gwrthrych</translation>
     </message>
     <message>
         <source>End Edit</source>
-        <translation type="unfinished"/>
+        <translation>Diwedd Golygu</translation>
     </message>
     <message>
         <source>Edit Weld</source>
-        <translation type="unfinished"/>
+        <translation>Golygu Pwynt</translation>
     </message>
     <message>
         <source>Move Weld Point</source>
-        <translation type="unfinished"/>
+        <translation>Symud Weldio Pwynt</translation>
     </message>
 </context>
 </TS>

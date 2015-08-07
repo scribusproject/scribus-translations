@@ -146,7 +146,7 @@
     </message>
     <message>
         <source>Missing library support is indicated by a *. This also indicates the version of Ghostscript which Scribus has detected.</source>
-        <translation>Missing library support is indicated by a *. This also indicates the version of Ghostscript which Scribus has detected.</translation>
+        <translation>Falta den liburutegi-euskarria a* bitartez adierazten da. Scribusek detektatutako Ghostscript bertsioa adierazten da ere.</translation>
     </message>
     <message>
         <source>The Windows version does not use fontconfig or CUPS libraries.</source>
@@ -174,7 +174,7 @@
     </message>
     <message>
         <source>Unable to open licence file. Please check your install directory or the Scribus website for licencing information.</source>
-        <translation>Unable to open licence file. Please check your install directory or the Scribus website for licencing information.</translation>
+        <translation>Ezin da ireki lizentzia-fitxategia. Lizentziei buruzko informaziorako egiaztatu instalazio-direktorioa edo Scribus gunea.</translation>
     </message>
     <message>
         <source>Doc Translators:</source>
@@ -186,7 +186,7 @@
     </message>
     <message>
         <source>Unable to open %1 file. Please check your install directory or the Scribus website for %1 information.</source>
-        <translation>Unable to open %1 file. Please check your install directory or the Scribus website for %1 information.</translation>
+        <translation>Ezin da %1 fitxategia ireki. Egiaztatu instalazio-direktorioa edo Scribus gunea %1 informaziorako.</translation>
     </message>
     <message>
         <source>Haiku Port:</source>
@@ -2429,7 +2429,7 @@ Konfigurazio baliogabea</translation>
     </message>
     <message>
         <source>Variable number of ASCII characters and special function symbols, starting with the appropriate start character for the initial character set. UCC/EAN-128s must have a mandatory FNC 1 symbol immediately following the start character.</source>
-        <translation>Variable number of ASCII characters and special function symbols, starting with the appropriate start character for the initial character set. UCC/EAN-128s must have a mandatory FNC 1 symbol immediately following the start character.</translation>
+        <translation>ASCII karaktere- eta funtzio berezien ikur-kopuru aldagarria, hasierako karaktere egokiarekin hasiz, hasierako karakterea ezartzeko. UCC/EAN-128 kodeak derrigorrez FNC 1 ikurra eduki behar du hasierako karaktereari berehala jarraituz.</translation>
     </message>
     <message>
         <source>Variable number of digits and any of the symbols -$:/.+ABCD.</source>
@@ -2437,7 +2437,7 @@ Konfigurazio baliogabea</translation>
     </message>
     <message>
         <source>Variable number of digits. An ITF-14 is 14 characters and does not have a check digit</source>
-        <translation>Variable number of digits. An ITF-14 is 14 characters and does not have a check digit</translation>
+        <translation>Digitu-kopuru aldagarria. ITF-14 14 karakteretakoa da eta ez du digituen kontrol-baturarik.</translation>
     </message>
     <message>
         <source>Variable number of digits</source>
@@ -2560,7 +2560,7 @@ Konfigurazio baliogabea</translation>
     </message>
     <message>
         <source>The numeric representation of the code itself. See the help message below</source>
-        <translation>The numeric representation of the code itself. See the help message below</translation>
+        <translation>Kodearen adierazpen numerikoa. Ikus azpiko laguntzako mezua</translation>
     </message>
     <message>
         <source>Reset the barcode samples</source>
@@ -2684,7 +2684,7 @@ Konfigurazio baliogabea</translation>
     </message>
     <message>
         <source>Minimum error checking; raized opportunistically if size of symbol is not increased</source>
-        <translation type="unfinished"/>
+        <translation>Erroreen egiaztatze minimoa: behar denean erabiltzen da ikur-tamaina handitzen ez bada</translation>
     </message>
 </context>
 <context>
@@ -3071,7 +3071,7 @@ Aukera hau gaitzea gomendatzen da zure dokumentuan argazkiak badituzu.</translat
     </message>
     <message>
         <source>Web Safe RGB</source>
-        <translation>HTML notazioa</translation>
+        <translation>Web Safe RGB</translation>
     </message>
     <message>
         <source>New</source>
@@ -3091,11 +3091,11 @@ Aukera hau gaitzea gomendatzen da zure dokumentuan argazkiak badituzu.</translat
     </message>
     <message>
         <source>Y:</source>
-        <translation>H:</translation>
+        <translation>Y:</translation>
     </message>
     <message>
         <source>K:</source>
-        <translation type="vanished">B:</translation>
+        <translation type="vanished">K:</translation>
     </message>
     <message>
         <source>Dynamic Color Bars</source>
@@ -3107,15 +3107,15 @@ Aukera hau gaitzea gomendatzen da zure dokumentuan argazkiak badituzu.</translat
     </message>
     <message>
         <source>R:</source>
-        <translation>G:</translation>
+        <translation>R:</translation>
     </message>
     <message>
         <source>G:</source>
-        <translation>B:</translation>
+        <translation>G:</translation>
     </message>
     <message>
         <source>B:</source>
-        <translation>U:</translation>
+        <translation>B:</translation>
     </message>
     <message>
         <source> %</source>
@@ -3724,7 +3724,7 @@ Document Liberation Project-era http://www.documentliberation.org</translation>
     </message>
     <message>
         <source>Box Drawing</source>
-        <translation>Box Drawing</translation>
+        <translation>Kutxa-marraketa</translation>
     </message>
     <message>
         <source>Block Elements</source>
@@ -4738,35 +4738,35 @@ unekoa %2 x %3 DPI</translation>
     </message>
     <message>
         <source>Button</source>
-        <translation>Botoia</translation>
+        <translation>Button</translation>
     </message>
     <message>
         <source>RadioButton</source>
-        <translation>AukeraBotoia</translation>
+        <translation>RadioButton</translation>
     </message>
     <message>
         <source>Textfield</source>
-        <translation>Testueremua</translation>
+        <translation>Textfield</translation>
     </message>
     <message>
         <source>Checkbox</source>
-        <translation>Kontrollaukia</translation>
+        <translation>Checkbox</translation>
     </message>
     <message>
         <source>Combobox</source>
-        <translation>Konbinaziokoadroa</translation>
+        <translation>Combobox</translation>
     </message>
     <message>
         <source>Listbox</source>
-        <translation>Zerrendakoadroa</translation>
+        <translation>Listbox</translation>
     </message>
     <message>
         <source>TextAnnot</source>
-        <translation>Testuoharp</translation>
+        <translation>TextAnnot</translation>
     </message>
     <message>
         <source>Link</source>
-        <translation>Esteka</translation>
+        <translation>bLink</translation>
     </message>
     <message>
         <source>Monochrome</source>
@@ -4946,7 +4946,7 @@ unekoa %2 x %3 DPI</translation>
     <name>CreateMode</name>
     <message>
         <source>3DAnnot</source>
-        <translation>3DOharp</translation>
+        <translation>3DAnnot</translation>
     </message>
 </context>
 <context>
@@ -5013,7 +5013,7 @@ unekoa %2 x %3 DPI</translation>
     </message>
     <message>
         <source>To:</source>
-        <translation>Nora:</translation>
+        <translation>Hona:</translation>
     </message>
     <message>
         <source>&amp;Add To Range</source>
@@ -5160,7 +5160,11 @@ unekoa %2 x %3 DPI</translation>
     </message>
     <message>
         <source>This panel displays various CUPS options when printing. The exact parameters available will depend on your printer driver. You can confirm CUPS support by selecting Help &gt; About. Look for the listings: C-C-T These equate to C=CUPS C=littlecms T=TIFF support. Missing library support is indicated by a *</source>
-        <translation>This panel displays various CUPS options when printing. The exact parameters available will depend on your printer driver. You can confirm CUPS support by selecting Help &gt; About. Look for the listings: C-C-T These equate to C=CUPS C=littlecms T=TIFF support. Missing library support is indicated by a *</translation>
+        <translation>Panel honek CUPSeko hainbat aukera bistaratzen ditu inprimatzean. 
+Parametro erabilgarriak inprimagailuaren kontrolatzailearen 
+mende daude. CUPS euskarria berretsi dezakezu Laguntza &gt; Honi buruz hautatuz. Begiratu zerrendan: C-C-T zera adierazten du: 
+C=CUPS, C=littlecms, T=TIFF euskarria. Falta diren liburutegiak 
+* ikurrarekin adierazten dira.</translation>
     </message>
 </context>
 <context>
@@ -5171,7 +5175,7 @@ unekoa %2 x %3 DPI</translation>
     </message>
     <message>
         <source>Curve Files &quot;*.scu&quot; (*.scu *.SCU);;All Files (*)</source>
-        <translation type="vanished">Curve Files &quot;*.scu&quot; (*.scu *.SCU);;Fitxategi guztiak (*)</translation>
+        <translation type="vanished">Kurba fitxategiak &quot;*.scu&quot; (*.scu *.SCU);;Fitxategi guztiak (*)</translation>
     </message>
     <message>
         <source>Save as</source>
@@ -5434,7 +5438,7 @@ unekoa %2 x %3 DPI</translation>
     </message>
     <message>
         <source>The nature or genre of the content of the document, eg. categories, functions, genres, etc</source>
-        <translation>The nature or genre of the content of the document, eg. categories, functions, genres, etc</translation>
+        <translation>Dokumentuaren edukiaren generoa edo izaera, adib. kategoriak, funtzioak, generoak, e.a.</translation>
     </message>
     <message>
         <source>An unambiguous reference to the document within a given context such as ISBN or URI</source>
@@ -5442,7 +5446,7 @@ unekoa %2 x %3 DPI</translation>
     </message>
     <message>
         <source>A reference to a document from which the present document is derived, eg. ISBN or URI</source>
-        <translation>A reference to a document from which the present document is derived, eg. ISBN or URI</translation>
+        <translation>Erreferentzia bat dokumentu bati, uneko dokumentua eratortzen dena. Adib. ISBN edo URIa</translation>
     </message>
     <message>
         <source>A reference to a related document, possibly using a formal identifier such as a ISBN or URI</source>
@@ -5455,7 +5459,7 @@ denbora eta jurisdikzioa sartuz.</translation>
     </message>
     <message>
         <source>Information about rights held in and over the document, eg. copyright, patent or trademark</source>
-        <translation>Information about rights held in and over the document, eg. copyright, patent or trademark</translation>
+        <translation>Dokumentuak mantentzen dituen eskubideei buruzko informazioa, adib. copyright-a, patentea edo marka erregistratua</translation>
     </message>
     <message>
         <source>Documen&amp;t</source>
@@ -5463,27 +5467,28 @@ denbora eta jurisdikzioa sartuz.</translation>
     </message>
     <message>
         <source>The person or organisation primarily responsible for making the content of the document. This field can be embedded in the Scribus document for reference, as well as in the metadata of a PDF</source>
-        <translation>The person or organisation primarily responsible for making the content of the document. This field can be embedded in the Scribus document for reference, as well as in the metadata of a PDF</translation>
+        <translation>Dokumentuaren edukia egitearen arduraduna den pertsona edo erakundea. Eremu hau Scribus-eko dokumentuan kapsula daiteke erreferentziatzeko, edota PDF baten metadatuan.</translation>
     </message>
     <message>
         <source>A name given to the document. This field can be embedded in the Scribus document for reference, as well as in the metadata of a PDF</source>
-        <translation>A name given to the document. This field can be embedded in the Scribus document for reference, as well as in the metadata of a PDF</translation>
+        <translation>Dokumentuari emandako izena. Eremu hau Scribus-eko dokumentuan kapsula 
+daiteke erreferentziatzeko, edota PDF baten metadatuetan</translation>
     </message>
     <message>
         <source>An account of the content of the document. This field is for a brief description or abstract of the document. It is embedded in the PDF on export</source>
-        <translation>An account of the content of the document. This field is for a brief description or abstract of the document. It is embedded in the PDF on export</translation>
+        <translation>Dokumentuaren edukiari buruzkoa. Eremu hau dokumentuaren azalpen laburra edo laburpena da. PDFan kapsula daiteke esportatzeko.</translation>
     </message>
     <message>
         <source>The topic of the content of the document. This field is for document keywords you wish to embed in a PDF, to assist searches and indexing of PDF files</source>
-        <translation>The topic of the content of the document. This field is for document keywords you wish to embed in a PDF, to assist searches and indexing of PDF files</translation>
+        <translation>Dokumentuaren edukiaren gaia. Eremu hau dokumentuko gakoak PDFan kapsulatzeko da, bilaketetan laguntzeko edo PDF fitxategiak indexatzeko</translation>
     </message>
     <message>
         <source>The physical or digital manifestation of the document. Media type and dimensions would be worth noting. RFC2045,RFC2046 for MIME types are also useful here</source>
-        <translation>The physical or digital manifestation of the document. Media type and dimensions would be worth noting. RFC2045,RFC2046 for MIME types are also useful here</translation>
+        <translation>Dokumentuaren manifestazio digitala edo fisikoa. MIMEren RFC2045, RFC2046 motak ere erabilgarriak dira.</translation>
     </message>
     <message>
         <source>The language in which the content of the document is written, usually a ISO-639 language code optionally suffixed with a hypen and an ISO-3166 country code, eg. en-GB, fr-CH</source>
-        <translation>The language in which the content of the document is written, usually a ISO-639 language code optionally suffixed with a hypen and an ISO-3166 country code, eg. en-GB, fr-CH</translation>
+        <translation>Dokumentuaren edukia zein hizkuntzatan idatzita dagoen, arruntena ISO-639 hizkuntza-kodea erabiltzea da, estatuen ISO-3166 kodearekin elkartuz: adib. en-GB, eu-ES</translation>
     </message>
 </context>
 <context>
@@ -5549,7 +5554,7 @@ denbora eta jurisdikzioa sartuz.</translation>
         <source>Importing File:
 %1
 failed!</source>
-        <translation>Fitxategia inportatzea: 
+        <translation>Fitxategia inportatzen: 
 %1 
 huts egin du</translation>
     </message>
@@ -5768,7 +5773,7 @@ huts egin du</translation>
     </message>
     <message>
         <source>Effects in use</source>
-        <translation>darabilen efektuak</translation>
+        <translation>Erabilitako efektuak</translation>
     </message>
     <message>
         <source>OK</source>
@@ -5885,8 +5890,9 @@ huts egin du</translation>
     <message>
         <source>The output directory - the place to store your images.
 Name of the export file will be &apos;documentname-pagenumber.filetype&apos;</source>
-        <translation>The output directory - the place to store your images.
-Name of the export file will be &apos;documentname-pagenumber.filetype&apos;</translation>
+        <translation>Irteerako direktorioa - zure irudiak gordeko diren lekua. 
+Esportatutako fitxategiaren izena honelakoa izan daiteke: 
+&apos;dokumizena-orrizenbakia.fitxatmota&apos;</translation>
     </message>
     <message>
         <source>Export only the current page</source>
@@ -5976,7 +5982,7 @@ Erabili 72 dpi irudiak pantailan erabiltzeko badira</translation>
     </message>
     <message>
         <source>Size of the images. 100% for no changes, 200% for two times larger etc.</source>
-        <translation>Size of the images. 100% for no changes, 200% for two times larger etc.</translation>
+        <translation>Irudien tamaina. %100 aldaketarik gabe, %200 bi aldiz handiagoa, e.a.</translation>
     </message>
     <message>
         <source>Image size in Pixels</source>
@@ -5984,7 +5990,7 @@ Erabili 72 dpi irudiak pantailan erabiltzeko badira</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation>TestuEtiketa</translation>
+        <translation>TextLabel</translation>
     </message>
     <message>
         <source>The compression ratio of your images - 100% is no compression, 0% highest compression. If in doubt, use &apos;Automatic&apos;</source>
@@ -6441,12 +6447,11 @@ Document Liberation Project-era http://www.documentliberation.org</translation>
     </message>
     <message>
         <source>This document contains some fonts that are not installed on your system, please choose a suitable replacement for them. Cancel will stop the document from loading.</source>
-        <translation>This document contains some fonts that are not installed on your system, please choose a suitable replacement for them. Cancel will stop the document from loading.</translation>
+        <translation>Dokumentu honek sisteman instalatuta ez dauden letra-tipo batzuk erabiltzen ditu, aukeratu hauentzako ordezko egokienak. Bertan behera uzteak dokumentua kargatzea geldituko luke.</translation>
     </message>
     <message>
         <source>Cancels these font substitutions and stops loading the document.</source>
-        <translation>Letra-tipoak ordeztea bertan behera utzi eta 
-dokumentua kargatzea gelditzen du.</translation>
+        <translation>Letra-tipoak ordeztea bertan behera utzi eta dokumentua kargatzea gelditzen du.</translation>
     </message>
     <message>
         <source>If you select OK, then save, these substitutions are made permanent in the document.</source>
@@ -8364,11 +8369,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&lt;b&gt;Insert a text frame&lt;/b&gt;&lt;br/&gt;A text frame allows you to enter any text in a defined position with the formatting you choose. You may select a text file on the Options tab if you want to immediately import a document into the frame. Scribus supports a wide variety of importable formats from plain text to OpenOffice.org.&lt;br/&gt;Your text may be edited and formatted on the page directly or in the Story Editor.</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Txertatu testu-marko bat&lt;/b&gt;&lt;br/&gt;Testu-marko batek edozein testu sartzea ahalbidetzen dizu, nahi duzun tokian eta formatuan. &apos;Aukerak&apos; fitxan testu-fitxategi bat aukera dezakezu dokumentu bat markora beherala inportatu nahi baduzu. Sribus-ek hainbat formatu inportatzea onartzen du, testu arruntetik hasi eta OpenOffice.org formatuetaraino&lt;br/&gt;Zure testua orrialdean zuzenean edo historia-editorean editatu eta formateatu ahal izango duzu.</translation>
     </message>
     <message>
         <source>&lt;b&gt;Insert an image frame&lt;/b&gt;&lt;br/&gt;An image frame allows you to place an image onto your page. Various image effects may be applied or combined including transparencies, brightness, and posterisation that allow retouching or the creation of interesting visual results. Image scaling and shaping is performed with the Properties Palette.</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Txertatu irudi-marko bat&lt;/b&gt;&lt;br/&gt;Irudi-marko batek irudia zure orrialdean kokatzea ahalbidetzen dizu. Hainbat irudi-efektu aplika daitezte, baita aldi berean ere, gardentasuna, distira eta posterizazioa barne, horrela ikusizko emaitza interesgarriak sortuz. &apos;Propietateen paleta&apos; aukeran irudien eskala aldatu eta forma eman dakieke.</translation>
     </message>
     <message>
         <source>Insert one or more text frames</source>
@@ -8616,7 +8621,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Adds a new Script, predefines a function with the same name. If you want to use this script as an &quot;Open Action&quot; script be sure not to change the name of the function.</source>
-        <translation>Adds a new Script, predefines a function with the same name. If you want to use this script as an &quot;Open Action&quot; script be sure not to change the name of the function.</translation>
+        <translation>Script berri bat gehitzen du, izen berdineko funtzioa aurredefinitzen du. Script hau &apos;Ekintza irekia&apos; bezala erabiltzea nahi baduzu ziurtatu zaitez funtzioaren izena ez duzula aldatzen.</translation>
     </message>
 </context>
 <context>
@@ -8870,7 +8875,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Make text in lower layers flow around objects - Enabling this forces text in lower layers to flow around objects of the layer for which this option has been enabled</source>
-        <translation type="unfinished"/>
+        <translation>Gaitu azpiko geruzetako testua objektuetara egokitu dadin - Hau gaitzeak azpiragoko testuak geruzaren objektuetara egokitu dadin behartzen du, gaituta dagoen geruzetarako</translation>
     </message>
     <message>
         <source>Name of the Layer - Double click on the name of a layer to edit the name</source>
@@ -9162,13 +9167,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Distance between the top margin guide and the edge of the page</source>
-        <translation>Goiko marjinaren gida eta orriaren ertzaren arteko 
-distantzia</translation>
+        <translation>Goiko marjinaren gida eta orriaren ertzaren arteko distantzia</translation>
     </message>
     <message>
         <source>Distance between the bottom margin guide and the edge of the page</source>
-        <translation>Beheko marjinaren gida eta orriaren ertzaren arteko 
-distantzia</translation>
+        <translation>Beheko marjinaren gida eta orriaren ertzaren arteko distantzia</translation>
     </message>
     <message>
         <source>&amp;Inside:</source>
@@ -9192,8 +9195,7 @@ distantzia</translation>
     </message>
     <message>
         <source>Import the margins for the selected page size from the available printers.</source>
-        <translation>Inportatu marjinak inprimagailu erabilgarrietatik 
-(hautatutako orri-tamainarentzako).</translation>
+        <translation>Inportatu marjinak inprimagailu erabilgarrietatik (hautatutako orri-tamainarentzako).</translation>
     </message>
     <message>
         <source>Apply settings to:</source>
@@ -9225,19 +9227,19 @@ distantzia</translation>
     </message>
     <message>
         <source>Distance for bleed from the top of the physical page</source>
-        <translation>Distantzia orriaren goitik kostatzeko</translation>
+        <translation>Distantzia orriaren goitik koskatzerako</translation>
     </message>
     <message>
         <source>Distance for bleed from the bottom of the physical page</source>
-        <translation>Distantzia orriaren azpitik kostatzeko</translation>
+        <translation>Distantzia orriaren azpitik koskatzerako</translation>
     </message>
     <message>
         <source>Distance for bleed from the left of the physical page</source>
-        <translation>Distantzia orriaren ezkerretik kostatzeko</translation>
+        <translation>Distantzia orriaren ezkerretik koskatzerako</translation>
     </message>
     <message>
         <source>Distance for bleed from the right of the physical page</source>
-        <translation>Distantzia orriaren eskuinetik kostatzeko</translation>
+        <translation>Distantzia orriaren eskuinetik koskatzerako</translation>
     </message>
     <message>
         <source>Bleeds</source>
@@ -9638,9 +9640,7 @@ distantzia</translation>
     </message>
     <message>
         <source>Insert a comma separated list of tokens import where a token can be * for all the pages, 1-5 for a range of pages or a single page number.</source>
-        <translation>Txertatu komaz bereiztutako token-en zerrenda, 
-token bat * orrialde guztientzako, 1-5 orrialde barruti 
-batentzako, edo orrialde bakar batentzako izan daiteke.</translation>
+        <translation>Txertatu komaz bereiztutako token-en zerrenda, token bat * orrialde guztientzako, 1-5 orrialde barruti batentzako, edo orrialde bakar batentzako izan daiteke.</translation>
     </message>
     <message>
         <source>&amp;Select...</source>
@@ -9881,7 +9881,7 @@ If no handle is selected all handles will be reset.</source>
     <name>MyPlugin</name>
     <message>
         <source>My &amp;Plugin</source>
-        <translation>Nire &amp;plugin-a</translation>
+        <translation>Nire &amp;plugina</translation>
     </message>
 </context>
 <context>
@@ -10091,13 +10091,11 @@ hautatu baduzu.</translation>
     </message>
     <message>
         <source>Distance between the top margin guide and the edge of the page</source>
-        <translation>Goiko marjinaren gida eta orriaren ertzaren arteko 
-distantzia</translation>
+        <translation>Goiko marjinaren gida eta orriaren ertzaren arteko distantzia</translation>
     </message>
     <message>
         <source>Distance between the bottom margin guide and the edge of the page</source>
-        <translation>Beheko marjinaren gida eta orriaren ertzaren arteko 
-distantzia</translation>
+        <translation>Beheko marjinaren gida eta orriaren ertzaren arteko distantzia</translation>
     </message>
     <message>
         <source>Distance between the left margin guide and the edge of the page. If a double-sided, 3 or 4-fold layout is selected, this margin space can be used to achieve the correct margins for binding</source>
@@ -10129,8 +10127,7 @@ distantzia</translation>
     </message>
     <message>
         <source>Import the margins for the selected page size from the available printers.</source>
-        <translation>Inportatu marjinak inprimagailu erabilgarrietatik 
-(hautatutako orri-tamainarentzako).</translation>
+        <translation>Inportatu marjinak inprimagailu erabilgarrietatik (hautatutako orri-tamainarentzako).</translation>
     </message>
 </context>
 <context>
@@ -10534,7 +10531,7 @@ objektuetan bihurtuz.</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation>Lisoa</translation>
+        <translation>Solidoa</translation>
     </message>
     <message>
         <source>Solid Wireframe</source>
@@ -10566,7 +10563,7 @@ objektuetan bihurtuz.</translation>
     </message>
     <message>
         <source>Shaded Vertices</source>
-        <translation>erpin itzaleztatuak</translation>
+        <translation>Erpin itzaldunak</translation>
     </message>
     <message>
         <source>Illustration</source>
@@ -10751,8 +10748,7 @@ objektuetan bihurtuz.</translation>
     </message>
     <message>
         <source>Make these settings the default and do not prompt again when importing an OASIS OpenDocument.</source>
-        <translation>Jarri ezarpen hauek lehenetsi gisa, eta ez galdetu berriro OASIS OpenDocument 
-inportatzean.</translation>
+        <translation>Jarri ezarpen hauek lehenetsi gisa, eta ez galdetu berriro OASIS OpenDocument inportatzean.</translation>
     </message>
     <message>
         <source>Overwrite Paragraph Styles</source>
@@ -10835,7 +10831,7 @@ inportatzean.</translation>
     </message>
     <message>
         <source>Name &quot;%1&quot; isn&apos;t unique.&lt;br/&gt;Please choose another.</source>
-        <translation>&quot;%1&quot; izena ez da bakarra. Aukeratu beste bat.</translation>
+        <translation>&quot;%1&quot; izena ez da bakarra.&lt;br/&gt;Aukeratu beste bat.</translation>
     </message>
     <message>
         <source>Page </source>
@@ -11063,7 +11059,7 @@ inportatzean.</translation>
     </message>
     <message>
         <source>Gives a print preview using simulations of generic CMYK inks, instead of RGB colors</source>
-        <translation>Inprimatzeko aurrebista ematen du CMHB tinta orokorren simulazioa landuz , BGU koloreak erabili ordez</translation>
+        <translation>Inprimatzeko aurrebista ematen du CMYK tinta orokorren simulazioa landuz , RGB koloreak erabili ordez</translation>
     </message>
     <message>
         <source>Enable/disable the C (Cyan) ink plate</source>
@@ -11075,11 +11071,11 @@ inportatzean.</translation>
     </message>
     <message>
         <source>Enable/disable the Y (Yellow) ink plate</source>
-        <translation>Gaitu/desgaitu H (horia) tinta</translation>
+        <translation>Gaitu/desgaitu Y (horia) tinta</translation>
     </message>
     <message>
         <source>Enable/disable the K (Black) ink plate</source>
-        <translation>Gaitu/desgaitu B (beltza) tinta</translation>
+        <translation>Gaitu/desgaitu K (beltza) tinta</translation>
     </message>
     <message>
         <source>Display Trans&amp;parency</source>
@@ -11099,15 +11095,15 @@ inportatzean.</translation>
     </message>
     <message>
         <source>&amp;Y</source>
-        <translation>&amp;H</translation>
+        <translation>&amp;Y</translation>
     </message>
     <message>
         <source>&amp;K</source>
-        <translation>&amp;B</translation>
+        <translation>&amp;K</translation>
     </message>
     <message>
         <source>&amp;Under Color Removal</source>
-        <translation>&amp;Azpikoloreak (UCR)</translation>
+        <translation>&amp;Azpiko koloreak kentzea (UCR)</translation>
     </message>
     <message>
         <source>Separation Name</source>
@@ -11845,7 +11841,14 @@ p, li { white-space: pre-wrap; }
 &lt;tr&gt;
 &lt;td style=&quot;border: none;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;If color management is enabled, a triangle warning indicator is a warning that the color maybe outside of the color gamut of the current printer profile selected. What this means is the color may not print exactly as indicated on screen. Spot colors are indicated by a red circle. More hints about gamut warnings are in the online help under Color Management. Registration colors will have a registration mark next to the color. Use Registration only for printers marks and crop marks.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans Serif&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;table border=&quot;0&quot; style=&quot;-qt-table-type: root; margin-top:4px; margin-bottom:4px; margin-left:4px; margin-right:4px;&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot;border: none;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Kolore-kudeaketa gaituta badago, hiruki formako abisu-adierazle batek kolorea hautatutako inprimagailu-profiletik gamaz kanpo dagoela adieraz dezake. Horrek esan nahi du kolorea agian ez dela inprimatuko pantailan agertzen den moduan. Kolore zuzenak zirkulu gorri batez markatzen dira. Gamari buruzko abisu gehiagori buruzko informazioa, lineako laguntzaren &apos;Kolore-kudeaketa&apos; atalean. Erregistro-koloreek erregistro-marka bat izango dute kolorearen alboan. Erabili erregistroa inprimatze-marketarako eta mozte-marketarako soilik.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>1</source>
@@ -12033,7 +12036,11 @@ If the file was a PostScript-based, try to import it with File -&amp;gt; Import.
 Not all files have DSC conformant comments where the color descriptions are located.
  This prevents importing colors from some files.
 See the Edit Colors section of the documentation for more details.</source>
-        <translation type="unfinished"/>
+        <translation>%1 fitxategiak ez dauka inporta daitekeen kolorerik.
+Fitxategia PostScript-en oinarrituta badago, saiatu Fitxategia -&amp;gt; Inportatu erabiltzen.
+Fitxategi guztiek ez daukatu DSCrekin bat datozen iruzkinak kolore-deskribapenak
+gordetzeko. Horrelakorik ezean, fitxategieren koloreak ezin dira inportatu.
+Ikusi dokumentazioaren &apos;Editatu koloreak&apos; atala xehetasun gehiagorako.</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
@@ -12319,7 +12326,7 @@ both end points must lie outside of the polygon</source>
     </message>
     <message>
         <source>Intersection of the shapes</source>
-        <translation>Formen ebaketa</translation>
+        <translation>Formen ebakidura</translation>
     </message>
     <message>
         <source>Result is the area where the two shapes do not intersect</source>
@@ -12328,7 +12335,8 @@ both end points must lie outside of the polygon</source>
     <message>
         <source>Break apart,
 The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Zatiketa.
+Emaitza &apos;Ebakidura&apos; eta &apos;Esklusio&apos; aukeren konbinazioa da.</translation>
     </message>
     <message>
         <source>Custom Colors</source>
@@ -13338,7 +13346,7 @@ Hautatu beste bat.</translation>
     </message>
     <message>
         <source>Y:</source>
-        <translation>H:</translation>
+        <translation>Y:</translation>
     </message>
     <message>
         <source>Same as Page Margins</source>
@@ -13689,7 +13697,7 @@ Hautatu beste bat.</translation>
     </message>
     <message>
         <source>There is a problem loading %1 of %2 plugins. %3 This is probably caused by some kind of dependency issue or old plugins existing in your install directory. If you clean out your install directory and reinstall and this still occurs, please report it on bugs.scribus.net.</source>
-        <translation type="unfinished"/>
+        <translation>Arazoa dago %2 pluginetatik %1 kargatzean. %3 Mendekotasun-arazo batengatik sortutakoa izan daiteke edo zure instalazio-direktorioan plugin zaharrak daudelako. Zure instalazio-direktorioa garbitu ondoren plugina berrinstalatu eta oraindik gertatzen bada, jakinarazi arazoa bugs.scribus.net webgunean.</translation>
     </message>
 </context>
 <context>
@@ -14024,10 +14032,7 @@ egoerako %2 kodea</translation>
     <message>
         <source>Scribus was not able to save its preferences:&lt;br&gt;%1&lt;br&gt;Please check file and directory permissions and available disk space.</source>
         <comment>scribus app error</comment>
-        <translation>Scribus-ek ezin izan du bere hobespenak gorde: 
-&lt;br&gt;%1 
-&lt;br&gt;Egiaztatu fitxategi eta direktorioko baimenak eta disko 
-gogorreko leku erabilgarria.</translation>
+        <translation>Scribus-ek ezin izan du bere hobespenak gorde: &lt;br&gt;%1 &lt;br&gt;Egiaztatu fitxategi eta direktorioko baimenak eta disko gogorreko leku erabilgarria.</translation>
     </message>
     <message>
         <source>Error Loading Preferences</source>
@@ -14035,9 +14040,7 @@ gogorreko leku erabilgarria.</translation>
     </message>
     <message>
         <source>Scribus was not able to load its preferences:&lt;br&gt;%1&lt;br&gt;Default settings will be loaded.</source>
-        <translation>Scribus-ek ezin izan du bere hobespenak kargatu: 
-&lt;br&gt;%1 
-&lt;br&gt;Ezarpen lehenetsiak kargatuko dira.</translation>
+        <translation>Scribus-ek ezin izan du bere hobespenak kargatu: &lt;br&gt;%1 &lt;br&gt;Ezarpen lehenetsiak kargatuko dira.</translation>
     </message>
     <message>
         <source>No valid renderframe config found. Using defaults!</source>
@@ -14347,7 +14350,7 @@ gogorreko leku erabilgarria.</translation>
     </message>
     <message>
         <source>Place a ruler against your screen and drag the slider to set the zoom level so Scribus will display your pages and objects on them at the correct size</source>
-        <translation type="unfinished"/>
+        <translation>Kokatu erregela bat zure pantailaren gainean eta arrastatu graduatzailea zoom maila ezartzeko. Horrela Scribus-ek zure orrialdeak eta objektuak haren gainean eta tamaina zuzenean erakutsiko ditu</translation>
     </message>
     <message>
         <source> dpi</source>
@@ -14750,7 +14753,7 @@ gogorreko leku erabilgarria.</translation>
     </message>
     <message>
         <source>pageLayoutButtonGroup</source>
-        <translation type="unfinished"/>
+        <translation>pageLayoutButtonGroup</translation>
     </message>
     <message>
         <source>Double Page</source>
@@ -14913,7 +14916,7 @@ gogorreko leku erabilgarria.</translation>
     </message>
     <message>
         <source>Web Browser</source>
-        <translation>Web arakatzailea</translation>
+        <translation>Web nabigatzailea</translation>
     </message>
     <message>
         <source>PDF Viewer</source>
@@ -14997,7 +15000,7 @@ gogorreko leku erabilgarria.</translation>
     </message>
     <message>
         <source>Locate your web browser</source>
-        <translation>Bilatu zure web arakatzailea</translation>
+        <translation>Bilatu zure web nabigatzailea</translation>
     </message>
     <message>
         <source>Locate your PDF viewer</source>
@@ -15043,17 +15046,17 @@ gogorreko leku erabilgarria.</translation>
         <source>Scribus has found the following pdflatex command:
 %1
 Do you want to use this?</source>
-        <translation>Scribus-ek onako pdflatex komandoa aurkitu d:
+        <translation>Scribus-ek honako pdflatex komandoa aurkitu du:
 %1
 Hori erabili nahi duzu?</translation>
     </message>
     <message>
         <source>&lt;qt&gt;File system location for web browser.&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;Web arakatzailearen kokapena fitxategi-sisteman.&lt;/qt&gt;</translation>
+        <translation>&lt;qt&gt;Web nabigatzailearen kokapena fitxategi-sisteman.&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>&lt;qt&gt;File system location for PDF viewer.&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;PDF ikustailearen kokalekua fitxategi-sisteman.&lt;/qt&gt;</translation>
+        <translation>&lt;qt&gt;PDF ikustailearen kokapena fitxategi-sisteman.&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>&lt;qt&gt;File system location for Uniconvertor.&lt;/qt&gt;</source>
@@ -15395,7 +15398,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Set the level of compression for images in the cache. Higher values result in smaller cache files but also make writes to the cache slower.</source>
-        <translation>Ezarri cache-ko irudien konprimaketa-maila. Balio altuagoek cache-fitxategi txikiagoak emango ditu, baina cache-an idaztea motelagoa izango da.</translation>
+        <translation>Ezarri cacheko irudien konprimaketa-maila. Balio altuagoek cache-fitxategi txikiagoak emango ditu, baina cache-an idaztea motelagoa izango da.</translation>
     </message>
     <message>
         <source>Form</source>
@@ -15530,7 +15533,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>scalingButtonGroup</source>
-        <translation type="unfinished"/>
+        <translation>scalingButtonGroup</translation>
     </message>
     <message>
         <source>Horizontal Scaling:</source>
@@ -15562,7 +15565,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>previewButtonGroup</source>
-        <translation type="unfinished"/>
+        <translation>previewButtonGroup</translation>
     </message>
     <message>
         <source>Normal Resolution</source>
@@ -15782,7 +15785,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>The %1 key sequence is already in use by &quot;%2&quot;</source>
-        <translation type="unfinished"/>
+        <translation>%1 gako-sekuentzia hartuta dago &quot;%2&quot; egiteko</translation>
     </message>
 </context>
 <context>
@@ -15915,7 +15918,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>rangeButtonGroup</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">rangeButtonGroup</translation>
     </message>
     <message>
         <source>Choose Pages</source>
@@ -15939,7 +15942,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Page Binding:</source>
-        <translation type="unfinished"/>
+        <translation>Orrien azaleztatzea:</translation>
     </message>
     <message>
         <source>Resolution for EPS Graphics:</source>
@@ -15955,7 +15958,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Limit Maximum Image Resolution to:</source>
-        <translation type="unfinished"/>
+        <translation>Mugatu irudien bereizmen maximoa honetara:</translation>
     </message>
     <message>
         <source>Allow Copying Text and Graphics</source>
@@ -16107,7 +16110,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Spot Function:</source>
-        <translation type="unfinished"/>
+        <translation>Kolore zuzenen funtzioa:</translation>
     </message>
     <message>
         <source>Pre-Press</source>
@@ -16313,11 +16316,11 @@ batentzako, edo orrialde bakar batentzako izan daiteke.</translation>
     </message>
     <message>
         <source>Determines the PDF compatibility.&lt;br/&gt;The default is &lt;b&gt;PDF 1.3&lt;/b&gt; which gives the widest compatibility.&lt;br/&gt;Choose &lt;b&gt;PDF 1.4&lt;/b&gt; if your file uses features such as transparency or you require 128 bit encryption.&lt;br/&gt;&lt;b&gt;PDF 1.5&lt;/b&gt; is necessary when you wish to preserve objects in separate layers within the PDF.&lt;br/&gt;&lt;b&gt;PDF/X-3&lt;/b&gt; is for exporting the PDF when you want color managed RGB for commercial printing and is selectable when you have activated color management. Use only when advised by your printer or in some cases printing to a 4 color digital color laser printer.&lt;br/&gt;&lt;b&gt;PDF/X-1a&lt;/b&gt; is for blind exchange with colors strictly specified in CMYK or spot colors.&lt;br/&gt;&lt;b&gt;PDF/X-4&lt;/b&gt; is an extension of PDF/X-3 to support transparancy and layering.</source>
-        <translation type="unfinished"/>
+        <translation>PDF bateragarritasuna zehazten du.&lt;br/&gt;Balio lehenetsia &lt;b&gt;PDF 1.3&lt;/b&gt; da, bateragarritasunik zabalena ematen duena.&lt;br/&gt;Hautatu &lt;b&gt;PDF 1.4&lt;/b&gt; zure fitxategiek gardentasuna bezalako ezaugarriak baditu edo 128 bit-eko zifratzea behar baduzu.&lt;br/&gt;&lt;b&gt;PDF 1.5&lt;/b&gt; beharrezkoa da objektuak geruza desberdinetan antolatuta gorde nahi badituzu.&lt;br/&gt;&lt;b&gt;PDF/X-3&lt;/b&gt; inprimatze komertzialerako kolore-kudeaketa duen eta hura aktibatuta dagoenean aukeratu daitekeena duen PDFa behar duzunerako da. Erabili soilik zure inprimatze-etxean aholkatzen dizutenean edo zenbait kasutan 4 kolore figitaleko laser-inprimagailuetan erabiltzeko.&lt;br/&gt;&lt;b&gt;PDF/X-1a&lt;/b&gt; koloreak CMY sisteman zehatz-mehatz adierazita daudenerako edo kolore zuzenak direnerako trukatze itsurako da.&lt;br/&gt;&lt;b&gt;PDF/X-4&lt;/b&gt; PDF/X-3 formatuaren luzapen bat da gardentasuna eta geruzak onartzeko.</translation>
     </message>
     <message>
         <source>Determines the binding of pages in the PDF. Unless you know you need to change it leave the default choice - Left.</source>
-        <translation>Determines the binding of pages in the PDF. Unless you know you need to change it leave the default choice - Left.</translation>
+        <translation>Orrien loturak zehazten ditu PDFan. Aldatzeko beharreik ez baduzu, utzi aukera lehenetsiarekin: ezkerra.</translation>
     </message>
     <message>
         <source>Generates thumbnails of each page in the PDF. Some viewers can use the thumbnails for navigation.</source>
@@ -16333,11 +16336,11 @@ batentzako, edo orrialde bakar batentzako izan daiteke.</translation>
     </message>
     <message>
         <source>Embed the bookmarks you created in your document. These are useful for navigating long PDF documents.</source>
-        <translation>Embed the bookmarks you created in your document. These are useful for navigating long PDF documents.</translation>
+        <translation>Kapsulatu dokumentuan sortutako laster-markak. Oso erabilgarriak dira PDF dokumentu luzeetan nabigatzeko.</translation>
     </message>
     <message>
         <source>Export resolution of text and vector graphics. This does not affect the resolution of bitmap images like photos.</source>
-        <translation>Export resolution of text and vector graphics. This does not affect the resolution of bitmap images like photos.</translation>
+        <translation>Esportatu testu eta bektore-grafikoen bereizmena. Honek ez du eraginik argazkiak bezalako bitmapa irudien bereizmenean.</translation>
     </message>
     <message>
         <source>Export PDFs in image frames as embedded PDFs. This does *not* yet take care of colorspaces, so you should know what you are doing before setting this to &apos;true&apos;.</source>
@@ -16345,15 +16348,15 @@ batentzako, edo orrialde bakar batentzako izan daiteke.</translation>
     </message>
     <message>
         <source>Enables lossless compression of text and graphics. Unless you have a reason, leave this checked. This reduces PDF file size.</source>
-        <translation>Enables lossless compression of text and graphics. Unless you have a reason, leave this checked. This reduces PDF file size.</translation>
+        <translation>Testu eta grafikoen galerarik gabeko konpresioa gaitzen du. Ez baduzu beste arrazoirik, utzi hau egiaztatuta. Honek PDF fitxategiaren tamaina gutxiagotzen du.</translation>
     </message>
     <message>
         <source>Method of compression to use for images. Automatic allows Scribus to choose the best method. ZIP is lossless and good for images with solid colors. JPEG is better at creating smaller PDF files which have many photos (with slight image quality loss possible). Leave it set to Automatic unless you have a need for special compression options.</source>
-        <translation type="unfinished"/>
+        <translation>Irudietarako erabiliko den konpresio mota. Automatikoak metodorik onena Scribus-ek hauta dezan ahalbidetzen du. ZIP metodoak ez du galerarik sortzen eta ona da kolore solidoak dituzten irudietarako. JPEG hobea da irudi asko dituzten PDF txikiagoak sortzeko (kalitate galerarik txikia gerta daiteke). Utzi &apos;Automatikoa&apos; moduan, konpresio-aukera bereziak ez badituzu.</translation>
     </message>
     <message>
         <source>Compression quality levels for lossy compression methods: Minimum (25%), Low (50%), Medium (75%), High (85%), Maximum (95%). Note that a quality level does not directly determine the size of the resulting image - both size and quality loss vary from image to image at any given quality level. Even with Maximum selected, there is always some quality loss with jpeg.</source>
-        <translation type="unfinished"/>
+        <translation>Konpresio-kalitatearen maila galera eragiten duten konpresio-metodoetarako: Minimoa (%25), baxua (%50), ertaina (%75), altua (%85), maximoa (%95). Kontuan izan kalitate-mailak ez duela zuzenean zehazten emaitza gisa lortuko den irudiaren tamaina - biak, tamaina eta kalitate-galera aldakorrak dira irudi batetik bestera, edozein kalitate-mailan. Nahiz eta maximoa egon hautatuta, beti dago galera txiki bat JPEG formatuan.</translation>
     </message>
     <message>
         <source>Limits the resolution of your bitmap images to the selected DPI. Images with a lower resolution will be left untouched. Leaving this unchecked will render them at their native resolution. Enabling this will increase memory usage and slow down export.</source>
@@ -16365,7 +16368,7 @@ batentzako, edo orrialde bakar batentzako izan daiteke.</translation>
     </message>
     <message>
         <source>Enable the security features in your exported PDF. If you selected PDF 1.3, the PDF will be protected by 40 bit encryption. If you selected PDF 1.4, the PDF will be protected by 128 bit encryption. Disclaimer: PDF encryption is not as reliable as GPG or PGP encryption and does have some limitations.</source>
-        <translation>Enable the security features in your exported PDF. If you selected PDF 1.3, the PDF will be protected by 40 bit encryption. If you selected PDF 1.4, the PDF will be protected by 128 bit encryption. Disclaimer: PDF encryption is not as reliable as GPG or PGP encryption and does have some limitations.</translation>
+        <translation>Gaitu segurtasun funtzioak esportatutako PDFan. PDF 1.3 aukeratzen baduzu, PDFa 40 bit-eko enkriptazioarekin babestuko da. PDF 1.4 aukeratuz enkriptatzean 128 bit erabiliko dira PDFa babesteko. Ezespena: PDFa enkriptatzea ez da GPG edo PGP enkripzio bezain fidagarria eta zenbait murriztapen ditu.</translation>
     </message>
     <message>
         <source>Choose a password for users to be able to read your PDF.</source>
@@ -16373,27 +16376,27 @@ batentzako, edo orrialde bakar batentzako izan daiteke.</translation>
     </message>
     <message>
         <source>Allow printing of the PDF. If un-checked, printing is prevented. </source>
-        <translation>Allow printing of the PDF. If un-checked, printing is prevented. </translation>
+        <translation>Baimendu PDFa inprimatzea. Ez bada aktibatzen, inprimatzea galarazita egongo da.</translation>
     </message>
     <message>
         <source>Allow modifying of the PDF. If un-checked, modifying the PDF is prevented.</source>
-        <translation>Allow modifying of the PDF. If un-checked, modifying the PDF is prevented.</translation>
+        <translation>Baimendu PDFa eraldatzea. Ez badago aktibatuta, PDFa aldatzea galarazita egongo da.</translation>
     </message>
     <message>
         <source>Allow copying of text or graphics from the PDF. If unchecked, text and graphics cannot be copied.</source>
-        <translation>Allow copying of text or graphics from the PDF. If unchecked, text and graphics cannot be copied.</translation>
+        <translation>Baimendu testua edo grafikoak PDFtik kopiatzea. Ez bada aktibatzen, testua eta grafikoak ezin izango dira kopiatu.</translation>
     </message>
     <message>
         <source>Allow adding annotations and fields to the PDF. If unchecked, editing annotations and fields is prevented.</source>
-        <translation>Allow adding annotations and fields to the PDF. If unchecked, editing annotations and fields is prevented.</translation>
+        <translation>Baimendu oharpenak eta eremuak PDFan gehitzea. Ez bada aktibatzen, oharpenak eta eremuak editatzea galaraziko da.</translation>
     </message>
     <message>
         <source>Color model for the output of your PDF. Choose Screen/Web for PDFs which are used for screen display and for printing on typical inkjets. Choose Printer when printing to a true 4 color CMYK printer. Choose Grayscale when you want a grey scale PDF.</source>
-        <translation>Color model for the output of your PDF. Choose Screen/Web for PDFs which are used for screen display and for printing on typical inkjets. Choose Printer when printing to a true 4 color CMYK printer. Choose Grayscale when you want a grey scale PDF.</translation>
+        <translation>PDFaren irteerako kolore-eredua. Aukeratu &apos;Pantaila/Web gunea&apos; pantailan bistaratuko diren PDFentzako eta tintaz inprimatzeko. Aukeratu &apos;Inprimagailua&apos; egiazko 4 koloredun CMYK motako inprimagailuan inprimatzeko. Aukeratu &apos;Gris-eskala&apos; PDF dokumentua gris-eskalan egotea nahi denean.</translation>
     </message>
     <message>
         <source>This is an advanced setting which is not enabled by default. This should only be enabled when specifically requested by your printer and they have given you the exact details needed. Otherwise, your exported PDF may not print properly and is truly not portable across systems.</source>
-        <translation>This is an advanced setting which is not enabled by default. This should only be enabled when specifically requested by your printer and they have given you the exact details needed. Otherwise, your exported PDF may not print properly and is truly not portable across systems.</translation>
+        <translation>Hau ezarpen aurreratu da, lehenetsi gisa gaitzen ez dena. Ezarpen hau soilik gaitu baldin eta inprimagailuak bereziki eskatzen badu eta behar dituen zehaztasun guztiak ematen baditu. Bestela, esportatutako PDFa ez da ongi inprimatuko eta sistemetan zehar ez da eramangarria izango.</translation>
     </message>
     <message>
         <source>Embed a color profile for solid colors</source>
@@ -16433,7 +16436,7 @@ batentzako, edo orrialde bakar batentzako izan daiteke.</translation>
     </message>
     <message>
         <source>Enables Spot Colors to be converted to composite colors. Unless you are planning to print spot colors at a commercial printer, this is probably best left enabled.</source>
-        <translation>Enables Spot Colors to be converted to composite colors. Unless you are planning to print spot colors at a commercial printer, this is probably best left enabled.</translation>
+        <translation>Kolore zuzenak kolore konposatu bihurtzea ahalbidetzen du. Inprimatze-etxe komertzial batean kolore zuzenak inprimatzea aurreikusten ez baduzu, onena aukera hori gaituta uztea da.</translation>
     </message>
     <message>
         <source>Do not show objects outside the margins in the exported file</source>
@@ -16469,11 +16472,11 @@ batentzako, edo orrialde bakar batentzako izan daiteke.</translation>
     </message>
     <message>
         <source>Output profile for printing. If possible, get some guidance from your printer on profile selection.</source>
-        <translation>Output profile for printing. If possible, get some guidance from your printer on profile selection.</translation>
+        <translation>Irteerako profila inprimatzeko. Posible bada, begiratu zure inprimagailuko dokumentazioan.</translation>
     </message>
     <message>
         <source>Mandatory string for PDF/X or the PDF will fail PDF/X conformance. We recommend you use the title of the document.</source>
-        <translation>Mandatory string for PDF/X or the PDF will fail PDF/X conformance. We recommend you use the title of the document.</translation>
+        <translation>PDF/X moduaren derrigorrezko katea, bestela PDFak huts egingo du PDF/X betetzean. Dokumentuaren titulua erabiltzea gomendatzen dugu.</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -16573,7 +16576,7 @@ batentzako, edo orrialde bakar batentzako izan daiteke.</translation>
     </message>
     <message>
         <source>InfoString</source>
-        <translation type="unfinished"/>
+        <translation>InfoString</translation>
     </message>
     <message>
         <source>No Effect</source>
@@ -16621,7 +16624,7 @@ batentzako, edo orrialde bakar batentzako izan daiteke.</translation>
     </message>
     <message>
         <source>Embed fonts into the PDF. Embedding the fonts will preserve the layout and appearance of your document.</source>
-        <translation>Embed fonts into the PDF. Embedding the fonts will preserve the layout and appearance of your document.</translation>
+        <translation>Kapsulatu letra-tipoak PDFan. Letra-tipoak kapsulatzeak dokumentuaren diseinua eta itxura mantenduko du.</translation>
     </message>
     <message>
         <source>Enables presentation effects when using Adobe&amp;#174; Reader&amp;#174; and other PDF viewers which support this in full screen mode.</source>
@@ -16634,11 +16637,12 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Length of time the page is shown before the presentation starts on the selected page. Setting 0 will disable automatic page transition.</source>
-        <translation>Length of time the page is shown before the presentation starts on the selected page. Setting 0 will disable automatic page transition.</translation>
+        <translation>Denbora orrialdea erakusteko aurkezpena hautatutako orrialdean hasi aurretik. 
+0 balioarekin ezartzen bada, orrialdeen transizio automatikoa desgaituko da.</translation>
     </message>
     <message>
         <source>Length of time the effect runs. A shorter time will speed up the effect, a longer one will slow it down.</source>
-        <translation>Length of time the effect runs. A shorter time will speed up the effect, a longer one will slow it down.</translation>
+        <translation>Efektua exekutatzek denbora. Denbora motz batek efektua abiazkartuko du, handiago batek moteldu egingo du.</translation>
     </message>
     <message>
         <source>Type of the display effect.</source>
@@ -16856,7 +16860,7 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Default ICC profiles directory. This cannot be changed with a document open. By default, Scribus will look in the System Directories under Mac OSX and Windows. On Linux and Unix, Scribus will search $home/.color/icc, $home/.local/share/color/icc, /usr/share/color/icc and /usr/local/share/color/icc</source>
-        <translation type="unfinished"/>
+        <translation>ICC profilen direktorio lehenetsia. Hau ezin da aldatu dokumenturen bat irekita dagoenean. Modu lehenetsian, Scribus-ek sistemaren direktorioetan begiratuko du Mac OSX eta Windows sistemetan. Linuxen eta Unixen, Scribus-ek $home/.color/icc, $home/.local/share/color/icc, /usr/share/color/icc eta /usr/local/share/color/icc begiratuko ditu.</translation>
     </message>
 </context>
 <context>
@@ -16994,7 +16998,7 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Check for Visible/Printable mismatch in layers</source>
-        <translation type="unfinished"/>
+        <translation>Egiaztatu inprimatzen dena eta ikusten dena bat datorren geruzetan</translation>
     </message>
     <message>
         <source>Ignore non-printable layers</source>
@@ -17081,7 +17085,7 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Apply Under Color Removal</source>
-        <translation>Aplikatu azpikoloreak</translation>
+        <translation>Aplikatu azpiko koloreak kentzea</translation>
     </message>
     <message>
         <source>Convert Spot Colors to Process Colors</source>
@@ -17163,11 +17167,11 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>A way of switching off some of the gray shades which are composed of cyan, yellow and magenta and using black instead. UCR most affects parts of images which are neutral and/or dark tones which are close to the gray. Use of this may improve printing some images and some experimentation and testing is need on a case by case basis. UCR reduces the possibility of over saturation with CMY inks.</source>
-        <translation>A way of switching off some of the gray shades which are composed of cyan, yellow and magenta and using black instead. UCR most affects parts of images which are neutral and/or dark tones which are close to the gray. Use of this may improve printing some images and some experimentation and testing is need on a case by case basis. UCR reduces the possibility of over saturation with CMY inks.</translation>
+        <translation>Grisen itzaldura itzaltzeko modu bat. Itzaldura hau cyana, horia eta magenta koloreekin osatua dago, beltzaren ordez erabiliz. UCR metodoak irudi bateko tonu grisetik gertu dauden neutralak edota ilunak diren zatiei eragiten die batiz bat. Honen erabilpenak zenbait irudiren inprimazioa hobetzen du, eta kasuz kasuko esperimentazioa eta probak egin behar izaten dira. UCRek gainsaturazioaren posibilitatea gutxitzen du CMY tintekin.</translation>
     </message>
     <message>
         <source>Enables Spot Colors to be converted to composite colors. Unless you are planning to print spot colors at a commercial printer, this is probably best left enabled.</source>
-        <translation>Enables Spot Colors to be converted to composite colors. Unless you are planning to print spot colors at a commercial printer, this is probably best left enabled.</translation>
+        <translation>Kolore zuzenak kolore konposatu bihurtzea ahalbidetzen du. Inprimatze-etxe komertzial batean kolore zuzenak inprimatzea aurreikusten ez baduzu, onena aukera hori gaituta uztea da.</translation>
     </message>
     <message>
         <source>Allows you to embed color profiles in the print stream when color management is enabled</source>
@@ -17218,7 +17222,7 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>This enables the scrapbook to be used an extension to the copy/paste buffers. Simply copying an object or grouped object will send this to the Scrapbook automatically</source>
-        <translation type="unfinished"/>
+        <translation>Ebakinen albuma kopiatu/itsatsi bufferren luzapen gisa erabiltzea ahalbidetznen du. Objektu bat edo taldekatutako objektu bat kopiatzeak hura ebakinen albumera automatikoki bidaliko du.</translation>
     </message>
     <message>
         <source>This enables copied items to be kept permanently in the scrapbook</source>
@@ -17748,7 +17752,7 @@ konfiguratuta badago KDEko pluginak bilatzeko.</translation>
     </message>
     <message>
         <source>When you have selected a Document Layout other than Single Page, you can select a predefined page layout here. &apos;None&apos; leaves margins as is, Gutenberg sets margins classically. &apos;Magazine&apos; sets all margins to the same value. Leading is Left/Inside value.</source>
-        <translation type="unfinished"/>
+        <translation>Orrialde bakarrekoa ez den beste edozein dokumentu-diseina hautatu baduzu, hemen aurredefinitutatko orrialde-diseinu bat hauta dezakezu. &apos;Bat ere ez&apos; aukerak marjinak bere hartan uzten ditu, &apos;Gutenberg&apos; aukerak marjinak modu klasikoan ezartzen ditu. &apos;Magazine&apos; aukerak balio bereko marjinak ezartzen ditu. Gidaria barru ezkerreko balioa da.</translation>
     </message>
 </context>
 <context>
@@ -17920,7 +17924,7 @@ batentzako, edo orrialde bakar batentzako izan daiteke.</translation>
     </message>
     <message>
         <source>Apply Under Color Removal</source>
-        <translation>Aplikatu azpikoloreak</translation>
+        <translation>Aplikatu azpiko koloreak kentzea</translation>
     </message>
     <message>
         <source>Convert Spot Colors to Process Colors</source>
@@ -18053,11 +18057,11 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>&lt;qt&gt;A way of switching off some of the gray shades which are composed of cyan, yellow and magenta and using black instead. Under Color Removal mostly affects parts of images which are neutral and/or dark tones which are close to the gray. Use of this may improve printing some images and some experimentation and testing is need on a case by case basis. Under Color Removal reduces the possibility of over saturation with CMY inks.&lt;/qt&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;Cyan, magenta eta horiaren konbinazioz sortutako gris-itzal batzuk desaktibatzeko modu bat, haien ordez beltza erabilitz. Azpiko koloreak kentzeko metodoak irudi bateko tonu grisetik gertu dauden neutralak edota ilunak diren zatiei eragiten die batik bat. Honen erabilerak zenbait irudiren inprimatzea hobetzen du, eta kasuz kasuko esperimentazioa eta probak egin behar izaten dira. Azpiko koloreak kentzeak gainsaturazioaren posibilitatea gutxitzen du CMY tintekin.&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>&lt;qt&gt;Enables Spot Colors to be converted to composite colors. Unless you are planning to print spot colors at a commercial printer, this is probably best left enabled.&lt;/qt&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;Kolore zuzenak kolore konposatu bihurtzea ahalbidetzen du. Inprimagailu komertzial batean inprimatu nahi izanez gero, aukera hau gaituta uztea gomendatzen da.&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>Length:</source>
@@ -18151,7 +18155,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Disable text flow from lower frames around object</source>
-        <translation>Desgaitu azpiragoko markoen testu-fluxua objektuaren inguruan</translation>
+        <translation>Desgaitu azpiko markoen testu-fluxua objektuaren inguruan</translation>
     </message>
     <message>
         <source>Use the frame shape for text flow of text frames below the object.</source>
@@ -18159,11 +18163,11 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Use the bounding box, which is always rectangular, instead of the frame&apos;s shape for text flow of text frames below the object. </source>
-        <translation type="unfinished"/>
+        <translation>Erabili muga-koadroa (beti laukizuzena dena) markoaren forma erabili ordez objektuaren azpian dauden testu-markoen testua egokitzeko.</translation>
     </message>
     <message>
         <source>When chosen, the contour line can be edited with the Edit Shape Tool on the palette further above. When edited via the shape palette, this becomes a second separate line originally based on the frame&apos;s shape for text flow of text frames below the object.</source>
-        <translation type="unfinished"/>
+        <translation>Hautatuta dagoenean, ingerada-lerroa goiko paletako &apos;Editatu forma&apos; tresnarekin edita daiteke. Formen paletaren bidez editatzen denean, bereizitako bigarren lerro bat bihurtzen da, jatorriz markoaren forman oinarritutakoa, objektuaren azpiko testu-markoen testu-fluxurako.</translation>
     </message>
     <message>
         <source>Use the clipping path of the image</source>
@@ -18171,7 +18175,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Any path self-intersections or subpaths create holes in the fill.</source>
-        <translation type="unfinished"/>
+        <translation>Bideen edozein autoebakidurak edo azpibidek zuloak sortzen ditu betegarrian.</translation>
     </message>
     <message>
         <source>Fill is solid unless a subpath is counterdirectional.</source>
@@ -18238,7 +18242,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Group clips Contents</source>
-        <translation type="unfinished"/>
+        <translation>Taldekatu mozte-edukiak</translation>
     </message>
 </context>
 <context>
@@ -18991,15 +18995,15 @@ gardentasuna</translation>
     </message>
     <message>
         <source>This rule determines the &amp;quot;insideness&amp;quot; of a point on the canvas by drawing a ray from that point to infinity in any direction and counting the number of path segments from the given shape that the ray crosses. If this number is odd, the point is inside, if even, the point is outside.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Erregela honek puntu bat oihalean dagoen zehazten du, izpi bat marraztuz puntutik infinituraino edozein norabidetan eta izpiak formaren zenbat bide-segmentu zeharkatzen dituen zenbatuz. Zenbakia bakoitia bada, puntua barruan dago. Bikoitia bada, kanpoan dago.</translation>
     </message>
     <message>
         <source>This rule determines the &amp;quot;insideness&amp;quot; of a point on the canvas by drawing a ray from that point to infinity in any direction and then examining the places where a segment of the shape crosses the ray. Starting with a count of zero, add one each time a path segment crosses the ray from left to right and subtract one each time a path segment crosses the ray from right to left. If the result is zero then the point is outside the path. Otherwise, it is inside.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Erregela honek puntu bat oihalean dagoen zehazten du, izpi bat marraztuz puntutik infinituraino edozein norabidetan eta formaren segmentu batek izpia zein tokitan zeharkatzen duen aztertuz. Zerotik hasita, gehitu bat bide-segmentu batek izpia ezkerretik eskuinera zeharkatzen duen bakoitzean, eta kendu bat eskuinetik ezkerrera zeharkatzen duen bakoitzean. Emaitza zero bada, puntua bidetik kanpo dago. Bestela, barruan dago.</translation>
     </message>
     <message>
         <source>Any path self-intersections or subpaths create holes in the fill.</source>
-        <translation type="unfinished"/>
+        <translation>Bideen edozein autoebakidurak edo azpibidek zuloak sortzen ditu betegarrian.</translation>
     </message>
     <message>
         <source>Fill is solid unless a subpath is counterdirectional.</source>
@@ -19038,7 +19042,7 @@ gardentasuna</translation>
     </message>
     <message>
         <source>textFlowBtnGroup</source>
-        <translation type="unfinished"/>
+        <translation>textFlowBtnGroup</translation>
     </message>
     <message>
         <source>Use &amp;Frame Shape</source>
@@ -19171,7 +19175,7 @@ gardentasuna</translation>
     </message>
     <message>
         <source>Fixed Linespacing</source>
-        <translation>Lerroarte finkatua</translation>
+        <translation>Lerroarte finkoa</translation>
     </message>
     <message>
         <source>Automatic Linespacing</source>
@@ -19179,7 +19183,7 @@ gardentasuna</translation>
     </message>
     <message>
         <source>Align to Baseline Grid</source>
-        <translation>Lerrokatu lerromarrara</translation>
+        <translation>Lerrokatu oinarri-lerroen saretarekin</translation>
     </message>
     <message>
         <source> pt</source>
@@ -19764,7 +19768,7 @@ gardentasuna</translation>
     </message>
     <message>
         <source>flopGroup</source>
-        <translation type="unfinished"/>
+        <translation>flopGroup</translation>
     </message>
     <message>
         <source>Font Ascent</source>
@@ -20581,9 +20585,9 @@ informazio gehiagorako.</translation>
         <source>%1
 File not found.
 Check path and filename.</source>
-        <translation>%1
-File not found.
-Egiaztatu bidea eta fitxategi-izena.</translation>
+        <translation>%1 
+Fitxategia ez da aurkitu. 
+Egiaztatu bide-izena eta fitxategi-izena.</translation>
     </message>
     <message>
         <source>All Files (*.*)</source>
@@ -20794,7 +20798,12 @@ Egiaztatu bidea eta fitxategi-izena.</translation>
     <name>QMessageBox</name>
     <message>
         <source>&lt;h3&gt;About Qt&lt;/h3&gt;&lt;p&gt;This program uses Qt version %1.&lt;/p&gt;&lt;p&gt;Qt is a C++ toolkit for multiplatform GUI &amp;amp; application development.&lt;/p&gt;&lt;p&gt;Qt provides single-source portability across MS&amp;nbsp;Windows, Mac&amp;nbsp;OS&amp;nbsp;X, Linux, and all major commercial Unix variants.&lt;br&gt;Qt is also available for embedded devices.&lt;/p&gt;&lt;p&gt;Qt is a Trolltech product. See &lt;tt&gt;http://www.trolltech.com/qt/&lt;/tt&gt; for more information.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;About Qt&lt;/h3&gt;&lt;p&gt;This program uses Qt version %1.&lt;/p&gt;&lt;p&gt;Qt is a C++ toolkit for multiplatform GUI &amp;amp; application development.&lt;/p&gt;&lt;p&gt;Qt provides single-source portability across MS&amp;nbsp;Windows, Mac&amp;nbsp;OS&amp;nbsp;X, Linux, and all major commercial Unix variants.&lt;br&gt;Qt is also available for embedded devices.&lt;/p&gt;&lt;p&gt;Qt is a Trolltech product. See &lt;tt&gt;http://www.trolltech.com/qt/&lt;/tt&gt; for more information.&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Qt buruz&lt;/h3&gt; 
+&lt;p&gt;Programa honek Qt %1 bertsioa erabiltzen du.&lt;/p&gt; 
+&lt;p&gt;Qt plataforma anitzetako C++ tresna-multzoa da GUI aplikazioak 
+garatzeko.&lt;/p&gt; 
+&lt;p&gt;Qt liburutegiak iturburu bakarreko aplikazioak MS&amp;nbsp;Windows, Mac&amp;nbsp;OSX, GNU/Linux eta Unix-ean oinarritutako hainbat sistema komertzialetara bihurtzea eskaintzen du. &lt;br&gt;Qt kapsulatutako gailuetan ere erabil daiteke.&lt;/p&gt; 
+&lt;p&gt;Qt liburutegia Trolltech produktua da. Ikus &lt;tt&gt;http://www.trolltech.com/qt/&lt;/tt&gt; informazio gehiagorako.&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -20952,8 +20961,7 @@ Egiaztatu bidea eta fitxategi-izena.</translation>
 External Links
 </source>
         <translation>
-Kanpoko estekak
-</translation>
+Kanpoko estekak</translation>
     </message>
     <message>
         <source>Text Filters</source>
@@ -21350,7 +21358,7 @@ Kanpoko estekak
     <message>
         <source>Cannot set line spacing mode on a non-text frame.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ezin da lerroarte modua ezarri testu-markoa ez den batean.</translation>
     </message>
     <message>
         <source>Column gap out of bounds, must be positive.</source>
@@ -21564,23 +21572,23 @@ Kanpoko estekak
     </message>
     <message>
         <source>Points (pt)</source>
-        <translation>Puntuak (ptu)</translation>
+        <translation>Puntuak (pt)</translation>
     </message>
     <message>
         <source>Millimeters (mm)</source>
-        <translation>Milimetro (mm)</translation>
+        <translation>Milimetroak (mm)</translation>
     </message>
     <message>
         <source>Inches (in)</source>
-        <translation>Hazbete (in)</translation>
+        <translation>Hazbeteak (in)</translation>
     </message>
     <message>
         <source>Picas (p)</source>
-        <translation>Pika (p)</translation>
+        <translation>Pikak (p)</translation>
     </message>
     <message>
         <source>Centimeters (cm)</source>
-        <translation>Zentimetro (zm)</translation>
+        <translation>Zentimetroak (zm)</translation>
     </message>
     <message>
         <source>File exists</source>
@@ -22015,11 +22023,12 @@ hori ez den osoa, deitutako funtzioetako salbuespenen ondorioz.
     </message>
     <message>
         <source>The changes to your document have not been saved and you have requested to revert them. Do you wish to continue?</source>
-        <translation>The changes to your document have not been saved and you have requested to revert them. Do you wish to continue?</translation>
+        <translation>Dokumentuko aldaketak ez dira gorde, eta leheneratzeko eskatu duzu. 
+Jarraitzea nahi duzu?</translation>
     </message>
     <message>
         <source>A file named &apos;%1&apos; already exists.&lt;br/&gt;Do you want to replace it with the file you are saving?</source>
-        <translation>&apos;%1&apos; fitxategia bagado lehenedik ere. &lt;br/&gt;Nahi duzu gordetzen ari zaren fitxategiarekin ordeztea?</translation>
+        <translation>&apos;%1&apos; fitxategia bagado lehendik ere. &lt;br/&gt;Nahi duzu gordetzen ari zaren fitxategiarekin ordeztea?</translation>
     </message>
     <message>
         <source>firstPageOrder is bigger than allowed.</source>
@@ -22160,7 +22169,7 @@ hori ez den osoa, deitutako funtzioetako salbuespenen ondorioz.
     </message>
     <message>
         <source>+stretch </source>
-        <translation type="unfinished"/>
+        <translation>+luzatua</translation>
     </message>
     <message>
         <source>parent= %1</source>
@@ -22495,7 +22504,7 @@ hori ez den osoa, deitutako funtzioetako salbuespenen ondorioz.
     <message>
         <source>hasdropcap has to be 0 or 1.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>hasdropcap 0 edo 1 izan behar du.</translation>
     </message>
     <message>
         <source>Cannot have an empty char style name.</source>
@@ -22518,15 +22527,15 @@ hori ez den osoa, deitutako funtzioetako salbuespenen ondorioz.
     </message>
     <message>
         <source>PathCutter</source>
-        <translation type="unfinished"/>
+        <translation>PathCutter</translation>
     </message>
     <message>
         <source>PathFinder</source>
-        <translation type="unfinished"/>
+        <translation>PathFinder</translation>
     </message>
     <message>
         <source>PathStroker</source>
-        <translation type="unfinished"/>
+        <translation>PathStroker</translation>
     </message>
     <message>
         <source>Subdivide</source>
@@ -22555,7 +22564,7 @@ hori ez den osoa, deitutako funtzioetako salbuespenen ondorioz.
     </message>
     <message>
         <source>PathAlongPath</source>
-        <translation type="unfinished"/>
+        <translation>PathAlongPath</translation>
     </message>
     <message>
         <source>Cannot get text distances of non-text frame.</source>
@@ -22586,14 +22595,14 @@ hori ez den osoa, deitutako funtzioetako salbuespenen ondorioz.
     </message>
     <message>
         <source>PathConnect</source>
-        <translation type="unfinished"/>
+        <translation>PathConnect</translation>
     </message>
     <message>
         <source>The Font(s):
 %1 are not embedded or available for Scribus.
 They might be replaced by &quot;Courier&quot;, depending how your Ghostscript is configured.
 Therefore the image may be not correct</source>
-        <translation type="unfinished"/>
+        <translation>%1 letra-tipoak ez daude kapsulatuta edo Scribus-erako erabilgarri. &quot;Courier&quot; tipoaren ordezka daitezke, zure Ghostscript konfigurazioaren arabera. Beraz, irudia agian ez da zuzena</translation>
     </message>
     <message>
         <source>Save As</source>
@@ -22699,7 +22708,7 @@ Therefore the image may be not correct</source>
     </message>
     <message>
         <source>Highlighter error: Invalid index returned by Qt&apos;s QString.indexOf(). This is a incompatibility between different Qt versions and it can only be fixed by recompiling Scribus with the same Qt version that is running on this system. Syntax highlighting is disabled now, but render frames should continue to work without problems.</source>
-        <translation type="unfinished"/>
+        <translation>Nabarmendutako errorea: Baliogabeko indizea itzuli du Qt-ren QString.indexOf() funtzioak. Hori Qt-ren bertsio desberdinen arteko bateraezintasun baten ondorio da eta Scribus sistema honetan dagoen Qt bertsioarekin birkonpilatuta soilik konpon daiteke. Sintaxia nabarmentzea desgaituta dago orain, bain errendatze-markoek arazorik gabe funtzionatzen jarraituko dute.</translation>
     </message>
     <message>
         <source>PGF</source>
@@ -22731,11 +22740,11 @@ Therefore the image may be not correct</source>
     </message>
     <message>
         <source>FlattenPath</source>
-        <translation type="unfinished"/>
+        <translation>FlattenPath</translation>
     </message>
     <message>
         <source>SmoothPath</source>
-        <translation type="unfinished"/>
+        <translation>SmoothPath</translation>
     </message>
     <message>
         <source>Grids</source>
@@ -23007,7 +23016,7 @@ Therefore the image may be not correct</source>
     <message>
         <source>Border lines are specified as (width,style,color,shade) tuples</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ertz-lerroak (zabalera,estiloa,kolorea,itzala) tupla gisa adieraziten dira</translation>
     </message>
     <message>
         <source>Aragonese</source>
@@ -23071,7 +23080,7 @@ Therefore the image may be not correct</source>
     </message>
     <message>
         <source>You are running a development version of Scribus 1.5.x. The document you are working with was created in Scribus 1.2.x.  Saving the current file under 1.5.x renders it unable to be edited in Scribus 1.2.x versions. To preserve the ability to edit in 1.2.x, save this file under a different name and further edit the newly named file and the original will be untouched. Are you sure you wish to proceed with this operation?</source>
-        <translation type="unfinished"/>
+        <translation>Scribus 1.5.x bertsioaren garapen-bertsio bat erabiltzen ari zara. Lantzen ari zaren dokumentua Scribus 1.2.x bertsiokoa da. Uneko fitxategia 1.5.x bertsioan gordetzen baduzu, ezingo duzu Scribus 1.2.x bertsioarekin ireki. 1.2.x bertsioan editatzeko gaitasuna mantendu nahi baduzu, gorde fitxategi hau beste izen batekin eta editatu berri hori, jatorrizkoa ukitu gabe utziz. Ziur zaude hori egin nahi duzula?</translation>
     </message>
     <message>
         <source>PUB Importer</source>
@@ -23079,7 +23088,7 @@ Therefore the image may be not correct</source>
     </message>
     <message>
         <source>&lt;p&gt;You are trying to import more pages than there are available in the current document counting from the active page.&lt;/p&gt;Choose one of the following:&lt;ul&gt;&lt;li&gt;&lt;b&gt;Create&lt;/b&gt; missing pages&lt;/li&gt;&lt;li&gt;&lt;b&gt;Import&lt;/b&gt; pages until the last page&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cancel&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p&gt;Uneko dokumentuan (orrialde aktibotik hasita) daudenak baino orrialde gehiago inportatzen saiatzen ari zara&lt;/p&gt;Hautatu hauetako bat:&lt;ul&gt;&lt;li&gt;&lt;b&gt;Sortu&lt;/b&gt; falta diren orrialdeak&lt;/li&gt;&lt;li&gt;&lt;b&gt;Inportatu&lt;/b&gt;orrialdeak azkenekoraino&lt;/li&gt;&lt;li&gt;&lt;b&gt;Utzi&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
         <source>Unacceptable settings for note style</source>
@@ -23168,7 +23177,7 @@ Therefore the image may be not correct</source>
     <message>
         <source>unexpected null &lt;%1&gt; node</source>
         <comment>Load PDF settings</comment>
-        <translation type="unfinished"/>
+        <translation>espero ez zen &lt;%1&gt; nodo nulua</translation>
     </message>
     <message>
         <source>element &lt;%1&gt; value must be an integer</source>
@@ -23234,7 +23243,7 @@ Therefore the image may be not correct</source>
     </message>
     <message>
         <source>CustomShapes</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">CustomShapes</translation>
     </message>
     <message>
         <source>Encapsulated PostScript</source>
@@ -23854,11 +23863,11 @@ Hautatu beste bat.</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation>TestuEtiketa</translation>
+        <translation>Testu-etiketa</translation>
     </message>
     <message>
         <source>Fill Color</source>
-        <translation>Kolorea</translation>
+        <translation>Betegarri-kolorea</translation>
     </message>
     <message>
         <source>Based On:</source>
@@ -23870,7 +23879,7 @@ Hautatu beste bat.</translation>
     </message>
     <message>
         <source>Fill Shade</source>
-        <translation>Itzaldura</translation>
+        <translation>Betegarri-itzaldura</translation>
     </message>
     <message>
         <source>A default style cannot be assigned a parent style</source>
@@ -24003,7 +24012,7 @@ Hautatu beste bat.</translation>
     </message>
     <message>
         <source>Join style</source>
-        <translation type="unfinished"/>
+        <translation>Lotura-estiloa</translation>
     </message>
     <message>
         <source>Line color</source>
@@ -24110,7 +24119,7 @@ Hautatu beste bat.</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation>TestuEtiketa</translation>
+        <translation>TextLabel</translation>
     </message>
     <message>
         <source>Ch&amp;aracter Style</source>
@@ -24123,7 +24132,8 @@ Hautatu beste bat.</translation>
     <message>
         <source>Maximum white space compression allowed.
 Expressed as a percentage of the current white space value.</source>
-        <translation type="unfinished"/>
+        <translation>Zuriuneen konpresio maximoa onartuta.
+Uneko zuriune-balioaren ehuneko gisa adierazita.</translation>
     </message>
     <message>
         <source>Maximum compression of glyphs</source>
@@ -24307,15 +24317,15 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>Enhanced Char Table for inserting customs chars as bullets</source>
-        <translation type="unfinished"/>
+        <translation>Karaktere-taula hobetua buletak bezalako karaktere pertsonalizatuak txertatzeko</translation>
     </message>
     <message>
         <source>Paragraph Effects Chars Offset</source>
-        <translation type="unfinished"/>
+        <translation>Paragrafo-efektuen karaktereen desplazamendua</translation>
     </message>
     <message>
         <source>Hang Paragraph Effect before paragraph indent</source>
-        <translation type="unfinished"/>
+        <translation>Paragrafo esekiaren efektua paragrafo-koskaren aurretik</translation>
     </message>
     <message>
         <source>Numbering Style</source>
@@ -24964,11 +24974,11 @@ beraien bektore-datuak Scribus objektuetan bihurtuz.</translation>
     </message>
     <message>
         <source>Style:</source>
-        <translation>Formatua:</translation>
+        <translation>Estiloa:</translation>
     </message>
     <message>
         <source>Solid</source>
-        <translation>Lisoa</translation>
+        <translation>Solidoa</translation>
     </message>
     <message>
         <source>Dashed</source>
@@ -25864,7 +25874,7 @@ beraien bektore-datuak Scribus objektuetan bihurtuz.</translation>
     </message>
     <message>
         <source>InputDialog</source>
-        <translation type="unfinished"/>
+        <translation>InputDialogue</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -26256,7 +26266,7 @@ Biraketa: %4</translation>
     </message>
     <message>
         <source>%1 note style has document as range and provide same numbering style as set %2</source>
-        <translation type="unfinished"/>
+        <translation>%1 ohar-estiloak dokumentua du barruti gisa eta %2(e)n ezarritako zenbakitze-estilo bera ematen du</translation>
     </message>
     <message>
         <source>Do you really want to clear the content of all selected frames?</source>
@@ -26606,15 +26616,15 @@ Inprimatze aurreko egiaztatzailea erabil dezakezu haiek zuzentzeko.</translation
     </message>
     <message>
         <source>Mark with &lt;%1&gt; variable text</source>
-        <translation type="unfinished"/>
+        <translation>Marka &lt;%1&gt; testu aldakorrarekin</translation>
     </message>
     <message>
         <source>Mark to %1 item</source>
-        <translation type="unfinished"/>
+        <translation>marka %1 elementura</translation>
     </message>
     <message>
         <source>Mark to %1 mark</source>
-        <translation type="unfinished"/>
+        <translation>Marka %1 markara</translation>
     </message>
     <message>
         <source>Edit </source>
@@ -27491,7 +27501,7 @@ helbidera bidaliko bazenu.</translation>
     </message>
     <message>
         <source>Special plug-in for adding non-breaking spaces before or after so called short words. Available in the following languages: </source>
-        <translation type="unfinished"/>
+        <translation>Laburduren aurretik edo ondoren etenik gabeko zuriuneak gehitzeko plugin berezia. Honako hizkuntzetarako erabilgarri:</translation>
     </message>
 </context>
 <context>
@@ -28029,15 +28039,15 @@ helbidera bidaliko bazenu.</translation>
     </message>
     <message>
         <source>Underline Text. Hold down the button momentarily to set line width and displacement options.</source>
-        <translation>Underline Text. Hold down the button momentarily to set line width and displacement options.</translation>
+        <translation>Azpimarratu testua. Eduki botoia sakatuta une batez marraren zabalera eta desplazamenduaren aukerak ezartzeko.</translation>
     </message>
     <message>
         <source>Underline Words Only. Hold down the button momentarily to set line width and displacement options.</source>
-        <translation>Underline Words Only. Hold down the button momentarily to set line width and displacement options.</translation>
+        <translation>Azpimarratu hitzak soilik. Eduki botoia sakatuta une batez marraren zabalera eta desplazamenduaren aukerak ezartzeko.</translation>
     </message>
     <message>
         <source>Strike Out. Hold down the button momentarily to set line width and displacement options.</source>
-        <translation>Strike Out. Hold down the button momentarily to set line width and displacement options.</translation>
+        <translation>Marratu. Eduki botoia sakatuta une batez marraren zabalera eta desplazamenduaren aukerak ezartzeko.</translation>
     </message>
     <message>
         <source>Outline. Hold down the button momentarily to change the outline stroke width.</source>
@@ -28046,7 +28056,7 @@ helbidera bidaliko bazenu.</translation>
     </message>
     <message>
         <source>Shadowed Text. Hold down the button momentarily to enable the offset spacing.</source>
-        <translation>Shadowed Text. Hold down the button momentarily to enable the offset spacing.</translation>
+        <translation>Itzaldura. Eduki botoia sakatuta une batez marraren zabalera eta desplazamenduaren aukerak ezartzeko.</translation>
     </message>
 </context>
 <context>
@@ -28276,7 +28286,7 @@ bertsioko dokumentua inportatzean.</translation>
     </message>
     <message>
         <source>Determines the PDF compatibility.&lt;br/&gt;The default is &lt;b&gt;PDF 1.3&lt;/b&gt; which gives the widest compatibility.&lt;br/&gt;Choose &lt;b&gt;PDF 1.4&lt;/b&gt; if your file uses features such as transparency or you require 128 bit encryption.&lt;br/&gt;&lt;b&gt;PDF 1.5&lt;/b&gt; is necessary when you wish to preserve objects in separate layers within the PDF.&lt;br/&gt;&lt;b&gt;PDF/X-3&lt;/b&gt; is for exporting the PDF when you want color managed RGB for commercial printing and is selectable when you have activated color management. Use only when advised by your printer or in some cases printing to a 4 color digital color laser printer.&lt;br/&gt;&lt;b&gt;PDF/X-1a&lt;/b&gt; is for blind exchange with colors strictly specified in CMYK or spot colors.&lt;br/&gt;&lt;b&gt;PDF/X-4&lt;/b&gt; is an extension of PDF/X-3 to support transparancy and layering.</source>
-        <translation type="unfinished"/>
+        <translation>PDF bateragarritasuna zehazten du.&lt;br/&gt;Balio lehenetsia &lt;b&gt;PDF 1.3&lt;/b&gt; da, bateragarritasunik zabalena ematen duena.&lt;br/&gt;Hautatu &lt;b&gt;PDF 1.4&lt;/b&gt; zure fitxategiek gardentasuna bezalako ezaugarriak baditu edo 128 bit-eko zifratzea behar baduzu.&lt;br/&gt;&lt;b&gt;PDF 1.5&lt;/b&gt; beharrezkoa da objektuak geruza desberdinetan antolatuta gorde nahi badituzu.&lt;br/&gt;&lt;b&gt;PDF/X-3&lt;/b&gt; inprimatze komertzialerako kolore-kudeaketa duen eta hura aktibatuta dagoenean aukeratu daitekeena duen PDFa behar duzunerako da. Erabili soilik zure inprimatze-etxean aholkatzen dizutenean edo zenbait kasutan 4 kolore figitaleko laser-inprimagailuetan erabiltzeko.&lt;br/&gt;&lt;b&gt;PDF/X-1a&lt;/b&gt; koloreak CMY sisteman zehatz-mehatz adierazita daudenerako edo kolore zuzenak direnerako trukatze itsurako da.&lt;br/&gt;&lt;b&gt;PDF/X-4&lt;/b&gt; PDF/X-3 formatuaren luzapen bat da gardentasuna eta geruzak onartzeko.</translation>
     </message>
     <message>
         <source>Mandatory string for PDF/X or the PDF will fail PDF/X conformance. We recommend you use the title of the document.</source>
@@ -28488,7 +28498,7 @@ bertsioko dokumentua inportatzean.</translation>
     </message>
     <message>
         <source>Solid Colors:</source>
-        <translation>Kolore lisoak:</translation>
+        <translation>Kolore solidoak:</translation>
     </message>
     <message>
         <source>Profile:</source>
@@ -28572,23 +28582,23 @@ bertsioko dokumentua inportatzean.</translation>
     </message>
     <message>
         <source>Allow printing of the PDF. If un-checked, printing is prevented. </source>
-        <translation>Allow printing of the PDF. If un-checked, printing is prevented. </translation>
+        <translation>Baimendu PDFa inprimatzea. Ez bada aktibatzen, inprimatzea galarazita egongo da.</translation>
     </message>
     <message>
         <source>Allow modifying of the PDF. If un-checked, modifying the PDF is prevented.</source>
-        <translation>Allow modifying of the PDF. If un-checked, modifying the PDF is prevented.</translation>
+        <translation>Baimendu PDFa eraldatzea. Ez badago aktibatuta, PDFa aldatzea galarazita egongo da.</translation>
     </message>
     <message>
         <source>Embed a color profile for solid colors</source>
-        <translation>Kapsulatu kolore lisoen kolore-profila</translation>
+        <translation>Kapsulatu kolore solidoen kolore-profila</translation>
     </message>
     <message>
         <source>Color profile for solid colors</source>
-        <translation>Kolore lisoen kolore-profila</translation>
+        <translation>Kolore solidoen kolore-profila</translation>
     </message>
     <message>
         <source>Rendering intent for solid colors</source>
-        <translation>Kolore lisoak errendatzeko saiakera</translation>
+        <translation>Kolore solidoak errendatzeko saiakera</translation>
     </message>
     <message>
         <source>Embed a color profile for images</source>
@@ -28652,7 +28662,7 @@ bertsioko dokumentua inportatzean.</translation>
     </message>
     <message>
         <source>Enables Spot Colors to be converted to composite colors. Unless you are planning to print spot colors at a commercial printer, this is probably best left enabled.</source>
-        <translation type="unfinished"/>
+        <translation>Kolore zuzenak kolore konposatu bihurtzea ahalbidetzen du. Inprimatze-etxe komertzial batean kolore zuzenak inprimatzea aurreikusten ez baduzu, onena aukera hori gaituta uztea da.</translation>
     </message>
     <message>
         <source>Include La&amp;yers</source>
@@ -28664,11 +28674,11 @@ bertsioko dokumentua inportatzean.</translation>
     </message>
     <message>
         <source>Embed fonts into the PDF. Embedding the fonts will preserve the layout and appearance of your document.</source>
-        <translation>Embed fonts into the PDF. Embedding the fonts will preserve the layout and appearance of your document.</translation>
+        <translation>Kapsulatu letra-tipoak PDFan. Letra-tipoak kapsulatzeak dokumentuaren diseinua eta itxura mantenduko du.</translation>
     </message>
     <message>
         <source>Length of time the effect runs. A shorter time will speed up the effect, a longer one will slow it down.</source>
-        <translation>Length of time the effect runs. A shorter time will speed up the effect, a longer one will slow it down.</translation>
+        <translation>Efektua exekutatzek denbora. Denbora motz batek efektua abiazkartuko du, handiago batek moteldu egingo du.</translation>
     </message>
     <message>
         <source>Insert a comma separated list of tokens where a token can be * for all the pages, 1-5 for a range of pages or a single page number.</source>
@@ -28678,31 +28688,31 @@ batentzako, edo orrialde bakar batentzako izan daiteke.</translation>
     </message>
     <message>
         <source>Determines the binding of pages in the PDF. Unless you know you need to change it leave the default choice - Left.</source>
-        <translation>Determines the binding of pages in the PDF. Unless you know you need to change it leave the default choice - Left.</translation>
+        <translation>Orrien loturak zehazten ditu PDFan. Aldatzeko beharreik ez baduzu, utzi aukera lehenetsiarekin: ezkerra.</translation>
     </message>
     <message>
         <source>Generates thumbnails of each page in the PDF. Some viewers can use the thumbnails for navigation.</source>
-        <translation>Generates thumbnails of each page in the PDF. Some viewers can use the thumbnails for navigation.</translation>
+        <translation>Orrialde bakoitzaren koadro txikika sortzen du PDFan. Ikustaile batzuk koadro txikiak erabil ditzakete nabigatzeko.</translation>
     </message>
     <message>
         <source>Embed the bookmarks you created in your document. These are useful for navigating long PDF documents.</source>
-        <translation>Embed the bookmarks you created in your document. These are useful for navigating long PDF documents.</translation>
+        <translation>Kapsulatu dokumentuan sortutako laster-markak. Oso erabilgarriak dira PDF dokumentu luzeetan nabigatzeko.</translation>
     </message>
     <message>
         <source>Export resolution of text and vector graphics. This does not affect the resolution of bitmap images like photos.</source>
-        <translation>Export resolution of text and vector graphics. This does not affect the resolution of bitmap images like photos.</translation>
+        <translation>Esportatu testu eta bektore-grafikoen bereizmena. Honek ez du eraginik argazkiak bezalako bitmapa irudien bereizmenean.</translation>
     </message>
     <message>
         <source>Enables lossless compression of text and graphics. Unless you have a reason, leave this checked. This reduces PDF file size.</source>
-        <translation>Enables lossless compression of text and graphics. Unless you have a reason, leave this checked. This reduces PDF file size.</translation>
+        <translation>Testu eta grafikoen galerarik gabeko konpresioa gaitzen du. Ez baduzu beste arrazoirik, utzi hau egiaztatuta. Honek PDF fitxategiaren tamaina gutxiagotzen du.</translation>
     </message>
     <message>
         <source>Enable the security features in your exported PDF. If you selected PDF 1.3, the PDF will be protected by 40 bit encryption. If you selected PDF 1.4, the PDF will be protected by 128 bit encryption. Disclaimer: PDF encryption is not as reliable as GPG or PGP encryption and does have some limitations.</source>
-        <translation>Enable the security features in your exported PDF. If you selected PDF 1.3, the PDF will be protected by 40 bit encryption. If you selected PDF 1.4, the PDF will be protected by 128 bit encryption. Disclaimer: PDF encryption is not as reliable as GPG or PGP encryption and does have some limitations.</translation>
+        <translation>Gaitu segurtasun funtzioak esportatutako PDFan. PDF 1.3 aukeratzen baduzu, PDFa 40 bit-eko enkriptazioarekin babestuko da. PDF 1.4 aukeratuz enkriptatzean 128 bit erabiliko dira PDFa babesteko. Ezespena: PDFa enkriptatzea ez da GPG edo PGP enkripzio bezain fidagarria eta zenbait murriztapen ditu.</translation>
     </message>
     <message>
         <source>This is an advanced setting which is not enabled by default. This should only be enabled when specifically requested by your printer and they have given you the exact details needed. Otherwize, your exported PDF may not print properly and is truly not portable across systems.</source>
-        <translation type="unfinished"/>
+        <translation>Aukera aurreratu hau ez dago gaituta modu lehenetsian. Zure inprimatze-etxeak berariaz eskatzen dizunean eta beharrezkoak diren xehetasunak eman dizutenean soilik gaitu behar duzu. Bestela, esportatuko duzun PDFa beharbada ez da ongi inprimatuko eta ezin izango duzu sistema batetik bestera eraman.</translation>
     </message>
     <message>
         <source>Display Settings</source>
@@ -28797,7 +28807,7 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Color model for the output of your PDF. Choose Screen/Web for PDFs which are used for screen display and for printing on typical inkjets. Choose Printer when printing to a true 4 color CMYK printer. Choose Grayscale when you want a grey scale PDF.</source>
-        <translation>Color model for the output of your PDF. Choose Screen/Web for PDFs which are used for screen display and for printing on typical inkjets. Choose Printer when printing to a true 4 color CMYK printer. Choose Grayscale when you want a grey scale PDF.</translation>
+        <translation>PDFaren irteerako kolore-eredua. Aukeratu &apos;Pantaila/Web gunea&apos; pantailan bistaratuko diren PDFentzako eta tintaz inprimatzeko. Aukeratu &apos;Inprimagailua&apos; egiazko 4 koloredun CMYK motako inprimagailuan inprimatzeko. Aukeratu &apos;Gris-eskala&apos; PDF dokumentua gris-eskalan egotea nahi denean.</translation>
     </message>
     <message>
         <source>Do not show objects outside the margins in the exported file</source>
@@ -28805,7 +28815,7 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Length of time the page is shown before the presentation starts on the selected page. Setting 0 will disable automatic page transition.</source>
-        <translation>Length of time the page is shown before the presentation starts on the selected page. Setting 0 will disable automatic page transition.</translation>
+        <translation>Denbora orrialdea erakusteko aurkezpena hautatutako orrialdean hasi aurretik. 0 balioarekin ezartzen bada, orrialdeen transizio automatikoa desgaituko da.</translation>
     </message>
     <message>
         <source>Printer Marks</source>
@@ -28865,15 +28875,15 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Method of compression to use for images. Automatic allows Scribus to choose the best method. ZIP is lossless and good for images with solid colors. JPEG is better at creating smaller PDF files which have many photos (with slight image quality loss possible). Leave it set to Automatic unless you have a need for special compression options.</source>
-        <translation type="unfinished"/>
+        <translation>Irudietarako erabiliko den konpresio mota. Automatikoak metodorik onena Scribus-ek hauta dezan ahalbidetzen du. ZIP metodoak ez du galerarik sortzen eta ona da kolore solidoak dituzten irudietarako. JPEG hobea da irudi asko dituzten PDF txikiagoak sortzeko (kalitate galerarik txikia gerta daiteke). Utzi &apos;Automatikoa&apos; moduan, konpresio-aukera bereziak ez badituzu.</translation>
     </message>
     <message>
         <source>Compression quality levels for lossy compression methods: Minimum (25%), Low (50%), Medium (75%), High (85%), Maximum (95%). Note that a quality level does not directly determine the size of the resulting image - both size and quality loss vary from image to image at any given quality level. Even with Maximum selected, there is always some quality loss with jpeg.</source>
-        <translation type="unfinished"/>
+        <translation>Konpresio-kalitatearen maila galera eragiten duten konpresio-metodoetarako: Minimoa (%25), baxua (%50), ertaina (%75), altua (%85), maximoa (%95). Kontuan izan kalitate-mailak ez duela zuzenean zehazten emaitza gisa lortuko den irudiaren tamaina - biak, tamaina eta kalitate-galera aldakorrak dira irudi batetik bestera, edozein kalitate-mailan. Nahiz eta maximoa egon hautatuta, beti dago galera txiki bat JPEG formatuan.</translation>
     </message>
     <message>
         <source>InfoString</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">InfoString</translation>
     </message>
     <message>
         <source>Inside:</source>
@@ -29057,7 +29067,7 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>TabWidget</source>
-        <translation type="unfinished"/>
+        <translation>TabWidget</translation>
     </message>
     <message>
         <source>...</source>
@@ -29222,7 +29232,7 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>Period</source>
-        <translation type="unfinished"/>
+        <translation>Denbora-tartea</translation>
     </message>
     <message>
         <source>Delete Selected</source>
@@ -29529,7 +29539,7 @@ Z: %3, A: %4</translation>
     </message>
     <message>
         <source>Items involved</source>
-        <translation>Zerikusitako elementuak</translation>
+        <translation>Zerikusia duten elementuak</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -30037,11 +30047,11 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Enable text flow around for lower layers</source>
-        <translation>Gaitu inguruko testu-fluxua azpiragoko geruzetan</translation>
+        <translation>Gaitu inguruko testu-fluxua azpiko geruzetan</translation>
     </message>
     <message>
         <source>Disable text flow around for lower layers</source>
-        <translation>Desgaitu inguruko testu-fluxua azpiragoko geruzetan</translation>
+        <translation>Desgaitu inguruko testu-fluxua azpiko geruzetan</translation>
     </message>
     <message>
         <source>Set layer blend mode</source>
@@ -30439,7 +30449,7 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Starting Uniconvertor failed! The executable name in File-&gt;Preferences-&gt;External Tools may be incorrect or the software has been uninstalled since preferences were set. (%1)</source>
-        <translation type="unfinished"/>
+        <translation>Uniconvertor-en abioak huts egin du! &apos;Fitxategia-&gt;Hobespenak-&gt;Kanpoko tresnak&apos; ataleko exekutagarri-izena okerra izan daiteke edo agian softwarea desintalatu egin da hobespenak ezarri zirenetik. (%1)</translation>
     </message>
     <message>
         <source>Uniconvertor did not exit correctly: %1</source>
@@ -30511,11 +30521,11 @@ Error:%2 at line: %3, row: %4</source>
     <name>UrlLauncher</name>
     <message>
         <source>Locate your web browser</source>
-        <translation>Bilatu zure web arakatzailea</translation>
+        <translation>Bilatu zure web nabigatzailea</translation>
     </message>
     <message>
         <source>External Web Browser Failed to Start</source>
-        <translation>Kanpoko web arakatzailearen abioak huts egin du</translation>
+        <translation>Kanpoko web nabigatzailearen abioak huts egin du</translation>
     </message>
     <message>
         <source>Scribus was not able to start the external web browser application %1. Please check the setting in Preferences.
@@ -30931,7 +30941,7 @@ haien datu bektorialak Scribus objektu bihurtuz.</translation>
     </message>
     <message>
         <source>Knockout</source>
-        <translation type="unfinished"/>
+        <translation>Knockout</translation>
     </message>
     <message>
         <source>Overprint</source>
@@ -31007,7 +31017,7 @@ haien datu bektorialak Scribus objektu bihurtuz.</translation>
     </message>
     <message>
         <source>Pad</source>
-        <translation type="unfinished"/>
+        <translation>Betegarria</translation>
     </message>
     <message>
         <source>Opacity:</source>
@@ -31083,8 +31093,7 @@ hautatu beste izen bat.</translation>
     </message>
     <message>
         <source>Remember the file extension - importer association and do not ask again to select an importer for files of this type.</source>
-        <translation>Gogoratu fitxategi-luzapena eta inportatzailearen arteko elkartasuna, eta ez 
-galdetu berriro inportatzailea hautatzeko fitxategi-mota honentzako.</translation>
+        <translation>Gogoratu fitxategi-luzapena eta inportatzailearen arteko lotura, eta fitxategi-mota honentzako ez galdetu berriro inportatzailea hautatzeko.</translation>
     </message>
 </context>
 <context>
@@ -31178,8 +31187,7 @@ galdetu berriro inportatzailea hautatzeko fitxategi-mota honentzako.</translatio
     </message>
     <message>
         <source>Extract the package to the template directory ~/.scribus/templates for the current user or PREFIX/share/scribus/templates for all users in the system.</source>
-        <translation>Erauzi paketea uneko erabiltzailearen txantiloien ~/.scribus/templates direktorioan edo AURREFINKATUA/share/scribus/templates sistemako 
-erabiltzaile guztientzat.</translation>
+        <translation>Erauzi paketea uneko erabiltzailearen ~/.scribus/templates txantiloien direktorioan edo AURRIZKIA/share/scribus/templates sistemako erabiltzaile guztientzat.</translation>
     </message>
     <message>
         <source>Preparing a template</source>
@@ -31195,24 +31203,26 @@ erabiltzaile guztientzat.</translation>
     </message>
     <message>
         <source>Document templates can be found at http://www.scribus.net/ in the Downloads section.</source>
-        <translation>Txantiloiak deskargatzeko atalean aurki ditzakezu honako gunean: 
-http://www.scribus.net</translation>
+        <translation>Dokumentu-txantiloiak http://www.scribus.net/ webgunean daude, deskargen atalean.</translation>
     </message>
     <message>
         <source>Make sure images and fonts you use can be used freely. If fonts cannot be shared do not collect them when saving as a template.</source>
-        <translation>Make sure images and fonts you use can be used freely. If fonts cannot be shared do not collect them when saving as a template.</translation>
+        <translation>Ziurtatu irudiak eta letra-tipoak libreki erabil ditzakezula. Letra-tipoak ezin badira partekatu, ez itzazu bildu txantiloiak gordetzean.</translation>
     </message>
     <message>
         <source>The template creator should also make sure that the Installing Templates section above applies to their templates as well. This means a user should be able to download a template package and be able to extract them to the template directory and start using them.</source>
-        <translation>The template creator should also make sure that the Installing Templates section above applies to their templates as well. This means a user should be able to download a template package and be able to extract them to the template directory and start using them.</translation>
+        <translation>Txantiloiaren sortzaileak ziurtatu behar du arestiko &apos;Txantiloiak instalatzea&apos; 
+atalak beraren txantiloiei ere aplikatzen zaiela. Honek zera adierazten du: 
+erabiltzaile batek gai izan behar duela txantiloi pakete bat deskargatzeko, 
+txantiloien direktorioan erauzi eta erabiltzeko.</translation>
     </message>
     <message>
         <source>Removing a template from the New From Template dialog will only remove the entry from the template.xml, it will not delete the document files. A popup menu with remove is only shown if you have write access to the template.xml file.</source>
-        <translation>Removing a template from the New From Template dialog will only remove the entry from the template.xml, it will not delete the document files. A popup menu with remove is only shown if you have write access to the template.xml file.</translation>
+        <translation>&apos;Berria txantiloitik&apos; elkarrizketa-koadrotik txantiloi bat kentzean template.xml fitxategiko sarrera ezabatzen du, ez ditu dokumentuak ezabatzen. Kentzeko laster-menua bakarrik erakutsiko da baldin eta erabiltzaileak template.xmlk fitxategian idazteko baimena badu.</translation>
     </message>
     <message>
         <source>Copy an existing template.xml to a file called template.lang_COUNTRY.xml (use the same lang code that is present in the qm file for your language), for example template.fi.xml for Finnish language template.xml. The copy must be located in the same directory as the original template.xml so Scribus can load it.</source>
-        <translation>Copy an existing template.xml to a file called template.lang_COUNTRY.xml (use the same lang code that is present in the qm file for your language), for example template.fi.xml for Finnish language template.xml. The copy must be located in the same directory as the original template.xml so Scribus can load it.</translation>
+        <translation>Existiten den &apos;template.xml&apos; fitxategia template.hizk_ESTATUA.xml fitxategian kopiatzen du (hizk hizkuntzaren kodea da, adib. &apos;eu&apos; euskararen kodea litzateke), adibidez template.eu.xml. Kopiatutako fitxategia jatorrizko &apos;template.xml&apos; fitxategiaren direktorio berdinean kokatu behar du, Scribus-ek kopiako fitxategia kargatzeko.</translation>
     </message>
     <message>
         <source>Date</source>
@@ -31283,8 +31293,7 @@ http://www.scribus.net</translation>
     </message>
     <message>
         <source>Document templates can be found at http://www.scribus.net/ in the Downloads section.</source>
-        <translation>Txantiloiak deskargatzeko atalean aurki ditzakezu honako gunean: 
-http://www.scribus.net</translation>
+        <translation>Dokumentu-txantiloiak http://www.scribus.net/ webgunean daude, deskargen atalean.</translation>
     </message>
     <message>
         <source>Installing Templates</source>
@@ -31292,8 +31301,7 @@ http://www.scribus.net</translation>
     </message>
     <message>
         <source>Extract the package to the template directory ~/.scribus/templates for the current user or PREFIX/share/scribus/templates for all users in the system.</source>
-        <translation>Erauzi paketea uneko erabiltzailearen txantiloien ~/.scribus/templates direktorioan edo AURREFINKATUA/share/scribus/templates sistemako 
-erabiltzaile guztientzat.</translation>
+        <translation>Erauzi paketea uneko erabiltzailearen ~/.scribus/templates txantiloien direktorioan edo AURRIZKIA/share/scribus/templates sistemako erabiltzaile guztientzat.</translation>
     </message>
     <message>
         <source>Preparing a template</source>
@@ -31301,11 +31309,14 @@ erabiltzaile guztientzat.</translation>
     </message>
     <message>
         <source>Make sure images and fonts you use can be used freely. If fonts cannot be shared do not collect them when saving as a template.</source>
-        <translation>Make sure images and fonts you use can be used freely. If fonts cannot be shared do not collect them when saving as a template.</translation>
+        <translation>Ziurtatu irudiak eta letra-tipoak libreki erabil ditzakezula. Letra-tipoak ezin badira partekatu, ez itzazu bildu txantiloi gisa gordetzean.</translation>
     </message>
     <message>
         <source>The template creator should also make sure that the Installing Templates section above applies to their templates as well. This means a user should be able to download a template package and be able to extract them to the template directory and start using them.</source>
-        <translation>The template creator should also make sure that the Installing Templates section above applies to their templates as well. This means a user should be able to download a template package and be able to extract them to the template directory and start using them.</translation>
+        <translation>Txantiloiaren sortzaileak ziurtatu behar du arestiko &apos;Txantiloiak instalatzea&apos; 
+atalak beraren txantiloiei ere aplikatzen zaiela. Honek zera adierazten du: 
+erabiltzaile batek gai izan behar duela txantiloi pakete bat deskargatzeko, 
+txantiloien direktorioan erauzi eta erabiltzeko.</translation>
     </message>
     <message>
         <source>Removing a template</source>
@@ -31313,7 +31324,7 @@ erabiltzaile guztientzat.</translation>
     </message>
     <message>
         <source>Removing a template from the New From Template dialog will only remove the entry from the template.xml, it will not delete the document files. A popup menu with remove is only shown if you have write access to the template.xml file.</source>
-        <translation>Removing a template from the New From Template dialog will only remove the entry from the template.xml, it will not delete the document files. A popup menu with remove is only shown if you have write access to the template.xml file.</translation>
+        <translation>&apos;Berria txantiloitik&apos; elkarrizketa-koadrotik txantiloi bat kentzean template.xml fitxategiko sarrera ezabatzen du, ez ditu dokumentuak ezabatzen. Kentzeko laster-menua bakarrik erakutsiko da baldin eta erabiltzaileak template.xmlk fitxategian idazteko baimena badu.</translation>
     </message>
     <message>
         <source>Translating template.xml</source>
@@ -31321,7 +31332,11 @@ erabiltzaile guztientzat.</translation>
     </message>
     <message>
         <source>Copy an existing template.xml to a file called template.lang_COUNTRY.xml (use the same lang code that is present in the qm file for your language), for example template.fi.xml for Finnish language template.xml. The copy must be located in the same directory as the original template.xml so Scribus can load it.</source>
-        <translation>Copy an existing template.xml to a file called template.lang_COUNTRY.xml (use the same lang code that is present in the qm file for your language), for example template.fi.xml for Finnish language template.xml. The copy must be located in the same directory as the original template.xml so Scribus can load it.</translation>
+        <translation>Existiten den &apos;template.xml&apos; fitxategia template.hizk_ESTATUA.xml fitxategian 
+kopiatzen du (hizk hizkuntzaren kodea da, adib. &apos;eu&apos; euskararen kodea 
+litzateke), adibidez template.eu.xml. Kopiatutako fitxategia 
+jatorrizko &apos;template.xml&apos; fitxategiaren direktorio berdinean kokatu behar du, 
+Scribus-ek kopiako fitxategia kargatzeko.</translation>
     </message>
     <message>
         <source>Form</source>
@@ -31731,8 +31746,7 @@ erabiltzaile guztientzat.</translation>
     </message>
     <message>
         <source>Move the start of the gradient vector with the left mouse button pressed and move the end of the gradient vector with the right mouse button pressed</source>
-        <translation>Aldatu gradientearen hasierako bektorea lekuz saguaren ezkerreko 
-botoia sakatuz, eta aldatu gradientearen amaierako bektorea saguaren eskuineko botoia sakatuz.</translation>
+        <translation>Aldatu gradientearen hasierako bektorea lekuz saguaren ezkerreko botoia sakatuz, eta aldatu gradientearen amaierako bektorea saguaren eskuineko botoia sakatuz.</translation>
     </message>
     <message>
         <source>Move Vector</source>

@@ -138,7 +138,7 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="355"/>
         <source>Bugs and Feature Requests</source>
-        <translation type="unfinished"/>
+        <translation>Bugs a Fodwedd Deisyfion</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="359"/>
@@ -402,7 +402,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1293"/>
         <source>&amp;Item Action Mode</source>
-        <translation type="unfinished"/>
+        <translation>Eitem</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1294"/>
@@ -539,22 +539,22 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1342"/>
         <source>&amp;All Caps</source>
-        <translation type="unfinished"/>
+        <translation>Oll Priflythyren</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1343"/>
         <source>Small &amp;Caps</source>
-        <translation type="unfinished"/>
+        <translation>Llythrennau bach &amp;Priflythyren </translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1344"/>
         <source>Su&amp;perscript</source>
-        <translation type="unfinished"/>
+        <translation>Uw&amp;chysgrif</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1345"/>
         <source>Su&amp;bscript</source>
-        <translation type="unfinished"/>
+        <translation>Iis&amp;ysgrif</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1346"/>
@@ -580,12 +580,12 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1353"/>
         <source>D&amp;uplicate</source>
-        <translation type="unfinished"/>
+        <translation>D&amp;yblygeb</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1354"/>
         <source>&amp;Multiple Duplicate</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Lluosog Dyblygeb</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1355"/>
@@ -595,22 +595,22 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1356"/>
         <source>&amp;Group</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Grŵp</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1357"/>
         <source>&amp;Ungroup</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dadgrwpio</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1358"/>
         <source>Is &amp;Locked</source>
-        <translation type="unfinished"/>
+        <translation>Y mae &amp;Ar glo</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1359"/>
         <source>Si&amp;ze is Locked</source>
-        <translation type="unfinished"/>
+        <translation>Mae ma&amp;int Ar glo</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1360"/>
@@ -640,7 +640,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1365"/>
         <source>&amp;Lower</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Isfaf</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1366"/>
@@ -1640,7 +1640,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1722"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Cymorth</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1890"/>
@@ -2874,7 +2874,7 @@
     <message>
         <location filename="../../../scribus/applytemplatedialog.cpp" line="281"/>
         <source>to</source>
-        <translation type="unfinished"/>
+        <translation>at</translation>
     </message>
     <message>
         <location filename="../../../scribus/applytemplatedialog.cpp" line="283"/>
@@ -3702,7 +3702,7 @@ Configuration invalid</source>
     <message>
         <location filename="../../../scribus/cmsprefsbase.ui" line="19"/>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <location filename="../../../scribus/cmsprefsbase.ui" line="40"/>
@@ -4849,7 +4849,7 @@ currently %2 x %3 DPI</source>
     <message>
         <location filename="../../../scribus/colorm.cpp" line="89"/>
         <source>D&amp;uplicate</source>
-        <translation type="unfinished"/>
+        <translation>D&amp;yblygeb</translation>
     </message>
     <message>
         <location filename="../../../scribus/colorm.cpp" line="92"/>
@@ -5063,12 +5063,12 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="263"/>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Ie</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="264"/>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Na</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="265"/>
@@ -5415,12 +5415,12 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="268"/>
         <source>Text Frame</source>
-        <translation type="unfinished"/>
+        <translation>Ffram Testun</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="269"/>
         <source>Image Frame</source>
-        <translation type="unfinished"/>
+        <translation>Ffram Delwedd</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="270"/>
@@ -5638,7 +5638,7 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/cpalette.cpp" line="1008"/>
         <source>Move Vector</source>
-        <translation type="unfinished"/>
+        <translation>Symud Fector</translation>
     </message>
     <message>
         <location filename="../../../scribus/cpalette.cpp" line="1012"/>
@@ -5686,72 +5686,72 @@ See the Edit Colors section of the documentation for more details.</source>
         <location filename="../../../scribus/cpalette.cpp" line="518"/>
         <location filename="../../../scribus/cpalette.cpp" line="1020"/>
         <source>Pattern</source>
-        <translation type="unfinished"/>
+        <translation>Patrwm</translation>
     </message>
     <message>
         <location filename="../../../scribus/cpalette.cpp" line="1023"/>
         <source>Blend Mode:</source>
-        <translation type="unfinished"/>
+        <translation>Cytuno Modd:</translation>
     </message>
     <message>
         <location filename="../../../scribus/cpalette.cpp" line="1026"/>
         <source>Darken</source>
-        <translation type="unfinished"/>
+        <translation>Tywyllu</translation>
     </message>
     <message>
         <location filename="../../../scribus/cpalette.cpp" line="1027"/>
         <source>Lighten</source>
-        <translation type="unfinished"/>
+        <translation>Ysgafnhau</translation>
     </message>
     <message>
         <location filename="../../../scribus/cpalette.cpp" line="1028"/>
         <source>Multiply</source>
-        <translation type="unfinished"/>
+        <translation>Amlhau</translation>
     </message>
     <message>
         <location filename="../../../scribus/cpalette.cpp" line="1029"/>
         <source>Screen</source>
-        <translation type="unfinished"/>
+        <translation>Sgrin</translation>
     </message>
     <message>
         <location filename="../../../scribus/cpalette.cpp" line="1030"/>
         <source>Overlay</source>
-        <translation type="unfinished"/>
+        <translation>Troshaen</translation>
     </message>
     <message>
         <location filename="../../../scribus/cpalette.cpp" line="1031"/>
         <source>Hard Light</source>
-        <translation type="unfinished"/>
+        <translation>Gola Caled</translation>
     </message>
     <message>
         <location filename="../../../scribus/cpalette.cpp" line="1032"/>
         <source>Soft Light</source>
-        <translation type="unfinished"/>
+        <translation>Gola Meddal</translation>
     </message>
     <message>
         <location filename="../../../scribus/cpalette.cpp" line="1033"/>
         <source>Difference</source>
-        <translation type="unfinished"/>
+        <translation>Gwahaniaeth</translation>
     </message>
     <message>
         <location filename="../../../scribus/cpalette.cpp" line="1034"/>
         <source>Exclusion</source>
-        <translation type="unfinished"/>
+        <translation>Gwaharddiad</translation>
     </message>
     <message>
         <location filename="../../../scribus/cpalette.cpp" line="1035"/>
         <source>Color Dodge</source>
-        <translation type="unfinished"/>
+        <translation>Lliw Ystryw</translation>
     </message>
     <message>
         <location filename="../../../scribus/cpalette.cpp" line="1036"/>
         <source>Color Burn</source>
-        <translation type="unfinished"/>
+        <translation>Llosgi Lliw</translation>
     </message>
     <message>
         <location filename="../../../scribus/cpalette.cpp" line="1037"/>
         <source>Hue</source>
-        <translation type="unfinished"/>
+        <translation>Arlliw</translation>
     </message>
     <message>
         <location filename="../../../scribus/cpalette.cpp" line="1038"/>
@@ -5761,12 +5761,12 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/cpalette.cpp" line="1039"/>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Lliw</translation>
     </message>
     <message>
         <location filename="../../../scribus/cpalette.cpp" line="1040"/>
         <source>Luminosity</source>
-        <translation type="unfinished"/>
+        <translation>Goleuedd</translation>
     </message>
     <message>
         <location filename="../../../scribus/cpalette.cpp" line="1043"/>
@@ -7354,21 +7354,21 @@ Name of the export file will be &apos;documentname-pagenumber.filetype&apos;</so
         <location filename="../../../scribus/extimageprops.cpp" line="77"/>
         <location filename="../../../scribus/extimageprops.cpp" line="111"/>
         <source>Darken</source>
-        <translation type="unfinished"/>
+        <translation>Tywyllu</translation>
     </message>
     <message>
         <location filename="../../../scribus/extimageprops.cpp" line="60"/>
         <location filename="../../../scribus/extimageprops.cpp" line="78"/>
         <location filename="../../../scribus/extimageprops.cpp" line="112"/>
         <source>Lighten</source>
-        <translation type="unfinished"/>
+        <translation>Ysgafnhau</translation>
     </message>
     <message>
         <location filename="../../../scribus/extimageprops.cpp" line="61"/>
         <location filename="../../../scribus/extimageprops.cpp" line="79"/>
         <location filename="../../../scribus/extimageprops.cpp" line="113"/>
         <source>Hue</source>
-        <translation type="unfinished"/>
+        <translation>Arlliw</translation>
     </message>
     <message>
         <location filename="../../../scribus/extimageprops.cpp" line="62"/>
@@ -7382,28 +7382,28 @@ Name of the export file will be &apos;documentname-pagenumber.filetype&apos;</so
         <location filename="../../../scribus/extimageprops.cpp" line="81"/>
         <location filename="../../../scribus/extimageprops.cpp" line="115"/>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Lliw</translation>
     </message>
     <message>
         <location filename="../../../scribus/extimageprops.cpp" line="64"/>
         <location filename="../../../scribus/extimageprops.cpp" line="82"/>
         <location filename="../../../scribus/extimageprops.cpp" line="116"/>
         <source>Luminosity</source>
-        <translation type="unfinished"/>
+        <translation>Goleuedd</translation>
     </message>
     <message>
         <location filename="../../../scribus/extimageprops.cpp" line="65"/>
         <location filename="../../../scribus/extimageprops.cpp" line="83"/>
         <location filename="../../../scribus/extimageprops.cpp" line="117"/>
         <source>Multiply</source>
-        <translation type="unfinished"/>
+        <translation>Amlhau</translation>
     </message>
     <message>
         <location filename="../../../scribus/extimageprops.cpp" line="66"/>
         <location filename="../../../scribus/extimageprops.cpp" line="84"/>
         <location filename="../../../scribus/extimageprops.cpp" line="118"/>
         <source>Screen</source>
-        <translation type="unfinished"/>
+        <translation>Sgrin</translation>
     </message>
     <message>
         <location filename="../../../scribus/extimageprops.cpp" line="67"/>
@@ -7417,54 +7417,54 @@ Name of the export file will be &apos;documentname-pagenumber.filetype&apos;</so
         <location filename="../../../scribus/extimageprops.cpp" line="86"/>
         <location filename="../../../scribus/extimageprops.cpp" line="120"/>
         <source>Overlay</source>
-        <translation type="unfinished"/>
+        <translation>Troshaen</translation>
     </message>
     <message>
         <location filename="../../../scribus/extimageprops.cpp" line="69"/>
         <location filename="../../../scribus/extimageprops.cpp" line="87"/>
         <location filename="../../../scribus/extimageprops.cpp" line="121"/>
         <source>Hard Light</source>
-        <translation type="unfinished"/>
+        <translation>Gola Caled</translation>
     </message>
     <message>
         <location filename="../../../scribus/extimageprops.cpp" line="70"/>
         <location filename="../../../scribus/extimageprops.cpp" line="88"/>
         <location filename="../../../scribus/extimageprops.cpp" line="122"/>
         <source>Soft Light</source>
-        <translation type="unfinished"/>
+        <translation>Gola Meddal</translation>
     </message>
     <message>
         <location filename="../../../scribus/extimageprops.cpp" line="71"/>
         <location filename="../../../scribus/extimageprops.cpp" line="89"/>
         <location filename="../../../scribus/extimageprops.cpp" line="123"/>
         <source>Difference</source>
-        <translation type="unfinished"/>
+        <translation>Gwahaniaeth</translation>
     </message>
     <message>
         <location filename="../../../scribus/extimageprops.cpp" line="72"/>
         <location filename="../../../scribus/extimageprops.cpp" line="90"/>
         <location filename="../../../scribus/extimageprops.cpp" line="124"/>
         <source>Exclusion</source>
-        <translation type="unfinished"/>
+        <translation>Gwaharddiad</translation>
     </message>
     <message>
         <location filename="../../../scribus/extimageprops.cpp" line="73"/>
         <location filename="../../../scribus/extimageprops.cpp" line="91"/>
         <location filename="../../../scribus/extimageprops.cpp" line="125"/>
         <source>Color Dodge</source>
-        <translation type="unfinished"/>
+        <translation>Lliw Ystryw</translation>
     </message>
     <message>
         <location filename="../../../scribus/extimageprops.cpp" line="74"/>
         <location filename="../../../scribus/extimageprops.cpp" line="92"/>
         <location filename="../../../scribus/extimageprops.cpp" line="126"/>
         <source>Color Burn</source>
-        <translation type="unfinished"/>
+        <translation>Llosgi Lliw</translation>
     </message>
     <message>
         <location filename="../../../scribus/extimageprops.cpp" line="106"/>
         <source>Blend Mode:</source>
-        <translation type="unfinished"/>
+        <translation>Cytuno Modd:</translation>
     </message>
     <message>
         <location filename="../../../scribus/extimageprops.cpp" line="129"/>
@@ -9615,7 +9615,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/layers.cpp" line="601"/>
         <source>Blend Mode:</source>
-        <translation type="unfinished"/>
+        <translation>Cytuno Modd:</translation>
     </message>
     <message>
         <location filename="../../../scribus/layers.cpp" line="603"/>
@@ -9625,62 +9625,62 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/layers.cpp" line="604"/>
         <source>Darken</source>
-        <translation type="unfinished"/>
+        <translation>Tywyllu</translation>
     </message>
     <message>
         <location filename="../../../scribus/layers.cpp" line="605"/>
         <source>Lighten</source>
-        <translation type="unfinished"/>
+        <translation>Ysgafnhau</translation>
     </message>
     <message>
         <location filename="../../../scribus/layers.cpp" line="606"/>
         <source>Multiply</source>
-        <translation type="unfinished"/>
+        <translation>Amlhau</translation>
     </message>
     <message>
         <location filename="../../../scribus/layers.cpp" line="607"/>
         <source>Screen</source>
-        <translation type="unfinished"/>
+        <translation>Sgrin</translation>
     </message>
     <message>
         <location filename="../../../scribus/layers.cpp" line="608"/>
         <source>Overlay</source>
-        <translation type="unfinished"/>
+        <translation>Troshaen</translation>
     </message>
     <message>
         <location filename="../../../scribus/layers.cpp" line="609"/>
         <source>Hard Light</source>
-        <translation type="unfinished"/>
+        <translation>Gola Caled</translation>
     </message>
     <message>
         <location filename="../../../scribus/layers.cpp" line="610"/>
         <source>Soft Light</source>
-        <translation type="unfinished"/>
+        <translation>Gola Meddal</translation>
     </message>
     <message>
         <location filename="../../../scribus/layers.cpp" line="611"/>
         <source>Difference</source>
-        <translation type="unfinished"/>
+        <translation>Gwahaniaeth</translation>
     </message>
     <message>
         <location filename="../../../scribus/layers.cpp" line="612"/>
         <source>Exclusion</source>
-        <translation type="unfinished"/>
+        <translation>Gwaharddiad</translation>
     </message>
     <message>
         <location filename="../../../scribus/layers.cpp" line="613"/>
         <source>Color Dodge</source>
-        <translation type="unfinished"/>
+        <translation>Lliw Ystryw</translation>
     </message>
     <message>
         <location filename="../../../scribus/layers.cpp" line="614"/>
         <source>Color Burn</source>
-        <translation type="unfinished"/>
+        <translation>Llosgi Lliw</translation>
     </message>
     <message>
         <location filename="../../../scribus/layers.cpp" line="615"/>
         <source>Hue</source>
-        <translation type="unfinished"/>
+        <translation>Arlliw</translation>
     </message>
     <message>
         <location filename="../../../scribus/layers.cpp" line="616"/>
@@ -9690,12 +9690,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/layers.cpp" line="617"/>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Lliw</translation>
     </message>
     <message>
         <location filename="../../../scribus/layers.cpp" line="618"/>
         <source>Luminosity</source>
-        <translation type="unfinished"/>
+        <translation>Goleuedd</translation>
     </message>
     <message>
         <location filename="../../../scribus/layers.cpp" line="72"/>
@@ -10600,7 +10600,7 @@ If no handle is selected all handles will be reset.</source>
     <message>
         <location filename="../../../scribus/ui/modetoolbar.cpp" line="124"/>
         <source>Properties...</source>
-        <translation type="unfinished"/>
+        <translation>Priodweddau...</translation>
     </message>
 </context>
 <context>
@@ -12196,7 +12196,7 @@ If no handle is selected all handles will be reset.</source>
     <message>
         <location filename="../../../scribus/pageitem_textframe.cpp" line="3866"/>
         <source>Text Frame</source>
-        <translation type="unfinished"/>
+        <translation>Ffram Testun</translation>
     </message>
     <message>
         <location filename="../../../scribus/pageitem_textframe.cpp" line="3870"/>
@@ -12887,7 +12887,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <message>
         <location filename="../../../scribus/picsearch.ui" line="86"/>
         <source>&amp;Preview</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Rhagolwg</translation>
     </message>
     <message>
         <location filename="../../../scribus/picsearch.ui" line="89"/>
@@ -13452,7 +13452,7 @@ Please choose another one.</source>
     <message>
         <location filename="../../../scribus/pluginmanagerprefsgui.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
 </context>
 <context>
@@ -13468,7 +13468,7 @@ Please choose another one.</source>
     <message>
         <location filename="../../../scribus/polygonwidgetbase.ui" line="19"/>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <location filename="../../../scribus/polygonwidgetbase.ui" line="30"/>
@@ -14007,7 +14007,7 @@ amrediad tudalennau, neu rhif tudalen unigol.</translation>
     <message>
         <location filename="../../../scribus/printdialogbase.ui" line="381"/>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Lliw</translation>
     </message>
     <message>
         <location filename="../../../scribus/printdialogbase.ui" line="387"/>
@@ -14330,7 +14330,7 @@ Note: PDF Forms will not be exported.</source>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5264"/>
         <source>&amp;Group</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Grŵp</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5266"/>
@@ -14371,7 +14371,7 @@ Note: PDF Forms will not be exported.</source>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5283"/>
         <source>Blend Mode:</source>
-        <translation type="unfinished"/>
+        <translation>Cytuno Modd:</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5286"/>
@@ -14381,62 +14381,62 @@ Note: PDF Forms will not be exported.</source>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5287"/>
         <source>Darken</source>
-        <translation type="unfinished"/>
+        <translation>Tywyllu</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5288"/>
         <source>Lighten</source>
-        <translation type="unfinished"/>
+        <translation>Ysgafnhau</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5289"/>
         <source>Multiply</source>
-        <translation type="unfinished"/>
+        <translation>Amlhau</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5290"/>
         <source>Screen</source>
-        <translation type="unfinished"/>
+        <translation>Sgrin</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5291"/>
         <source>Overlay</source>
-        <translation type="unfinished"/>
+        <translation>Troshaen</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5292"/>
         <source>Hard Light</source>
-        <translation type="unfinished"/>
+        <translation>Gola Caled</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5293"/>
         <source>Soft Light</source>
-        <translation type="unfinished"/>
+        <translation>Gola Meddal</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5294"/>
         <source>Difference</source>
-        <translation type="unfinished"/>
+        <translation>Gwahaniaeth</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5295"/>
         <source>Exclusion</source>
-        <translation type="unfinished"/>
+        <translation>Gwaharddiad</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5296"/>
         <source>Color Dodge</source>
-        <translation type="unfinished"/>
+        <translation>Lliw Ystryw</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5297"/>
         <source>Color Burn</source>
-        <translation type="unfinished"/>
+        <translation>Llosgi Lliw</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5298"/>
         <source>Hue</source>
-        <translation type="unfinished"/>
+        <translation>Arlliw</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5299"/>
@@ -14447,7 +14447,7 @@ Note: PDF Forms will not be exported.</source>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5300"/>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Lliw</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5302"/>
@@ -15935,7 +15935,7 @@ Gwiriwch y llwybr ac enw&apos;r ffeil.</translation>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="161"/>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Ymgeisio</translation>
     </message>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="162"/>
@@ -21230,7 +21230,7 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/scripterprefsgui.ui" line="13"/>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/scripterprefsgui.ui" line="164"/>
@@ -25021,7 +25021,7 @@ when PDF document is opened:</source>
     <message>
         <location filename="../../../scribus/tabprinter.ui" line="184"/>
         <source>Color</source>
-        <translation type="unfinished"/>
+        <translation>Lliw</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabprinter.ui" line="196"/>
@@ -27282,7 +27282,7 @@ converting their vector data into Scribus objects.</source>
     <message>
         <location filename="../../../scribus/hysettingsBase.ui" line="14"/>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <location filename="../../../scribus/hysettingsBase.ui" line="33"/>
@@ -27523,12 +27523,12 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../../scribus/plugins/newfromtemplateplugin/nftdialog.ui" line="114"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Cymorth</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/newfromtemplateplugin/nftdialog.ui" line="86"/>
         <source>&amp;Preview</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Rhagolwg</translation>
     </message>
 </context>
 <context>
@@ -27646,7 +27646,7 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../../scribus/nftwidget.ui" line="13"/>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <location filename="../../../scribus/nftwidget.ui" line="81"/>
@@ -27656,12 +27656,12 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../../scribus/nftwidget.ui" line="105"/>
         <source>&amp;Preview</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Rhagolwg</translation>
     </message>
     <message>
         <location filename="../../../scribus/nftwidget.ui" line="133"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Cymorth</translation>
     </message>
 </context>
 <context>
@@ -27669,17 +27669,17 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../../scribus/replaceonecolor.ui" line="13"/>
         <source>Replace Color</source>
-        <translation type="unfinished"/>
+        <translation>Newid Lliw</translation>
     </message>
     <message>
         <location filename="../../../scribus/replaceonecolor.ui" line="54"/>
         <source>Replace:</source>
-        <translation type="unfinished"/>
+        <translation>Newid:</translation>
     </message>
     <message>
         <location filename="../../../scribus/replaceonecolor.ui" line="70"/>
         <source>with:</source>
-        <translation type="unfinished"/>
+        <translation>gyda:</translation>
     </message>
 </context>
 <context>
@@ -27687,7 +27687,7 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../../scribus/replacecolors.cpp" line="52"/>
         <source>Original</source>
-        <translation type="unfinished"/>
+        <translation>Gwreiddiol</translation>
     </message>
     <message>
         <location filename="../../../scribus/replacecolors.cpp" line="53"/>
@@ -27697,12 +27697,12 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../../scribus/replacecolors.ui" line="13"/>
         <source>Replace Colors</source>
-        <translation type="unfinished"/>
+        <translation>Newid Lliw</translation>
     </message>
     <message>
         <location filename="../../../scribus/replacecolors.ui" line="47"/>
         <source>Add ...</source>
-        <translation type="unfinished"/>
+        <translation>Adio</translation>
     </message>
     <message>
         <location filename="../../../scribus/replacecolors.ui" line="60"/>
@@ -27778,17 +27778,17 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../../scribus/selectobjects.ui" line="117"/>
         <source>Text Frame</source>
-        <translation type="unfinished"/>
+        <translation>Ffram Testun</translation>
     </message>
     <message>
         <location filename="../../../scribus/selectobjects.ui" line="122"/>
         <source>Image Frame</source>
-        <translation type="unfinished"/>
+        <translation>Ffram Delwedd</translation>
     </message>
     <message>
         <location filename="../../../scribus/selectobjects.ui" line="127"/>
         <source>Shape</source>
-        <translation type="unfinished"/>
+        <translation>Siâp</translation>
     </message>
     <message>
         <location filename="../../../scribus/selectobjects.ui" line="132"/>
@@ -27813,41 +27813,41 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../../scribus/selectobjects.ui" line="170"/>
         <source>Line Color</source>
-        <translation type="unfinished"/>
+        <translation>Lliw Llinell</translation>
     </message>
     <message>
         <location filename="../../../scribus/selectobjects.ui" line="187"/>
         <source>Line Width</source>
-        <translation type="unfinished"/>
+        <translation>Lled llinell</translation>
     </message>
     <message>
         <location filename="../../../scribus/selectobjects.ui" line="204"/>
         <source>Printable</source>
-        <translation type="unfinished"/>
+        <translation>Printiedig</translation>
     </message>
     <message>
         <location filename="../../../scribus/selectobjects.ui" line="215"/>
         <location filename="../../../scribus/selectobjects.ui" line="245"/>
         <location filename="../../../scribus/selectobjects.ui" line="272"/>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Ie</translation>
     </message>
     <message>
         <location filename="../../../scribus/selectobjects.ui" line="220"/>
         <location filename="../../../scribus/selectobjects.ui" line="250"/>
         <location filename="../../../scribus/selectobjects.ui" line="277"/>
         <source>No</source>
-        <translation type="unfinished"/>
+        <translation>Na</translation>
     </message>
     <message>
         <location filename="../../../scribus/selectobjects.ui" line="231"/>
         <source>Locked</source>
-        <translation type="unfinished"/>
+        <translation>Ar glo</translation>
     </message>
     <message>
         <location filename="../../../scribus/selectobjects.ui" line="261"/>
         <source>Resizeable</source>
-        <translation type="unfinished"/>
+        <translation>Newid maint</translation>
     </message>
     <message>
         <location filename="../../../scribus/selectobjects.ui" line="46"/>
@@ -27882,7 +27882,7 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../../scribus/selectobjects.ui" line="106"/>
         <source>Item Type</source>
-        <translation type="unfinished"/>
+        <translation>Math eitem</translation>
     </message>
     <message>
         <location filename="../../../scribus/selectobjects.ui" line="150"/>
@@ -27941,7 +27941,7 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../../scribus/plugins/gettext/textfilter/tfdia.cpp" line="35"/>
         <source>Create filter</source>
-        <translation type="unfinished"/>
+        <translation>Creu ffilter</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/gettext/textfilter/tfdia.cpp" line="77"/>
@@ -27980,38 +27980,38 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../../scribus/plugins/gettext/textfilter/tffilter.cpp" line="136"/>
         <source>Remove this filter row</source>
-        <translation type="unfinished"/>
+        <translation>Diddymu y ffilter rhes</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/gettext/textfilter/tffilter.cpp" line="141"/>
         <source>Add a new filter row</source>
-        <translation type="unfinished"/>
+        <translation>Ategu newydd ffilter rhes</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/gettext/textfilter/tffilter.cpp" line="192"/>
         <location filename="../../../scribus/plugins/gettext/textfilter/tffilter.cpp" line="394"/>
         <source>to</source>
-        <translation type="unfinished"/>
+        <translation>at</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/gettext/textfilter/tffilter.cpp" line="210"/>
         <source>and</source>
-        <translation type="unfinished"/>
+        <translation>ac</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/gettext/textfilter/tffilter.cpp" line="214"/>
         <source>remove match</source>
-        <translation type="unfinished"/>
+        <translation>symud cydweddu</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/gettext/textfilter/tffilter.cpp" line="215"/>
         <source>do not remove match</source>
-        <translation type="unfinished"/>
+        <translation>peidio a symud cydweddu</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/gettext/textfilter/tffilter.cpp" line="225"/>
         <source>words</source>
-        <translation type="unfinished"/>
+        <translation>geiriau</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/gettext/textfilter/tffilter.cpp" line="264"/>
@@ -28021,53 +28021,53 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../../scribus/plugins/gettext/textfilter/tffilter.cpp" line="265"/>
         <source>Replace</source>
-        <translation type="unfinished"/>
+        <translation>Amnewid</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/gettext/textfilter/tffilter.cpp" line="266"/>
         <source>Apply</source>
-        <translation type="unfinished"/>
+        <translation>Ymgeisio</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/gettext/textfilter/tffilter.cpp" line="285"/>
         <location filename="../../../scribus/plugins/gettext/textfilter/tffilter.cpp" line="423"/>
         <source>Value at the left is a regular expression</source>
-        <translation type="unfinished"/>
+        <translation>Gwerth ar y chwith fel y mae rheolaidd mynegiant</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/gettext/textfilter/tffilter.cpp" line="299"/>
         <source>with</source>
-        <translation type="unfinished"/>
+        <translation>gyda</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/gettext/textfilter/tffilter.cpp" line="311"/>
         <source>paragraph style</source>
-        <translation type="unfinished"/>
+        <translation>paragraffau arddull</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/gettext/textfilter/tffilter.cpp" line="315"/>
         <source>all instances of</source>
-        <translation type="unfinished"/>
+        <translation>pob enghreifftiau o</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/gettext/textfilter/tffilter.cpp" line="397"/>
         <source>all paragraphs</source>
-        <translation type="unfinished"/>
+        <translation>holl paragraffau</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/gettext/textfilter/tffilter.cpp" line="398"/>
         <source>paragraphs starting with</source>
-        <translation type="unfinished"/>
+        <translation>paragraffau cychwyniad gydag</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/gettext/textfilter/tffilter.cpp" line="399"/>
         <source>paragraphs with less than</source>
-        <translation type="unfinished"/>
+        <translation>paragraffau ag llai nag</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/gettext/textfilter/tffilter.cpp" line="400"/>
         <source>paragraphs with more than</source>
-        <translation type="unfinished"/>
+        <translation>paragraffau ag mwy nag</translation>
     </message>
 </context>
 </TS>

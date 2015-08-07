@@ -4975,7 +4975,11 @@ If the file was a PostScript-based, try to import it with File -&amp;gt; Import.
 Not all files have DSC conformant comments where the color descriptions are located.
  This prevents importing colors from some files.
 See the Edit Colors section of the documentation for more details.</source>
-        <translation type="unfinished"/>
+        <translation>%1 fitxategiak ez dauka inporta daitekeen kolorerik.
+Fitxategia PostScript-en oinarrituta badago, saiatu Fitxategia -&amp;gt; Inportatu erabiltzen.
+Fitxategi guztiek ez daukatu DSCrekin bat datozen iruzkinak kolore-deskribapenak
+gordetzeko. Horrelakorik ezean, fitxategieren koloreak ezin dira inportatu.
+Ikusi dokumentazioaren &apos;Editatu koloreak&apos; atala xehetasun gehiagorako.</translation>
     </message>
     <message>
         <location filename="../../../scribus/colorm.cpp" line="194"/>
@@ -9261,12 +9265,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/insertaframe.cpp" line="133"/>
         <source>&lt;b&gt;Insert a text frame&lt;/b&gt;&lt;br/&gt;A text frame allows you to enter any text in a defined position with the formatting you choose. You may select a text file on the Options tab if you want to immediately import a document into the frame. Scribus supports a wide variety of importable formats from plain text to OpenOffice.org.&lt;br/&gt;Your text may be edited and formatted on the page directly or in the Story Editor.</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Txertatu testu-marko bat&lt;/b&gt;&lt;br/&gt;Testu-marko batek edozein testu sartzea ahalbidetzen dizu, nahi duzun tokian eta formatuan. &apos;Aukerak&apos; fitxan testu-fitxategi bat aukera dezakezu dokumentu bat markora beherala inportatu nahi baduzu. Sribus-ek hainbat formatu inportatzea onartzen du, testu arruntetik hasi eta OpenOffice.org formatuetaraino&lt;br/&gt;Zure testua orrialdean zuzenean edo historia-editorean editatu eta formateatu ahal izango duzu.</translation>
     </message>
     <message>
         <location filename="../../../scribus/insertaframe.cpp" line="137"/>
         <source>&lt;b&gt;Insert an image frame&lt;/b&gt;&lt;br/&gt;An image frame allows you to place an image onto your page. Various image effects may be applied or combined including transparencies, brightness, and posterisation that allow retouching or the creation of interesting visual results. Image scaling and shaping is performed with the Properties Palette.</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Txertatu irudi-marko bat&lt;/b&gt;&lt;br/&gt;Irudi-marko batek irudia zure orrialdean kokatzea ahalbidetzen dizu. Hainbat irudi-efektu aplika daitezte, baita aldi berean ere, gardentasuna, distira eta posterizazioa barne, horrela ikusizko emaitza interesgarriak sortuz. &apos;Propietateen paleta&apos; aukeran irudien eskala aldatu eta forma eman dakieke.</translation>
     </message>
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="41"/>
@@ -9810,7 +9814,7 @@ ez duzula aldatzen.</translation>
     <message>
         <location filename="../../../scribus/layers.cpp" line="640"/>
         <source>Make text in lower layers flow around objects - Enabling this forces text in lower layers to flow around objects of the layer for which this option has been enabled</source>
-        <translation type="unfinished"/>
+        <translation>Gaitu azpiragoko geruzetako testua objektuetara egokitu dadin - Hau gaitzeak azpiragoko testuak geruzaren objektuetara egokitu dadin behartzen du, gaituta dagoen geruzetarako</translation>
     </message>
     <message>
         <location filename="../../../scribus/layers.cpp" line="642"/>
@@ -12684,7 +12688,8 @@ both end points must lie outside of the polygon</source>
         <location filename="../../../scribus/plugins/tools/pathfinder/pathfinderbase.ui" line="383"/>
         <source>Break apart,
 The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Zatiketa.
+Emaitza &apos;Ebaketa&apos; eta &apos;Esklusio&apos; aukeren konbinazioa da.</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/pathfinder/pathfinderbase.ui" line="482"/>
@@ -13861,7 +13866,7 @@ gogorreko leku erabilgarria.</translation>
     <message>
         <location filename="../../../scribus/marginwidget.cpp" line="560"/>
         <source>When you have selected a Document Layout other than Single Page, you can select a predefined page layout here. &apos;None&apos; leaves margins as is, Gutenberg sets margins classically. &apos;Magazine&apos; sets all margins to the same value. Leading is Left/Inside value.</source>
-        <translation type="unfinished"/>
+        <translation>Orrialde bakarrekoa ez den beste edozein dokumentu-diseina hautatu baduzu, hemen aurredefinitutatko orrialde-diseinu bat hauta dezakezu. &apos;Bat ere ez&apos; aukerak marjinak bere hartan uzten ditu, &apos;Gutenberg&apos; aukerak marjinak modu klasikoan ezartzen ditu. &apos;Magazine&apos; aukerak balio bereko marjinak ezartzen ditu. Gidaria barru ezkerreko balioa da.</translation>
     </message>
 </context>
 <context>
@@ -14106,7 +14111,7 @@ batentzako, edo orrialde bakar batentzako izan daiteke.</translation>
     <message>
         <location filename="../../../scribus/printdialogbase.ui" line="397"/>
         <source>&lt;qt&gt;Enables Spot Colors to be converted to composite colors. Unless you are planning to print spot colors at a commercial printer, this is probably best left enabled.&lt;/qt&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;Kolore zuzenak kolore konposatu bihurtzea ahalbidetzen du. Inprimagailu komertzial batean inprimatu nahi izanez gero, aukera hau gaituta uztea gomendatzen da.&lt;/qt&gt;</translation>
     </message>
     <message>
         <location filename="../../../scribus/printdialogbase.ui" line="407"/>
@@ -14824,7 +14829,7 @@ ertzak:</translation>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5457"/>
         <source>Knockout</source>
-        <translation type="unfinished"/>
+        <translation>Knockout</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5458"/>
@@ -14930,12 +14935,12 @@ adierazten du.</translation>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5620"/>
         <source>This rule determines the &amp;quot;insideness&amp;quot; of a point on the canvas by drawing a ray from that point to infinity in any direction and counting the number of path segments from the given shape that the ray crosses. If this number is odd, the point is inside, if even, the point is outside.</source>
-        <translation type="unfinished"/>
+        <translation>Erregela honek puntu bat oihalean dagoen zehazten du, izpi bat marraztuz puntutik infinituraino edozein norabidetan eta izpiak formaren zenbat bide-segmentu zeharkatzen dituen zenbatuz. Zenbakia bakoitia bada, puntua barruan dago. Bikoitia bada, kanpoan dago.</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5621"/>
         <source>This rule determines the &amp;quot;insideness&amp;quot; of a point on the canvas by drawing a ray from that point to infinity in any direction and then examining the places where a segment of the shape crosses the ray. Starting with a count of zero, add one each time a path segment crosses the ray from left to right and subtract one each time a path segment crosses the ray from right to left. If the result is zero then the point is outside the path. Otherwise, it is inside.</source>
-        <translation type="unfinished"/>
+        <translation>Erregela honek puntu bat oihalean dagoen zehazten du, izpi bat marraztuz puntutik infinituraino edozein norabidetan eta formaren segmentu batek izpia zein tokitan zeharkatzen duen aztertuz. Zerotik hasita, gehitu bat bide-segmentu batek izpia ezkerretik eskuinera zeharkatzen duen bakoitzean, eta kendu bat eskuinetik ezkerrera zeharkatzen duen bakoitzean. Emaitza zero bada, puntua bidetik kanpo dago. Bestela, barruan dago.</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5623"/>
@@ -15017,7 +15022,7 @@ Biak aukeratzen badira, kolore berdina partekatuko dute.</translation>
         <location filename="../../../scribus/propertiespalette.cpp" line="5626"/>
         <location filename="../../../scribus/propertiespalette.cpp" line="5631"/>
         <source>When chosen, the contour line can be edited with the Edit Shape Tool on the palette further above. When edited via the shape palette, this becomes a second separate line originally based on the frame&apos;s shape for text flow of text frames below the object.</source>
-        <translation type="unfinished"/>
+        <translation>Hautatuta dagoenean, ingerada-lerroa goiko paletako &apos;Editatu forma&apos; tresnarekin edita daiteke. Formen paletaren bidez editatzen denean, bereizitako bigarren lerro bat bihurtzen da, jatorriz markoaren forman oinarritutakoa, objektuaren azpiko testu-markoen testu-fluxurako.</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5627"/>
@@ -17064,7 +17069,7 @@ Jarraitzea nahi duzu?</translation>
     <message>
         <location filename="../../../scribus/styles/charstyle.cpp" line="201"/>
         <source>+stretch </source>
-        <translation type="unfinished"/>
+        <translation>+luzatua</translation>
     </message>
     <message>
         <location filename="../../../scribus/styles/charstyle.cpp" line="203"/>
@@ -18422,7 +18427,7 @@ Kanpoko estekak</translation>
         <location filename="../../../scribus/plugins/scriptplugin/cmdstyle.cpp" line="73"/>
         <source>hasdropcap has to be 0 or 1.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>hasdropcap 0 edo 1 izan behar du.</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/cmdstyle.cpp" line="130"/>
@@ -18450,17 +18455,17 @@ Kanpoko estekak</translation>
     <message>
         <location filename="../../../scribus/plugins/tools/pathcut/pathcut.cpp" line="91"/>
         <source>PathCutter</source>
-        <translation type="unfinished"/>
+        <translation>PathCutter</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/pathfinder/pathfinder.cpp" line="97"/>
         <source>PathFinder</source>
-        <translation type="unfinished"/>
+        <translation>PathFinder</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/pathstroker/pathstroker.cpp" line="88"/>
         <source>PathStroker</source>
-        <translation type="unfinished"/>
+        <translation>PathStroker</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellplugin.cpp" line="56"/>
@@ -18501,7 +18506,7 @@ Kanpoko estekak</translation>
     <message>
         <location filename="../../../scribus/plugins/tools/2geomtools/pathalongpath/pathalongpath.cpp" line="88"/>
         <source>PathAlongPath</source>
-        <translation type="unfinished"/>
+        <translation>PathAlongPath</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/transform/transformeffect.cpp" line="78"/>
@@ -18550,7 +18555,7 @@ Kanpoko estekak</translation>
     <message>
         <location filename="../../../scribus/plugins/tools/pathconnect/pathconnect.cpp" line="82"/>
         <source>PathConnect</source>
-        <translation type="unfinished"/>
+        <translation>PathConnect</translation>
     </message>
     <message>
         <location filename="../../../scribus/scimgdataloader_ps.cpp" line="504"/>
@@ -19300,7 +19305,7 @@ Hautatu beste bat.</translation>
     <message>
         <location filename="../../../scribus/smlinestylewidget.cpp" line="61"/>
         <source>Join style</source>
-        <translation type="unfinished"/>
+        <translation>Lotura-estiloa</translation>
     </message>
     <message>
         <location filename="../../../scribus/smlinestylewidget.cpp" line="62"/>
@@ -19501,7 +19506,8 @@ Hautatu beste bat.</translation>
         <location filename="../../../scribus/smpstylewidget.cpp" line="103"/>
         <source>Maximum white space compression allowed.
 Expressed as a percentage of the current white space value.</source>
-        <translation type="unfinished"/>
+        <translation>Zuriuneen konpresio maximoa onartuta.
+Uneko zuriune-balioaren ehuneko gisa adierazita.</translation>
     </message>
     <message>
         <location filename="../../../scribus/smpstylewidget.cpp" line="105"/>
@@ -21703,7 +21709,7 @@ zerrendatu dira. </translation>
     <message>
         <location filename="../../../scribus/plugins/short-words/shortwords.cpp" line="99"/>
         <source>Special plug-in for adding non-breaking spaces before or after so called short words. Available in the following languages: </source>
-        <translation type="unfinished"/>
+        <translation>Laburduren aurretik edo ondoren jauzirik gabeko zuriuneak gehitzeko plugin berezia. Honako hizkuntzetarako erabilgarri:</translation>
     </message>
 </context>
 <context>
@@ -22670,7 +22676,7 @@ bertsioko dokumentua inportatzean.</translation>
     <message>
         <location filename="../../../scribus/tabdisplay.cpp" line="46"/>
         <source>Place a ruler against your screen and drag the slider to set the zoom level so Scribus will display your pages and objects on them at the correct size</source>
-        <translation type="unfinished"/>
+        <translation>Kokatu erregela bat zure pantailaren gainean eta arrastatu graduatzailea zoom maila ezartzeko. Horrela Scribus-ek zure orrialdeak eta objektuak haren gainean eta tamaina zuzenean erakutsiko ditu.</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabdisplay.ui" line="15"/>
@@ -23292,7 +23298,7 @@ erabil dezakezu, Scribus abiaraztean, erabilera hau gainidazteko</translation>
     <message>
         <location filename="../../../scribus/tabgeneral.cpp" line="61"/>
         <source>Default ICC profiles directory. This cannot be changed with a document open. By default, Scribus will look in the System Directories under Mac OSX and Windows. On Linux and Unix, Scribus will search $home/.color/icc, $home/.local/share/color/icc, /usr/share/color/icc and /usr/local/share/color/icc</source>
-        <translation type="unfinished"/>
+        <translation>ICC profilen direktorio lehenetsia. Hau ezin da aldatu dokumenturen bat irekita dagoenean. Modu lehenetsian, Scribus-ek sistemaren direktorioetan begiratuko du Mac OSX eta Windows sistemetan. Linuxen eta Unixen, Scribus-ek $home/.color/icc, $home/.local/share/color/icc, /usr/share/color/icc eta /usr/local/share/color/icc begiratuko ditu.</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabgeneral.cpp" line="62"/>
@@ -24848,17 +24854,17 @@ batentzako, edo orrialde bakar batentzako izan daiteke.</translation>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="967"/>
         <source>Method of compression to use for images. Automatic allows Scribus to choose the best method. ZIP is lossless and good for images with solid colors. JPEG is better at creating smaller PDF files which have many photos (with slight image quality loss possible). Leave it set to Automatic unless you have a need for special compression options.</source>
-        <translation type="unfinished"/>
+        <translation>Irudietarako erabiliko den konpresio mota. Automatikoak metodorik onena Scribus-ek hauta dezan ahalbidetzen du. ZIP metodoak ez du galerarik sortzen eta ona da kolore solidoak dituzten irudietarako. JPEG hobea da irudi asko dituzten PDF txikiagoak sortzeko (kalitate galerarik txikia gerta daiteke). Utzi &apos;Automatikoa&apos; moduan, konpresio-aukera bereziak ez badituzu.</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="968"/>
         <source>Compression quality levels for lossy compression methods: Minimum (25%), Low (50%), Medium (75%), High (85%), Maximum (95%). Note that a quality level does not directly determine the size of the resulting image - both size and quality loss vary from image to image at any given quality level. Even with Maximum selected, there is always some quality loss with jpeg.</source>
-        <translation type="unfinished"/>
+        <translation>Konpresio-kalitatearen maila galera eragiten duten konpresio-metodoetarako: Minimoa (%25), baxua (%50), altua (%85), maximoa (%95). Kontuan izan kalitate-mailak ez duela zuzenean zehazten emaitza gisa lortuko den irudiaren tamaina - biak, tamaina eta kalitate-galera aldakorrak dira irudi batetik bestera, edozein kalitate-mailan. Nahiz eta maximoa egon hautatuta, beti dago galera txiki bat JPEG formatuan.</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="1340"/>
         <source>InfoString</source>
-        <translation type="unfinished"/>
+        <translation>InfoString</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="1401"/>
@@ -25328,7 +25334,7 @@ UCRek gainsaturazioaren posibilitatea gutxitzen du CMH tintekin.</translation>
     <message>
         <location filename="../../../scribus/tabscrapbook.ui" line="24"/>
         <source>This enables the scrapbook to be used an extension to the copy/paste buffers. Simply copying an object or grouped object will send this to the Scrapbook automatically</source>
-        <translation type="unfinished"/>
+        <translation>Ebakinen albuma kopiatu/itsatsi bufferren luzapen gisa erabiltzea ahalbidetznen du. Objektu bat edo taldekatutako objektu bat kopiatzeak hura ebakinen albumera automatikoki bidaliko du.</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabscrapbook.ui" line="27"/>
@@ -26096,7 +26102,7 @@ UCRek gainsaturazioaren posibilitatea gutxitzen du CMH tintekin.</translation>
     <message>
         <location filename="../../../scribus/tabruler.cpp" line="501"/>
         <source>Period</source>
-        <translation type="unfinished"/>
+        <translation>Denbora-tartea</translation>
     </message>
 </context>
 <context>

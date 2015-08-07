@@ -34,15 +34,15 @@
     </message>
     <message>
         <source>&amp;Translations</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ಅನುವಾದಗಳು</translation>
     </message>
     <message>
         <source>&amp;Online</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ಆನ್ ಲೈನ್</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ಮುಚ್ಚು</translation>
     </message>
     <message>
         <source>Development Team:</source>
@@ -86,7 +86,7 @@
     </message>
     <message>
         <source>Wiki</source>
-        <translation type="unfinished"/>
+        <translation>ವಿಕೀ</translation>
     </message>
     <message>
         <source>%1 %2 %3</source>
@@ -201,7 +201,7 @@
     <name>AboutPlugins</name>
     <message>
         <source>Filename:</source>
-        <translation type="unfinished"/>
+        <translation>ಫೈಲ್ ಹೆಸರು:</translation>
     </message>
     <message>
         <source>Version:</source>
@@ -217,7 +217,7 @@
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"/>
+        <translation>ವಿವರ</translation>
     </message>
     <message>
         <source>Author(s):</source>
@@ -248,15 +248,15 @@
     </message>
     <message>
         <source>&amp;New</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ಹೊಸತು</translation>
     </message>
     <message>
         <source>&amp;Open...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ತೆರೆ</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ಮುಚ್ಚು</translation>
     </message>
     <message>
         <source>&amp;Save</source>
@@ -300,11 +300,11 @@
     </message>
     <message>
         <source>&amp;Print...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ಪ್ರಿಂಟ್ ಕೊಡು...</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ನಿರ್ಗಮಿಸು</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
@@ -324,15 +324,15 @@
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ಕಾಪಿ</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"/>
+        <translation>ಪೇಸ್ಟ್</translation>
     </message>
     <message>
         <source>Select &amp;All</source>
-        <translation type="unfinished"/>
+        <translation>ಎಲ್ಲವನ್ನು ಆಯ್ಕೆ ಮಾಡು</translation>
     </message>
     <message>
         <source>&amp;Deselect All</source>
@@ -356,23 +356,23 @@
     </message>
     <message>
         <source>&amp;Other...</source>
-        <translation type="unfinished"/>
+        <translation>ಇತರೆ...</translation>
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation type="unfinished"/>
+        <translation>ಎಡಕ್ಕೆ</translation>
     </message>
     <message>
         <source>&amp;Center</source>
-        <translation type="unfinished"/>
+        <translation>ಮದ್ಯ</translation>
     </message>
     <message>
         <source>&amp;Right</source>
-        <translation type="unfinished"/>
+        <translation>ಬಲಕ್ಕೆ</translation>
     </message>
     <message>
         <source>&amp;Block</source>
-        <translation type="unfinished"/>
+        <translation>ನಿಷೇದಿಸು</translation>
     </message>
     <message>
         <source>&amp;Forced</source>
@@ -380,7 +380,7 @@
     </message>
     <message>
         <source>&amp;Normal</source>
-        <translation type="unfinished"/>
+        <translation>ಸಾಮನ್ಯ.</translation>
     </message>
     <message>
         <source>&amp;Underline</source>
@@ -396,7 +396,7 @@
     </message>
     <message>
         <source>&amp;All Caps</source>
-        <translation type="unfinished"/>
+        <translation>ಎಲ್ಲವು ದೊಡ್ಡಕ್ಷರ</translation>
     </message>
     <message>
         <source>Small &amp;Caps</source>
@@ -420,11 +420,11 @@
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"/>
+        <translation>ತೆಗೆದು ಹಾಕು</translation>
     </message>
     <message>
         <source>&amp;Group</source>
-        <translation type="unfinished"/>
+        <translation>ಗುಂಪು</translation>
     </message>
     <message>
         <source>&amp;Ungroup</source>
@@ -432,7 +432,7 @@
     </message>
     <message>
         <source>Is &amp;Locked</source>
-        <translation type="unfinished"/>
+        <translation>ಲಾಕ್ ಆಗಿದೆ</translation>
     </message>
     <message>
         <source>Si&amp;ze is Locked</source>
@@ -440,19 +440,19 @@
     </message>
     <message>
         <source>Lower to &amp;Bottom</source>
-        <translation type="unfinished"/>
+        <translation>ಕೆಳಕ್ಕೆ</translation>
     </message>
     <message>
         <source>Raize to &amp;Top</source>
-        <translation type="unfinished"/>
+        <translation>ಮೇಲಕ್ಕೆ ಹೋಗು</translation>
     </message>
     <message>
         <source>&amp;Lower</source>
-        <translation type="unfinished"/>
+        <translation>ಕೆಳಗಡೆ</translation>
     </message>
     <message>
         <source>&amp;Raize</source>
-        <translation type="unfinished"/>
+        <translation>ತಿಳಿಯಲಾಗಿ</translation>
     </message>
     <message>
         <source>&amp;Attributes...</source>
@@ -484,11 +484,11 @@
     </message>
     <message>
         <source>&amp;Edit Shape...</source>
-        <translation type="unfinished"/>
+        <translation>ಆಕಾರ ಬದಲಿಸು...</translation>
     </message>
     <message>
         <source>&amp;Attach Text to Path</source>
-        <translation type="unfinished"/>
+        <translation>ಪಾತ್ ಗೆ ಪದವನ್ನು ಸೇರಿಸು</translation>
     </message>
     <message>
         <source>&amp;Detach Text from Path</source>
@@ -496,7 +496,7 @@
     </message>
     <message>
         <source>&amp;Combine Polygons</source>
-        <translation type="unfinished"/>
+        <translation>ಪಾಲಿಗಾನ್ಗಳನ್ನು ಸೇರಿಸು</translation>
     </message>
     <message>
         <source>Split &amp;Polygons</source>
@@ -524,27 +524,27 @@
     </message>
     <message>
         <source>Sample Text</source>
-        <translation type="unfinished"/>
+        <translation>ಸ್ಯಾಂಪಲ್ ಪದಗಳು</translation>
     </message>
     <message>
         <source>&amp;Insert...</source>
-        <translation type="unfinished"/>
+        <translation>ಸೇರಿಸು</translation>
     </message>
     <message>
         <source>Im&amp;port...</source>
-        <translation type="unfinished"/>
+        <translation>ಆಮದಿಸು</translation>
     </message>
     <message>
         <source>&amp;Delete...</source>
-        <translation type="unfinished"/>
+        <translation>ತೆಗೆದು ಹಾಕು</translation>
     </message>
     <message>
         <source>&amp;Copy...</source>
-        <translation type="unfinished"/>
+        <translation>ಕಾಪಿ</translation>
     </message>
     <message>
         <source>&amp;Move...</source>
-        <translation type="unfinished"/>
+        <translation>ಮೂವ್ ಮಾಡು</translation>
     </message>
     <message>
         <source>&amp;Apply Master Page...</source>
@@ -572,7 +572,7 @@
     </message>
     <message>
         <source>Show &amp;Margins</source>
-        <translation type="unfinished"/>
+        <translation>ಮಾರ್ಜಿನ್ ತೋರಿಸು</translation>
     </message>
     <message>
         <source>Show &amp;Frames</source>
@@ -580,11 +580,11 @@
     </message>
     <message>
         <source>Show &amp;Images</source>
-        <translation type="unfinished"/>
+        <translation>ಚಿತ್ರಗಳನ್ನು ತೋರಿಸು</translation>
     </message>
     <message>
         <source>Show &amp;Grid</source>
-        <translation type="unfinished"/>
+        <translation>ಗ್ರಿಡ್ ತೋರಿಸು</translation>
     </message>
     <message>
         <source>Show G&amp;uides</source>
@@ -616,7 +616,7 @@
     </message>
     <message>
         <source>&amp;Layers</source>
-        <translation type="unfinished"/>
+        <translation>ಲೇಯರ್ ಗಳು</translation>
     </message>
     <message>
         <source>&amp;Bookmarks</source>
@@ -624,7 +624,7 @@
     </message>
     <message>
         <source>&amp;Measurements</source>
-        <translation type="unfinished"/>
+        <translation>ಮಾಪನಗಳು</translation>
     </message>
     <message>
         <source>Action &amp;History</source>
@@ -720,7 +720,7 @@
     </message>
     <message>
         <source>Copyright</source>
-        <translation type="unfinished"/>
+        <translation>ಅಧಿಕರಣ</translation>
     </message>
     <message>
         <source>Registered Trademark</source>
@@ -772,7 +772,7 @@
     </message>
     <message>
         <source>Edit Image...</source>
-        <translation type="unfinished"/>
+        <translation>ಚಿತ್ರ ಎಡಿಟ್ ಮಾಡು</translation>
     </message>
     <message>
         <source>&amp;Update Image</source>
@@ -796,11 +796,11 @@
     </message>
     <message>
         <source>Edit Text...</source>
-        <translation type="unfinished"/>
+        <translation>ಅಕ್ಷರಗಳನ್ನು ಬದಲಾಯಿಸು</translation>
     </message>
     <message>
         <source>New Line</source>
-        <translation type="unfinished"/>
+        <translation>ಹೊಸ ಗೆರೆ</translation>
     </message>
     <message>
         <source>Frame Break</source>
@@ -1173,15 +1173,15 @@
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation type="unfinished"/>
+        <translation>ಎಡಿಟ್</translation>
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished"/>
+        <translation>ಶೈಲಿ</translation>
     </message>
     <message>
         <source>&amp;Style</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ಶೈಲಿ</translation>
     </message>
     <message>
         <source>Item</source>
@@ -1193,7 +1193,7 @@
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"/>
+        <translation>ಸೇರಿಸು</translation>
     </message>
     <message>
         <source>I&amp;nsert</source>
@@ -1201,23 +1201,23 @@
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"/>
+        <translation>ಪೇಜ್</translation>
     </message>
     <message>
         <source>&amp;Page</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ಪೇಜ್</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"/>
+        <translation>ತೋರಿಸು</translation>
     </message>
     <message>
         <source>&amp;View</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ತೋರಿಸು</translation>
     </message>
     <message>
         <source>Extras</source>
-        <translation type="unfinished"/>
+        <translation>ಇತರೆ</translation>
     </message>
     <message>
         <source>E&amp;xtras</source>
@@ -1233,11 +1233,11 @@
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>ಸಹಾಯ</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ಸಹಾಯ</translation>
     </message>
     <message>
         <source>Plugin Menu Items</source>
@@ -1245,11 +1245,11 @@
     </message>
     <message>
         <source>Others</source>
-        <translation type="unfinished"/>
+        <translation>ಇತರೆ</translation>
     </message>
     <message>
         <source>Unicode Characters</source>
-        <translation type="unfinished"/>
+        <translation>ಯುನಿಕೋಡ್ ಅಕ್ಷರಗಳು</translation>
     </message>
     <message>
         <source>Move/Resize Value Indicator</source>
@@ -1269,27 +1269,27 @@
     </message>
     <message>
         <source>Insert Rows...</source>
-        <translation type="unfinished"/>
+        <translation>ಅಡ್ಡಸಾಲು ಸೇರಿಸು</translation>
     </message>
     <message>
         <source>Insert Columns...</source>
-        <translation type="unfinished"/>
+        <translation>ಉದ್ದಸಾಲು ಸೇರಿಸು</translation>
     </message>
     <message>
         <source>Delete Rows</source>
-        <translation type="unfinished"/>
+        <translation>ಅಡ್ಡಸಾಲು ತೆಗೆದು ಹಾಕು</translation>
     </message>
     <message>
         <source>Delete Columns</source>
-        <translation type="unfinished"/>
+        <translation>ಉದ್ದಸಾಲು ತೆಗೆದುಹಾಕು</translation>
     </message>
     <message>
         <source>Merge Cells</source>
-        <translation type="unfinished"/>
+        <translation>ಸೆಲ್ ಗಳನ್ನು ಸೇರಿಸು</translation>
     </message>
     <message>
         <source>Split Cells...</source>
-        <translation type="unfinished"/>
+        <translation>ಸೆಲ್ ಗಳನ್ನು ಬಿಡಿಸು</translation>
     </message>
     <message>
         <source>Set Row Heights...</source>
@@ -1333,11 +1333,11 @@
     </message>
     <message>
         <source>Marks...</source>
-        <translation type="unfinished"/>
+        <translation>ಮಾರ್ಕ್ ಗಳು</translation>
     </message>
     <message>
         <source>Notes Styles...</source>
-        <translation type="unfinished"/>
+        <translation>ನೋಟ್ಸ್ ಶೈಲಿ...</translation>
     </message>
     <message>
         <source>Adjust Group</source>
@@ -1397,7 +1397,7 @@
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"/>
+        <translation>ಟೇಬಲ್</translation>
     </message>
     <message>
         <source>&amp;Table</source>
@@ -1766,7 +1766,7 @@
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"/>
+        <translation>ಪೇಜ್</translation>
     </message>
     <message>
         <source>Margins</source>
@@ -2052,7 +2052,7 @@
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>ಸಹಾಯ</translation>
     </message>
     <message>
         <source>NewParagraph</source>
@@ -2064,7 +2064,7 @@
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"/>
+        <translation>ಸೇರಿಸು</translation>
     </message>
     <message>
         <source>Cross</source>
@@ -2880,7 +2880,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>ನಿರಕರಣೆ</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -3207,7 +3207,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>ನಿರಕರಣೆ</translation>
     </message>
     <message>
         <source>New</source>
@@ -4692,7 +4692,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"/>
+        <translation>ಟೇಬಲ್</translation>
     </message>
     <message>
         <source>Default Table Style</source>
@@ -5062,7 +5062,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>ನಿರಕರಣೆ</translation>
     </message>
     <message>
         <source>None</source>
@@ -5562,11 +5562,11 @@ failed!</source>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ಹೊಸತು</translation>
     </message>
     <message>
         <source>&amp;Open...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ತೆರೆ</translation>
     </message>
     <message>
         <source>Save &amp;As...</source>
@@ -5594,11 +5594,11 @@ failed!</source>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ಕಾಪಿ</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"/>
+        <translation>ಪೇಸ್ಟ್</translation>
     </message>
     <message>
         <source>C&amp;lear</source>
@@ -5614,7 +5614,7 @@ failed!</source>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation type="unfinished"/>
+        <translation>ಎಡಿಟ್</translation>
     </message>
     <message>
         <source>JavaScripts (*.js);;All Files (*)</source>
@@ -5646,7 +5646,7 @@ failed!</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>ನಿರಕರಣೆ</translation>
     </message>
 </context>
 <context>
@@ -5741,7 +5741,7 @@ failed!</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>ನಿರಕರಣೆ</translation>
     </message>
     <message>
         <source>Color 1:</source>
@@ -5803,7 +5803,7 @@ failed!</source>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ಮುಚ್ಚು</translation>
     </message>
     <message>
         <source>Exception</source>
@@ -6228,7 +6228,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished"/>
+        <translation>ಶೈಲಿ</translation>
     </message>
     <message>
         <source>Variant</source>
@@ -6341,7 +6341,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ಮುಚ್ಚು</translation>
     </message>
     <message>
         <source>Alt+C</source>
@@ -6645,7 +6645,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;Page</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ಪೇಜ್</translation>
     </message>
     <message>
         <source>Alt+P</source>
@@ -6792,11 +6792,11 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"/>
+        <translation>ತೆಗೆದು ಹಾಕು</translation>
     </message>
     <message>
         <source>&amp;Print...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ಪ್ರಿಂಟ್ ಕೊಡು...</translation>
     </message>
     <message>
         <source>New Bookmark</source>
@@ -6824,7 +6824,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation type="unfinished"/>
+        <translation>ಎಡಿಟ್</translation>
     </message>
     <message>
         <source>Navigation</source>
@@ -6868,7 +6868,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ನಿರ್ಗಮಿಸು</translation>
     </message>
     <message>
         <source>&lt;h2&gt;&lt;p&gt;Sorry, no manual is installed!&lt;/p&gt;&lt;p&gt;Please see:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;http://docs.scribus.net for updated documentation&lt;/li&gt;&lt;li&gt;http://www.scribus.net for downloads&lt;/li&gt;&lt;/ul&gt;&lt;/h2&gt;</source>
@@ -6908,11 +6908,11 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ಹೊಸತು</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"/>
+        <translation>ತೆಗೆದು ಹಾಕು</translation>
     </message>
     <message>
         <source>D&amp;elete All</source>
@@ -6954,18 +6954,18 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Change</source>
-        <translation type="unfinished"/>
+        <translation>ಬದಲಿಸು</translation>
     </message>
     <message>
         <source>Change All</source>
-        <translation type="unfinished"/>
+        <translation>ಎಲ್ಲವನ್ನು ಬದಲಿಸು</translation>
     </message>
 </context>
 <context>
     <name>HunspellPlugin</name>
     <message>
         <source>Check Spelling...</source>
-        <translation type="unfinished"/>
+        <translation>ಅಕ್ಷರ ಪರಿಕ್ಷಿಸು</translation>
     </message>
 </context>
 <context>
@@ -6976,7 +6976,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"/>
+        <translation>ಒಪ್ಪಿಕೊ</translation>
     </message>
     <message>
         <source>Skip</source>
@@ -6984,7 +6984,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>ನಿರಕರಣೆ</translation>
     </message>
     <message>
         <source>Add to the
@@ -7024,7 +7024,7 @@ Ignore List</source>
     </message>
     <message>
         <source>Date / Time:</source>
-        <translation type="unfinished"/>
+        <translation>ದಿನ /ಸಮಯ:</translation>
     </message>
     <message>
         <source>Has Embedded Profile:</source>
@@ -7068,7 +7068,7 @@ Ignore List</source>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"/>
+        <translation>ವಿವರ</translation>
     </message>
     <message>
         <source>Copyright:</source>
@@ -8521,11 +8521,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"/>
+        <translation>ತೆಗೆದು ಹಾಕು</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ಮುಚ್ಚು</translation>
     </message>
     <message>
         <source>&amp;New Script:</source>
@@ -10215,7 +10215,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>ನಿರಕರಣೆ</translation>
     </message>
     <message>
         <source>Reset all edits</source>
@@ -10322,7 +10322,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"/>
+        <translation>ಪೇಜ್</translation>
     </message>
     <message>
         <source>Frame</source>
@@ -10330,7 +10330,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>ನಿರಕರಣೆ</translation>
     </message>
     <message>
         <source>Dialog is in adding new notes style mode. After pressing Cancel button dialog will be switched into normal notes styles edit mode.</source>
@@ -10670,7 +10670,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>ನಿರಕರಣೆ</translation>
     </message>
 </context>
 <context>
@@ -11214,7 +11214,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"/>
+        <translation>ಟೇಬಲ್</translation>
     </message>
 </context>
 <context>
@@ -11246,7 +11246,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ಕಾಪಿ</translation>
     </message>
     <message>
         <source>Alt+C</source>
@@ -11254,7 +11254,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"/>
+        <translation>ತೆಗೆದು ಹಾಕು</translation>
     </message>
     <message>
         <source>Alt+D</source>
@@ -11775,7 +11775,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation type="unfinished"/>
+        <translation>ಎಡಿಟ್</translation>
     </message>
     <message>
         <source>Make a copy of the currently selected color</source>
@@ -11791,7 +11791,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"/>
+        <translation>ತೆಗೆದು ಹಾಕು</translation>
     </message>
     <message>
         <source>Remove unused colors from current document&apos;s color set</source>
@@ -11831,7 +11831,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>ನಿರಕರಣೆ</translation>
     </message>
     <message>
         <source>Manage Colors and Fills</source>
@@ -11958,7 +11958,7 @@ See the Edit Colors section of the documentation for more details.</source>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation type="unfinished"/>
+        <translation>ಎಡಿಟ್</translation>
     </message>
     <message>
         <source>Load File</source>
@@ -12598,7 +12598,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>ನಿರಕರಣೆ</translation>
     </message>
 </context>
 <context>
@@ -12793,7 +12793,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Edit Image...</source>
-        <translation type="unfinished"/>
+        <translation>ಚಿತ್ರ ಎಡಿಟ್ ಮಾಡು</translation>
     </message>
     <message>
         <source>Extended Image Properties...</source>
@@ -13260,7 +13260,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"/>
+        <translation>ಸೇರಿಸು</translation>
     </message>
     <message>
         <source>Tag Image(s)</source>
@@ -14269,7 +14269,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"/>
+        <translation>ವಿವರ</translation>
     </message>
     <message>
         <source>Further Information</source>
@@ -14364,7 +14364,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ಕಾಪಿ</translation>
     </message>
     <message>
         <source>Alt+C</source>
@@ -14372,7 +14372,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"/>
+        <translation>ತೆಗೆದು ಹಾಕು</translation>
     </message>
     <message>
         <source>Alt+D</source>
@@ -14490,7 +14490,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished"/>
+        <translation>ಶೈಲಿ</translation>
     </message>
     <message>
         <source>Start</source>
@@ -14506,7 +14506,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"/>
+        <translation>ತೆಗೆದು ಹಾಕು</translation>
     </message>
     <message>
         <source>Alt+D</source>
@@ -16059,7 +16059,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Extras</source>
-        <translation type="unfinished"/>
+        <translation>ಇತರೆ</translation>
     </message>
     <message>
         <source>Enable Presentation Effects</source>
@@ -16439,7 +16439,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"/>
+        <translation>ಪೇಜ್</translation>
     </message>
     <message>
         <source>No Script</source>
@@ -16930,7 +16930,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"/>
+        <translation>ಪೇಜ್</translation>
     </message>
     <message>
         <source>Mirror Page(s) Horizontally</source>
@@ -17286,7 +17286,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"/>
+        <translation>ತೆಗೆದು ಹಾಕು</translation>
     </message>
     <message>
         <source>Alt+D</source>
@@ -17765,7 +17765,7 @@ a range of pages or a single page number.</source>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"/>
+        <translation>ಪೇಜ್</translation>
     </message>
     <message>
         <source>Mirror Page(s) Horizontal</source>
@@ -17897,7 +17897,7 @@ a range of pages or a single page number.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>ನಿರಕರಣೆ</translation>
     </message>
     <message>
         <source>Include PDF Annotations and Links into the output.
@@ -17965,7 +17965,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>&amp;Group</source>
-        <translation type="unfinished"/>
+        <translation>ಗುಂಪು</translation>
     </message>
     <message>
         <source>&amp;Transparency</source>
@@ -18991,7 +18991,7 @@ Transparency</source>
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"/>
+        <translation>ಟೇಬಲ್</translation>
     </message>
     <message>
         <source>Cells</source>
@@ -20038,7 +20038,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     <name>PythonConsole</name>
     <message>
         <source>&amp;Open...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ತೆರೆ</translation>
     </message>
     <message>
         <source>&amp;Save</source>
@@ -20118,7 +20118,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ನಿರ್ಗಮಿಸು</translation>
     </message>
     <message>
         <source>This is a standard Python console with some 
@@ -20188,7 +20188,7 @@ Scripter documentation for futher information. </source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>ನಿರಕರಣೆ</translation>
     </message>
     <message>
         <source>&amp;Add to Custom Colors</source>
@@ -20235,7 +20235,7 @@ Scripter documentation for futher information. </source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>ನಿರಕರಣೆ</translation>
     </message>
     <message>
         <source>All Files (*)</source>
@@ -20355,7 +20355,7 @@ Scripter documentation for futher information. </source>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"/>
+        <translation>ತೆಗೆದು ಹಾಕು</translation>
     </message>
     <message>
         <source>R&amp;eload</source>
@@ -20532,7 +20532,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>ನಿರಕರಣೆ</translation>
     </message>
     <message>
         <source>Close</source>
@@ -20567,11 +20567,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ಕಾಪಿ</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"/>
+        <translation>ಪೇಸ್ಟ್</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -20613,7 +20613,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ಮುಚ್ಚು</translation>
     </message>
     <message>
         <source>Stay on &amp;Top</source>
@@ -21307,7 +21307,7 @@ External Links
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"/>
+        <translation>ಪೇಜ್</translation>
     </message>
     <message>
         <source>Master Page </source>
@@ -23158,11 +23158,11 @@ Therefore the image may be not correct</source>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ಕಾಪಿ</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"/>
+        <translation>ಪೇಸ್ಟ್</translation>
     </message>
 </context>
 <context>
@@ -23501,7 +23501,7 @@ Please choose another.</source>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"/>
+        <translation>ವಿವರ</translation>
     </message>
     <message>
         <source>Description of the document template</source>
@@ -24156,7 +24156,7 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"/>
+        <translation>ಪೇಜ್</translation>
     </message>
     <message>
         <source>Frame</source>
@@ -25233,7 +25233,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>ನಿರಕರಣೆ</translation>
     </message>
     <message>
         <source>Flag is ignored for PDF 1.3</source>
@@ -26640,7 +26640,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Wiki</source>
-        <translation type="unfinished"/>
+        <translation>ವಿಕೀ</translation>
     </message>
     <message>
         <source>Issues</source>
@@ -26703,7 +26703,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>ನಿರಕರಣೆ</translation>
     </message>
     <message>
         <source>Print: </source>
@@ -26781,7 +26781,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ಹೊಸತು</translation>
     </message>
     <message>
         <source>&amp;Run</source>
@@ -26789,7 +26789,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ಮುಚ್ಚು</translation>
     </message>
     <message>
         <source>Ctrl+W</source>
@@ -27122,7 +27122,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ಮುಚ್ಚು</translation>
     </message>
     <message>
         <source>C&amp;lear</source>
@@ -27158,7 +27158,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Style</source>
-        <translation type="unfinished"/>
+        <translation>ಶೈಲಿ</translation>
     </message>
 </context>
 <context>
@@ -27532,11 +27532,11 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ಕಾಪಿ</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"/>
+        <translation>ಪೇಸ್ಟ್</translation>
     </message>
     <message>
         <source>C&amp;lear</source>
@@ -27552,11 +27552,11 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation type="unfinished"/>
+        <translation>ಎಡಿಟ್</translation>
     </message>
     <message>
         <source>Select &amp;All</source>
-        <translation type="unfinished"/>
+        <translation>ಎಲ್ಲವನ್ನು ಸೆಲೆಕ್ಟ್ ಮಾಡು</translation>
     </message>
     <message>
         <source>File</source>
@@ -27670,7 +27670,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ಹೊಸತು</translation>
     </message>
     <message>
         <source>&amp;Import</source>
@@ -27682,7 +27682,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"/>
+        <translation>ತೆಗೆದು ಹಾಕು</translation>
     </message>
     <message>
         <source>Reset all changes</source>
@@ -27730,7 +27730,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation type="unfinished"/>
+        <translation>ಎಡಿಟ್</translation>
     </message>
     <message>
         <source>&amp;Done</source>
@@ -27935,7 +27935,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>ನಿರಕರಣೆ</translation>
     </message>
 </context>
 <context>
@@ -28087,7 +28087,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"/>
+        <translation>ಪೇಜ್</translation>
     </message>
     <message>
         <source>Show Page Pre&amp;views</source>
@@ -29329,7 +29329,7 @@ W: %3, H: %4</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>ನಿರಕರಣೆ</translation>
     </message>
     <message>
         <source>Set fill color</source>
@@ -30592,7 +30592,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>ನಿರಕರಣೆ</translation>
     </message>
 </context>
 <context>
@@ -31006,7 +31006,7 @@ please choose another one.</source>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ಸಹಾಯ</translation>
     </message>
     <message>
         <source>&amp;Preview</source>
@@ -31117,7 +31117,7 @@ please choose another one.</source>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ಸಹಾಯ</translation>
     </message>
 </context>
 <context>
@@ -31305,7 +31305,7 @@ please choose another one.</source>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"/>
+        <translation>ತೆಗೆದು ಹಾಕು</translation>
     </message>
     <message>
         <source>Choose a previously saved filter</source>
