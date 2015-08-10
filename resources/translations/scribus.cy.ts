@@ -119,7 +119,7 @@
     </message>
     <message>
         <source>Tango Project Icons:</source>
-        <translation type="unfinished"/>
+        <translation>Tango Prosiect Eiconau</translation>
     </message>
     <message>
         <source>&amp;Updates</source>
@@ -183,7 +183,7 @@
     </message>
     <message>
         <source>Webmasters:</source>
-        <translation>Gwefeistr</translation>
+        <translation>Gwefeistriaid:</translation>
     </message>
     <message>
         <source>Unable to open %1 file. Please check your install directory or the Scribus website for %1 information.</source>
@@ -269,7 +269,7 @@
     </message>
     <message>
         <source>Re&amp;vert to Saved</source>
-        <translation type="unfinished"/>
+        <translation>Dy&amp;chwelyd ac Arbedwyd</translation>
     </message>
     <message>
         <source>Collect for O&amp;utput...</source>
@@ -297,7 +297,7 @@
     </message>
     <message>
         <source>Document &amp;Setup...</source>
-        <translation>Dogfen &amp;gosodiad..</translation>
+        <translation>Dogfen &amp;gosodiad...</translation>
     </message>
     <message>
         <source>&amp;Print...</source>
@@ -437,15 +437,15 @@
     </message>
     <message>
         <source>Si&amp;ze is Locked</source>
-        <translation>Mae ma&amp;int Ar glo</translation>
-    </message>
-    <message>
-        <source>Lower to &amp;Bottom</source>
         <translation type="unfinished"/>
     </message>
     <message>
+        <source>Lower to &amp;Bottom</source>
+        <translation>Is at &amp;gwaelod</translation>
+    </message>
+    <message>
         <source>Raize to &amp;Top</source>
-        <translation>Ailmaint i&apos;r Top</translation>
+        <translation>Ailfeintio i&apos;r &amp;Top</translation>
     </message>
     <message>
         <source>&amp;Lower</source>
@@ -453,139 +453,139 @@
     </message>
     <message>
         <source>&amp;Raize</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ailfeintio</translation>
     </message>
     <message>
         <source>&amp;Attributes...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Priodoleddau</translation>
     </message>
     <message>
         <source>I&amp;mage Visible</source>
-        <translation type="unfinished"/>
+        <translation>D&amp;elwedd Gweledig</translation>
     </message>
     <message>
         <source>Embed Image</source>
-        <translation type="unfinished"/>
+        <translation>Delwedd Mewnblannu</translation>
     </message>
     <message>
         <source>Is PDF &amp;Bookmark</source>
-        <translation type="unfinished"/>
+        <translation>Ydyw PDF &amp;Llyfrnod</translation>
     </message>
     <message>
         <source>Is PDF A&amp;nnotation</source>
-        <translation type="unfinished"/>
+        <translation>Ydyw PDF A&amp;nodiad</translation>
     </message>
     <message>
         <source>Annotation P&amp;roperties</source>
-        <translation type="unfinished"/>
+        <translation>Anodiad P&amp;riodwedd</translation>
     </message>
     <message>
         <source>Field P&amp;roperties</source>
-        <translation type="unfinished"/>
+        <translation>Maes P&amp;riodwedd</translation>
     </message>
     <message>
         <source>&amp;Edit Shape...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Golygu Siâp</translation>
     </message>
     <message>
         <source>&amp;Attach Text to Path</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Atodi testun i Lwybr</translation>
     </message>
     <message>
         <source>&amp;Detach Text from Path</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Daton testun oddi wrth Llwybr</translation>
     </message>
     <message>
         <source>&amp;Combine Polygons</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Cyfuno Polygonau</translation>
     </message>
     <message>
         <source>Split &amp;Polygons</source>
-        <translation type="unfinished"/>
+        <translation>Hollti &amp;Polygonau</translation>
     </message>
     <message>
         <source>&amp;Bezier Curve</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Bezier Cromlin</translation>
     </message>
     <message>
         <source>&amp;Image Frame</source>
-        <translation type="unfinished"/>
+        <translation>Delwedd Ffrâm</translation>
     </message>
     <message>
         <source>&amp;Polygon</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Polygon</translation>
     </message>
     <message>
         <source>&amp;Text Frame</source>
-        <translation type="unfinished"/>
+        <translation>Testun Ffrâm</translation>
     </message>
     <message>
         <source>&amp;Glyph...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Glyff...</translation>
     </message>
     <message>
         <source>Sample Text</source>
-        <translation type="unfinished"/>
+        <translation>Testun Sampl</translation>
     </message>
     <message>
         <source>&amp;Insert...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Mewnosod...</translation>
     </message>
     <message>
         <source>Im&amp;port...</source>
-        <translation type="unfinished"/>
+        <translation>Me&amp;wnforio</translation>
     </message>
     <message>
         <source>&amp;Delete...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dileu</translation>
     </message>
     <message>
         <source>&amp;Copy...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Copïo</translation>
     </message>
     <message>
         <source>&amp;Move...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Symud</translation>
     </message>
     <message>
         <source>&amp;Apply Master Page...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ymgeisio Prif Tudalen...</translation>
     </message>
     <message>
         <source>Manage &amp;Guides...</source>
-        <translation type="unfinished"/>
+        <translation>Rheoli &amp;Canllawiau</translation>
     </message>
     <message>
         <source>&amp;50%</source>
-        <translation type="unfinished"/>
+        <translation>&amp;50%</translation>
     </message>
     <message>
         <source>&amp;75%</source>
-        <translation type="unfinished"/>
+        <translation>&amp;75%</translation>
     </message>
     <message>
         <source>&amp;100%</source>
-        <translation type="unfinished"/>
+        <translation>&amp;100%</translation>
     </message>
     <message>
         <source>&amp;200%</source>
-        <translation type="unfinished"/>
+        <translation>&amp;200%</translation>
     </message>
     <message>
         <source>Show &amp;Margins</source>
-        <translation type="unfinished"/>
+        <translation>Dangos &amp;Ymylon</translation>
     </message>
     <message>
         <source>Show &amp;Frames</source>
-        <translation type="unfinished"/>
+        <translation>Dangos &amp;Fframiau</translation>
     </message>
     <message>
         <source>Show &amp;Images</source>
-        <translation type="unfinished"/>
+        <translation>Dangos &amp;Delwedd</translation>
     </message>
     <message>
         <source>Show &amp;Grid</source>
-        <translation type="unfinished"/>
+        <translation>Dangos &amp;Grid</translation>
     </message>
     <message>
         <source>Show G&amp;uides</source>
@@ -593,47 +593,47 @@
     </message>
     <message>
         <source>Show &amp;Baseline Grid</source>
-        <translation type="unfinished"/>
+        <translation>Dangos &amp;Gwaelodlin Grid</translation>
     </message>
     <message>
         <source>Show &amp;Text Chain</source>
-        <translation type="unfinished"/>
+        <translation>Dangos &amp;Testun Cadwyn</translation>
     </message>
     <message>
         <source>Sn&amp;ap to Grid</source>
-        <translation type="unfinished"/>
+        <translation>Cle&amp;cian i Grid</translation>
     </message>
     <message>
         <source>Sna&amp;p to Guides</source>
-        <translation type="unfinished"/>
+        <translation>Clecia&amp;n i Arwyddion</translation>
     </message>
     <message>
         <source>&amp;Properties</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Priodwedd</translation>
     </message>
     <message>
         <source>&amp;Scrapbook</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Llyfr lloffion</translation>
     </message>
     <message>
         <source>&amp;Layers</source>
-        <translation type="unfinished"/>
+        <translation>&amp;haenau</translation>
     </message>
     <message>
         <source>&amp;Bookmarks</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Llyfr nodiadau</translation>
     </message>
     <message>
         <source>&amp;Measurements</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Mesuriadau</translation>
     </message>
     <message>
         <source>Action &amp;History</source>
-        <translation type="unfinished"/>
+        <translation>Gweithred &amp;Hanes</translation>
     </message>
     <message>
         <source>Preflight &amp;Verifier</source>
-        <translation type="unfinished"/>
+        <translation>Cynhedfan &amp;Gwiriwr</translation>
     </message>
     <message>
         <source>Symbols</source>
@@ -641,67 +641,67 @@
     </message>
     <message>
         <source>&amp;Tools</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Offer</translation>
     </message>
     <message>
         <source>P&amp;DF Tools</source>
-        <translation type="unfinished"/>
+        <translation>P&amp;DF Offer</translation>
     </message>
     <message>
         <source>Select Item</source>
-        <translation type="unfinished"/>
+        <translation>Dewis Eitem</translation>
     </message>
     <message>
         <source>Rotate Item</source>
-        <translation type="unfinished"/>
+        <translation>Cylchdroi Eitem</translation>
     </message>
     <message>
         <source>Zoom in or out</source>
-        <translation type="unfinished"/>
+        <translation>Chwyddo mewn neu allan</translation>
     </message>
     <message>
         <source>Zoom in</source>
-        <translation type="unfinished"/>
+        <translation>Chwyddo mewn</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation type="unfinished"/>
+        <translation>Chwyddo allan</translation>
     </message>
     <message>
         <source>Edit Contents of Frame</source>
-        <translation type="unfinished"/>
+        <translation>Golygu Cynwys y Ffrâm</translation>
     </message>
     <message>
         <source>Link Text Frames</source>
-        <translation type="unfinished"/>
+        <translation>Cyswllt Testun Fframiau</translation>
     </message>
     <message>
         <source>Unlink Text Frames</source>
-        <translation type="unfinished"/>
+        <translation>Dadgysylltu Testun Fframiau</translation>
     </message>
     <message>
         <source>&amp;Eye Dropper</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Llygad Diferydd</translation>
     </message>
     <message>
         <source>Copy Item Properties</source>
-        <translation type="unfinished"/>
+        <translation>Copïo eitem Priodwedd</translation>
     </message>
     <message>
         <source>&amp;Hyphenate Text</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Cysylltnodi Testun</translation>
     </message>
     <message>
         <source>&amp;Generate Table Of Contents</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Cynhyrchu tabl O&apos;r Cynnwys</translation>
     </message>
     <message>
         <source>&amp;About Scribus</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ynglŷn â Scribus</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ynglŷn â &amp;Qt</translation>
     </message>
     <message>
         <source>Toolti&amp;ps</source>
@@ -709,35 +709,35 @@
     </message>
     <message>
         <source>Scribus &amp;Manual...</source>
-        <translation type="unfinished"/>
+        <translation>Scribus &amp;Llawlyfr</translation>
     </message>
     <message>
         <source>Non Breaking &amp;Space</source>
-        <translation type="unfinished"/>
+        <translation>Dim Toriadau &amp;Gofod</translation>
     </message>
     <message>
         <source>Page &amp;Number</source>
-        <translation type="unfinished"/>
+        <translation>Tudalen &amp;Rhif</translation>
     </message>
     <message>
         <source>Copyright</source>
-        <translation type="unfinished"/>
+        <translation>Hawlfraint</translation>
     </message>
     <message>
         <source>Registered Trademark</source>
-        <translation type="unfinished"/>
+        <translation>Cofrestredig Nod masnach</translation>
     </message>
     <message>
         <source>Trademark</source>
-        <translation type="unfinished"/>
+        <translation>Nod masnach</translation>
     </message>
     <message>
         <source>Bullet</source>
-        <translation type="unfinished"/>
+        <translation>Bwled</translation>
     </message>
     <message>
         <source>Em Dash</source>
-        <translation type="unfinished"/>
+        <translation>Llinell Doriad</translation>
     </message>
     <message>
         <source>En Dash</source>
@@ -1771,7 +1771,7 @@
     </message>
     <message>
         <source>Margins</source>
-        <translation type="unfinished"/>
+        <translation>Ymylon</translation>
     </message>
     <message>
         <source>Selection</source>
@@ -2116,11 +2116,11 @@
     </message>
     <message>
         <source>Alt+O</source>
-        <translation type="unfinished"/>
+        <translation>Alt+O</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"/>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>Apply the selected master page to even, odd or all pages within the following range</source>
@@ -3307,7 +3307,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Angle:</source>
-        <translation type="unfinished"/>
+        <translation>Ongl:</translation>
     </message>
     <message>
         <source>Difference between the selected value and the counted ones. Refer to documentation for more information.</source>
@@ -3347,11 +3347,11 @@ Please choose another one.</source>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dileu</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"/>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>Preview:</source>
@@ -4274,11 +4274,11 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dileu</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"/>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <source>&amp;Save</source>
@@ -4308,7 +4308,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Single Page</source>
-        <translation type="unfinished"/>
+        <translation>Sengl Tudalen</translation>
     </message>
     <message>
         <source>Double Sided</source>
@@ -5022,19 +5022,19 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"/>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <source>Alt+O</source>
-        <translation type="unfinished"/>
+        <translation>Alt+O</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dileu</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"/>
+        <translation>Alt+C</translation>
     </message>
 </context>
 <context>
@@ -5956,7 +5956,7 @@ Defnyddiwch 72 dpi ar gyfer Delweddau a fwriedir i&apos;r Sgrin</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>TestynLebal</translation>
     </message>
     <message>
         <source>The compression ratio of your images - 100% is no compression, 0% highest compression. If in doubt, use &apos;Automatic&apos;</source>
@@ -6356,7 +6356,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"/>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>Typing the text here provides quick searching in the font names. Searching is case insensitive. The given text is taken as substring.</source>
@@ -6855,7 +6855,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;Bookmarks</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Llyfr nodiadau</translation>
     </message>
     <message>
         <source>Scribus Help</source>
@@ -8048,7 +8048,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"/>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <source>Alt+G</source>
@@ -8056,11 +8056,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dileu</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"/>
+        <translation>Alt+C</translation>
     </message>
 </context>
 <context>
@@ -8180,11 +8180,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Text Frame</source>
-        <translation type="unfinished"/>
+        <translation>Testun Ffrâm</translation>
     </message>
     <message>
         <source>&amp;Image Frame</source>
-        <translation type="unfinished"/>
+        <translation>Delwedd Ffrâm</translation>
     </message>
     <message>
         <source>&amp;Location</source>
@@ -8971,11 +8971,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Alt+O</source>
-        <translation type="unfinished"/>
+        <translation>Alt+O</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"/>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>Standard Lorem Ipsum</source>
@@ -9081,7 +9081,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Top:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Top:</translation>
     </message>
     <message>
         <source>&amp;Right:</source>
@@ -9185,7 +9185,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Right:</source>
-        <translation type="unfinished"/>
+        <translation>De:</translation>
     </message>
     <message>
         <source>Distance between the left margin guide and the edge of the page. If a double-sided, 3 or 4-fold layout is selected, this margin space can be used to achieve the correct margins for binding</source>
@@ -9503,7 +9503,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Angle:</source>
-        <translation type="unfinished"/>
+        <translation>Ongl:</translation>
     </message>
     <message>
         <source>Unit:</source>
@@ -9655,7 +9655,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>Angle:</source>
-        <translation type="unfinished"/>
+        <translation>Ongl:</translation>
     </message>
     <message>
         <source>Width:</source>
@@ -9717,7 +9717,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dileu</translation>
     </message>
     <message>
         <source>%v of %m</source>
@@ -9796,11 +9796,11 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"/>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dileu</translation>
     </message>
 </context>
 <context>
@@ -9995,7 +9995,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>Right:</source>
-        <translation type="unfinished"/>
+        <translation>De:</translation>
     </message>
     <message>
         <source>Top:</source>
@@ -10500,7 +10500,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Line Color:</source>
-        <translation type="unfinished"/>
+        <translation>Lliw Llinell:</translation>
     </message>
     <message>
         <source>Face Color:</source>
@@ -10588,7 +10588,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Angle:</source>
-        <translation type="unfinished"/>
+        <translation>Ongl:</translation>
     </message>
     <message>
         <source>Add View...</source>
@@ -10719,7 +10719,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Angle:</source>
-        <translation type="unfinished"/>
+        <translation>Ongl:</translation>
     </message>
     <message>
         <source>Remember Values</source>
@@ -11261,7 +11261,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"/>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -11281,11 +11281,11 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"/>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dileu</translation>
     </message>
     <message>
         <source>Name</source>
@@ -12136,7 +12136,7 @@ both end points must lie outside of the polygon</source>
     </message>
     <message>
         <source>Single</source>
-        <translation type="unfinished"/>
+        <translation>Sengl</translation>
     </message>
     <message>
         <source>Single, stretched</source>
@@ -12412,7 +12412,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     </message>
     <message>
         <source>Angle:</source>
-        <translation type="unfinished"/>
+        <translation>Ongl:</translation>
     </message>
     <message>
         <source>Flip:</source>
@@ -12447,15 +12447,15 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     </message>
     <message>
         <source>Importing File:</source>
-        <translation type="unfinished"/>
+        <translation>Mewnforio Ffeil:</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>TestynLebal</translation>
     </message>
     <message>
         <source>Page Range</source>
-        <translation type="unfinished"/>
+        <translation>Tudalen Amrediad</translation>
     </message>
     <message>
         <source>All Pages</source>
@@ -12463,11 +12463,11 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     </message>
     <message>
         <source>Single Page</source>
-        <translation type="unfinished"/>
+        <translation>Sengl Tudalen</translation>
     </message>
     <message>
         <source>Choose Pages</source>
-        <translation type="unfinished"/>
+        <translation>Dewis Tudalennau</translation>
     </message>
     <message>
         <source>Crop to:</source>
@@ -13013,11 +13013,11 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Zoom in</source>
-        <translation type="unfinished"/>
+        <translation>Chwyddo mewn</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation type="unfinished"/>
+        <translation>Chwyddo allan</translation>
     </message>
     <message>
         <source>Preview with Information</source>
@@ -13773,11 +13773,11 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"/>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dileu</translation>
     </message>
     <message>
         <source>User Interface</source>
@@ -14104,7 +14104,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Right:</source>
-        <translation type="unfinished"/>
+        <translation>De:</translation>
     </message>
     <message>
         <source>Top:</source>
@@ -14279,7 +14279,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Keywords:</source>
-        <translation type="unfinished"/>
+        <translation>Allweddeiriau:</translation>
     </message>
     <message>
         <source>Description:</source>
@@ -14382,7 +14382,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"/>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -14639,7 +14639,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Single Page</source>
-        <translation type="unfinished"/>
+        <translation>Sengl Tudalen</translation>
     </message>
     <message>
         <source>pageLayoutButtonGroup</source>
@@ -14671,7 +14671,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Margins</source>
-        <translation type="unfinished"/>
+        <translation>Ymylon</translation>
     </message>
     <message>
         <source>Bleeds</source>
@@ -14758,7 +14758,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"/>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>Antialias text for EPS and PDF onscreen rendering</source>
@@ -15042,7 +15042,7 @@ Do you want to use this?</source>
     </message>
     <message>
         <source>Margins</source>
-        <translation type="unfinished"/>
+        <translation>Ymylon</translation>
     </message>
     <message>
         <source>Page Grid</source>
@@ -15352,7 +15352,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Line Color:</source>
-        <translation type="unfinished"/>
+        <translation>Lliw Llinell:</translation>
     </message>
     <message>
         <source>Shading:</source>
@@ -15380,7 +15380,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Right:</source>
-        <translation type="unfinished"/>
+        <translation>De:</translation>
     </message>
     <message>
         <source>Font:</source>
@@ -15809,7 +15809,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Choose Pages</source>
-        <translation type="unfinished"/>
+        <translation>Dewis Tudalennau</translation>
     </message>
     <message>
         <source>...</source>
@@ -15989,7 +15989,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Angle:</source>
-        <translation type="unfinished"/>
+        <translation>Ongl:</translation>
     </message>
     <message>
         <source> °</source>
@@ -16125,7 +16125,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Single Page</source>
-        <translation type="unfinished"/>
+        <translation>Sengl Tudalen</translation>
     </message>
     <message>
         <source>Continuous Pages</source>
@@ -16385,7 +16385,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>High</source>
-        <translation type="unfinished"/>
+        <translation>Uchel</translation>
     </message>
     <message>
         <source>Medium</source>
@@ -16393,7 +16393,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Low</source>
-        <translation type="unfinished"/>
+        <translation>Isel</translation>
     </message>
     <message>
         <source>Minimum</source>
@@ -16687,7 +16687,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"/>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>Color Profiles:</source>
@@ -17131,7 +17131,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Extensions</source>
-        <translation type="unfinished"/>
+        <translation>Estynniadau</translation>
     </message>
     <message>
         <source>Enable Extension Scripts</source>
@@ -17139,7 +17139,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Startup Script:</source>
-        <translation type="unfinished"/>
+        <translation>Llwytho Script:</translation>
     </message>
     <message>
         <source>Change...</source>
@@ -17147,7 +17147,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Console</source>
-        <translation type="unfinished"/>
+        <translation>Consol</translation>
     </message>
     <message>
         <source>Base Texts:</source>
@@ -17155,15 +17155,15 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Comments:</source>
-        <translation type="unfinished"/>
+        <translation>Sylwadau:</translation>
     </message>
     <message>
         <source>Keywords:</source>
-        <translation type="unfinished"/>
+        <translation>Allweddeiriau:</translation>
     </message>
     <message>
         <source>Signs:</source>
-        <translation type="unfinished"/>
+        <translation>Arwyddion:</translation>
     </message>
     <message>
         <source>Errors:</source>
@@ -17889,7 +17889,7 @@ amrediad tudalennau, neu rhif tudalen unigol.</translation>
     </message>
     <message>
         <source>Right:</source>
-        <translation type="unfinished"/>
+        <translation>De:</translation>
     </message>
     <message>
         <source>Distance for bleed from the left of the physical page</source>
@@ -18103,7 +18103,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Transparency</source>
-        <translation type="unfinished"/>
+        <translation>Tryloywder</translation>
     </message>
     <message>
         <source>Fill Rule</source>
@@ -18234,7 +18234,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>High</source>
-        <translation type="unfinished"/>
+        <translation>Uchel</translation>
     </message>
     <message>
         <source>Medium</source>
@@ -18242,7 +18242,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Low</source>
-        <translation type="unfinished"/>
+        <translation>Isel</translation>
     </message>
     <message>
         <source>Minimum</source>
@@ -18999,7 +18999,7 @@ Transparency</source>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"/>
+        <translation>Llenwi</translation>
     </message>
     <message>
         <source>Styles</source>
@@ -23599,7 +23599,7 @@ Please choose another.</source>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>TestynLebal</translation>
     </message>
     <message>
         <source>Colors</source>
@@ -23694,7 +23694,7 @@ Please choose another.</source>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>TestynLebal</translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -23950,7 +23950,7 @@ Please choose another.</source>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>TestynLebal</translation>
     </message>
     <message>
         <source>Ch&amp;aracter Style</source>
@@ -24286,7 +24286,7 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"/>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <source>Ca&amp;ncel</source>
@@ -24409,7 +24409,7 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>TestynLebal</translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -25364,7 +25364,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Single Page</source>
-        <translation type="unfinished"/>
+        <translation>Sengl Tudalen</translation>
     </message>
     <message>
         <source>Two Pages</source>
@@ -25706,11 +25706,11 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"/>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dileu</translation>
     </message>
 </context>
 <context>
@@ -26926,11 +26926,11 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Documentation for:</source>
-        <translation type="unfinished"/>
+        <translation>Dogfennaeth am:</translation>
     </message>
     <message>
         <source>Script</source>
-        <translation type="unfinished"/>
+        <translation>Llawysgrifen</translation>
     </message>
     <message>
         <source> doesn&apos;t contain any docstring!</source>
@@ -26972,15 +26972,15 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Extensions</source>
-        <translation type="unfinished"/>
+        <translation>Estynniadau</translation>
     </message>
     <message>
         <source>Console</source>
-        <translation type="unfinished"/>
+        <translation>Consol</translation>
     </message>
     <message>
         <source>Startup Script:</source>
-        <translation type="unfinished"/>
+        <translation>Llwytho Script:</translation>
     </message>
     <message>
         <source>Change...</source>
@@ -26996,15 +26996,15 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Comments:</source>
-        <translation type="unfinished"/>
+        <translation>Sylwadau:</translation>
     </message>
     <message>
         <source>Keywords:</source>
-        <translation type="unfinished"/>
+        <translation>Allweddeiriau:</translation>
     </message>
     <message>
         <source>Signs:</source>
-        <translation type="unfinished"/>
+        <translation>Arwyddion:</translation>
     </message>
     <message>
         <source>Strings:</source>
@@ -27807,7 +27807,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"/>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>Alt+I</source>
@@ -28057,7 +28057,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>High</source>
-        <translation type="unfinished"/>
+        <translation>Uchel</translation>
     </message>
     <message>
         <source>Medium</source>
@@ -28065,7 +28065,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Low</source>
-        <translation type="unfinished"/>
+        <translation>Isel</translation>
     </message>
     <message>
         <source>Minimum</source>
@@ -28533,7 +28533,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Single Page</source>
-        <translation type="unfinished"/>
+        <translation>Sengl Tudalen</translation>
     </message>
     <message>
         <source>Continuous</source>
@@ -28674,7 +28674,7 @@ when PDF document is opened:</source>
     </message>
     <message>
         <source>Right:</source>
-        <translation type="unfinished"/>
+        <translation>De:</translation>
     </message>
     <message>
         <source>Use Document Bleeds</source>
@@ -29207,15 +29207,15 @@ when PDF document is opened:</source>
     </message>
     <message>
         <source>File read error.</source>
-        <translation type="unfinished"/>
+        <translation>Ffeil darllen gwall.</translation>
     </message>
     <message>
         <source>File write error.</source>
-        <translation type="unfinished"/>
+        <translation>Ffeil ysgrifennu gwall.</translation>
     </message>
     <message>
         <source>File seek error.</source>
-        <translation type="unfinished"/>
+        <translation>Ffeil ceisio gwall.</translation>
     </message>
     <message>
         <source>Unable to create a directory.</source>
@@ -29235,7 +29235,7 @@ when PDF document is opened:</source>
     </message>
     <message>
         <source>Unknown error.</source>
-        <translation type="unfinished"/>
+        <translation>Gwall anhysbys.</translation>
     </message>
 </context>
 <context>
@@ -30310,7 +30310,7 @@ Error:%2 at line: %3, row: %4</source>
     </message>
     <message>
         <source>Error: %1</source>
-        <translation type="unfinished"/>
+        <translation>Gwall: %1</translation>
     </message>
     <message>
         <source>No data on your computer will be sent to an external location</source>
@@ -30349,19 +30349,19 @@ Would you like to start the system&apos;s default browser instead?</source>
     </message>
     <message>
         <source>Select &amp;Printer:</source>
-        <translation type="unfinished"/>
+        <translation>Dewis &amp;Argraffydd </translation>
     </message>
     <message>
         <source>Margins</source>
-        <translation type="unfinished"/>
+        <translation>Ymylon</translation>
     </message>
     <message>
         <source>Right:</source>
-        <translation type="unfinished"/>
+        <translation>De:</translation>
     </message>
     <message>
         <source>&amp;Top:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Top:</translation>
     </message>
     <message>
         <source>&amp;Bottom:</source>
@@ -30373,30 +30373,30 @@ Would you like to start the system&apos;s default browser instead?</source>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"/>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <source>Alt+O</source>
-        <translation type="unfinished"/>
+        <translation>Alt+O</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dileu</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"/>
+        <translation>Alt+C</translation>
     </message>
 </context>
 <context>
     <name>ViewToolBar</name>
     <message>
         <source>View Tools</source>
-        <translation type="unfinished"/>
+        <translation>Arolwg Offer</translation>
     </message>
     <message>
         <source>High</source>
-        <translation type="unfinished"/>
+        <translation>Uchel</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -30404,7 +30404,7 @@ Would you like to start the system&apos;s default browser instead?</source>
     </message>
     <message>
         <source>Low</source>
-        <translation type="unfinished"/>
+        <translation>Isel</translation>
     </message>
     <message>
         <source>Select the image preview quality</source>
@@ -30462,11 +30462,11 @@ Document Liberation Project http://www.documentliberation.org</source>
     <name>WMFImportPlugin</name>
     <message>
         <source>Import &amp;WMF...</source>
-        <translation type="unfinished"/>
+        <translation>Fewnforio &amp;WMF...</translation>
     </message>
     <message>
         <source>Imports WMF Files</source>
-        <translation type="unfinished"/>
+        <translation>Fewnforio WMF Ffeil</translation>
     </message>
     <message>
         <source>Imports most WMF files into the current document,
@@ -30498,11 +30498,11 @@ converting their vector data into Scribus objects.</source>
     <name>XPSExportPlugin</name>
     <message>
         <source>Save as XPS...</source>
-        <translation type="unfinished"/>
+        <translation>Arbed fel XPS...</translation>
     </message>
     <message>
         <source>Exports XPS Files</source>
-        <translation type="unfinished"/>
+        <translation>Allforyn XPS Ffeiliau</translation>
     </message>
     <message>
         <source>Exports the current document into an XPS file.</source>
@@ -30549,19 +30549,19 @@ converting their vector data into Scribus objects.</source>
     <name>XpsImportOptions</name>
     <message>
         <source>XPS Import</source>
-        <translation type="unfinished"/>
+        <translation>XPS mewnforyn</translation>
     </message>
     <message>
         <source>Importing File:</source>
-        <translation type="unfinished"/>
+        <translation>Mewnforio Ffeil:</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>TestynLebal</translation>
     </message>
     <message>
         <source>Page Range</source>
-        <translation type="unfinished"/>
+        <translation>Tudalen Amrediad</translation>
     </message>
     <message>
         <source>All Pages</source>
@@ -30569,11 +30569,11 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Single Page</source>
-        <translation type="unfinished"/>
+        <translation>Sengl Tudalen</translation>
     </message>
     <message>
         <source>Choose Pages</source>
-        <translation type="unfinished"/>
+        <translation>Dewis Tudalennau</translation>
     </message>
 </context>
 <context>
@@ -30651,19 +30651,19 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>File read error.</source>
-        <translation type="unfinished"/>
+        <translation>Ffeil darllen gwall.</translation>
     </message>
     <message>
         <source>File write error.</source>
-        <translation type="unfinished"/>
+        <translation>Ffeil ysgrifennu gwall.</translation>
     </message>
     <message>
         <source>File seek error.</source>
-        <translation type="unfinished"/>
+        <translation>Ffeil ceisio gwall.</translation>
     </message>
     <message>
         <source>Unknown error.</source>
-        <translation type="unfinished"/>
+        <translation>Gwall anhysbys.</translation>
     </message>
 </context>
 <context>
@@ -30694,7 +30694,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Pattern follows Path</source>
-        <translation type="unfinished"/>
+        <translation>Patrwm yn dilyn llwybur</translation>
     </message>
     <message>
         <source>Properties...</source>
@@ -30702,7 +30702,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>4 Colors</source>
-        <translation type="unfinished"/>
+        <translation>4 Lliwiau</translation>
     </message>
     <message>
         <source>Diamond</source>
@@ -30710,7 +30710,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Mesh</source>
-        <translation type="unfinished"/>
+        <translation>Rhwydwaith</translation>
     </message>
     <message>
         <source>Color</source>
@@ -30722,7 +30722,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Transparency</source>
-        <translation type="unfinished"/>
+        <translation>Tryloywder</translation>
     </message>
     <message>
         <source>Color:</source>
@@ -30730,11 +30730,11 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Transparency:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Tryloywder:</translation>
     </message>
     <message>
         <source>Edit Colors</source>
-        <translation type="unfinished"/>
+        <translation>Golygu Lliwiau</translation>
     </message>
     <message>
         <source>Display only used colors</source>
@@ -30754,11 +30754,11 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"/>
+        <translation>Llenwi</translation>
     </message>
     <message>
         <source>Fill Mode</source>
-        <translation type="unfinished"/>
+        <translation>Llenwi Modd</translation>
     </message>
     <message>
         <source>%</source>
@@ -30766,27 +30766,27 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Stroke</source>
-        <translation type="unfinished"/>
+        <translation>Strôc</translation>
     </message>
     <message>
         <source>Stroke Mode</source>
-        <translation type="unfinished"/>
+        <translation>Strôc Modd</translation>
     </message>
     <message>
         <source>Conical</source>
-        <translation type="unfinished"/>
+        <translation>Conigol</translation>
     </message>
     <message>
         <source>Patch Mesh</source>
-        <translation type="unfinished"/>
+        <translation>Darn Rhwydwaith</translation>
     </message>
     <message>
         <source>Distance:</source>
-        <translation type="unfinished"/>
+        <translation>Pellter</translation>
     </message>
     <message>
         <source>Angle:</source>
-        <translation type="unfinished"/>
+        <translation>Ongl:</translation>
     </message>
     <message>
         <source>Type:</source>
@@ -30794,19 +30794,19 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Single</source>
-        <translation type="unfinished"/>
+        <translation>Sengl</translation>
     </message>
     <message>
         <source>Double</source>
-        <translation type="unfinished"/>
+        <translation>Dwbl</translation>
     </message>
     <message>
         <source>Triple</source>
-        <translation type="unfinished"/>
+        <translation>Triphlyg</translation>
     </message>
     <message>
         <source>Line Color:</source>
-        <translation type="unfinished"/>
+        <translation>Lliw Llinell:</translation>
     </message>
     <message>
         <source>Background</source>
@@ -30814,7 +30814,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Extend:</source>
-        <translation type="unfinished"/>
+        <translation>Ymestyn:</translation>
     </message>
     <message>
         <source>None</source>
@@ -30822,7 +30822,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Pad</source>
-        <translation type="unfinished"/>
+        <translation>Pad</translation>
     </message>
     <message>
         <source>Opacity:</source>
@@ -30833,7 +30833,7 @@ converting their vector data into Scribus objects.</source>
     <name>gradientAddEditDialog</name>
     <message>
         <source>Edit Gradient</source>
-        <translation type="unfinished"/>
+        <translation>Golygu Graddiant</translation>
     </message>
     <message>
         <source>Name:</source>

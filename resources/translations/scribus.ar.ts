@@ -7,7 +7,7 @@
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>تحليل الملف:</translation>
     </message>
     <message>
         <source>Group%1</source>
@@ -46,7 +46,7 @@
     </message>
     <message>
         <source>Development Team:</source>
-        <translation type="unfinished"/>
+        <translation>فريق التطوير:</translation>
     </message>
     <message>
         <source>Official Documentation:</source>
@@ -86,7 +86,7 @@
     </message>
     <message>
         <source>Wiki</source>
-        <translation type="unfinished"/>
+        <translation>ويكي</translation>
     </message>
     <message>
         <source>%1 %2 %3</source>
@@ -122,7 +122,7 @@
     </message>
     <message>
         <source>&amp;Updates</source>
-        <translation type="unfinished"/>
+        <translation>&amp;تحديثات</translation>
     </message>
     <message>
         <source>Check for updates to Scribus. No data from your machine will be transferred off it.</source>
@@ -134,7 +134,7 @@
     </message>
     <message>
         <source>Splash Screen:</source>
-        <translation type="unfinished"/>
+        <translation>شاشة البدء:</translation>
     </message>
     <message>
         <source>This panel shows the version, build date and compiled in library support in Scribus.</source>
@@ -352,11 +352,11 @@
     </message>
     <message>
         <source>%1 pt</source>
-        <translation type="unfinished"/>
+        <translation>1% نقطة</translation>
     </message>
     <message>
         <source>&amp;Other...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;أخرى...</translation>
     </message>
     <message>
         <source>&amp;Left</source>
@@ -372,7 +372,7 @@
     </message>
     <message>
         <source>&amp;Block</source>
-        <translation type="unfinished"/>
+        <translation>&amp;حظر</translation>
     </message>
     <message>
         <source>&amp;Forced</source>
@@ -3555,7 +3555,7 @@ Page: %2</source>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>تحليل الملف:</translation>
     </message>
     <message>
         <source>Parsing failed!
@@ -3580,7 +3580,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>تحليل الملف:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -5240,7 +5240,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>تحليل الملف:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -5503,7 +5503,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>تحليل الملف:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -5784,7 +5784,7 @@ failed!</source>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>تحليل الملف:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -6146,7 +6146,7 @@ Use 72 dpi for Images intended for the Screen</source>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>تحليل الملف:</translation>
     </message>
     <message>
         <source>Parsing failed!
@@ -7005,7 +7005,7 @@ Ignore List</source>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>تحليل الملف:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -10619,7 +10619,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>تحليل الملف:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -11722,7 +11722,7 @@ Often used for allowing items to be placed across page spreads</source>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>تحليل الملف:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -12420,7 +12420,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>تحليل الملف:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -12490,7 +12490,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>تحليل الملف:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -13629,7 +13629,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>تحليل الملف:</translation>
     </message>
     <message>
         <source>Parsing failed!
@@ -20024,7 +20024,7 @@ Transparency</source>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>تحليل الملف:</translation>
     </message>
     <message>
         <source>Parsing failed!
@@ -26640,7 +26640,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Wiki</source>
-        <translation type="unfinished"/>
+        <translation>ويكي</translation>
     </message>
     <message>
         <source>Issues</source>
@@ -27245,7 +27245,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>تحليل الملف:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -27372,7 +27372,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>تحليل الملف:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -27884,7 +27884,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>تحليل الملف:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -30409,7 +30409,7 @@ Would you like to start the system&apos;s default browser instead?</source>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>تحليل الملف:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -30424,7 +30424,7 @@ Would you like to start the system&apos;s default browser instead?</source>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>تحليل الملف:</translation>
     </message>
     <message>
         <source>Parsing failed!
@@ -30466,7 +30466,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>تحليل الملف:</translation>
     </message>
 </context>
 <context>
@@ -30492,7 +30492,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>تحليل الملف:</translation>
     </message>
     <message>
         <source>Group%1</source>
@@ -30511,7 +30511,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>تحليل الملف:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -30557,7 +30557,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>تحليل الملف:</translation>
     </message>
     <message>
         <source>Generating Items</source>

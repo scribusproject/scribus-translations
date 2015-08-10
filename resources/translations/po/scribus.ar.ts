@@ -9,7 +9,7 @@
     <message>
         <location filename="../../../scribus/plugins/import/ai/importai.cpp" line="127"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>تحليل الملف:</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/ai/importai.cpp" line="262"/>
@@ -62,7 +62,7 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="299"/>
         <source>Development Team:</source>
-        <translation type="unfinished"/>
+        <translation>فريق التطوير:</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="307"/>
@@ -132,7 +132,7 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="353"/>
         <source>Wiki</source>
-        <translation type="unfinished"/>
+        <translation>ويكي</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="355"/>
@@ -152,7 +152,7 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="229"/>
         <source>&amp;Updates</source>
-        <translation type="unfinished"/>
+        <translation>&amp;تحديثات</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="267"/>
@@ -172,7 +172,7 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="319"/>
         <source>Splash Screen:</source>
-        <translation type="unfinished"/>
+        <translation>شاشة البدء:</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="275"/>
@@ -483,12 +483,12 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1320"/>
         <source>%1 pt</source>
-        <translation type="unfinished"/>
+        <translation>1% نقطة</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1322"/>
         <source>&amp;Other...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;أخرى...</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1323"/>
@@ -508,7 +508,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1326"/>
         <source>&amp;Block</source>
-        <translation type="unfinished"/>
+        <translation>&amp;حظر</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1327"/>
@@ -6195,7 +6195,7 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/plugins/import/cvg/importcvg.cpp" line="82"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>تحليل الملف:</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/cvg/importcvg.cpp" line="205"/>
@@ -12823,7 +12823,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <message>
         <location filename="../../../scribus/plugins/import/pct/importpct.cpp" line="85"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>تحليل الملف:</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/pct/importpct.cpp" line="209"/>
@@ -20865,7 +20865,7 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <location filename="../../../scribus/scribusapp.cpp" line="499"/>
         <source>Wiki</source>
-        <translation type="unfinished"/>
+        <translation>ويكي</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusapp.cpp" line="500"/>
@@ -27189,7 +27189,7 @@ converting their vector data into Scribus objects.</source>
     <message>
         <location filename="../../../scribus/plugins/import/xfig/importxfig.cpp" line="150"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>تحليل الملف:</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/xfig/importxfig.cpp" line="283"/>
