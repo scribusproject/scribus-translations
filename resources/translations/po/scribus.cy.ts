@@ -424,12 +424,12 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1299"/>
         <source>Paste (&amp;Absolute)</source>
-        <translation type="unfinished"/>
+        <translation>Pastio (&amp;Absoliwt)</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1300"/>
         <source>Paste Image from Clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Past Delwedd oddi wrth Clipfwrdd</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1301"/>
@@ -454,7 +454,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1306"/>
         <source>Edit Image...</source>
-        <translation type="unfinished"/>
+        <translation>Golygu Delwedd...</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1308"/>
@@ -469,7 +469,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1311"/>
         <source>S&amp;tyles...</source>
-        <translation type="unfinished"/>
+        <translation>A&amp;rddull</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1312"/>
@@ -479,7 +479,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1313"/>
         <source>&amp;JavaScripts...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;JavaScripts...</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1320"/>
@@ -560,12 +560,12 @@
         <location filename="../../../scribus/actionmanager.cpp" line="1346"/>
         <source>&amp;Outline</source>
         <comment>type effect</comment>
-        <translation type="unfinished"/>
+        <translation>&amp;Amlinell</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1347"/>
         <source>S&amp;hadow</source>
-        <translation type="unfinished"/>
+        <translation>C&amp;ysgod</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1349"/>
@@ -615,17 +615,17 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1360"/>
         <source>&amp;Printing Enabled</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Printio Galluogi</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1361"/>
         <source>&amp;Flip Horizontally</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Fflipio Llorweddol</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1362"/>
         <source>&amp;Flip Vertically</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Fflipio Fertigol</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1363"/>
@@ -660,7 +660,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1370"/>
         <source>More Info...</source>
-        <translation type="unfinished"/>
+        <translation>Mwy Gwybodaeth...</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1371"/>
@@ -670,32 +670,32 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1372"/>
         <source>&amp;Update Image</source>
-        <translation type="unfinished"/>
+        <translation>Diweddaru Delwedd</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1373"/>
         <source>Adjust Frame to Image</source>
-        <translation type="unfinished"/>
+        <translation>Addasu Ffrâm i&apos;r Delwedd</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1375"/>
         <source>Extended Image Properties</source>
-        <translation type="unfinished"/>
+        <translation>Estynedig Delwedd Priodwedd</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1376"/>
         <source>&amp;Low Resolution</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Cydraniad Isel</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1377"/>
         <source>&amp;Normal Resolution</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Arferol Cydraniad</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1378"/>
         <source>&amp;Full Resolution</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Cydraniad Llawn</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1379"/>
@@ -756,7 +756,7 @@
         <location filename="../../../scribus/actionmanager.cpp" line="1390"/>
         <source>&amp;Outlines</source>
         <comment>Convert to oulines</comment>
-        <translation type="unfinished"/>
+        <translation>&amp;Amlinelliad</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1391"/>
@@ -811,7 +811,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1407"/>
         <source>Convert to Master Page...</source>
-        <translation type="unfinished"/>
+        <translation>Trosi i Prif Tudalen...</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1408"/>
@@ -821,7 +821,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1409"/>
         <source>Manage Page Properties...</source>
-        <translation type="unfinished"/>
+        <translation>Rheoli Tudalen Priodwedd...</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1414"/>
@@ -846,7 +846,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1419"/>
         <source>Preview Mode</source>
-        <translation type="unfinished"/>
+        <translation>Rhagolwg Modd</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1420"/>
@@ -861,7 +861,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1423"/>
         <source>Show Layer Indicators</source>
-        <translation type="unfinished"/>
+        <translation>Dangos Haen Dangosyddion</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1424"/>
@@ -876,12 +876,12 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1426"/>
         <source>Show G&amp;uides</source>
-        <translation type="unfinished"/>
+        <translation>Dangos C&amp;anllawiau</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1427"/>
         <source>Show Text Frame Columns</source>
-        <translation type="unfinished"/>
+        <translation>Dangos Testun ffrâm Colofnau</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1428"/>
@@ -896,12 +896,12 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1430"/>
         <source>Show Control Characters</source>
-        <translation type="unfinished"/>
+        <translation>Dangos Rheoli Cymeriadau</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1431"/>
         <source>Show Rulers</source>
-        <translation type="unfinished"/>
+        <translation>Dangor Riwlers</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1433"/>
@@ -922,7 +922,7 @@
         <location filename="../../../scribus/actionmanager.cpp" line="1440"/>
         <source>&amp;Outline</source>
         <comment>Document Outline Palette</comment>
-        <translation type="unfinished"/>
+        <translation>&amp;Amlinell</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1441"/>
@@ -937,7 +937,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1443"/>
         <source>&amp;Arrange Pages</source>
-        <translation type="unfinished"/>
+        <translation>Trefnu Tudalennau</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1444"/>
@@ -962,7 +962,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1448"/>
         <source>&amp;Align and Distribute</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Alinio a Dosbarthu </translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1449"/>
@@ -1007,7 +1007,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1459"/>
         <source>Edit Text...</source>
-        <translation type="unfinished"/>
+        <translation>Golygu Testun...</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1460"/>
@@ -1082,12 +1082,12 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1491"/>
         <source>&amp;Cascade</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Rhaeadr</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1492"/>
         <source>&amp;Tile</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tile</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1495"/>
@@ -1112,12 +1112,12 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1508"/>
         <source>Toggle Palettes</source>
-        <translation type="unfinished"/>
+        <translation>Togl Paletau</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1509"/>
         <source>Toggle Guides</source>
-        <translation type="unfinished"/>
+        <translation>Canllawiau Togl</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1519"/>
@@ -1137,17 +1137,17 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1523"/>
         <source>New Line</source>
-        <translation type="unfinished"/>
+        <translation>Llinell Newydd</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1524"/>
         <source>Frame Break</source>
-        <translation type="unfinished"/>
+        <translation>Trriad Ffrâm</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1525"/>
         <source>Column Break</source>
-        <translation type="unfinished"/>
+        <translation>Toriad Colofn</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1528"/>
@@ -1192,12 +1192,12 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1536"/>
         <source>Figure Dash</source>
-        <translation type="unfinished"/>
+        <translation>Ffurf Doriad</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1537"/>
         <source>Quotation Dash</source>
-        <translation type="unfinished"/>
+        <translation>Dyfyniad Doriad</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1558"/>
@@ -1212,62 +1212,62 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1560"/>
         <source>Thin Space</source>
-        <translation type="unfinished"/>
+        <translation>Bwlch Main</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1561"/>
         <source>Thick Space</source>
-        <translation type="unfinished"/>
+        <translation>Bwlch Trwchus</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1562"/>
         <source>Mid Space</source>
-        <translation type="unfinished"/>
+        <translation>Gweddol Fwlch</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1563"/>
         <source>Hair Space</source>
-        <translation type="unfinished"/>
+        <translation>Bwlch Blewyn</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1575"/>
         <source>ff</source>
-        <translation type="unfinished"/>
+        <translation>ff</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1576"/>
         <source>fi</source>
-        <translation type="unfinished"/>
+        <translation>fi</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1577"/>
         <source>fl</source>
-        <translation type="unfinished"/>
+        <translation>fi</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1578"/>
         <source>ffi</source>
-        <translation type="unfinished"/>
+        <translation>ffi</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1579"/>
         <source>ffl</source>
-        <translation type="unfinished"/>
+        <translation>ffl</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1580"/>
         <source>ft</source>
-        <translation type="unfinished"/>
+        <translation>ft</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1581"/>
         <source>st</source>
-        <translation type="unfinished"/>
+        <translation>st</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1398"/>
         <source>Sticky Tools</source>
-        <translation type="unfinished"/>
+        <translation>Offer Anhyblyg</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1395"/>
@@ -1277,80 +1277,80 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1412"/>
         <source>&amp;Fit to Height</source>
-        <translation type="unfinished"/>
+        <translation>Ffitio i&apos;r Uchder</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1413"/>
         <source>Fit to Width</source>
-        <translation type="unfinished"/>
+        <translation>Ffitio i&apos;r Lled</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1421"/>
         <source>Show Bleeds</source>
-        <translation type="unfinished"/>
+        <translation>Dangos Gwaediadau</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1518"/>
         <source>Soft &amp;Hyphen</source>
-        <translation type="unfinished"/>
+        <translation>Meddal &amp;Cysylltnod</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1526"/>
         <source>&amp;Zero Width Space</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sero Lled Bwlch</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1527"/>
         <source>Zero Width NB Space</source>
-        <translation type="unfinished"/>
+        <translation>Sero Lled NB Bwlch</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1539"/>
         <source>Apostrophe</source>
         <comment>Unicode 0x0027</comment>
-        <translation type="unfinished"/>
+        <translation>Collnod</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1540"/>
         <source>Straight Double</source>
         <comment>Unicode 0x0022</comment>
-        <translation type="unfinished"/>
+        <translation>Suth Dyblyg</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1541"/>
         <source>Single Left</source>
         <comment>Unicode 0x2018</comment>
-        <translation type="unfinished"/>
+        <translation>Sengl Chwith</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1542"/>
         <source>Single Right</source>
         <comment>Unicode 0x2019</comment>
-        <translation type="unfinished"/>
+        <translation>Sengl Dde</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1543"/>
         <source>Double Left</source>
         <comment>Unicode 0x201C</comment>
-        <translation type="unfinished"/>
+        <translation>Dwbl Chwith</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1544"/>
         <source>Double Right</source>
         <comment>Unicode 0x201D</comment>
-        <translation type="unfinished"/>
+        <translation>Dwbl  Dde</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1545"/>
         <source>Single Reversed</source>
         <comment>Unicode 0x201B</comment>
-        <translation type="unfinished"/>
+        <translation>Sengl Cildro</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1546"/>
         <source>Double Reversed</source>
         <comment>Unicode 0x201F</comment>
-        <translation type="unfinished"/>
+        <translation>Dwbl Cildro</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1547"/>
@@ -1380,42 +1380,42 @@
         <location filename="../../../scribus/actionmanager.cpp" line="1551"/>
         <source>Low Single Comma</source>
         <comment>Unicode 0x201A</comment>
-        <translation type="unfinished"/>
+        <translation>Isel Sengl Coma</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1552"/>
         <source>Low Double Comma</source>
         <comment>Unicode 0x201E</comment>
-        <translation type="unfinished"/>
+        <translation>Isel Dwbl Coma</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1553"/>
         <source>CJK Single Left</source>
         <comment>Unicode 0x300C</comment>
-        <translation type="unfinished"/>
+        <translation>CJK Sengl Chwith</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1554"/>
         <source>CJK Single Right</source>
         <comment>Unicode 0x300D</comment>
-        <translation type="unfinished"/>
+        <translation>CJK Sengl  Dde</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1555"/>
         <source>CJK Double Left</source>
         <comment>Unicode 0x300E</comment>
-        <translation type="unfinished"/>
+        <translation>CJK Dwbl Chwith</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1556"/>
         <source>CJK Double Right</source>
         <comment>Unicode 0x300F</comment>
-        <translation type="unfinished"/>
+        <translation>CJK Dwbl Dde</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1418"/>
         <source>&amp;400%</source>
-        <translation type="unfinished"/>
+        <translation>&amp;400%</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1465"/>
@@ -1460,32 +1460,32 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1501"/>
         <source>Scribus Homepage</source>
-        <translation type="unfinished"/>
+        <translation>Scribus Tudalengartref</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1502"/>
         <source>Scribus Online Documentation</source>
-        <translation type="unfinished"/>
+        <translation>Scribus ArlinellDogfennaeth</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1503"/>
         <source>Scribus Wiki</source>
-        <translation type="unfinished"/>
+        <translation>Scribus Wiki</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1504"/>
         <source>Getting Started with Scribus</source>
-        <translation type="unfinished"/>
+        <translation>Dechrau Arni gyda Scribus</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1435"/>
         <source>Show Context Menu</source>
-        <translation type="unfinished"/>
+        <translation>Dangos Cysywllt Dewislen</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1485"/>
         <source>&amp;Manage Images</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ymdopi Delweddau</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1496"/>
@@ -1500,27 +1500,27 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1280"/>
         <source>Get Vector File...</source>
-        <translation type="unfinished"/>
+        <translation>Cael Ffeil Fector</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1303"/>
         <source>Advanced Select All...</source>
-        <translation type="unfinished"/>
+        <translation>Datblygedig Dewis y Cyfan</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1307"/>
         <source>Edit Source...</source>
-        <translation type="unfinished"/>
+        <translation>Golygu Ffynhonnell...</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1309"/>
         <source>Replace Colors...</source>
-        <translation type="unfinished"/>
+        <translation>Ailosod Lliwiau...</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1432"/>
         <source>Rulers Relative to Page</source>
-        <translation type="unfinished"/>
+        <translation>Riwleri Perthnasol i&apos;r Tudalen</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1467"/>
@@ -1535,12 +1535,12 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1522"/>
         <source>Number of Pages</source>
-        <translation type="unfinished"/>
+        <translation>Rhif y tudalennau</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1374"/>
         <source>Adjust Image to Frame</source>
-        <translation type="unfinished"/>
+        <translation>Addasu delwedd i&apos;r ffrâm</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1704"/>
@@ -1555,7 +1555,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1706"/>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Golygu</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1706"/>
@@ -1570,72 +1570,72 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1708"/>
         <source>&amp;Style</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Steil</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1710"/>
         <source>Item</source>
-        <translation type="unfinished"/>
+        <translation>Eitem</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1710"/>
         <source>&amp;Item</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Eitem</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1712"/>
         <source>Insert</source>
-        <translation type="unfinished"/>
+        <translation>Mewnosod</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1712"/>
         <source>I&amp;nsert</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Mewnosod</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1714"/>
         <source>Page</source>
-        <translation type="unfinished"/>
+        <translation>Tudalen</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1714"/>
         <source>&amp;Page</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tudalen</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1716"/>
         <source>View</source>
-        <translation type="unfinished"/>
+        <translation>Golygfa</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1716"/>
         <source>&amp;View</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Golygfa</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1718"/>
         <source>Extras</source>
-        <translation type="unfinished"/>
+        <translation>Ychwanegiadau</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1718"/>
         <source>E&amp;xtras</source>
-        <translation type="unfinished"/>
+        <translation>Y&amp;chwanegiadau</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1720"/>
         <source>Windows</source>
-        <translation type="unfinished"/>
+        <translation>Ffenestri</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1720"/>
         <source>&amp;Windows</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ffenestri</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1722"/>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Cymorth</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1722"/>
@@ -1655,17 +1655,17 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1894"/>
         <source>Unicode Characters</source>
-        <translation type="unfinished"/>
+        <translation>Unicode Cymeriadau</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1499"/>
         <source>Move/Resize Value Indicator</source>
-        <translation type="unfinished"/>
+        <translation>Symud/Ailfeintio Gwerth Dangoswr</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1270"/>
         <source>New &amp;from Template...</source>
-        <translation type="unfinished"/>
+        <translation>Newydd &amp;o Templed...</translation>
     </message>
 </context>
 <context>
@@ -1726,7 +1726,7 @@
         <location filename="../../../scribus/aligndistribute.ui" line="396"/>
         <location filename="../../../scribus/aligndistribute.ui" line="403"/>
         <source>...</source>
-        <translation type="unfinished"/>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../../scribus/aligndistribute.ui" line="260"/>
@@ -1769,7 +1769,7 @@
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="98"/>
         <source>Page</source>
-        <translation type="unfinished"/>
+        <translation>Tudalen</translation>
     </message>
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="99"/>
@@ -1894,12 +1894,12 @@
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="454"/>
         <source>Y: %1%2</source>
-        <translation type="unfinished"/>
+        <translation>Y: %1%2</translation>
     </message>
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="462"/>
         <source>X: %1%2</source>
-        <translation type="unfinished"/>
+        <translation>X: %1%2</translation>
     </message>
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="114"/>
@@ -2795,7 +2795,7 @@
     <message>
         <location filename="../../../scribus/annota.cpp" line="147"/>
         <source>&amp;Page:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tudalen:</translation>
     </message>
     <message>
         <location filename="../../../scribus/annota.cpp" line="168"/>
@@ -2806,7 +2806,7 @@
     <message>
         <location filename="../../../scribus/annota.cpp" line="171"/>
         <source>&amp;X-Pos</source>
-        <translation type="unfinished"/>
+        <translation>&amp;X-Pos</translation>
     </message>
     <message>
         <location filename="../../../scribus/annota.cpp" line="179"/>
@@ -2821,7 +2821,7 @@
     <message>
         <location filename="../../../scribus/annota.cpp" line="409"/>
         <source>%1;;All Files (*)</source>
-        <translation type="unfinished"/>
+        <translation>%1;;All Ffeils (*)</translation>
     </message>
     <message>
         <location filename="../../../scribus/annota.cpp" line="131"/>
@@ -2844,27 +2844,27 @@
     <message>
         <location filename="../../../scribus/applytemplatedialog.cpp" line="271"/>
         <source>Alt+P</source>
-        <translation type="unfinished"/>
+        <translation>Alt+P</translation>
     </message>
     <message>
         <location filename="../../../scribus/applytemplatedialog.cpp" line="273"/>
         <source>Alt+E</source>
-        <translation type="unfinished"/>
+        <translation>Alt+E</translation>
     </message>
     <message>
         <location filename="../../../scribus/applytemplatedialog.cpp" line="275"/>
         <source>Alt+D</source>
-        <translation type="unfinished"/>
+        <translation>Alt+D</translation>
     </message>
     <message>
         <location filename="../../../scribus/applytemplatedialog.cpp" line="277"/>
         <source>Alt+A</source>
-        <translation type="unfinished"/>
+        <translation>Alt+D</translation>
     </message>
     <message>
         <location filename="../../../scribus/applytemplatedialog.cpp" line="279"/>
         <source>Alt+W</source>
-        <translation type="unfinished"/>
+        <translation>Alt+W</translation>
     </message>
     <message>
         <location filename="../../../scribus/applytemplatedialog.cpp" line="280"/>
@@ -2894,32 +2894,32 @@
     <message>
         <location filename="../../../scribus/applytemplatedialog.cpp" line="269"/>
         <source>Apply to</source>
-        <translation type="unfinished"/>
+        <translation>Ymroi i</translation>
     </message>
     <message>
         <location filename="../../../scribus/applytemplatedialog.cpp" line="270"/>
         <source>Current &amp;Page</source>
-        <translation type="unfinished"/>
+        <translation>Cyfoes &amp;Tudalen</translation>
     </message>
     <message>
         <location filename="../../../scribus/applytemplatedialog.cpp" line="272"/>
         <source>&amp;Even Pages</source>
-        <translation type="unfinished"/>
+        <translation>Tudalennau</translation>
     </message>
     <message>
         <location filename="../../../scribus/applytemplatedialog.cpp" line="274"/>
         <source>O&amp;dd Pages</source>
-        <translation type="unfinished"/>
+        <translation>O&amp;ed Tudalennau</translation>
     </message>
     <message>
         <location filename="../../../scribus/applytemplatedialog.cpp" line="276"/>
         <source>&amp;All Pages</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Oll Tudalennau</translation>
     </message>
     <message>
         <location filename="../../../scribus/applytemplatedialog.cpp" line="278"/>
         <source>&amp;Within Range</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tu mewn Amrediad</translation>
     </message>
 </context>
 <context>
@@ -2927,7 +2927,7 @@
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellplugin.cpp" line="64"/>
         <source>Spell-checking support</source>
-        <translation type="unfinished"/>
+        <translation>Cefnogaeth Gwirio sillafu</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellplugin.cpp" line="66"/>
@@ -2937,12 +2937,12 @@
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellplugin.cpp" line="70"/>
         <source>0.1</source>
-        <translation type="unfinished"/>
+        <translation>0.1</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellplugin.cpp" line="32"/>
         <source>Spell Checker</source>
-        <translation type="unfinished"/>
+        <translation>Gwirydd Sillafu</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellplugin.cpp" line="97"/>
@@ -2955,12 +2955,12 @@
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginbase.ui" line="13"/>
         <source>Spell Check</source>
-        <translation type="unfinished"/>
+        <translation>Gwirio Sillafu</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginbase.ui" line="118"/>
         <source>Replacement:</source>
-        <translation type="unfinished"/>
+        <translation>Ailddodiad:</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginbase.ui" line="278"/>
@@ -3100,7 +3100,7 @@ Configuration invalid</source>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginimpl.cpp" line="259"/>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginimpl.cpp" line="451"/>
         <source>Spell Checker</source>
-        <translation type="unfinished"/>
+        <translation>Gwirydd Sillafu</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginimpl.cpp" line="72"/>
@@ -4504,7 +4504,7 @@ Height: %2</source>
     <message>
         <location filename="../../../scribus/charselectenhanced.cpp" line="327"/>
         <source>Greek</source>
-        <translation type="unfinished"/>
+        <translation>Greek</translation>
     </message>
     <message>
         <location filename="../../../scribus/charselectenhanced.cpp" line="333"/>
@@ -4524,7 +4524,7 @@ Height: %2</source>
     <message>
         <location filename="../../../scribus/charselectenhanced.cpp" line="351"/>
         <source>Arabic</source>
-        <translation type="unfinished"/>
+        <translation>Arabic</translation>
     </message>
     <message>
         <location filename="../../../scribus/charselectenhanced.cpp" line="357"/>
@@ -4539,7 +4539,7 @@ Height: %2</source>
     <message>
         <location filename="../../../scribus/charselectenhanced.cpp" line="369"/>
         <source>Hebrew</source>
-        <translation type="unfinished"/>
+        <translation>Hebrew</translation>
     </message>
     <message>
         <location filename="../../../scribus/charselectenhanced.ui" line="13"/>
@@ -5211,7 +5211,7 @@ See the Edit Colors section of the documentation for more details.</source>
         <location filename="../../../scribus/commonstrings.cpp" line="303"/>
         <source>Middle</source>
         <comment>Middle page location</comment>
-        <translation type="unfinished"/>
+        <translation>Canol</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="304"/>
@@ -5355,7 +5355,7 @@ See the Edit Colors section of the documentation for more details.</source>
         <location filename="../../../scribus/commonstrings.cpp" line="370"/>
         <source>Default</source>
         <comment>Optical Margin Setting</comment>
-        <translation type="unfinished"/>
+        <translation>Rhagosodedig</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="373"/>
@@ -5399,7 +5399,7 @@ See the Edit Colors section of the documentation for more details.</source>
         <location filename="../../../scribus/commonstrings.cpp" line="354"/>
         <source>Duotone</source>
         <comment>Colorspace</comment>
-        <translation type="unfinished"/>
+        <translation>Deuolthon</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="355"/>
@@ -5410,7 +5410,7 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="382"/>
         <source>PostScript</source>
-        <translation type="unfinished"/>
+        <translation>PostScript</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="268"/>
@@ -5506,7 +5506,7 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="274"/>
         <source>Render Frame</source>
-        <translation type="unfinished"/>
+        <translation>Rendro Dfrâm</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="326"/>
@@ -5855,7 +5855,7 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/ui/createrange.ui" line="189"/>
         <source>Alt+D</source>
-        <translation type="unfinished"/>
+        <translation>Alt+D</translation>
     </message>
     <message>
         <location filename="../../../scribus/ui/createrange.ui" line="196"/>
@@ -5900,7 +5900,7 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/ui/createrange.ui" line="337"/>
         <source>Alt+A</source>
-        <translation type="unfinished"/>
+        <translation>Alt+D</translation>
     </message>
     <message>
         <location filename="../../../scribus/ui/createrange.ui" line="362"/>
@@ -5958,23 +5958,23 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/plugins/gettext/csvim/csvdia.cpp" line="27"/>
         <source>CSV Importer Options</source>
-        <translation type="unfinished"/>
+        <translation>CSV Mewnforiwr Dewisiadau </translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/gettext/csvim/csvdia.cpp" line="37"/>
         <source>Field delimiter:</source>
-        <translation type="unfinished"/>
+        <translation>Maes amffinydd</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/gettext/csvim/csvdia.cpp" line="44"/>
         <location filename="../../../scribus/plugins/gettext/csvim/csvdia.cpp" line="89"/>
         <source>(TAB)</source>
-        <translation type="unfinished"/>
+        <translation>(TAB)</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/gettext/csvim/csvdia.cpp" line="53"/>
         <source>Value delimiter:</source>
-        <translation type="unfinished"/>
+        <translation>Gwerth amffinydd:</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/gettext/csvim/csvdia.cpp" line="59"/>
@@ -5985,7 +5985,7 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/plugins/gettext/csvim/csvdia.cpp" line="68"/>
         <source>First row is a header</source>
-        <translation type="unfinished"/>
+        <translation>Cynta rhes ynyw y pennawd</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/gettext/csvim/csvdia.cpp" line="76"/>
@@ -6098,7 +6098,7 @@ See the Edit Colors section of the documentation for more details.</source>
         <location filename="../../../scribus/curvewidget.cpp" line="408"/>
         <location filename="../../../scribus/curvewidget.cpp" line="446"/>
         <source>Curve Files (*.scu *.SCU);;All Files (*)</source>
-        <translation type="unfinished"/>
+        <translation>Cromlin Ffeils  (*.scu *.SCU);;All Ffeils (*)</translation>
     </message>
     <message>
         <location filename="../../../scribus/curvewidget.cpp" line="446"/>
@@ -6109,17 +6109,18 @@ See the Edit Colors section of the documentation for more details.</source>
         <location filename="../../../scribus/curvewidget.cpp" line="480"/>
         <source>Cannot write the file: 
 %1</source>
-        <translation type="unfinished"/>
+        <translation>Methu  ysgrifennu y ffeil
+%1</translation>
     </message>
     <message>
         <location filename="../../../scribus/curvewidget.cpp" line="506"/>
         <source>Inverts the curve</source>
-        <translation type="unfinished"/>
+        <translation>Gwrth-droi y cromlin</translation>
     </message>
     <message>
         <location filename="../../../scribus/curvewidget.cpp" line="507"/>
         <source>Resets the curve</source>
-        <translation type="unfinished"/>
+        <translation>Ailgyfanheddu y cromlin</translation>
     </message>
     <message>
         <location filename="../../../scribus/curvewidget.cpp" line="508"/>
@@ -6129,12 +6130,12 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/curvewidget.cpp" line="509"/>
         <source>Loads a curve</source>
-        <translation type="unfinished"/>
+        <translation>Llwytho a cromlin</translation>
     </message>
     <message>
         <location filename="../../../scribus/curvewidget.cpp" line="510"/>
         <source>Saves this curve</source>
-        <translation type="unfinished"/>
+        <translation>Arbed hwn cromlin</translation>
     </message>
 </context>
 <context>
@@ -6158,12 +6159,12 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/customfdialog.cpp" line="272"/>
         <source>Show Preview</source>
-        <translation type="unfinished"/>
+        <translation>Dangos Rhagolwg</translation>
     </message>
     <message>
         <location filename="../../../scribus/customfdialog.cpp" line="306"/>
         <source>&amp;Include Color Profiles</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Cynnwys Lliw Proffiliau</translation>
     </message>
     <message>
         <location filename="../../../scribus/customfdialog.cpp" line="273"/>
@@ -6215,12 +6216,12 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/dasheditor.cpp" line="367"/>
         <source>Value:</source>
-        <translation type="unfinished"/>
+        <translation>Gwerth:</translation>
     </message>
     <message>
         <location filename="../../../scribus/dasheditor.cpp" line="368"/>
         <source>Offset:</source>
-        <translation type="unfinished"/>
+        <translation>Atred:</translation>
     </message>
 </context>
 <context>
@@ -6228,7 +6229,7 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/deferredtask.cpp" line="82"/>
         <source>Cancelled by user</source>
-        <translation type="unfinished"/>
+        <translation>Canslwyd gan defnyddiwr</translation>
     </message>
 </context>
 <context>
@@ -6241,12 +6242,12 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/dcolor.cpp" line="37"/>
         <source>Delete Color:</source>
-        <translation type="unfinished"/>
+        <translation>Dileu Lliw:</translation>
     </message>
     <message>
         <location filename="../../../scribus/dcolor.cpp" line="46"/>
         <source>Replace With:</source>
-        <translation type="unfinished"/>
+        <translation>Amnewid Gydag:</translation>
     </message>
 </context>
 <context>
@@ -6259,7 +6260,7 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/delpages.cpp" line="26"/>
         <source>Delete From:</source>
-        <translation type="unfinished"/>
+        <translation>Dileu Oddi wrth</translation>
     </message>
     <message>
         <location filename="../../../scribus/delpages.cpp" line="34"/>
@@ -6272,13 +6273,14 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/plugins/gettext/docim/docim.cpp" line="180"/>
         <source>Importing failed</source>
-        <translation type="unfinished"/>
+        <translation>Mewnlifiad a fethwyd</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/gettext/docim/docim.cpp" line="181"/>
         <source>Importing Word document failed 
 %1</source>
-        <translation type="unfinished"/>
+        <translation>Mewnlifiad Dogfen Gari a fethwyd
+%1</translation>
     </message>
 </context>
 <context>
@@ -6301,7 +6303,7 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/docinfo.cpp" line="53"/>
         <source>&amp;Subject:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Testun:</translation>
     </message>
     <message>
         <location filename="../../../scribus/docinfo.cpp" line="60"/>
@@ -6371,7 +6373,7 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/docinfo.cpp" line="159"/>
         <source>Documen&amp;t</source>
-        <translation type="unfinished"/>
+        <translation>Dogfen&amp;t</translation>
     </message>
     <message>
         <location filename="../../../scribus/docinfo.cpp" line="160"/>
@@ -6519,7 +6521,7 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/docsections.ui" line="86"/>
         <source>Alt+A</source>
-        <translation type="unfinished"/>
+        <translation>Alt+D</translation>
     </message>
     <message>
         <location filename="../../../scribus/docsections.ui" line="93"/>
@@ -6529,7 +6531,7 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/docsections.ui" line="96"/>
         <source>Alt+D</source>
-        <translation type="unfinished"/>
+        <translation>Alt+D</translation>
     </message>
     <message>
         <location filename="../../../scribus/docsections.ui" line="32"/>
@@ -6559,7 +6561,7 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/docsections.ui" line="57"/>
         <source>Start</source>
-        <translation type="unfinished"/>
+        <translation>Dechrau</translation>
     </message>
 </context>
 <context>
@@ -6640,7 +6642,7 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/docitemattrprefs.ui" line="85"/>
         <source>Alt+A</source>
-        <translation type="unfinished"/>
+        <translation>Alt+D</translation>
     </message>
     <message>
         <location filename="../../../scribus/docitemattrprefs.ui" line="92"/>
@@ -6660,7 +6662,7 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/docitemattrprefs.ui" line="105"/>
         <source>Alt+D</source>
-        <translation type="unfinished"/>
+        <translation>Alt+D</translation>
     </message>
     <message>
         <location filename="../../../scribus/docitemattrprefs.ui" line="112"/>
@@ -6752,7 +6754,7 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/plugins/import/ps/importps.cpp" line="83"/>
         <source>Analyzing PostScript:</source>
-        <translation type="unfinished"/>
+        <translation>Dadansoddi PostScript:</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/ps/importps.cpp" line="278"/>
@@ -6802,7 +6804,7 @@ methodd
     <message>
         <location filename="../../../scribus/ui/edittoolbar.cpp" line="29"/>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Golygu</translation>
     </message>
 </context>
 <context>
@@ -6901,27 +6903,27 @@ methodd
     <message>
         <location filename="../../../scribus/editor.cpp" line="41"/>
         <source>Ctrl+N</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+N</translation>
     </message>
     <message>
         <location filename="../../../scribus/editor.cpp" line="52"/>
         <source>Ctrl+Z</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+Z</translation>
     </message>
     <message>
         <location filename="../../../scribus/editor.cpp" line="57"/>
         <source>Ctrl+X</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+N</translation>
     </message>
     <message>
         <location filename="../../../scribus/editor.cpp" line="60"/>
         <source>Ctrl+C</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+C</translation>
     </message>
     <message>
         <location filename="../../../scribus/editor.cpp" line="63"/>
         <source>Ctrl-V</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl-V</translation>
     </message>
 </context>
 <context>
@@ -6934,7 +6936,7 @@ methodd
     <message>
         <location filename="../../../scribus/effectsdialog.cpp" line="82"/>
         <source>Options:</source>
-        <translation type="unfinished"/>
+        <translation>Dewisiadau:</translation>
     </message>
     <message>
         <location filename="../../../scribus/effectsdialog.cpp" line="99"/>
@@ -6949,23 +6951,23 @@ methodd
     <message>
         <location filename="../../../scribus/effectsdialog.cpp" line="126"/>
         <source>Brightness:</source>
-        <translation type="unfinished"/>
+        <translation>Disgleirdeb:</translation>
     </message>
     <message>
         <location filename="../../../scribus/effectsdialog.cpp" line="148"/>
         <source>Contrast:</source>
-        <translation type="unfinished"/>
+        <translation>Cyferbynnu:</translation>
     </message>
     <message>
         <location filename="../../../scribus/effectsdialog.cpp" line="170"/>
         <location filename="../../../scribus/effectsdialog.cpp" line="199"/>
         <source>Radius:</source>
-        <translation type="unfinished"/>
+        <translation>Radiws:</translation>
     </message>
     <message>
         <location filename="../../../scribus/effectsdialog.cpp" line="181"/>
         <source>Value:</source>
-        <translation type="unfinished"/>
+        <translation>Gwerth:</translation>
     </message>
     <message>
         <location filename="../../../scribus/effectsdialog.cpp" line="217"/>
@@ -6977,32 +6979,32 @@ methodd
         <location filename="../../../scribus/effectsdialog.cpp" line="286"/>
         <location filename="../../../scribus/effectsdialog.cpp" line="352"/>
         <source>Color 1:</source>
-        <translation type="unfinished"/>
+        <translation>Lliw 1:</translation>
     </message>
     <message>
         <location filename="../../../scribus/effectsdialog.cpp" line="257"/>
         <location filename="../../../scribus/effectsdialog.cpp" line="306"/>
         <location filename="../../../scribus/effectsdialog.cpp" line="372"/>
         <source>Color 2:</source>
-        <translation type="unfinished"/>
+        <translation>Lliw 2:</translation>
     </message>
     <message>
         <location filename="../../../scribus/effectsdialog.cpp" line="326"/>
         <location filename="../../../scribus/effectsdialog.cpp" line="392"/>
         <source>Color 3:</source>
-        <translation type="unfinished"/>
+        <translation>Lliw 3:</translation>
     </message>
     <message>
         <location filename="../../../scribus/effectsdialog.cpp" line="412"/>
         <source>Color 4:</source>
-        <translation type="unfinished"/>
+        <translation>Lliw 4:</translation>
     </message>
     <message>
         <location filename="../../../scribus/effectsdialog.cpp" line="456"/>
         <location filename="../../../scribus/effectsdialog.cpp" line="473"/>
         <location filename="../../../scribus/effectsdialog.cpp" line="501"/>
         <source>Available Effects</source>
-        <translation type="unfinished"/>
+        <translation>Effeithiau Ar gael </translation>
     </message>
     <message>
         <location filename="../../../scribus/effectsdialog.cpp" line="460"/>
@@ -7012,7 +7014,7 @@ methodd
         <location filename="../../../scribus/effectsdialog.cpp" line="1296"/>
         <location filename="../../../scribus/effectsdialog.cpp" line="1418"/>
         <source>Blur</source>
-        <translation type="unfinished"/>
+        <translation>Pylu</translation>
     </message>
     <message>
         <location filename="../../../scribus/effectsdialog.cpp" line="461"/>
@@ -7022,7 +7024,7 @@ methodd
         <location filename="../../../scribus/effectsdialog.cpp" line="1247"/>
         <location filename="../../../scribus/effectsdialog.cpp" line="1396"/>
         <source>Brightness</source>
-        <translation type="unfinished"/>
+        <translation>Disgleirdeb</translation>
     </message>
     <message>
         <location filename="../../../scribus/effectsdialog.cpp" line="462"/>
@@ -7044,7 +7046,7 @@ methodd
         <location filename="../../../scribus/effectsdialog.cpp" line="1004"/>
         <location filename="../../../scribus/effectsdialog.cpp" line="1437"/>
         <source>Duotone</source>
-        <translation type="unfinished"/>
+        <translation>Deuolthon</translation>
     </message>
     <message>
         <location filename="../../../scribus/effectsdialog.cpp" line="464"/>
@@ -7055,7 +7057,7 @@ methodd
         <location filename="../../../scribus/effectsdialog.cpp" line="1062"/>
         <location filename="../../../scribus/effectsdialog.cpp" line="1473"/>
         <source>Tritone</source>
-        <translation type="unfinished"/>
+        <translation>Trithon</translation>
     </message>
     <message>
         <location filename="../../../scribus/effectsdialog.cpp" line="465"/>
@@ -7076,7 +7078,7 @@ methodd
         <location filename="../../../scribus/effectsdialog.cpp" line="1263"/>
         <location filename="../../../scribus/effectsdialog.cpp" line="1402"/>
         <source>Contrast</source>
-        <translation type="unfinished"/>
+        <translation>Cyferbyniad</translation>
     </message>
     <message>
         <location filename="../../../scribus/effectsdialog.cpp" line="467"/>
@@ -7124,22 +7126,22 @@ methodd
         <location filename="../../../scribus/effectsdialog.cpp" line="1279"/>
         <location filename="../../../scribus/effectsdialog.cpp" line="1408"/>
         <source>Sharpen</source>
-        <translation type="unfinished"/>
+        <translation>Awchlymu</translation>
     </message>
     <message>
         <location filename="../../../scribus/effectsdialog.cpp" line="483"/>
         <source>&gt;&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&gt;&gt;</translation>
     </message>
     <message>
         <location filename="../../../scribus/effectsdialog.cpp" line="487"/>
         <source>&lt;&lt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;&lt;</translation>
     </message>
     <message>
         <location filename="../../../scribus/effectsdialog.cpp" line="498"/>
         <source>Effects in use</source>
-        <translation type="unfinished"/>
+        <translation>Effeithiau mewn iws</translation>
     </message>
     <message>
         <location filename="../../../scribus/effectsdialog.cpp" line="617"/>
@@ -7157,18 +7159,18 @@ methodd
     <message>
         <location filename="../../../scribus/plugins/pixmapexport/export.cpp" line="203"/>
         <source>File exists. Overwrite?</source>
-        <translation type="unfinished"/>
+        <translation>Ffeil yn bod. Trosysgrifo?</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/pixmapexport/export.cpp" line="204"/>
         <source>exists already. Overwrite?</source>
-        <translation type="unfinished"/>
+        <translation>yn bodoli yn barod. Trosysgrifo?</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/pixmapexport/export.cpp" line="190"/>
         <location filename="../../../scribus/plugins/pixmapexport/export.cpp" line="217"/>
         <source>Save as Image</source>
-        <translation type="unfinished"/>
+        <translation>Arbed fel Delwedd</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/pixmapexport/export.cpp" line="190"/>
@@ -7340,7 +7342,7 @@ Name of the export file will be &apos;documentname-pagenumber.filetype&apos;</so
     <message>
         <location filename="../../../scribus/extimageprops.cpp" line="40"/>
         <source>Extended Image Properties</source>
-        <translation type="unfinished"/>
+        <translation>Estynedig Delwedd Priodwedd</translation>
     </message>
     <message>
         <location filename="../../../scribus/extimageprops.cpp" line="58"/>
@@ -7972,7 +7974,7 @@ Name of the export file will be &apos;documentname-pagenumber.filetype&apos;</so
         <location filename="../../../scribus/guidemanager.ui" line="295"/>
         <location filename="../../../scribus/guidemanager.ui" line="354"/>
         <source>Alt+A</source>
-        <translation type="unfinished"/>
+        <translation>Alt+D</translation>
     </message>
     <message>
         <location filename="../../../scribus/guidemanager.ui" line="63"/>
@@ -7985,7 +7987,7 @@ Name of the export file will be &apos;documentname-pagenumber.filetype&apos;</so
         <location filename="../../../scribus/guidemanager.ui" line="218"/>
         <location filename="../../../scribus/guidemanager.ui" line="305"/>
         <source>Alt+E</source>
-        <translation type="unfinished"/>
+        <translation>Alt+E</translation>
     </message>
     <message>
         <location filename="../../../scribus/guidemanager.ui" line="76"/>
@@ -8004,7 +8006,7 @@ Name of the export file will be &apos;documentname-pagenumber.filetype&apos;</so
     <message>
         <location filename="../../../scribus/guidemanager.ui" line="95"/>
         <source>Alt+D</source>
-        <translation type="unfinished"/>
+        <translation>Alt+D</translation>
     </message>
     <message>
         <location filename="../../../scribus/guidemanager.ui" line="102"/>
@@ -8067,14 +8069,14 @@ Name of the export file will be &apos;documentname-pagenumber.filetype&apos;</so
         <location filename="../../../scribus/guidemanager.cpp" line="243"/>
         <location filename="../../../scribus/guidemanager.cpp" line="246"/>
         <source>&amp;Page</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tudalen</translation>
     </message>
     <message>
         <location filename="../../../scribus/guidemanager.ui" line="195"/>
         <location filename="../../../scribus/guidemanager.ui" line="282"/>
         <location filename="../../../scribus/guidemanager.ui" line="341"/>
         <source>Alt+P</source>
-        <translation type="unfinished"/>
+        <translation>Alt+P</translation>
     </message>
     <message>
         <location filename="../../../scribus/guidemanager.ui" line="205"/>
@@ -8686,7 +8688,7 @@ converting their vector data into Scribus objects.</source>
     <message>
         <location filename="../../../scribus/plugins/import/ai/importaiplugin.cpp" line="162"/>
         <source>The file could not be imported</source>
-        <translation type="unfinished"/>
+        <translation>Ni all y ffeil yma ei mewnforio</translation>
     </message>
 </context>
 <context>
@@ -9093,7 +9095,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../../../scribus/insertaframe.ui" line="568"/>
         <location filename="../../../scribus/insertaframe.ui" line="610"/>
         <source>...</source>
-        <translation type="unfinished"/>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="172"/>
@@ -9158,7 +9160,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="385"/>
         <source>Height:</source>
-        <translation type="unfinished"/>
+        <translation>Uchder:</translation>
     </message>
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="392"/>
@@ -9188,7 +9190,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="474"/>
         <source>Gap:</source>
-        <translation type="unfinished"/>
+        <translation>Bwlch</translation>
     </message>
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="554"/>
@@ -10964,7 +10966,7 @@ If no handle is selected all handles will be reset.</source>
     <message>
         <location filename="../../../scribus/plugins/newfromtemplateplugin/nftemplate.cpp" line="59"/>
         <source>New &amp;from Template...</source>
-        <translation type="unfinished"/>
+        <translation>Newydd &amp;o Templed...</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/newfromtemplateplugin/nftemplate.cpp" line="79"/>
@@ -11243,7 +11245,7 @@ If no handle is selected all handles will be reset.</source>
     <message>
         <location filename="../../../scribus/plugins/import/oodraw/oodrawimp.cpp" line="208"/>
         <source>The file could not be imported</source>
-        <translation type="unfinished"/>
+        <translation>Ni all y ffeil yma ei mewnforio</translation>
     </message>
 </context>
 <context>
@@ -11286,7 +11288,7 @@ If no handle is selected all handles will be reset.</source>
     <message>
         <location filename="../../../scribus/plugins/gettext/odtim/odtdia.cpp" line="79"/>
         <source>Do not ask again</source>
-        <translation type="unfinished"/>
+        <translation>Peidio a gofyn eto </translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/gettext/odtim/odtdia.cpp" line="81"/>
@@ -11342,7 +11344,7 @@ If no handle is selected all handles will be reset.</source>
     <message>
         <location filename="../../../scribus/oneclick.cpp" line="69"/>
         <source>Height:</source>
-        <translation type="unfinished"/>
+        <translation>Uchder:</translation>
     </message>
     <message>
         <location filename="../../../scribus/oneclick.cpp" line="71"/>
@@ -11653,7 +11655,7 @@ If no handle is selected all handles will be reset.</source>
     <message>
         <location filename="../../../scribus/preview.cpp" line="313"/>
         <source>Fit to Width</source>
-        <translation type="unfinished"/>
+        <translation>Ffitio i&apos;r Lled</translation>
     </message>
     <message>
         <location filename="../../../scribus/preview.cpp" line="314"/>
@@ -11880,7 +11882,7 @@ If no handle is selected all handles will be reset.</source>
     <message>
         <location filename="../../../scribus/pageitemattributes.ui" line="61"/>
         <source>Alt+A</source>
-        <translation type="unfinished"/>
+        <translation>Alt+D</translation>
     </message>
     <message>
         <location filename="../../../scribus/pageitemattributes.ui" line="68"/>
@@ -11900,7 +11902,7 @@ If no handle is selected all handles will be reset.</source>
     <message>
         <location filename="../../../scribus/pageitemattributes.ui" line="81"/>
         <source>Alt+D</source>
-        <translation type="unfinished"/>
+        <translation>Alt+D</translation>
     </message>
     <message>
         <location filename="../../../scribus/pageitemattributes.ui" line="88"/>
@@ -12140,7 +12142,7 @@ If no handle is selected all handles will be reset.</source>
     <message>
         <location filename="../../../scribus/pageitem_latexframe.cpp" line="571"/>
         <source>Render Frame</source>
-        <translation type="unfinished"/>
+        <translation>Rendro Dfrâm</translation>
     </message>
     <message>
         <location filename="../../../scribus/pageitem_latexframe.cpp" line="235"/>
@@ -12569,7 +12571,7 @@ both end points must lie outside of the polygon</source>
         <location filename="../../../scribus/plugins/tools/pathfinder/pathfinderbase.ui" line="370"/>
         <location filename="../../../scribus/plugins/tools/pathfinder/pathfinderbase.ui" line="387"/>
         <source>...</source>
-        <translation type="unfinished"/>
+        <translation>...</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/pathfinder/pathfinderbase.ui" line="411"/>
@@ -12770,7 +12772,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <message>
         <location filename="../../../scribus/patterndialog.ui" line="15"/>
         <source>Patterns</source>
-        <translation type="unfinished"/>
+        <translation>Patrymau</translation>
     </message>
     <message>
         <location filename="../../../scribus/patterndialog.ui" line="48"/>
@@ -12790,7 +12792,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <message>
         <location filename="../../../scribus/patterndialog.ui" line="76"/>
         <source>Remove All</source>
-        <translation type="unfinished"/>
+        <translation>Diddymu Cwbl</translation>
     </message>
     <message>
         <location filename="../../../scribus/patterndialog.ui" line="99"/>
@@ -12892,7 +12894,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <message>
         <location filename="../../../scribus/picsearch.ui" line="89"/>
         <source>Alt+P</source>
-        <translation type="unfinished"/>
+        <translation>Alt+P</translation>
     </message>
     <message>
         <location filename="../../../scribus/picsearch.ui" line="115"/>
@@ -13016,7 +13018,7 @@ Please choose another one.</source>
     <message>
         <location filename="../../../scribus/picstatus.cpp" line="287"/>
         <source>TIFF</source>
-        <translation type="unfinished"/>
+        <translation>TIFF</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.cpp" line="290"/>
@@ -13146,7 +13148,7 @@ Please choose another one.</source>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="613"/>
         <source>Edit Image...</source>
-        <translation type="unfinished"/>
+        <translation>Golygu Delwedd...</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="600"/>
@@ -13323,7 +13325,7 @@ Please choose another one.</source>
         <location filename="../../../scribus/plugins/pixmapexport/export.cpp" line="120"/>
         <location filename="../../../scribus/plugins/pixmapexport/export.cpp" line="126"/>
         <source>Save as Image</source>
-        <translation type="unfinished"/>
+        <translation>Arbed fel Delwedd</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/pixmapexport/export.cpp" line="121"/>
@@ -13494,7 +13496,7 @@ Please choose another one.</source>
     <message>
         <location filename="../../../scribus/polygonwidgetbase.ui" line="121"/>
         <source>Sample Polygon</source>
-        <translation type="unfinished"/>
+        <translation>Sampl Polygon</translation>
     </message>
     <message>
         <location filename="../../../scribus/polygonwidgetbase.ui" line="143"/>
@@ -13676,7 +13678,7 @@ Please choose another one.</source>
         <location filename="../../../scribus/prefsmanager.cpp" line="2092"/>
         <location filename="../../../scribus/prefsmanager.cpp" line="2101"/>
         <source>PostScript</source>
-        <translation type="unfinished"/>
+        <translation>PostScript</translation>
     </message>
     <message>
         <location filename="../../../scribus/prefsmanager.cpp" line="829"/>
@@ -13982,7 +13984,7 @@ amrediad tudalennau, neu rhif tudalen unigol.</translation>
     <message>
         <location filename="../../../scribus/printdialogbase.ui" line="341"/>
         <source>Page</source>
-        <translation type="unfinished"/>
+        <translation>Tudalen</translation>
     </message>
     <message>
         <location filename="../../../scribus/printdialogbase.ui" line="347"/>
@@ -14087,7 +14089,7 @@ amrediad tudalennau, neu rhif tudalen unigol.</translation>
     <message>
         <location filename="../../../scribus/printdialogbase.ui" line="485"/>
         <source>Offset:</source>
-        <translation type="unfinished"/>
+        <translation>Atred:</translation>
     </message>
     <message>
         <location filename="../../../scribus/printdialogbase.ui" line="492"/>
@@ -14464,7 +14466,7 @@ Co&amp;rneli:</translation>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5306"/>
         <source>Gap:</source>
-        <translation type="unfinished"/>
+        <translation>Bwlch</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5307"/>
@@ -14605,7 +14607,7 @@ Co&amp;rneli:</translation>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5390"/>
         <source>Extended Image Properties</source>
-        <translation type="unfinished"/>
+        <translation>Estynedig Delwedd Priodwedd</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5391"/>
@@ -14735,17 +14737,17 @@ Co&amp;rneli:</translation>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5456"/>
         <source>Overprinting</source>
-        <translation type="unfinished"/>
+        <translation>Tros-argraffiadu</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5457"/>
         <source>Knockout</source>
-        <translation type="unfinished"/>
+        <translation>Ergyd derfynol</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5458"/>
         <source>Overprint</source>
-        <translation type="unfinished"/>
+        <translation>Tros-argraffu</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5460"/>
@@ -14907,12 +14909,12 @@ Co&amp;rneli:</translation>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5643"/>
         <source>Right to Left Writing</source>
-        <translation type="unfinished"/>
+        <translation>Ysgrifennu De i&apos;r Chwith </translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5644"/>
         <source>Manual Tracking</source>
-        <translation type="unfinished"/>
+        <translation>Lwybro â Llaw</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="838"/>
@@ -15083,22 +15085,22 @@ Co&amp;rneli:</translation>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5318"/>
         <source>Default</source>
-        <translation type="unfinished"/>
+        <translation>Rhagosodedig</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5319"/>
         <source>Stair Step</source>
-        <translation type="unfinished"/>
+        <translation>Gris Cam</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5320"/>
         <source>Skew</source>
-        <translation type="unfinished"/>
+        <translation>Sgiw</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5322"/>
         <source>Flip Text</source>
-        <translation type="unfinished"/>
+        <translation>Fflipio Testun</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5324"/>
@@ -15124,23 +15126,23 @@ Co&amp;rneli:</translation>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5364"/>
         <source>Word Tracking</source>
-        <translation type="unfinished"/>
+        <translation>Gair Lwybro</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5365"/>
         <location filename="../../../scribus/propertiespalette.cpp" line="5368"/>
         <source>Min:</source>
-        <translation type="unfinished"/>
+        <translation>Burr:</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5366"/>
         <source>Norm:</source>
-        <translation type="unfinished"/>
+        <translation>Norm:</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5367"/>
         <source>Glyph Extension</source>
-        <translation type="unfinished"/>
+        <translation>Glyff Estyniad</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5369"/>
@@ -15214,13 +15216,13 @@ Co&amp;rneli:</translation>
         <location filename="../../../scribus/propertiespalette.cpp" line="836"/>
         <location filename="../../../scribus/propertiespalette.cpp" line="5374"/>
         <source>Maximum Ascent</source>
-        <translation type="unfinished"/>
+        <translation>Mwyaf Esgyniad</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="837"/>
         <location filename="../../../scribus/propertiespalette.cpp" line="5375"/>
         <source>Font Ascent</source>
-        <translation type="unfinished"/>
+        <translation>Ffont Esgyniad</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="798"/>
@@ -15310,21 +15312,21 @@ Co&amp;rneli:</translation>
         <location filename="../../../scribus/propertiespalette.cpp" line="5359"/>
         <source>Both Sides</source>
         <comment>optical margins</comment>
-        <translation type="unfinished"/>
+        <translation>Dwy Ochrau</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="938"/>
         <location filename="../../../scribus/propertiespalette.cpp" line="5360"/>
         <source>Left Only</source>
         <comment>optical margins</comment>
-        <translation type="unfinished"/>
+        <translation>Chwith&apos;n Unig</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="939"/>
         <location filename="../../../scribus/propertiespalette.cpp" line="5361"/>
         <source>Right Only</source>
         <comment>optical margins</comment>
-        <translation type="unfinished"/>
+        <translation>De&apos;n Unig</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5670"/>
@@ -15372,7 +15374,7 @@ Co&amp;rneli:</translation>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/pconsole.ui" line="113"/>
         <source>&amp;Run</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Rhedeg</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/pconsole.ui" line="118"/>
@@ -15382,12 +15384,12 @@ Co&amp;rneli:</translation>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/pconsole.ui" line="123"/>
         <source>&amp;Save Output...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Script Cynnyrch</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/pconsole.ui" line="81"/>
         <source>&amp;Script</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Script</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/pconsole.cpp" line="60"/>
@@ -15397,7 +15399,7 @@ Co&amp;rneli:</translation>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/pconsole.ui" line="13"/>
         <source>Script Console</source>
-        <translation type="unfinished"/>
+        <translation>Script Consol</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/pconsole.cpp" line="122"/>
@@ -15445,7 +15447,7 @@ Co&amp;rneli:</translation>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/pconsole.cpp" line="254"/>
         <source>Text Files (*.txt)</source>
-        <translation type="unfinished"/>
+        <translation>Testun Ffeils (*.txt)</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/pconsole.cpp" line="252"/>
@@ -15455,17 +15457,17 @@ Co&amp;rneli:</translation>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/pconsole.cpp" line="34"/>
         <source>Col: %1 Row: %2/%3</source>
-        <translation type="unfinished"/>
+        <translation>Col: %1 Row: %2/%3</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/pconsole.cpp" line="45"/>
         <source>Ctrl+O</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+O</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/pconsole.cpp" line="46"/>
         <source>Ctrl+S</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+S</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/pconsole.ui" line="108"/>
@@ -15583,7 +15585,7 @@ Scripter documentation for futher information. </source>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="19"/>
         <source>Files of type:</source>
-        <translation type="unfinished"/>
+        <translation>Ffeils o fath:</translation>
     </message>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="20"/>
@@ -15638,7 +15640,7 @@ Scripter documentation for futher information. </source>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="30"/>
         <source>Look in:</source>
-        <translation type="unfinished"/>
+        <translation>Edrych yn:</translation>
     </message>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="31"/>
@@ -15648,7 +15650,7 @@ Scripter documentation for futher information. </source>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="32"/>
         <source>Forward</source>
-        <translation type="unfinished"/>
+        <translation>Ymlaen</translation>
     </message>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="33"/>
@@ -15915,7 +15917,7 @@ Gwiriwch y llwybr ac enw&apos;r ffeil.</translation>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="157"/>
         <source>&amp;Color</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Lliw</translation>
     </message>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="158"/>
@@ -16048,43 +16050,43 @@ Gwiriwch y llwybr ac enw&apos;r ffeil.</translation>
         <location filename="../../../scribus/langmgr.cpp" line="58"/>
         <location filename="../../../scribus/langmgr.cpp" line="59"/>
         <source>Afrikaans</source>
-        <translation type="unfinished"/>
+        <translation>Afrikaans</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="61"/>
         <source>Arabic</source>
-        <translation type="unfinished"/>
+        <translation>Arabic</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="139"/>
         <source>Albanian</source>
-        <translation type="unfinished"/>
+        <translation>Albanian</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="95"/>
         <source>Basque</source>
-        <translation type="unfinished"/>
+        <translation>Basque</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="63"/>
         <location filename="../../../scribus/langmgr.cpp" line="64"/>
         <source>Bulgarian</source>
-        <translation type="unfinished"/>
+        <translation>Bulgarian</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="67"/>
         <source>Breton</source>
-        <translation type="unfinished"/>
+        <translation>Breton</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="68"/>
         <source>Catalan</source>
-        <translation type="unfinished"/>
+        <translation>Catalan</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="149"/>
         <source>Chinese</source>
-        <translation type="unfinished"/>
+        <translation>Chinese</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="101"/>
@@ -16095,24 +16097,24 @@ Gwiriwch y llwybr ac enw&apos;r ffeil.</translation>
         <location filename="../../../scribus/langmgr.cpp" line="69"/>
         <location filename="../../../scribus/langmgr.cpp" line="70"/>
         <source>Czech</source>
-        <translation type="unfinished"/>
+        <translation>Czech</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="72"/>
         <location filename="../../../scribus/langmgr.cpp" line="73"/>
         <source>Danish</source>
-        <translation type="unfinished"/>
+        <translation>Danish</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="79"/>
         <source>Dzongkha</source>
-        <translation type="unfinished"/>
+        <translation>Dzongkha</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="121"/>
         <location filename="../../../scribus/langmgr.cpp" line="122"/>
         <source>Dutch</source>
-        <translation type="unfinished"/>
+        <translation>Dutch</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="81"/>
@@ -16120,24 +16122,24 @@ Gwiriwch y llwybr ac enw&apos;r ffeil.</translation>
         <location filename="../../../scribus/langmgr.cpp" line="265"/>
         <location filename="../../../scribus/langmgr.cpp" line="320"/>
         <source>English</source>
-        <translation type="unfinished"/>
+        <translation>English</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="88"/>
         <source>Esperanto</source>
-        <translation type="unfinished"/>
+        <translation>Esperanto</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="93"/>
         <location filename="../../../scribus/langmgr.cpp" line="94"/>
         <source>Estonian</source>
-        <translation type="unfinished"/>
+        <translation>Estonian</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="74"/>
         <location filename="../../../scribus/langmgr.cpp" line="78"/>
         <source>German</source>
-        <translation type="unfinished"/>
+        <translation>German</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="75"/>
@@ -16147,87 +16149,87 @@ Gwiriwch y llwybr ac enw&apos;r ffeil.</translation>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="96"/>
         <source>Finnish</source>
-        <translation type="unfinished"/>
+        <translation>Finnish</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="97"/>
         <location filename="../../../scribus/langmgr.cpp" line="98"/>
         <source>French</source>
-        <translation type="unfinished"/>
+        <translation>French</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="99"/>
         <source>Galician</source>
-        <translation type="unfinished"/>
+        <translation>Galician</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="80"/>
         <source>Greek</source>
-        <translation type="unfinished"/>
+        <translation>Greek</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="102"/>
         <location filename="../../../scribus/langmgr.cpp" line="103"/>
         <source>Hungarian</source>
-        <translation type="unfinished"/>
+        <translation>Hungarian</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="104"/>
         <location filename="../../../scribus/langmgr.cpp" line="113"/>
         <source>Latin</source>
-        <translation type="unfinished"/>
+        <translation>Latin</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="106"/>
         <source>Icelandic</source>
-        <translation type="unfinished"/>
+        <translation>Icelandic</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="105"/>
         <source>Indonesian</source>
-        <translation type="unfinished"/>
+        <translation>Indonesian</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="107"/>
         <location filename="../../../scribus/langmgr.cpp" line="108"/>
         <source>Italian</source>
-        <translation type="unfinished"/>
+        <translation>Italian</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="109"/>
         <source>Japanese</source>
-        <translation type="unfinished"/>
+        <translation>Japanese</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="111"/>
         <source>Korean</source>
-        <translation type="unfinished"/>
+        <translation>Korean</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="112"/>
         <source>Kurdish</source>
-        <translation type="unfinished"/>
+        <translation>Kurdish</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="116"/>
         <location filename="../../../scribus/langmgr.cpp" line="117"/>
         <source>Lithuanian</source>
-        <translation type="unfinished"/>
+        <translation>Lithuanian</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="114"/>
         <source>Luxembourgish</source>
-        <translation type="unfinished"/>
+        <translation>Luxembourgish</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="60"/>
         <source>Aragonese</source>
-        <translation type="unfinished"/>
+        <translation>Aragonese</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="62"/>
         <source>Belarusian</source>
-        <translation type="unfinished"/>
+        <translation>Belarusian</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="65"/>
@@ -16237,7 +16239,7 @@ Gwiriwch y llwybr ac enw&apos;r ffeil.</translation>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="76"/>
         <source>German (Austria)</source>
-        <translation type="unfinished"/>
+        <translation>German (Austria)</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="83"/>
@@ -16247,12 +16249,12 @@ Gwiriwch y llwybr ac enw&apos;r ffeil.</translation>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="84"/>
         <source>English (UK)</source>
-        <translation type="unfinished"/>
+        <translation>English (UK)</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="85"/>
         <source>English (New Zealand)</source>
-        <translation type="unfinished"/>
+        <translation>English (New Zealand)</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="86"/>
@@ -16267,30 +16269,30 @@ Gwiriwch y llwybr ac enw&apos;r ffeil.</translation>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="90"/>
         <source>Spanish (Argentina)</source>
-        <translation type="unfinished"/>
+        <translation>Spanish (Argentina)</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="118"/>
         <source>Nepali</source>
-        <translation type="unfinished"/>
+        <translation>Nepali</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="123"/>
         <location filename="../../../scribus/langmgr.cpp" line="124"/>
         <source>Norwegian (Nnyorsk)</source>
-        <translation type="unfinished"/>
+        <translation>Norwegian (Nnyorsk)</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="125"/>
         <location filename="../../../scribus/langmgr.cpp" line="126"/>
         <source>Norwegian</source>
-        <translation type="unfinished"/>
+        <translation>Norwegian</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="127"/>
         <location filename="../../../scribus/langmgr.cpp" line="128"/>
         <source>Polish</source>
-        <translation type="unfinished"/>
+        <translation>Polish</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="129"/>
@@ -16305,24 +16307,24 @@ Gwiriwch y llwybr ac enw&apos;r ffeil.</translation>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="131"/>
         <source>Romanian</source>
-        <translation type="unfinished"/>
+        <translation>Romanian</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="132"/>
         <location filename="../../../scribus/langmgr.cpp" line="133"/>
         <source>Russian</source>
-        <translation type="unfinished"/>
+        <translation>Russian</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="141"/>
         <source>Swedish</source>
-        <translation type="unfinished"/>
+        <translation>Swedish</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="89"/>
         <location filename="../../../scribus/langmgr.cpp" line="91"/>
         <source>Spanish</source>
-        <translation type="unfinished"/>
+        <translation>Spanish</translation>
     </message>
     <message utf8="true">
         <location filename="../../../scribus/langmgr.cpp" line="119"/>
@@ -16333,53 +16335,53 @@ Gwiriwch y llwybr ac enw&apos;r ffeil.</translation>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="92"/>
         <source>Spanish (Latin)</source>
-        <translation type="unfinished"/>
+        <translation>Spanish (Latin)</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="135"/>
         <location filename="../../../scribus/langmgr.cpp" line="136"/>
         <source>Slovak</source>
-        <translation type="unfinished"/>
+        <translation>Slovak</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="137"/>
         <location filename="../../../scribus/langmgr.cpp" line="138"/>
         <source>Slovenian</source>
-        <translation type="unfinished"/>
+        <translation>Slovenian</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="140"/>
         <source>Serbian</source>
-        <translation type="unfinished"/>
+        <translation>Serbian</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="142"/>
         <location filename="../../../scribus/langmgr.cpp" line="143"/>
         <source>Thai</source>
-        <translation type="unfinished"/>
+        <translation>Thai</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="144"/>
         <location filename="../../../scribus/langmgr.cpp" line="145"/>
         <source>Turkish</source>
-        <translation type="unfinished"/>
+        <translation>Turkish</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="146"/>
         <location filename="../../../scribus/langmgr.cpp" line="147"/>
         <source>Ukranian</source>
-        <translation type="unfinished"/>
+        <translation>Ukranian</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="71"/>
         <source>Welsh</source>
-        <translation type="unfinished"/>
+        <translation>Cymru</translation>
     </message>
     <message>
         <location filename="../../../scribus/page.cpp" line="37"/>
         <location filename="../../../scribus/page.cpp" line="82"/>
         <source>Page</source>
-        <translation type="unfinished"/>
+        <translation>Tudalen</translation>
     </message>
     <message>
         <location filename="../../../scribus/page.cpp" line="91"/>
@@ -16389,12 +16391,12 @@ Gwiriwch y llwybr ac enw&apos;r ffeil.</translation>
     <message>
         <location filename="../../../scribus/pagesize.cpp" line="124"/>
         <source>4A0</source>
-        <translation type="unfinished"/>
+        <translation>4A0</translation>
     </message>
     <message>
         <location filename="../../../scribus/pagesize.cpp" line="130"/>
         <source>2A0</source>
-        <translation type="unfinished"/>
+        <translation>2A0</translation>
     </message>
     <message>
         <location filename="../../../scribus/pagesize.cpp" line="199"/>
@@ -16419,7 +16421,7 @@ Gwiriwch y llwybr ac enw&apos;r ffeil.</translation>
     <message>
         <location filename="../../../scribus/pagesize.cpp" line="200"/>
         <source>Legal</source>
-        <translation type="unfinished"/>
+        <translation>Cyfreithiol</translation>
     </message>
     <message>
         <location filename="../../../scribus/pagesize.cpp" line="200"/>
@@ -16434,7 +16436,7 @@ Gwiriwch y llwybr ac enw&apos;r ffeil.</translation>
     <message>
         <location filename="../../../scribus/pagesize.cpp" line="201"/>
         <source>Post</source>
-        <translation type="unfinished"/>
+        <translation>Post</translation>
     </message>
     <message>
         <location filename="../../../scribus/pagesize.cpp" line="201"/>
@@ -16479,32 +16481,32 @@ Gwiriwch y llwybr ac enw&apos;r ffeil.</translation>
     <message>
         <location filename="../../../scribus/pagesize.cpp" line="203"/>
         <source>STMT</source>
-        <translation type="unfinished"/>
+        <translation>Post</translation>
     </message>
     <message>
         <location filename="../../../scribus/pagesize.cpp" line="203"/>
         <source>A</source>
-        <translation type="unfinished"/>
+        <translation>A</translation>
     </message>
     <message>
         <location filename="../../../scribus/pagesize.cpp" line="203"/>
         <source>B</source>
-        <translation type="unfinished"/>
+        <translation>B</translation>
     </message>
     <message>
         <location filename="../../../scribus/pagesize.cpp" line="203"/>
         <source>C</source>
-        <translation type="unfinished"/>
+        <translation>C</translation>
     </message>
     <message>
         <location filename="../../../scribus/pagesize.cpp" line="204"/>
         <source>D</source>
-        <translation type="unfinished"/>
+        <translation>D</translation>
     </message>
     <message>
         <location filename="../../../scribus/pagesize.cpp" line="204"/>
         <source>E</source>
-        <translation type="unfinished"/>
+        <translation>E</translation>
     </message>
     <message>
         <location filename="../../../scribus/pagesize.cpp" line="220"/>
@@ -16514,7 +16516,7 @@ Gwiriwch y llwybr ac enw&apos;r ffeil.</translation>
     <message>
         <location filename="../../../scribus/pagesize.cpp" line="226"/>
         <source>DLE</source>
-        <translation type="unfinished"/>
+        <translation>DLE</translation>
     </message>
     <message>
         <location filename="../../../scribus/pdfoptionsio.cpp" line="40"/>
@@ -16553,7 +16555,7 @@ Gwiriwch y llwybr ac enw&apos;r ffeil.</translation>
         <location filename="../../../scribus/pdfoptionsio.cpp" line="300"/>
         <source>%1 (line %2 col %3)</source>
         <comment>Load PDF settings</comment>
-        <translation type="unfinished"/>
+        <translation>%1 (llinell %2 col %3)</translation>
     </message>
     <message>
         <location filename="../../../scribus/pdfoptionsio.cpp" line="319"/>
@@ -16773,27 +16775,27 @@ Gwiriwch y llwybr ac enw&apos;r ffeil.</translation>
     <message>
         <location filename="../../../scribus/units.cpp" line="158"/>
         <source>mm</source>
-        <translation type="unfinished"/>
+        <translation>mm</translation>
     </message>
     <message>
         <location filename="../../../scribus/units.cpp" line="159"/>
         <source>in</source>
-        <translation type="unfinished"/>
+        <translation>in</translation>
     </message>
     <message>
         <location filename="../../../scribus/units.cpp" line="160"/>
         <source>p</source>
-        <translation type="unfinished"/>
+        <translation>p</translation>
     </message>
     <message>
         <location filename="../../../scribus/units.cpp" line="161"/>
         <source>cm</source>
-        <translation type="unfinished"/>
+        <translation>cm</translation>
     </message>
     <message>
         <location filename="../../../scribus/units.cpp" line="162"/>
         <source>c</source>
-        <translation type="unfinished"/>
+        <translation>c</translation>
     </message>
     <message>
         <location filename="../../../scribus/units.cpp" line="209"/>
@@ -16839,7 +16841,7 @@ Gwiriwch y llwybr ac enw&apos;r ffeil.</translation>
         <location filename="../../../scribus/util.cpp" line="537"/>
         <source>page</source>
         <comment>page export</comment>
-        <translation type="unfinished"/>
+        <translation>tudalen</translation>
     </message>
     <message>
         <location filename="../../../scribus/fonts/ftface.cpp" line="54"/>
@@ -16876,7 +16878,7 @@ Gwiriwch y llwybr ac enw&apos;r ffeil.</translation>
     <message>
         <location filename="../../../scribus/fonts/scface_ttf.cpp" line="557"/>
         <source>table &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation>tabl &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../../../scribus/fonts/scface_ttf.cpp" line="558"/>
@@ -17856,7 +17858,7 @@ Gwiriwch y llwybr ac enw&apos;r ffeil.</translation>
         <location filename="../../../scribus/plugins/scriptplugin/scriptercore.cpp" line="76"/>
         <location filename="../../../scribus/plugins/scriptplugin/scriptercore.cpp" line="605"/>
         <source>&amp;Script</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Script</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/scriptercore.cpp" line="78"/>
@@ -17947,12 +17949,12 @@ is not exhaustive due to exceptions from called functions.
     <message>
         <location filename="../../../scribus/plugins/svgexplugin/svgexplugin.cpp" line="100"/>
         <source>SVG Export</source>
-        <translation type="unfinished"/>
+        <translation>SVG Allforio</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/svg/svgplugin.cpp" line="102"/>
         <source>SVG Import</source>
-        <translation type="unfinished"/>
+        <translation>SVG Mewnforio</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/fileloader/oldscribusformat/oldscribusformat.cpp" line="40"/>
@@ -17995,12 +17997,12 @@ is not exhaustive due to exceptions from called functions.
     <message>
         <location filename="../../../scribus/plugins/gettext/csvim/csvim.cpp" line="59"/>
         <source>CSV_data</source>
-        <translation type="unfinished"/>
+        <translation>CSV_data</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/gettext/csvim/csvim.cpp" line="63"/>
         <source>CSV_header</source>
-        <translation type="unfinished"/>
+        <translation>CSV_pennawd</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/gettext/docim/docim.cpp" line="52"/>
@@ -18040,7 +18042,7 @@ External Links
         <location filename="../../../scribus/plugins/gettext/pdbim/pdbim.cpp" line="100"/>
         <source>PDB Import</source>
         <comment>PDB Importer</comment>
-        <translation type="unfinished"/>
+        <translation>PDB Mewnforio</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/gettext/pdbim/pdbim.cpp" line="92"/>
@@ -18062,7 +18064,7 @@ External Links
     <message>
         <location filename="../../../scribus/plugins/gettext/textfilter/textfilter.cpp" line="26"/>
         <source>Text Filters</source>
-        <translation type="unfinished"/>
+        <translation>Testun Ffilteri</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/gettext/txtim/txtim.cpp" line="21"/>
@@ -18082,7 +18084,7 @@ External Links
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="100"/>
         <source>Hebrew</source>
-        <translation type="unfinished"/>
+        <translation>Hebrew</translation>
     </message>
     <message>
         <location filename="../../../scribus/fonts/scface_ps.cpp" line="99"/>
@@ -18114,17 +18116,17 @@ External Links
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="110"/>
         <source>Khmer</source>
-        <translation type="unfinished"/>
+        <translation>Khmer</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="115"/>
         <source>Lao</source>
-        <translation type="unfinished"/>
+        <translation>Lao</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="148"/>
         <source>Vietnamese</source>
-        <translation type="unfinished"/>
+        <translation>Vietnamese</translation>
     </message>
     <message>
         <location filename="../../../scribus/scdocoutput_ps2.cpp" line="115"/>
@@ -18139,7 +18141,7 @@ External Links
     <message>
         <location filename="../../../scribus/plugins/import/wmf/wmfimportplugin.cpp" line="89"/>
         <source>WMF Import</source>
-        <translation type="unfinished"/>
+        <translation>WMF Mewnforio</translation>
     </message>
     <message>
         <location filename="../../../scribus/sclayer.cpp" line="16"/>
@@ -18165,7 +18167,7 @@ External Links
     <message>
         <location filename="../../../scribus/plugins/svgexplugin/svgexplugin.cpp" line="128"/>
         <source>%1;;All Files (*)</source>
-        <translation type="unfinished"/>
+        <translation>%1;;All Ffeils (*)</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/svgexplugin/svgexplugin.cpp" line="169"/>
@@ -18181,12 +18183,12 @@ External Links
     <message>
         <location filename="../../../scribus/util_formats.cpp" line="38"/>
         <source>GIF</source>
-        <translation type="unfinished"/>
+        <translation>GIF</translation>
     </message>
     <message>
         <location filename="../../../scribus/util_formats.cpp" line="39"/>
         <source>JPEG</source>
-        <translation type="unfinished"/>
+        <translation>JPEG</translation>
     </message>
     <message>
         <location filename="../../../scribus/util_formats.cpp" line="40"/>
@@ -18196,47 +18198,47 @@ External Links
     <message>
         <location filename="../../../scribus/util_formats.cpp" line="41"/>
         <source>PDF Document</source>
-        <translation type="unfinished"/>
+        <translation>PDF Dogfen</translation>
     </message>
     <message>
         <location filename="../../../scribus/util_formats.cpp" line="42"/>
         <source>PNG</source>
-        <translation type="unfinished"/>
+        <translation>PNG</translation>
     </message>
     <message>
         <location filename="../../../scribus/util_formats.cpp" line="43"/>
         <source>PostScript</source>
-        <translation type="unfinished"/>
+        <translation>PostScript</translation>
     </message>
     <message>
         <location filename="../../../scribus/util_formats.cpp" line="44"/>
         <source>Adobe Photoshop</source>
-        <translation type="unfinished"/>
+        <translation>Adobe Photoshop</translation>
     </message>
     <message>
         <location filename="../../../scribus/util_formats.cpp" line="45"/>
         <source>TIFF</source>
-        <translation type="unfinished"/>
+        <translation>TIFF</translation>
     </message>
     <message>
         <location filename="../../../scribus/util_formats.cpp" line="46"/>
         <source>XPM</source>
-        <translation type="unfinished"/>
+        <translation>XPM</translation>
     </message>
     <message>
         <location filename="../../../scribus/util_formats.cpp" line="47"/>
         <source>Windows Meta File</source>
-        <translation type="unfinished"/>
+        <translation>Windows Meta File</translation>
     </message>
     <message>
         <location filename="../../../scribus/util_formats.cpp" line="48"/>
         <source>Scalable Vector Graphics</source>
-        <translation type="unfinished"/>
+        <translation>Scalable Vector Graphics</translation>
     </message>
     <message>
         <location filename="../../../scribus/util_formats.cpp" line="49"/>
         <source>Adobe Illustrator</source>
-        <translation type="unfinished"/>
+        <translation>Adobe Illustrator</translation>
     </message>
     <message>
         <location filename="../../../scribus/util_formats.cpp" line="51"/>
@@ -18246,7 +18248,7 @@ External Links
     <message>
         <location filename="../../../scribus/util_formats.cpp" line="53"/>
         <source>BMP</source>
-        <translation type="unfinished"/>
+        <translation>BMP</translation>
     </message>
     <message>
         <location filename="../../../scribus/util_formats.cpp" line="52"/>
@@ -18355,7 +18357,7 @@ External Links
     <message>
         <location filename="../../../scribus/util_formats.cpp" line="50"/>
         <source>Xfig File</source>
-        <translation type="unfinished"/>
+        <translation>Xfig Ffeil</translation>
     </message>
     <message>
         <location filename="../../../scribus/latexhelpers.cpp" line="66"/>
@@ -18387,7 +18389,7 @@ External Links
         <location filename="../../../scribus/units.cpp" line="163"/>
         <source>°</source>
         <comment>degrees, unicode 0xB0</comment>
-        <translation type="unfinished"/>
+        <translation>°</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/cmdtext.cpp" line="152"/>
@@ -18410,12 +18412,12 @@ External Links
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="66"/>
         <source>Bengali</source>
-        <translation type="unfinished"/>
+        <translation>Bengali</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="134"/>
         <source>Sanskrit</source>
-        <translation type="unfinished"/>
+        <translation>Sanskrit</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/fileloader/scribus134format/scribus134format.cpp" line="64"/>
@@ -18443,7 +18445,7 @@ Therefore the image may be not correct</source>
     <message>
         <location filename="../../../scribus/scprintengine_gdi.cpp" line="258"/>
         <source>Printing...</source>
-        <translation type="unfinished"/>
+        <translation>Printio...</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/cmdcolor.cpp" line="231"/>
@@ -18854,7 +18856,7 @@ Please choose another.</source>
     <message>
         <location filename="../../../scribus/plugins/saveastemplateplugin/satdialog.cpp" line="203"/>
         <source>Legal</source>
-        <translation type="unfinished"/>
+        <translation>Cyfreithiol</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/saveastemplateplugin/satdialog.cpp" line="204"/>
@@ -19231,7 +19233,7 @@ Please choose another.</source>
         <location filename="../../../scribus/smpstylewidget.ui" line="245"/>
         <location filename="../../../scribus/smpstylewidget.cpp" line="137"/>
         <source>Drop Caps</source>
-        <translation type="unfinished"/>
+        <translation>Priflythrennau Bach</translation>
     </message>
     <message>
         <location filename="../../../scribus/smpstylewidget.ui" line="587"/>
@@ -19331,19 +19333,19 @@ Please choose another.</source>
         <location filename="../../../scribus/smpstylewidget.cpp" line="150"/>
         <source>Both Sides</source>
         <comment>optical margins</comment>
-        <translation type="unfinished"/>
+        <translation>Dwy Ochrau</translation>
     </message>
     <message>
         <location filename="../../../scribus/smpstylewidget.cpp" line="151"/>
         <source>Left Only</source>
         <comment>optical margins</comment>
-        <translation type="unfinished"/>
+        <translation>Chwith&apos;n Unig</translation>
     </message>
     <message>
         <location filename="../../../scribus/smpstylewidget.cpp" line="152"/>
         <source>Right Only</source>
         <comment>optical margins</comment>
-        <translation type="unfinished"/>
+        <translation>De&apos;n Unig</translation>
     </message>
     <message>
         <location filename="../../../scribus/smpstylewidget.ui" line="32"/>
@@ -19423,13 +19425,13 @@ Expressed as a percentage of the current white space value.</source>
     <message>
         <location filename="../../../scribus/smpstylewidget.cpp" line="144"/>
         <source>Glyph Extension</source>
-        <translation type="unfinished"/>
+        <translation>Glyff Estyniad</translation>
     </message>
     <message>
         <location filename="../../../scribus/smpstylewidget.cpp" line="145"/>
         <source>Min:</source>
         <comment>Glyph Extension</comment>
-        <translation type="unfinished"/>
+        <translation>Burr:</translation>
     </message>
     <message>
         <location filename="../../../scribus/smpstylewidget.cpp" line="146"/>
@@ -19445,17 +19447,17 @@ Expressed as a percentage of the current white space value.</source>
     <message>
         <location filename="../../../scribus/smpstylewidget.ui" line="402"/>
         <source>Both Sides</source>
-        <translation type="unfinished"/>
+        <translation>Dwy Ochrau</translation>
     </message>
     <message>
         <location filename="../../../scribus/smpstylewidget.ui" line="409"/>
         <source>Left Only</source>
-        <translation type="unfinished"/>
+        <translation>Chwith&apos;n Unig</translation>
     </message>
     <message>
         <location filename="../../../scribus/smpstylewidget.ui" line="416"/>
         <source>Right Only</source>
-        <translation type="unfinished"/>
+        <translation>De&apos;n Unig</translation>
     </message>
 </context>
 <context>
@@ -19709,7 +19711,7 @@ Expressed as a percentage of the current white space value.</source>
     <message>
         <location filename="../../../scribus/storyeditor.cpp" line="1282"/>
         <source>Manual Tracking</source>
-        <translation type="unfinished"/>
+        <translation>Lwybro â Llaw</translation>
     </message>
 </context>
 <context>
@@ -19782,7 +19784,7 @@ converting their vector data into Scribus objects.</source>
     <message>
         <location filename="../../../scribus/plugins/import/svg/svgplugin.cpp" line="196"/>
         <source>The file could not be imported</source>
-        <translation type="unfinished"/>
+        <translation>Ni all y ffeil yma ei mewnforio</translation>
     </message>
 </context>
 <context>
@@ -20471,7 +20473,8 @@ Rotation: %4</source>
         <location filename="../../../scribus/scribus.cpp" line="8270"/>
         <source>Cannot write the file: 
 %1</source>
-        <translation type="unfinished"/>
+        <translation>Methu  ysgrifennu y ffeil
+%1</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribus.cpp" line="4527"/>
@@ -20499,7 +20502,7 @@ Rotation: %4</source>
     <message>
         <location filename="../../../scribus/scribus.cpp" line="4862"/>
         <source>Printing...</source>
-        <translation type="unfinished"/>
+        <translation>Printio...</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribus.cpp" line="4909"/>
@@ -20705,7 +20708,7 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <location filename="../../../scribus/scribus.cpp" line="8105"/>
         <source>%1;;All Files (*)</source>
-        <translation type="unfinished"/>
+        <translation>%1;;All Ffeils (*)</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribus.cpp" line="322"/>
@@ -20781,7 +20784,7 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <location filename="../../../scribus/scribusapp.cpp" line="436"/>
         <source>Options:</source>
-        <translation type="unfinished"/>
+        <translation>Dewisiadau:</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusapp.cpp" line="438"/>
@@ -21014,7 +21017,7 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <location filename="../../../scribus/scribusview.cpp" line="418"/>
         <source>Preview Mode</source>
-        <translation type="unfinished"/>
+        <translation>Rhagolwg Modd</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusview.cpp" line="419"/>
@@ -21076,7 +21079,7 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <location filename="../../../scribus/scribusview.cpp" line="352"/>
         <source>Current zoom level</source>
-        <translation type="unfinished"/>
+        <translation>Cyfredol chwyddo lefel</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusview.cpp" line="355"/>
@@ -21106,7 +21109,7 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <location filename="../../../scribus/scribusview.cpp" line="357"/>
         <source>Select the image preview quality</source>
-        <translation type="unfinished"/>
+        <translation>Dethol y delwedd rhagolwg ansawdd</translation>
     </message>
 </context>
 <context>
@@ -21142,7 +21145,7 @@ Consider using the Preflight Verifier to correct them</source>
         <location filename="../../../scribus/plugins/scriptplugin/scriptercore.cpp" line="470"/>
         <location filename="../../../scribus/plugins/scriptplugin/scriptercore.cpp" line="628"/>
         <source>Script error</source>
-        <translation type="unfinished"/>
+        <translation>Sgript gwall</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/scriptercore.cpp" line="386"/>
@@ -22031,7 +22034,7 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <location filename="../../../scribus/stylemanager.cpp" line="164"/>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Golygu</translation>
     </message>
     <message>
         <location filename="../../../scribus/stylemanager.cpp" line="594"/>
@@ -22083,7 +22086,7 @@ Consider using the Preflight Verifier to correct them</source>
         <location filename="../../../scribus/stylemanager.ui" line="176"/>
         <location filename="../../../scribus/stylemanager.ui" line="344"/>
         <source>Alt+D</source>
-        <translation type="unfinished"/>
+        <translation>Alt+D</translation>
     </message>
     <message>
         <location filename="../../../scribus/stylemanager.ui" line="275"/>
@@ -22098,7 +22101,7 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <location filename="../../../scribus/stylemanager.ui" line="366"/>
         <source>Alt+A</source>
-        <translation type="unfinished"/>
+        <translation>Alt+D</translation>
     </message>
     <message>
         <location filename="../../../scribus/stylemanager.ui" line="388"/>
@@ -22224,7 +22227,7 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <location filename="../../../scribus/plugins/gettext/sxwim/sxwdia.cpp" line="61"/>
         <source>Do not ask again</source>
-        <translation type="unfinished"/>
+        <translation>Peidio a gofyn eto </translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/gettext/sxwim/sxwdia.cpp" line="63"/>
@@ -22260,7 +22263,7 @@ Consider using the Preflight Verifier to correct them</source>
         <location filename="../../../scribus/tocindexprefs.ui" line="71"/>
         <location filename="../../../scribus/tocindexprefs.cpp" line="94"/>
         <source>Alt+A</source>
-        <translation type="unfinished"/>
+        <translation>Alt+D</translation>
     </message>
     <message>
         <location filename="../../../scribus/tocindexprefs.ui" line="78"/>
@@ -22272,7 +22275,7 @@ Consider using the Preflight Verifier to correct them</source>
         <location filename="../../../scribus/tocindexprefs.ui" line="81"/>
         <location filename="../../../scribus/tocindexprefs.cpp" line="96"/>
         <source>Alt+D</source>
-        <translation type="unfinished"/>
+        <translation>Alt+D</translation>
     </message>
     <message>
         <location filename="../../../scribus/tocindexprefs.ui" line="108"/>
@@ -22610,7 +22613,7 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <location filename="../../../scribus/tabdisplay.ui" line="90"/>
         <source>Show Layer Indicators</source>
-        <translation type="unfinished"/>
+        <translation>Dangos Haen Dangosyddion</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabdisplay.ui" line="80"/>
@@ -22625,7 +22628,7 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <location filename="../../../scribus/tabdisplay.ui" line="63"/>
         <source>Rulers Relative to Page</source>
-        <translation type="unfinished"/>
+        <translation>Riwleri Perthnasol i&apos;r Tudalen</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabdisplay.ui" line="56"/>
@@ -23289,7 +23292,7 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <location filename="../../../scribus/tabgeneral.ui" line="381"/>
         <source>Alt+A</source>
-        <translation type="unfinished"/>
+        <translation>Alt+D</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabgeneral.cpp" line="60"/>
@@ -23639,7 +23642,7 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <location filename="../../../scribus/tabkeyboardshortcutswidget.ui" line="199"/>
         <source>Alt+E</source>
-        <translation type="unfinished"/>
+        <translation>Alt+E</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabkeyboardshortcutswidget.ui" line="206"/>
@@ -23769,7 +23772,7 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="261"/>
         <source>&amp;All Pages</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Oll Tudalennau</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="266"/>
@@ -24075,7 +24078,7 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="545"/>
         <source>E&amp;xtras</source>
-        <translation type="unfinished"/>
+        <translation>Y&amp;chwanegiadau</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="551"/>
@@ -24596,7 +24599,7 @@ when PDF document is opened:</source>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="2083"/>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="2091"/>
         <source>Page</source>
-        <translation type="unfinished"/>
+        <translation>Tudalen</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="447"/>
@@ -24646,7 +24649,7 @@ when PDF document is opened:</source>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="812"/>
         <source>Offset:</source>
-        <translation type="unfinished"/>
+        <translation>Atred:</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="822"/>
@@ -24961,7 +24964,7 @@ when PDF document is opened:</source>
     <message>
         <location filename="../../../scribus/tabprinter.ui" line="57"/>
         <source>Page</source>
-        <translation type="unfinished"/>
+        <translation>Tudalen</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabprinter.ui" line="69"/>
@@ -25086,7 +25089,7 @@ when PDF document is opened:</source>
     <message>
         <location filename="../../../scribus/tabprinter.ui" line="325"/>
         <source>Offset:</source>
-        <translation type="unfinished"/>
+        <translation>Atred:</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabprinter.ui" line="335"/>
@@ -25327,7 +25330,7 @@ when PDF document is opened:</source>
     <message>
         <location filename="../../../scribus/tabtools.cpp" line="285"/>
         <source>Lines</source>
-        <translation type="unfinished"/>
+        <translation>Llinellau</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabtools.cpp" line="306"/>
@@ -25996,7 +25999,7 @@ when PDF document is opened:</source>
     <message>
         <location filename="../../../scribus/plugins/tools/transform/transformdialog.cpp" line="119"/>
         <source>Skew</source>
-        <translation type="unfinished"/>
+        <translation>Sgiw</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/transform/transformdialog.cpp" line="122"/>
@@ -26077,7 +26080,7 @@ when PDF document is opened:</source>
     <message>
         <location filename="../../../scribus/plugins/tools/transform/transformdialogbase.ui" line="345"/>
         <source>Skew</source>
-        <translation type="unfinished"/>
+        <translation>Sgiw</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/transform/transformdialogbase.ui" line="426"/>
@@ -26178,7 +26181,7 @@ when PDF document is opened:</source>
     <message>
         <location filename="../../../scribus/undomanager.cpp" line="833"/>
         <source>Move</source>
-        <translation type="unfinished"/>
+        <translation>Symud</translation>
     </message>
     <message>
         <location filename="../../../scribus/undomanager.cpp" line="834"/>
@@ -26359,12 +26362,12 @@ to %2</source>
     <message>
         <location filename="../../../scribus/undomanager.cpp" line="869"/>
         <source>Paste</source>
-        <translation type="unfinished"/>
+        <translation>Past</translation>
     </message>
     <message>
         <location filename="../../../scribus/undomanager.cpp" line="870"/>
         <source>Cut</source>
-        <translation type="unfinished"/>
+        <translation>Toriad</translation>
     </message>
     <message>
         <location filename="../../../scribus/undomanager.cpp" line="871"/>
@@ -26872,7 +26875,7 @@ to %2</source>
     <message>
         <location filename="../../../scribus/undomanager.cpp" line="968"/>
         <source>Copy</source>
-        <translation type="unfinished"/>
+        <translation>Copi</translation>
     </message>
     <message>
         <location filename="../../../scribus/undomanager.cpp" line="970"/>
@@ -27086,7 +27089,7 @@ Error:%2 at line: %3, row: %4</source>
     <message>
         <location filename="../../../scribus/urllauncher.cpp" line="77"/>
         <source>External Web Browser Failed to Start</source>
-        <translation type="unfinished"/>
+        <translation>Methwyd cychwyn yr Allanol Porwr Gwe</translation>
     </message>
     <message>
         <location filename="../../../scribus/urllauncher.cpp" line="77"/>
@@ -27100,12 +27103,12 @@ Would you like to start the system&apos;s default browser instead?</source>
     <message>
         <location filename="../../../scribus/useprintermarginsdialog.cpp" line="44"/>
         <source>Minimum Margins for Page Size %1</source>
-        <translation type="unfinished"/>
+        <translation>Isafswm Ymylon i&apos;r Tudalen maint %1</translation>
     </message>
     <message>
         <location filename="../../../scribus/useprintermarginsdialog.ui" line="13"/>
         <source>Use Printer Margins</source>
-        <translation type="unfinished"/>
+        <translation>Iws Printar Ymylon</translation>
     </message>
     <message>
         <location filename="../../../scribus/useprintermarginsdialog.ui" line="21"/>
@@ -27187,12 +27190,12 @@ converting their vector data into Scribus objects.</source>
     <message>
         <location filename="../../../scribus/plugins/import/wmf/wmfimportplugin.cpp" line="182"/>
         <source>The file could not be imported</source>
-        <translation type="unfinished"/>
+        <translation>Ni all y ffeil yma ei mewnforio</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/wmf/wmfimportplugin.cpp" line="184"/>
         <source>WMF file contains some unsupported features</source>
-        <translation type="unfinished"/>
+        <translation>WMF ffeil yn cynwys rhai nodweddion digefnogaeth</translation>
     </message>
 </context>
 <context>
@@ -27244,17 +27247,17 @@ converting their vector data into Scribus objects.</source>
     <message>
         <location filename="../../../scribus/gtfiledialog.ui" line="22"/>
         <source>&amp;Importer:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Mewnforiwr</translation>
     </message>
     <message>
         <location filename="../../../scribus/gtfiledialog.ui" line="35"/>
         <source>Import &amp;Text Only</source>
-        <translation type="unfinished"/>
+        <translation>Mewnforio &amp;Testun yn unig</translation>
     </message>
     <message>
         <location filename="../../../scribus/gtfiledialog.ui" line="42"/>
         <source>&amp;Encoding:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Amgodio:</translation>
     </message>
 </context>
 <context>
@@ -27269,7 +27272,7 @@ converting their vector data into Scribus objects.</source>
     <message>
         <location filename="../../../scribus/gtdialogs.cpp" line="79"/>
         <source>Remember association</source>
-        <translation type="unfinished"/>
+        <translation>Cofio cydgysylltiad</translation>
     </message>
     <message>
         <location filename="../../../scribus/gtdialogs.cpp" line="81"/>
@@ -27359,7 +27362,7 @@ A value of 0 means unlimited hyphenations.</source>
         <location filename="../../../scribus/hysettingsBase.ui" line="206"/>
         <location filename="../../../scribus/hysettingsBase.ui" line="271"/>
         <source>Edit</source>
-        <translation type="unfinished"/>
+        <translation>Golygu</translation>
     </message>
     <message>
         <location filename="../../../scribus/hysettingsBase.ui" line="242"/>
@@ -27803,7 +27806,7 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../../scribus/selectobjects.ui" line="142"/>
         <source>Render Frame</source>
-        <translation type="unfinished"/>
+        <translation>Rendro Dfrâm</translation>
     </message>
     <message>
         <location filename="../../../scribus/selectobjects.ui" line="153"/>
@@ -27918,22 +27921,22 @@ A value of 0 means unlimited hyphenations.</source>
         <location filename="../../../scribus/selectobjects.ui" line="19"/>
         <location filename="../../../scribus/selectobjects.ui" line="34"/>
         <source>Select All Items</source>
-        <translation type="unfinished"/>
+        <translation>Dethol Holl Eitemau</translation>
     </message>
     <message>
         <location filename="../../../scribus/selectobjects.ui" line="49"/>
         <source>on Current Page</source>
-        <translation type="unfinished"/>
+        <translation>ar Cyfredol Tudalen</translation>
     </message>
     <message>
         <location filename="../../../scribus/selectobjects.ui" line="62"/>
         <source>on Current Layer</source>
-        <translation type="unfinished"/>
+        <translation>ar Cyfredol Haen</translation>
     </message>
     <message>
         <location filename="../../../scribus/selectobjects.ui" line="72"/>
         <source>on the Scratch Space</source>
-        <translation type="unfinished"/>
+        <translation>Ar y Crafad Bwlch</translation>
     </message>
 </context>
 <context>
@@ -27956,18 +27959,18 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../../scribus/plugins/gettext/textfilter/tfdia.cpp" line="87"/>
         <source>Choose a previously saved filter</source>
-        <translation type="unfinished"/>
+        <translation> Dewis y flaenorol arbediad ffilter</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/gettext/textfilter/tfdia.cpp" line="138"/>
         <location filename="../../../scribus/plugins/gettext/textfilter/tfdia.cpp" line="271"/>
         <source>Give a name to this filter for saving</source>
-        <translation type="unfinished"/>
+        <translation>Rhoi enw i&apos;r  ffilter yma cyn arbediad</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/gettext/textfilter/tfdia.cpp" line="142"/>
         <source>Give a name for saving</source>
-        <translation type="unfinished"/>
+        <translation>Rhoi enw am arbediad</translation>
     </message>
 </context>
 <context>
@@ -27975,7 +27978,7 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../../scribus/plugins/gettext/textfilter/tffilter.cpp" line="110"/>
         <source>Disable or enable this filter row</source>
-        <translation type="unfinished"/>
+        <translation>Anablu neu galluogi  ffilter rhes hon</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/gettext/textfilter/tffilter.cpp" line="136"/>
