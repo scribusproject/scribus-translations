@@ -437,7 +437,7 @@
     </message>
     <message>
         <source>Si&amp;ze is Locked</source>
-        <translation type="unfinished"/>
+        <translation>Si&amp;ze ar Glo</translation>
     </message>
     <message>
         <source>Lower to &amp;Bottom</source>
@@ -825,7 +825,7 @@
     </message>
     <message>
         <source>Dehyphenate Text</source>
-        <translation type="unfinished"/>
+        <translation>Di cysylltnodi Testun</translation>
     </message>
     <message>
         <source>Manage Page Properties...</source>
@@ -878,19 +878,19 @@
     </message>
     <message>
         <source>Solidus</source>
-        <translation type="unfinished"/>
+        <translation>Solidus</translation>
     </message>
     <message>
         <source>Middle Dot</source>
-        <translation type="unfinished"/>
+        <translation>Dot Canol </translation>
     </message>
     <message>
         <source>En Space</source>
-        <translation type="unfinished"/>
+        <translation>En Gofod</translation>
     </message>
     <message>
         <source>Em Space</source>
-        <translation type="unfinished"/>
+        <translation>Em Gofod</translation>
     </message>
     <message>
         <source>Thin Space</source>
@@ -938,7 +938,7 @@
     </message>
     <message>
         <source>S&amp;tyles...</source>
-        <translation>A&amp;rddull</translation>
+        <translation>A&amp;rddull...</translation>
     </message>
     <message>
         <source>&amp;Outline</source>
@@ -1045,22 +1045,22 @@
     <message>
         <source>Single Left Guillemet</source>
         <comment>Unicode 0x2039</comment>
-        <translation type="unfinished"/>
+        <translation>Sengl Chwith Guillemet</translation>
     </message>
     <message>
         <source>Single Right Guillemet</source>
         <comment>Unicode 0x203A</comment>
-        <translation type="unfinished"/>
+        <translation>Sengl Dde Guillemet</translation>
     </message>
     <message>
         <source>Double Left Guillemet</source>
         <comment>Unicode 0x00AB</comment>
-        <translation type="unfinished"/>
+        <translation>Dwbl Chwith Guillemet</translation>
     </message>
     <message>
         <source>Double Right Guillemet</source>
         <comment>Unicode 0x00BB</comment>
-        <translation type="unfinished"/>
+        <translation>Dwbl Dde Guillemet</translation>
     </message>
     <message>
         <source>Low Single Comma</source>
@@ -1126,7 +1126,7 @@
     </message>
     <message>
         <source>Insert Unicode Character Begin Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Mewnosod Uncorn Cymeriad Dechrau Dilyniant</translation>
     </message>
     <message>
         <source>Get Vector File...</source>
@@ -1310,27 +1310,27 @@
     </message>
     <message>
         <source>Adjust Frame to Table</source>
-        <translation type="unfinished"/>
+        <translation>Addasu Ffram i&apos;r Tabl </translation>
     </message>
     <message>
         <source>Adjust Table to Frame</source>
-        <translation type="unfinished"/>
+        <translation>Addasu Tabl i&apos;r Ffram </translation>
     </message>
     <message>
         <source>&amp;Frames...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ffrâmiau...</translation>
     </message>
     <message>
         <source>Unlink Text Frame with Text Copy</source>
-        <translation type="unfinished"/>
+        <translation>Dadgysylltu Testun gyda Testun Copi</translation>
     </message>
     <message>
         <source>Unlink Text Frame with Text Cut</source>
-        <translation type="unfinished"/>
+        <translation>Dadgysylltu Testun gyda Testun Toriad</translation>
     </message>
     <message>
         <source>Adjust Frame Height to Text</source>
-        <translation type="unfinished"/>
+        <translation>addasu Ffram Uchder i&apos;r Testun</translation>
     </message>
     <message>
         <source>Marks...</source>
@@ -1406,7 +1406,7 @@
     </message>
     <message>
         <source>Test Qt Quick</source>
-        <translation type="unfinished"/>
+        <translation>Prawf Ansawdd Cyflym</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -1430,47 +1430,47 @@
     </message>
     <message>
         <source>Close the current document</source>
-        <translation type="unfinished"/>
+        <translation>Cau y ddogfen cyfredol </translation>
     </message>
     <message>
         <source>Export the document to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Allforio y ddogfen i PDF</translation>
     </message>
     <message>
         <source>Create a new document</source>
-        <translation type="unfinished"/>
+        <translation>Creu ddogfen newydd</translation>
     </message>
     <message>
         <source>Open an existing document</source>
-        <translation type="unfinished"/>
+        <translation>Agor un ddogfen sydd yn bodoli</translation>
     </message>
     <message>
         <source>Print the document</source>
-        <translation type="unfinished"/>
+        <translation>Print y ddogfen</translation>
     </message>
     <message>
         <source>Save the current document</source>
-        <translation type="unfinished"/>
+        <translation>Arbed y ddogfen cyfredol</translation>
     </message>
     <message>
         <source>Copy item properties</source>
-        <translation type="unfinished"/>
+        <translation>Copio eitem priodweddau</translation>
     </message>
     <message>
         <source>Edit contents of a frame</source>
-        <translation type="unfinished"/>
+        <translation>Golygu cynnwys y ffram</translation>
     </message>
     <message>
         <source>Edit text in the Story Editor</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Golygu testun yn y Story Editor</translation>
     </message>
     <message>
         <source>Eye Dropper</source>
-        <translation type="unfinished"/>
+        <translation>Llygaid Diferydd</translation>
     </message>
     <message>
         <source>Insert an arc</source>
-        <translation type="unfinished"/>
+        <translation>Rhoi mewn arc</translation>
     </message>
     <message>
         <source>Insert a bezier curve</source>
@@ -1518,11 +1518,11 @@
     </message>
     <message>
         <source>Link text frames</source>
-        <translation type="unfinished"/>
+        <translation>Cysylltu testun ir&apos; fframiau</translation>
     </message>
     <message>
         <source>Measurements</source>
-        <translation type="unfinished"/>
+        <translation>Mesuriadau</translation>
     </message>
     <message>
         <source>Insert link annotation</source>
@@ -1562,15 +1562,15 @@
     </message>
     <message>
         <source>Rotate an item</source>
-        <translation type="unfinished"/>
+        <translation>Cylchdroi yr eitem</translation>
     </message>
     <message>
         <source>Select an item</source>
-        <translation type="unfinished"/>
+        <translation>Dewis yr eitem</translation>
     </message>
     <message>
         <source>Unlink text frames</source>
-        <translation type="unfinished"/>
+        <translation>Dadcysylltu testun fframiau</translation>
     </message>
     <message>
         <source>Insert 3D annotation</source>
@@ -1578,35 +1578,35 @@
     </message>
     <message>
         <source>Unweld Items</source>
-        <translation type="unfinished"/>
+        <translation>Dadweldio Eitemau</translation>
     </message>
     <message>
         <source>Weld Items</source>
-        <translation type="unfinished"/>
+        <translation>Weldio Eitemau</translation>
     </message>
     <message>
         <source>T&amp;runcate</source>
-        <translation type="unfinished"/>
+        <translation>B&amp;laendorri</translation>
     </message>
     <message>
         <source>Edit in Preview Mode</source>
-        <translation type="unfinished"/>
+        <translation>Golygu yn Mod Rhagolwg</translation>
     </message>
     <message>
         <source>Toggle Color Management System</source>
-        <translation type="unfinished"/>
+        <translation>Togl Lliw System Rheolaeth</translation>
     </message>
     <message>
         <source>&amp;View Tools</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Golygfa Offer</translation>
     </message>
     <message>
         <source>&amp;Render Frame</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Rendro Ffram</translation>
     </message>
     <message>
         <source>T&amp;able</source>
-        <translation type="unfinished"/>
+        <translation>T&amp;abl</translation>
     </message>
     <message>
         <source>&amp;Shape</source>
@@ -1614,11 +1614,11 @@
     </message>
     <message>
         <source>Arc</source>
-        <translation type="unfinished"/>
+        <translation>Arc</translation>
     </message>
     <message>
         <source>Spiral</source>
-        <translation type="unfinished"/>
+        <translation>Sbiral</translation>
     </message>
     <message>
         <source>&amp;Line</source>
@@ -1626,27 +1626,27 @@
     </message>
     <message>
         <source>Calligraphic Line</source>
-        <translation type="unfinished"/>
+        <translation>Llinell Ceinysgrifol </translation>
     </message>
     <message>
         <source>&amp;Freehand Line</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Llinell Llawrydd</translation>
     </message>
     <message>
         <source>PDF Push Button</source>
-        <translation type="unfinished"/>
+        <translation>Botwm Gwthio PDF</translation>
     </message>
     <message>
         <source>PDF Radio Button</source>
-        <translation type="unfinished"/>
+        <translation>Botwm Radio PDF</translation>
     </message>
     <message>
         <source>PDF Text Field</source>
-        <translation type="unfinished"/>
+        <translation>PDF Maes Testun </translation>
     </message>
     <message>
         <source>PDF Check Box</source>
-        <translation type="unfinished"/>
+        <translation>PDF Bocs Arolwg</translation>
     </message>
     <message>
         <source>PDF Combo Box</source>
@@ -1654,31 +1654,31 @@
     </message>
     <message>
         <source>PDF List Box</source>
-        <translation type="unfinished"/>
+        <translation>Bocs Rhestr PDF</translation>
     </message>
     <message>
         <source>Text Annotation</source>
-        <translation type="unfinished"/>
+        <translation>Testun Anodiad</translation>
     </message>
     <message>
         <source>Link Annotation</source>
-        <translation type="unfinished"/>
+        <translation>Cystllitad Anodiad</translation>
     </message>
     <message>
         <source>3D Annotation</source>
-        <translation type="unfinished"/>
+        <translation>Anodiad 3D</translation>
     </message>
     <message>
         <source>Edit text in story editor</source>
-        <translation type="unfinished"/>
+        <translation>Golygu testun yn story editor</translation>
     </message>
     <message>
         <source>Enable preview mode</source>
-        <translation type="unfinished"/>
+        <translation>Galluogi preview mod</translation>
     </message>
     <message>
         <source>Enable editing in preview mode</source>
-        <translation type="unfinished"/>
+        <translation>Galluogi golygu yn rhagolwg modd</translation>
     </message>
     <message>
         <source>Toggle color management system</source>
@@ -1690,37 +1690,37 @@
     </message>
     <message>
         <source>&amp;Downloads</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Lawrlwytho</translation>
     </message>
     <message>
         <source>&amp;Resources</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Adnoddau</translation>
     </message>
 </context>
 <context>
     <name>AdjustCmsDialog</name>
     <message>
         <source>CMS Settings</source>
-        <translation type="unfinished"/>
+        <translation>CMS Gosodiadau</translation>
     </message>
 </context>
 <context>
     <name>AlignDistribute</name>
     <message>
         <source>Align</source>
-        <translation type="unfinished"/>
+        <translation>Alinio</translation>
     </message>
     <message>
         <source>&amp;Selected Guide:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dewis Canllaw:</translation>
     </message>
     <message>
         <source>&amp;Relative To:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Perthynol I:</translation>
     </message>
     <message>
         <source>&amp;Align Sides By:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Alinio Ochrau Gan:</translation>
     </message>
     <message>
         <source>...</source>
@@ -1728,42 +1728,42 @@
     </message>
     <message>
         <source>Distribute</source>
-        <translation type="unfinished"/>
+        <translation>Dosbarthu</translation>
     </message>
     <message>
         <source>&amp;Distance:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Pellter:</translation>
     </message>
     <message>
         <source>Reverse Distribution</source>
-        <translation type="unfinished"/>
+        <translation>Gwrthwyneb Dosbarthu</translation>
     </message>
     <message>
         <source>Swap</source>
-        <translation type="unfinished"/>
+        <translation>Cyfnewid</translation>
     </message>
     <message>
         <source>DockWidget</source>
-        <translation type="unfinished"/>
+        <translation>DockWidget</translation>
     </message>
 </context>
 <context>
     <name>AlignDistributePalette</name>
     <message>
         <source>Align and Distribute</source>
-        <translation type="unfinished"/>
+        <translation>Ymochri a Dosbarthu</translation>
     </message>
     <message>
         <source>&amp;Relative to:</source>
-        <translation type="unfinished"/>
+        <translation>Perthynol a:</translation>
     </message>
     <message>
         <source>First Selected</source>
-        <translation type="unfinished"/>
+        <translation>Cyntaf Dewiswyd</translation>
     </message>
     <message>
         <source>Last Selected</source>
-        <translation type="unfinished"/>
+        <translation>Dewiswyd Olaf</translation>
     </message>
     <message>
         <source>Page</source>
@@ -1775,35 +1775,35 @@
     </message>
     <message>
         <source>Selection</source>
-        <translation type="unfinished"/>
+        <translation>Dewis</translation>
     </message>
     <message>
         <source>&amp;Align Sides By:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Alinio Ochrau Gan:</translation>
     </message>
     <message>
         <source>Align bottoms</source>
-        <translation type="unfinished"/>
+        <translation>Alinio gweulodion</translation>
     </message>
     <message>
         <source>Align right sides</source>
-        <translation type="unfinished"/>
+        <translation>Alinio ochrau dde</translation>
     </message>
     <message>
         <source>Center on vertical axis</source>
-        <translation type="unfinished"/>
+        <translation>Canoli ar y fertigol echel</translation>
     </message>
     <message>
         <source>Align left sides</source>
-        <translation type="unfinished"/>
+        <translation>Alinio ochrau chwith</translation>
     </message>
     <message>
         <source>Center on horizontal axis</source>
-        <translation type="unfinished"/>
+        <translation>Canoli ar y llorweddol echel</translation>
     </message>
     <message>
         <source>Align tops</source>
-        <translation type="unfinished"/>
+        <translation>Alinio topiau</translation>
     </message>
     <message>
         <source>Distribute left sides equidistantly</source>
@@ -1831,15 +1831,15 @@
     </message>
     <message>
         <source>Guide</source>
-        <translation type="unfinished"/>
+        <translation>Canllaw</translation>
     </message>
     <message>
         <source>&amp;Selected Guide:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dewis Canllaw:</translation>
     </message>
     <message>
         <source>&amp;Distance:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Pellter:</translation>
     </message>
     <message>
         <source>Distribute the items with the distance specified</source>
@@ -1919,11 +1919,11 @@
     </message>
     <message>
         <source>Align</source>
-        <translation type="unfinished"/>
+        <translation>Alinio</translation>
     </message>
     <message>
         <source>Distribute</source>
-        <translation type="unfinished"/>
+        <translation>Dosbarthu</translation>
     </message>
     <message>
         <source>&lt;qt&gt;Align relative to the:&lt;ul&gt;&lt;li&gt;First selected item&lt;/li&gt;&lt;li&gt;Second Selected Item&lt;/li&gt;&lt;li&gt;The current page&lt;/li&gt;&lt;li&gt;The margins of the current page&lt;/li&gt;&lt;li&gt;A Guide&lt;/li&gt;&lt;li&gt;The selection&lt;/ul&gt;&lt;/qt&gt;</source>
@@ -1939,7 +1939,7 @@
     </message>
     <message>
         <source>Resize</source>
-        <translation type="unfinished"/>
+        <translation>Ailfeintio</translation>
     </message>
     <message>
         <source>&lt;qt&gt;When aligning one side of an item do one of the following:&lt;ul&gt;&lt;li&gt;Always move the other side too (preserve existing width and height)&lt;/li&gt;&lt;li&gt;Keep the other side fixed (resize the item instead of moving it) whenever possible&lt;/li&gt;&lt;/ul&gt;&lt;/qt&gt;</source>
@@ -2077,7 +2077,7 @@
     </message>
     <message>
         <source>Annotation is Open</source>
-        <translation type="unfinished"/>
+        <translation>Mae Anodiad yn Agor</translation>
     </message>
 </context>
 <context>
@@ -2240,11 +2240,11 @@
     </message>
     <message>
         <source>&amp;Add Word</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ategu Gair</translation>
     </message>
     <message>
         <source>&amp;Change</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Newid</translation>
     </message>
     <message>
         <source>Not in Dictionary:</source>
@@ -2268,7 +2268,7 @@
     </message>
     <message>
         <source>&amp;Ignore</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Anwybyddu</translation>
     </message>
     <message>
         <source>Ignore all occurrences of the current text not found in the active dictionary</source>
@@ -2276,7 +2276,7 @@
     </message>
     <message>
         <source>I&amp;gnore All</source>
-        <translation type="unfinished"/>
+        <translation>A&amp;nwybyddu y Cyfan</translation>
     </message>
     <message>
         <source>Add the current word to the your personal spelling dictionary for future use</source>
@@ -2292,7 +2292,7 @@
     </message>
     <message>
         <source>Change A&amp;ll</source>
-        <translation type="unfinished"/>
+        <translation>Newid y C&amp;yfan</translation>
     </message>
     <message>
         <source>Close</source>
@@ -2303,11 +2303,11 @@
     <name>AspellPluginImpl</name>
     <message>
         <source>Loaded </source>
-        <translation type="unfinished"/>
+        <translation>Llwythog</translation>
     </message>
     <message>
         <source>default </source>
-        <translation type="unfinished"/>
+        <translation>rhagosodiad</translation>
     </message>
     <message>
         <source>AspellPluginImpl::on_fskipAllBtn_clicked(): Unable to skip all instances of &quot;</source>
@@ -2359,15 +2359,15 @@ Configuration invalid</source>
     <name>AutoformButtonGroup</name>
     <message>
         <source>Arrows</source>
-        <translation type="unfinished"/>
+        <translation>Saethau</translation>
     </message>
     <message>
         <source>Flow Chart</source>
-        <translation type="unfinished"/>
+        <translation>Siart Rediad</translation>
     </message>
     <message>
         <source>Jigsaw</source>
-        <translation type="unfinished"/>
+        <translation>Herclif</translation>
     </message>
     <message>
         <source>Specials</source>
@@ -3697,7 +3697,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Arrows</source>
-        <translation type="unfinished"/>
+        <translation>Saethau</translation>
     </message>
     <message>
         <source>Mathematical Operators</source>
@@ -4619,15 +4619,15 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>PDF Push Button</source>
-        <translation type="unfinished"/>
+        <translation>Botwm Gwthio PDF</translation>
     </message>
     <message>
         <source>PDF Text Field</source>
-        <translation type="unfinished"/>
+        <translation>PDF Maes Testun </translation>
     </message>
     <message>
         <source>PDF Check Box</source>
-        <translation type="unfinished"/>
+        <translation>PDF Bocs Arolwg</translation>
     </message>
     <message>
         <source>PDF Combo Box</source>
@@ -4635,7 +4635,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>PDF List Box</source>
-        <translation type="unfinished"/>
+        <translation>Bocs Rhestr PDF</translation>
     </message>
     <message>
         <source>PDF Text Annotation</source>
@@ -4687,11 +4687,11 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Arc</source>
-        <translation type="unfinished"/>
+        <translation>Arc</translation>
     </message>
     <message>
         <source>Spiral</source>
-        <translation type="unfinished"/>
+        <translation>Sbiral</translation>
     </message>
     <message>
         <source>Table</source>
@@ -4707,7 +4707,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>PDF Radio Button</source>
-        <translation type="unfinished"/>
+        <translation>Botwm Radio PDF</translation>
     </message>
     <message>
         <source>Button</source>
@@ -11219,11 +11219,11 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Arc</source>
-        <translation type="unfinished"/>
+        <translation>Arc</translation>
     </message>
     <message>
         <source>Spiral</source>
-        <translation type="unfinished"/>
+        <translation>Sbiral</translation>
     </message>
     <message>
         <source>Table</source>
@@ -15539,11 +15539,11 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Arc</source>
-        <translation type="unfinished"/>
+        <translation>Arc</translation>
     </message>
     <message>
         <source>Spiral</source>
-        <translation type="unfinished"/>
+        <translation>Sbiral</translation>
     </message>
 </context>
 <context>
@@ -17991,7 +17991,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>T&amp;able</source>
-        <translation type="unfinished"/>
+        <translation>T&amp;abl</translation>
     </message>
     <message>
         <source>Drop Shadow</source>
@@ -29308,7 +29308,7 @@ when PDF document is opened:</source>
     </message>
     <message>
         <source>Resize</source>
-        <translation type="unfinished"/>
+        <translation>Ailfeintio</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -29326,7 +29326,7 @@ W2: %3, H2: %4</source>
     </message>
     <message>
         <source>Selection</source>
-        <translation type="unfinished"/>
+        <translation>Dewis</translation>
     </message>
     <message>
         <source>Group</source>
@@ -30132,7 +30132,7 @@ X: %4, Y: %5</source>
     </message>
     <message>
         <source>Weld Items</source>
-        <translation type="unfinished"/>
+        <translation>Weldio Eitemau</translation>
     </message>
     <message>
         <source>Rename Master Page</source>
@@ -30180,7 +30180,7 @@ X: %4, Y: %5</source>
     </message>
     <message>
         <source>Unweld Items</source>
-        <translation type="unfinished"/>
+        <translation>Dadweldio Eitemau</translation>
     </message>
 </context>
 <context>

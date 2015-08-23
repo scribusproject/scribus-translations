@@ -1072,7 +1072,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1487"/>
         <source>Dehyphenate Text</source>
-        <translation type="unfinished"/>
+        <translation>Di cysylltnodi Testun</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1488"/>
@@ -1167,7 +1167,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1531"/>
         <source>Solidus</source>
-        <translation type="unfinished"/>
+        <translation>Solidus</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1532"/>
@@ -1177,7 +1177,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1533"/>
         <source>Middle Dot</source>
-        <translation type="unfinished"/>
+        <translation>Dot Canol </translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1534"/>
@@ -1202,12 +1202,12 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1558"/>
         <source>En Space</source>
-        <translation type="unfinished"/>
+        <translation>En Gofod</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1559"/>
         <source>Em Space</source>
-        <translation type="unfinished"/>
+        <translation>Em Gofod</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1560"/>
@@ -1272,7 +1272,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1395"/>
         <source>&amp;Frames...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ffrâmiau...</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1412"/>
@@ -1356,25 +1356,25 @@
         <location filename="../../../scribus/actionmanager.cpp" line="1547"/>
         <source>Single Left Guillemet</source>
         <comment>Unicode 0x2039</comment>
-        <translation type="unfinished"/>
+        <translation>Sengl Chwith Guillemet</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1548"/>
         <source>Single Right Guillemet</source>
         <comment>Unicode 0x203A</comment>
-        <translation type="unfinished"/>
+        <translation>Sengl Dde Guillemet</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1549"/>
         <source>Double Left Guillemet</source>
         <comment>Unicode 0x00AB</comment>
-        <translation type="unfinished"/>
+        <translation>Dwbl Chwith Guillemet</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1550"/>
         <source>Double Right Guillemet</source>
         <comment>Unicode 0x00BB</comment>
-        <translation type="unfinished"/>
+        <translation>Dwbl Dde Guillemet</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1551"/>
@@ -1495,7 +1495,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1510"/>
         <source>Insert Unicode Character Begin Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Mewnosod Uncorn Cymeriad Dechrau Dilyniant</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1280"/>
@@ -1673,7 +1673,7 @@
     <message>
         <location filename="../../../scribus/adjustcmsdialog.cpp" line="16"/>
         <source>CMS Settings</source>
-        <translation type="unfinished"/>
+        <translation>CMS Gosodiadau</translation>
     </message>
 </context>
 <context>
@@ -1681,22 +1681,22 @@
     <message>
         <location filename="../../../scribus/aligndistribute.ui" line="36"/>
         <source>Align</source>
-        <translation type="unfinished"/>
+        <translation>Alinio</translation>
     </message>
     <message>
         <location filename="../../../scribus/aligndistribute.ui" line="65"/>
         <source>&amp;Selected Guide:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dewis Canllaw:</translation>
     </message>
     <message>
         <location filename="../../../scribus/aligndistribute.ui" line="78"/>
         <source>&amp;Relative To:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Perthynol I:</translation>
     </message>
     <message>
         <location filename="../../../scribus/aligndistribute.ui" line="97"/>
         <source>&amp;Align Sides By:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Alinio Ochrau Gan:</translation>
     </message>
     <message>
         <location filename="../../../scribus/aligndistribute.ui" line="153"/>
@@ -1731,17 +1731,17 @@
     <message>
         <location filename="../../../scribus/aligndistribute.ui" line="260"/>
         <source>Distribute</source>
-        <translation type="unfinished"/>
+        <translation>Dosbarthu</translation>
     </message>
     <message>
         <location filename="../../../scribus/aligndistribute.ui" line="450"/>
         <source>&amp;Distance:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Pellter:</translation>
     </message>
     <message>
         <location filename="../../../scribus/aligndistribute.ui" line="511"/>
         <source>Reverse Distribution</source>
-        <translation type="unfinished"/>
+        <translation>Gwrthwyneb Dosbarthu</translation>
     </message>
 </context>
 <context>
@@ -1749,22 +1749,22 @@
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="90"/>
         <source>Align and Distribute</source>
-        <translation type="unfinished"/>
+        <translation>Ymochri a Dosbarthu</translation>
     </message>
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="93"/>
         <source>&amp;Relative to:</source>
-        <translation type="unfinished"/>
+        <translation>Perthynol a:</translation>
     </message>
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="96"/>
         <source>First Selected</source>
-        <translation type="unfinished"/>
+        <translation>Cyntaf Dewiswyd</translation>
     </message>
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="97"/>
         <source>Last Selected</source>
-        <translation type="unfinished"/>
+        <translation>Dewiswyd Olaf</translation>
     </message>
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="98"/>
@@ -1779,17 +1779,17 @@
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="100"/>
         <source>Guide</source>
-        <translation type="unfinished"/>
+        <translation>Canllaw</translation>
     </message>
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="101"/>
         <source>Selection</source>
-        <translation type="unfinished"/>
+        <translation>Dewis</translation>
     </message>
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="105"/>
         <source>&amp;Align Sides By:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Alinio Ochrau Gan:</translation>
     </message>
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="108"/>
@@ -1809,12 +1809,12 @@
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="118"/>
         <source>Align bottoms</source>
-        <translation type="unfinished"/>
+        <translation>Alinio gweulodion</translation>
     </message>
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="120"/>
         <source>Align right sides</source>
-        <translation type="unfinished"/>
+        <translation>Alinio ochrau dde</translation>
     </message>
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="124"/>
@@ -1824,7 +1824,7 @@
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="126"/>
         <source>Align left sides</source>
-        <translation type="unfinished"/>
+        <translation>Alinio ochrau chwith</translation>
     </message>
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="128"/>
@@ -1834,12 +1834,12 @@
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="132"/>
         <source>Align tops</source>
-        <translation type="unfinished"/>
+        <translation>Alinio topiau</translation>
     </message>
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="134"/>
         <source>&amp;Selected Guide:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dewis Canllaw:</translation>
     </message>
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="142"/>
@@ -1874,7 +1874,7 @@
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="166"/>
         <source>&amp;Distance:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Pellter:</translation>
     </message>
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="167"/>
@@ -1964,12 +1964,12 @@
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="91"/>
         <source>Align</source>
-        <translation type="unfinished"/>
+        <translation>Alinio</translation>
     </message>
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="92"/>
         <source>Distribute</source>
-        <translation type="unfinished"/>
+        <translation>Dosbarthu</translation>
     </message>
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="103"/>
@@ -2965,12 +2965,12 @@
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginbase.ui" line="278"/>
         <source>&amp;Add Word</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ategu Gair</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginbase.ui" line="306"/>
         <source>&amp;Change</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Newid</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginbase.ui" line="45"/>
@@ -3005,7 +3005,7 @@
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginbase.ui" line="228"/>
         <source>&amp;Ignore</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Anwybyddu</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginbase.ui" line="247"/>
@@ -3015,7 +3015,7 @@
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginbase.ui" line="250"/>
         <source>I&amp;gnore All</source>
-        <translation type="unfinished"/>
+        <translation>A&amp;nwybyddu y Cyfan</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginbase.ui" line="275"/>
@@ -3035,7 +3035,7 @@
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginbase.ui" line="334"/>
         <source>Change A&amp;ll</source>
-        <translation type="unfinished"/>
+        <translation>Newid y C&amp;yfan</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginbase.ui" line="372"/>
@@ -3048,12 +3048,12 @@
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginimpl.cpp" line="39"/>
         <source>Loaded </source>
-        <translation type="unfinished"/>
+        <translation>Llwythog</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginimpl.cpp" line="39"/>
         <source>default </source>
-        <translation type="unfinished"/>
+        <translation>rhagosodiad</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginimpl.cpp" line="39"/>
@@ -3119,19 +3119,19 @@ Configuration invalid</source>
         <location filename="../../../scribus/autoformbuttongroup.cpp" line="36"/>
         <location filename="../../../scribus/autoformbuttongroup.cpp" line="1281"/>
         <source>Arrows</source>
-        <translation type="unfinished"/>
+        <translation>Saethau</translation>
     </message>
     <message>
         <location filename="../../../scribus/autoformbuttongroup.cpp" line="44"/>
         <location filename="../../../scribus/autoformbuttongroup.cpp" line="1282"/>
         <source>Flow Chart</source>
-        <translation type="unfinished"/>
+        <translation>Siart Rediad</translation>
     </message>
     <message>
         <location filename="../../../scribus/autoformbuttongroup.cpp" line="53"/>
         <location filename="../../../scribus/autoformbuttongroup.cpp" line="1283"/>
         <source>Jigsaw</source>
-        <translation type="unfinished"/>
+        <translation>Herclif</translation>
     </message>
     <message>
         <location filename="../../../scribus/autoformbuttongroup.cpp" line="66"/>
@@ -4454,7 +4454,7 @@ Height: %2</source>
     <message>
         <location filename="../../../scribus/charselectenhanced.cpp" line="267"/>
         <source>Arrows</source>
-        <translation type="unfinished"/>
+        <translation>Saethau</translation>
     </message>
     <message>
         <location filename="../../../scribus/charselectenhanced.cpp" line="273"/>
@@ -5451,17 +5451,17 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="276"/>
         <source>PDF Push Button</source>
-        <translation type="unfinished"/>
+        <translation>Botwm Gwthio PDF</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="277"/>
         <source>PDF Text Field</source>
-        <translation type="unfinished"/>
+        <translation>PDF Maes Testun </translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="278"/>
         <source>PDF Check Box</source>
-        <translation type="unfinished"/>
+        <translation>PDF Bocs Arolwg</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="279"/>
@@ -5471,7 +5471,7 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="280"/>
         <source>PDF List Box</source>
-        <translation type="unfinished"/>
+        <translation>Bocs Rhestr PDF</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="281"/>
@@ -26186,7 +26186,7 @@ when PDF document is opened:</source>
     <message>
         <location filename="../../../scribus/undomanager.cpp" line="834"/>
         <source>Resize</source>
-        <translation type="unfinished"/>
+        <translation>Ailfeintio</translation>
     </message>
     <message>
         <location filename="../../../scribus/undomanager.cpp" line="835"/>
@@ -26230,7 +26230,7 @@ X: %4, Y: %5</source>
     <message>
         <location filename="../../../scribus/undomanager.cpp" line="842"/>
         <source>Selection</source>
-        <translation type="unfinished"/>
+        <translation>Dewis</translation>
     </message>
     <message>
         <location filename="../../../scribus/undomanager.cpp" line="843"/>
