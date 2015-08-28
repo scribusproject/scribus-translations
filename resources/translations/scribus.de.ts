@@ -209,7 +209,7 @@
     </message>
     <message>
         <source>Enabled:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Aktiviert:</translation>
     </message>
     <message>
         <source>Release Date:</source>
@@ -444,7 +444,7 @@
     </message>
     <message>
         <source>Raize to &amp;Top</source>
-        <translation type="unfinished"/>
+        <translation>In den &amp;Vordergrund</translation>
     </message>
     <message>
         <source>&amp;Lower</source>
@@ -1461,7 +1461,7 @@
     </message>
     <message>
         <source>Edit text in the Story Editor</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Text im Story Editor bearbeiten</translation>
     </message>
     <message>
         <source>Eye Dropper</source>
@@ -2343,11 +2343,12 @@
     <message>
         <source>Spell Checker Plugin Failed to Initialize.
 Configuration invalid</source>
-        <translation type="unfinished"/>
+        <translation>Rechtschreibprüfung konnte nicht gestartet werden.
+Ungültige Konfiguration</translation>
     </message>
     <message>
         <source>Spell Checker Plugin Failed to Initialize.</source>
-        <translation type="unfinished"/>
+        <translation>Rechtschreibprüfung konnte nicht gestartet werden.</translation>
     </message>
     <message>
         <source>No Aspell dictionaries could be found.</source>
@@ -2684,7 +2685,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Minimum error checking; raized opportunistically if size of symbol is not increased</source>
-        <translation type="unfinished"/>
+        <translation>Minimale Fehlerprüfung; wird angezeigt, wenn das Smybol nicht vergrößert wird.</translation>
     </message>
 </context>
 <context>
@@ -3176,86 +3177,86 @@ Bitte geben Sie einen anderen ein.</translation>
     </message>
     <message>
         <source>Lab</source>
-        <translation type="unfinished"/>
+        <translation>Lab</translation>
     </message>
     <message>
         <source>HLC</source>
-        <translation type="unfinished"/>
+        <translation>HLC</translation>
     </message>
     <message>
         <source>L:</source>
-        <translation type="unfinished"/>
+        <translation>L:</translation>
     </message>
     <message>
         <source>a:</source>
-        <translation type="unfinished"/>
+        <translation>a:</translation>
     </message>
     <message>
         <source>b:</source>
-        <translation type="unfinished"/>
+        <translation>b:</translation>
     </message>
     <message>
         <source>H:</source>
-        <translation type="unfinished"/>
+        <translation>H:</translation>
     </message>
 </context>
 <context>
     <name>CMYKChooseBase</name>
     <message>
         <source>Edit Color</source>
-        <translation type="unfinished"/>
+        <translation>Farbe bearbeiten</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Name:</translation>
     </message>
     <message>
         <source>Color &amp;Model</source>
-        <translation type="unfinished"/>
+        <translation>Farb&amp;modell</translation>
     </message>
     <message>
         <source>Is Spot Color</source>
-        <translation type="unfinished"/>
+        <translation>Schmuckfarbe</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"/>
+        <translation>Neu</translation>
     </message>
     <message>
         <source>Old</source>
-        <translation type="unfinished"/>
+        <translation>Alt</translation>
     </message>
     <message>
         <source>C:</source>
-        <translation type="unfinished"/>
+        <translation>C:</translation>
     </message>
     <message>
         <source> %</source>
-        <translation type="unfinished"/>
+        <translation> %</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"/>
+        <translation>...</translation>
     </message>
     <message>
         <source>M:</source>
-        <translation type="unfinished"/>
+        <translation>M:</translation>
     </message>
     <message>
         <source>Y:</source>
-        <translation type="unfinished"/>
+        <translation>Y:</translation>
     </message>
     <message>
         <source>K:</source>
-        <translation type="unfinished"/>
+        <translation>K:</translation>
     </message>
 </context>
 <context>
@@ -3650,7 +3651,7 @@ Document Liberation Project http://www.documentliberation.org</translation>
     </message>
     <message>
         <source>Hide/Show Enhanced Palette</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Erweiterte Palette verbergen/anzeigen</translation>
     </message>
     <message>
         <source>Save Quick Character Palette</source>
@@ -3944,7 +3945,7 @@ Der &quot;Einfügen&quot;-Button fügt ein Zeichen in die Textauswahl ein. &quot
     </message>
     <message>
         <source>Annotation uses a non TrueType font</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Anmerkung enthält keine TrueType Schrift</translation>
     </message>
     <message>
         <source>Preflight profile to base the report generation on. Options can be set in Document Setup or Preferences</source>
@@ -3968,7 +3969,7 @@ Der &quot;Einfügen&quot;-Button fügt ein Zeichen in die Textauswahl ein. &quot
     </message>
     <message>
         <source>Print/Visible Mismatch</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Diskrepanz zwischen Druckbarkeit/Ausgabe und Sichtbarkeit</translation>
     </message>
     <message>
         <source>Master Pages</source>
@@ -4082,7 +4083,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Annotation uses a non-TrueType font</source>
-        <translation type="unfinished"/>
+        <translation>Anmerkung enthält keine TrueType Schrift</translation>
     </message>
     <message>
         <source>Annotations support only a standard set of fonts. Choose another one.</source>
@@ -5206,7 +5207,7 @@ zusammengestellt werden</translation>
     </message>
     <message>
         <source>Curve Files (*.scu *.SCU);;All Files (*)</source>
-        <translation type="unfinished"/>
+        <translation>Kurven (*.scu *.SCU);;Alle Dateien (*)</translation>
     </message>
 </context>
 <context>
@@ -6195,18 +6196,21 @@ Bildschirm betrachten wollen</translation>
     <name>FhPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Importiere: %1</translation>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Analysieren der Datei:</translation>
     </message>
     <message>
         <source>Parsing failed!
 
 Please submit your file (if possible) to the
 Document Liberation Project http://www.documentliberation.org</source>
-        <translation type="unfinished"/>
+        <translation>Analyse fehlgeschlagen!
+
+Bitte senden Sie (wenn möglich) einen Fehlerbericht an das
+Document Liberation Project http://www.documentliberation.org</translation>
     </message>
 </context>
 <context>
@@ -7209,7 +7213,7 @@ und wandelt deren Vektor-Daten in Scribus-Objekte um.</translation>
     </message>
     <message>
         <source>Corel Draw CDR (*.cdr *.CDR)</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">CorelDraw CDR (*.cdr *.CDR)</translation>
     </message>
     <message>
         <source>Imports Corel Draw Files</source>
@@ -7248,7 +7252,7 @@ Document Liberation Project http://www.documentliberation.org</translation>
     <name>ImportCgmPlugin</name>
     <message>
         <source>Import Cgm...</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Importiere CGM...</translation>
     </message>
     <message>
         <source>CGM File</source>
@@ -7282,23 +7286,24 @@ konvertiert deren Vektordaten in Scribus-Objekte.</translation>
     </message>
     <message>
         <source>Computer Graphics Metafile (*.cgm *.CGM)</source>
-        <translation type="unfinished"/>
+        <translation>Computer Graphics Metafile (*.cgm *.CGM)</translation>
     </message>
 </context>
 <context>
     <name>ImportCvgPlugin</name>
     <message>
         <source>Import Cvg...</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Importiere CVG...</translation>
     </message>
     <message>
         <source>Imports Cvg Files</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Importiert CVG-Dateien</translation>
     </message>
     <message>
         <source>Imports most Cvg files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Importiert die meisten CVG-Dateien in das aktuelle Dokument und
+konvertiert deren Vektordaten in Scribus-Objekte.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7322,7 +7327,7 @@ converting their vector data into Scribus objects.</source>
     <name>ImportDrwPlugin</name>
     <message>
         <source>Import DRW...</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Importiere DRW...</translation>
     </message>
     <message>
         <source>Micrografx DRW File</source>
@@ -9463,7 +9468,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">&amp;Name:</translation>
     </message>
     <message>
         <source>New Master Page</source>
@@ -11828,7 +11833,10 @@ Wird oft dazu verwendet, um ein Objekt über mehrere Seiten zu verteilen</transl
 
 Please submit your file (if possible) to the
 Document Liberation Project http://www.documentliberation.org</source>
-        <translation type="unfinished"/>
+        <translation>Analyse fehlgeschlagen!
+
+Bitte senden Sie (wenn möglich) einen Fehlerbericht an das
+Document Liberation Project http://www.documentliberation.org</translation>
     </message>
 </context>
 <context>
@@ -25747,19 +25755,19 @@ und wandelt deren Vektordaten in Scribus-Objekte um.
     </message>
     <message>
         <source>9,999.99</source>
-        <translation type="unfinished"/>
+        <translation>9,999.99</translation>
     </message>
     <message>
         <source>9.999,99</source>
-        <translation type="unfinished"/>
+        <translation>9.999,99</translation>
     </message>
     <message>
         <source>9999.99</source>
-        <translation type="unfinished"/>
+        <translation>9999.99</translation>
     </message>
     <message>
         <source>9999,99</source>
-        <translation type="unfinished"/>
+        <translation>9999,99</translation>
     </message>
     <message>
         <source>m/d</source>
