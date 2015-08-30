@@ -5838,7 +5838,7 @@ További információkért lásd a dokumentáció Színek szerkesztése fejezet�
     <message>
         <location filename="../../../scribus/ui/createrange.ui" line="64"/>
         <source>Doc Page Range</source>
-        <translation type="unfinished"/>
+        <translation>Doc Page Range</translation>
     </message>
     <message>
         <location filename="../../../scribus/ui/createrange.ui" line="112"/>
@@ -5933,7 +5933,7 @@ További információkért lásd a dokumentáció Színek szerkesztése fejezet�
     <message>
         <location filename="../../../scribus/ui/createrange.ui" line="439"/>
         <source>Page Order</source>
-        <translation type="unfinished"/>
+        <translation>Page Order</translation>
     </message>
     <message>
         <location filename="../../../scribus/ui/createrange.ui" line="449"/>
@@ -7329,7 +7329,7 @@ Az exportálandó fájl neve ilyen lesz: dokumentumnév-oldalszám.fájltípus</
     <message>
         <location filename="../../../scribus/plugins/pixmapexport/exportform.ui" line="37"/>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>TextLabel</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/pixmapexport/dialog.cpp" line="123"/>
@@ -19001,7 +19001,7 @@ Kérem, válasszon másikat.</translation>
         <location filename="../../../scribus/smcstylewidget.ui" line="462"/>
         <location filename="../../../scribus/smcstylewidget.ui" line="481"/>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>TextLabel</translation>
     </message>
     <message>
         <location filename="../../../scribus/smcstylewidget.ui" line="389"/>
@@ -19409,7 +19409,7 @@ Kérem, válasszon másikat.</translation>
         <location filename="../../../scribus/smpstylewidget.ui" line="510"/>
         <location filename="../../../scribus/smpstylewidget.ui" line="534"/>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>TextLabel</translation>
     </message>
     <message>
         <location filename="../../../scribus/smpstylewidget.ui" line="637"/>
@@ -22584,7 +22584,7 @@ Tekintse meg őket az Elővizsgálóval, hogy javítani tudja</translation>
     <message>
         <location filename="../../../scribus/tabdisplay.ui" line="15"/>
         <source>TabDisplayBase</source>
-        <translation type="unfinished"/>
+        <translation>TabDisplayBase</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabdisplay.ui" line="31"/>
@@ -23222,7 +23222,7 @@ Tekintse meg őket az Elővizsgálóval, hogy javítani tudja</translation>
     <message>
         <location filename="../../../scribus/tabgeneral.ui" line="15"/>
         <source>TabGeneralBase</source>
-        <translation type="unfinished"/>
+        <translation>TabGeneralBase</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabgeneral.ui" line="21"/>
@@ -25011,7 +25011,7 @@ Az 1. és a 2. szint nagy méretű fájlt eredményez</translation>
     <message>
         <location filename="../../../scribus/tabprinter.ui" line="13"/>
         <source>TabPrinterBase</source>
-        <translation type="unfinished"/>
+        <translation>TabPrinterBase</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabprinter.ui" line="45"/>

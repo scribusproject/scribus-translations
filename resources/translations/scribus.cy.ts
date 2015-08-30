@@ -1871,51 +1871,51 @@
     </message>
     <message>
         <source>Align right sides of items to left side of anchor</source>
-        <translation type="unfinished"/>
+        <translation>Alinio ochr dde o&apos;r eitem i&apos;r ochr chwith o&apos;r angor</translation>
     </message>
     <message>
         <source>Align left sides of items to right side of anchor</source>
-        <translation type="unfinished"/>
+        <translation>Alinio ochr chwith o&apos;r eitem i&apos;r ochr dde o&apos;r angor</translation>
     </message>
     <message>
         <source>Align tops of items to bottom of anchor</source>
-        <translation type="unfinished"/>
+        <translation>Alinio pennau o&apos;r eitem i&apos;r gwaelod o&apos;r angor</translation>
     </message>
     <message>
         <source>Align bottoms of items to top of anchor</source>
-        <translation type="unfinished"/>
+        <translation>Alinio gwaelodion o&apos;r eitem i pen yr angor</translation>
     </message>
     <message>
         <source>Make horizontal gaps between items equal</source>
-        <translation type="unfinished"/>
+        <translation>Gwneud llorweddol bylchau rhwng eitemau cyfartal</translation>
     </message>
     <message>
         <source>Make horizontal gaps between items equal to the value specified</source>
-        <translation type="unfinished"/>
+        <translation>Gwneud llorweddol bylchau rhwng eitemau yn gyfartal i&apos;r gwerth penodedig </translation>
     </message>
     <message>
         <source>Make vertical gaps between items equal</source>
-        <translation type="unfinished"/>
+        <translation>Gwneud fertigol bylchau rhwng eitemau gyfartal  </translation>
     </message>
     <message>
         <source>Make vertical gaps between items equal to the value specified</source>
-        <translation type="unfinished"/>
+        <translation>Gwneud fertigol bylchau rhwng eitemau i&apos;r gwerth penodedig </translation>
     </message>
     <message>
         <source>Make horizontal gaps between items and sides of page equal</source>
-        <translation type="unfinished"/>
+        <translation>Gwneud llorweddol bylchau rhwng eitemau i ochrau&apos;r tudalen cyfartal  </translation>
     </message>
     <message>
         <source>Make vertical gaps between items and the top and bottom of page margins equal</source>
-        <translation type="unfinished"/>
+        <translation>Gwneud fertigol bylchau rhwng eitemau a&apos;r top a gwelodion  y cyrion tudalen yn gyfratal</translation>
     </message>
     <message>
         <source>Make horizontal gaps between items and sides of page margins equal</source>
-        <translation type="unfinished"/>
+        <translation>Gwneud llorweddol bylchau rhwng eitemau a&apos;r ochrau&apos;r tudalen cyrion yn gyfartal  </translation>
     </message>
     <message>
         <source>Make vertical gaps between items and the top and bottom of page equal</source>
-        <translation type="unfinished"/>
+        <translation>Gwneud fertigol bylchau rhwng eitemau a&apos;r top a gwelod  y tudalen yn gyfratal</translation>
     </message>
     <message>
         <source>Align</source>
@@ -2323,11 +2323,11 @@
     </message>
     <message>
         <source>Spelling check complete</source>
-        <translation type="unfinished"/>
+        <translation>Sillafu siec yn gyflawn</translation>
     </message>
     <message>
         <source> Aspell dictionary.</source>
-        <translation type="unfinished"/>
+        <translation>Aspell geiriadur.</translation>
     </message>
     <message>
         <source>Spell Checker</source>
@@ -3248,7 +3248,7 @@ Please choose another one.</source>
     <name>CWDialog</name>
     <message>
         <source>Merging colors</source>
-        <translation type="unfinished"/>
+        <translation>Cydsoddiad lliwiau</translation>
     </message>
     <message>
         <source>Error: </source>
@@ -3392,11 +3392,11 @@ Please choose another one.</source>
     </message>
     <message>
         <source>RGB:</source>
-        <translation type="unfinished"/>
+        <translation>RGB:</translation>
     </message>
     <message>
         <source>HSV:</source>
-        <translation type="unfinished"/>
+        <translation>HSV:</translation>
     </message>
     <message>
         <source>R:</source>
@@ -3412,7 +3412,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>CMYK:</source>
-        <translation type="unfinished"/>
+        <translation>CMYK:</translation>
     </message>
     <message>
         <source>H:</source>
@@ -3420,11 +3420,11 @@ Please choose another one.</source>
     </message>
     <message>
         <source>S:</source>
-        <translation type="unfinished"/>
+        <translation>S:</translation>
     </message>
     <message>
         <source>V:</source>
-        <translation type="unfinished"/>
+        <translation>V:</translation>
     </message>
     <message>
         <source>Document</source>
@@ -3436,29 +3436,32 @@ Please choose another one.</source>
     <message>
         <source>X: %1
 Y: %2</source>
-        <translation type="unfinished"/>
+        <translation>X: %1
+Y: %2</translation>
     </message>
     <message>
         <source>X: %1</source>
-        <translation type="unfinished"/>
+        <translation>X: %1</translation>
     </message>
     <message>
         <source>Y: %1</source>
-        <translation type="unfinished"/>
+        <translation>Y: %1</translation>
     </message>
     <message>
         <source>Length: %1
 Angle: %2</source>
-        <translation type="unfinished"/>
+        <translation>Hyd: %1
+Ongl ; %2</translation>
     </message>
     <message>
         <source>Width: %1
 Height: %2</source>
-        <translation type="unfinished"/>
+        <translation>Lled: %1
+Uchder: %2</translation>
     </message>
     <message>
         <source>Angle: %1</source>
-        <translation type="unfinished"/>
+        <translation>Ongl: %1</translation>
     </message>
 </context>
 <context>
@@ -3480,15 +3483,15 @@ Height: %2</source>
     <name>CanvasMode_FrameLinks</name>
     <message>
         <source>Linking Text Frames</source>
-        <translation type="unfinished"/>
+        <translation>Cysylltu Testun Fframiau</translation>
     </message>
     <message>
         <source>Before</source>
-        <translation type="unfinished"/>
+        <translation>O&apos;r blaen</translation>
     </message>
     <message>
         <source>After</source>
-        <translation type="unfinished"/>
+        <translation>Ar ôl</translation>
     </message>
     <message>
         <source>You are trying to insert a frame into an existing text chain, where would you like to insert it?</source>
@@ -3536,7 +3539,7 @@ URL: %1</source>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"/>
+        <translation>Gwybodaeth</translation>
     </message>
     <message>
         <source>Link Target is external File.
@@ -3738,15 +3741,15 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Greek</source>
-        <translation>Greek</translation>
+        <translation>Groig</translation>
     </message>
     <message>
         <source>Greek Extended</source>
-        <translation type="unfinished"/>
+        <translation>Groig Estynedig</translation>
     </message>
     <message>
         <source>Cyrillic</source>
-        <translation type="unfinished"/>
+        <translation>Cyrillic</translation>
     </message>
     <message>
         <source>Cyrillic Supplement</source>
@@ -3754,15 +3757,15 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Arabic</source>
-        <translation>Arabic</translation>
+        <translation>Arabaidd</translation>
     </message>
     <message>
         <source>Arabic Extended A</source>
-        <translation type="unfinished"/>
+        <translation>Arabaidd Estynedig A</translation>
     </message>
     <message>
         <source>Arabic Extended B</source>
-        <translation type="unfinished"/>
+        <translation>Arabaidd Estynedig B</translation>
     </message>
     <message>
         <source>Hebrew</source>
@@ -3774,7 +3777,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ffont:</translation>
     </message>
     <message>
         <source>C&amp;haracter Class:</source>
@@ -3799,7 +3802,7 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     </message>
     <message>
         <source>&amp;Insert</source>
-        <translation type="unfinished"/>
+        <translation>%Mewnosod</translation>
     </message>
     <message>
         <source>Delete the current selection(s).</source>
@@ -3868,7 +3871,7 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     </message>
     <message>
         <source>Page </source>
-        <translation type="unfinished"/>
+        <translation>Tudalen</translation>
     </message>
     <message>
         <source>Free Objects</source>
@@ -3880,11 +3883,11 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     </message>
     <message>
         <source>Items</source>
-        <translation type="unfinished"/>
+        <translation>Eitemau</translation>
     </message>
     <message>
         <source>Problems</source>
-        <translation type="unfinished"/>
+        <translation>Problemau</translation>
     </message>
     <message>
         <source>Current Profile:</source>
@@ -3916,7 +3919,7 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     </message>
     <message>
         <source>Layer &quot;%1&quot;</source>
-        <translation type="unfinished"/>
+        <translation>Haen &quot;&amp;1&quot;</translation>
     </message>
     <message>
         <source>Annotation uses a non TrueType font</source>
@@ -4101,7 +4104,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Collecting...</source>
-        <translation type="unfinished"/>
+        <translation>Casglu...</translation>
     </message>
     <message>
         <source>Cannot collect all files for output for file:
@@ -4118,7 +4121,7 @@ currently %2 x %3 DPI</source>
     <name>CollectForOutput_UI</name>
     <message>
         <source>Collecting Items:</source>
-        <translation type="unfinished"/>
+        <translation>Casglu Eitemau:</translation>
     </message>
     <message>
         <source>Collecting Patterns:</source>
@@ -4126,15 +4129,15 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Collecting Fonts:</source>
-        <translation type="unfinished"/>
+        <translation>Casglu Ffontiau:</translation>
     </message>
     <message>
         <source>Collecting Profiles:</source>
-        <translation type="unfinished"/>
+        <translation>Casglu Proffiliau:</translation>
     </message>
     <message>
         <source>Collecting...</source>
-        <translation type="unfinished"/>
+        <translation>Casglu...</translation>
     </message>
     <message>
         <source>Cannot collect all files for output for file:
@@ -6937,7 +6940,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     <name>HunspellDialog</name>
     <message>
         <source>Spelling check complete</source>
-        <translation type="unfinished"/>
+        <translation>Sillafu siec yn gyflawn</translation>
     </message>
 </context>
 <context>
@@ -8124,7 +8127,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Insert</source>
-        <translation type="unfinished"/>
+        <translation>%Mewnosod</translation>
     </message>
     <message>
         <source>&amp;Master Page:</source>
@@ -8461,7 +8464,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Before</source>
-        <translation type="unfinished"/>
+        <translation>O&apos;r blaen</translation>
     </message>
     <message>
         <source>positions</source>
@@ -8469,7 +8472,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>After</source>
-        <translation type="unfinished"/>
+        <translation>Ar ôl</translation>
     </message>
     <message>
         <source>Beginning</source>
@@ -8496,7 +8499,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Before</source>
-        <translation type="unfinished"/>
+        <translation>O&apos;r blaen</translation>
     </message>
     <message>
         <source>positions</source>
@@ -8504,7 +8507,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>After</source>
-        <translation type="unfinished"/>
+        <translation>Ar ôl</translation>
     </message>
     <message>
         <source>Beginning</source>
@@ -8630,7 +8633,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"/>
+        <translation>Gwybodaeth</translation>
     </message>
     <message>
         <source>An editor for this frame is already running!</source>
@@ -10759,7 +10762,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Page </source>
-        <translation type="unfinished"/>
+        <translation>Tudalen</translation>
     </message>
     <message>
         <source>Free Objects</source>
@@ -11940,7 +11943,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"/>
+        <translation>Gwybodaeth</translation>
     </message>
     <message>
         <source>The file %1 does not contain colors which can be imported.
@@ -12733,7 +12736,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"/>
+        <translation>Gwybodaeth</translation>
     </message>
     <message>
         <source>Path:</source>
@@ -13060,7 +13063,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"/>
+        <translation>Gwybodaeth</translation>
     </message>
     <message>
         <source>File</source>
@@ -26300,7 +26303,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"/>
+        <translation>Gwybodaeth</translation>
     </message>
     <message>
         <source>The program %1 is already running!</source>
@@ -26743,7 +26746,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Linking Text Frames</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Cysylltu Testun Fframiau</translation>
     </message>
     <message>
         <source>Cannot Convert In-Use Item</source>
@@ -27630,7 +27633,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;Insert</source>
-        <translation type="unfinished"/>
+        <translation>%Mewnosod</translation>
     </message>
     <message>
         <source>Character</source>

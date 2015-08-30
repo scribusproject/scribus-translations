@@ -452,7 +452,7 @@
     </message>
     <message>
         <source>&amp;Raize</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Felülre</translation>
     </message>
     <message>
         <source>&amp;Attributes...</source>
@@ -1743,7 +1743,7 @@
     </message>
     <message>
         <source>DockWidget</source>
-        <translation type="unfinished"/>
+        <translation>DockWidget</translation>
     </message>
 </context>
 <context>
@@ -3166,27 +3166,27 @@ Adjon meg egy másik nevet.</translation>
     </message>
     <message>
         <source>Lab</source>
-        <translation type="unfinished"/>
+        <translation>Lab</translation>
     </message>
     <message>
         <source>HLC</source>
-        <translation type="unfinished"/>
+        <translation>HLC</translation>
     </message>
     <message>
         <source>L:</source>
-        <translation type="unfinished"/>
+        <translation>L:</translation>
     </message>
     <message>
         <source>a:</source>
-        <translation type="unfinished"/>
+        <translation>a:</translation>
     </message>
     <message>
         <source>b:</source>
-        <translation type="unfinished"/>
+        <translation>b:</translation>
     </message>
     <message>
         <source>H:</source>
-        <translation type="unfinished"/>
+        <translation>H:</translation>
     </message>
 </context>
 <context>
@@ -3229,7 +3229,7 @@ Adjon meg egy másik nevet.</translation>
     </message>
     <message>
         <source> %</source>
-        <translation type="unfinished"/>
+        <translation> %</translation>
     </message>
     <message>
         <source>...</source>
@@ -4948,7 +4948,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Doc Page Range</source>
-        <translation type="unfinished"/>
+        <translation>Doc Page Range</translation>
     </message>
     <message>
         <source>Basic Range Selection</source>
@@ -5024,7 +5024,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Page Order</source>
-        <translation type="unfinished"/>
+        <translation>Page Order</translation>
     </message>
     <message>
         <source>Sample Page Order:</source>
@@ -5965,7 +5965,7 @@ Képernyőn megjelenő képekhez 72 dpi-t használjon</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>TextLabel</translation>
     </message>
     <message>
         <source>The compression ratio of your images - 100% is no compression, 0% highest compression. If in doubt, use &apos;Automatic&apos;</source>
@@ -12485,7 +12485,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>TextLabel</translation>
     </message>
     <message>
         <source>Page Range</source>
@@ -12559,7 +12559,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     </message>
     <message>
         <source>scriptname.py</source>
-        <translation type="unfinished"/>
+        <translation>scriptname.py</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -12587,7 +12587,11 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'DejaVu Sans'; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Sans Serif&apos;;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;DejaVu Sans&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:12px; margin-bottom:12px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:&apos;Sans Serif&apos;;&quot;&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&amp;Remember preference for this file</source>
@@ -13049,7 +13053,7 @@ Adjon meg egy másikat.</translation>
     </message>
     <message>
         <source>Change sortorder</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Rendezési sorrend módosítása</translation>
     </message>
     <message>
         <source>Zoom in</source>
@@ -14685,7 +14689,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>pageLayoutButtonGroup</source>
-        <translation type="unfinished"/>
+        <translation>pageLayoutButtonGroup</translation>
     </message>
     <message>
         <source>Double Page</source>
@@ -15464,7 +15468,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>scalingButtonGroup</source>
-        <translation type="unfinished"/>
+        <translation>scalingButtonGroup</translation>
     </message>
     <message>
         <source>Horizontal Scaling:</source>
@@ -15496,7 +15500,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>previewButtonGroup</source>
-        <translation type="unfinished"/>
+        <translation>previewButtonGroup</translation>
     </message>
     <message>
         <source>Normal Resolution</source>
@@ -15849,7 +15853,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>rangeButtonGroup</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">rangeButtonGroup</translation>
     </message>
     <message>
         <source>Choose Pages</source>
@@ -18097,11 +18101,11 @@ Figyelem: a PDF űrlapok nem kerülnek exportálásra.</translation>
     </message>
     <message>
         <source>Any path self-intersections or subpaths create holes in the fill.</source>
-        <translation type="unfinished"/>
+        <translation>Az útvonalak önmagukkal való metszései és az alútvonalak üres területeket hoznak létre a kitöltésben.</translation>
     </message>
     <message>
         <source>Fill is solid unless a subpath is counterdirectional.</source>
-        <translation type="unfinished"/>
+        <translation>A kitöltés egyenletes, kivéve akkor, ha egy alútvonal ellentétes irányú.</translation>
     </message>
 </context>
 <context>
@@ -18925,11 +18929,11 @@ Transparency</source>
     </message>
     <message>
         <source>Any path self-intersections or subpaths create holes in the fill.</source>
-        <translation type="unfinished"/>
+        <translation>Az útvonalak önmagukkal való metszései és az alútvonalak üres területeket hoznak létre a kitöltésben.</translation>
     </message>
     <message>
         <source>Fill is solid unless a subpath is counterdirectional.</source>
-        <translation type="unfinished"/>
+        <translation>A kitöltés egyenletes, kivéve akkor, ha egy alútvonal ellentétes irányú.</translation>
     </message>
 </context>
 <context>
@@ -18964,7 +18968,7 @@ Transparency</source>
     </message>
     <message>
         <source>textFlowBtnGroup</source>
-        <translation type="unfinished"/>
+        <translation>textFlowBtnGroup</translation>
     </message>
     <message>
         <source>Use &amp;Frame Shape</source>
@@ -19690,7 +19694,7 @@ Transparency</source>
     </message>
     <message>
         <source>flopGroup</source>
-        <translation type="unfinished"/>
+        <translation>flopGroup</translation>
     </message>
     <message>
         <source>Font Ascent</source>
@@ -23684,7 +23688,7 @@ Kérem, válasszon másikat.</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>TextLabel</translation>
     </message>
     <message>
         <source>Colors</source>
@@ -23779,7 +23783,7 @@ Kérem, válasszon másikat.</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>TextLabel</translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -24035,7 +24039,7 @@ Kérem, válasszon másikat.</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>TextLabel</translation>
     </message>
     <message>
         <source>Ch&amp;aracter Style</source>
@@ -24495,7 +24499,7 @@ Az aktuális szóköz százalékában van kifejezve.</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>TextLabel</translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -25663,107 +25667,107 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>9,999.99</source>
-        <translation type="unfinished"/>
+        <translation>9,999.99</translation>
     </message>
     <message>
         <source>9.999,99</source>
-        <translation type="unfinished"/>
+        <translation>9.999,99</translation>
     </message>
     <message>
         <source>9999.99</source>
-        <translation type="unfinished"/>
+        <translation>9999.99</translation>
     </message>
     <message>
         <source>9999,99</source>
-        <translation type="unfinished"/>
+        <translation>9999,99</translation>
     </message>
     <message>
         <source>m/d</source>
-        <translation type="unfinished"/>
+        <translation>m/d</translation>
     </message>
     <message>
         <source>m/d/yy</source>
-        <translation type="unfinished"/>
+        <translation>m/d/yy</translation>
     </message>
     <message>
         <source>mm/dd/yy</source>
-        <translation type="unfinished"/>
+        <translation>mm/dd/yy</translation>
     </message>
     <message>
         <source>mm/yy</source>
-        <translation type="unfinished"/>
+        <translation>mm/yy</translation>
     </message>
     <message>
         <source>d-mmm</source>
-        <translation type="unfinished"/>
+        <translation>d-mmm</translation>
     </message>
     <message>
         <source>d-mmm-yy</source>
-        <translation type="unfinished"/>
+        <translation>d-mmm-yy</translation>
     </message>
     <message>
         <source>dd-mmm-yy</source>
-        <translation type="unfinished"/>
+        <translation>dd-mmm-yy</translation>
     </message>
     <message>
         <source>dd/mm/yy</source>
-        <translation type="unfinished"/>
+        <translation>dd/mm/yy</translation>
     </message>
     <message>
         <source>dd/mm/yyyy</source>
-        <translation type="unfinished"/>
+        <translation>dd/mm/yyyy</translation>
     </message>
     <message>
         <source>dd.mm.yyyy</source>
-        <translation type="unfinished"/>
+        <translation>dd.mm.yyyy</translation>
     </message>
     <message>
         <source>yy-mm-dd</source>
-        <translation type="unfinished"/>
+        <translation>yy-mm-dd</translation>
     </message>
     <message>
         <source>mmm-yy</source>
-        <translation type="unfinished"/>
+        <translation>mmm-yy</translation>
     </message>
     <message>
         <source>mmmm-yy</source>
-        <translation type="unfinished"/>
+        <translation>mmmm-yy</translation>
     </message>
     <message>
         <source>mmm d, yyyy</source>
-        <translation type="unfinished"/>
+        <translation>mmm d, yyyy</translation>
     </message>
     <message>
         <source>mmmm d, yyyy</source>
-        <translation type="unfinished"/>
+        <translation>mmmm d, yyyy</translation>
     </message>
     <message>
         <source>m/d/yy h:MM tt</source>
-        <translation type="unfinished"/>
+        <translation>m/d/yy h:MM tt</translation>
     </message>
     <message>
         <source>m/d/yy HH:MM</source>
-        <translation type="unfinished"/>
+        <translation>m/d/yy HH:MM</translation>
     </message>
     <message>
         <source>yyyy-mm-dd</source>
-        <translation type="unfinished"/>
+        <translation>yyyy-mm-dd</translation>
     </message>
     <message>
         <source>HH:MM</source>
-        <translation type="unfinished"/>
+        <translation>HH:MM</translation>
     </message>
     <message>
         <source>h:MM tt</source>
-        <translation type="unfinished"/>
+        <translation>h:MM tt</translation>
     </message>
     <message>
         <source>HH:MM:ss</source>
-        <translation type="unfinished"/>
+        <translation>HH:MM:ss</translation>
     </message>
     <message>
         <source>h:MM:ss tt</source>
-        <translation type="unfinished"/>
+        <translation>h:MM:ss tt</translation>
     </message>
 </context>
 <context>
@@ -30657,7 +30661,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"/>
+        <translation>TextLabel</translation>
     </message>
     <message>
         <source>Page Range</source>
