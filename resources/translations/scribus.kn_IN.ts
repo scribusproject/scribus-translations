@@ -114,7 +114,7 @@
     </message>
     <message>
         <source>Windows&amp;#174; Port:</source>
-        <translation type="unfinished"/>
+        <translation>ವಿಂಡೋಸ್&amp;174;ಪೋರ್ಟ್</translation>
     </message>
     <message>
         <source>Tango Project Icons:</source>
@@ -428,7 +428,7 @@
     </message>
     <message>
         <source>&amp;Ungroup</source>
-        <translation type="unfinished"/>
+        <translation>ಬೇರ್ಪಡಿಸು</translation>
     </message>
     <message>
         <source>Is &amp;Locked</source>
@@ -512,7 +512,7 @@
     </message>
     <message>
         <source>&amp;Polygon</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ಬಹುಭುಜಾಕ್ರತಿ</translation>
     </message>
     <message>
         <source>&amp;Text Frame</source>
@@ -576,7 +576,7 @@
     </message>
     <message>
         <source>Show &amp;Frames</source>
-        <translation type="unfinished"/>
+        <translation>ಫ್ರೇಮ್ ಗಳನ್ನು ತೋರಿಸು</translation>
     </message>
     <message>
         <source>Show &amp;Images</source>
@@ -756,19 +756,19 @@
     </message>
     <message>
         <source>S&amp;hadow</source>
-        <translation type="unfinished"/>
+        <translation>ನೆರಳು</translation>
     </message>
     <message>
         <source>&amp;Low Resolution</source>
-        <translation type="unfinished"/>
+        <translation>ಕಡಿಮೆ ರೆಸೊಲ್ಯುಷನ್</translation>
     </message>
     <message>
         <source>&amp;Normal Resolution</source>
-        <translation type="unfinished"/>
+        <translation>ಸಾಮಾನ್ಯ ರೆಸೊಲ್ಯುಷನ್</translation>
     </message>
     <message>
         <source>&amp;Full Resolution</source>
-        <translation type="unfinished"/>
+        <translation>ಪೂರ್ಣ ರೆಸೊಲ್ಯುಷನ್</translation>
     </message>
     <message>
         <source>Edit Image...</source>
@@ -780,7 +780,7 @@
     </message>
     <message>
         <source>Adjust Frame to Image</source>
-        <translation type="unfinished"/>
+        <translation>ಫ್ರೇಮ್ ಅನ್ನು ಚಿತ್ರಕ್ಕೆ ಹೊಂದಿಸು</translation>
     </message>
     <message>
         <source>Extended Image Properties</source>
@@ -788,7 +788,7 @@
     </message>
     <message>
         <source>Show Control Characters</source>
-        <translation type="unfinished"/>
+        <translation>ಕಂಟ್ರೋಲ್ ಅಕ್ಷರಗಳನ್ನು ತೋರಿಸು</translation>
     </message>
     <message>
         <source>&amp;Align and Distribute</source>
@@ -804,7 +804,7 @@
     </message>
     <message>
         <source>Frame Break</source>
-        <translation type="unfinished"/>
+        <translation>ಫ್ರೇಮ್ ಅನ್ನು ವಿಭಜಿಸು</translation>
     </message>
     <message>
         <source>Column Break</source>
@@ -812,11 +812,11 @@
     </message>
     <message>
         <source>Non Breaking Dash</source>
-        <translation type="unfinished"/>
+        <translation>ವಿಭಜಿಸದ ಡ್ಯಾಶ್ </translation>
     </message>
     <message>
         <source>Toggle Guides</source>
-        <translation type="unfinished"/>
+        <translation>ಗೈಡ್ ಗಳನ್ನು ಬದಲಾಯಿಸು</translation>
     </message>
     <message>
         <source>&amp;Arrange Pages</source>
@@ -844,7 +844,7 @@
     </message>
     <message>
         <source>&amp;Cascade</source>
-        <translation type="unfinished"/>
+        <translation>ಕ್ಯಾಸ್ಕೇಡ್</translation>
     </message>
     <message>
         <source>&amp;Tile</source>
@@ -860,11 +860,11 @@
     </message>
     <message>
         <source>&amp;Flip Horizontally</source>
-        <translation type="unfinished"/>
+        <translation>ಸಮತಲವಾಗಿ ಫ್ಲಿಪ್ ಮಾಡು</translation>
     </message>
     <message>
         <source>&amp;Flip Vertically</source>
-        <translation type="unfinished"/>
+        <translation>ಲಂಭವಾಗಿ ಫ್ಲಿಪ್ ಮಾಡು</translation>
     </message>
     <message>
         <source>Show Rulers</source>
@@ -881,7 +881,7 @@
     </message>
     <message>
         <source>Middle Dot</source>
-        <translation type="unfinished"/>
+        <translation>ಮದ್ಯ ಬಿಂದು</translation>
     </message>
     <message>
         <source>En Space</source>
@@ -893,19 +893,19 @@
     </message>
     <message>
         <source>Thin Space</source>
-        <translation type="unfinished"/>
+        <translation>ಚಿಕ್ಕ ಜಾಗ</translation>
     </message>
     <message>
         <source>Thick Space</source>
-        <translation type="unfinished"/>
+        <translation>ದಪ್ಪ ಜಾಗ</translation>
     </message>
     <message>
         <source>Mid Space</source>
-        <translation type="unfinished"/>
+        <translation>ಮಾದ್ಯಮ ಜಾಗ</translation>
     </message>
     <message>
         <source>Hair Space</source>
-        <translation type="unfinished"/>
+        <translation>ತುಂಬ ಚಿಕ್ಕ ಜಾಗ</translation>
     </message>
     <message>
         <source>ff</source>
@@ -937,7 +937,7 @@
     </message>
     <message>
         <source>S&amp;tyles...</source>
-        <translation type="unfinished"/>
+        <translation>ಶೈಲಿಗಳು</translation>
     </message>
     <message>
         <source>&amp;Outline</source>
@@ -955,7 +955,7 @@
     </message>
     <message>
         <source>C&amp;lear</source>
-        <translation type="unfinished"/>
+        <translation>ತೆಗೆದುಹಾಕು</translation>
     </message>
     <message>
         <source>Save as &amp;EPS...</source>
@@ -979,11 +979,11 @@
     </message>
     <message>
         <source>&amp;Fit to Height</source>
-        <translation type="unfinished"/>
+        <translation>ಎತ್ತರಕ್ಕೆ ಸರಿಗೊಳಿಸು</translation>
     </message>
     <message>
         <source>Fit to Width</source>
-        <translation type="unfinished"/>
+        <translation>ಅಗಲಕ್ಕೆ ಸರಿಗೊಳಿಸು</translation>
     </message>
     <message>
         <source>Show Bleeds</source>
@@ -1261,7 +1261,7 @@
     </message>
     <message>
         <source>&amp;Transform</source>
-        <translation type="unfinished"/>
+        <translation>ಬದಲಾಯಿಸು</translation>
     </message>
     <message>
         <source>Paste Image from Clipboard</source>
@@ -1293,11 +1293,11 @@
     </message>
     <message>
         <source>Set Row Heights...</source>
-        <translation type="unfinished"/>
+        <translation>ಸಾಲುಗಳ ಎತ್ತರ ಸರಿಪಡಿಸು</translation>
     </message>
     <message>
         <source>Set Column Widths...</source>
-        <translation type="unfinished"/>
+        <translation>ಕಾಲಮ್ ಅಗಲವನ್ನು ಸರಿಪಡಿಸು</translation>
     </message>
     <message>
         <source>Distribute Rows Evenly</source>
@@ -1309,15 +1309,15 @@
     </message>
     <message>
         <source>Adjust Frame to Table</source>
-        <translation type="unfinished"/>
+        <translation>ಫ್ರೇಮ್ ಅನ್ನು ಟೇಬಲ್ ಗೆ ಹೊಂದಿಸು</translation>
     </message>
     <message>
         <source>Adjust Table to Frame</source>
-        <translation type="unfinished"/>
+        <translation>ಟೇಬಲ್ ಅನ್ನು ಫ್ರೇಮ್ ಗೆ ಹೊಂದಿಸು</translation>
     </message>
     <message>
         <source>&amp;Frames...</source>
-        <translation type="unfinished"/>
+        <translation>ಫ್ರೇಮ್ ಗಳು</translation>
     </message>
     <message>
         <source>Unlink Text Frame with Text Copy</source>
@@ -1345,7 +1345,7 @@
     </message>
     <message>
         <source>Anchor Mark</source>
-        <translation type="unfinished"/>
+        <translation>ಯ್ಯಾಂಕರ್ ಮಾರ್ಕ್</translation>
     </message>
     <message>
         <source>Variable Text</source>
@@ -1381,7 +1381,7 @@
     </message>
     <message>
         <source>Patterns</source>
-        <translation type="unfinished"/>
+        <translation>ಪ್ಯಾಟರ್ನ್ ಗಳು</translation>
     </message>
     <message>
         <source>Inline Items</source>
@@ -1389,11 +1389,11 @@
     </message>
     <message>
         <source>&amp;Symbol</source>
-        <translation type="unfinished"/>
+        <translation>ಚಿಹ್ನೆ</translation>
     </message>
     <message>
         <source>&amp;Update Document</source>
-        <translation type="unfinished"/>
+        <translation>ಡಾಕುಮೆಂಟ್ ಅಪ್ಡೇಟ್</translation>
     </message>
     <message>
         <source>Table</source>
@@ -1457,7 +1457,7 @@
     </message>
     <message>
         <source>Edit contents of a frame</source>
-        <translation type="unfinished"/>
+        <translation>ಫ್ರೇಮ್ ಅಂಶಗಳನ್ನು ಬದಲಿಸು</translation>
     </message>
     <message>
         <source>Edit text in the Story Editor</source>
@@ -1477,7 +1477,7 @@
     </message>
     <message>
         <source>Insert a calligraphic line</source>
-        <translation type="unfinished"/>
+        <translation>ಕ್ಯಾಲಿಗ್ರಾಫಿಕ್ ಲೈನ್ ಸೇರಿಸು</translation>
     </message>
     <message>
         <source>Insert a freehand line</source>
@@ -1493,7 +1493,7 @@
     </message>
     <message>
         <source>Insert a polygon</source>
-        <translation type="unfinished"/>
+        <translation>ಬಹುಭುಜಾಕ್ರತಿ ಸೇರಿಸು</translation>
     </message>
     <message>
         <source>Insert a render frame</source>
@@ -1573,7 +1573,7 @@
     </message>
     <message>
         <source>Insert 3D annotation</source>
-        <translation type="unfinished"/>
+        <translation>3ಡಿ ಟಿಪ್ಪಣಿ ಸೇರಿಸು</translation>
     </message>
     <message>
         <source>Unweld Items</source>
@@ -1613,7 +1613,7 @@
     </message>
     <message>
         <source>Arc</source>
-        <translation type="unfinished"/>
+        <translation>ಆರ್ಕ್</translation>
     </message>
     <message>
         <source>Spiral</source>
@@ -1625,11 +1625,11 @@
     </message>
     <message>
         <source>Calligraphic Line</source>
-        <translation type="unfinished"/>
+        <translation>ಕ್ಯಾಲಿಗ್ರಾಫಿಕ್ ಲೈನ್</translation>
     </message>
     <message>
         <source>&amp;Freehand Line</source>
-        <translation type="unfinished"/>
+        <translation>ಅನಿರ್ದಿಷ್ಟ ಗೆರೆ</translation>
     </message>
     <message>
         <source>PDF Push Button</source>
@@ -1657,15 +1657,15 @@
     </message>
     <message>
         <source>Text Annotation</source>
-        <translation type="unfinished"/>
+        <translation>ಟಿಪ್ಪಣಿ</translation>
     </message>
     <message>
         <source>Link Annotation</source>
-        <translation type="unfinished"/>
+        <translation>ಟಿಪ್ಪಣಿ ಲಿಂಕ್ ಮಾಡು</translation>
     </message>
     <message>
         <source>3D Annotation</source>
-        <translation type="unfinished"/>
+        <translation>3ಡಿ ಟಿಪ್ಪಣಿ</translation>
     </message>
     <message>
         <source>Edit text in story editor</source>
@@ -1689,18 +1689,18 @@
     </message>
     <message>
         <source>&amp;Downloads</source>
-        <translation type="unfinished"/>
+        <translation>ಡೌನ್ಲೋಡ್ಸ್</translation>
     </message>
     <message>
         <source>&amp;Resources</source>
-        <translation type="unfinished"/>
+        <translation>ರಿಸೋರ್ಸ್ </translation>
     </message>
 </context>
 <context>
     <name>AdjustCmsDialog</name>
     <message>
         <source>CMS Settings</source>
-        <translation type="unfinished"/>
+        <translation>CMS ಸೆಟ್ಟಿಂಗ್ಸ್</translation>
     </message>
 </context>
 <context>
@@ -1739,7 +1739,7 @@
     </message>
     <message>
         <source>Swap</source>
-        <translation type="unfinished"/>
+        <translation>ತೆಗೆದುಹಾಕು</translation>
     </message>
     <message>
         <source>DockWidget</source>
@@ -3803,7 +3803,7 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     </message>
     <message>
         <source>C&amp;lear</source>
-        <translation type="unfinished"/>
+        <translation>ತೆಗೆದುಹಾಕು</translation>
     </message>
     <message>
         <source>Type in a four digit Unicode value directly here</source>
@@ -4684,7 +4684,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Arc</source>
-        <translation type="unfinished"/>
+        <translation>ಆರ್ಕ್</translation>
     </message>
     <message>
         <source>Spiral</source>
@@ -5602,7 +5602,7 @@ failed!</source>
     </message>
     <message>
         <source>C&amp;lear</source>
-        <translation type="unfinished"/>
+        <translation>ತೆಗೆದುಹಾಕು</translation>
     </message>
     <message>
         <source>&amp;Get Field Names</source>
@@ -9245,7 +9245,7 @@ p, li { white-space: pre-wrap; }
     <name>MarkAnchor</name>
     <message>
         <source>Anchor Mark</source>
-        <translation type="unfinished"/>
+        <translation>ಯ್ಯಾಂಕರ್ ಮಾರ್ಕ್</translation>
     </message>
 </context>
 <context>
@@ -11068,7 +11068,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Fit to Width</source>
-        <translation type="unfinished"/>
+        <translation>ಅಗಲಕ್ಕೆ ಸರಿಗೊಳಿಸು</translation>
     </message>
     <message>
         <source>Fit to Height</source>
@@ -11206,7 +11206,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Arc</source>
-        <translation type="unfinished"/>
+        <translation>ಆರ್ಕ್</translation>
     </message>
     <message>
         <source>Spiral</source>
@@ -11262,7 +11262,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>C&amp;lear</source>
-        <translation type="unfinished"/>
+        <translation>ತೆಗೆದುಹಾಕು</translation>
     </message>
     <message>
         <source>Alt+L</source>
@@ -11946,7 +11946,7 @@ See the Edit Colors section of the documentation for more details.</source>
     </message>
     <message>
         <source>Patterns</source>
-        <translation type="unfinished"/>
+        <translation>ಪ್ಯಾಟರ್ನ್ ಗಳು</translation>
     </message>
     <message>
         <source>&amp;Import</source>
@@ -14380,7 +14380,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>C&amp;lear</source>
-        <translation type="unfinished"/>
+        <translation>ತೆಗೆದುಹಾಕು</translation>
     </message>
     <message>
         <source>Alt+L</source>
@@ -15523,7 +15523,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Arc</source>
-        <translation type="unfinished"/>
+        <translation>ಆರ್ಕ್</translation>
     </message>
     <message>
         <source>Spiral</source>
@@ -27126,7 +27126,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>C&amp;lear</source>
-        <translation type="unfinished"/>
+        <translation>ತೆಗೆದುಹಾಕು</translation>
     </message>
     <message>
         <source>Search finished, found %1 matches</source>
@@ -27540,7 +27540,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>C&amp;lear</source>
-        <translation type="unfinished"/>
+        <translation>ತೆಗೆದುಹಾಕು</translation>
     </message>
     <message>
         <source>&amp;Update Text Frame</source>
@@ -31301,7 +31301,7 @@ please choose another one.</source>
     </message>
     <message>
         <source>C&amp;lear</source>
-        <translation type="unfinished"/>
+        <translation>ತೆಗೆದುಹಾಕು</translation>
     </message>
     <message>
         <source>&amp;Delete</source>

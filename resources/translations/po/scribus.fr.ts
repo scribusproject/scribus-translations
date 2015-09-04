@@ -67,7 +67,7 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="307"/>
         <source>Haiku Port:</source>
-        <translation type="unfinished"/>
+        <translation>Adaptation Haiku :</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="309"/>
@@ -25283,7 +25283,7 @@ Les niveaux 1 et 2 peuvent créer des fichiers volumineux</translation>
     <message>
         <location filename="../../../scribus/tabscrapbook.ui" line="52"/>
         <source>The minimum number is 1; the maximum is 100.</source>
-        <translation type="unfinished"/>
+        <translation>Le nombre minimum est 1 ; le maximum est 100.</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabscrapbook.ui" line="55"/>
