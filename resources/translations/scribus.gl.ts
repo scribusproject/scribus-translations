@@ -9752,7 +9752,7 @@ Se non hai ningún seleccionado restáuranse todos.</translation>
     </message>
     <message>
         <source>Swap with Page</source>
-        <translation type="unfinished"/>
+        <translation>Intercambiar a páxina</translation>
     </message>
 </context>
 <context>
@@ -18908,7 +18908,7 @@ Transparency</source>
     <name>PropertiesPalette_Shape</name>
     <message>
         <source> pt</source>
-        <translation type="unfinished"/>
+        <translation type="vanished"> pt</translation>
     </message>
     <message>
         <source>Shape:</source>
@@ -20315,15 +20315,15 @@ do Scripter de Scribus para máis información.</translation>
     </message>
     <message>
         <source>Select color</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Seleccionar a cor</translation>
     </message>
     <message>
         <source>Pick Screen Color</source>
-        <translation type="unfinished"/>
+        <translation>Escoller cor da pantalla</translation>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"/>
+        <translation>Seleccionar cor</translation>
     </message>
 </context>
 <context>
@@ -20574,7 +20574,7 @@ Comprobe a ruta e o nome do ficheiro.</translation>
     </message>
     <message>
         <source>Files of type:</source>
-        <translation type="unfinished"/>
+        <translation>Ficheiros de tipo:</translation>
     </message>
     <message>
         <source>Look in:</source>
@@ -25576,55 +25576,55 @@ convertendo os seus datos vectoriais en obxectos de Scribus.</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar Edit</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar/Agochar a barra de ferramentas Editar</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar File</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar/Agochar a barra de ferramentas Ficheiro</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar Find</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar/Agochar a barra de ferramentas Atopar</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar Forms</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar/Agochar a barra de ferramentas Formularios</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar Measuring</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar/Agochar a barra de ferramentas Medidas</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar Data</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar/Agochar a barra de ferramentas Datos</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar Page Display</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar/Agochar a barra de ferramentas Mostrar Páxina</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar Navigation</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar/Agochar a barra de ferramentas Navegación</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar Print Production</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar/Agochar a barra de ferramentas Produción de Impresión</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar Redaction</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar/Agochar a barra de ferramentas Redacción</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar Basic Tools</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar/Agochar a barra de ferramentas Ferramentas Básicas</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar Tasks</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar/Agochar a barra de ferramentas Tarefas</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar Typewriter</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar/Agochar a barra de ferramentas Máquina de Escribir</translation>
     </message>
     <message>
         <source>Show/Hide Articles</source>
@@ -25632,19 +25632,19 @@ convertendo os seus datos vectoriais en obxectos de Scribus.</translation>
     </message>
     <message>
         <source>Show/Hide File Attachment</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar/Agochar anexo</translation>
     </message>
     <message>
         <source>Show/Hide Annot Manager</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar/Agochar o xestor de anotacións</translation>
     </message>
     <message>
         <source>Show/Hide Fields</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar/Agochar os campos</translation>
     </message>
     <message>
         <source>Show/Hide Optional Content</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar/Agochar o contido opcional</translation>
     </message>
     <message>
         <source>Show/Hide Model Tree</source>
@@ -25704,7 +25704,7 @@ convertendo os seus datos vectoriais en obxectos de Scribus.</translation>
     </message>
     <message>
         <source>Zapf Dingbats</source>
-        <translation type="unfinished"/>
+        <translation>Zapf Dingbats</translation>
     </message>
     <message>
         <source>Symbols</source>
@@ -25973,7 +25973,7 @@ convertendo os seus datos vectoriais en obxectos de Scribus.</translation>
     </message>
     <message>
         <source>Measurement</source>
-        <translation type="unfinished"/>
+        <translation>Medida</translation>
     </message>
     <message>
         <source>Text Frames</source>
@@ -26725,7 +26725,7 @@ Considere utilizar o Comprobador pré-voo para corrixilos</translation>
     </message>
     <message>
         <source>Measurement</source>
-        <translation type="unfinished"/>
+        <translation>Medida</translation>
     </message>
 </context>
 <context>
@@ -26848,7 +26848,7 @@ Considere utilizar o Comprobador pré-voo para corrixilos</translation>
     </message>
     <message>
         <source>Do not start GUI</source>
-        <translation type="unfinished"/>
+        <translation>Non iniciar a interface gráfica</translation>
     </message>
     <message>
         <source>Stop showing the splashscreen on startup. Writes an empty file called .neversplash in ~/.scribus</source>
@@ -27406,7 +27406,7 @@ Considere utilizar o Comprobador pré-voo para corrixilos</translation>
     </message>
     <message>
         <source>Close current Tab</source>
-        <translation type="unfinished"/>
+        <translation>Fechar esta tabela</translation>
     </message>
 </context>
 <context>
@@ -27432,18 +27432,18 @@ Considere utilizar o Comprobador pré-voo para corrixilos</translation>
     <name>ShapePlugin</name>
     <message>
         <source>Palette for Photoshop Custom Shapes.</source>
-        <translation type="unfinished"/>
+        <translation>Paleta para formas personalizadas do Photoshop.</translation>
     </message>
 </context>
 <context>
     <name>ShapeView</name>
     <message>
         <source>Delete selected Shape</source>
-        <translation type="unfinished"/>
+        <translation>Eliminar a forma seleccionada</translation>
     </message>
     <message>
         <source>Delete all Shapes</source>
-        <translation type="unfinished"/>
+        <translation>Eliminar todas as formas</translation>
     </message>
     <message>
         <source>Display Icons only</source>
@@ -27451,7 +27451,7 @@ Considere utilizar o Comprobador pré-voo para corrixilos</translation>
     </message>
     <message>
         <source>Do you really want to clear all your shapes in this tab?</source>
-        <translation type="unfinished"/>
+        <translation>Confirma que desexa limpar todas as formas desta tabela?</translation>
     </message>
 </context>
 <context>
@@ -27664,7 +27664,7 @@ Considere utilizar o Comprobador pré-voo para corrixilos</translation>
     </message>
     <message>
         <source>Text Files (*.txt);;All Files(*)</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Ficheiros de texto (*.txt);;Todos os ficheiros (*)</translation>
     </message>
     <message>
         <source>Save as</source>
@@ -28231,7 +28231,7 @@ Considere utilizar o Comprobador pré-voo para corrixilos</translation>
     </message>
     <message>
         <source>Available Fonts:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Tipos de letra dispoñíbeis:</translation>
     </message>
     <message>
         <source>Fonts to embed:</source>
@@ -28675,7 +28675,7 @@ Considere utilizar o Comprobador pré-voo para corrixilos</translation>
     </message>
     <message>
         <source>This is an advanced setting which is not enabled by default. This should only be enabled when specifically requested by your printer and they have given you the exact details needed. Otherwize, your exported PDF may not print properly and is truly not portable across systems.</source>
-        <translation type="unfinished"/>
+        <translation>Esta é unha configuración avanzada que non se activa por omisión. Só se debería permitir se o require explicitamente a imprenta e lle forneceron os detalles precisos. De non ser así, o PDF exportado pode non imprimirse adecuadamente e con certeza non se poderá portar entre sistemas.</translation>
     </message>
     <message>
         <source>Display Settings</source>
@@ -28845,7 +28845,7 @@ ao abrir o documento PDF:</translation>
     </message>
     <message>
         <source>InfoString</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Cadea de información</translation>
     </message>
     <message>
         <source>Inside:</source>
@@ -28861,11 +28861,11 @@ ao abrir o documento PDF:</translation>
     </message>
     <message>
         <source>Fonts to outline:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Tipos de letra para esquematizar:</translation>
     </message>
     <message>
         <source>&amp;Outline all</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Esquematizar t&amp;odo</translation>
     </message>
     <message>
         <source>Convert all glyphs in the document to outlines.</source>
@@ -29037,19 +29037,19 @@ ao abrir o documento PDF:</translation>
     </message>
     <message>
         <source>0 °</source>
-        <translation type="unfinished"/>
+        <translation>0 °</translation>
     </message>
     <message>
         <source>90 °</source>
-        <translation type="unfinished"/>
+        <translation>90 °</translation>
     </message>
     <message>
         <source>180 °</source>
-        <translation type="unfinished"/>
+        <translation>180 °</translation>
     </message>
     <message>
         <source>270 °</source>
-        <translation type="unfinished"/>
+        <translation>270 °</translation>
     </message>
     <message>
         <source> °</source>
@@ -29057,7 +29057,7 @@ ao abrir o documento PDF:</translation>
     </message>
     <message>
         <source>Embedding Mode:</source>
-        <translation type="unfinished"/>
+        <translation>Modo de incorporación:</translation>
     </message>
     <message>
         <source>Embed or Subset</source>
@@ -29073,11 +29073,11 @@ ao abrir o documento PDF:</translation>
     </message>
     <message>
         <source>Fonts to subset:</source>
-        <translation type="unfinished"/>
+        <translation>Tipos de letra como subconxunto</translation>
     </message>
     <message>
         <source>&amp;Subset all</source>
-        <translation type="unfinished"/>
+        <translation>Todo o &amp;subconxunto</translation>
     </message>
     <message>
         <source>Embed only subset fonts with glyphs used in the document into the PDF.</source>
