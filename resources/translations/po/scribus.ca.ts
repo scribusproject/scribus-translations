@@ -5420,7 +5420,7 @@ Per més detalls mireu la secció Edita els colors de la documentació.</transla
         <location filename="../../../scribus/commonstrings.cpp" line="354"/>
         <source>Duotone</source>
         <comment>Colorspace</comment>
-        <translation type="unfinished"/>
+        <translation>Bitò</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="355"/>
@@ -7064,7 +7064,7 @@ ha fallat!</translation>
         <location filename="../../../scribus/effectsdialog.cpp" line="1004"/>
         <location filename="../../../scribus/effectsdialog.cpp" line="1437"/>
         <source>Duotone</source>
-        <translation type="unfinished"/>
+        <translation>Bitò</translation>
     </message>
     <message>
         <location filename="../../../scribus/effectsdialog.cpp" line="464"/>
@@ -16509,7 +16509,7 @@ Comproveu el nom i el camí.</translation>
     <message>
         <location filename="../../../scribus/pagesize.cpp" line="202"/>
         <source>Elephant</source>
-        <translation type="unfinished"/>
+        <translation>Elefant</translation>
     </message>
     <message>
         <location filename="../../../scribus/pagesize.cpp" line="202"/>
@@ -18591,7 +18591,7 @@ De tota manera, la imatge pot no ser correcta</translation>
         <location filename="../../../scribus/main_win32.cpp" line="234"/>
         <location filename="../../../scribus/main_win32.cpp" line="259"/>
         <source>Scribus Crash</source>
-        <translation type="unfinished"/>
+        <translation>Scribus s&apos;ha tancat</translation>
     </message>
     <message>
         <location filename="../../../scribus/main_nix.cpp" line="128"/>

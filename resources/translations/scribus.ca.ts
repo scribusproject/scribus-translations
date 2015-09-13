@@ -209,7 +209,7 @@
     </message>
     <message>
         <source>Enabled:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Activat:</translation>
     </message>
     <message>
         <source>Release Date:</source>
@@ -464,7 +464,7 @@
     </message>
     <message>
         <source>Embed Image</source>
-        <translation type="unfinished"/>
+        <translation>Imatge encastada</translation>
     </message>
     <message>
         <source>Is PDF &amp;Bookmark</source>
@@ -2178,7 +2178,7 @@
     </message>
     <message>
         <source>End Edit</source>
-        <translation type="unfinished"/>
+        <translation>Finalitzar edició</translation>
     </message>
 </context>
 <context>
@@ -3177,50 +3177,50 @@ Please choose another one.</source>
     </message>
     <message>
         <source>L:</source>
-        <translation type="unfinished"/>
+        <translation>L:</translation>
     </message>
     <message>
         <source>a:</source>
-        <translation type="unfinished"/>
+        <translation>a:</translation>
     </message>
     <message>
         <source>b:</source>
-        <translation type="unfinished"/>
+        <translation>b:</translation>
     </message>
     <message>
         <source>H:</source>
-        <translation type="unfinished"/>
+        <translation>H:</translation>
     </message>
 </context>
 <context>
     <name>CMYKChooseBase</name>
     <message>
         <source>Edit Color</source>
-        <translation type="unfinished"/>
+        <translation>Edita el color</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Nom:</translation>
     </message>
     <message>
         <source>Color &amp;Model</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Model de color</translation>
     </message>
     <message>
         <source>Is Spot Color</source>
-        <translation type="unfinished"/>
+        <translation>És un color simple</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>D&apos;acord</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel·la</translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"/>
+        <translation>Nou</translation>
     </message>
     <message>
         <source>Old</source>
@@ -3228,27 +3228,27 @@ Please choose another one.</source>
     </message>
     <message>
         <source>C:</source>
-        <translation type="unfinished"/>
+        <translation>C:</translation>
     </message>
     <message>
         <source> %</source>
-        <translation type="unfinished"/>
+        <translation> %</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"/>
+        <translation>...</translation>
     </message>
     <message>
         <source>M:</source>
-        <translation type="unfinished"/>
+        <translation>M:</translation>
     </message>
     <message>
         <source>Y:</source>
-        <translation type="unfinished"/>
+        <translation>Y:</translation>
     </message>
     <message>
         <source>K:</source>
-        <translation type="unfinished"/>
+        <translation>K:</translation>
     </message>
 </context>
 <context>
@@ -4592,7 +4592,7 @@ currently %2 x %3 DPI</source>
     <message>
         <source>Duotone</source>
         <comment>Colorspace</comment>
-        <translation type="unfinished"/>
+        <translation>Bitò</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -5783,7 +5783,7 @@ ha fallat!</translation>
     </message>
     <message>
         <source>Duotone</source>
-        <translation type="unfinished"/>
+        <translation>Bitò</translation>
     </message>
     <message>
         <source>Tritone</source>
@@ -6536,23 +6536,23 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>1. Point:</source>
-        <translation type="unfinished"/>
+        <translation>1. Punt:</translation>
     </message>
     <message>
         <source>2. Point:</source>
-        <translation type="unfinished"/>
+        <translation>2. Punt:</translation>
     </message>
     <message>
         <source>3. Point:</source>
-        <translation type="unfinished"/>
+        <translation>3. Punt:</translation>
     </message>
     <message>
         <source>4. Point:</source>
-        <translation type="unfinished"/>
+        <translation>4. Punt:</translation>
     </message>
     <message>
         <source>5. Point:</source>
-        <translation type="unfinished"/>
+        <translation>5. Punt:</translation>
     </message>
     <message>
         <source>Edit Grid Points</source>
@@ -9413,7 +9413,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">&amp;Nom:</translation>
     </message>
     <message>
         <source>New Master Page</source>
@@ -9421,39 +9421,39 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Nom:</translation>
     </message>
     <message>
         <source>New MasterPage</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Nova pàgina mestra</translation>
     </message>
     <message>
         <source>Copy #%1 of </source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Còpia #%1 de</translation>
     </message>
     <message>
         <source>Duplicate the selected master page</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Duplica la pàgina mestra seleccionada</translation>
     </message>
     <message>
         <source>Delete the selected master page</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Esborra la pàgina mestra seleccionada</translation>
     </message>
     <message>
         <source>Add a new master page</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Afegeix una nova pàgina mestra</translation>
     </message>
     <message>
         <source>Import master pages from another document</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Importa una pàgina mestra d&apos;un altre document</translation>
     </message>
     <message>
         <source>New Master Page %1</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Nova pàgina mestra %1</translation>
     </message>
     <message>
         <source>Unable to Rename Master Page</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">No s&apos;ha pogut reanomenar la pàgina mestra</translation>
     </message>
     <message>
         <source>The Normal page is not allowed to be renamed.</source>
@@ -9461,23 +9461,23 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Rename Master Page</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Reanomena la pàgina mestra</translation>
     </message>
     <message>
         <source>New Name:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Nou nom:</translation>
     </message>
     <message>
         <source>Copy #%1 of %2</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Copia #%1 de %2</translation>
     </message>
     <message>
         <source>This master page is used at least once in the document.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Aquesta pàgina mestra s&apos;ha usat al menys un cop en el document.</translation>
     </message>
     <message>
         <source>Do you really want to delete master page &quot;%1&quot;?</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Realment voleu esborrar la pàgina mestra &quot;%1&quot;?</translation>
     </message>
 </context>
 <context>
@@ -12981,7 +12981,7 @@ Trieu-ne un altre.</translation>
     </message>
     <message>
         <source>New collection</source>
-        <translation type="unfinished"/>
+        <translation>Nova col·lecció</translation>
     </message>
     <message>
         <source>Delete selected collection</source>
@@ -15228,7 +15228,7 @@ Do you want to use this?</source>
     </message>
     <message>
         <source>A dialog box showing all possible hyphens for each word will show up when you use the Extras, Hyphenate Text option.</source>
-        <translation>Un quadre de diàleg amb tots els possibles guionets per cada paraula es mostrarà si feu servir extres, partició de mots.</translation>
+        <translation>Si feu servir &quot;partició de mots&quot; del menú Extres, es mostrarà un quadre de diàleg amb tots els possibles guionets per cada paraula </translation>
     </message>
     <message>
         <source>&amp;Hyphenation Suggestions</source>
@@ -20250,7 +20250,7 @@ del seqüència dor de l&apos;Scribus per més informació. </translation>
     </message>
     <message>
         <source>Select color</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Seleccionar color</translation>
     </message>
     <message>
         <source>Pick Screen Color</source>
@@ -20258,7 +20258,7 @@ del seqüència dor de l&apos;Scribus per més informació. </translation>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"/>
+        <translation>Seleccionar color</translation>
     </message>
 </context>
 <context>
@@ -20533,7 +20533,7 @@ Comprova el nom i el camí.</translation>
     </message>
     <message>
         <source>Are you sure you want to delete &apos;%1&apos;?</source>
-        <translation type="unfinished"/>
+        <translation>Esteu segurs de voler esborrar  &apos;%1&apos;?</translation>
     </message>
     <message>
         <source>&amp;New Folder</source>
@@ -21801,7 +21801,7 @@ detallades exhaustivament per les funcions cridades.
     </message>
     <message>
         <source>Scribus Crash</source>
-        <translation type="unfinished"/>
+        <translation>Scribus s&apos;ha tancat</translation>
     </message>
     <message>
         <source>Scribus crashes due to Signal #%1</source>
@@ -22150,7 +22150,7 @@ detallades exhaustivament per les funcions cridades.
     </message>
     <message>
         <source>Elephant</source>
-        <translation type="unfinished"/>
+        <translation>Elefant</translation>
     </message>
     <message>
         <source>Double Demy</source>
@@ -23562,7 +23562,7 @@ Trieu-ne un altre.</translation>
     </message>
     <message>
         <source>Name of the document template</source>
-        <translation type="unfinished"/>
+        <translation>Nom de la plantilla</translation>
     </message>
     <message>
         <source>Show more details to describe the document template</source>
@@ -23578,7 +23578,7 @@ Trieu-ne un altre.</translation>
     </message>
     <message>
         <source>Category of the document template</source>
-        <translation type="unfinished"/>
+        <translation>Categoria de la plantilla</translation>
     </message>
     <message>
         <source>Page Size:</source>
@@ -23602,7 +23602,7 @@ Trieu-ne un altre.</translation>
     </message>
     <message>
         <source>Description of the document template</source>
-        <translation type="unfinished"/>
+        <translation>Descripció de la plantilla</translation>
     </message>
     <message>
         <source>Usage:</source>
@@ -23618,7 +23618,7 @@ Trieu-ne un altre.</translation>
     </message>
     <message>
         <source>Author of the document template</source>
-        <translation type="unfinished"/>
+        <translation>Autor de la plantilla</translation>
     </message>
     <message>
         <source>Email:</source>
@@ -23626,7 +23626,7 @@ Trieu-ne un altre.</translation>
     </message>
     <message>
         <source>Email address of the author of the document template</source>
-        <translation type="unfinished"/>
+        <translation>Correu electrònic de l&apos;autor de la plantilla</translation>
     </message>
 </context>
 <context>
@@ -25657,35 +25657,35 @@ convertint les dades vectorials en un objecte Scribus.</translation>
     </message>
     <message>
         <source>9,999.99</source>
-        <translation type="unfinished"/>
+        <translation>9,999.99</translation>
     </message>
     <message>
         <source>9.999,99</source>
-        <translation type="unfinished"/>
+        <translation>9.999,99</translation>
     </message>
     <message>
         <source>9999.99</source>
-        <translation type="unfinished"/>
+        <translation>9999.99</translation>
     </message>
     <message>
         <source>9999,99</source>
-        <translation type="unfinished"/>
+        <translation>9999,99</translation>
     </message>
     <message>
         <source>m/d</source>
-        <translation type="unfinished"/>
+        <translation>m/d</translation>
     </message>
     <message>
         <source>m/d/yy</source>
-        <translation type="unfinished"/>
+        <translation>m/d/yy</translation>
     </message>
     <message>
         <source>mm/dd/yy</source>
-        <translation type="unfinished"/>
+        <translation>mm/dd/yy</translation>
     </message>
     <message>
         <source>mm/yy</source>
-        <translation type="unfinished"/>
+        <translation>mm/yy</translation>
     </message>
     <message>
         <source>d-mmm</source>
@@ -26863,7 +26863,7 @@ Considera fer servir el Verificador per corregir-los</translation>
     </message>
     <message>
         <source>End Edit</source>
-        <translation type="unfinished"/>
+        <translation>Finalitzar edició</translation>
     </message>
     <message>
         <source>Click here to leave this special edit mode.</source>
@@ -27534,7 +27534,7 @@ Considera fer servir el Verificador per corregir-los</translation>
     </message>
     <message>
         <source>End Edit</source>
-        <translation type="unfinished"/>
+        <translation>Finalitzar edició</translation>
     </message>
 </context>
 <context>
@@ -31413,7 +31413,7 @@ please choose another one.</source>
     </message>
     <message>
         <source>Resizable</source>
-        <translation type="unfinished"/>
+        <translation>Redimensionable</translation>
     </message>
 </context>
 <context>
@@ -31661,7 +31661,7 @@ please choose another one.</source>
     <name>weldEditBase</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Forma</translation>
     </message>
     <message>
         <source>Move weld Point</source>
@@ -31669,11 +31669,11 @@ please choose another one.</source>
     </message>
     <message>
         <source>Move Object</source>
-        <translation type="unfinished"/>
+        <translation>Mou l&apos;objecte</translation>
     </message>
     <message>
         <source>End Edit</source>
-        <translation type="unfinished"/>
+        <translation>Finalitzar edició</translation>
     </message>
     <message>
         <source>Edit Weld</source>

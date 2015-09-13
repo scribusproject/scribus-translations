@@ -463,7 +463,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1310"/>
         <source>Patterns...</source>
-        <translation type="unfinished"/>
+        <translation>Patrones...</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1311"/>
@@ -1036,7 +1036,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1476"/>
         <source>Insert PDF Text Field</source>
-        <translation type="unfinished"/>
+        <translation>Insertar campo de texto PDF</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1477"/>
@@ -4391,12 +4391,12 @@ Alto: %2</translation>
     <message>
         <location filename="../../../scribus/charselect.ui" line="52"/>
         <source>Save the Character Palette</source>
-        <translation type="unfinished"/>
+        <translation>Guardar la Paleta de Caracteres</translation>
     </message>
     <message>
         <location filename="../../../scribus/charselect.ui" line="62"/>
         <source>Empty the Character Palette</source>
-        <translation type="unfinished"/>
+        <translation>Vaciar la Paleta de Caracteres</translation>
     </message>
     <message>
         <location filename="../../../scribus/charselect.cpp" line="345"/>
@@ -6741,7 +6741,7 @@ Lee la sección Editar colores de la documentación para más detalles.</transla
         <location filename="../../../scribus/ui/downloaddictionaries.ui" line="14"/>
         <location filename="../../../scribus/ui/downloaddictionaries.ui" line="56"/>
         <source>Download Dictionaries</source>
-        <translation type="unfinished"/>
+        <translation>Descargar diccionarios</translation>
     </message>
     <message>
         <location filename="../../../scribus/ui/downloaddictionaries.ui" line="20"/>
@@ -6751,7 +6751,7 @@ Lee la sección Editar colores de la documentación para más detalles.</transla
     <message>
         <location filename="../../../scribus/ui/downloaddictionaries.ui" line="49"/>
         <source>Update Dictionary List</source>
-        <translation type="unfinished"/>
+        <translation>Actualizat lista del Diccionario</translation>
     </message>
     <message>
         <location filename="../../../scribus/ui/downloaddictionaries.ui" line="63"/>
@@ -11443,7 +11443,7 @@ Si no hay ninguno elegido, se aplica a todos.</translation>
         <location filename="../../../scribus/outlinepalette.cpp" line="155"/>
         <source>Ctrl+F</source>
         <comment>Filter the Outline using a keyword</comment>
-        <translation type="unfinished"/>
+        <translation>Ctrl+F</translation>
     </message>
 </context>
 <context>
@@ -15269,7 +15269,7 @@ Corners:</source>
         <location filename="../../../scribus/propertiespalette.cpp" line="798"/>
         <location filename="../../../scribus/propertiespalette.cpp" line="5370"/>
         <source>Color &amp; Effects</source>
-        <translation type="unfinished"/>
+        <translation>Colores y Efectos</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="1022"/>
@@ -15694,7 +15694,7 @@ Scripter de Scribus para obtener más información. </translation>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="32"/>
         <source>Forward</source>
-        <translation type="unfinished"/>
+        <translation>Siguiente</translation>
     </message>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="33"/>
@@ -16288,7 +16288,7 @@ Comprueba la ruta y el nombre del archivo.</translation>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="83"/>
         <source>English (Canadian)</source>
-        <translation type="unfinished"/>
+        <translation>Inglés (Canadá)</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="84"/>
@@ -16303,12 +16303,12 @@ Comprueba la ruta y el nombre del archivo.</translation>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="86"/>
         <source>English (USA)</source>
-        <translation type="unfinished"/>
+        <translation>Inglés (Estados Unidos)</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="87"/>
         <source>English (South African)</source>
-        <translation type="unfinished"/>
+        <translation>Inglés (Sudáfrica)</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="90"/>
@@ -18591,7 +18591,7 @@ Por eso la imagen pudiera no ser correcta</translation>
         <location filename="../../../scribus/main_win32.cpp" line="234"/>
         <location filename="../../../scribus/main_win32.cpp" line="259"/>
         <source>Scribus Crash</source>
-        <translation type="unfinished"/>
+        <translation>Scribus se ha cerrado</translation>
     </message>
     <message>
         <location filename="../../../scribus/main_nix.cpp" line="128"/>
@@ -21155,12 +21155,12 @@ Considere utilizar el revisor de diseño para corregirlos</translation>
     <message>
         <location filename="../../../scribus/scribusview.cpp" line="360"/>
         <source>Configure CMS...</source>
-        <translation type="unfinished"/>
+        <translation>Configurar CMS...</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusview.cpp" line="349"/>
         <source>Zoom to 100%</source>
-        <translation type="unfinished"/>
+        <translation>Zoom al 100%</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusview.cpp" line="350"/>
@@ -23176,7 +23176,7 @@ Considere utilizar el revisor de diseño para corregirlos</translation>
     <message>
         <location filename="../../../scribus/tabexternaltoolswidget.ui" line="300"/>
         <source>Add...</source>
-        <translation type="unfinished"/>
+        <translation>Añadir...</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabexternaltoolswidget.cpp" line="271"/>
@@ -25285,7 +25285,7 @@ al abrir el documento PDF:</translation>
     <message>
         <location filename="../../../scribus/tabscrapbook.ui" line="52"/>
         <source>The minimum number is 1; the maximum is 100.</source>
-        <translation type="unfinished"/>
+        <translation>El mínimo es 1; el máximo es 100</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabscrapbook.ui" line="55"/>
@@ -26128,12 +26128,12 @@ al abrir el documento PDF:</translation>
     <message>
         <location filename="../../../scribus/plugins/tools/transform/transformdialogbase.ui" line="76"/>
         <source>u</source>
-        <translation type="unfinished"/>
+        <translation>u</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/transform/transformdialogbase.ui" line="92"/>
         <source>d</source>
-        <translation type="unfinished"/>
+        <translation>d</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/transform/transformdialogbase.ui" line="133"/>
@@ -26196,7 +26196,7 @@ al abrir el documento PDF:</translation>
     <message>
         <location filename="../../../scribus/plugins/tools/transform/transformeffect.cpp" line="66"/>
         <source>Transform...</source>
-        <translation type="unfinished"/>
+        <translation>Transformar...</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/transform/transformeffect.cpp" line="86"/>
@@ -26924,7 +26924,7 @@ a %2</translation>
     <message>
         <location filename="../../../scribus/undomanager.cpp" line="976"/>
         <source>Edit text</source>
-        <translation type="unfinished"/>
+        <translation>Editar texto</translation>
     </message>
     <message>
         <location filename="../../../scribus/undomanager.cpp" line="977"/>
@@ -27959,7 +27959,7 @@ Un valor de 0 significa divisiones ilimitadas.</translation>
     <message>
         <location filename="../../../scribus/selectobjects.ui" line="261"/>
         <source>Resizeable</source>
-        <translation type="unfinished"/>
+        <translation>Cambiar tamaño</translation>
     </message>
     <message>
         <location filename="../../../scribus/selectobjects.ui" line="46"/>

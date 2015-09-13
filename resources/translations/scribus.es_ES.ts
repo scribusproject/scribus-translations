@@ -3659,11 +3659,11 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Save the Character Palette</source>
-        <translation type="unfinished"/>
+        <translation>Guardar la Paleta de Caracteres</translation>
     </message>
     <message>
         <source>Empty the Character Palette</source>
-        <translation type="unfinished"/>
+        <translation>Vaciar la Paleta de Caracteres</translation>
     </message>
 </context>
 <context>
@@ -20552,7 +20552,7 @@ Compruebe la ruta y el nombre.</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished"/>
+        <translation>Siguiente</translation>
     </message>
     <message>
         <source>Parent Directory</source>
@@ -21833,7 +21833,7 @@ código Python esta lista no es exhaustiva debido a las excepciones de las funci
     </message>
     <message>
         <source>Scribus Crash</source>
-        <translation type="unfinished"/>
+        <translation>Scribus se ha cerrado</translation>
     </message>
     <message>
         <source>Scribus crashes due to Signal #%1</source>
@@ -26666,7 +26666,7 @@ Considere utilizar el revisor de diseño para corregirlos</translation>
     </message>
     <message>
         <source>Zoom to 100%</source>
-        <translation type="unfinished"/>
+        <translation>Zoom al 100%</translation>
     </message>
     <message>
         <source>Zoom out by the stepping value in Tools preferences</source>
@@ -31449,7 +31449,7 @@ por favor escoja otro.</translation>
     </message>
     <message>
         <source>Resizable</source>
-        <translation type="unfinished"/>
+        <translation>Cambiar tamaño</translation>
     </message>
 </context>
 <context>
