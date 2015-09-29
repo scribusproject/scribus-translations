@@ -2012,739 +2012,739 @@
 <context>
     <name>Annot</name>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="61"/>
+        <location filename="../../../scribus/annot.cpp" line="63"/>
         <source>Field Properties</source>
         <translation>Ιδιότητες πεδίου</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="92"/>
-        <location filename="../../../scribus/annot.cpp" line="533"/>
+        <location filename="../../../scribus/annot.cpp" line="94"/>
+        <location filename="../../../scribus/annot.cpp" line="535"/>
         <source>Type:</source>
         <translation>Τύπος:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="96"/>
+        <location filename="../../../scribus/annot.cpp" line="98"/>
         <source>Button</source>
         <translation>Κουμπί</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="96"/>
+        <location filename="../../../scribus/annot.cpp" line="98"/>
         <source>Text Field</source>
         <translation>Πεδίο κειμένου</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="96"/>
+        <location filename="../../../scribus/annot.cpp" line="98"/>
         <source>Check Box</source>
         <translation>Πλαίσιο επιλογής</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="96"/>
+        <location filename="../../../scribus/annot.cpp" line="98"/>
         <source>Combo Box</source>
         <translation>Πλαίσιο συνδυασμών</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="96"/>
+        <location filename="../../../scribus/annot.cpp" line="98"/>
         <source>List Box</source>
         <translation>Λίστα</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="111"/>
+        <location filename="../../../scribus/annot.cpp" line="113"/>
         <source>Properties</source>
         <translation>Ιδιότητες</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="121"/>
+        <location filename="../../../scribus/annot.cpp" line="123"/>
         <source>Name:</source>
         <translation>Όνομα:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="134"/>
+        <location filename="../../../scribus/annot.cpp" line="136"/>
         <source>Tooltip:</source>
         <translation>&amp;Συμβουλές εργαλείων</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="146"/>
-        <location filename="../../../scribus/annot.cpp" line="274"/>
+        <location filename="../../../scribus/annot.cpp" line="148"/>
+        <location filename="../../../scribus/annot.cpp" line="276"/>
         <source>Text</source>
         <translation>Κείμενο</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="152"/>
+        <location filename="../../../scribus/annot.cpp" line="154"/>
         <source>Font for use with PDF 1.3:</source>
         <translation>Γραμματοσειρά για χρήση με το PDF 1.3:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="176"/>
+        <location filename="../../../scribus/annot.cpp" line="178"/>
         <source>Border</source>
         <translation>Περίγραμμα</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="182"/>
+        <location filename="../../../scribus/annot.cpp" line="184"/>
         <source>Color:</source>
         <translation>Χρώμα:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="197"/>
+        <location filename="../../../scribus/annot.cpp" line="199"/>
         <source>Width:</source>
         <translation>Πλάτος:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="201"/>
+        <location filename="../../../scribus/annot.cpp" line="203"/>
         <source>Thin</source>
         <translation>Λεπτό</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="201"/>
-        <location filename="../../../scribus/annot.cpp" line="311"/>
+        <location filename="../../../scribus/annot.cpp" line="203"/>
+        <location filename="../../../scribus/annot.cpp" line="313"/>
         <source>Normal</source>
         <translation>Κανονικό</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="201"/>
+        <location filename="../../../scribus/annot.cpp" line="203"/>
         <source>Wide</source>
         <translation>Πλατύ</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="209"/>
+        <location filename="../../../scribus/annot.cpp" line="211"/>
         <source>Style:</source>
         <translation>Στυλ:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="213"/>
+        <location filename="../../../scribus/annot.cpp" line="215"/>
         <source>Solid</source>
         <translation>Συμπαγές</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="213"/>
+        <location filename="../../../scribus/annot.cpp" line="215"/>
         <source>Dashed</source>
         <translation>Με παύλες</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="213"/>
+        <location filename="../../../scribus/annot.cpp" line="215"/>
         <source>Underline</source>
         <translation>Υπογράμμιση</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="214"/>
+        <location filename="../../../scribus/annot.cpp" line="216"/>
         <source>Beveled</source>
         <translation>Φαλτσογωνία</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="214"/>
+        <location filename="../../../scribus/annot.cpp" line="216"/>
         <source>Inset</source>
         <translation>Ένθετο</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="224"/>
+        <location filename="../../../scribus/annot.cpp" line="226"/>
         <source>Other</source>
         <translation>Άλλο</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="230"/>
+        <location filename="../../../scribus/annot.cpp" line="232"/>
         <source>Read Only</source>
         <translation>Μόνο για ανάγνωση</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="236"/>
+        <location filename="../../../scribus/annot.cpp" line="238"/>
         <source>Required</source>
         <translation>Απαιτείται</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="242"/>
+        <location filename="../../../scribus/annot.cpp" line="244"/>
         <source>Do Not Export Value</source>
         <translation>Να μη εξαχθεί η τιμή</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="248"/>
+        <location filename="../../../scribus/annot.cpp" line="250"/>
         <source>Visibility:</source>
         <translation>Ορατότητα:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="252"/>
+        <location filename="../../../scribus/annot.cpp" line="254"/>
         <source>Visible</source>
         <translation>Ορατό</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="252"/>
+        <location filename="../../../scribus/annot.cpp" line="254"/>
         <source>Hidden</source>
         <translation>Κρυφό</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="252"/>
+        <location filename="../../../scribus/annot.cpp" line="254"/>
         <source>No Print</source>
         <translation>Χωρίς εκτύπωση</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="253"/>
+        <location filename="../../../scribus/annot.cpp" line="255"/>
         <source>No View</source>
         <translation>Χωρίς προβολή</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="262"/>
+        <location filename="../../../scribus/annot.cpp" line="264"/>
         <source>Appearance</source>
         <translation>Εμφάνιση</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="280"/>
+        <location filename="../../../scribus/annot.cpp" line="282"/>
         <source>Text for Button Down</source>
         <translation>Κείμενο για πατημένο κουμπί</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="283"/>
+        <location filename="../../../scribus/annot.cpp" line="285"/>
         <source>Text for Roll Over</source>
         <translation>Κείμενο για κύλιση</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="294"/>
+        <location filename="../../../scribus/annot.cpp" line="296"/>
         <source>Icons</source>
         <translation>Εικονίδια</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="300"/>
+        <location filename="../../../scribus/annot.cpp" line="302"/>
         <source>Use Icons</source>
         <translation>Χρήση εικονιδίων</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="321"/>
-        <location filename="../../../scribus/annot.cpp" line="339"/>
-        <location filename="../../../scribus/annot.cpp" line="357"/>
+        <location filename="../../../scribus/annot.cpp" line="323"/>
+        <location filename="../../../scribus/annot.cpp" line="341"/>
+        <location filename="../../../scribus/annot.cpp" line="359"/>
         <source>Remove</source>
         <translation>Αφαίρεση</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="329"/>
+        <location filename="../../../scribus/annot.cpp" line="331"/>
         <source>Pressed</source>
         <translation>Πατημένο</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="347"/>
+        <location filename="../../../scribus/annot.cpp" line="349"/>
         <source>Roll Over</source>
         <translation>Κύλιση</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="366"/>
+        <location filename="../../../scribus/annot.cpp" line="368"/>
         <source>Icon Placement...</source>
         <translation>Τοποθέτηση εικονιδίου...</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="414"/>
+        <location filename="../../../scribus/annot.cpp" line="416"/>
         <source>Highlight</source>
         <translation>Τονισμένο</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="421"/>
+        <location filename="../../../scribus/annot.cpp" line="423"/>
         <source>None</source>
         <comment>highlight</comment>
         <translation>Κανένα</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="421"/>
+        <location filename="../../../scribus/annot.cpp" line="423"/>
         <source>Invert</source>
         <translation>Αντιστροφή</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="421"/>
+        <location filename="../../../scribus/annot.cpp" line="423"/>
         <source>Outlined</source>
         <translation>Με περίγραμμα</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="421"/>
+        <location filename="../../../scribus/annot.cpp" line="423"/>
         <source>Push</source>
         <translation>Πάτημα</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="438"/>
+        <location filename="../../../scribus/annot.cpp" line="440"/>
         <source>Multi-Line</source>
         <translation>Πολλαπλών γραμμών</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="442"/>
+        <location filename="../../../scribus/annot.cpp" line="444"/>
         <source>Password</source>
         <translation>Κωδικός πρόσβασης</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="449"/>
+        <location filename="../../../scribus/annot.cpp" line="451"/>
         <source>Limit of</source>
         <translation>Όριο</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="460"/>
+        <location filename="../../../scribus/annot.cpp" line="462"/>
         <source>Characters</source>
         <translation>Χαρακτήρων</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="466"/>
+        <location filename="../../../scribus/annot.cpp" line="468"/>
         <source>Do Not Scroll</source>
         <translation>Χωρίς κύλιση</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="470"/>
+        <location filename="../../../scribus/annot.cpp" line="472"/>
         <source>Do Not Spell Check</source>
         <translation>Χωρίς ορθογραφικό έλεγχο</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="485"/>
+        <location filename="../../../scribus/annot.cpp" line="487"/>
         <source>Check Style:</source>
         <translation>Στυλ ενεργοποίησης:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="488"/>
+        <location filename="../../../scribus/annot.cpp" line="490"/>
         <source>Check</source>
         <translation>Έλεγχος</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="488"/>
+        <location filename="../../../scribus/annot.cpp" line="490"/>
         <source>Cross</source>
         <translation>Σταυρός</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="488"/>
+        <location filename="../../../scribus/annot.cpp" line="490"/>
         <source>Diamond</source>
         <translation>Διαμάντι</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="488"/>
+        <location filename="../../../scribus/annot.cpp" line="490"/>
         <source>Circle</source>
         <translation>Κύκλος</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="488"/>
+        <location filename="../../../scribus/annot.cpp" line="490"/>
         <source>Star</source>
         <translation>Αστέρι</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="488"/>
+        <location filename="../../../scribus/annot.cpp" line="490"/>
         <source>Square</source>
         <translation>Τετράγωνο</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="502"/>
+        <location filename="../../../scribus/annot.cpp" line="504"/>
         <source>Default is Checked</source>
         <translation>Προκαθορισμένα ενεργοποιημένο</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="514"/>
+        <location filename="../../../scribus/annot.cpp" line="516"/>
         <source>Editable</source>
         <translation>Επεξεργάσιμο</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="521"/>
+        <location filename="../../../scribus/annot.cpp" line="523"/>
         <source>Options</source>
         <translation>Επιλογές</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="537"/>
-        <location filename="../../../scribus/annot.cpp" line="2072"/>
+        <location filename="../../../scribus/annot.cpp" line="539"/>
+        <location filename="../../../scribus/annot.cpp" line="2095"/>
         <source>None</source>
         <comment>action</comment>
         <translation>Κανένα</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="537"/>
-        <location filename="../../../scribus/annot.cpp" line="2072"/>
-        <location filename="../../../scribus/annot.cpp" line="2110"/>
+        <location filename="../../../scribus/annot.cpp" line="539"/>
+        <location filename="../../../scribus/annot.cpp" line="2095"/>
+        <location filename="../../../scribus/annot.cpp" line="2133"/>
         <source>JavaScript</source>
         <translation>JavaScript</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="537"/>
-        <location filename="../../../scribus/annot.cpp" line="2072"/>
+        <location filename="../../../scribus/annot.cpp" line="539"/>
+        <location filename="../../../scribus/annot.cpp" line="2095"/>
         <source>Go To</source>
         <translation>Μετάβαση σε</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="538"/>
-        <location filename="../../../scribus/annot.cpp" line="2073"/>
+        <location filename="../../../scribus/annot.cpp" line="540"/>
+        <location filename="../../../scribus/annot.cpp" line="2096"/>
         <source>Submit Form</source>
         <translation>Υποβολή φόρμας</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="538"/>
-        <location filename="../../../scribus/annot.cpp" line="2073"/>
+        <location filename="../../../scribus/annot.cpp" line="540"/>
+        <location filename="../../../scribus/annot.cpp" line="2096"/>
         <source>Reset Form</source>
         <translation>Μηδενισμός φόρμας</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="538"/>
-        <location filename="../../../scribus/annot.cpp" line="2073"/>
+        <location filename="../../../scribus/annot.cpp" line="540"/>
+        <location filename="../../../scribus/annot.cpp" line="2096"/>
         <source>Import Data</source>
         <translation>Εισαγωγή δεδομένων</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="570"/>
+        <location filename="../../../scribus/annot.cpp" line="572"/>
         <source>Event:</source>
         <translation>Γεγονός:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="573"/>
-        <location filename="../../../scribus/annot.cpp" line="2052"/>
+        <location filename="../../../scribus/annot.cpp" line="575"/>
+        <location filename="../../../scribus/annot.cpp" line="2075"/>
         <source>Mouse Up</source>
         <translation>Ελευθέρωση ποντικιού</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="573"/>
-        <location filename="../../../scribus/annot.cpp" line="2052"/>
+        <location filename="../../../scribus/annot.cpp" line="575"/>
+        <location filename="../../../scribus/annot.cpp" line="2075"/>
         <source>Mouse Down</source>
         <translation>Πάτημα ποντικιού</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="573"/>
-        <location filename="../../../scribus/annot.cpp" line="2052"/>
+        <location filename="../../../scribus/annot.cpp" line="575"/>
+        <location filename="../../../scribus/annot.cpp" line="2075"/>
         <source>Mouse Enter</source>
         <translation>Είσοδος ποντικιού</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="574"/>
-        <location filename="../../../scribus/annot.cpp" line="2053"/>
+        <location filename="../../../scribus/annot.cpp" line="576"/>
+        <location filename="../../../scribus/annot.cpp" line="2076"/>
         <source>Mouse Exit</source>
         <translation>Έξοδος ποντικιού</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="574"/>
-        <location filename="../../../scribus/annot.cpp" line="2053"/>
+        <location filename="../../../scribus/annot.cpp" line="576"/>
+        <location filename="../../../scribus/annot.cpp" line="2076"/>
         <source>On Focus</source>
         <translation>Σε εστίαση</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="574"/>
-        <location filename="../../../scribus/annot.cpp" line="2053"/>
+        <location filename="../../../scribus/annot.cpp" line="576"/>
+        <location filename="../../../scribus/annot.cpp" line="2076"/>
         <source>On Blur</source>
         <translation>Κατά το θόλωμα</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="585"/>
+        <location filename="../../../scribus/annot.cpp" line="587"/>
         <source>Script:</source>
         <translation>Σενάριο:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="604"/>
-        <location filename="../../../scribus/annot.cpp" line="933"/>
-        <location filename="../../../scribus/annot.cpp" line="959"/>
-        <location filename="../../../scribus/annot.cpp" line="1036"/>
-        <location filename="../../../scribus/annot.cpp" line="1111"/>
+        <location filename="../../../scribus/annot.cpp" line="606"/>
+        <location filename="../../../scribus/annot.cpp" line="935"/>
+        <location filename="../../../scribus/annot.cpp" line="961"/>
+        <location filename="../../../scribus/annot.cpp" line="1038"/>
+        <location filename="../../../scribus/annot.cpp" line="1113"/>
         <source>Edit...</source>
         <translation>Επεξεργασία...</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="670"/>
+        <location filename="../../../scribus/annot.cpp" line="672"/>
         <source>Submit to URL:</source>
         <translation>Υποβολή στο URL:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="707"/>
+        <location filename="../../../scribus/annot.cpp" line="709"/>
         <source>Import Data from:</source>
         <translation>Εισαγωγή δεδομένων από:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="610"/>
+        <location filename="../../../scribus/annot.cpp" line="612"/>
         <source>Destination</source>
         <translation>Προορισμός</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="616"/>
+        <location filename="../../../scribus/annot.cpp" line="618"/>
         <source>To File:</source>
         <translation>Στο αρχείο:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="623"/>
+        <location filename="../../../scribus/annot.cpp" line="625"/>
         <source>Change...</source>
         <translation>Τροποποίηση...</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="632"/>
+        <location filename="../../../scribus/annot.cpp" line="634"/>
         <source>Page:</source>
         <translation>Σελίδα:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="646"/>
+        <location filename="../../../scribus/annot.cpp" line="648"/>
         <source>X-Pos:</source>
         <translation>Χ-Θεσ:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="649"/>
-        <location filename="../../../scribus/annot.cpp" line="658"/>
+        <location filename="../../../scribus/annot.cpp" line="651"/>
+        <location filename="../../../scribus/annot.cpp" line="660"/>
         <source> pt</source>
         <translation> σημ</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="654"/>
+        <location filename="../../../scribus/annot.cpp" line="656"/>
         <source>Y-Pos:</source>
         <translation>Υ-Θεσ:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="716"/>
+        <location filename="../../../scribus/annot.cpp" line="718"/>
         <source>Action</source>
         <translation>Ενέργεια</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="747"/>
+        <location filename="../../../scribus/annot.cpp" line="749"/>
         <source>Field is formatted as:</source>
         <translation>Το πεδίο είναι μορφοποιημένο ως:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="750"/>
+        <location filename="../../../scribus/annot.cpp" line="752"/>
         <source>Plain</source>
         <translation>Απλό</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="750"/>
+        <location filename="../../../scribus/annot.cpp" line="752"/>
         <source>Number</source>
         <translation>Αριθμός</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="750"/>
+        <location filename="../../../scribus/annot.cpp" line="752"/>
         <source>Percentage</source>
         <translation>Ποσοστό</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="750"/>
+        <location filename="../../../scribus/annot.cpp" line="752"/>
         <source>Date</source>
         <translation>Ημερομηνία</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="750"/>
+        <location filename="../../../scribus/annot.cpp" line="752"/>
         <source>Time</source>
         <translation>Ώρα</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="750"/>
+        <location filename="../../../scribus/annot.cpp" line="752"/>
         <source>Custom</source>
         <translation>Προσαρμοσμένο</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="768"/>
+        <location filename="../../../scribus/annot.cpp" line="770"/>
         <source>Number Format</source>
         <translation>Μορφή αριθμού</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="777"/>
-        <location filename="../../../scribus/annot.cpp" line="836"/>
+        <location filename="../../../scribus/annot.cpp" line="779"/>
+        <location filename="../../../scribus/annot.cpp" line="838"/>
         <source>Decimals:</source>
         <translation>Δεκαδικά:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="791"/>
+        <location filename="../../../scribus/annot.cpp" line="793"/>
         <source>Use Currency Symbol</source>
         <translation>Χρήση συμβόλου νομίσματος</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="800"/>
+        <location filename="../../../scribus/annot.cpp" line="802"/>
         <source>Prepend Currency Symbol</source>
         <translation>Προσθήκη μπροστά νομίσματος</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="804"/>
-        <location filename="../../../scribus/annot.cpp" line="847"/>
+        <location filename="../../../scribus/annot.cpp" line="806"/>
+        <location filename="../../../scribus/annot.cpp" line="849"/>
         <source>Formatting</source>
         <translation>Μορφοποίηση</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="827"/>
+        <location filename="../../../scribus/annot.cpp" line="829"/>
         <source>Percent Format</source>
         <translation>Μορφή ποσοστού</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="870"/>
+        <location filename="../../../scribus/annot.cpp" line="872"/>
         <source>Date Format</source>
         <translation>Μορφή ημερομηνίας</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="896"/>
+        <location filename="../../../scribus/annot.cpp" line="898"/>
         <source>Time Format</source>
         <translation>Μορφή ώρας</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="918"/>
+        <location filename="../../../scribus/annot.cpp" line="920"/>
         <source>Custom Scripts</source>
         <translation>Προσαρμοσμένα σενάρια</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="930"/>
+        <location filename="../../../scribus/annot.cpp" line="932"/>
         <source>Format:</source>
         <translation>Μορφή:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="956"/>
+        <location filename="../../../scribus/annot.cpp" line="958"/>
         <source>Keystroke:</source>
         <translation>Πάτημα πλήκτρου:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="980"/>
+        <location filename="../../../scribus/annot.cpp" line="982"/>
         <source>Format</source>
         <translation>Μορφή</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="996"/>
+        <location filename="../../../scribus/annot.cpp" line="998"/>
         <source>Value is not validated</source>
         <translation>Η τιμή δεν είναι επαληθευμένη</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="1005"/>
+        <location filename="../../../scribus/annot.cpp" line="1007"/>
         <source>Value must be greater than or equal to:</source>
         <translation>Η τιμή πρέπει να είναι μεγαλύτερη ή ίση με:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="1009"/>
+        <location filename="../../../scribus/annot.cpp" line="1011"/>
         <source>and less or equal to:</source>
         <translation>και μικρότερη ή ίση με:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="1020"/>
+        <location filename="../../../scribus/annot.cpp" line="1022"/>
         <source>Custom validate script:</source>
         <translation>Προσαρμοσμένο σενάριο επαλήθευσης:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="1041"/>
+        <location filename="../../../scribus/annot.cpp" line="1043"/>
         <source>Validate</source>
         <translation>Επαλήθευση</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="1058"/>
+        <location filename="../../../scribus/annot.cpp" line="1060"/>
         <source>Value is not calculated</source>
         <translation>Η τιμή δεν υπολογίστηκε</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="1067"/>
+        <location filename="../../../scribus/annot.cpp" line="1069"/>
         <source>Value is the</source>
         <translation>Η τιμή είναι</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="1072"/>
+        <location filename="../../../scribus/annot.cpp" line="1074"/>
         <source>sum</source>
         <translation>άθροισμα</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="1072"/>
+        <location filename="../../../scribus/annot.cpp" line="1074"/>
         <source>product</source>
         <translation>γινόμενο</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="1072"/>
+        <location filename="../../../scribus/annot.cpp" line="1074"/>
         <source>average</source>
         <translation>μέσος όρος</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="1072"/>
+        <location filename="../../../scribus/annot.cpp" line="1074"/>
         <source>minimum</source>
         <translation>ελάχιστο</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="1073"/>
+        <location filename="../../../scribus/annot.cpp" line="1075"/>
         <source>maximum</source>
         <translation>μέγιστο</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="1080"/>
+        <location filename="../../../scribus/annot.cpp" line="1082"/>
         <source>of the following fields:</source>
         <translation>των παρακάτω πεδίων:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="1090"/>
+        <location filename="../../../scribus/annot.cpp" line="1092"/>
         <source>Pick...</source>
         <translation>Επιλογή...</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="1095"/>
+        <location filename="../../../scribus/annot.cpp" line="1097"/>
         <source>Custom calculation script:</source>
         <translation>Προσαρμοσμένο σενάριο υπολογισμού:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="1115"/>
+        <location filename="../../../scribus/annot.cpp" line="1117"/>
         <source>Calculate</source>
         <translation>Υπολογισμός</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="1134"/>
+        <location filename="../../../scribus/annot.cpp" line="1136"/>
         <source>OK</source>
         <translation>Εντάξει</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="1138"/>
+        <location filename="../../../scribus/annot.cpp" line="1140"/>
         <source>Cancel</source>
         <translation>Ακύρωση</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="1189"/>
-        <location filename="../../../scribus/annot.cpp" line="1190"/>
+        <location filename="../../../scribus/annot.cpp" line="1191"/>
+        <location filename="../../../scribus/annot.cpp" line="1192"/>
         <source>Flag is ignored for PDF 1.3</source>
         <translation>Η σημαία αγνοείται στο PDF 1.3</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="1191"/>
+        <location filename="../../../scribus/annot.cpp" line="1193"/>
         <source>Enter a comma separated list of fields here</source>
         <translation>Εισάγετε εδώ μία λίστα πεδίων διαχωρισμένη με κόμματα</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="1192"/>
+        <location filename="../../../scribus/annot.cpp" line="1194"/>
         <source>You need at least the Icon for Normal to use Icons for Buttons</source>
         <translation>Χρειάζεστε τουλάχιστον το εικονίδιο για τη χρήση εικονιδίων στα κουμπιά</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="1302"/>
-        <location filename="../../../scribus/annot.cpp" line="1333"/>
-        <location filename="../../../scribus/annot.cpp" line="1357"/>
-        <location filename="../../../scribus/annot.cpp" line="2267"/>
+        <location filename="../../../scribus/annot.cpp" line="1304"/>
+        <location filename="../../../scribus/annot.cpp" line="1335"/>
+        <location filename="../../../scribus/annot.cpp" line="1359"/>
+        <location filename="../../../scribus/annot.cpp" line="2290"/>
         <source>Open</source>
         <translation>Άνοιγμα</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="1477"/>
+        <location filename="../../../scribus/annot.cpp" line="1479"/>
         <source>Example:</source>
         <translation>Παράδειγμα:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="2101"/>
+        <location filename="../../../scribus/annot.cpp" line="2124"/>
         <source>Selection Change</source>
         <translation>Τροποποίηση επιλογής</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="2109"/>
+        <location filename="../../../scribus/annot.cpp" line="2132"/>
         <source>None</source>
         <translation>Κανένα</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="2267"/>
+        <location filename="../../../scribus/annot.cpp" line="2290"/>
         <source>PDF Files (*.pdf);;All Files (*)</source>
         <translation>Αρχεία PDF (*.pdf);;Όλα τα αρχεία (*)</translation>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="1334"/>
-        <location filename="../../../scribus/annot.cpp" line="1358"/>
+        <location filename="../../../scribus/annot.cpp" line="1336"/>
+        <location filename="../../../scribus/annot.cpp" line="1360"/>
         <source>Images (*.tif *.png *.jpg *.xpm);;PostScript (*.eps *.epsi);;All Files (*)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="1303"/>
+        <location filename="../../../scribus/annot.cpp" line="1305"/>
         <source>Images (*.tif *.png *.jpg *.xpm);;%1;;All Files (*)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="625"/>
+        <location filename="../../../scribus/annot.cpp" line="627"/>
         <source>Export absolute Filename</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="682"/>
+        <location filename="../../../scribus/annot.cpp" line="684"/>
         <source>Submit format:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="685"/>
+        <location filename="../../../scribus/annot.cpp" line="687"/>
         <source>FDF</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="685"/>
+        <location filename="../../../scribus/annot.cpp" line="687"/>
         <source>HTML</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="685"/>
+        <location filename="../../../scribus/annot.cpp" line="687"/>
         <source>XFDF</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/annot.cpp" line="685"/>
+        <location filename="../../../scribus/annot.cpp" line="687"/>
         <source>PDF</source>
         <translation>PDF</translation>
     </message>
@@ -11495,37 +11495,37 @@ If no handle is selected all handles will be reset.</source>
         <translation>Εξαγωγή αντικειμένων της τρέχουσας σελίδας:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/pdflib_core.cpp" line="2449"/>
+        <location filename="../../../scribus/pdflib_core.cpp" line="2532"/>
         <source>Page:</source>
         <translation>Σελίδα:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/pdflib_core.cpp" line="2462"/>
+        <location filename="../../../scribus/pdflib_core.cpp" line="2545"/>
         <source>Date:</source>
         <translation>&amp;Ημερομηνία:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/pdflib_core.cpp" line="7874"/>
+        <location filename="../../../scribus/pdflib_core.cpp" line="7970"/>
         <source>Failed to load an image : %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/pdflib_core.cpp" line="7879"/>
+        <location filename="../../../scribus/pdflib_core.cpp" line="7975"/>
         <source>Failed to write an image : %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/pdflib_core.cpp" line="7884"/>
+        <location filename="../../../scribus/pdflib_core.cpp" line="7980"/>
         <source>Failed to load an image mask : %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/pdflib_core.cpp" line="7889"/>
+        <location filename="../../../scribus/pdflib_core.cpp" line="7985"/>
         <source>Insufficient memory for processing an image</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/pdflib_core.cpp" line="7869"/>
+        <location filename="../../../scribus/pdflib_core.cpp" line="7965"/>
         <source>A write error occurred, please check available disk space</source>
         <translation type="unfinished"/>
     </message>
@@ -11546,223 +11546,213 @@ If no handle is selected all handles will be reset.</source>
         <translation>Προεπισκόπηση εκτύπωσης</translation>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="125"/>
+        <location filename="../../../scribus/preview.cpp" line="124"/>
         <source>Display Settings</source>
         <translation>Ρυθμίσεις εμφάνισης</translation>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="131"/>
+        <location filename="../../../scribus/preview.cpp" line="130"/>
         <source>Enable &amp;Antialiasing</source>
         <translation>Ενεργοποίηση εκτύπωσης αντικειμένου</translation>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="136"/>
+        <location filename="../../../scribus/preview.cpp" line="135"/>
         <source>Display Trans&amp;parency</source>
         <translation>Εμφάνιση &amp;διαφάνειας</translation>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="141"/>
+        <location filename="../../../scribus/preview.cpp" line="140"/>
         <source>&amp;Display CMYK</source>
         <translation>&amp;Display CMYK</translation>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="238"/>
+        <location filename="../../../scribus/preview.cpp" line="237"/>
         <source>&amp;C</source>
         <translation>&amp;C</translation>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="243"/>
+        <location filename="../../../scribus/preview.cpp" line="242"/>
         <source>&amp;M</source>
         <translation>&amp;M</translation>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="248"/>
+        <location filename="../../../scribus/preview.cpp" line="247"/>
         <source>&amp;Y</source>
         <translation>&amp;Y</translation>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="253"/>
+        <location filename="../../../scribus/preview.cpp" line="252"/>
         <source>&amp;K</source>
         <translation>&amp;K</translation>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="154"/>
+        <location filename="../../../scribus/preview.cpp" line="153"/>
         <source>Separation Name</source>
         <translation>Όνομα διαχωρισμού</translation>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="166"/>
+        <location filename="../../../scribus/preview.cpp" line="165"/>
         <source>Cyan</source>
         <translation>Κυανό</translation>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="173"/>
+        <location filename="../../../scribus/preview.cpp" line="172"/>
         <source>Magenta</source>
         <translation>Ματζέντα</translation>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="180"/>
+        <location filename="../../../scribus/preview.cpp" line="179"/>
         <source>Yellow</source>
         <translation>Κίτρινο</translation>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="187"/>
+        <location filename="../../../scribus/preview.cpp" line="186"/>
         <source>Black</source>
         <translation>Μαύρο</translation>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="268"/>
+        <location filename="../../../scribus/preview.cpp" line="267"/>
         <source>Mirror Page(s) Horizontal</source>
         <translation>Καθρεφτισμός σελίδας(ων) οριζόντια</translation>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="271"/>
+        <location filename="../../../scribus/preview.cpp" line="270"/>
         <source>Mirror Page(s) Vertical</source>
         <translation>Καθρεφτισμός σελίδας(ων) κατακόρυφα</translation>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="277"/>
+        <location filename="../../../scribus/preview.cpp" line="276"/>
         <source>Print in Grayscale</source>
         <translation>Εκτύπωση σε διαβαθμίσεις του γκρι</translation>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="280"/>
+        <location filename="../../../scribus/preview.cpp" line="279"/>
         <source>&amp;Under Color Removal</source>
         <translation>&amp;Κάτω από τη διαγραφή χρώματος</translation>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="283"/>
+        <location filename="../../../scribus/preview.cpp" line="282"/>
         <source>Convert Spot Colors</source>
         <translation>Μετατροπή σε</translation>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="301"/>
+        <location filename="../../../scribus/preview.cpp" line="295"/>
         <source>Scaling:</source>
         <translation>Κλιμάκωση:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="313"/>
+        <location filename="../../../scribus/preview.cpp" line="307"/>
         <source>Fit to Width</source>
         <translation>Ορισμός πλάτους γραμματοσειράς</translation>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="314"/>
+        <location filename="../../../scribus/preview.cpp" line="308"/>
         <source>Fit to Height</source>
         <translation>Αριστερά προς τα δεξιά</translation>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="315"/>
+        <location filename="../../../scribus/preview.cpp" line="309"/>
         <source>Fit to Page</source>
         <translation>Δεξιά σελίδα</translation>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="326"/>
+        <location filename="../../../scribus/preview.cpp" line="320"/>
         <source>Close</source>
         <translation>Κλείσιμο</translation>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="329"/>
+        <location filename="../../../scribus/preview.cpp" line="323"/>
         <source>Print...</source>
         <translation>Εκτύπωση...</translation>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="357"/>
+        <location filename="../../../scribus/preview.cpp" line="351"/>
         <source>Provides a more pleasant view of Type 1 fonts, TrueType Fonts, OpenType Fonts, EPS, PDF and vector graphics in the preview, at the expense of a slight slowdown in previewing</source>
         <translation>Προσφέρει μια πιο ευχάριστη εμφάνιση των γραμματοσειρών TrueType, OpenType, EPS, PDF και διανυσματικών γραφικών στον προβολέα, με κόστος μία μικρή καθυστέρηση στην προεπισκόπηση</translation>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="358"/>
+        <location filename="../../../scribus/preview.cpp" line="352"/>
         <source>Shows transparency and transparent items in your document. Requires Ghostscript 7.07 or later</source>
         <translation>Εμφανίζει τη διαφάνεια και τα διαφανή αντικείμενα στο έγγραφό σας. Απαιτείται το Ghostscript 7.07 ή νεώτερο</translation>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="359"/>
+        <location filename="../../../scribus/preview.cpp" line="353"/>
         <source>Gives a print preview using simulations of generic CMYK inks, instead of RGB colors</source>
         <translation>Προσφέρει μια προεπισκόπηση εκτύπωσης χρησιμοποιώντας εξομοίωση των βασικών χρωμάτων μελανιών CMYK, στη θέση των χρωμάτων RGB</translation>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="360"/>
+        <location filename="../../../scribus/preview.cpp" line="354"/>
         <source>A way of switching off some of the gray shades which are composed of cyan, yellow and magenta and using black instead. UCR most affects parts of images which are neutral and/or dark tones which are close to the gray. Use of this may improve printing some images and some experimentation and testing is need on a case by case basis. UCR reduces the possibility of over saturation with CMY inks.</source>
         <translation>Μια μέθοδος χρήσης του μαύρου μελανιού σε γκρι σκιάσεις που έχουν συνδεθεί από κυανό, ματζέντα και κίτρινο μελάνι. Το UCR επηρεάζει κυρίως περιοχές εικόνων με ουδέτερους και/ή σκοτεινούς τόνους που βρίσκονται κοντά στις αποχρώσεις του γκρι. Χρησιμοποιήστε αυτήν την επιλογή για τη βελτίωση της εκτύπωσης εικόνων. Για το καλύτερο αποτέλεσμα απαιτούνται κάποιες δοκιμές και πειραματισμός ανά περίπτωση. Το UCR ελαττώνει την πιθανότητα υπερκορεσμού με μελάνια CMY.</translation>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="361"/>
+        <location filename="../../../scribus/preview.cpp" line="355"/>
         <source>Resize the scale of the page.</source>
         <translation>Αλλαγή μεγέθους της κλίμακας της σελίδας.</translation>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="362"/>
+        <location filename="../../../scribus/preview.cpp" line="356"/>
         <source>Enables Spot Colors to be converted to composite colors. Unless you are planning to print spot colors at a commercial printer, this is probably best left enabled.</source>
         <translation>Ενεργοποίηση μετατροπής των χρωμάτων κουκκίδας σε σύνθετα χρώματα. Εκτός της περίπτωσης που επιθυμείτε την εκτύπωση χρωμάτων κουκκίδας σε επαγγελματικό εκτυπωτή αφήστε αυτήν την επιλογή ενεργοποιημένη.</translation>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="382"/>
+        <location filename="../../../scribus/preview.cpp" line="374"/>
         <source>Enable/disable the C (Cyan) ink plate</source>
         <translation>Ενεργοποίηση/απενεργοποίηση της κυανής (C) πλάκας μελανιού</translation>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="383"/>
+        <location filename="../../../scribus/preview.cpp" line="375"/>
         <source>Enable/disable the M (Magenta) ink plate</source>
         <translation>Ενεργοποίηση/απενεργοποίηση της ματζέντα (M) πλάκας μελανιού</translation>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="384"/>
+        <location filename="../../../scribus/preview.cpp" line="376"/>
         <source>Enable/disable the Y (Yellow) ink plate</source>
         <translation>Ενεργοποίηση/απενεργοποίηση της κίτρινης (Y) πλάκας μελανιού</translation>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="385"/>
+        <location filename="../../../scribus/preview.cpp" line="377"/>
         <source>Enable/disable the K (Black) ink plate</source>
         <translation>Ενεργοποίηση/απενεργοποίηση της μαύρης (Κ) πλάκας μελανιού</translation>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="590"/>
-        <location filename="../../../scribus/preview.cpp" line="696"/>
+        <location filename="../../../scribus/preview.cpp" line="568"/>
+        <location filename="../../../scribus/preview.cpp" line="686"/>
         <source>All</source>
         <translation>Όλα</translation>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="1298"/>
+        <location filename="../../../scribus/preview.cpp" line="1307"/>
         <source>File</source>
         <translation>Αρχείο</translation>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="286"/>
-        <source>Apply Color Profiles</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../../scribus/preview.cpp" line="262"/>
+        <location filename="../../../scribus/preview.cpp" line="261"/>
         <source>Preview Settings</source>
         <translation>Ρυθμίσεις προεπισκόπησης</translation>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="363"/>
-        <source>Allows you to embed color profiles in the print stream when color management is enabled</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../../scribus/preview.cpp" line="274"/>
+        <location filename="../../../scribus/preview.cpp" line="273"/>
         <source>Clip to Printer Margins</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="208"/>
+        <location filename="../../../scribus/preview.cpp" line="207"/>
         <source>Display Ink Coverage</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="216"/>
+        <location filename="../../../scribus/preview.cpp" line="215"/>
         <source>Threshold:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="219"/>
+        <location filename="../../../scribus/preview.cpp" line="218"/>
         <source> %</source>
         <translation> %</translation>
     </message>
     <message>
-        <location filename="../../../scribus/preview.cpp" line="223"/>
+        <location filename="../../../scribus/preview.cpp" line="222"/>
         <source>None</source>
         <translation>Κανένα</translation>
     </message>
@@ -11770,12 +11760,12 @@ If no handle is selected all handles will be reset.</source>
 <context>
     <name>PSLib</name>
     <message>
-        <location filename="../../../scribus/pslib.cpp" line="1862"/>
+        <location filename="../../../scribus/pslib.cpp" line="1859"/>
         <source>Processing Master Page:</source>
         <translation>Επεξεργασία πρωτότυπων σελίδων:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/pslib.cpp" line="1862"/>
+        <location filename="../../../scribus/pslib.cpp" line="1859"/>
         <source>Exporting Page:</source>
         <translation>Εξαγωγή σελίδων:</translation>
     </message>
@@ -13775,68 +13765,68 @@ Do you want to migrate them to the new Scribus version?</source>
     <message>
         <location filename="../../../scribus/printdialog.cpp" line="90"/>
         <location filename="../../../scribus/printdialog.cpp" line="112"/>
-        <location filename="../../../scribus/printdialog.cpp" line="271"/>
-        <location filename="../../../scribus/printdialog.cpp" line="303"/>
-        <location filename="../../../scribus/printdialog.cpp" line="501"/>
-        <location filename="../../../scribus/printdialog.cpp" line="583"/>
+        <location filename="../../../scribus/printdialog.cpp" line="270"/>
+        <location filename="../../../scribus/printdialog.cpp" line="299"/>
+        <location filename="../../../scribus/printdialog.cpp" line="492"/>
+        <location filename="../../../scribus/printdialog.cpp" line="571"/>
         <source>File</source>
         <translation>Αρχείο</translation>
     </message>
     <message>
-        <location filename="../../../scribus/printdialog.cpp" line="391"/>
+        <location filename="../../../scribus/printdialog.cpp" line="384"/>
         <source>Print Current Pa&amp;ge</source>
         <translation>Εκτύπωση τρέχουσας &amp;σελίδας</translation>
     </message>
     <message>
-        <location filename="../../../scribus/printdialog.cpp" line="291"/>
-        <location filename="../../../scribus/printdialog.cpp" line="352"/>
+        <location filename="../../../scribus/printdialog.cpp" line="289"/>
+        <location filename="../../../scribus/printdialog.cpp" line="347"/>
         <source>Print Normal</source>
         <translation>Κανονική εκτύπωση</translation>
     </message>
     <message>
         <location filename="../../../scribus/printdialog.cpp" line="95"/>
-        <location filename="../../../scribus/printdialog.cpp" line="293"/>
-        <location filename="../../../scribus/printdialog.cpp" line="354"/>
-        <location filename="../../../scribus/printdialog.cpp" line="465"/>
-        <location filename="../../../scribus/printdialog.cpp" line="527"/>
+        <location filename="../../../scribus/printdialog.cpp" line="291"/>
+        <location filename="../../../scribus/printdialog.cpp" line="349"/>
+        <location filename="../../../scribus/printdialog.cpp" line="457"/>
+        <location filename="../../../scribus/printdialog.cpp" line="518"/>
         <source>All</source>
         <translation>Όλα</translation>
     </message>
     <message>
         <location filename="../../../scribus/printdialog.cpp" line="95"/>
-        <location filename="../../../scribus/printdialog.cpp" line="465"/>
-        <location filename="../../../scribus/printdialog.cpp" line="526"/>
+        <location filename="../../../scribus/printdialog.cpp" line="457"/>
+        <location filename="../../../scribus/printdialog.cpp" line="517"/>
         <source>Cyan</source>
         <translation>Κυανό</translation>
     </message>
     <message>
         <location filename="../../../scribus/printdialog.cpp" line="95"/>
-        <location filename="../../../scribus/printdialog.cpp" line="465"/>
-        <location filename="../../../scribus/printdialog.cpp" line="525"/>
+        <location filename="../../../scribus/printdialog.cpp" line="457"/>
+        <location filename="../../../scribus/printdialog.cpp" line="516"/>
         <source>Magenta</source>
         <translation>Ματζέντα</translation>
     </message>
     <message>
         <location filename="../../../scribus/printdialog.cpp" line="95"/>
-        <location filename="../../../scribus/printdialog.cpp" line="465"/>
-        <location filename="../../../scribus/printdialog.cpp" line="524"/>
+        <location filename="../../../scribus/printdialog.cpp" line="457"/>
+        <location filename="../../../scribus/printdialog.cpp" line="515"/>
         <source>Yellow</source>
         <translation>Κίτρινο</translation>
     </message>
     <message>
         <location filename="../../../scribus/printdialog.cpp" line="96"/>
-        <location filename="../../../scribus/printdialog.cpp" line="465"/>
-        <location filename="../../../scribus/printdialog.cpp" line="523"/>
+        <location filename="../../../scribus/printdialog.cpp" line="457"/>
+        <location filename="../../../scribus/printdialog.cpp" line="514"/>
         <source>Black</source>
         <translation>Μαύρο</translation>
     </message>
     <message>
-        <location filename="../../../scribus/printdialog.cpp" line="312"/>
+        <location filename="../../../scribus/printdialog.cpp" line="308"/>
         <source>Failed to retrieve printer settings</source>
         <translation>Αποτυχία ανάκτησης ρυθμίσεων εκτυπωτή</translation>
     </message>
     <message>
-        <location filename="../../../scribus/printdialog.cpp" line="377"/>
+        <location filename="../../../scribus/printdialog.cpp" line="370"/>
         <source>PostScript Files (*.ps);;All Files (*)</source>
         <translation>Αρχεία PostScript (*.ps);;Όλα τα αρχεία (*)</translation>
     </message>
@@ -13851,7 +13841,7 @@ Do you want to migrate them to the new Scribus version?</source>
         <translation>Ε&amp;ξωτερικά:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/printdialog.cpp" line="377"/>
+        <location filename="../../../scribus/printdialog.cpp" line="370"/>
         <source>Save As</source>
         <translation>Αποθήκευση ως</translation>
     </message>
@@ -14012,142 +14002,132 @@ a range of pages or a single page number.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/printdialogbase.ui" line="407"/>
-        <source>&lt;qt&gt;Allows you to embed color profiles in the print stream when color management is enabled&lt;/qt&gt;</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <location filename="../../../scribus/printdialogbase.ui" line="400"/>
         <source>Convert Spot Colors to Process Colors</source>
         <translation>Μετατροπή χρωμάτων κουκκίδας σε χρώματα επεξεργασίας</translation>
     </message>
     <message>
-        <location filename="../../../scribus/printdialogbase.ui" line="410"/>
-        <source>Apply Color Profiles</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../../scribus/printdialogbase.ui" line="437"/>
+        <location filename="../../../scribus/printdialogbase.ui" line="427"/>
         <source>Marks</source>
         <translation>Περιθώρια</translation>
     </message>
     <message>
-        <location filename="../../../scribus/printdialogbase.ui" line="443"/>
+        <location filename="../../../scribus/printdialogbase.ui" line="433"/>
         <source>This creates crop marks in the PDF indicating where the paper should be cut or trimmed after printing</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/printdialogbase.ui" line="446"/>
+        <location filename="../../../scribus/printdialogbase.ui" line="436"/>
         <source>Crop Marks</source>
         <translation>Βύθιση κεφαλαίων</translation>
     </message>
     <message>
-        <location filename="../../../scribus/printdialogbase.ui" line="453"/>
+        <location filename="../../../scribus/printdialogbase.ui" line="443"/>
         <source>Add registration marks which are added to each separation</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/printdialogbase.ui" line="456"/>
+        <location filename="../../../scribus/printdialogbase.ui" line="446"/>
         <source>Registration Marks</source>
         <translation>Είναι χρώμα καταχώρησης</translation>
     </message>
     <message>
-        <location filename="../../../scribus/printdialogbase.ui" line="463"/>
+        <location filename="../../../scribus/printdialogbase.ui" line="453"/>
         <source>This creates bleed marks which are indicated by  _ . _ and show the bleed limit</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/printdialogbase.ui" line="466"/>
+        <location filename="../../../scribus/printdialogbase.ui" line="456"/>
         <source>Bleed Marks</source>
         <translation>Ημερολόγια</translation>
     </message>
     <message>
-        <location filename="../../../scribus/printdialogbase.ui" line="473"/>
+        <location filename="../../../scribus/printdialogbase.ui" line="463"/>
         <source>Add color calibration bars</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/printdialogbase.ui" line="476"/>
+        <location filename="../../../scribus/printdialogbase.ui" line="466"/>
         <source>Color Bars</source>
         <translation>Χρωματική υπερεμφάνιση</translation>
     </message>
     <message>
-        <location filename="../../../scribus/printdialogbase.ui" line="485"/>
+        <location filename="../../../scribus/printdialogbase.ui" line="475"/>
         <source>Offset:</source>
         <translation>X-Μετατοπ</translation>
     </message>
     <message>
-        <location filename="../../../scribus/printdialogbase.ui" line="492"/>
+        <location filename="../../../scribus/printdialogbase.ui" line="482"/>
         <source>Indicate the distance offset for the registration marks</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/printdialogbase.ui" line="515"/>
+        <location filename="../../../scribus/printdialogbase.ui" line="505"/>
         <source>Bleeds</source>
         <translation>Γρίλιες</translation>
     </message>
     <message>
-        <location filename="../../../scribus/printdialogbase.ui" line="521"/>
+        <location filename="../../../scribus/printdialogbase.ui" line="511"/>
         <source>Top:</source>
         <translation>&amp;Πάνω:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/printdialogbase.ui" line="528"/>
+        <location filename="../../../scribus/printdialogbase.ui" line="518"/>
         <source>Distance for bleed from the top of the physical page</source>
         <translation>Απόσταση χρωματισμού από το πάνω μέρος της σελίδας</translation>
     </message>
     <message>
-        <location filename="../../../scribus/printdialogbase.ui" line="535"/>
+        <location filename="../../../scribus/printdialogbase.ui" line="525"/>
         <source>Left:</source>
         <translation>&amp;Αριστερά:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/printdialogbase.ui" line="542"/>
+        <location filename="../../../scribus/printdialogbase.ui" line="532"/>
         <source>Distance for bleed from the right of the physical page</source>
         <translation>Απόσταση χρωματισμού από το δεξί μέρος της σελίδας</translation>
     </message>
     <message>
-        <location filename="../../../scribus/printdialogbase.ui" line="549"/>
+        <location filename="../../../scribus/printdialogbase.ui" line="539"/>
         <source>Bottom:</source>
         <translation>&amp;Κάτω:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/printdialogbase.ui" line="556"/>
+        <location filename="../../../scribus/printdialogbase.ui" line="546"/>
         <source>Distance for bleed from the bottom of the physical page</source>
         <translation>Απόσταση χρωματισμού από το κάτω μέρος της σελίδας</translation>
     </message>
     <message>
-        <location filename="../../../scribus/printdialogbase.ui" line="563"/>
+        <location filename="../../../scribus/printdialogbase.ui" line="553"/>
         <source>Right:</source>
         <translation>Δεξιά:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/printdialogbase.ui" line="570"/>
+        <location filename="../../../scribus/printdialogbase.ui" line="560"/>
         <source>Distance for bleed from the left of the physical page</source>
         <translation>Απόσταση χρωματισμού από το αριστερό μέρος της σελίδας</translation>
     </message>
     <message>
-        <location filename="../../../scribus/printdialogbase.ui" line="577"/>
+        <location filename="../../../scribus/printdialogbase.ui" line="567"/>
         <source>Use the existing bleed settings from the document preferences</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/printdialogbase.ui" line="580"/>
+        <location filename="../../../scribus/printdialogbase.ui" line="570"/>
         <source>Use Document Bleeds</source>
         <translation>Έγγραφα κειμένου</translation>
     </message>
     <message>
-        <location filename="../../../scribus/printdialogbase.ui" line="606"/>
+        <location filename="../../../scribus/printdialogbase.ui" line="596"/>
         <source>Preview...</source>
         <translation>Προεπισκόπηση...</translation>
     </message>
     <message>
-        <location filename="../../../scribus/printdialogbase.ui" line="616"/>
+        <location filename="../../../scribus/printdialogbase.ui" line="606"/>
         <source>&amp;Print</source>
         <translation>Εκτύ&amp;πωση</translation>
     </message>
     <message>
-        <location filename="../../../scribus/printdialogbase.ui" line="626"/>
+        <location filename="../../../scribus/printdialogbase.ui" line="616"/>
         <source>Cancel</source>
         <translation>Ακύρωση</translation>
     </message>
@@ -14829,16 +14809,6 @@ Corners:</source>
         <translation>Κλείδωμα ή ξεκλείδωμα του μεγέθους του αντικειμένου</translation>
     </message>
     <message>
-        <location filename="../../../scribus/propertiespalette.cpp" line="5620"/>
-        <source>This rule determines the &amp;quot;insideness&amp;quot; of a point on the canvas by drawing a ray from that point to infinity in any direction and counting the number of path segments from the given shape that the ray crosses. If this number is odd, the point is inside, if even, the point is outside.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../../scribus/propertiespalette.cpp" line="5621"/>
-        <source>This rule determines the &amp;quot;insideness&amp;quot; of a point on the canvas by drawing a ray from that point to infinity in any direction and then examining the places where a segment of the shape crosses the ray. Starting with a count of zero, add one each time a path segment crosses the ray from left to right and subtract one each time a path segment crosses the ray from right to left. If the result is zero then the point is outside the path. Otherwise, it is inside.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5623"/>
         <location filename="../../../scribus/propertiespalette.cpp" line="5628"/>
         <source>Disable text flow from lower frames around object</source>
@@ -14906,6 +14876,16 @@ Corners:</source>
         <location filename="../../../scribus/propertiespalette.cpp" line="5645"/>
         <source>Line Spacing</source>
         <translation>Απόσταση γραμμών</translation>
+    </message>
+    <message>
+        <location filename="../../../scribus/propertiespalette.cpp" line="5620"/>
+        <source>Any path self-intersections or subpaths create holes in the fill.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <location filename="../../../scribus/propertiespalette.cpp" line="5621"/>
+        <source>Fill is solid unless a subpath is counterdirectional.</source>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5625"/>
@@ -16040,12 +16020,12 @@ Check path and filename.</source>
         <translation>Αραβικά</translation>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="139"/>
+        <location filename="../../../scribus/langmgr.cpp" line="140"/>
         <source>Albanian</source>
         <translation>Αλβανική</translation>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="95"/>
+        <location filename="../../../scribus/langmgr.cpp" line="96"/>
         <source>Basque</source>
         <translation>Βασκική</translation>
     </message>
@@ -16066,12 +16046,12 @@ Check path and filename.</source>
         <translation>Καταλανική</translation>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="149"/>
+        <location filename="../../../scribus/langmgr.cpp" line="150"/>
         <source>Chinese</source>
         <translation>Κινεζική</translation>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="101"/>
+        <location filename="../../../scribus/langmgr.cpp" line="102"/>
         <source>Croatian</source>
         <translation>Κροατική</translation>
     </message>
@@ -16082,124 +16062,124 @@ Check path and filename.</source>
         <translation>Τσεχική</translation>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="72"/>
         <location filename="../../../scribus/langmgr.cpp" line="73"/>
+        <location filename="../../../scribus/langmgr.cpp" line="74"/>
         <source>Danish</source>
         <translation>Δανέζικη</translation>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="79"/>
+        <location filename="../../../scribus/langmgr.cpp" line="80"/>
         <source>Dzongkha</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="121"/>
         <location filename="../../../scribus/langmgr.cpp" line="122"/>
+        <location filename="../../../scribus/langmgr.cpp" line="123"/>
         <source>Dutch</source>
         <translation>Ολλανδική</translation>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="81"/>
-        <location filename="../../../scribus/langmgr.cpp" line="192"/>
-        <location filename="../../../scribus/langmgr.cpp" line="265"/>
-        <location filename="../../../scribus/langmgr.cpp" line="320"/>
+        <location filename="../../../scribus/langmgr.cpp" line="82"/>
+        <location filename="../../../scribus/langmgr.cpp" line="193"/>
+        <location filename="../../../scribus/langmgr.cpp" line="266"/>
+        <location filename="../../../scribus/langmgr.cpp" line="321"/>
         <source>English</source>
         <translation>Αγγλικά</translation>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="88"/>
+        <location filename="../../../scribus/langmgr.cpp" line="89"/>
         <source>Esperanto</source>
         <translation>Εσπεράντο</translation>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="93"/>
         <location filename="../../../scribus/langmgr.cpp" line="94"/>
+        <location filename="../../../scribus/langmgr.cpp" line="95"/>
         <source>Estonian</source>
         <translation>Εσθονική</translation>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="74"/>
-        <location filename="../../../scribus/langmgr.cpp" line="78"/>
+        <location filename="../../../scribus/langmgr.cpp" line="75"/>
+        <location filename="../../../scribus/langmgr.cpp" line="79"/>
         <source>German</source>
         <translation>Γερμανική</translation>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="75"/>
+        <location filename="../../../scribus/langmgr.cpp" line="76"/>
         <source>German (Trad.)</source>
         <translation>Γερμανική (Παραδοσιακή)</translation>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="96"/>
+        <location filename="../../../scribus/langmgr.cpp" line="97"/>
         <source>Finnish</source>
         <translation>Φινλανδική</translation>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="97"/>
         <location filename="../../../scribus/langmgr.cpp" line="98"/>
+        <location filename="../../../scribus/langmgr.cpp" line="99"/>
         <source>French</source>
         <translation>Γαλλική</translation>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="99"/>
+        <location filename="../../../scribus/langmgr.cpp" line="100"/>
         <source>Galician</source>
         <translation>Γαλικιανική</translation>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="80"/>
+        <location filename="../../../scribus/langmgr.cpp" line="81"/>
         <source>Greek</source>
         <translation>Ελληνικά</translation>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="102"/>
         <location filename="../../../scribus/langmgr.cpp" line="103"/>
+        <location filename="../../../scribus/langmgr.cpp" line="104"/>
         <source>Hungarian</source>
         <translation>Ουγγρική</translation>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="104"/>
-        <location filename="../../../scribus/langmgr.cpp" line="113"/>
+        <location filename="../../../scribus/langmgr.cpp" line="105"/>
+        <location filename="../../../scribus/langmgr.cpp" line="114"/>
         <source>Latin</source>
         <translation>Δεσμός</translation>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="106"/>
+        <location filename="../../../scribus/langmgr.cpp" line="107"/>
         <source>Icelandic</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="105"/>
+        <location filename="../../../scribus/langmgr.cpp" line="106"/>
         <source>Indonesian</source>
         <translation>Ινδονησιακή</translation>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="107"/>
         <location filename="../../../scribus/langmgr.cpp" line="108"/>
+        <location filename="../../../scribus/langmgr.cpp" line="109"/>
         <source>Italian</source>
         <translation>Ιταλική</translation>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="109"/>
+        <location filename="../../../scribus/langmgr.cpp" line="110"/>
         <source>Japanese</source>
         <translation>Ιαπωνική</translation>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="111"/>
+        <location filename="../../../scribus/langmgr.cpp" line="112"/>
         <source>Korean</source>
         <translation>Κορεάτικη</translation>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="112"/>
+        <location filename="../../../scribus/langmgr.cpp" line="113"/>
         <source>Kurdish</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="116"/>
         <location filename="../../../scribus/langmgr.cpp" line="117"/>
+        <location filename="../../../scribus/langmgr.cpp" line="118"/>
         <source>Lithuanian</source>
         <translation>Λιθουανική</translation>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="114"/>
+        <location filename="../../../scribus/langmgr.cpp" line="115"/>
         <source>Luxembourgish</source>
         <translation>Λουξεμβούργου</translation>
     </message>
@@ -16219,143 +16199,144 @@ Check path and filename.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="76"/>
+        <location filename="../../../scribus/langmgr.cpp" line="77"/>
         <source>German (Austria)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="83"/>
+        <location filename="../../../scribus/langmgr.cpp" line="84"/>
         <source>English (Canadian)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="84"/>
+        <location filename="../../../scribus/langmgr.cpp" line="85"/>
         <source>English (UK)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="85"/>
+        <location filename="../../../scribus/langmgr.cpp" line="86"/>
         <source>English (New Zealand)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="86"/>
+        <location filename="../../../scribus/langmgr.cpp" line="87"/>
         <source>English (USA)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="87"/>
+        <location filename="../../../scribus/langmgr.cpp" line="88"/>
         <source>English (South African)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="90"/>
+        <location filename="../../../scribus/langmgr.cpp" line="91"/>
         <source>Spanish (Argentina)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="118"/>
+        <location filename="../../../scribus/langmgr.cpp" line="119"/>
         <source>Nepali</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="123"/>
         <location filename="../../../scribus/langmgr.cpp" line="124"/>
+        <location filename="../../../scribus/langmgr.cpp" line="125"/>
         <source>Norwegian (Nnyorsk)</source>
         <translation>Νορβηγική (Nnyorsk)</translation>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="125"/>
         <location filename="../../../scribus/langmgr.cpp" line="126"/>
+        <location filename="../../../scribus/langmgr.cpp" line="127"/>
         <source>Norwegian</source>
         <translation>Νορβηγική</translation>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="127"/>
         <location filename="../../../scribus/langmgr.cpp" line="128"/>
+        <location filename="../../../scribus/langmgr.cpp" line="129"/>
         <source>Polish</source>
         <translation>Πολωνική</translation>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="129"/>
+        <location filename="../../../scribus/langmgr.cpp" line="130"/>
         <source>Portuguese</source>
         <translation>Πορτογαλική</translation>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="130"/>
+        <location filename="../../../scribus/langmgr.cpp" line="131"/>
         <source>Portuguese (BR)</source>
         <translation>Πορτογαλική (Βραζ)</translation>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="131"/>
+        <location filename="../../../scribus/langmgr.cpp" line="132"/>
         <source>Romanian</source>
         <translation>Αλβανική</translation>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="132"/>
         <location filename="../../../scribus/langmgr.cpp" line="133"/>
+        <location filename="../../../scribus/langmgr.cpp" line="134"/>
         <source>Russian</source>
         <translation>Ρωσική</translation>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="141"/>
+        <location filename="../../../scribus/langmgr.cpp" line="142"/>
         <source>Swedish</source>
         <translation>Σουηδική</translation>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="89"/>
-        <location filename="../../../scribus/langmgr.cpp" line="91"/>
+        <location filename="../../../scribus/langmgr.cpp" line="90"/>
+        <location filename="../../../scribus/langmgr.cpp" line="92"/>
         <source>Spanish</source>
         <translation>Ισπανική</translation>
     </message>
     <message utf8="true">
-        <location filename="../../../scribus/langmgr.cpp" line="119"/>
         <location filename="../../../scribus/langmgr.cpp" line="120"/>
+        <location filename="../../../scribus/langmgr.cpp" line="121"/>
         <source>Norwegian (Bokmål)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="92"/>
+        <location filename="../../../scribus/langmgr.cpp" line="93"/>
         <source>Spanish (Latin)</source>
         <translation>Ισπανική (Λατινική)</translation>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="135"/>
         <location filename="../../../scribus/langmgr.cpp" line="136"/>
+        <location filename="../../../scribus/langmgr.cpp" line="137"/>
         <source>Slovak</source>
         <translation>Σλοβακική</translation>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="137"/>
         <location filename="../../../scribus/langmgr.cpp" line="138"/>
+        <location filename="../../../scribus/langmgr.cpp" line="139"/>
         <source>Slovenian</source>
         <translation>Σλοβενική</translation>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="140"/>
+        <location filename="../../../scribus/langmgr.cpp" line="141"/>
         <source>Serbian</source>
         <translation>Σερβική</translation>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="142"/>
         <location filename="../../../scribus/langmgr.cpp" line="143"/>
+        <location filename="../../../scribus/langmgr.cpp" line="144"/>
         <source>Thai</source>
         <translation>Ταϊλανδική</translation>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="144"/>
         <location filename="../../../scribus/langmgr.cpp" line="145"/>
+        <location filename="../../../scribus/langmgr.cpp" line="146"/>
         <source>Turkish</source>
         <translation>Τουρκική</translation>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="146"/>
         <location filename="../../../scribus/langmgr.cpp" line="147"/>
+        <location filename="../../../scribus/langmgr.cpp" line="148"/>
         <source>Ukranian</source>
         <translation>Ουκρανική</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="71"/>
+        <location filename="../../../scribus/langmgr.cpp" line="72"/>
         <source>Welsh</source>
         <translation>Ουαλίας</translation>
     </message>
@@ -16593,40 +16574,40 @@ Check path and filename.</source>
         <translation>το στοιχείο &lt;lpiSettingsEntry&gt; δεν έχει ιδιότητα `όνομα&apos;</translation>
     </message>
     <message>
-        <location filename="../../../scribus/pslib.cpp" line="1831"/>
-        <location filename="../../../scribus/pslib.cpp" line="2035"/>
-        <location filename="../../../scribus/pslib.cpp" line="2238"/>
+        <location filename="../../../scribus/pslib.cpp" line="1829"/>
+        <location filename="../../../scribus/pslib.cpp" line="2032"/>
+        <location filename="../../../scribus/pslib.cpp" line="2235"/>
         <location filename="../../../scribus/scprintengine_gdi.cpp" line="487"/>
         <source>All</source>
         <translation>Όλα</translation>
     </message>
     <message>
-        <location filename="../../../scribus/pslib.cpp" line="1852"/>
+        <location filename="../../../scribus/pslib.cpp" line="1849"/>
         <source>Exporting PostScript File</source>
         <translation>Εξαγωγή αρχείου PostScript</translation>
     </message>
     <message>
-        <location filename="../../../scribus/pslib.cpp" line="1854"/>
+        <location filename="../../../scribus/pslib.cpp" line="1851"/>
         <source>Printing File</source>
         <translation>Εκτύπωση αρχείου</translation>
     </message>
     <message>
-        <location filename="../../../scribus/pslib.cpp" line="2027"/>
+        <location filename="../../../scribus/pslib.cpp" line="2024"/>
         <source>Black</source>
         <translation>Μαύρο</translation>
     </message>
     <message>
-        <location filename="../../../scribus/pslib.cpp" line="2029"/>
+        <location filename="../../../scribus/pslib.cpp" line="2026"/>
         <source>Cyan</source>
         <translation>Κυανό</translation>
     </message>
     <message>
-        <location filename="../../../scribus/pslib.cpp" line="2031"/>
+        <location filename="../../../scribus/pslib.cpp" line="2028"/>
         <source>Magenta</source>
         <translation>Ματζέντα</translation>
     </message>
     <message>
-        <location filename="../../../scribus/pslib.cpp" line="2033"/>
+        <location filename="../../../scribus/pslib.cpp" line="2030"/>
         <source>Yellow</source>
         <translation>Κίτρινο</translation>
     </message>
@@ -16720,22 +16701,22 @@ Check path and filename.</source>
         <translation>Χρησιμοποιείτε μία έκδοση ανάπτυξης του Scribus 1.3.x. Το έγγραφο στο οποίο δουλεύετε έχει δημιουργηθεί στο Scribus 1.2.3 ή παλαιότερο. Αν γίνει αποθήκευση του αρχείο δε θα μπορεί να χρησιμοποιηθεί ξανά στο Scribus 1.2.3 εκτός και αν χρησιμοποιήσετε την επιλογή Αρχείο-&gt;Αποθήκευση ως... Είστε σίγουροι ότι επιθυμείτε τη συνέχεια της αποθήκευσης;</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="3783"/>
+        <location filename="../../../scribus/scribus.cpp" line="3785"/>
         <source>&lt;p&gt;You are trying to import more pages than there are available in the current document counting from the active page.&lt;/p&gt;Choose one of the following:&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Create&lt;/b&gt; missing pages&lt;/li&gt;&lt;li&gt;&lt;b&gt;Import&lt;/b&gt; pages until the last page&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cancel&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;</source>
         <translation>&lt;p&gt;Προσπαθείτε να εισάγετε περισσότερες σελίδες από αυτές που είναι διαθέσιμες στο τρέχον έγγραφο αρχίζοντας τη μέτρηση από την ενεργή σελίδα. &lt;/p&gt;Επιλέξτε ένα από τα παρακάτω:&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Δημιουργία&lt;/b&gt; επιπλέον σελίδων&lt;/li&gt;&lt;li&gt;&lt;b&gt;Εισαγωγή&lt;/b&gt; σελίδων μέχρι την τελευταία σελίδα&lt;/li&gt;&lt;li&gt;&lt;b&gt;Ακύρωση&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="3787"/>
+        <location filename="../../../scribus/scribus.cpp" line="3789"/>
         <source>C&amp;reate</source>
         <translation>&amp;Δημιουργία</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="3788"/>
+        <location filename="../../../scribus/scribus.cpp" line="3790"/>
         <source>&amp;Import</source>
         <translation>Ε&amp;ισαγωγή</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="4447"/>
+        <location filename="../../../scribus/scribus.cpp" line="4449"/>
         <source>The changes to your document have not been saved and you have requested to revert them. Do you wish to continue?</source>
         <translation>Οι τροποποιήσεις στο έγγραφό σας δεν έχουν αποθηκευτεί και ζητήσατε την επαναφορά τους. Επιθυμείτε τη συνέχεια;</translation>
     </message>
@@ -16843,32 +16824,32 @@ Check path and filename.</source>
     </message>
     <message>
         <location filename="../../../scribus/fonts/ftface.cpp" line="322"/>
-        <location filename="../../../scribus/fonts/scface_ttf.cpp" line="649"/>
+        <location filename="../../../scribus/fonts/scface_ttf.cpp" line="656"/>
         <source>Font %1 is broken (read stream), no embedding</source>
         <translation>Η γραμματοσειρά %1 είναι κατεστραμμένη (ανάγνωση ροής), δε γίνεται ενσωμάτωση</translation>
     </message>
     <message>
-        <location filename="../../../scribus/fonts/scface_ttf.cpp" line="535"/>
+        <location filename="../../../scribus/fonts/scface_ttf.cpp" line="542"/>
         <source>extracting face %1 from font %2 (offset=%3, nTables=%4)</source>
         <translation>εξαγωγή μορφής %1 από γραμματοσειρά %2 (μετατόπιση=%3, πίνακες=%4)</translation>
     </message>
     <message>
-        <location filename="../../../scribus/fonts/scface_ttf.cpp" line="548"/>
+        <location filename="../../../scribus/fonts/scface_ttf.cpp" line="555"/>
         <source>memcpy header: %1 %2 %3</source>
         <translation>memcpy κεφαλίδας: %1 %2 %3</translation>
     </message>
     <message>
-        <location filename="../../../scribus/fonts/scface_ttf.cpp" line="557"/>
+        <location filename="../../../scribus/fonts/scface_ttf.cpp" line="564"/>
         <source>table &apos;%1&apos;</source>
         <translation>πίνακας &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="../../../scribus/fonts/scface_ttf.cpp" line="558"/>
+        <location filename="../../../scribus/fonts/scface_ttf.cpp" line="565"/>
         <source>memcpy table: %1 %2 %3</source>
         <translation>memcpy πίνακα: %1 %2 %3</translation>
     </message>
     <message>
-        <location filename="../../../scribus/fonts/scface_ttf.cpp" line="561"/>
+        <location filename="../../../scribus/fonts/scface_ttf.cpp" line="568"/>
         <source>memcpy offset: %1 %2 %3</source>
         <translation>memcpy μετατόπισης: %1 %2 %3</translation>
     </message>
@@ -17960,13 +17941,13 @@ is not exhaustive due to exceptions from called functions.
     </message>
     <message>
         <location filename="../../../scribus/plugins/fileloader/scribus12format/scribus12format.cpp" line="730"/>
-        <location filename="../../../scribus/plugins/fileloader/scribus134format/scribus134format.cpp" line="1550"/>
+        <location filename="../../../scribus/plugins/fileloader/scribus134format/scribus134format.cpp" line="1549"/>
         <location filename="../../../scribus/plugins/fileloader/scribus13format/scribus13format.cpp" line="1118"/>
         <source>Background</source>
         <translation>Φόντο</translation>
     </message>
     <message>
-        <location filename="../../../scribus/plugins/fileloader/scribus134format/scribus134format.cpp" line="2899"/>
+        <location filename="../../../scribus/plugins/fileloader/scribus134format/scribus134format.cpp" line="2898"/>
         <location filename="../../../scribus/plugins/fileloader/scribus13format/scribus13format.cpp" line="2145"/>
         <source>Copy #%1 of </source>
         <translation>Αντιγραφή #%1 από </translation>
@@ -18054,17 +18035,17 @@ External Links
         <translation>Αρχεία κειμένου</translation>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="82"/>
+        <location filename="../../../scribus/langmgr.cpp" line="83"/>
         <source>English (Australian)</source>
         <translation>Αγγλική (Βρετανίας)</translation>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="77"/>
+        <location filename="../../../scribus/langmgr.cpp" line="78"/>
         <source>German (Swiss)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="100"/>
+        <location filename="../../../scribus/langmgr.cpp" line="101"/>
         <source>Hebrew</source>
         <translation>Εβραϊκά</translation>
     </message>
@@ -18074,7 +18055,7 @@ External Links
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="150"/>
+        <location filename="../../../scribus/langmgr.cpp" line="151"/>
         <source>Chinese (Trad.)</source>
         <translation type="unfinished"/>
     </message>
@@ -18096,17 +18077,17 @@ External Links
         <translation>%</translation>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="110"/>
+        <location filename="../../../scribus/langmgr.cpp" line="111"/>
         <source>Khmer</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="115"/>
+        <location filename="../../../scribus/langmgr.cpp" line="116"/>
         <source>Lao</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="148"/>
+        <location filename="../../../scribus/langmgr.cpp" line="149"/>
         <source>Vietnamese</source>
         <translation type="unfinished"/>
     </message>
@@ -18397,7 +18378,7 @@ External Links
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/langmgr.cpp" line="134"/>
+        <location filename="../../../scribus/langmgr.cpp" line="135"/>
         <source>Sanskrit</source>
         <translation type="unfinished"/>
     </message>
@@ -18412,7 +18393,7 @@ External Links
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/scimgdataloader_ps.cpp" line="504"/>
+        <location filename="../../../scribus/scimgdataloader_ps.cpp" line="515"/>
         <source>The Font(s):
 %1 are not embedded or available for Scribus.
 They might be replaced by &quot;Courier&quot;, depending how your Ghostscript is configured.
@@ -18757,7 +18738,7 @@ Please choose another.</source>
         <translation>Διαχείριση χρωμάτων</translation>
     </message>
     <message>
-        <location filename="../../../scribus/reformdoc.cpp" line="462"/>
+        <location filename="../../../scribus/reformdoc.cpp" line="463"/>
         <source>Adjusting Colors</source>
         <translation>Προσαρμογή χρωμάτων</translation>
     </message>
@@ -20063,7 +20044,7 @@ If you save it in this version, it will no longer be readable by older Scribus v
 <context>
     <name>Scribus134Format</name>
     <message>
-        <location filename="../../../scribus/plugins/fileloader/scribus134format/scribus134format.cpp" line="3621"/>
+        <location filename="../../../scribus/plugins/fileloader/scribus134format/scribus134format.cpp" line="3620"/>
         <source>Copy #%1 of </source>
         <translation>Αντιγραφή #%1 από </translation>
     </message>
@@ -20280,31 +20261,31 @@ Rotation: %4</source>
     </message>
     <message>
         <location filename="../../../scribus/scribus.cpp" line="600"/>
-        <location filename="../../../scribus/scribus.cpp" line="9504"/>
+        <location filename="../../../scribus/scribus.cpp" line="9505"/>
         <source>Open &amp;Recent</source>
         <translation>Άνοιγμα πρόσ&amp;φατου</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribus.cpp" line="608"/>
-        <location filename="../../../scribus/scribus.cpp" line="9506"/>
+        <location filename="../../../scribus/scribus.cpp" line="9507"/>
         <source>&amp;Import</source>
         <translation>Ε&amp;ισαγωγή</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribus.cpp" line="615"/>
-        <location filename="../../../scribus/scribus.cpp" line="9507"/>
+        <location filename="../../../scribus/scribus.cpp" line="9508"/>
         <source>&amp;Export</source>
         <translation>&amp;Εξαγωγή</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribus.cpp" line="656"/>
-        <location filename="../../../scribus/scribus.cpp" line="9505"/>
+        <location filename="../../../scribus/scribus.cpp" line="9506"/>
         <source>Paste Recent</source>
         <translation>Άνοιγμα πρόσ&amp;φατου</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribus.cpp" line="657"/>
-        <location filename="../../../scribus/scribus.cpp" line="9509"/>
+        <location filename="../../../scribus/scribus.cpp" line="9510"/>
         <source>Contents</source>
         <translation>Περιεχόμενα</translation>
     </message>
@@ -20325,13 +20306,13 @@ Rotation: %4</source>
     </message>
     <message>
         <location filename="../../../scribus/scribus.cpp" line="740"/>
-        <location filename="../../../scribus/scribus.cpp" line="9514"/>
+        <location filename="../../../scribus/scribus.cpp" line="9515"/>
         <source>&amp;PDF Options</source>
         <translation>Επιλογές &amp;PDF</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribus.cpp" line="747"/>
-        <location filename="../../../scribus/scribus.cpp" line="9516"/>
+        <location filename="../../../scribus/scribus.cpp" line="9517"/>
         <source>C&amp;onvert To</source>
         <translation>&amp;Μετατροπή σε</translation>
     </message>
@@ -20352,23 +20333,23 @@ Rotation: %4</source>
     </message>
     <message>
         <location filename="../../../scribus/scribus.cpp" line="856"/>
-        <location filename="../../../scribus/scribus.cpp" line="9522"/>
+        <location filename="../../../scribus/scribus.cpp" line="9523"/>
         <source>Liga&amp;ture</source>
         <translation>Σύν&amp;δεση</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="9529"/>
+        <location filename="../../../scribus/scribus.cpp" line="9530"/>
         <source>&amp;Alignment</source>
         <translation>Σ&amp;τοίχιση</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribus.cpp" line="2131"/>
         <location filename="../../../scribus/scribus.cpp" line="2174"/>
-        <location filename="../../../scribus/scribus.cpp" line="4216"/>
-        <location filename="../../../scribus/scribus.cpp" line="4550"/>
-        <location filename="../../../scribus/scribus.cpp" line="4775"/>
-        <location filename="../../../scribus/scribus.cpp" line="4921"/>
-        <location filename="../../../scribus/scribus.cpp" line="9539"/>
+        <location filename="../../../scribus/scribus.cpp" line="4218"/>
+        <location filename="../../../scribus/scribus.cpp" line="4552"/>
+        <location filename="../../../scribus/scribus.cpp" line="4777"/>
+        <location filename="../../../scribus/scribus.cpp" line="4923"/>
+        <location filename="../../../scribus/scribus.cpp" line="9540"/>
         <source>Ready</source>
         <translation>Έτοιμο</translation>
     </message>
@@ -20379,294 +20360,294 @@ Rotation: %4</source>
     </message>
     <message>
         <location filename="../../../scribus/scribus.cpp" line="2279"/>
-        <location filename="../../../scribus/scribus.cpp" line="4866"/>
-        <location filename="../../../scribus/scribus.cpp" line="8082"/>
+        <location filename="../../../scribus/scribus.cpp" line="4868"/>
+        <location filename="../../../scribus/scribus.cpp" line="8083"/>
         <source>Document</source>
         <translation>Έγγραφο</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="3619"/>
-        <location filename="../../../scribus/scribus.cpp" line="3737"/>
-        <location filename="../../../scribus/scribus.cpp" line="4296"/>
+        <location filename="../../../scribus/scribus.cpp" line="3621"/>
+        <location filename="../../../scribus/scribus.cpp" line="3739"/>
+        <location filename="../../../scribus/scribus.cpp" line="4298"/>
         <source>Open</source>
         <translation>Άνοιγμα</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="3753"/>
+        <location filename="../../../scribus/scribus.cpp" line="3755"/>
         <source>Importing Pages...</source>
         <translation>Εισαγωγή σελίδων...</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="3782"/>
+        <location filename="../../../scribus/scribus.cpp" line="3784"/>
         <source>Import Page(s)</source>
         <translation>Εισαγωγή σελίδας(ων)</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="3824"/>
+        <location filename="../../../scribus/scribus.cpp" line="3826"/>
         <source>Import done</source>
         <translation>Η εισαγωγή έγινε</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="3828"/>
+        <location filename="../../../scribus/scribus.cpp" line="3830"/>
         <source>Found nothing to import</source>
         <translation>Δε βρέθηκε τίποτε για εισαγωγή</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="3908"/>
+        <location filename="../../../scribus/scribus.cpp" line="3910"/>
         <source>File does not exist on the specified path :
 %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="3954"/>
+        <location filename="../../../scribus/scribus.cpp" line="3956"/>
         <source>Fatal Error</source>
         <translation>Κρίσιμο σφάλμα</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="3955"/>
+        <location filename="../../../scribus/scribus.cpp" line="3957"/>
         <source>File %1 is not in an acceptable format</source>
         <translation>Το αρχείο %1 δεν έχει αποδεκτή μορφή</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="3956"/>
+        <location filename="../../../scribus/scribus.cpp" line="3958"/>
         <source>The file may be damaged or may have been produced in a later version of Scribus.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="3982"/>
+        <location filename="../../../scribus/scribus.cpp" line="3984"/>
         <source>Loading...</source>
         <translation>Φόρτωση...</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="4127"/>
+        <location filename="../../../scribus/scribus.cpp" line="4129"/>
         <source> was replaced by: </source>
         <translation> αντικαταστάθηκε με: </translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="4159"/>
+        <location filename="../../../scribus/scribus.cpp" line="4161"/>
         <source>(converted)</source>
         <translation>(μετατράπηκε)</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="4482"/>
-        <location filename="../../../scribus/scribus.cpp" line="4545"/>
-        <location filename="../../../scribus/scribus.cpp" line="8114"/>
-        <location filename="../../../scribus/scribus.cpp" line="8248"/>
-        <location filename="../../../scribus/scribus.cpp" line="8270"/>
+        <location filename="../../../scribus/scribus.cpp" line="4484"/>
+        <location filename="../../../scribus/scribus.cpp" line="4547"/>
+        <location filename="../../../scribus/scribus.cpp" line="8115"/>
+        <location filename="../../../scribus/scribus.cpp" line="8249"/>
+        <location filename="../../../scribus/scribus.cpp" line="8271"/>
         <source>Cannot write the file: 
 %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="4527"/>
+        <location filename="../../../scribus/scribus.cpp" line="4529"/>
         <source>Documents (*.sla *.sla.gz);;All Files (*)</source>
         <translation>Έγγραφα (*.sla *.scd);;Όλα τα αρχεία (*)</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="4530"/>
-        <location filename="../../../scribus/scribus.cpp" line="5663"/>
-        <location filename="../../../scribus/scribus.cpp" line="8105"/>
+        <location filename="../../../scribus/scribus.cpp" line="4532"/>
+        <location filename="../../../scribus/scribus.cpp" line="5665"/>
+        <location filename="../../../scribus/scribus.cpp" line="8106"/>
         <source>Save As</source>
         <translation>Αποθήκευση ως</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="4559"/>
+        <location filename="../../../scribus/scribus.cpp" line="4561"/>
         <source>Saving...</source>
         <translation>Αποθήκευση...</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="4829"/>
-        <location filename="../../../scribus/scribus.cpp" line="7967"/>
+        <location filename="../../../scribus/scribus.cpp" line="4831"/>
+        <location filename="../../../scribus/scribus.cpp" line="7969"/>
         <source>Scribus has detected some errors. Consider using the Preflight Verifier to correct them</source>
         <translation>Το Scribus ανίχνευσε κάποια σφάλματα. Ίσως θα πρεπε να χρησιμοποιήσετε την τελική επαλήθευση για να τα διορθώσετε</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="4862"/>
+        <location filename="../../../scribus/scribus.cpp" line="4864"/>
         <source>Printing...</source>
         <translation>Εκτύπωση...</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="4909"/>
+        <location filename="../../../scribus/scribus.cpp" line="4911"/>
         <source>Printing failed!</source>
         <translation>Αποτυχία εκτύπωσης!</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="5002"/>
+        <location filename="../../../scribus/scribus.cpp" line="5004"/>
         <source>Cannot Cut In-Use Item</source>
         <translation>Αδυναμία αποκοπής αντικειμένου σε χρήση</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="5002"/>
+        <location filename="../../../scribus/scribus.cpp" line="5004"/>
         <source>The item %1 is currently being edited by Story Editor. The cut operation will be cancelled</source>
         <translation>Το αντικείμενο %1 αυτή τη στιγμή χρησιμοποιείται από τον επεξεργαστή δομής. Η λειτουργία αποκοπής θα ακυρωθεί.</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="5606"/>
+        <location filename="../../../scribus/scribus.cpp" line="5608"/>
         <source>About Qt</source>
         <translation>Σχετικά με τη Qt</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="5619"/>
+        <location filename="../../../scribus/scribus.cpp" line="5621"/>
         <source>Scribus Manual</source>
         <translation>Εγχειρίδιο του Scribus</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="7058"/>
+        <location filename="../../../scribus/scribus.cpp" line="7060"/>
         <source>&amp;Size:</source>
         <translation>&amp;Μέγεθος:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="7058"/>
+        <location filename="../../../scribus/scribus.cpp" line="7060"/>
         <source>Size</source>
         <translation>Μέγεθος</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="7090"/>
+        <location filename="../../../scribus/scribus.cpp" line="7092"/>
         <source>&amp;Shade:</source>
         <translation>&amp;Σκίαση:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="7090"/>
+        <location filename="../../../scribus/scribus.cpp" line="7092"/>
         <source>Shade</source>
         <translation>Σκίαση</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="7194"/>
+        <location filename="../../../scribus/scribus.cpp" line="7196"/>
         <source>No Style</source>
         <translation>Κανένα στυλ</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="8002"/>
+        <location filename="../../../scribus/scribus.cpp" line="8004"/>
         <source>All</source>
         <translation>Όλα</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="8051"/>
+        <location filename="../../../scribus/scribus.cpp" line="8052"/>
         <source>Scribus detected some errors.
 Consider using the Preflight Verifier  to correct them.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="8148"/>
+        <location filename="../../../scribus/scribus.cpp" line="8149"/>
         <source>Detected some errors.
 Consider using the Preflight Verifier to correct them</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="8244"/>
+        <location filename="../../../scribus/scribus.cpp" line="8245"/>
         <source>-Page%1</source>
         <translation>-Σελίδα%1</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="8636"/>
+        <location filename="../../../scribus/scribus.cpp" line="8637"/>
         <source>Some objects are locked.</source>
         <translation>Μερικά αντικείμενα είναι κλειδωμένα.</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="8632"/>
+        <location filename="../../../scribus/scribus.cpp" line="8633"/>
         <source>&amp;Lock All</source>
         <translation>&amp;Κλείδωμα όλων</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="5663"/>
+        <location filename="../../../scribus/scribus.cpp" line="5665"/>
         <source>Text Files (*.txt);;All Files (*)</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="7842"/>
+        <location filename="../../../scribus/scribus.cpp" line="7844"/>
         <source>Ghostscript is not installed on your system, or Scribus is not configured with the path to the software.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="7845"/>
+        <location filename="../../../scribus/scribus.cpp" line="7847"/>
         <source>Until this is remedied, you cannot import EPS images or use Print Preview. </source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="7847"/>
+        <location filename="../../../scribus/scribus.cpp" line="7849"/>
         <source>Until this is remedied, you cannot import EPS images or use PostScript Print Preview. </source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="7850"/>
+        <location filename="../../../scribus/scribus.cpp" line="7852"/>
         <source>Click the Help button to read Scribus-related Ghostscript help and installation instructions.</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="7855"/>
+        <location filename="../../../scribus/scribus.cpp" line="7857"/>
         <source>Ghostscript is missing</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="8633"/>
+        <location filename="../../../scribus/scribus.cpp" line="8634"/>
         <source>&amp;Unlock All</source>
         <translation>&amp;Ξεκλείδωμα όλων</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="9351"/>
+        <location filename="../../../scribus/scribus.cpp" line="9352"/>
         <source>Information</source>
         <translation>Πληροφορίες</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="9351"/>
+        <location filename="../../../scribus/scribus.cpp" line="9352"/>
         <source>The program %1 is already running!</source>
         <translation>Το πρόγραμμα %1 εκτελείται ήδη!</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="9390"/>
+        <location filename="../../../scribus/scribus.cpp" line="9391"/>
         <source>The program %1 is missing!</source>
         <translation>Το πρόγραμμα %1 δεν υπάρχει!</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="9511"/>
+        <location filename="../../../scribus/scribus.cpp" line="9512"/>
         <source>&amp;Level</source>
         <translation>&amp;Επίπεδο</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="9512"/>
+        <location filename="../../../scribus/scribus.cpp" line="9513"/>
         <source>Send to Layer</source>
         <translation>Αποστολή στο στρώμα</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="9513"/>
+        <location filename="../../../scribus/scribus.cpp" line="9514"/>
         <source>Previe&amp;w Settings</source>
         <translation>Ρυθμίσεις &amp;προεπισκόπησης</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="9519"/>
+        <location filename="../../../scribus/scribus.cpp" line="9520"/>
         <source>Character</source>
         <translation>Χαρακτήρας</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="9520"/>
+        <location filename="../../../scribus/scribus.cpp" line="9521"/>
         <source>Quote</source>
         <translation>Εισαγωγικά</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="9521"/>
+        <location filename="../../../scribus/scribus.cpp" line="9522"/>
         <source>Space</source>
         <translation>Κενό</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribus.cpp" line="1022"/>
-        <location filename="../../../scribus/scribus.cpp" line="9535"/>
+        <location filename="../../../scribus/scribus.cpp" line="9536"/>
         <source>X-Pos:</source>
         <translation>Χ-Θεσ:</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribus.cpp" line="1023"/>
-        <location filename="../../../scribus/scribus.cpp" line="9536"/>
+        <location filename="../../../scribus/scribus.cpp" line="9537"/>
         <source>Y-Pos:</source>
         <translation>Υ-Θεσ:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="4384"/>
-        <location filename="../../../scribus/scribus.cpp" line="9689"/>
+        <location filename="../../../scribus/scribus.cpp" line="4386"/>
+        <location filename="../../../scribus/scribus.cpp" line="9690"/>
         <source>Do you really want to replace your existing image?</source>
         <translation>Επιθυμείτε πραγματικά την αντικατάσταση της υπάρχουσας εικόνας;</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="4329"/>
+        <location filename="../../../scribus/scribus.cpp" line="4331"/>
         <source>Do you really want to clear all your text?</source>
         <translation>Επιθυμείτε πραγματικά τον καθαρισμό όλου του κειμένου σας;</translation>
     </message>
@@ -20677,17 +20658,17 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <location filename="../../../scribus/scribus.cpp" line="963"/>
-        <location filename="../../../scribus/scribus.cpp" line="9530"/>
+        <location filename="../../../scribus/scribus.cpp" line="9531"/>
         <source>Online &amp;Tutorials</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="4124"/>
+        <location filename="../../../scribus/scribus.cpp" line="4126"/>
         <source>Some color profiles used by this document are not installed:</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="8105"/>
+        <location filename="../../../scribus/scribus.cpp" line="8106"/>
         <source>%1;;All Files (*)</source>
         <translation type="unfinished"/>
     </message>
@@ -20697,49 +20678,49 @@ Consider using the Preflight Verifier to correct them</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="2616"/>
+        <location filename="../../../scribus/scribus.cpp" line="2617"/>
         <source>Updating Images</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="4480"/>
-        <location filename="../../../scribus/scribus.cpp" line="4543"/>
+        <location filename="../../../scribus/scribus.cpp" line="4482"/>
+        <location filename="../../../scribus/scribus.cpp" line="4545"/>
         <source>Your document was saved to a temporary file and could not be moved: 
 %1</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="4963"/>
+        <location filename="../../../scribus/scribus.cpp" line="4965"/>
         <source>Print engine initialization failed</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="3590"/>
+        <location filename="../../../scribus/scribus.cpp" line="3592"/>
         <source>All Supported Formats</source>
         <translation>Όλες τις υποστηριζόμενες μορφές</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="9746"/>
+        <location filename="../../../scribus/scribus.cpp" line="9747"/>
         <source>&amp;Name:</source>
         <translation>Ό&amp;νομα:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="9746"/>
+        <location filename="../../../scribus/scribus.cpp" line="9747"/>
         <source>New Entry</source>
         <translation>Νέα καταχώρηση</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="7913"/>
+        <location filename="../../../scribus/scribus.cpp" line="7915"/>
         <source>Ghostscript is missing : PostScript Print Preview is not available</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="3937"/>
+        <location filename="../../../scribus/scribus.cpp" line="3939"/>
         <source>Document is already opened</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/scribus.cpp" line="3938"/>
+        <location filename="../../../scribus/scribus.cpp" line="3940"/>
         <source>This document is already in use.You&apos;ll be switched into its window now.</source>
         <translation type="unfinished"/>
     </message>
@@ -20891,17 +20872,17 @@ Consider using the Preflight Verifier to correct them</source>
         <translation> %</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusview.cpp" line="1084"/>
+        <location filename="../../../scribus/scribusview.cpp" line="1085"/>
         <source>Copy Here</source>
         <translation>Αντιγραφή εδώ</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusview.cpp" line="1085"/>
+        <location filename="../../../scribus/scribusview.cpp" line="1086"/>
         <source>Move Here</source>
         <translation>Μετακίνηση εδώ</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusview.cpp" line="1086"/>
+        <location filename="../../../scribus/scribusview.cpp" line="1087"/>
         <source>Cancel</source>
         <translation>Ακύρωση</translation>
     </message>
@@ -20976,32 +20957,32 @@ Consider using the Preflight Verifier to correct them</source>
         <translation>Σύνδεση πλαισίων κειμένου</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusview.cpp" line="2490"/>
+        <location filename="../../../scribus/scribusview.cpp" line="2491"/>
         <source>Page %1 to %2</source>
         <translation>Σελίδα %1 έως %2</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusview.cpp" line="3697"/>
+        <location filename="../../../scribus/scribusview.cpp" line="3698"/>
         <source>Group%1</source>
         <translation>Ομαδοποίηση</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusview.cpp" line="4004"/>
+        <location filename="../../../scribus/scribusview.cpp" line="4005"/>
         <source>Cannot Convert In-Use Item</source>
         <translation>Αδυναμία μετατροπής αντικειμένου σε χρήση</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusview.cpp" line="4004"/>
+        <location filename="../../../scribus/scribusview.cpp" line="4005"/>
         <source>The item %1 is currently being edited by Story Editor. The convert to outlines operation for this item will be skipped</source>
         <translation>Το αντικείμενο %1 αυτή τη στιγμή επεξεργάζεται από τον επεξεργαστή δομής. Η λειτουργία μετατροπής περιγραμμάτων θα παραβλεφθεί για αυτό το αντικείμενο</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusview.cpp" line="418"/>
+        <location filename="../../../scribus/scribusview.cpp" line="419"/>
         <source>Preview Mode</source>
         <translation>Προεπισκόπηση</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusview.cpp" line="419"/>
+        <location filename="../../../scribus/scribusview.cpp" line="420"/>
         <source>CMS is active. Therefore the color display may not match the perception by visually impaired</source>
         <translation type="unfinished"/>
     </message>
@@ -21023,52 +21004,52 @@ Consider using the Preflight Verifier to correct them</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/scribusview.cpp" line="359"/>
+        <location filename="../../../scribus/scribusview.cpp" line="360"/>
         <source>Enable/disable Color Management</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/scribusview.cpp" line="361"/>
+        <location filename="../../../scribus/scribusview.cpp" line="362"/>
         <source>Enable/disable the Preview Mode</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/scribusview.cpp" line="362"/>
+        <location filename="../../../scribus/scribusview.cpp" line="363"/>
         <source>Select the visual appearance of the display. You can choose between normal and several color blindness forms</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/scribusview.cpp" line="360"/>
+        <location filename="../../../scribus/scribusview.cpp" line="361"/>
         <source>Configure CMS...</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/scribusview.cpp" line="349"/>
+        <location filename="../../../scribus/scribusview.cpp" line="350"/>
         <source>Zoom to 100%</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/scribusview.cpp" line="350"/>
+        <location filename="../../../scribus/scribusview.cpp" line="351"/>
         <source>Zoom out by the stepping value in Tools preferences</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/scribusview.cpp" line="351"/>
+        <location filename="../../../scribus/scribusview.cpp" line="352"/>
         <source>Zoom in by the stepping value in Tools preferences</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/scribusview.cpp" line="352"/>
+        <location filename="../../../scribus/scribusview.cpp" line="353"/>
         <source>Current zoom level</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/scribusview.cpp" line="355"/>
+        <location filename="../../../scribus/scribusview.cpp" line="356"/>
         <source>Select the current layer</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/scribusview.cpp" line="356"/>
+        <location filename="../../../scribus/scribusview.cpp" line="357"/>
         <source>Select the current unit</source>
         <translation type="unfinished"/>
     </message>
@@ -21088,7 +21069,7 @@ Consider using the Preflight Verifier to correct them</source>
         <translation>Χαμηλή</translation>
     </message>
     <message>
-        <location filename="../../../scribus/scribusview.cpp" line="357"/>
+        <location filename="../../../scribus/scribusview.cpp" line="358"/>
         <source>Select the image preview quality</source>
         <translation type="unfinished"/>
     </message>
@@ -21894,9 +21875,9 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <location filename="../../../scribus/stylemanager.ui" line="363"/>
         <location filename="../../../scribus/stylemanager.cpp" line="124"/>
-        <location filename="../../../scribus/stylemanager.cpp" line="880"/>
-        <location filename="../../../scribus/stylemanager.cpp" line="1039"/>
-        <location filename="../../../scribus/stylemanager.cpp" line="1079"/>
+        <location filename="../../../scribus/stylemanager.cpp" line="881"/>
+        <location filename="../../../scribus/stylemanager.cpp" line="1040"/>
+        <location filename="../../../scribus/stylemanager.cpp" line="1080"/>
         <source>&amp;Apply</source>
         <translation>Ε&amp;φαρμογή</translation>
     </message>
@@ -21960,29 +21941,29 @@ Consider using the Preflight Verifier to correct them</source>
         <translation>Διαγραφή της επιλεγμένης πρωτότυπης σελίδας</translation>
     </message>
     <message>
-        <location filename="../../../scribus/stylemanager.cpp" line="161"/>
-        <location filename="../../../scribus/stylemanager.cpp" line="647"/>
+        <location filename="../../../scribus/stylemanager.cpp" line="162"/>
+        <location filename="../../../scribus/stylemanager.cpp" line="648"/>
         <source>New</source>
         <translation>Νέο</translation>
     </message>
     <message>
-        <location filename="../../../scribus/stylemanager.cpp" line="162"/>
+        <location filename="../../../scribus/stylemanager.cpp" line="163"/>
         <source>Import</source>
         <translation>Ε&amp;ισαγωγή</translation>
     </message>
     <message>
-        <location filename="../../../scribus/stylemanager.cpp" line="165"/>
+        <location filename="../../../scribus/stylemanager.cpp" line="166"/>
         <source>Clone</source>
         <translation>Κ&amp;λωνοποίηση</translation>
     </message>
     <message>
-        <location filename="../../../scribus/stylemanager.cpp" line="168"/>
+        <location filename="../../../scribus/stylemanager.cpp" line="169"/>
         <source>Delete</source>
         <translation>Διαγραφή</translation>
     </message>
     <message>
         <location filename="../../../scribus/stylemanager.cpp" line="126"/>
-        <location filename="../../../scribus/stylemanager.cpp" line="763"/>
+        <location filename="../../../scribus/stylemanager.cpp" line="764"/>
         <source>&amp;Edit</source>
         <translation>&amp;Επεξεργασία</translation>
     </message>
@@ -21993,7 +21974,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <location filename="../../../scribus/stylemanager.ui" line="54"/>
-        <location filename="../../../scribus/stylemanager.cpp" line="991"/>
+        <location filename="../../../scribus/stylemanager.cpp" line="992"/>
         <source>Shortcut</source>
         <translation>Ταξινόμηση</translation>
     </message>
@@ -22013,33 +21994,33 @@ Consider using the Preflight Verifier to correct them</source>
         <translation>Διαγραφή της επιλεγμένης πρωτότυπης σελίδας</translation>
     </message>
     <message>
-        <location filename="../../../scribus/stylemanager.cpp" line="164"/>
+        <location filename="../../../scribus/stylemanager.cpp" line="165"/>
         <source>Edit</source>
         <translation>Επεξεργασία</translation>
     </message>
     <message>
-        <location filename="../../../scribus/stylemanager.cpp" line="594"/>
-        <location filename="../../../scribus/stylemanager.cpp" line="628"/>
+        <location filename="../../../scribus/stylemanager.cpp" line="595"/>
+        <location filename="../../../scribus/stylemanager.cpp" line="629"/>
         <source>New %1</source>
         <translation>Νέο</translation>
     </message>
     <message>
-        <location filename="../../../scribus/stylemanager.cpp" line="1065"/>
+        <location filename="../../../scribus/stylemanager.cpp" line="1066"/>
         <source>This key sequence is already in use</source>
         <translation>Αυτή η ακολουθία πλήκτρων χρησιμοποιείται ήδη</translation>
     </message>
     <message>
-        <location filename="../../../scribus/stylemanager.cpp" line="1157"/>
+        <location filename="../../../scribus/stylemanager.cpp" line="1158"/>
         <source>More than one style selected</source>
         <translation>Περισσότερα από ένα αντικείμενα επιλεγμένα</translation>
     </message>
     <message>
-        <location filename="../../../scribus/stylemanager.cpp" line="296"/>
+        <location filename="../../../scribus/stylemanager.cpp" line="297"/>
         <source>Open</source>
         <translation>Άνοιγμα</translation>
     </message>
     <message>
-        <location filename="../../../scribus/stylemanager.cpp" line="296"/>
+        <location filename="../../../scribus/stylemanager.cpp" line="297"/>
         <source>documents (*.sla *.sla.gz *.scd *.scd.gz);;All Files (*)</source>
         <translation type="unfinished"/>
     </message>
@@ -22507,177 +22488,182 @@ Consider using the Preflight Verifier to correct them</source>
         <translation>Τοποθετήστε έναν κανόνα πάνω στην οθόνη σας και σύρετε την κύλιση για τον ορισμό του επιπέδου εστίασης έτσι ώστε το Scribus να εμφανίζει τις σελίδες και τα αντικείμενά σας με το σωστό μέγεθος</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabdisplay.ui" line="15"/>
+        <location filename="../../../scribus/tabdisplay.ui" line="16"/>
         <source>TabDisplayBase</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/tabdisplay.ui" line="31"/>
+        <location filename="../../../scribus/tabdisplay.ui" line="32"/>
         <source>General</source>
         <translation>Γενικά</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabdisplay.ui" line="257"/>
+        <location filename="../../../scribus/tabdisplay.ui" line="265"/>
         <source>Adjust Display Size</source>
         <translation>&amp;Προσαρμογή μεγέθους εμφάνισης</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabdisplay.ui" line="297"/>
+        <location filename="../../../scribus/tabdisplay.ui" line="305"/>
         <source>Scale%</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/tabdisplay.ui" line="263"/>
+        <location filename="../../../scribus/tabdisplay.ui" line="271"/>
         <source>To adjust the display drag the ruler below with the slider.</source>
         <translation>Για την προσαρμογή της εμφάνισης σύρετε τον κανόνα από κάτω με την κύλιση.</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabdisplay.ui" line="216"/>
+        <location filename="../../../scribus/tabdisplay.ui" line="224"/>
         <source>Gaps Between Pages</source>
         <translation>Κενά μεταξύ σελίδων</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabdisplay.ui" line="231"/>
+        <location filename="../../../scribus/tabdisplay.ui" line="239"/>
         <source>Vertical:</source>
         <translation>Κατακόρυφα:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabdisplay.ui" line="244"/>
+        <location filename="../../../scribus/tabdisplay.ui" line="252"/>
         <source>Horizontal:</source>
         <translation>Οριζόντια:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabdisplay.ui" line="130"/>
+        <location filename="../../../scribus/tabdisplay.ui" line="138"/>
         <source>Scratch Space</source>
         <translation>Κενό χάραξης</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabdisplay.ui" line="145"/>
+        <location filename="../../../scribus/tabdisplay.ui" line="153"/>
         <source>&amp;Bottom:</source>
         <translation>&amp;Κάτω:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabdisplay.ui" line="161"/>
+        <location filename="../../../scribus/tabdisplay.ui" line="169"/>
         <source>&amp;Top:</source>
         <translation>&amp;Πάνω:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabdisplay.ui" line="177"/>
+        <location filename="../../../scribus/tabdisplay.ui" line="185"/>
         <source>&amp;Right:</source>
         <translation>&amp;Δεξιά:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabdisplay.ui" line="200"/>
+        <location filename="../../../scribus/tabdisplay.ui" line="208"/>
         <source>&amp;Left:</source>
         <translation>&amp;Αριστερά:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabdisplay.ui" line="37"/>
+        <location filename="../../../scribus/tabdisplay.ui" line="38"/>
         <source>Page Display</source>
         <translation>Εμφάνιση σελίδας</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabdisplay.ui" line="110"/>
+        <location filename="../../../scribus/tabdisplay.ui" line="118"/>
         <source>Show Bleed Area</source>
         <translation>Εμφάνιση κανόνων</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabdisplay.ui" line="100"/>
+        <location filename="../../../scribus/tabdisplay.ui" line="108"/>
         <source>Display &amp;Unprintable Area in Margin Color</source>
         <translation>Εμφάνιση &amp;μη εκτυπώσιμης περιοχής με χρώμα περιθωρίου</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabdisplay.ui" line="103"/>
+        <location filename="../../../scribus/tabdisplay.ui" line="111"/>
         <source>Alt+U</source>
         <translation>Alt+Μ</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabdisplay.ui" line="90"/>
+        <location filename="../../../scribus/tabdisplay.ui" line="98"/>
         <source>Show Layer Indicators</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/tabdisplay.ui" line="80"/>
+        <location filename="../../../scribus/tabdisplay.ui" line="50"/>
         <source>Show Frames</source>
         <translation>Εμφάνιση πλαισίων</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabdisplay.ui" line="70"/>
+        <location filename="../../../scribus/tabdisplay.ui" line="81"/>
         <source>Show Text Chains</source>
         <translation>Εμφάνιση ακολουθιών κειμένου</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabdisplay.ui" line="63"/>
+        <location filename="../../../scribus/tabdisplay.ui" line="74"/>
         <source>Rulers Relative to Page</source>
         <translation>Κανόνες σχετικά με τη σελίδα</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabdisplay.ui" line="56"/>
+        <location filename="../../../scribus/tabdisplay.ui" line="67"/>
+        <source>Show Rulers</source>
+        <translation>Εμφάνιση κανόνων</translation>
+    </message>
+    <message>
+        <location filename="../../../scribus/tabdisplay.ui" line="91"/>
         <source>Show Text Control Characters</source>
         <translation>Εμφάνιση χαρακτήρων ελέγχου κειμένου</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabdisplay.ui" line="361"/>
+        <location filename="../../../scribus/tabdisplay.ui" line="369"/>
         <source>Colors</source>
         <translation>Χρώματα</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabdisplay.ui" line="389"/>
+        <location filename="../../../scribus/tabdisplay.ui" line="397"/>
         <source>Pages:</source>
         <translation>Σελίδα:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabdisplay.ui" line="409"/>
+        <location filename="../../../scribus/tabdisplay.ui" line="417"/>
         <source>Selected Page Border:</source>
         <translation>Διαγραφή σελίδων</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabdisplay.ui" line="464"/>
+        <location filename="../../../scribus/tabdisplay.ui" line="472"/>
         <source>Fill Color:</source>
         <translation>Χρώμα γεμίσματος:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabdisplay.ui" line="498"/>
+        <location filename="../../../scribus/tabdisplay.ui" line="506"/>
         <source>Frames</source>
         <translation>Μέγεθος πλαισίου</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabdisplay.ui" line="518"/>
+        <location filename="../../../scribus/tabdisplay.ui" line="526"/>
         <source>Grouped:</source>
         <translation>Ομαδοποίηση</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabdisplay.ui" line="547"/>
+        <location filename="../../../scribus/tabdisplay.ui" line="555"/>
         <source>Annotation:</source>
         <translation>&amp;Περιστροφή:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabdisplay.ui" line="640"/>
+        <location filename="../../../scribus/tabdisplay.ui" line="648"/>
         <source>Selected:</source>
         <translation>Επιλογή</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabdisplay.ui" line="650"/>
+        <location filename="../../../scribus/tabdisplay.ui" line="658"/>
         <source>Linked:</source>
         <translation>Γραμμή</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabdisplay.ui" line="686"/>
+        <location filename="../../../scribus/tabdisplay.ui" line="694"/>
         <source>Locked:</source>
         <translation>Κλείδωμα</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabdisplay.ui" line="734"/>
+        <location filename="../../../scribus/tabdisplay.ui" line="742"/>
         <source>Normal:</source>
         <translation>Κανονικό</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabdisplay.ui" line="749"/>
+        <location filename="../../../scribus/tabdisplay.ui" line="757"/>
         <source>Text:</source>
         <translation>Κείμενο</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabdisplay.ui" line="796"/>
+        <location filename="../../../scribus/tabdisplay.ui" line="804"/>
         <source>Control Characters:</source>
         <translation>Εμφάνιση χαρακτήρων ελέγχου</translation>
     </message>
@@ -22687,19 +22673,19 @@ Consider using the Preflight Verifier to correct them</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/tabdisplay.ui" line="49"/>
+        <location filename="../../../scribus/tabdisplay.ui" line="60"/>
         <source>Show Images</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/tabdisplay.cpp" line="138"/>
-        <location filename="../../../scribus/tabdisplay.cpp" line="195"/>
-        <location filename="../../../scribus/tabdisplay.cpp" line="203"/>
+        <location filename="../../../scribus/tabdisplay.cpp" line="139"/>
+        <location filename="../../../scribus/tabdisplay.cpp" line="196"/>
+        <location filename="../../../scribus/tabdisplay.cpp" line="204"/>
         <source> dpi</source>
         <translation> dpi</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabdisplay.ui" line="309"/>
+        <location filename="../../../scribus/tabdisplay.ui" line="317"/>
         <source>Resets the scale to the default dpi of your display</source>
         <translation type="unfinished"/>
     </message>
@@ -22709,7 +22695,7 @@ Consider using the Preflight Verifier to correct them</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/tabdisplay.ui" line="120"/>
+        <location filename="../../../scribus/tabdisplay.ui" line="128"/>
         <source>Show Page Shadow</source>
         <translation type="unfinished"/>
     </message>
@@ -23482,51 +23468,51 @@ Consider using the Preflight Verifier to correct them</source>
 <context>
     <name>TabKeyboardShortcutsWidget</name>
     <message>
-        <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="497"/>
-        <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="557"/>
+        <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="499"/>
+        <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="559"/>
         <source>Alt</source>
         <translation>Alt</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="497"/>
-        <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="557"/>
+        <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="499"/>
+        <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="559"/>
         <source>Ctrl</source>
         <translation>Ctrl</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="497"/>
-        <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="557"/>
+        <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="499"/>
+        <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="559"/>
         <source>Shift</source>
         <translation>Shift</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="497"/>
-        <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="557"/>
+        <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="499"/>
+        <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="559"/>
         <source>Meta</source>
         <translation>Meta</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="504"/>
+        <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="506"/>
         <source>Meta+</source>
         <translation>Meta+</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="508"/>
+        <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="510"/>
         <source>Shift+</source>
         <translation>Shift+</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="512"/>
+        <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="514"/>
         <source>Alt+</source>
         <translation>Alt+</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="516"/>
+        <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="518"/>
         <source>Ctrl+</source>
         <translation>Ctrl+</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="526"/>
+        <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="528"/>
         <source>This key sequence is already in use</source>
         <translation>Αυτή η ακολουθία πλήκτρων χρησιμοποιείται ήδη</translation>
     </message>
@@ -24918,7 +24904,7 @@ when PDF document is opened:</source>
         <translation>Ενεργοποίηση μετατροπής των χρωμάτων κουκκίδας σε σύνθετα χρώματα. Εκτός της περίπτωσης που επιθυμείτε την εκτύπωση χρωμάτων κουκκίδας σε επαγγελματικό εκτυπωτή αφήστε αυτήν την επιλογή ενεργοποιημένη.</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.cpp" line="38"/>
+        <location filename="../../../scribus/tabprinter.cpp" line="37"/>
         <source>This enables you to explicitely set the media size of the PostScript file. Not recommended unless requested by your printer.</source>
         <translation>Αυτός σας επιτρέπει να ορίσετε άμεσα το μέγεθος χαρτιού του αρχείου PostScript. Δεν προτείνεται εκτός και αν απαιτείται από τον εκτυπωτή σας.</translation>
     </message>
@@ -24928,207 +24914,197 @@ when PDF document is opened:</source>
         <translation>Αρχείο</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.cpp" line="137"/>
+        <location filename="../../../scribus/tabprinter.cpp" line="133"/>
         <source>All</source>
         <translation>Όλα</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.ui" line="13"/>
+        <location filename="../../../scribus/tabprinter.ui" line="14"/>
         <source>TabPrinterBase</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.ui" line="45"/>
+        <location filename="../../../scribus/tabprinter.ui" line="46"/>
         <source>Options</source>
         <translation>Επιλογές</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.ui" line="57"/>
+        <location filename="../../../scribus/tabprinter.ui" line="58"/>
         <source>Page</source>
         <translation>Σελίδα</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.ui" line="69"/>
+        <location filename="../../../scribus/tabprinter.ui" line="70"/>
         <source>Mirror Page(s) Horizontal</source>
         <translation>Καθρεφτισμός σελίδας(ων) οριζόντια</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.ui" line="76"/>
+        <location filename="../../../scribus/tabprinter.ui" line="77"/>
         <source>Mirror Page(s) Vertical</source>
         <translation>Καθρεφτισμός σελίδας(ων) κατακόρυφα</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.ui" line="83"/>
+        <location filename="../../../scribus/tabprinter.ui" line="84"/>
         <source>Set Media Size</source>
         <translation>Ορισμός μεγέθους χαρτιού</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.ui" line="112"/>
+        <location filename="../../../scribus/tabprinter.ui" line="113"/>
         <source>Print in Grayscale</source>
         <translation>Εκτύπωση σε διαβαθμίσεις του γκρι</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.ui" line="119"/>
+        <location filename="../../../scribus/tabprinter.ui" line="120"/>
         <source>Print in Color if Available</source>
         <translation>Εκτύπωση έγχρωμη αν είναι διαθέσιμη</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.ui" line="130"/>
+        <location filename="../../../scribus/tabprinter.ui" line="131"/>
         <source>Level 1</source>
         <translation>Επίπεδο</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.ui" line="135"/>
+        <location filename="../../../scribus/tabprinter.ui" line="136"/>
         <source>Level 2</source>
         <translation>Επίπεδο</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.ui" line="140"/>
+        <location filename="../../../scribus/tabprinter.ui" line="141"/>
         <source>Level 3</source>
         <translation>Επίπεδο</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.ui" line="151"/>
+        <location filename="../../../scribus/tabprinter.ui" line="152"/>
         <source>General</source>
         <translation>Γενικά</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.ui" line="167"/>
+        <location filename="../../../scribus/tabprinter.ui" line="168"/>
         <source>Print Separations</source>
         <translation>Εκτύπωση διαχωρισμών</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.ui" line="157"/>
+        <location filename="../../../scribus/tabprinter.ui" line="158"/>
         <source>Print Normal</source>
         <translation>Κανονική εκτύπωση</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.ui" line="184"/>
+        <location filename="../../../scribus/tabprinter.ui" line="185"/>
         <source>Color</source>
         <translation>Χρώμα</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.ui" line="196"/>
+        <location filename="../../../scribus/tabprinter.ui" line="204"/>
         <source>Apply Under Color Removal</source>
         <translation>Εφαρμογή κατά την αφαίρεση χρώματος</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.ui" line="203"/>
+        <location filename="../../../scribus/tabprinter.ui" line="197"/>
         <source>Convert Spot Colors to Process Colors</source>
         <translation>Μετατροπή χρωμάτων κουκκίδας σε χρώματα επεξεργασίας</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.ui" line="210"/>
-        <source>Apply ICC Profiles</source>
-        <translation>Εφαρμογή των προφίλ ICC</translation>
-    </message>
-    <message>
-        <location filename="../../../scribus/tabprinter.ui" line="221"/>
+        <location filename="../../../scribus/tabprinter.ui" line="228"/>
         <source>Marks &amp;&amp; Bleeds</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.ui" line="233"/>
+        <location filename="../../../scribus/tabprinter.ui" line="240"/>
         <source>Bleed Settings</source>
         <translation>Ρυθμίσεις στυλ</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.ui" line="248"/>
+        <location filename="../../../scribus/tabprinter.ui" line="255"/>
         <source>Top:</source>
         <translation>&amp;Πάνω:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.ui" line="258"/>
+        <location filename="../../../scribus/tabprinter.ui" line="265"/>
         <source>Bottom:</source>
         <translation>&amp;Κάτω:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.ui" line="271"/>
+        <location filename="../../../scribus/tabprinter.ui" line="278"/>
         <source>Left:</source>
         <translation>&amp;Αριστερά:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.ui" line="284"/>
+        <location filename="../../../scribus/tabprinter.ui" line="291"/>
         <source>Right:</source>
         <translation>Δεξιά:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.ui" line="300"/>
+        <location filename="../../../scribus/tabprinter.ui" line="307"/>
         <source>Printer Marks</source>
         <translation>Περιθώρια εκτυπωτή...</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.ui" line="312"/>
+        <location filename="../../../scribus/tabprinter.ui" line="319"/>
         <source>Add color calibration bars</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.ui" line="315"/>
+        <location filename="../../../scribus/tabprinter.ui" line="322"/>
         <source>Color Bars</source>
         <translation>Χρωματική υπερεμφάνιση</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.ui" line="325"/>
+        <location filename="../../../scribus/tabprinter.ui" line="332"/>
         <source>Offset:</source>
         <translation>X-Μετατοπ</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.ui" line="335"/>
+        <location filename="../../../scribus/tabprinter.ui" line="342"/>
         <source>Add registration marks which are added to each separation</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.ui" line="338"/>
+        <location filename="../../../scribus/tabprinter.ui" line="345"/>
         <source>Registration Marks</source>
         <translation>Είναι χρώμα καταχώρησης</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.ui" line="345"/>
+        <location filename="../../../scribus/tabprinter.ui" line="352"/>
         <source>This creates bleed marks which are indicated by  _ . _ and show the bleed limit</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.ui" line="348"/>
+        <location filename="../../../scribus/tabprinter.ui" line="355"/>
         <source>Bleed Marks</source>
         <translation>Ημερολόγια</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.ui" line="355"/>
+        <location filename="../../../scribus/tabprinter.ui" line="362"/>
         <source>This creates crop marks in the PDF indicating where the paper should be cut or trimmed after printing</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.ui" line="358"/>
+        <location filename="../../../scribus/tabprinter.ui" line="365"/>
         <source>Crop Marks</source>
         <translation>Βύθιση κεφαλαίων</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.ui" line="372"/>
+        <location filename="../../../scribus/tabprinter.ui" line="379"/>
         <source>Print Destination</source>
         <translation>Προορισμός εκτύπωσης</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.ui" line="384"/>
+        <location filename="../../../scribus/tabprinter.ui" line="391"/>
         <source>Alternative Printer Command</source>
         <translation>Ε&amp;ναλλακτική εντολή εκτυπωτή</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.ui" line="402"/>
+        <location filename="../../../scribus/tabprinter.ui" line="409"/>
         <source>Command:</source>
         <translation>&amp;Εντολή:</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.cpp" line="37"/>
-        <source>Allows you to embed color profiles in the print stream when color management is enabled</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <location filename="../../../scribus/tabprinter.ui" line="100"/>
+        <location filename="../../../scribus/tabprinter.ui" line="101"/>
         <source>PostScript Options</source>
         <translation type="unfinished"/>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.ui" line="174"/>
+        <location filename="../../../scribus/tabprinter.ui" line="175"/>
         <source>Include PDF Annotations and Links</source>
         <translation type="unfinished"/>
     </message>
@@ -25138,7 +25114,7 @@ when PDF document is opened:</source>
         <translation>Μια μέθοδος χρήσης του μαύρου μελανιού σε γκρι σκιάσεις που έχουν συνδεθεί από κυανό, ματζέντα και κίτρινο μελάνι. Το UCR επηρεάζει κυρίως περιοχές εικόνων με ουδέτερους και/ή σκοτεινούς τόνους που βρίσκονται κοντά στις αποχρώσεις του γκρι. Χρησιμοποιήστε αυτήν την επιλογή για τη βελτίωση της εκτύπωσης εικόνων. Για το καλύτερο αποτέλεσμα απαιτούνται κάποιες δοκιμές και πειραματισμός ανά περίπτωση. Το UCR ελαττώνει την πιθανότητα υπερκορεσμού με μελάνια CMY.</translation>
     </message>
     <message>
-        <location filename="../../../scribus/tabprinter.ui" line="90"/>
+        <location filename="../../../scribus/tabprinter.ui" line="91"/>
         <source>Clip to Printer Margins</source>
         <translation type="unfinished"/>
     </message>

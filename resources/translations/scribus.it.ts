@@ -18144,11 +18144,11 @@ Nota: I formulari PDF non saranno esportati.</translation>
     </message>
     <message>
         <source>Any path self-intersections or subpaths create holes in the fill.</source>
-        <translation type="unfinished"/>
+        <translation>Ogni intersezione del tracciato con sé stesso crea spazi vuoti nello riempimento.</translation>
     </message>
     <message>
         <source>Fill is solid unless a subpath is counterdirectional.</source>
-        <translation type="unfinished"/>
+        <translation>Lo riempimento è pieno a meno che un sottotracciato sia definito nella direzione opposta.</translation>
     </message>
 </context>
 <context>
@@ -18972,11 +18972,11 @@ dell&apos;oggetto</translation>
     </message>
     <message>
         <source>Any path self-intersections or subpaths create holes in the fill.</source>
-        <translation type="unfinished"/>
+        <translation>Ogni intersezione del tracciato con sé stesso crea spazi vuoti nello riempimento.</translation>
     </message>
     <message>
         <source>Fill is solid unless a subpath is counterdirectional.</source>
-        <translation type="unfinished"/>
+        <translation>Lo riempimento è pieno a meno che un sottotracciato sia definito nella direzione opposta.</translation>
     </message>
 </context>
 <context>

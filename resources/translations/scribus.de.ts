@@ -26240,11 +26240,11 @@ Vertikaler Abstand: %3</translation>
     </message>
     <message>
         <source>remove direct paragraph formatting</source>
-        <translation type="unfinished"/>
+        <translation>Direkte Absatzformatierung entfernen</translation>
     </message>
     <message>
         <source>remove direct char formatting</source>
-        <translation type="unfinished"/>
+        <translation>Direkte Zeichenformatierung entfernen</translation>
     </message>
     <message>
         <source>Number of copies: %1

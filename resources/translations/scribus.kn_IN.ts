@@ -2694,7 +2694,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>ತೆಗೆದು ಹಾಕು</translation>
     </message>
     <message>
         <source>Object</source>
@@ -2876,7 +2876,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>ಓಕೆ</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3203,7 +3203,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>ಓಕೆ</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3821,7 +3821,7 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     <name>CharTableView</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>ತೆಗೆದು ಹಾಕು</translation>
     </message>
 </context>
 <context>
@@ -3864,7 +3864,7 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     </message>
     <message>
         <source>Page </source>
-        <translation type="unfinished"/>
+        <translation>ಪುಟ</translation>
     </message>
     <message>
         <source>Free Objects</source>
@@ -3876,7 +3876,7 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     </message>
     <message>
         <source>Items</source>
-        <translation type="unfinished"/>
+        <translation>ಐಟಮ್</translation>
     </message>
     <message>
         <source>Problems</source>
@@ -3896,11 +3896,11 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     </message>
     <message>
         <source>Image is GIF</source>
-        <translation type="unfinished"/>
+        <translation>ಇ ಚಿತ್ರವು GIF ಆಗಿರುತ್ತದೆ</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>ಓಕೆ</translation>
     </message>
     <message>
         <source>Transparency used</source>
@@ -3932,7 +3932,7 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     </message>
     <message>
         <source>Empty Image Frame</source>
-        <translation type="unfinished"/>
+        <translation>ಇಮೇಜ್ ಫ್ರೇಮ್ ಕಾಲಿಮಾಡು</translation>
     </message>
     <message>
         <source>Layers</source>
@@ -5058,7 +5058,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>ಓಕೆ</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -5642,7 +5642,7 @@ failed!</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>ಓಕೆ</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -5737,7 +5737,7 @@ failed!</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>ಓಕೆ</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9331,7 +9331,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>ತೆಗೆದು ಹಾಕು</translation>
     </message>
     <message>
         <source>Anchors</source>
@@ -10211,7 +10211,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>ಓಕೆ</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -10302,11 +10302,11 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>ತೆಗೆದು ಹಾಕು</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>ಓಕೆ</translation>
     </message>
     <message>
         <source>Document</source>
@@ -10638,7 +10638,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>ಓಕೆ</translation>
     </message>
     <message>
         <source>Enabling this will overwrite existing styles in the current Scribus document</source>
@@ -10745,7 +10745,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Page </source>
-        <translation type="unfinished"/>
+        <translation>ಪುಟ</translation>
     </message>
     <message>
         <source>Free Objects</source>
@@ -11827,7 +11827,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>ಓಕೆ</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -14824,7 +14824,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>ತೆಗೆದು ಹಾಕು</translation>
     </message>
     <message>
         <source>Change...</source>
@@ -14949,7 +14949,7 @@ Do you want to use this?</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>ತೆಗೆದು ಹಾಕು</translation>
     </message>
     <message>
         <source>C&amp;hange...</source>
@@ -20184,7 +20184,7 @@ Scripter documentation for futher information. </source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>ಓಕೆ</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -20263,7 +20263,7 @@ Scripter documentation for futher information. </source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>ಓಕೆ</translation>
     </message>
     <message>
         <source>Look &amp;in:</source>
@@ -20473,7 +20473,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>ತೆಗೆದು ಹಾಕು</translation>
     </message>
     <message>
         <source>Are you sure you want to delete &apos;%1&apos;?</source>
@@ -20524,7 +20524,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>ಓಕೆ</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -20575,7 +20575,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>ತೆಗೆದು ಹಾಕು</translation>
     </message>
 </context>
 <context>
@@ -25229,7 +25229,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>ಓಕೆ</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -27726,7 +27726,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>ತೆಗೆದು ಹಾಕು</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
@@ -27903,7 +27903,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>ಓಕೆ</translation>
     </message>
     <message>
         <source>OpenOffice.org Writer Importer Options</source>
@@ -29381,7 +29381,7 @@ W: %3, H: %4</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>ತೆಗೆದು ಹಾಕು</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -30588,7 +30588,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>ಓಕೆ</translation>
     </message>
     <message>
         <source>Cancel</source>
