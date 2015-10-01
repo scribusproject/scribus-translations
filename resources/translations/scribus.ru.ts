@@ -2158,15 +2158,15 @@
     <name>ArcVectorBase</name>
     <message>
         <source>Edit Arc</source>
-        <translation type="unfinished"/>
+        <translation>Изменить дугу</translation>
     </message>
     <message>
         <source>Start Angle:</source>
-        <translation type="unfinished"/>
+        <translation>Угол начала:</translation>
     </message>
     <message>
         <source>End Angle:</source>
-        <translation type="unfinished"/>
+        <translation>Угол конца:</translation>
     </message>
     <message>
         <source>Height:</source>
@@ -2189,11 +2189,11 @@
     </message>
     <message>
         <source>Start Angle:</source>
-        <translation type="unfinished"/>
+        <translation>Угол начала:</translation>
     </message>
     <message>
         <source>End Angle:</source>
-        <translation type="unfinished"/>
+        <translation>Угол конца:</translation>
     </message>
     <message>
         <source>Sample Polygon</source>
@@ -2389,7 +2389,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Insert a barcode</source>
-        <translation type="unfinished"/>
+        <translation>Вставить штрих-код</translation>
     </message>
 </context>
 <context>
@@ -2770,31 +2770,31 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Import a scrapbook file from Scribus &lt;=1.3.2</source>
-        <translation>Импортировать файл альбома из Scribus &lt;=1.3.2</translation>
+        <translation>Импортировать альбом в формате Scribus &lt;=1.3.2</translation>
     </message>
     <message>
         <source>Hide Images</source>
-        <translation type="unfinished"/>
+        <translation>Скрыть изображения</translation>
     </message>
     <message>
         <source>Hide Vector files</source>
-        <translation type="unfinished"/>
+        <translation>Скрыть векторные файлы</translation>
     </message>
     <message>
         <source>Go up one Directory</source>
-        <translation type="unfinished"/>
+        <translation>Перейти в каталог выше</translation>
     </message>
     <message>
         <source>Configure the scrapbook</source>
-        <translation type="unfinished"/>
+        <translation>Настроить альбом</translation>
     </message>
     <message>
         <source>Hide Directories</source>
-        <translation type="unfinished"/>
+        <translation>Скрыть каталоги</translation>
     </message>
     <message>
         <source>Open Directories in a new tab</source>
-        <translation type="unfinished"/>
+        <translation>Открыть каталоги в новой вкладке</translation>
     </message>
 </context>
 <context>
@@ -3166,79 +3166,81 @@ It is a reserved name for transparent color</source>
     <message>
         <source>You cannot create a color without a name.
 Please give it a name</source>
-        <translation type="unfinished"/>
+        <translation>Вы не можете создать безымянный цвет.
+Дайте ему название.</translation>
     </message>
     <message>
         <source>The name of the color already exists.
 Please choose another one.</source>
-        <translation type="unfinished"/>
+        <translation>Цвет с таким названием уже существует.
+Выберите другое название.</translation>
     </message>
     <message>
         <source>Lab</source>
-        <translation type="unfinished"/>
+        <translation>Lab</translation>
     </message>
     <message>
         <source>HLC</source>
-        <translation type="unfinished"/>
+        <translation>HLC</translation>
     </message>
     <message>
         <source>L:</source>
-        <translation type="unfinished"/>
+        <translation>L:</translation>
     </message>
     <message>
         <source>a:</source>
-        <translation type="unfinished"/>
+        <translation>a:</translation>
     </message>
     <message>
         <source>b:</source>
-        <translation type="unfinished"/>
+        <translation>b:</translation>
     </message>
     <message>
         <source>H:</source>
-        <translation type="unfinished"/>
+        <translation>H:</translation>
     </message>
 </context>
 <context>
     <name>CMYKChooseBase</name>
     <message>
         <source>Edit Color</source>
-        <translation type="unfinished"/>
+        <translation>Изменить цвет</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Название:</translation>
     </message>
     <message>
         <source>Color &amp;Model</source>
-        <translation type="unfinished"/>
+        <translation>Цветовая &amp;модель</translation>
     </message>
     <message>
         <source>Is Spot Color</source>
-        <translation type="unfinished"/>
+        <translation>Это плашечный цвет</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>ОК</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Отмена</translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"/>
+        <translation>Новый</translation>
     </message>
     <message>
         <source>Old</source>
-        <translation type="unfinished"/>
+        <translation>Старый</translation>
     </message>
     <message>
         <source>C:</source>
-        <translation type="unfinished"/>
+        <translation>C:</translation>
     </message>
     <message>
         <source> %</source>
-        <translation type="unfinished"/>
+        <translation> %</translation>
     </message>
     <message>
         <source>...</source>
@@ -3246,15 +3248,15 @@ Please choose another one.</source>
     </message>
     <message>
         <source>M:</source>
-        <translation type="unfinished"/>
+        <translation>M:</translation>
     </message>
     <message>
         <source>Y:</source>
-        <translation type="unfinished"/>
+        <translation>Y:</translation>
     </message>
     <message>
         <source>K:</source>
-        <translation type="unfinished"/>
+        <translation>K:</translation>
     </message>
 </context>
 <context>
@@ -9426,7 +9428,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">&amp;Название:</translation>
     </message>
     <message>
         <source>New Master Page</source>
@@ -17668,7 +17670,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Icon Set:</source>
-        <translation type="unfinished"/>
+        <translation>Значки интерфейса:</translation>
     </message>
     <message>
         <source>Choose the default icon set</source>
@@ -19794,11 +19796,11 @@ Transparency</source>
     <name>PropertyWidget_Orphans</name>
     <message>
         <source>Don&apos;t separate first</source>
-        <translation>Не отделять первый</translation>
+        <translation>Не отделять первые</translation>
     </message>
     <message>
         <source>Don&apos;t separate last</source>
-        <translation>Не отделять последний</translation>
+        <translation>Не отделять последние</translation>
     </message>
     <message>
         <source> lines</source>
@@ -19810,7 +19812,7 @@ Transparency</source>
     </message>
     <message>
         <source>Keep with next paragraph</source>
-        <translation type="unfinished"/>
+        <translation>Переносить со следующим абзацем</translation>
     </message>
     <message>
         <source>Ensure that first lines of a paragraph won&apos;t end up separated from the rest (known as widow/orphan control)</source>
@@ -19845,7 +19847,7 @@ Transparency</source>
     </message>
     <message>
         <source> lines</source>
-        <translation> строки</translation>
+        <translation> строк</translation>
     </message>
     <message>
         <source>Don&apos;t separate last</source>
@@ -19857,7 +19859,7 @@ Transparency</source>
     </message>
     <message>
         <source>Keep with next paragraph</source>
-        <translation type="unfinished"/>
+        <translation>Переносить со следующим абзацем</translation>
     </message>
 </context>
 <context>
@@ -19868,19 +19870,19 @@ Transparency</source>
     </message>
     <message>
         <source>Drop Caps</source>
-        <translation>Буквица</translation>
+        <translation>Капитель</translation>
     </message>
     <message>
         <source>Bulleted List</source>
-        <translation type="unfinished"/>
+        <translation>Маркированный список</translation>
     </message>
     <message>
         <source>Bullet Char(s)</source>
-        <translation type="unfinished"/>
+        <translation>Символ маркера</translation>
     </message>
     <message>
         <source>Enhanced char table to choose bullet chars</source>
-        <translation type="unfinished"/>
+        <translation>Расширенная таблица символов для выбора символа маркера</translation>
     </message>
     <message>
         <source>Char Table</source>
@@ -19888,7 +19890,7 @@ Transparency</source>
     </message>
     <message>
         <source>Numbered List</source>
-        <translation type="unfinished"/>
+        <translation>Нумерованный список</translation>
     </message>
     <message>
         <source>Level</source>
@@ -19896,7 +19898,7 @@ Transparency</source>
     </message>
     <message>
         <source>Set</source>
-        <translation type="unfinished"/>
+        <translation>Установить</translation>
     </message>
     <message>
         <source>Format</source>
@@ -19916,15 +19918,15 @@ Transparency</source>
     </message>
     <message>
         <source>Offset</source>
-        <translation>Смещение:</translation>
+        <translation>Смещение</translation>
     </message>
     <message>
         <source>Auto-Indent</source>
-        <translation type="unfinished"/>
+        <translation>Автоотступ</translation>
     </message>
     <message>
         <source>Char Style</source>
-        <translation type="unfinished"/>
+        <translation>Стиль символа</translation>
     </message>
     <message>
         <source>Choose chracter style or leave blank for use default paragraph style</source>
@@ -19932,11 +19934,11 @@ Transparency</source>
     </message>
     <message>
         <source>No Paragraph Effects</source>
-        <translation type="unfinished"/>
+        <translation>Без эффектов</translation>
     </message>
     <message>
         <source>Numerated List</source>
-        <translation type="unfinished"/>
+        <translation>Нумерованный список</translation>
     </message>
 </context>
 <context>
@@ -19947,11 +19949,11 @@ Transparency</source>
     </message>
     <message>
         <source>Effect Parameters</source>
-        <translation type="unfinished"/>
+        <translation>Параметры</translation>
     </message>
     <message>
         <source>Char Style</source>
-        <translation type="unfinished"/>
+        <translation>Стиль символа</translation>
     </message>
     <message>
         <source>AutoIndent</source>
@@ -19963,7 +19965,7 @@ Transparency</source>
     </message>
     <message>
         <source>Drop Caps</source>
-        <translation>Буквица</translation>
+        <translation>Капитель</translation>
     </message>
     <message>
         <source>Number of lines used by the drop cap</source>
@@ -19975,7 +19977,7 @@ Transparency</source>
     </message>
     <message>
         <source>Numbered List</source>
-        <translation type="unfinished"/>
+        <translation>Нумерованный список</translation>
     </message>
     <message>
         <source>Level</source>
@@ -19987,7 +19989,7 @@ Transparency</source>
     </message>
     <message>
         <source>Set</source>
-        <translation type="unfinished"/>
+        <translation>Установить</translation>
     </message>
     <message>
         <source>Format</source>
@@ -20003,11 +20005,11 @@ Transparency</source>
     </message>
     <message>
         <source>Bulleted List</source>
-        <translation type="unfinished"/>
+        <translation>Маркированный список</translation>
     </message>
     <message>
         <source>Bullet Char(s)</source>
-        <translation type="unfinished"/>
+        <translation>Символ маркера</translation>
     </message>
     <message>
         <source>Char Table</source>
@@ -24119,7 +24121,7 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>Keep with next paragraph</source>
-        <translation type="unfinished"/>
+        <translation>Переносить со следующим абзацем</translation>
     </message>
     <message>
         <source>Ensure that last lines of a paragraph won&apos;t end up separated from the rest (known as widow/orphan control)</source>
@@ -24267,11 +24269,11 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>Frame</source>
-        <translation>Frame</translation>
+        <translation>Блок</translation>
     </message>
     <message>
         <source>Alignment and Distances</source>
-        <translation type="unfinished"/>
+        <translation>Выравнивание и расстояния</translation>
     </message>
     <message>
         <source>Use Parent&apos;s Values</source>
@@ -27532,11 +27534,11 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Start Angle:</source>
-        <translation type="unfinished"/>
+        <translation>Угол начала:</translation>
     </message>
     <message>
         <source>End Angle:</source>
-        <translation type="unfinished"/>
+        <translation>Угол конца:</translation>
     </message>
     <message>
         <source>Factor:</source>
@@ -27559,11 +27561,11 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Start Angle:</source>
-        <translation type="unfinished"/>
+        <translation>Угол начала:</translation>
     </message>
     <message>
         <source>End Angle:</source>
-        <translation type="unfinished"/>
+        <translation>Угол конца:</translation>
     </message>
     <message>
         <source>Factor:</source>
