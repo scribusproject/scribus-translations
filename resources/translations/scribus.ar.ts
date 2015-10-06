@@ -11,18 +11,18 @@
     </message>
     <message>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation> مجموعه%1</translation>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>توليد العناصر</translation>
     </message>
 </context>
 <context>
     <name>About</name>
     <message>
         <source>Contributions from:</source>
-        <translation type="unfinished"/>
+        <translation>مساهمات من:</translation>
     </message>
     <message>
         <source>&amp;About</source>
@@ -30,7 +30,7 @@
     </message>
     <message>
         <source>A&amp;uthors</source>
-        <translation type="unfinished"/>
+        <translation>الملاك</translation>
     </message>
     <message>
         <source>&amp;Translations</source>
@@ -38,7 +38,7 @@
     </message>
     <message>
         <source>&amp;Online</source>
-        <translation type="unfinished"/>
+        <translation>&amp;اون لاين</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -50,11 +50,11 @@
     </message>
     <message>
         <source>Official Documentation:</source>
-        <translation type="unfinished"/>
+        <translation>الوثائق الرسميه:</translation>
     </message>
     <message>
         <source>Other Documentation:</source>
-        <translation type="unfinished"/>
+        <translation>الوثائق الاخرى:</translation>
     </message>
     <message>
         <source>Homepage</source>
@@ -62,15 +62,15 @@
     </message>
     <message>
         <source>Online Reference</source>
-        <translation type="unfinished"/>
+        <translation>المراجع على الانترنت</translation>
     </message>
     <message>
         <source>Bugs and Feature Requests</source>
-        <translation type="unfinished"/>
+        <translation>طلب الاخطاء و المميزات </translation>
     </message>
     <message>
         <source>Mailing List</source>
-        <translation type="unfinished"/>
+        <translation>القائمه البريديه</translation>
     </message>
     <message>
         <source>Official Translations and Translators:</source>
@@ -3584,7 +3584,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>توليد العناصر</translation>
     </message>
 </context>
 <context>
@@ -5244,7 +5244,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>توليد العناصر</translation>
     </message>
 </context>
 <context>
@@ -5495,7 +5495,7 @@ currently %2 x %3 DPI</source>
     <name>DrwPlug</name>
     <message>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation> مجموعه%1</translation>
     </message>
     <message>
         <source>Importing: %1</source>
@@ -5507,7 +5507,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>توليد العناصر</translation>
     </message>
 </context>
 <context>
@@ -5528,7 +5528,7 @@ failed!</source>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>توليد العناصر</translation>
     </message>
     <message>
         <source>Analyzing PostScript:</source>
@@ -5540,7 +5540,7 @@ failed!</source>
     </message>
     <message>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation> مجموعه%1</translation>
     </message>
     <message>
         <source>Importing: %1</source>
@@ -5788,7 +5788,7 @@ failed!</source>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>توليد العناصر</translation>
     </message>
 </context>
 <context>
@@ -7009,7 +7009,7 @@ Ignore List</source>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>توليد العناصر</translation>
     </message>
 </context>
 <context>
@@ -10378,7 +10378,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation> مجموعه%1</translation>
     </message>
 </context>
 <context>
@@ -10623,7 +10623,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>توليد العناصر</translation>
     </message>
 </context>
 <context>
@@ -11726,7 +11726,7 @@ Often used for allowing items to be placed across page spreads</source>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>توليد العناصر</translation>
     </message>
     <message>
         <source>Parsing failed!
@@ -12424,7 +12424,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>توليد العناصر</translation>
     </message>
 </context>
 <context>
@@ -12494,7 +12494,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>توليد العناصر</translation>
     </message>
     <message>
         <source>Open PDF-File</source>
@@ -24559,7 +24559,7 @@ converting their vector data into Scribus objects.</source>
     <name>SVGPlug</name>
     <message>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation> مجموعه%1</translation>
     </message>
 </context>
 <context>
@@ -25886,7 +25886,7 @@ If you save it in this version, it will no longer be readable by older Scribus v
     </message>
     <message>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation> مجموعه%1</translation>
     </message>
 </context>
 <context>
@@ -26055,7 +26055,7 @@ Rotation: %4</source>
     </message>
     <message>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation> مجموعه%1</translation>
     </message>
     <message>
         <source>Imported </source>
@@ -27249,11 +27249,11 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>توليد العناصر</translation>
     </message>
     <message>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation> مجموعه%1</translation>
     </message>
 </context>
 <context>
@@ -27376,7 +27376,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>توليد العناصر</translation>
     </message>
 </context>
 <context>
@@ -27888,7 +27888,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>توليد العناصر</translation>
     </message>
 </context>
 <context>
@@ -30413,7 +30413,7 @@ Would you like to start the system&apos;s default browser instead?</source>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>توليد العناصر</translation>
     </message>
 </context>
 <context>
@@ -30496,11 +30496,11 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation> مجموعه%1</translation>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>توليد العناصر</translation>
     </message>
 </context>
 <context>
@@ -30515,7 +30515,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>توليد العناصر</translation>
     </message>
 </context>
 <context>
@@ -30561,7 +30561,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>توليد العناصر</translation>
     </message>
 </context>
 <context>

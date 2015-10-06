@@ -14,12 +14,12 @@
     <message>
         <location filename="../../../scribus/plugins/import/ai/importai.cpp" line="262"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation> مجموعه%1</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/ai/importai.cpp" line="2495"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>توليد العناصر</translation>
     </message>
 </context>
 <context>
@@ -72,7 +72,7 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="309"/>
         <source>Contributions from:</source>
-        <translation type="unfinished"/>
+        <translation>مساهمات من:</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="301"/>
@@ -87,12 +87,12 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="311"/>
         <source>Official Documentation:</source>
-        <translation type="unfinished"/>
+        <translation>الوثائق الرسميه</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="315"/>
         <source>Other Documentation:</source>
-        <translation type="unfinished"/>
+        <translation>الوثائق الاخرى:</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="321"/>
@@ -102,7 +102,7 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="201"/>
         <source>A&amp;uthors</source>
-        <translation type="unfinished"/>
+        <translation>الملاك</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="333"/>
@@ -127,7 +127,7 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="351"/>
         <source>Online Reference</source>
-        <translation type="unfinished"/>
+        <translation>المراجع على الانترنت</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="353"/>
@@ -137,17 +137,17 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="355"/>
         <source>Bugs and Feature Requests</source>
-        <translation type="unfinished"/>
+        <translation>طلب الاخطاء و المميزات </translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="359"/>
         <source>Mailing List</source>
-        <translation type="unfinished"/>
+        <translation>القائمه البريديه</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="226"/>
         <source>&amp;Online</source>
-        <translation type="unfinished"/>
+        <translation>&amp;اون لاين</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="229"/>
@@ -6200,12 +6200,12 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/plugins/import/cvg/importcvg.cpp" line="205"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation> مجموعه%1</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/cvg/importcvg.cpp" line="332"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>توليد العناصر</translation>
     </message>
 </context>
 <context>
@@ -6756,7 +6756,7 @@ See the Edit Colors section of the documentation for more details.</source>
         <location filename="../../../scribus/plugins/import/ps/importps.cpp" line="278"/>
         <location filename="../../../scribus/plugins/import/ps/importps.cpp" line="706"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation> مجموعه%1</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/ps/importps.cpp" line="476"/>
@@ -6773,7 +6773,7 @@ failed!</source>
     <message>
         <location filename="../../../scribus/plugins/import/ps/importps.cpp" line="482"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>توليد العناصر</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/ps/importps.cpp" line="837"/>
@@ -11193,7 +11193,7 @@ If no handle is selected all handles will be reset.</source>
         <location filename="../../../scribus/plugins/import/oodraw/oodrawimp.cpp" line="467"/>
         <location filename="../../../scribus/plugins/import/oodraw/oodrawimp.cpp" line="617"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation> مجموعه%1</translation>
     </message>
 </context>
 <context>
@@ -12818,12 +12818,12 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <message>
         <location filename="../../../scribus/plugins/import/pct/importpct.cpp" line="209"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation> مجموعه%1</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/pct/importpct.cpp" line="368"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>توليد العناصر</translation>
     </message>
 </context>
 <context>
@@ -19756,7 +19756,7 @@ converting their vector data into Scribus objects.</source>
         <location filename="../../../scribus/plugins/import/svg/svgplugin.cpp" line="407"/>
         <location filename="../../../scribus/plugins/import/svg/svgplugin.cpp" line="1019"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation> مجموعه%1</translation>
     </message>
 </context>
 <context>
@@ -20228,7 +20228,7 @@ Rotation: %4</source>
     <message>
         <location filename="../../../scribus/scribusdoc.cpp" line="10615"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation> مجموعه%1</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusdoc.cpp" line="2896"/>
@@ -20964,7 +20964,7 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <location filename="../../../scribus/scribusview.cpp" line="3698"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation> مجموعه%1</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusview.cpp" line="4005"/>
@@ -27123,7 +27123,7 @@ Would you like to start the system&apos;s default browser instead?</source>
     <message>
         <location filename="../../../scribus/plugins/import/wmf/wmfimport.cpp" line="647"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation> مجموعه%1</translation>
     </message>
 </context>
 <context>
@@ -27170,12 +27170,12 @@ converting their vector data into Scribus objects.</source>
     <message>
         <location filename="../../../scribus/plugins/import/xfig/importxfig.cpp" line="283"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation> مجموعه%1</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/xfig/importxfig.cpp" line="1552"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>توليد العناصر</translation>
     </message>
 </context>
 <context>

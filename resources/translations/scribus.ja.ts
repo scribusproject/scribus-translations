@@ -1521,7 +1521,7 @@
     </message>
     <message>
         <source>Measurements</source>
-        <translation type="unfinished"/>
+        <translation>計測(&amp;M)</translation>
     </message>
     <message>
         <source>Insert link annotation</source>
@@ -2385,11 +2385,11 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Barcode</source>
-        <translation type="unfinished"/>
+        <translation>バーコード</translation>
     </message>
     <message>
         <source>Insert a barcode</source>
-        <translation type="unfinished"/>
+        <translation>バーコードを挿入</translation>
     </message>
 </context>
 <context>
@@ -2452,7 +2452,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Barcode</source>
-        <translation type="unfinished"/>
+        <translation>バーコード</translation>
     </message>
     <message>
         <source>Barcode incomplete</source>
@@ -9010,7 +9010,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Append to existing text</source>
-        <translation type="unfinished"/>
+        <translation>既存のテキストに追加する</translation>
     </message>
 </context>
 <context>
@@ -10119,7 +10119,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>&amp;Reset Contour Line</source>
-        <translation>等高線をリセット(&amp;R)</translation>
+        <translation>輪郭線をリセット(&amp;R)</translation>
     </message>
     <message>
         <source>Move Control Points Independently</source>
@@ -10175,7 +10175,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>Activate Contour Line Editing Mode</source>
-        <translation>等高線編集モードを有効に</translation>
+        <translation>輪郭線編集モードを有効に</translation>
     </message>
     <message>
         <source>Reset the Contour Line to the Original Shape of the Frame</source>
@@ -13523,7 +13523,7 @@ Please choose another one.</source>
     <name>PictureBrowserPlugin</name>
     <message>
         <source>&amp;Picture Browser...</source>
-        <translation type="unfinished"/>
+        <translation>画像ブラウザ(&amp;P)...</translation>
     </message>
 </context>
 <context>
@@ -13820,7 +13820,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Item Tools</source>
-        <translation type="unfinished"/>
+        <translation>アイテムツール</translation>
     </message>
     <message>
         <source>Operator Tools</source>
@@ -13860,7 +13860,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Tables of Contents</source>
-        <translation type="unfinished"/>
+        <translation>目次</translation>
     </message>
     <message>
         <source>Sections</source>
@@ -13888,7 +13888,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Page Sizes</source>
-        <translation type="unfinished"/>
+        <translation>ページサイズ</translation>
     </message>
     <message>
         <source>Plugins</source>
@@ -13896,7 +13896,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Image Cache</source>
-        <translation type="unfinished"/>
+        <translation>画像キャッシュ</translation>
     </message>
 </context>
 <context>
@@ -15313,11 +15313,11 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Image Cache</source>
-        <translation type="unfinished"/>
+        <translation>画像キャッシュ</translation>
     </message>
     <message>
         <source>Enable Image Cache</source>
-        <translation type="unfinished"/>
+        <translation>画像キャッシュを有効にする</translation>
     </message>
     <message>
         <source>Cache Size Limit:</source>
@@ -15344,7 +15344,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Item Tools</source>
-        <translation type="unfinished"/>
+        <translation>アイテムツール</translation>
     </message>
     <message>
         <source>Text</source>
@@ -15549,7 +15549,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Pen Width:</source>
-        <translation type="unfinished"/>
+        <translation>ペン幅:</translation>
     </message>
     <message>
         <source>Keep horizontal and vertical scaling the same</source>
@@ -16682,7 +16682,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Page Sizes</source>
-        <translation type="unfinished"/>
+        <translation>ページサイズ</translation>
     </message>
     <message>
         <source>Available Sizes</source>
@@ -17315,7 +17315,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Table of Contents</source>
-        <translation type="unfinished"/>
+        <translation>目次</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -17501,7 +17501,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Main Window</source>
-        <translation type="unfinished"/>
+        <translation>メインウインドウ</translation>
     </message>
     <message>
         <source>Appearance</source>
@@ -17573,7 +17573,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Start Up</source>
-        <translation type="unfinished"/>
+        <translation>開始</translation>
     </message>
     <message>
         <source>Show Splashscreen</source>
@@ -17617,7 +17617,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Background Color:</source>
-        <translation type="unfinished"/>
+        <translation>背景色:</translation>
     </message>
     <message>
         <source>Icon Set:</source>
@@ -18022,7 +18022,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Drop Shadow</source>
-        <translation type="unfinished"/>
+        <translation>ドロップシャドウ</translation>
     </message>
 </context>
 <context>
@@ -18108,7 +18108,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Text Flow Around Frame</source>
-        <translation type="unfinished"/>
+        <translation>フレーム周りのテキストの回り込み</translation>
     </message>
     <message>
         <source>Disabled</source>
@@ -18643,7 +18643,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Has Drop Shadow</source>
-        <translation type="unfinished"/>
+        <translation>ドロップシャドウを持つ</translation>
     </message>
     <message>
         <source>Black</source>
@@ -18716,7 +18716,8 @@ Note: PDF Forms will not be exported.</source>
     <message>
         <source>Content covers
 Drop Shadow</source>
-        <translation type="unfinished"/>
+        <translation>コンテンツが
+ドロップシャドウを覆う</translation>
     </message>
     <message>
         <source>Inherit Object
@@ -18732,7 +18733,7 @@ Transparency</source>
     </message>
     <message>
         <source>Object has a drop shadow</source>
-        <translation type="unfinished"/>
+        <translation>オブジェクトはドロップシャドウを持つ</translation>
     </message>
     <message>
         <source>X-Offset:</source>
@@ -18934,11 +18935,11 @@ Transparency</source>
     </message>
     <message>
         <source>Round Corners</source>
-        <translation type="unfinished"/>
+        <translation>角の丸み</translation>
     </message>
     <message>
         <source>Text Flow Around Frame</source>
-        <translation type="unfinished"/>
+        <translation>フレーム周りのテキストの回り込み</translation>
     </message>
     <message>
         <source>Disabled</source>
@@ -18958,7 +18959,7 @@ Transparency</source>
     </message>
     <message>
         <source>&amp;Use Contour Line</source>
-        <translation>等高線を使用(&amp;U)</translation>
+        <translation>輪郭線を使用(&amp;U)</translation>
     </message>
     <message>
         <source>Use Image Clip Path</source>
@@ -19153,7 +19154,7 @@ Transparency</source>
     </message>
     <message>
         <source>&amp;Width</source>
-        <translation type="unfinished"/>
+        <translation>幅(&amp;W)</translation>
     </message>
     <message>
         <source>&amp;Y-Pos:</source>
@@ -19745,11 +19746,11 @@ Transparency</source>
     <name>PropertyWidget_Orphans</name>
     <message>
         <source>Don&apos;t separate first</source>
-        <translation type="unfinished"/>
+        <translation>最初の次の行数は分割しない</translation>
     </message>
     <message>
         <source>Don&apos;t separate last</source>
-        <translation type="unfinished"/>
+        <translation>最後の次の行数は分割しない</translation>
     </message>
     <message>
         <source> lines</source>
@@ -19792,7 +19793,7 @@ Transparency</source>
     </message>
     <message>
         <source>Don&apos;t separate first</source>
-        <translation type="unfinished"/>
+        <translation>最初の次の行数は分割しない</translation>
     </message>
     <message>
         <source> lines</source>
@@ -19800,7 +19801,7 @@ Transparency</source>
     </message>
     <message>
         <source>Don&apos;t separate last</source>
-        <translation type="unfinished"/>
+        <translation>最初の次の行数は分割しない</translation>
     </message>
     <message>
         <source>Do not split paragraph</source>
@@ -20503,7 +20504,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Files of type:</source>
-        <translation type="unfinished"/>
+        <translation>ファイルの種類:</translation>
     </message>
     <message>
         <source>Look in:</source>
@@ -20515,7 +20516,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Parent Directory</source>
-        <translation type="unfinished"/>
+        <translation>1つ上のディレクトリ</translation>
     </message>
     <message>
         <source>Recent Places</source>
@@ -24054,7 +24055,7 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>Don&apos;t separate first</source>
-        <translation type="unfinished"/>
+        <translation>最初の次の行数は分割しない</translation>
     </message>
     <message>
         <source> lines</source>
@@ -24062,7 +24063,7 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>Don&apos;t separate last</source>
-        <translation type="unfinished"/>
+        <translation>最初の次の行数は分割しない</translation>
     </message>
     <message>
         <source>Do not split paragraph</source>
@@ -25872,7 +25873,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Measurement</source>
-        <translation type="unfinished"/>
+        <translation>計測</translation>
     </message>
     <message>
         <source>Text Frames</source>
@@ -26025,7 +26026,7 @@ If you save it in this version, it will no longer be readable by older Scribus v
     </message>
     <message>
         <source>Initializing Image Cache</source>
-        <translation type="unfinished"/>
+        <translation>画像キャッシュを初期化しています</translation>
     </message>
     <message>
         <source>Searching for Fonts</source>
@@ -26619,7 +26620,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Measurement</source>
-        <translation type="unfinished"/>
+        <translation>計測</translation>
     </message>
 </context>
 <context>
@@ -27528,7 +27529,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;Sample Text...</source>
-        <translation type="unfinished"/>
+        <translation>サンプルテキスト(&amp;S)...</translation>
     </message>
     <message>
         <source>&amp;Smart Text Selection</source>
@@ -28989,11 +28990,11 @@ when PDF document is opened:</source>
     <name>TableColumnWidthsDialog</name>
     <message>
         <source>Set Column Widths</source>
-        <translation type="unfinished"/>
+        <translation>線幅を設定</translation>
     </message>
     <message>
         <source>Column Width:</source>
-        <translation type="unfinished"/>
+        <translation>列幅:</translation>
     </message>
 </context>
 <context>
@@ -29909,11 +29910,11 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Enable text flow around for lower layers</source>
-        <translation type="unfinished"/>
+        <translation>下のレイヤー回りのテキストの回り込みを有効にする</translation>
     </message>
     <message>
         <source>Disable text flow around for lower layers</source>
-        <translation type="unfinished"/>
+        <translation>下のレイヤー回りのテキストの回り込みを無効にする</translation>
     </message>
     <message>
         <source>Set layer blend mode</source>
@@ -30017,7 +30018,7 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Change round corner</source>
-        <translation type="unfinished"/>
+        <translation>角の丸みを変更する</translation>
     </message>
     <message>
         <source>Set start arrow scale</source>
@@ -30197,11 +30198,11 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Drop Shadow</source>
-        <translation type="unfinished"/>
+        <translation>ドロップシャドウ</translation>
     </message>
     <message>
         <source>Drop Shadow Color</source>
-        <translation type="unfinished"/>
+        <translation>ドロップシャドウの色</translation>
     </message>
     <message>
         <source>Drop Shadow Shade</source>
@@ -30209,23 +30210,23 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Drop Shadow Blur Radius</source>
-        <translation type="unfinished"/>
+        <translation>ドロップシャドウのぼかし半径</translation>
     </message>
     <message>
         <source>Drop Shadow X Offset</source>
-        <translation type="unfinished"/>
+        <translation>ドロップシャドウ X オフセット</translation>
     </message>
     <message>
         <source>Drop Shadow Y Offset</source>
-        <translation type="unfinished"/>
+        <translation>ドロップシャドウ Y オフセット</translation>
     </message>
     <message>
         <source>Drop Shadow Opacity</source>
-        <translation type="unfinished"/>
+        <translation>ドロップシャドウ不透明度</translation>
     </message>
     <message>
         <source>Drop Shadow Blend Mode</source>
-        <translation type="unfinished"/>
+        <translation>ドロップシャドウ合成モード</translation>
     </message>
     <message>
         <source>Swap page</source>

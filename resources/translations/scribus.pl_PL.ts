@@ -452,7 +452,7 @@
     </message>
     <message>
         <source>&amp;Raize</source>
-        <translation>P&amp;rzesuń wyżej</translation>
+        <translation>O poziom w&amp;yżej</translation>
     </message>
     <message>
         <source>&amp;Attributes...</source>
@@ -1405,7 +1405,7 @@
     </message>
     <message>
         <source>Test Qt Quick</source>
-        <translation type="unfinished"/>
+        <translation>Testowanie QT Quick</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -1669,7 +1669,7 @@
     </message>
     <message>
         <source>Edit text in story editor</source>
-        <translation>Edytuj tekst w Edytorze artykułów</translation>
+        <translation>Edytuj tekst w edytorze artykułów</translation>
     </message>
     <message>
         <source>Enable preview mode</source>
@@ -1715,7 +1715,7 @@
     </message>
     <message>
         <source>&amp;Relative To:</source>
-        <translation>&amp;Względnie Do:</translation>
+        <translation>&amp;Względnie do:</translation>
     </message>
     <message>
         <source>&amp;Align Sides By:</source>
@@ -1735,7 +1735,7 @@
     </message>
     <message>
         <source>Reverse Distribution</source>
-        <translation>Odwróć rozmieszczene</translation>
+        <translation>Odwróć rozmieszczenie</translation>
     </message>
     <message>
         <source>Swap</source>
@@ -1961,11 +1961,11 @@
     </message>
     <message>
         <source>Align Text Justified</source>
-        <translation>Justuj tekst</translation>
+        <translation>Wyjustuj tekst</translation>
     </message>
     <message>
         <source>Align Text Forced Justified</source>
-        <translation>Justuj tekst z ostatnią linią</translation>
+        <translation>Wyjustuj tekst z ostatnią linią</translation>
     </message>
 </context>
 <context>
@@ -2048,7 +2048,7 @@
     </message>
     <message>
         <source>Key</source>
-        <translation type="unfinished"/>
+        <translation>Klucz</translation>
     </message>
     <message>
         <source>Help</source>
@@ -2227,7 +2227,7 @@
     <name>AspellPluginBase</name>
     <message>
         <source>Spell Check</source>
-        <translation>Sprawdzanie Pisowni</translation>
+        <translation>Sprawdzanie pisowni</translation>
     </message>
     <message>
         <source>Replacement:</source>
@@ -2251,15 +2251,15 @@
     </message>
     <message>
         <source>Word that was not found in the active dictionary</source>
-        <translation>Nie znaleziono tego słowa w aktualnym słowniku</translation>
+        <translation>Nie znaleziono tego słowa w bieżącym słowniku</translation>
     </message>
     <message>
         <source>Replacement text for the current word that was not found in the dictionary</source>
-        <translation>Nie znaleziono zamiennika dla aktualnego słowa w słowniku</translation>
+        <translation>Nie znaleziono zamiennika dla bieżącego słowa w słowniku</translation>
     </message>
     <message>
         <source>Active Dictionary: </source>
-        <translation>Aktualny słownik:</translation>
+        <translation>Bieżący słownik:</translation>
     </message>
     <message>
         <source>Ignore the current text not found in the active dictionary</source>
@@ -2271,7 +2271,7 @@
     </message>
     <message>
         <source>Ignore all occurrences of the current text not found in the active dictionary</source>
-        <translation>Ignoruj wszystkie wystąpienia aktualnego tekstu, którego nie znaleziono w aktualnym słowniku</translation>
+        <translation>Ignoruj wszystkie wystąpienia aktualnego tekstu, którego nie znaleziono w bieżącym słowniku</translation>
     </message>
     <message>
         <source>I&amp;gnore All</source>
@@ -2302,7 +2302,7 @@
     <name>AspellPluginImpl</name>
     <message>
         <source>Loaded </source>
-        <translation>Załadowany</translation>
+        <translation>Wczytany</translation>
     </message>
     <message>
         <source>default </source>
@@ -2334,7 +2334,7 @@
     </message>
     <message>
         <source>No available Aspell dictionaries found. Install some, please.</source>
-        <translation>Nie znaleziono słowników Aspell, proszę najpierw zainstalować słowniki.</translation>
+        <translation>Nie odnaleziono słowników Aspell, proszę najpierw zainstalować słowniki.</translation>
     </message>
     <message>
         <source>Do you want start from the beginning of the selection with new language selected?</source>
@@ -2343,7 +2343,8 @@
     <message>
         <source>Spell Checker Plugin Failed to Initialize.
 Configuration invalid</source>
-        <translation type="unfinished"/>
+        <translation>Wystąpił błąd uruchamiania wtyczki sprawdzania pisowni.
+Błędna konfiguracja</translation>
     </message>
     <message>
         <source>Spell Checker Plugin Failed to Initialize.</source>
@@ -2655,7 +2656,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Incl&amp;ude Checksum Digit</source>
-        <translation>Dołąc&amp;z cyfrę sumy kontrolnej</translation>
+        <translation>Dołąc&amp;z liczbę sumy kontrolnej</translation>
     </message>
     <message>
         <source>I&amp;nclude Checksum</source>
@@ -2754,7 +2755,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Paste to Page</source>
-        <translation>Wklej na Stronę</translation>
+        <translation>Wklej na stronę</translation>
     </message>
     <message>
         <source>Close</source>
@@ -2844,31 +2845,31 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Scale:</source>
-        <translation>Skaluj:</translation>
+        <translation>Skalowanie:</translation>
     </message>
     <message>
         <source>Always</source>
-        <translation>zawsze</translation>
+        <translation>Zawsze</translation>
     </message>
     <message>
         <source>When Icon is too big</source>
-        <translation>kiedy ikona jest za duża</translation>
+        <translation>Kiedy ikona jest za duża</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation>nigdy</translation>
+        <translation>Nigdy</translation>
     </message>
     <message>
         <source>Scale How:</source>
-        <translation>Jak skalować:</translation>
+        <translation>Sposób skalowania:</translation>
     </message>
     <message>
         <source>Proportional</source>
-        <translation>proporcjonalnie</translation>
+        <translation>Proporcjonalnie</translation>
     </message>
     <message>
         <source>Non Proportional</source>
-        <translation>nieproporcjonalnie</translation>
+        <translation>Nieproporcjonalnie</translation>
     </message>
     <message>
         <source>Icon</source>
@@ -2888,7 +2889,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>When Icon is too small</source>
-        <translation>kiedy ikona jest za mała</translation>
+        <translation>Kiedy ikona jest za mała</translation>
     </message>
 </context>
 <context>
@@ -3070,7 +3071,7 @@ Jest ona zalecana, jeśli twój dokument zawiera zdjęcia.</translation>
     </message>
     <message>
         <source>Web Safe RGB</source>
-        <translation>RGB dla internetu</translation>
+        <translation>RGB dla Internetu</translation>
     </message>
     <message>
         <source>New</source>
@@ -3170,27 +3171,27 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Lab</source>
-        <translation type="unfinished"/>
+        <translation>Lab</translation>
     </message>
     <message>
         <source>HLC</source>
-        <translation type="unfinished"/>
+        <translation>HLC</translation>
     </message>
     <message>
         <source>L:</source>
-        <translation type="unfinished"/>
+        <translation>L:</translation>
     </message>
     <message>
         <source>a:</source>
-        <translation type="unfinished"/>
+        <translation>a:</translation>
     </message>
     <message>
         <source>b:</source>
-        <translation type="unfinished"/>
+        <translation>b:</translation>
     </message>
     <message>
         <source>H:</source>
-        <translation type="unfinished"/>
+        <translation>H:</translation>
     </message>
 </context>
 <context>
@@ -3229,27 +3230,27 @@ Please choose another one.</source>
     </message>
     <message>
         <source>C:</source>
-        <translation type="unfinished"/>
+        <translation>C:</translation>
     </message>
     <message>
         <source> %</source>
-        <translation type="unfinished"/>
+        <translation> %</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"/>
+        <translation>...</translation>
     </message>
     <message>
         <source>M:</source>
-        <translation type="unfinished"/>
+        <translation>M:</translation>
     </message>
     <message>
         <source>Y:</source>
-        <translation type="unfinished"/>
+        <translation>Y:</translation>
     </message>
     <message>
         <source>K:</source>
-        <translation type="unfinished"/>
+        <translation>K:</translation>
     </message>
 </context>
 <context>
@@ -3607,7 +3608,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     <name>CharSelect</name>
     <message>
         <source>Scribus Char Palette (*.ucp);;All Files (*)</source>
-        <translation>Paleta znaków Scribusa  (*.ucp);;Wszystkie pliki (*)</translation>
+        <translation>Paleta znaków Scribusa (*.ucp);;Wszystkie pliki (*)</translation>
     </message>
     <message>
         <source>Choose a filename to open</source>
@@ -3619,7 +3620,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Error reading file %1 - file is corrupted propably.</source>
-        <translation>Błąd w trakcie czytania pliku %1 - plik jest prawdopodobnie uszkodzony.</translation>
+        <translation>Błąd w trakcie odczytywania pliku %1 - plik jest prawdopodobnie uszkodzony.</translation>
     </message>
     <message>
         <source>Cannot write file %1</source>
@@ -3945,7 +3946,7 @@ dołącza glif do listy wybranych znaków znajdujących się poniżej, klawisz D
     </message>
     <message>
         <source>Rerun the document scan to check corrections you may have made</source>
-        <translation type="unfinished"/>
+        <translation>Uruchom ponownie skanowanie dokumentu, aby sprawdzić naniesione poprawki</translation>
     </message>
     <message>
         <source>Empty Image Frame</source>
@@ -3993,7 +3994,7 @@ aktualnie %2 x %3 DPI</translation>
     </message>
     <message>
         <source>Object colorspace is not CMYK or spot</source>
-        <translation type="unfinished"/>
+        <translation>Przestrzeń kolorów obiektu nie jest w zestawie CMYK lub dodatkowym</translation>
     </message>
     <message>
         <source>Applied master page has different page destination (left, middle, right side)</source>
@@ -4323,7 +4324,7 @@ aktualnie %2 x %3 DPI</translation>
     <message>
         <source>Custom</source>
         <comment>CommonStrings, custom page size</comment>
-        <translation>Definicja użytkownika</translation>
+        <translation>Własna</translation>
     </message>
     <message>
         <source>Single Page</source>
@@ -4613,7 +4614,7 @@ aktualnie %2 x %3 DPI</translation>
     </message>
     <message>
         <source>Image Frame</source>
-        <translation>Ramka obrazu</translation>
+        <translation>Ramka graficzna</translation>
     </message>
     <message>
         <source>Line</source>
@@ -4698,7 +4699,7 @@ aktualnie %2 x %3 DPI</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Grupuj</translation>
+        <translation>Grupa</translation>
     </message>
     <message>
         <source>Regular Polygon</source>
@@ -4734,7 +4735,7 @@ aktualnie %2 x %3 DPI</translation>
     </message>
     <message>
         <source>RadioButton</source>
-        <translation type="unfinished"/>
+        <translation>Przycisk pojedynczego wyboru</translation>
     </message>
     <message>
         <source>Textfield</source>
@@ -4742,15 +4743,15 @@ aktualnie %2 x %3 DPI</translation>
     </message>
     <message>
         <source>Checkbox</source>
-        <translation type="unfinished"/>
+        <translation>Pole wyboru</translation>
     </message>
     <message>
         <source>Combobox</source>
-        <translation type="unfinished"/>
+        <translation>Lista rozwijana</translation>
     </message>
     <message>
         <source>Listbox</source>
-        <translation type="unfinished"/>
+        <translation>Pole z listą</translation>
     </message>
     <message>
         <source>TextAnnot</source>
@@ -4878,7 +4879,7 @@ aktualnie %2 x %3 DPI</translation>
     </message>
     <message>
         <source>Paste Recent</source>
-        <translation>Wklej poprzedni</translation>
+        <translation>Wklej ostatni</translation>
     </message>
     <message>
         <source>Content</source>
@@ -4927,7 +4928,7 @@ aktualnie %2 x %3 DPI</translation>
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="unfinished"/>
+        <translation>Gradient</translation>
     </message>
     <message>
         <source>Hatch</source>
@@ -5005,7 +5006,7 @@ aktualnie %2 x %3 DPI</translation>
     </message>
     <message>
         <source>To:</source>
-        <translation>do:</translation>
+        <translation>Do:</translation>
     </message>
     <message>
         <source>&amp;Add To Range</source>
@@ -5096,7 +5097,7 @@ aktualnie %2 x %3 DPI</translation>
     <name>CupsOptions</name>
     <message>
         <source>Printer Options</source>
-        <translation>Ustawienia drukarki (CUPS)</translation>
+        <translation>Ustawienia drukarki</translation>
     </message>
     <message>
         <source>Option</source>
@@ -5144,11 +5145,11 @@ aktualnie %2 x %3 DPI</translation>
     </message>
     <message>
         <source>Page per Sheet</source>
-        <translation>Strona na kartkę</translation>
+        <translation>Strona na arkusz</translation>
     </message>
     <message>
         <source>Pages per Sheet</source>
-        <translation>Stron na kartkę</translation>
+        <translation>Stron na arkusz</translation>
     </message>
     <message>
         <source>This panel displays various CUPS options when printing. The exact parameters available will depend on your printer driver. You can confirm CUPS support by selecting Help &gt; About. Look for the listings: C-C-T These equate to C=CUPS C=littlecms T=TIFF support. Missing library support is indicated by a *</source>
@@ -5233,7 +5234,7 @@ Sprawdź, czy identyfikator kompilacji zawiera C-C-T. Symbole te oznaczają obs�
     </message>
     <message>
         <source>Include fonts when collecting files for the document. Be sure to know and understand licensing information for any fonts you collect and possibly redistribute.</source>
-        <translation type="unfinished"/>
+        <translation>Dołącz czcionki podczas zbierania plików dla dokumentu końcowego. Upewnij się, że znasz i rozumiesz informacje licencyjne dla każdej dołączanej czcionki, oraz znasz możliwości ich dalszego dystrybuowania.</translation>
     </message>
     <message>
         <source>Include color profiles when collecting files for the document</source>
@@ -5330,7 +5331,7 @@ Sprawdź, czy identyfikator kompilacji zawiera C-C-T. Symbole te oznaczają obs�
     <name>DocIm</name>
     <message>
         <source>Importing failed</source>
-        <translation>Import nie powiódł się</translation>
+        <translation>Importowanie nie powiodło się</translation>
     </message>
     <message>
         <source>Importing Word document failed 
@@ -5379,7 +5380,7 @@ Sprawdź, czy identyfikator kompilacji zawiera C-C-T. Symbole te oznaczają obs�
     </message>
     <message>
         <source>T&amp;ype:</source>
-        <translation>&amp;Typ:</translation>
+        <translation>&amp;Rodzaj:</translation>
     </message>
     <message>
         <source>F&amp;ormat:</source>
@@ -5423,11 +5424,11 @@ Sprawdź, czy identyfikator kompilacji zawiera C-C-T. Symbole te oznaczają obs�
     </message>
     <message>
         <source>A date associated with an event in the life cycle of the document, in YYYY-MM-DD format, as per ISO 8601</source>
-        <translation>Data jakiegoś wydarzenia w cyklu życia dokumentu w formacie YYYY-MM-DD, zgodnie z ISO 8601</translation>
+        <translation>Data jakiegoś wydarzenia w cyklu życia dokumentu, w formacie YYYY-MM-DD, zgodnie z ISO 8601</translation>
     </message>
     <message>
         <source>The nature or genre of the content of the document, eg. categories, functions, genres, etc</source>
-        <translation>Natura albo rodzaj zawartości dokumentu, np. kategorie, funkcje, gatunki</translation>
+        <translation>Natura albo rodzaj zawartości dokumentu, np. kategorie, funkcje, gatunki itd.</translation>
     </message>
     <message>
         <source>An unambiguous reference to the document within a given context such as ISBN or URI</source>
@@ -5501,7 +5502,7 @@ Sprawdź, czy identyfikator kompilacji zawiera C-C-T. Symbole te oznaczają obs�
     <name>DownloadsPalette_Base</name>
     <message>
         <source>Downloads</source>
-        <translation>Pobierz</translation>
+        <translation>Pobrania</translation>
     </message>
     <message>
         <source>Show</source>
@@ -5541,8 +5542,9 @@ Sprawdź, czy identyfikator kompilacji zawiera C-C-T. Symbole te oznaczają obs�
         <source>Importing File:
 %1
 failed!</source>
-        <translation>Błąd podczas importu pliku %1! 
-</translation>
+        <translation>Importowanie pliku:
+%1
+zakończone błędem!</translation>
     </message>
     <message>
         <source>Fatal Error</source>
@@ -5628,7 +5630,7 @@ failed!</source>
     </message>
     <message>
         <source>C&amp;lear</source>
-        <translation>&amp;Usuń</translation>
+        <translation>W&amp;yczyść</translation>
     </message>
     <message>
         <source>&amp;Get Field Names</source>
@@ -5679,7 +5681,7 @@ failed!</source>
     <name>EffectsDialog</name>
     <message>
         <source>Image Effects</source>
-        <translation>Filtry obrazu</translation>
+        <translation>Efekty obrazu</translation>
     </message>
     <message>
         <source>Options:</source>
@@ -5715,7 +5717,7 @@ failed!</source>
     </message>
     <message>
         <source>Available Effects</source>
-        <translation>Dostępne filtry</translation>
+        <translation>Dostępne efekty</translation>
     </message>
     <message>
         <source>Blur</source>
@@ -5759,7 +5761,7 @@ failed!</source>
     </message>
     <message>
         <source>Effects in use</source>
-        <translation>Zastosowane filtry</translation>
+        <translation>Zastosowane efekty</translation>
     </message>
     <message>
         <source>OK</source>
@@ -5909,7 +5911,7 @@ Nazwa wyeksportowanego pliku będzie następująca: &quot;nazwa_dokumentu-numer_
     </message>
     <message>
         <source>Export as Image(s)</source>
-        <translation>Eksportuj jako obrazek(ki)</translation>
+        <translation>Eksportuj jako obrazek(-ki)</translation>
     </message>
     <message>
         <source>Options</source>
@@ -5979,7 +5981,7 @@ Użyj 72 dpi dla obrazów przeznaczonych do wyświetlania na ekranie</translatio
     </message>
     <message>
         <source>The compression ratio of your images - 100% is no compression, 0% highest compression. If in doubt, use &apos;Automatic&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Współczynnik kompresji Twoich obrazów - 100% oznacza brak kompresji, 0% oznacza najwyższą kompresję. Jeśli masz wątpliwości, wybierz &quot;Automatyczny&quot;</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -5991,7 +5993,7 @@ Użyj 72 dpi dla obrazów przeznaczonych do wyświetlania na ekranie</translatio
     </message>
     <message>
         <source>Prefix:</source>
-        <translation type="unfinished"/>
+        <translation>Przedrostek:</translation>
     </message>
     <message>
         <source>No Background</source>
@@ -6046,7 +6048,7 @@ Użyj 72 dpi dla obrazów przeznaczonych do wyświetlania na ekranie</translatio
     </message>
     <message>
         <source>Screen</source>
-        <translation>Mnożenie odwrotności</translation>
+        <translation>Ekran</translation>
     </message>
     <message>
         <source>Dissolve</source>
@@ -6208,7 +6210,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     <name>FlattenPathPlugin</name>
     <message>
         <source>Flatten Path</source>
-        <translation type="unfinished"/>
+        <translation>Spłaszcz ścieżkę</translation>
     </message>
     <message>
         <source>Path Tools</source>
@@ -6216,7 +6218,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Flattens a Path</source>
-        <translation type="unfinished"/>
+        <translation>Spłaszczenia ścieżki</translation>
     </message>
     <message>
         <source>Converts a Bezier Path to a Path made of line segments.</source>
@@ -6314,7 +6316,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Click to change the value</source>
-        <translation>Kliknij by zmienić wartość</translation>
+        <translation>Kliknij, aby zmienić wartość</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -6603,7 +6605,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     <name>GuideManager</name>
     <message>
         <source>&amp;Single</source>
-        <translation>&amp;Pojedyńcze</translation>
+        <translation>&amp;Pojedyncze</translation>
     </message>
     <message>
         <source>Horizontals</source>
@@ -6659,7 +6661,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;Column/Row</source>
-        <translation>Łamy/Wi&amp;ersze</translation>
+        <translation>Kolumny/Wi&amp;ersze</translation>
     </message>
     <message>
         <source>&amp;Number:</source>
@@ -6715,7 +6717,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Delete all guides from the current document</source>
-        <translation>Usuń wszystkie linie pomocnicze z aktualnego dokumentu</translation>
+        <translation>Usuń wszystkie linie pomocnicze z bieżącego dokumentu</translation>
     </message>
     <message>
         <source>Delete Guides from &amp;All Pages</source>
@@ -6886,11 +6888,11 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Find &amp;Next...</source>
-        <translation>Znajdź &amp;Następny...</translation>
+        <translation>Znajdź &amp;następny...</translation>
     </message>
     <message>
         <source>Find &amp;Previous...</source>
-        <translation>Znajdź &amp;Poprzedni...</translation>
+        <translation>Znajdź &amp;poprzedni...</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -7048,7 +7050,7 @@ listy ignorowanych</translation>
     <name>ImageInfoDialog</name>
     <message>
         <source>Image Info</source>
-        <translation>Informacje o obrazku</translation>
+        <translation>Informacje o obrazie</translation>
     </message>
     <message>
         <source>General Info</source>
@@ -7176,7 +7178,7 @@ zamieniając dane wektorowe na obiekty Scribusa.</translation>
     <name>ImportCdrPlugin</name>
     <message>
         <source>Import Corel Draw...</source>
-        <translation>Importowanie Corej Draw...</translation>
+        <translation>Importowanie Corel Draw...</translation>
     </message>
     <message>
         <source>Corel Draw</source>
@@ -7193,7 +7195,8 @@ zamieniając dane wektorowe na obiekty Scribusa.</translation>
     <message>
         <source>Imports most Corel Draw files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Importuje większość plików Corel Draw do bieżącego dokumentu,
+zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <source>Corel Draw (*.cdr *.CDR)</source>
@@ -7205,7 +7208,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>The Uniconverter Import plugin could not be found</source>
-        <translation type="unfinished"/>
+        <translation>Nie można odnaleźć wtyczki importu Uniconverter</translation>
     </message>
     <message>
         <source>Parsing failed!
@@ -7236,7 +7239,8 @@ Document Liberation Project http://www.documentliberation.org</source>
     <message>
         <source>Imports most binary CGM files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Importuje większość plików CGM do bieżącego dokumentu,
+zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7244,15 +7248,15 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Import Computer Graphics Metafile...</source>
-        <translation type="unfinished"/>
+        <translation>Importowanie Computer Graphics Metafile...</translation>
     </message>
     <message>
         <source>Computer Graphics Metafile</source>
-        <translation type="unfinished"/>
+        <translation>Computer Graphics Metafile</translation>
     </message>
     <message>
         <source>Computer Graphics Metafile (*.cgm *.CGM)</source>
-        <translation type="unfinished"/>
+        <translation>Computer Graphics Metafile (*.cgm *.CGM)</translation>
     </message>
 </context>
 <context>
@@ -7268,7 +7272,8 @@ converting their vector data into Scribus objects.</source>
     <message>
         <source>Imports most Cvg files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Importuje większość plików Cvg do bieżącego dokumentu,
+zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7276,16 +7281,17 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Import Calamus Vector Graphics...</source>
-        <translation type="unfinished"/>
+        <translation>Importowanie grafik wektorowych Calamus...</translation>
     </message>
     <message>
         <source>Imports Calamus Vector Graphics Files</source>
-        <translation type="unfinished"/>
+        <translation>Importuje pliki grafik wektorowych Calamus</translation>
     </message>
     <message>
         <source>Imports most Calamus Vector Graphics files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Importuje większość plików grafik wektorowych Calamus do bieżącego dokumentu,
+zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
 </context>
 <context>
@@ -7309,7 +7315,8 @@ converting their vector data into Scribus objects.</source>
     <message>
         <source>Imports most DRW files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Importuje większość plików DRW do bieżącego dokumentu,
+zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7357,7 +7364,8 @@ converting their vector data into Scribus objects.</source>
     <message>
         <source>Imports most EMF files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Importuje większość plików EMF do bieżącego dokumentu,
+zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7365,15 +7373,15 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Import Enhanced Metafile...</source>
-        <translation type="unfinished"/>
+        <translation>Importowanie Enhanced Metafile...</translation>
     </message>
     <message>
         <source>Enhanced Metafile</source>
-        <translation type="unfinished"/>
+        <translation>Enhanced Metafile</translation>
     </message>
     <message>
         <source>Enhanced Metafile (*.emf *.EMF)</source>
-        <translation type="unfinished"/>
+        <translation>Enhanced Metafile (*.emf *.EMF)</translation>
     </message>
 </context>
 <context>
@@ -7397,7 +7405,8 @@ converting their vector data into Scribus objects.</source>
     <message>
         <source>Imports most Freehand files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Importuje większość plików Freehand do bieżącego dokumentu,
+zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7453,7 +7462,8 @@ converting their vector data into Scribus objects.</source>
     <message>
         <source>Imports most IDML files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Importuje większość plików IDML do bieżącego dokumentu,
+zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <source>Adobe Indesign IDMS</source>
@@ -7499,7 +7509,8 @@ converting their vector data into Scribus objects.</source>
     <message>
         <source>Imports most ODF Drawing files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Importuje większość plików Rysunków ODF do bieżącego dokumentu,
+zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7519,7 +7530,8 @@ converting their vector data into Scribus objects.</source>
     <message>
         <source>Imports most PostScript files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation>Importuje większość plików PostScriptowych do aktualnego dokumentu, zamieniając dane wektorowe na obiekty Scribusa.</translation>
+        <translation>Importuje większość plików PostScriptowych do bieżącego dokumentu,
+zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
 </context>
 <context>
@@ -7543,7 +7555,8 @@ converting their vector data into Scribus objects.</source>
     <message>
         <source>Imports most iWorks Pages files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Importuje większość plików Pages iWorks do bieżącego dokumentu,
+zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7554,16 +7567,17 @@ converting their vector data into Scribus objects.</source>
     <name>ImportPctPlugin</name>
     <message>
         <source>Import Pict...</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Importuj Pict...</translation>
     </message>
     <message>
         <source>Imports Pict Files</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Importuje pliki Pict</translation>
     </message>
     <message>
         <source>Imports most Mac Pict files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Importuje większość plików Mac Pict do bieżącego dokumentu,
+zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7571,16 +7585,17 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Import Macintosh Pict...</source>
-        <translation type="unfinished"/>
+        <translation>Importuj Macintosh Pict...</translation>
     </message>
     <message>
         <source>Imports Macintosh Pict Files</source>
-        <translation type="unfinished"/>
+        <translation>Importuje pliki Macintosh Pict</translation>
     </message>
     <message>
         <source>Imports most Macintosh Pict files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Importuje większość plików Macintosh Pict do bieżącego dokumentu,
+zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
 </context>
 <context>
@@ -7596,7 +7611,8 @@ converting their vector data into Scribus objects.</source>
     <message>
         <source>Imports most PDF files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Importuje większość plików PDF do bieżącego dokumentu,
+zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7604,7 +7620,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>The Import plugin cannot handle Postscript files</source>
-        <translation type="unfinished"/>
+        <translation>Wtyczka importu nie może obsłużyć plików Postscript</translation>
     </message>
 </context>
 <context>
@@ -7628,7 +7644,8 @@ converting their vector data into Scribus objects.</source>
     <message>
         <source>Imports most Pagemaker files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Importuje większość plików Pagemakera do bieżącego dokumentu,
+zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7656,7 +7673,8 @@ converting their vector data into Scribus objects.</source>
     <message>
         <source>Imports most MS Publisher files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Importuje większość plików MS Publisher do bieżącego dokumentu,
+zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7684,7 +7702,8 @@ converting their vector data into Scribus objects.</source>
     <message>
         <source>Imports most Dia shapes into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Importuje większość kształtów Dia do bieżącego dokumentu,
+zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <source>Dia shapes &quot;*.shape&quot; File (*.shape *.SHAPE)</source>
@@ -7728,7 +7747,8 @@ converting their vector data into Scribus objects.</source>
     <message>
         <source>Imports most Kivio stencils into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Importuje większość szablonów Kivio do bieżącego dokumentu,
+zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7764,7 +7784,8 @@ converting their vector data into Scribus objects.</source>
     <message>
         <source>Imports most SVM files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Importuje większość plików SVM do bieżącego dokumentu,
+zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7792,7 +7813,8 @@ converting their vector data into Scribus objects.</source>
     <message>
         <source>Imports most Viva files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Importuje większość plików Viva do bieżącego dokumentu,
+zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7815,12 +7837,13 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Imports MS Visio Files</source>
-        <translation type="unfinished"/>
+        <translation>Importuje pliki MS Visio</translation>
     </message>
     <message>
         <source>Imports most MS Visio files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Importuje większość plików MS Visio do bieżącego dokumentu,
+zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7840,7 +7863,8 @@ converting their vector data into Scribus objects.</source>
     <message>
         <source>Imports most WPG files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Importuje większość plików WPG do bieżącego dokumentu,
+zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7848,23 +7872,24 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Import WordPerfect Graphics...</source>
-        <translation type="unfinished"/>
+        <translation>Importuj grafiki WordPerfect...</translation>
     </message>
     <message>
         <source>Imports WordPerfect Graphics Files</source>
-        <translation type="unfinished"/>
+        <translation>Importuje pliki graficzne WordPerfect</translation>
     </message>
     <message>
         <source>Imports most WordPerfect Graphics files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Importuje większość plików graficznych WordPerfect do bieżącego dokumentu,
+zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
 </context>
 <context>
     <name>ImportXarPlugin</name>
     <message>
         <source>Import Xara...</source>
-        <translation type="unfinished"/>
+        <translation>Importuj Xara...</translation>
     </message>
     <message>
         <source>XARA &quot;*.xar&quot; File</source>
@@ -7876,12 +7901,13 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Imports Xara Files</source>
-        <translation type="unfinished"/>
+        <translation>Importuje pliki Xara</translation>
     </message>
     <message>
         <source>Imports most Xara files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Importuje większość plików Xara do bieżącego dokumentu,
+zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7909,7 +7935,8 @@ converting their vector data into Scribus objects.</source>
     <message>
         <source>Imports most Xfig files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation>Importuje większość plików Xfig do aktualnego dokumentu, zamieniając dane wektorowe na obiekty Scribusa.</translation>
+        <translation>Importuje większość plików Xfig do bieżącego dokumentu,
+zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7920,7 +7947,7 @@ converting their vector data into Scribus objects.</source>
     <name>ImportXpsPlugin</name>
     <message>
         <source>Import Xps...</source>
-        <translation type="unfinished"/>
+        <translation>Importuj Xps...</translation>
     </message>
     <message>
         <source>Microsoft XPS</source>
@@ -7932,20 +7959,21 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Open XML Paper</source>
-        <translation type="unfinished"/>
+        <translation>Open XML Paper</translation>
     </message>
     <message>
         <source>Open XML Paper (*.oxps *.OXPS)</source>
-        <translation type="unfinished"/>
+        <translation>Open XML Paper (*.oxps *.OXPS)</translation>
     </message>
     <message>
         <source>Imports XPS and Open XML Paper Files</source>
-        <translation type="unfinished"/>
+        <translation>Importuje pliki XPS i Open XML Paper</translation>
     </message>
     <message>
         <source>Imports most XPS and Open XML Paper files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Importuje większość plików XPS i Open XML Paper do bieżącego dokumentu,
+zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -8242,7 +8270,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Top Left of Bleed</source>
-        <translation>W górnym lewym rógu spadów</translation>
+        <translation>W górnym lewym rogu spadów</translation>
     </message>
     <message>
         <source>X:</source>
@@ -8270,7 +8298,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Same as the Imported Image</source>
-        <translation>Taki sam jak importowany obrazek</translation>
+        <translation>Taki sam jak importowany obraz</translation>
     </message>
     <message>
         <source>Height:</source>
@@ -8286,7 +8314,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Source Image:</source>
-        <translation>Obrazek źródłowy:</translation>
+        <translation>Obraz źródłowy:</translation>
     </message>
     <message>
         <source>There are no options for this type of frame</source>
@@ -8472,7 +8500,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Number of Columns:</source>
-        <translation>Ilość łamów:</translation>
+        <translation>Ilość kolumn:</translation>
     </message>
     <message>
         <source>Position:</source>
@@ -8637,7 +8665,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Running</source>
-        <translation>Wykonuję</translation>
+        <translation>Wykonywany</translation>
     </message>
     <message>
         <source>No item selected!</source>
@@ -8665,7 +8693,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Could not create a temporary file to run the external editor!</source>
-        <translation>Nie udało się utworzyć pliku tymczasowego!</translation>
+        <translation>Nie udało się utworzyć pliku tymczasowego do uruchomienia zewnętrznego edytora!</translation>
     </message>
     <message>
         <source>Run External Editor...</source>
@@ -8732,7 +8760,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Screen</source>
-        <translation>Mnożenie odwrotności</translation>
+        <translation>Ekran</translation>
     </message>
     <message>
         <source>Overlay</source>
@@ -8808,7 +8836,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Add a New Layer</source>
-        <translation>Dodaj nową wartwę</translation>
+        <translation>Dodaj nową warstwę</translation>
     </message>
     <message>
         <source>Duplicate the Current Layer</source>
@@ -10291,7 +10319,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>Prefix</source>
-        <translation type="unfinished"/>
+        <translation>Przedrostek</translation>
     </message>
     <message>
         <source>Suffix</source>
@@ -10426,7 +10454,8 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Imports most OpenOffice.org Draw files into the current document, converting their vector data into Scribus objects.</source>
-        <translation>Importuje większość plików OpenOffice.org Draw do aktualnego dokumentu, zamieniając dane wektorowe na obiekty Scribusa.</translation>
+        <translation>Importuje większość plików Rysunku OpenOffice.org do bieżącego dokumentu,
+zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <source>OpenOffice.org 1.x Draw</source>
@@ -11238,7 +11267,7 @@ UCR zmniejsza możliwość wystąpienia przesycenia  tuszami CMY.</translation>
     </message>
     <message>
         <source>Group</source>
-        <translation>Grupuj</translation>
+        <translation>Grupa</translation>
     </message>
     <message>
         <source>RegularPolygon</source>
@@ -11795,7 +11824,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Import colors to the current set from an existing document</source>
-        <translation>Importuj kolory do aktualnego zestawu z istniejącego dokumentu</translation>
+        <translation>Importuj kolory do bieżącego zestawu z istniejącego dokumentu</translation>
     </message>
     <message>
         <source>&amp;Import</source>
@@ -11803,7 +11832,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Create a new color within the current set</source>
-        <translation>Utwórz nowy kolor wewnątrz aktualnego zestawu</translation>
+        <translation>Utwórz nowy kolor wewnątrz bieżącego zestawu</translation>
     </message>
     <message>
         <source>Add</source>
@@ -11882,7 +11911,7 @@ p, li { white-space: pre-wrap; }
     <name>PaintManagerDialog</name>
     <message>
         <source>Solid Colors</source>
-        <translation type="unfinished"/>
+        <translation>Pełne kolory</translation>
     </message>
     <message>
         <source>Gradients</source>
@@ -12504,19 +12533,19 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     </message>
     <message>
         <source>Media Box</source>
-        <translation type="unfinished"/>
+        <translation>Pole mediów</translation>
     </message>
     <message>
         <source>Bleed Box</source>
-        <translation type="unfinished"/>
+        <translation>Pole spadu</translation>
     </message>
     <message>
         <source>Trim Box</source>
-        <translation type="unfinished"/>
+        <translation>Pole przycięcia</translation>
     </message>
     <message>
         <source>Crop Box</source>
-        <translation type="unfinished"/>
+        <translation>Pole kadrowania</translation>
     </message>
     <message>
         <source>Art Box</source>
@@ -12584,11 +12613,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Allow</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Pozwól</translation>
     </message>
     <message>
         <source>&amp;Deny</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Odrzuć</translation>
     </message>
 </context>
 <context>
@@ -12707,7 +12736,7 @@ Proszę wybrać inny.</translation>
     <name>PicStatus</name>
     <message>
         <source>Scribus - Image Search</source>
-        <translation>Scribus - Szukanie obrazków</translation>
+        <translation>Scribus - Szukanie obrazów</translation>
     </message>
     <message>
         <source>No images named &quot;%1&quot; were found.</source>
@@ -12763,7 +12792,7 @@ Proszę wybrać inny.</translation>
     </message>
     <message>
         <source>Path:</source>
-        <translation>Katalog:</translation>
+        <translation>Ścieżka:</translation>
     </message>
     <message>
         <source>Search...</source>
@@ -12831,7 +12860,7 @@ Proszę wybrać inny.</translation>
     </message>
     <message>
         <source>Image Effects...</source>
-        <translation>Filtry obrazka...</translation>
+        <translation>Efekty obrazu...</translation>
     </message>
     <message>
         <source>Edit Image...</source>
@@ -12859,15 +12888,15 @@ Proszę wybrać inny.</translation>
     </message>
     <message>
         <source>Name of the image file</source>
-        <translation>Nazwa pliku obrazka</translation>
+        <translation>Nazwa pliku obrazu</translation>
     </message>
     <message>
         <source>Location where the image file is stored</source>
-        <translation>Miejsce, w którym zostanie zapisany obrazek</translation>
+        <translation>Miejsce, w którym przechowywany jest plik obrazu</translation>
     </message>
     <message>
         <source>Search for a missing image</source>
-        <translation>Szukaj brakującego obrazka</translation>
+        <translation>Szukaj brakującego obrazu</translation>
     </message>
     <message>
         <source>Type of the image</source>
@@ -12875,7 +12904,7 @@ Proszę wybrać inny.</translation>
     </message>
     <message>
         <source>The colorspace of the image</source>
-        <translation>Przestrzeń kolorów obrazka</translation>
+        <translation>Przestrzeń barw obrazu</translation>
     </message>
     <message>
         <source>Colorspace used within the image, eg RGB or CMYK</source>
@@ -13038,7 +13067,7 @@ Proszę wybrać inny.</translation>
     </message>
     <message>
         <source>Change sortorder</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Zmień porządek sortowania</translation>
     </message>
     <message>
         <source>Zoom in</source>
@@ -13098,7 +13127,7 @@ Proszę wybrać inny.</translation>
     </message>
     <message>
         <source>Path:</source>
-        <translation>Katalog:</translation>
+        <translation>Ścieżka:</translation>
     </message>
     <message>
         <source>Size:</source>
@@ -13330,19 +13359,19 @@ Proszę wybrać inny.</translation>
     </message>
     <message>
         <source>No Image(s) Selected</source>
-        <translation type="unfinished"/>
+        <translation>Nie wybrano obrazu(-ów)</translation>
     </message>
     <message>
         <source>You have to create a category first</source>
-        <translation type="unfinished"/>
+        <translation>Musisz wpierw utworzyć kategorię</translation>
     </message>
     <message>
         <source>No image(s) selected</source>
-        <translation type="unfinished"/>
+        <translation>Nie wybrano obrazu(-ów)</translation>
     </message>
     <message>
         <source>No page/image frame selected</source>
-        <translation type="unfinished"/>
+        <translation>Nie wybrano strony/ramki graficznej</translation>
     </message>
     <message>
         <source>Directory does not exist</source>
@@ -13540,11 +13569,11 @@ Proszę wybrać inny.</translation>
     <name>PixmapExportPlugin</name>
     <message>
         <source>Save as &amp;Image...</source>
-        <translation>Zapisz jako &amp;obrazek...</translation>
+        <translation>Zapisz jako &amp;obraz...</translation>
     </message>
     <message>
         <source>Export As Image</source>
-        <translation>Eksportuj jako obrazek</translation>
+        <translation>Eksportuj jako obraz</translation>
     </message>
     <message>
         <source>Exports selected pages as bitmap images.</source>
@@ -13552,7 +13581,7 @@ Proszę wybrać inny.</translation>
     </message>
     <message>
         <source>Save as Image</source>
-        <translation>Zapisz jako obrazek</translation>
+        <translation>Zapisz jako obraz</translation>
     </message>
     <message>
         <source>Export successful</source>
@@ -13592,7 +13621,7 @@ Proszę wybrać inny.</translation>
     <message>
         <source>init failed</source>
         <comment>plugin load error</comment>
-        <translation>init nie powiódł się</translation>
+        <translation>niepowodzenie uruchomienia</translation>
     </message>
     <message>
         <source>unknown plugin type</source>
@@ -13607,7 +13636,7 @@ Proszę wybrać inny.</translation>
     <message>
         <source>Plugin: %1 failed to load: %2</source>
         <comment>plugin manager</comment>
-        <translation>Wtyczka: nie udało się wczytać %1 : %2</translation>
+        <translation>Wtyczka: nie udało się wczytać %1: %2</translation>
     </message>
     <message>
         <source>Plugin: %1 initialized ok </source>
@@ -13644,7 +13673,7 @@ Proszę wybrać inny.</translation>
     </message>
     <message>
         <source>Load it?</source>
-        <translation>Pobrać?</translation>
+        <translation>Wczytać to?</translation>
     </message>
     <message>
         <source>Plugin ID</source>
@@ -13902,7 +13931,7 @@ wartość dodatnia zmieni jego kształt na wypukły</translation>
     </message>
     <message>
         <source>Plugins</source>
-        <translation>Rozszerzenia</translation>
+        <translation>Wtyczki</translation>
     </message>
     <message>
         <source>Image Cache</source>
@@ -13938,7 +13967,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Failed to open prefs file &quot;%1&quot;: %2</source>
-        <translation>Nie udało się otworzyć pliku konfiguracyjnego  &quot;%1&quot;: %2</translation>
+        <translation>Nie udało się otworzyć pliku konfiguracyjnego &quot;%1&quot;: %2</translation>
     </message>
     <message>
         <source>Failed to read prefs XML from &quot;%1&quot;: %2 at line %3, col %4</source>
@@ -13998,7 +14027,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Use Blackpoint Compensation</source>
-        <translation type="unfinished"/>
+        <translation>Użyj kompensacji poziomu czerni</translation>
     </message>
     <message>
         <source>Document Profiles</source>
@@ -14014,11 +14043,11 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>RGB Solid Colors:</source>
-        <translation type="unfinished"/>
+        <translation>Pełne kolory RGB:</translation>
     </message>
     <message>
         <source>CMYK Solid Colors:</source>
-        <translation type="unfinished"/>
+        <translation>Pełne kolory CMYK:</translation>
     </message>
     <message>
         <source>Printer:</source>
@@ -14030,7 +14059,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Images:</source>
-        <translation>Obrazki:</translation>
+        <translation>Obrazy:</translation>
     </message>
     <message>
         <source>Solid Colors:</source>
@@ -14361,7 +14390,7 @@ połączeń między ramkami.</translation>
     </message>
     <message>
         <source>Rights:</source>
-        <translation type="unfinished"/>
+        <translation>Prawa:</translation>
     </message>
 </context>
 <context>
@@ -14510,7 +14539,7 @@ połączeń między ramkami.</translation>
     </message>
     <message>
         <source>The value you have entered is outside the range of page numbers in the current document (%1-%2).</source>
-        <translation>Podana wartość jest poza zakresem numerów stron aktualnego dokumentu (%1-%2).</translation>
+        <translation>Podana wartość jest poza zakresem numerów stron bieżącego dokumentu (%1-%2).</translation>
     </message>
     <message>
         <source>Document Sections</source>
@@ -14562,15 +14591,15 @@ połączeń między ramkami.</translation>
     </message>
     <message>
         <source>Fill Character</source>
-        <translation type="unfinished"/>
+        <translation>Znak wypełnienia</translation>
     </message>
     <message>
         <source>Reversed</source>
-        <translation type="unfinished"/>
+        <translation>Odwrócony</translation>
     </message>
     <message>
         <source>*</source>
-        <translation type="unfinished"/>
+        <translation>*</translation>
     </message>
     <message>
         <source>CJK</source>
@@ -14625,7 +14654,7 @@ połączeń między ramkami.</translation>
     </message>
     <message>
         <source>Layout</source>
-        <translation>Układ strony</translation>
+        <translation>Układ</translation>
     </message>
     <message>
         <source>Page Layout</source>
@@ -14633,7 +14662,7 @@ połączeń między ramkami.</translation>
     </message>
     <message>
         <source>Saving &amp;&amp; Undo</source>
-        <translation>Zapisywanie i cofanie</translation>
+        <translation>Zapisywanie &amp;i cofanie</translation>
     </message>
     <message>
         <source>Save in Compressed Format</source>
@@ -14697,7 +14726,7 @@ połączeń między ramkami.</translation>
     </message>
     <message>
         <source>Margins &amp;&amp; Bleeds</source>
-        <translation>Marginesy i spady</translation>
+        <translation>Marginesy &amp;i spady</translation>
     </message>
     <message>
         <source>Margins</source>
@@ -14824,7 +14853,7 @@ połączeń między ramkami.</translation>
     </message>
     <message>
         <source>Image Processing Tool</source>
-        <translation>Narzędzie do obróbki obrazków</translation>
+        <translation>Narzędzie do obróbki obrazów</translation>
     </message>
     <message>
         <source>Name of &amp;Executable:</source>
@@ -14916,7 +14945,7 @@ połączeń między ramkami.</translation>
     </message>
     <message>
         <source>Locate your image editor</source>
-        <translation>Lokalizacja edytora obrazków</translation>
+        <translation>Położenie edytora obrazków</translation>
     </message>
     <message>
         <source>Locate your web browser</source>
@@ -15980,7 +16009,7 @@ Wartość 0 oznacza brak ograniczeń.</translation>
     </message>
     <message>
         <source>Solid Colors</source>
-        <translation type="unfinished"/>
+        <translation>Pełne kolory</translation>
     </message>
     <message>
         <source>Use Color Profile</source>
@@ -16321,7 +16350,7 @@ JPEG nadaje się lepiej do tworzenia mniejszych plików PDF zawierających dużo
     </message>
     <message>
         <source>Color profile for solid colors</source>
-        <translation>Model barw dla pełnych kolorów</translation>
+        <translation>Profil barw dla pełnych kolorów</translation>
     </message>
     <message>
         <source>Rendering intent for solid colors</source>
@@ -18023,7 +18052,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>&amp;Group</source>
-        <translation>&amp;Grupuj</translation>
+        <translation>&amp;Grupa</translation>
     </message>
     <message>
         <source>&amp;Transparency</source>
@@ -18562,7 +18591,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Line style of current object</source>
-        <translation>Styl linii aktualnego obiektu</translation>
+        <translation>Styl linii bieżącego obiektu</translation>
     </message>
     <message>
         <source>Arrow head style for start of line</source>
@@ -18680,7 +18709,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Screen</source>
-        <translation>Mnożenie odwrotności</translation>
+        <translation>Ekran</translation>
     </message>
     <message>
         <source>Overlay</source>
@@ -19140,11 +19169,11 @@ Transparency</source>
     </message>
     <message>
         <source>Color &amp;&amp; Effects</source>
-        <translation>Kolory i efekty</translation>
+        <translation>Kolory &amp;i efekty</translation>
     </message>
     <message>
         <source>Columns &amp;&amp; Text Distances</source>
-        <translation>Łamy i odstępy tekstowe</translation>
+        <translation>Łamy &amp;i odstępy tekstowe</translation>
     </message>
     <message>
         <source>Paragraph Effects</source>
@@ -19873,7 +19902,7 @@ Proszę wybrać inną.</translation>
     </message>
     <message>
         <source>Prefix</source>
-        <translation type="unfinished"/>
+        <translation>Przedrostek</translation>
     </message>
     <message>
         <source>Suffix</source>
@@ -19960,7 +19989,7 @@ Proszę wybrać inną.</translation>
     </message>
     <message>
         <source>Prefix</source>
-        <translation type="unfinished"/>
+        <translation>Przedrostek</translation>
     </message>
     <message>
         <source>Suffix</source>
@@ -23750,7 +23779,7 @@ Please choose another.</source>
     </message>
     <message>
         <source>Based On:</source>
-        <translation>Bazuje na:</translation>
+        <translation>Oparty na:</translation>
     </message>
     <message>
         <source>Text</source>
@@ -23823,7 +23852,7 @@ Please choose another.</source>
     </message>
     <message>
         <source>Line Styles</source>
-        <translation>Styl linii</translation>
+        <translation>Style linii</translation>
     </message>
     <message>
         <source>Line Style</source>
@@ -23994,7 +24023,7 @@ Please choose another.</source>
     </message>
     <message>
         <source>Based On:</source>
-        <translation>Bazuje na:</translation>
+        <translation>Oparty na:</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -24175,7 +24204,7 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>Prefix</source>
-        <translation type="unfinished"/>
+        <translation>Przedrostek</translation>
     </message>
     <message>
         <source>Suffix</source>
@@ -24465,7 +24494,7 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>Based On:</source>
-        <translation>Bazuje na:</translation>
+        <translation>Oparty na:</translation>
     </message>
     <message>
         <source>Text</source>
@@ -24616,7 +24645,8 @@ Uwaga: powoduje to wzrost wielkości pliku!</translation>
     <message>
         <source>Imports most SVG files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation>Importuje większość plików SVG do aktualnego dokumentu, zamieniając dane wektorowe na obiekty Scribusa.</translation>
+        <translation>Importuje większość plików SVG do bieżącego dokumentu,
+zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <source>The file could not be imported</source>
@@ -28463,7 +28493,7 @@ materiału wejściowego, aby je poprawić</translation>
     </message>
     <message>
         <source>Color profile for solid colors</source>
-        <translation>Model barw dla pełnych kolorów</translation>
+        <translation>Profil barw dla pełnych kolorów</translation>
     </message>
     <message>
         <source>Rendering intent for solid colors</source>
@@ -30534,7 +30564,8 @@ Document Liberation Project http://www.documentliberation.org</source>
     <message>
         <source>Imports most WMF files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation>Importuje większość plików WMF do aktualnego dokumentu, zamieniając dane wektorowe na obiekty Scribusa.</translation>
+        <translation>Importuje większość plików WMF do bieżącego dokumentu,
+zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <source>The file could not be imported</source>
@@ -30659,7 +30690,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Use document name as a prefix for Styles</source>
-        <translation type="unfinished"/>
+        <translation>Użyj nazwy dokumentu jako przedrostka dla stylów</translation>
     </message>
     <message>
         <source>Prepend the document name to the Style name in Scribus.</source>
@@ -31588,7 +31619,7 @@ Menu podręczne z opcją usunięcia jest dostępne jedynie, gdy posiadasz prawa 
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="unfinished"/>
+        <translation>Gradient</translation>
     </message>
     <message>
         <source>Linear</source>

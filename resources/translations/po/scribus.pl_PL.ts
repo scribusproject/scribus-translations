@@ -4766,7 +4766,7 @@ dołącza glif do listy wybranych znaków znajdujących się poniżej, klawisz D
     <message>
         <location filename="../../../scribus/checkDocument.cpp" line="673"/>
         <source>Rerun the document scan to check corrections you may have made</source>
-        <translation type="unfinished"/>
+        <translation>Uruchom ponownie skanowanie dokumentu, aby sprawdzić naniesione poprawki</translation>
     </message>
     <message>
         <location filename="../../../scribus/checkDocument.cpp" line="679"/>
@@ -6199,7 +6199,7 @@ Brak wparcia dla danej biblioteki symbolizuje znak *</translation>
     <message>
         <location filename="../../../scribus/customfdialog.cpp" line="342"/>
         <source>Include fonts when collecting files for the document. Be sure to know and understand licensing information for any fonts you collect and possibly redistribute.</source>
-        <translation type="unfinished"/>
+        <translation>Dołącz czcionki podczas zbierania plików dla dokumentu końcowego. Upewnij się, że znasz i rozumiesz informacje licencyjne dla każdej dołączanej czcionki, oraz znasz możliwości ich dalszego dystrybuowania.</translation>
     </message>
     <message>
         <location filename="../../../scribus/customfdialog.cpp" line="344"/>
@@ -7345,7 +7345,7 @@ Nazwa wyeksportowanego pliku będzie następująca: &quot;nazwa_dokumentu-numer_
     <message>
         <location filename="../../../scribus/plugins/pixmapexport/dialog.cpp" line="123"/>
         <source>The compression ratio of your images - 100% is no compression, 0% highest compression. If in doubt, use &apos;Automatic&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Współczynnik kompresji Twoich obrazów - 100% oznacza brak kompresji, 0% oznacza najwyższą kompresję. Jeśli masz wątpliwości, wybierz &quot;Automatyczny&quot;</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/pixmapexport/dialog.cpp" line="124"/>
@@ -8726,7 +8726,8 @@ zamieniając dane wektorowe na obiekty Scribusa.</translation>
         <location filename="../../../scribus/plugins/import/cvg/importcvgplugin.cpp" line="80"/>
         <source>Imports most Cvg files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Importuje większość plików Cvg do aktualnego dokumentu,
+zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/cvg/importcvgplugin.cpp" line="126"/>
@@ -8769,7 +8770,8 @@ converting their vector data into Scribus objects.</source>
         <location filename="../../../scribus/plugins/import/pct/importpctplugin.cpp" line="73"/>
         <source>Imports most Mac Pict files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Importuje większość plików Mac Pict do bieżącego dokumentu,
+zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/pct/importpctplugin.cpp" line="119"/>
