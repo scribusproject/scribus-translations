@@ -3072,7 +3072,7 @@
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginimpl.cpp" line="405"/>
         <source>AspellPluginImpl::on_faddWordBtn_clicked(): Unable to add word to personal list.</source>
-        <translation type="unfinished"/>
+        <translation>AspellPluginImpl::on_faddWordBtn_clicked(): Nie można dodać słowa do osobistej listy.</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginimpl.cpp" line="258"/>
@@ -20460,7 +20460,8 @@ Obrót: %4</translation>
         <location filename="../../../scribus/scribus.cpp" line="3910"/>
         <source>File does not exist on the specified path :
 %1</source>
-        <translation type="unfinished"/>
+        <translation>Plik nie istnieje w określonej ścieżce:
+%1</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribus.cpp" line="3956"/>
@@ -20475,7 +20476,7 @@ Obrót: %4</translation>
     <message>
         <location filename="../../../scribus/scribus.cpp" line="3958"/>
         <source>The file may be damaged or may have been produced in a later version of Scribus.</source>
-        <translation type="unfinished"/>
+        <translation>Plik może być uszkodzony lub mógł zostać utworzony w nowszej wersji Scribusa.</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribus.cpp" line="3984"/>
@@ -20923,7 +20924,7 @@ materiału wejściowego, aby je poprawić</translation>
     <message>
         <location filename="../../../scribus/scribusapp.cpp" line="444"/>
         <source>Show location ICC profile information on console while starting</source>
-        <translation type="unfinished"/>
+        <translation>Wyświetl w konsoli podczas uruchamiania informację o położeniu profilu ICC</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusapp.cpp" line="226"/>

@@ -504,7 +504,7 @@
     </message>
     <message>
         <source>&amp;Bezier Curve</source>
-        <translation>Krzywa &amp;Beziera</translation>
+        <translation>Krzywa &amp;Béziera</translation>
     </message>
     <message>
         <source>&amp;Image Frame</source>
@@ -1349,7 +1349,7 @@
     </message>
     <message>
         <source>Variable Text</source>
-        <translation type="unfinished"/>
+        <translation>Tekst zmienny</translation>
     </message>
     <message>
         <source>Reference to Item</source>
@@ -2318,7 +2318,7 @@
     </message>
     <message>
         <source>AspellPluginImpl::on_faddWordBtn_clicked(): Unable to add word to personal list.</source>
-        <translation type="unfinished"/>
+        <translation>AspellPluginImpl::on_faddWordBtn_clicked(): Nie można dodać słowa do osobistej listy.</translation>
     </message>
     <message>
         <source>Spelling check complete</source>
@@ -2375,7 +2375,7 @@ Błędna konfiguracja</translation>
     </message>
     <message>
         <source>Default Shapes</source>
-        <translation>Domyślne figury</translation>
+        <translation>Domyślne kształty</translation>
     </message>
 </context>
 <context>
@@ -2429,7 +2429,7 @@ Błędna konfiguracja</translation>
     </message>
     <message>
         <source>Variable number of ASCII characters and special function symbols, starting with the appropriate start character for the initial character set. UCC/EAN-128s must have a mandatory FNC 1 symbol immediately following the start character.</source>
-        <translation>Zmienna ilość znaków ASCII i symboli o specjalnego przeznaczenia, zaczynająca się od odpowiedniego znaku początkowego dla początkowego zestawu znaków. UCC/EAN-128s musi koniecznie zawierać symbol FNC 1 po znaku początkowym.</translation>
+        <translation>Zmienna ilość znaków ASCII i symboli specjalnego przeznaczenia, zaczynająca się od odpowiedniego znaku początkowego dla początkowego zestawu znaków. UCC/EAN-128 musi zawierać obowiązkowy symbol FNC 1 po znaku początkowym.</translation>
     </message>
     <message>
         <source>Variable number of digits and any of the symbols -$:/.+ABCD.</source>
@@ -2437,7 +2437,7 @@ Błędna konfiguracja</translation>
     </message>
     <message>
         <source>Variable number of digits. An ITF-14 is 14 characters and does not have a check digit</source>
-        <translation>Zmienna ilość cyfr. ITF-14 składa się z 14 znaków i nie zawiera cyfry kontrolnej</translation>
+        <translation>Zmienna ilość cyfr. ITF-14 składa się z 14 znaków i nie zawiera liczby kontrolnej</translation>
     </message>
     <message>
         <source>Variable number of digits</source>
@@ -3162,12 +3162,14 @@ Nazwa ta jest zarezerwowana dla przezroczystości</translation>
     <message>
         <source>You cannot create a color without a name.
 Please give it a name</source>
-        <translation type="unfinished"/>
+        <translation>Nie można utworzyć koloru bez nazwy.
+Podaj nazwę koloru</translation>
     </message>
     <message>
         <source>The name of the color already exists.
 Please choose another one.</source>
-        <translation type="unfinished"/>
+        <translation>Ta nazwa koloru już istnieje.
+Proszę wybrać inną nazwę.</translation>
     </message>
     <message>
         <source>Lab</source>
@@ -3313,7 +3315,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Color Scheme Method</source>
-        <translation>Metoda przedstawiania kolorów</translation>
+        <translation>Metoda schematu kolorów</translation>
     </message>
     <message>
         <source>Angle:</source>
@@ -3512,7 +3514,7 @@ Wysokość: %2</translation>
     </message>
     <message>
         <source>You are trying to link a non-empty frame to frame which is already linked.</source>
-        <translation type="unfinished"/>
+        <translation>Próbujesz utworzyć połączenie niepustej ramki z ramką, która jest już połączona.</translation>
     </message>
 </context>
 <context>
@@ -3579,7 +3581,10 @@ Strona: %2</translation>
 
 Please submit your file (if possible) to the
 Document Liberation Project http://www.documentliberation.org</source>
-        <translation type="unfinished"/>
+        <translation>Błąd przetwarzania!
+
+Prosimy o przesłanie Twojego pliku (jeśli to możliwe) do
+Projektu Wyzwolenia Dokumentów: http://www.documentliberation.org</translation>
     </message>
 </context>
 <context>
@@ -3719,7 +3724,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Box Drawing</source>
-        <translation>Rysowanie ramek</translation>
+        <translation>Rysowanie pól</translation>
     </message>
     <message>
         <source>Block Elements</source>
@@ -3735,7 +3740,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Dingbats</source>
-        <translation>Dingbaty</translation>
+        <translation>Ozdoby drukarskie</translation>
     </message>
     <message>
         <source>Small Form Variants</source>
@@ -3982,7 +3987,7 @@ aktualnie %2 x %3 DPI</translation>
     </message>
     <message>
         <source>Image dimension is smaller than its frame</source>
-        <translation type="unfinished"/>
+        <translation>Wymiar obrazu jest mniejszy niż jego ramka</translation>
     </message>
     <message>
         <source>After Marks update document was changed</source>
@@ -3998,7 +4003,7 @@ aktualnie %2 x %3 DPI</translation>
     </message>
     <message>
         <source>Applied master page has different page destination (left, middle, right side)</source>
-        <translation type="unfinished"/>
+        <translation>Zastosowana strona wzorcowa ma różny cel strony (lewa, środkowa, prawa strona)</translation>
     </message>
     <message>
         <source>Empty Text Frame</source>
@@ -4118,18 +4123,19 @@ aktualnie %2 x %3 DPI</translation>
     </message>
     <message>
         <source>Collecting...</source>
-        <translation>Zapisywanie w toku...</translation>
+        <translation>Kolekcjonowanie...</translation>
     </message>
     <message>
         <source>Cannot collect all files for output for file:
 %1</source>
-        <translation>Niemożliwe zapisanie wszystkich plików dla pliku wyjściowego:
+        <translation>Nie można skolekcjonować wszystkich plików dla pliku wyjściowego:
 %1</translation>
     </message>
     <message>
         <source>Cannot collect the file: 
 %1</source>
-        <translation>Nie można zapisać pliku %1</translation>
+        <translation>Nie można skolekcjonować pliku:
+%1</translation>
     </message>
 </context>
 <context>
@@ -4152,18 +4158,19 @@ aktualnie %2 x %3 DPI</translation>
     </message>
     <message>
         <source>Collecting...</source>
-        <translation>Zapisywanie w toku...</translation>
+        <translation>Kolekcjonowanie...</translation>
     </message>
     <message>
         <source>Cannot collect all files for output for file:
 %1</source>
-        <translation>Niemożliwe zapisanie wszystkich plików dla pliku wyjściowego:
+        <translation>Nie można skolekcjonować wszystkich plików dla pliku wyjściowego:
 %1</translation>
     </message>
     <message>
         <source>Cannot collect the file: 
 %1</source>
-        <translation>Nie można zapisać pliku %1</translation>
+        <translation>Nie można skolekcjonować pliku:
+%1</translation>
     </message>
 </context>
 <context>
@@ -4507,7 +4514,7 @@ aktualnie %2 x %3 DPI</translation>
     <message>
         <source>Custom: </source>
         <comment>Custom Tab Fill Option</comment>
-        <translation>Definicja użytkownika:</translation>
+        <translation>Własna:</translation>
     </message>
     <message>
         <source>Solid Line</source>
@@ -4764,7 +4771,7 @@ aktualnie %2 x %3 DPI</translation>
     <message>
         <source>Monochrome</source>
         <comment>Colorspace</comment>
-        <translation type="unfinished"/>
+        <translation>Monochromatyczny</translation>
     </message>
     <message>
         <source>Alt</source>
@@ -4776,7 +4783,7 @@ aktualnie %2 x %3 DPI</translation>
     </message>
     <message>
         <source>Cmd</source>
-        <translation type="unfinished"/>
+        <translation>Cmd</translation>
     </message>
     <message>
         <source>Ctrl</source>
@@ -4847,7 +4854,7 @@ aktualnie %2 x %3 DPI</translation>
     </message>
     <message>
         <source>Send to</source>
-        <translation>Przesuń do</translation>
+        <translation>Przenieś do</translation>
     </message>
     <message>
         <source>Scrapbook</source>
@@ -4855,7 +4862,7 @@ aktualnie %2 x %3 DPI</translation>
     </message>
     <message>
         <source>Send to La&amp;yer</source>
-        <translation>P&amp;rzesuń do warstwy</translation>
+        <translation>P&amp;rzenieś do warstwy</translation>
     </message>
     <message>
         <source>Le&amp;vel</source>
@@ -4916,7 +4923,7 @@ aktualnie %2 x %3 DPI</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>Definicja użytkownika</translation>
+        <translation>Własna:</translation>
     </message>
     <message>
         <source>Create Mesh</source>
@@ -5521,7 +5528,7 @@ Sprawdź, czy identyfikator kompilacji zawiera C-C-T. Symbole te oznaczają obs�
     <name>DrwPlug</name>
     <message>
         <source>Group%1</source>
-        <translation>Grupa%1</translation>
+        <translation>Grupa %1</translation>
     </message>
     <message>
         <source>Importing: %1</source>
@@ -5568,7 +5575,7 @@ zakończone błędem!</translation>
     </message>
     <message>
         <source>Group%1</source>
-        <translation>Grupa%1</translation>
+        <translation>Grupa %1</translation>
     </message>
     <message>
         <source>Importing: %1</source>
@@ -5713,7 +5720,7 @@ zakończone błędem!</translation>
     </message>
     <message>
         <source>Posterize:</source>
-        <translation>Posteryzuj:</translation>
+        <translation>Posteryzacja:</translation>
     </message>
     <message>
         <source>Available Effects</source>
@@ -5827,7 +5834,7 @@ zakończone błędem!</translation>
     </message>
     <message>
         <source>An exception occured while running the script.</source>
-        <translation type="unfinished"/>
+        <translation>Wystąpił wyjątek podczas działania skryptu.</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -5950,8 +5957,8 @@ Nazwa wyeksportowanego pliku będzie następująca: &quot;nazwa_dokumentu-numer_
 a token can be * for all the pages, 1-5 for
 a range of pages or a single page number.</source>
         <translation>Wpisz rozdzieloną przecinkami listę wartości,
-gdzie * oznacza wszystkie strony, 1-5 zakres stron 
-a pojedynczy numer oznacza numer strony.</translation>
+gdzie * oznacza wszystkie strony, 1-5 zakres stron, 
+a pojedyncza cyfra oznacza numer strony.</translation>
     </message>
     <message>
         <source>Export all pages</source>
@@ -5969,7 +5976,7 @@ Użyj 72 dpi dla obrazów przeznaczonych do wyświetlania na ekranie</translatio
     </message>
     <message>
         <source>Size of the images. 100% for no changes, 200% for two times larger etc.</source>
-        <translation>Rozmiar obrazków. 100% oznacza niezmieniony rozmiar, 200%  dwa razy większy itd.</translation>
+        <translation>Rozmiar obrazów. 100% oznacza niezmieniony rozmiar, 200% dwa razy większy itd.</translation>
     </message>
     <message>
         <source>Image size in Pixels</source>
@@ -6185,7 +6192,10 @@ Użyj 72 dpi dla obrazów przeznaczonych do wyświetlania na ekranie</translatio
 
 Please submit your file (if possible) to the
 Document Liberation Project http://www.documentliberation.org</source>
-        <translation type="unfinished"/>
+        <translation>Błąd przetwarzania!
+
+Prosimy o przesłanie Twojego pliku (jeśli to możliwe) do
+Projektu Wyzwolenia Dokumentów: http://www.documentliberation.org</translation>
     </message>
 </context>
 <context>
@@ -6222,7 +6232,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Converts a Bezier Path to a Path made of line segments.</source>
-        <translation type="unfinished"/>
+        <translation>Przekształca ścieżkę Bézierowską na ścieżkę zrobioną z segmentów linii.</translation>
     </message>
 </context>
 <context>
@@ -7070,7 +7080,7 @@ listy ignorowanych</translation>
     </message>
     <message>
         <source>Has Embedded Paths:</source>
-        <translation>Zawiera osadzone krzywe:</translation>
+        <translation>Zawiera osadzone ścieżki:</translation>
     </message>
     <message>
         <source>Has Layers:</source>
@@ -7215,7 +7225,10 @@ zamieniając dane wektorowe na obiekty Scribusa.</translation>
 
 Please submit your file (if possible) to the
 Document Liberation Project http://www.documentliberation.org</source>
-        <translation type="unfinished"/>
+        <translation>Błąd przetwarzania!
+
+Prosimy o przesłanie Twojego pliku (jeśli to możliwe) do
+Projektu Wyzwolenia Dokumentów: http://www.documentliberation.org</translation>
     </message>
 </context>
 <context>
@@ -8981,7 +8994,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>An error occured while opening file or file is damaged</source>
-        <translation>Nastąpił błąd podczas otwierania pliku albo plik jest uszkodzony</translation>
+        <translation>Wystąpił błąd podczas otwierania pliku albo plik jest uszkodzony</translation>
     </message>
     <message>
         <source>An error occured while parsing file at line %1, column %2 :
@@ -9350,7 +9363,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Edit variable text</source>
-        <translation type="unfinished"/>
+        <translation>Edycja tekstu zmiennego</translation>
     </message>
     <message>
         <source>Mark with Variable Text</source>
@@ -9400,7 +9413,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Variable Text</source>
-        <translation type="unfinished"/>
+        <translation>Tekst zmienny</translation>
     </message>
     <message>
         <source>Marks to Items</source>
@@ -9572,11 +9585,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Import Page(s)</source>
-        <translation>Importuj strony</translation>
+        <translation>Importuj stronę(-y)</translation>
     </message>
     <message>
         <source>Create Page(s)</source>
-        <translation>Utwórz strony</translation>
+        <translation>Utwórz stronę(-y)</translation>
     </message>
     <message>
         <source> from %1</source>
@@ -9592,7 +9605,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Import Page(s):</source>
-        <translation>&amp;Importuj strony:</translation>
+        <translation>&amp;Importuj stronę(-y):</translation>
     </message>
     <message>
         <source>&amp;Import Master Page</source>
@@ -9744,7 +9757,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>To:</source>
-        <translation>do:</translation>
+        <translation>Do:</translation>
     </message>
     <message>
         <source>Number of Copies:</source>
@@ -9943,7 +9956,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>&amp;Default Unit:</source>
-        <translation>&amp;Jednostka:</translation>
+        <translation>Domyślna &amp;jednostka:</translation>
     </message>
     <message>
         <source>&amp;Automatic Text Frames</source>
@@ -9995,7 +10008,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>Open Recent &amp;Document</source>
-        <translation>Otwórz &amp;poprzedni dokument</translation>
+        <translation>Otwórz &amp;ostatni dokument</translation>
     </message>
     <message>
         <source>First Page is:</source>
@@ -10200,7 +10213,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>Enlarge the Size of the Path by shown %</source>
-        <translation>Zwiększ rozmiar ścieżki o 10%</translation>
+        <translation>Zwiększ rozmiar ścieżki o pokazaną wartość w %</translation>
     </message>
     <message>
         <source>Angle of Rotation</source>
@@ -10468,7 +10481,7 @@ zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <source>The file could not be imported</source>
-        <translation>Nie udało się zaimportować pliku</translation>
+        <translation>Nie można zaimportować tego pliku</translation>
     </message>
     <message>
         <source>OpenOffice.org 1.x Draw (*.sxd *.SXD)</source>
@@ -10989,19 +11002,19 @@ zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <source>Failed to load an image : %1</source>
-        <translation>Nie udało się wczytać obrazka: %1</translation>
+        <translation>Nie udało się wczytać obrazu: %1</translation>
     </message>
     <message>
         <source>Failed to write an image : %1</source>
-        <translation>Nie udało się zapisać obrazka: %1</translation>
+        <translation>Nie udało się zapisać obrazu: %1</translation>
     </message>
     <message>
         <source>Failed to load an image mask : %1</source>
-        <translation>Nie udało się wczytać maski obrazka: %1</translation>
+        <translation>Nie udało się wczytać maski obrazu: %1</translation>
     </message>
     <message>
         <source>Insufficient memory for processing an image</source>
-        <translation>Za mało pamięci by przetworzyć obrazek</translation>
+        <translation>Za mało pamięci, aby przetworzyć obraz</translation>
     </message>
     <message>
         <source>A write error occurred, please check available disk space</source>
@@ -11103,7 +11116,7 @@ zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <source>Scaling:</source>
-        <translation>Rozmiar:</translation>
+        <translation>Skalowanie:</translation>
     </message>
     <message>
         <source>Print...</source>
@@ -11457,7 +11470,7 @@ UCR zmniejsza możliwość wystąpienia przesycenia  tuszami CMY.</translation>
     </message>
     <message>
         <source>The application &quot;%1&quot; crashed!</source>
-        <translation>Aplikacja &quot;%1: zakończyła działanie!</translation>
+        <translation>Aplikacja &quot;%1&quot; zakończyła działanie!</translation>
     </message>
     <message>
         <source>Application</source>
@@ -11493,7 +11506,7 @@ UCR zmniejsza możliwość wystąpienia przesycenia  tuszami CMY.</translation>
     </message>
     <message>
         <source>The application &quot;%1&quot; failed to start! Please check the path: </source>
-        <translation>Uruchamianie aplikacji &quot;%1&quot;  nie powiodło się! Proszę sprawdzić ścieżkę:</translation>
+        <translation>Uruchamianie aplikacji &quot;%1&quot; nie powiodło się! Proszę sprawdzić ścieżkę:</translation>
     </message>
     <message>
         <source>Render Frame</source>
@@ -11802,7 +11815,10 @@ Often used for allowing items to be placed across page spreads</source>
 
 Please submit your file (if possible) to the
 Document Liberation Project http://www.documentliberation.org</source>
-        <translation type="unfinished"/>
+        <translation>Błąd przetwarzania!
+
+Prosimy o przesłanie Twojego pliku (jeśli to możliwe) do
+Projektu Wyzwolenia Dokumentów: http://www.documentliberation.org</translation>
     </message>
 </context>
 <context>
@@ -12143,7 +12159,7 @@ See the Edit Colors section of the documentation for more details.</source>
     </message>
     <message>
         <source>Connects two Paths.</source>
-        <translation type="unfinished"/>
+        <translation>Łączy dwie ścieżki.</translation>
     </message>
 </context>
 <context>
@@ -12166,7 +12182,7 @@ See the Edit Colors section of the documentation for more details.</source>
     </message>
     <message>
         <source>This plugin requires at least version 4.3.3 of the Qt library</source>
-        <translation>Ta wtyczka wymaga Qt w wersji co najmniej 4.3.3</translation>
+        <translation>Ta wtyczka wymaga biblioteki Qt w wersji co najmniej 4.3.3</translation>
     </message>
     <message>
         <source>Error</source>
@@ -12180,7 +12196,7 @@ a oba punkty końcowe muszą znajdować się na zewnątrz wielokąta</translatio
     </message>
     <message>
         <source>Cuts a Polygon with a Path.</source>
-        <translation type="unfinished"/>
+        <translation>Wycina wielokąt ze ścieżką</translation>
     </message>
 </context>
 <context>
@@ -12389,7 +12405,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     </message>
     <message>
         <source>Apply fancy boolean operations to paths.</source>
-        <translation>Zastosuj operacje Boole&apos;a na ścieżkach.</translation>
+        <translation>Zastosuj fantazyjne operacje Boole&apos;a na ścieżkach.</translation>
     </message>
 </context>
 <context>
@@ -13519,7 +13535,7 @@ Proszę wybrać inny.</translation>
     </message>
     <message>
         <source>Select file type(s)</source>
-        <translation type="unfinished"/>
+        <translation>Wybierz rodzaj(-e) pliku</translation>
     </message>
     <message>
         <source>Select the page(s) where to insert the image(s)</source>
@@ -13707,7 +13723,10 @@ Proszę wybrać inny.</translation>
 
 Please submit your file (if possible) to the
 Document Liberation Project http://www.documentliberation.org</source>
-        <translation type="unfinished"/>
+        <translation>Błąd przetwarzania!
+
+Prosimy o przesłanie Twojego pliku (jeśli to możliwe) do
+Projektu Wyzwolenia Dokumentów: http://www.documentliberation.org</translation>
     </message>
 </context>
 <context>
@@ -13796,7 +13815,7 @@ wartość dodatnia zmieni jego kształt na wypukły</translation>
     </message>
     <message>
         <source>Y-pos:</source>
-        <translation>Y:</translation>
+        <translation>Wsp. Y:</translation>
     </message>
     <message>
         <source>Width:</source>
@@ -13959,11 +13978,12 @@ wartość dodatnia zmieni jego kształt na wypukły</translation>
     <message>
         <source>Scribus has detected existing Scribus 1.3.5 preferences files.
 Do you want to migrate them to the new Scribus version?</source>
-        <translation type="unfinished"/>
+        <translation>Scribus wykrył istnienie plików konfiguracyjnych Scribusa 1.3.5.
+Czy chcesz wykorzystać te pliki w nowej wersji Scribusa?</translation>
     </message>
     <message>
         <source>Writing to preferences file &quot;%1&quot; failed: QIODevice status code %2</source>
-        <translation>Zapis do pliku konfiguracyjnego &quot;%1&quot; nie powiódł się: status błędu QIODevice   %2</translation>
+        <translation>Zapis do pliku konfiguracyjnego &quot;%1&quot; nie powiódł się: status błędu QIODevice %2</translation>
     </message>
     <message>
         <source>Failed to open prefs file &quot;%1&quot;: %2</source>
@@ -13980,7 +14000,7 @@ Do you want to migrate them to the new Scribus version?</source>
     <message>
         <source>Scribus was not able to save its preferences:&lt;br&gt;%1&lt;br&gt;Please check file and directory permissions and available disk space.</source>
         <comment>scribus app error</comment>
-        <translation>Scribuss nie był w stanie zapisać pliku konfiguracyjnego: &lt;br&gt;%1&lt;br&gt;Proszę sprawdzić uprawnienia pliku i katalogu oraz ilość wolnego miejsca na dysku.</translation>
+        <translation>Scribus nie był w stanie zapisać pliku konfiguracyjnego: &lt;br&gt;%1&lt;br&gt;Proszę sprawdzić uprawnienia pliku i katalogu oraz ilość wolnego miejsca na dysku.</translation>
     </message>
     <message>
         <source>Error Loading Preferences</source>
@@ -14091,7 +14111,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Monitor profiles can only be changed when no documents are open.</source>
-        <translation type="unfinished"/>
+        <translation>Profile monitora mogą zostać zmienione tylko wtedy, gdy żaden dokument nie jest otwarty.</translation>
     </message>
     <message>
         <source>&lt;qt&gt;Color Management cannot be activated due to missing color profiles.&lt;/br&gt;You need to install at least one RGB and one CMYK profile.</source>
@@ -15007,7 +15027,7 @@ Do you want to use this?</source>
     </message>
     <message>
         <source>&lt;qt&gt;File system location for Uniconvertor.&lt;/qt&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;Położenie Uniconvertora w systemie plików.&lt;/qt&gt;</translation>
     </message>
 </context>
 <context>
@@ -16358,7 +16378,7 @@ JPEG nadaje się lepiej do tworzenia mniejszych plików PDF zawierających dużo
     </message>
     <message>
         <source>Embed a color profile for images</source>
-        <translation>Wybierz profil barw dla obrazków</translation>
+        <translation>Osadź profil barw dla obrazów</translation>
     </message>
     <message>
         <source>Do not use color profiles that are embedded in source images</source>
@@ -16366,7 +16386,7 @@ JPEG nadaje się lepiej do tworzenia mniejszych plików PDF zawierających dużo
     </message>
     <message>
         <source>Color profile for images</source>
-        <translation>Profil barw dla obrazków</translation>
+        <translation>Profil barw dla obrazów</translation>
     </message>
     <message>
         <source>Rendering intent for images</source>
@@ -17627,7 +17647,7 @@ UCR zmniejsza możliwość wystąpienia przesycenia  tuszami CMY.</translation>
     </message>
     <message>
         <source>Select your default language for Scribus to run with. Leave this blank to choose based on environment variables. You can still override this by passing a command line option when starting Scribus</source>
-        <translation>Wybierz domyślny język, w którym będzie uruchamiany Scribus. Zostaw to pole puste, aby wybrać język zdefiniowany w zmiennych środowiskowych. Można nadpisać to ustawienie startując Scribusa z odpowiednią opcją</translation>
+        <translation>Wybierz domyślny język, w którym będzie uruchamiany Scribus. Zostaw to pole puste, aby wybrać język zdefiniowany w zmiennych środowiskowych. Można nadpisać to ustawienie uruchamiając Scribusa z odpowiednią opcją polecenia</translation>
     </message>
     <message>
         <source>Choose the default window decoration and looks. Scribus inherits any available KDE or Qt themes, if Qt is configured to search KDE plugins.</source>
@@ -18099,7 +18119,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Use Image Clip Path</source>
-        <translation>Zastosuj ścieżkę odcięcia obrazka</translation>
+        <translation>Zastosuj ścieżkę odcięcia obrazu</translation>
     </message>
     <message>
         <source>Disable text flow from lower frames around object</source>
@@ -18119,7 +18139,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Use the clipping path of the image</source>
-        <translation type="unfinished"/>
+        <translation>Użyj ścieżki odcięcia obrazka</translation>
     </message>
     <message>
         <source>Any path self-intersections or subpaths create holes in the fill.</source>
@@ -18170,7 +18190,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Use Image Clip Path</source>
-        <translation>Zastosuj ścieżkę odcięcia obrazka</translation>
+        <translation>Zastosuj ścieżkę odcięcia obrazu</translation>
     </message>
     <message>
         <source>Transparency</source>
@@ -18369,7 +18389,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Source profile of the image</source>
-        <translation>Profil źrodła obrazka</translation>
+        <translation>Profil źrodła obrazu</translation>
     </message>
     <message>
         <source>Rendering intent for the image</source>
@@ -18408,7 +18428,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Y-Pos:</source>
-        <translation>Y:</translation>
+        <translation>Wsp. Y:</translation>
     </message>
     <message>
         <source>Auto</source>
@@ -18456,7 +18476,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Input Profile</source>
-        <translation type="unfinished"/>
+        <translation>Profil wejściowy</translation>
     </message>
     <message>
         <source>Intent</source>
@@ -18937,7 +18957,7 @@ Transparency</source>
     </message>
     <message>
         <source>Use Image Clip Path</source>
-        <translation>Zastosuj ścieżkę odcięcia obrazka</translation>
+        <translation>Zastosuj ścieżkę odcięcia obrazu</translation>
     </message>
     <message>
         <source>This rule determines the &amp;quot;insideness&amp;quot; of a point on the canvas by drawing a ray from that point to infinity in any direction and counting the number of path segments from the given shape that the ray crosses. If this number is odd, the point is inside, if even, the point is outside.</source>
@@ -19004,7 +19024,7 @@ Transparency</source>
     </message>
     <message>
         <source>Use Image Clip Path</source>
-        <translation>Zastosuj ścieżkę odcięcia obrazka</translation>
+        <translation>Zastosuj ścieżkę odcięcia obrazu</translation>
     </message>
     <message>
         <source>Fill Rule</source>
@@ -20119,7 +20139,10 @@ Proszę wybrać inną.</translation>
 
 Please submit your file (if possible) to the
 Document Liberation Project http://www.documentliberation.org</source>
-        <translation type="unfinished"/>
+        <translation>Błąd przetwarzania!
+
+Prosimy o przesłanie Twojego pliku (jeśli to możliwe) do
+Projektu Wyzwolenia Dokumentów: http://www.documentliberation.org</translation>
     </message>
 </context>
 <context>
@@ -20302,7 +20325,7 @@ Skryptownika Scribus po dalsze informacje. </translation>
     <name>QFileDialog</name>
     <message>
         <source>Copy or Move a File</source>
-        <translation>Kopiuj albo przesuń plik</translation>
+        <translation>Kopiuj albo przenieś plik</translation>
     </message>
     <message>
         <source>Read: %1</source>
@@ -20366,7 +20389,7 @@ Skryptownika Scribus po dalsze informacje. </translation>
     </message>
     <message>
         <source>Create New Folder</source>
-        <translation>Nowy katalog</translation>
+        <translation>Utwórz nowy katalog</translation>
     </message>
     <message>
         <source>List View</source>
@@ -20530,7 +20553,7 @@ File not found.
 Check path and filename.</source>
         <translation>%1
 Nie znaleziono pliku.
-Sprawdź katalog i nazwę pliku.</translation>
+Sprawdź ścieżkę i nazwę pliku.</translation>
     </message>
     <message>
         <source>All Files (*.*)</source>
@@ -21838,7 +21861,7 @@ is not exhaustive due to exceptions from called functions.
     <message>
         <source>The filename should not be empty string.</source>
         <comment>python error</comment>
-        <translation>Nazwa pliku nie powinna być pustym ciągiem znaków.</translation>
+        <translation>Nazwa pliku nie może być pustym ciągiem znaków.</translation>
     </message>
     <message>
         <source>page</source>
@@ -23146,7 +23169,7 @@ Therefore the image may be not correct</source>
     </message>
     <message>
         <source>Qt supported File</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Plik obsługiwany przez Qt</translation>
     </message>
     <message>
         <source>Custom Shapes</source>
@@ -23223,7 +23246,7 @@ Therefore the image may be not correct</source>
     </message>
     <message>
         <source>Qt Supported File</source>
-        <translation type="unfinished"/>
+        <translation>Plik obsługiwany przez Qt</translation>
     </message>
     <message>
         <source>Freehand Importer</source>
@@ -24620,8 +24643,8 @@ Expressed as a percentage of the current white space value.</source>
     <message>
         <source>Adds all Images on the Page inline to the SVG.
 Caution: this will increase the file size!</source>
-        <translation>Dodaj wszystkie obrazki na stronie do SVG.
-Uwaga: powoduje to wzrost wielkości pliku!</translation>
+        <translation>Dodaje wszystkie obrazki ze strony do pliku SVG.
+Uwaga: spowoduje to wzrost wielkości pliku!</translation>
     </message>
     <message>
         <source>Export Page background</source>
@@ -25151,7 +25174,7 @@ zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <source>Y-Pos:</source>
-        <translation>Y:</translation>
+        <translation>Wsp. Y:</translation>
     </message>
     <message>
         <source>Submit to URL:</source>
@@ -25351,7 +25374,7 @@ zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <source>Images (*.tif *.png *.jpg *.xpm);;%1;;All Files (*)</source>
-        <translation>Obrazki (*.tif *.png *.jpg *.xpm;;%1;;Wszystkie pliki (*)</translation>
+        <translation>Obrazy (*.tif *.png *.jpg *.xpm);;%1;;Wszystkie pliki (*)</translation>
     </message>
     <message>
         <source>Images (*.tif *.png *.jpg *.xpm);;PostScript (*.eps *.epsi);;All Files (*)</source>
@@ -26046,7 +26069,7 @@ If you save it in this version, it will no longer be readable by older Scribus v
     </message>
     <message>
         <source>Allows Scribus to read Scribus 1.5.0 and higher formatted files.</source>
-        <translation type="unfinished"/>
+        <translation>Umożliwia Scribusowi odczytywanie sformatowanych plików Scribus 1.5.0 lub wyższej wersji.</translation>
     </message>
 </context>
 <context>
@@ -26251,7 +26274,8 @@ Obrót: %4</translation>
     <message>
         <source>File does not exist on the specified path :
 %1</source>
-        <translation type="unfinished"/>
+        <translation>Plik nie istnieje w określonej ścieżce:
+%1</translation>
     </message>
     <message>
         <source>File %1 is not in an acceptable format</source>
@@ -26271,7 +26295,7 @@ Obrót: %4</translation>
     </message>
     <message>
         <source>Filename and Path for Image</source>
-        <translation type="unfinished"/>
+        <translation>Nazwa pliku i ścieżka obrazu</translation>
     </message>
     <message>
         <source>All Files (*)</source>
@@ -26342,7 +26366,8 @@ Obrót: %4</translation>
     <message>
         <source>An error occurred while opening monitor profile.
 Former monitor profile will be used.</source>
-        <translation type="unfinished"/>
+        <translation>Wystąpił błąd podczas otwierania profilu monitora.
+Zostanie użyty starszy profil monitora.</translation>
     </message>
     <message>
         <source>All</source>
@@ -26447,7 +26472,7 @@ materiału wejściowego, aby je poprawić</translation>
     <message>
         <source>Your document was saved to a temporary file and could not be moved: 
 %1</source>
-        <translation type="unfinished"/>
+        <translation>Twój dokument został zapisany w pliku tymczasowym i nie może zostać przeniesiony: %1</translation>
     </message>
     <message>
         <source>Print engine initialization failed</source>
@@ -26479,7 +26504,7 @@ materiału wejściowego, aby je poprawić</translation>
     </message>
     <message>
         <source>The file may be damaged or may have been produced in a later version of Scribus.</source>
-        <translation type="unfinished"/>
+        <translation>Plik może być uszkodzony lub mógł zostać utworzony w nowszej wersji Scribusa.</translation>
     </message>
     <message>
         <source>Editing Symbol: %1</source>
@@ -26710,7 +26735,7 @@ materiału wejściowego, aby je poprawić</translation>
     </message>
     <message>
         <source>filename</source>
-        <translation>plik</translation>
+        <translation>nazwa pliku</translation>
     </message>
     <message>
         <source>Use filename as path for user given preferences</source>
@@ -26766,7 +26791,7 @@ materiału wejściowego, aby je poprawić</translation>
     </message>
     <message>
         <source>Show location ICC profile information on console while starting</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Wyświetl w konsoli podczas uruchamiania informację o położeniu profilu ICC</translation>
     </message>
     <message>
         <source>Invalid argument: %1</source>
@@ -26790,11 +26815,11 @@ materiału wejściowego, aby je poprawić</translation>
     </message>
     <message>
         <source>Show location of ICC profile information on console while starting</source>
-        <translation type="unfinished"/>
+        <translation>Wyświetl w konsoli podczas uruchamiania położenie informacji profilu ICC</translation>
     </message>
     <message>
         <source>Download a file from the Scribus website and show the latest available version</source>
-        <translation type="unfinished"/>
+        <translation>Pobierz plik ze strony Scribusa i wyświetl najnowszą dostępną wersję.</translation>
     </message>
 </context>
 <context>
@@ -27324,7 +27349,7 @@ materiału wejściowego, aby je poprawić</translation>
     <name>ShapePalette</name>
     <message>
         <source>Choose a shape file to import</source>
-        <translation type="unfinished"/>
+        <translation>Wybierz plik kształtu do zaimportowania</translation>
     </message>
     <message>
         <source>Photoshop Custom Shape (*.csh *.CSH)</source>
@@ -27618,7 +27643,7 @@ materiału wejściowego, aby je poprawić</translation>
     </message>
     <message>
         <source>&amp;Load from File...</source>
-        <translation>P&amp;obierz z pliku...</translation>
+        <translation>W&amp;czytaj z pliku...</translation>
     </message>
     <message>
         <source>Save &amp;Document</source>
@@ -28501,7 +28526,7 @@ materiału wejściowego, aby je poprawić</translation>
     </message>
     <message>
         <source>Embed a color profile for images</source>
-        <translation>Wybierz profil barw dla obrazków</translation>
+        <translation>Osadź profil barw dla obrazów</translation>
     </message>
     <message>
         <source>Do not use color profiles that are embedded in source images</source>
@@ -28509,7 +28534,7 @@ materiału wejściowego, aby je poprawić</translation>
     </message>
     <message>
         <source>Color profile for images</source>
-        <translation>Profil barw dla obrazków</translation>
+        <translation>Profil barw dla obrazów</translation>
     </message>
     <message>
         <source>Rendering intent for images</source>
@@ -29273,7 +29298,7 @@ JPEG nadaje się lepiej do tworzenia mniejszych plików PDF zawierających dużo
     </message>
     <message>
         <source>Partially corrupted archive. Some files might be extracted.</source>
-        <translation type="unfinished"/>
+        <translation>Archiwum częściowo uszkodzone. Część plików mogła zostać rozpakowana.</translation>
     </message>
     <message>
         <source>Corrupted archive.</source>
@@ -29892,7 +29917,7 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Text flows around image clipping path</source>
-        <translation>Tekst opływa ścieżkę odcięcia obrazka</translation>
+        <translation>Tekst opływa ścieżkę odcięcia obrazu</translation>
     </message>
     <message>
         <source>Remove page guides</source>
@@ -29988,7 +30013,7 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Connect path</source>
-        <translation type="unfinished"/>
+        <translation>Połącz ścieżkę</translation>
     </message>
     <message>
         <source>Change overprint</source>
@@ -30335,7 +30360,7 @@ X: %4, Y: %5</translation>
     <name>UniconvImportPlugin</name>
     <message>
         <source>Imports Vector Files with UniConvertor</source>
-        <translation type="unfinished"/>
+        <translation>Importuje pliki wektorowe poprzez UniConvertor</translation>
     </message>
     <message>
         <source>Converts many vector formats to SVG and then loads the resulting SVG.</source>
@@ -30355,7 +30380,7 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Uniconvertor failed to convert the file: %1</source>
-        <translation type="unfinished"/>
+        <translation>Błąd Uniconvertora podczas przerabiania pliku: %1</translation>
     </message>
     <message>
         <source>The SVG Import plugin could not be found</source>
@@ -30548,7 +30573,10 @@ Czy chcesz zamiast tego wystartować domyślną przeglądarkę internetową?</tr
 
 Please submit your file (if possible) to the
 Document Liberation Project http://www.documentliberation.org</source>
-        <translation type="unfinished"/>
+        <translation>Błąd przetwarzania!
+
+Prosimy o przesłanie Twojego pliku (jeśli to możliwe) do
+Projektu Wyzwolenia Dokumentów: http://www.documentliberation.org</translation>
     </message>
 </context>
 <context>
