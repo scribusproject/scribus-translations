@@ -11063,7 +11063,7 @@ objektuetan bihurtuz.</translation>
     </message>
     <message>
         <source>Enable/disable the C (Cyan) ink plate</source>
-        <translation>Gaitu/desgaitu C (cyana) tinta</translation>
+        <translation>Gaitu/desgaitu C (ziana) tinta</translation>
     </message>
     <message>
         <source>Enable/disable the M (Magenta) ink plate</source>
@@ -11111,7 +11111,7 @@ objektuetan bihurtuz.</translation>
     </message>
     <message>
         <source>Cyan</source>
-        <translation>Cyana</translation>
+        <translation>Ziana</translation>
     </message>
     <message>
         <source>Magenta</source>
@@ -11139,7 +11139,7 @@ objektuetan bihurtuz.</translation>
     </message>
     <message>
         <source>A way of switching off some of the gray shades which are composed of cyan, yellow and magenta and using black instead. UCR most affects parts of images which are neutral and/or dark tones which are close to the gray. Use of this may improve printing some images and some experimentation and testing is need on a case by case basis. UCR reduces the possibility of over saturation with CMY inks.</source>
-        <translation>A way of switching off some of the gray shades which are composed of cyan, yellow and magenta and using black instead. UCR most affects parts of images which are neutral and/or dark tones which are close to the gray. Use of this may improve printing some images and some experimentation and testing is need on a case by case basis. UCR reduces the possibility of over saturation with CMY inks.</translation>
+        <translation>Grisen itzaldura itzaltzeko modu bat. Itzaldura hau zian, hori eta magenta koloreekin osatua dago, beltzaren ordez erabiliz. UCR metodoak irudi bateko tonu grisetik gertu dauden neutralak edota ilunak diren zatiei eragiten die batik bat. Honen erabilpenak zenbait irudiren inprimazioa hobetzen du, eta kasuz kasuko esperimentazioa eta probak egin behar izaten dira. UCRek gainsaturazioaren posibilitatea gutxitzen du CMY tintekin.</translation>
     </message>
     <message>
         <source>Resize the scale of the page.</source>
@@ -17167,7 +17167,7 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     </message>
     <message>
         <source>A way of switching off some of the gray shades which are composed of cyan, yellow and magenta and using black instead. UCR most affects parts of images which are neutral and/or dark tones which are close to the gray. Use of this may improve printing some images and some experimentation and testing is need on a case by case basis. UCR reduces the possibility of over saturation with CMY inks.</source>
-        <translation>Grisen itzaldura itzaltzeko modu bat. Itzaldura hau cyana, horia eta magenta koloreekin osatua dago, beltzaren ordez erabiliz. UCR metodoak irudi bateko tonu grisetik gertu dauden neutralak edota ilunak diren zatiei eragiten die batiz bat. Honen erabilpenak zenbait irudiren inprimazioa hobetzen du, eta kasuz kasuko esperimentazioa eta probak egin behar izaten dira. UCRek gainsaturazioaren posibilitatea gutxitzen du CMY tintekin.</translation>
+        <translation>Grisen itzaldura itzaltzeko modu bat. Itzaldura hau zian, hori eta magenta koloreekin osatua dago, beltzaren ordez erabiliz. UCR metodoak irudi bateko tonu grisetik gertu dauden neutralak edota ilunak diren zatiei eragiten die bati bat. Honen erabilpenak zenbait irudiren inprimazioa hobetzen du, eta kasuz kasuko esperimentazioa eta probak egin behar izaten dira. UCRek gainsaturazioaren posibilitatea gutxitzen du CMY tintekin.</translation>
     </message>
     <message>
         <source>Enables Spot Colors to be converted to composite colors. Unless you are planning to print spot colors at a commercial printer, this is probably best left enabled.</source>
@@ -17767,7 +17767,7 @@ konfiguratuta badago KDEko pluginak bilatzeko.</translation>
     </message>
     <message>
         <source>Cyan</source>
-        <translation>Cyana</translation>
+        <translation>Ziana</translation>
     </message>
     <message>
         <source>Magenta</source>
@@ -18057,7 +18057,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>&lt;qt&gt;A way of switching off some of the gray shades which are composed of cyan, yellow and magenta and using black instead. Under Color Removal mostly affects parts of images which are neutral and/or dark tones which are close to the gray. Use of this may improve printing some images and some experimentation and testing is need on a case by case basis. Under Color Removal reduces the possibility of over saturation with CMY inks.&lt;/qt&gt;</source>
-        <translation>&lt;qt&gt;Cyan, magenta eta horiaren konbinazioz sortutako gris-itzal batzuk desaktibatzeko modu bat, haien ordez beltza erabilitz. Azpiko koloreak kentzeko metodoak irudi bateko tonu grisetik gertu dauden neutralak edota ilunak diren zatiei eragiten die batik bat. Honen erabilerak zenbait irudiren inprimatzea hobetzen du, eta kasuz kasuko esperimentazioa eta probak egin behar izaten dira. Azpiko koloreak kentzeak gainsaturazioaren posibilitatea gutxitzen du CMY tintekin.&lt;/qt&gt;</translation>
+        <translation>&lt;qt&gt;Zian, magenta eta horiaren konbinazioz sortutako gris-itzal batzuk desaktibatzeko modu bat, haien ordez beltza erabilitz. Azpiko koloreak kentzeko metodoak irudi bateko tonu grisetik gertu dauden neutralak edota ilunak diren zatiei eragiten die batik bat. Honen erabilerak zenbait irudiren inprimatzea hobetzen du, eta kasuz kasuko esperimentazioa eta probak egin behar izaten dira. Azpiko koloreak kentzeak gainsaturazioaren posibilitatea gutxitzen du CMY tintekin.&lt;/qt&gt;</translation>
     </message>
     <message>
         <source>&lt;qt&gt;Enables Spot Colors to be converted to composite colors. Unless you are planning to print spot colors at a commercial printer, this is probably best left enabled.&lt;/qt&gt;</source>
@@ -21943,7 +21943,7 @@ hori ez den osoa, deitutako funtzioetako salbuespenen ondorioz.
     </message>
     <message>
         <source>Cyan</source>
-        <translation>Cyana</translation>
+        <translation>Ziana</translation>
     </message>
     <message>
         <source>Magenta</source>

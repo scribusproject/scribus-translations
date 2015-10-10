@@ -412,11 +412,11 @@
     </message>
     <message>
         <source>D&amp;uplicate</source>
-        <translation>&amp;Klonuj</translation>
+        <translation>&amp;Powiel</translation>
     </message>
     <message>
         <source>&amp;Multiple Duplicate</source>
-        <translation>&amp;Wielokrotne klonowanie</translation>
+        <translation>&amp;Wielokrotne powielanie</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -600,11 +600,11 @@
     </message>
     <message>
         <source>Sn&amp;ap to Grid</source>
-        <translation>Wyrów&amp;naj do siatki</translation>
+        <translation>Wyrów&amp;nanie do siatki</translation>
     </message>
     <message>
         <source>Sna&amp;p to Guides</source>
-        <translation>Wyrówna&amp;j do linii pomocniczych</translation>
+        <translation>Wyrówna&amp;nie do linii pomocniczych</translation>
     </message>
     <message>
         <source>&amp;Properties</source>
@@ -8853,7 +8853,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Duplicate the Current Layer</source>
-        <translation>Klonuj aktualną warstwę</translation>
+        <translation>Powiel aktualną warstwę</translation>
     </message>
     <message>
         <source>Raise Layer</source>
@@ -9807,7 +9807,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>Multiple Duplicate</source>
-        <translation>Wielokrotne klonowanie</translation>
+        <translation>Wielokrotne powielanie</translation>
     </message>
     <message>
         <source>&amp;By Number of Copies</source>
@@ -11644,7 +11644,7 @@ Often used for allowing items to be placed across page spreads</source>
     </message>
     <message>
         <source>Duplicate the selected master page</source>
-        <translation>Klonuje wybraną stronę wzorcową</translation>
+        <translation>Powiela wybraną stronę wzorcową</translation>
     </message>
     <message>
         <source>Delete the selected master page</source>
@@ -11868,7 +11868,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>D&amp;uplicate</source>
-        <translation>&amp;Klonuj</translation>
+        <translation>&amp;Powiel</translation>
     </message>
     <message>
         <source>Delete the currently selected color</source>
@@ -15802,15 +15802,15 @@ Wartość 0 oznacza brak ograniczeń.</translation>
     </message>
     <message>
         <source>Minimum:</source>
-        <translation type="unfinished"/>
+        <translation>Minimalne:</translation>
     </message>
     <message>
         <source>Maximum:</source>
-        <translation type="unfinished"/>
+        <translation>Maksymalne:</translation>
     </message>
     <message>
         <source>Stepping:</source>
-        <translation type="unfinished"/>
+        <translation>Przeskok:</translation>
     </message>
     <message>
         <source> %</source>
@@ -15822,7 +15822,7 @@ Wartość 0 oznacza brak ograniczeń.</translation>
     </message>
     <message>
         <source>Item Duplicate</source>
-        <translation>Klonowanie obiektu</translation>
+        <translation>Powielanie obiektu</translation>
     </message>
     <message>
         <source>X Displacement:</source>
@@ -15838,7 +15838,7 @@ Wartość 0 oznacza brak ograniczeń.</translation>
     </message>
     <message>
         <source>Constrain To:</source>
-        <translation type="unfinished"/>
+        <translation>Ogranicz do:</translation>
     </message>
     <message>
         <source>Minimum magnification allowed</source>
@@ -15862,7 +15862,7 @@ Wartość 0 oznacza brak ograniczeń.</translation>
     </message>
     <message>
         <source>Constrain value for the rotation tool when the Control key is pressed</source>
-        <translation type="unfinished"/>
+        <translation>Wartość ograniczenia narzędzia obracania, gdy wciśnięty jest przycisk Control</translation>
     </message>
 </context>
 <context>
@@ -15925,7 +15925,7 @@ Wartość 0 oznacza brak ograniczeń.</translation>
     </message>
     <message>
         <source>Limit Maximum Image Resolution to:</source>
-        <translation>Ogranicz maksymalną rozdzielczość obrazka do:</translation>
+        <translation>Ogranicz maksymalną rozdzielczość obrazu do:</translation>
     </message>
     <message>
         <source>Allow Copying Text and Graphics</source>
@@ -16470,7 +16470,7 @@ JPEG nadaje się lepiej do tworzenia mniejszych plików PDF zawierających dużo
     </message>
     <message>
         <source>Medium</source>
-        <translation>Średni</translation>
+        <translation>Średnia</translation>
     </message>
     <message>
         <source>Low</source>
@@ -16934,7 +16934,7 @@ JPEG nadaje się lepiej do tworzenia mniejszych plików PDF zawierających dużo
     </message>
     <message>
         <source>Check image resolution</source>
-        <translation>Sprawdzaj rozdzielczość obrazków</translation>
+        <translation>Sprawdzaj rozdzielczość obrazów</translation>
     </message>
     <message>
         <source>Minimum Resolution:</source>
@@ -17205,7 +17205,7 @@ UCR zmniejsza możliwość wystąpienia przesycenia  tuszami CMY.</translation>
     </message>
     <message>
         <source>The minimum number is 1; the maximum is 100</source>
-        <translation type="unfinished"/>
+        <translation>Minimalna liczba to 1; maksymalna - 100</translation>
     </message>
 </context>
 <context>
@@ -19576,7 +19576,7 @@ Proszę wybrać inną.</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Do dołu</translation>
     </message>
 </context>
 <context>
@@ -19619,19 +19619,19 @@ Proszę wybrać inną.</translation>
     </message>
     <message>
         <source>Vertical Alignment</source>
-        <translation type="unfinished"/>
+        <translation>Wyrównanie w pionie</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation>Na górze</translation>
+        <translation>Do góry</translation>
     </message>
     <message>
         <source>Middle</source>
-        <translation>Środkowa</translation>
+        <translation>Do środka</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Do dołu</translation>
     </message>
 </context>
 <context>
@@ -19961,7 +19961,7 @@ Proszę wybrać inną.</translation>
     </message>
     <message>
         <source>Effect Parameters</source>
-        <translation type="unfinished"/>
+        <translation>Parametry efektu</translation>
     </message>
     <message>
         <source>Char Style</source>
@@ -23774,7 +23774,7 @@ Please choose another.</source>
     </message>
     <message>
         <source>Clone of %1</source>
-        <translation>Klon %1</translation>
+        <translation>Powielenie %1</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
@@ -23841,7 +23841,7 @@ Please choose another.</source>
     </message>
     <message>
         <source>Clone of %1</source>
-        <translation>Klon %1</translation>
+        <translation>Powielenie %1</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
@@ -23887,7 +23887,7 @@ Please choose another.</source>
     </message>
     <message>
         <source>Clone of %1</source>
-        <translation>Klon %1</translation>
+        <translation>Powielenie %1</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
@@ -24071,7 +24071,7 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>Maximum extension of glyphs</source>
-        <translation>Maks. rozciągnięcie glifów</translation>
+        <translation>Maksymalne rozciągnięcie glifów</translation>
     </message>
     <message>
         <source>Optical Margins</source>
@@ -24358,7 +24358,7 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>Clone of %1</source>
-        <translation>Klon %1</translation>
+        <translation>Powielenie %1</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
@@ -24489,7 +24489,7 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>Clone of %1</source>
-        <translation>Klon %1</translation>
+        <translation>Powielenie %1</translation>
     </message>
     <message>
         <source>%1 (%2)</source>
@@ -25887,7 +25887,7 @@ zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <source>Duplicate/Transform</source>
-        <translation>Klonuj/Przekształć</translation>
+        <translation>Powiel/Przekształć</translation>
     </message>
     <message>
         <source>Grouping</source>
@@ -26560,7 +26560,7 @@ materiału wejściowego, aby je poprawić</translation>
     </message>
     <message>
         <source>Duplicate/Transform</source>
-        <translation>Klonuj/Przekształć</translation>
+        <translation>Powiel/Przekształć</translation>
     </message>
     <message>
         <source>Grouping</source>
@@ -26656,11 +26656,11 @@ materiału wejściowego, aby je poprawić</translation>
     </message>
     <message>
         <source>Zoom out by the stepping value in Tools preferences</source>
-        <translation type="unfinished"/>
+        <translation>Oddal o wartość przeskoku oznaczonego w preferencjach narzędzi </translation>
     </message>
     <message>
         <source>Zoom in by the stepping value in Tools preferences</source>
-        <translation type="unfinished"/>
+        <translation>Przybliż o wartość przeskoku oznaczonego w preferencjach narzędzi </translation>
     </message>
     <message>
         <source>Select the current layer</source>
@@ -27837,7 +27837,7 @@ materiału wejściowego, aby je poprawić</translation>
     </message>
     <message>
         <source>Clone selected style</source>
-        <translation>Klonuj zaznaczony styl</translation>
+        <translation>Powiel zaznaczony styl</translation>
     </message>
     <message>
         <source>Delete selected styles</source>
@@ -27853,7 +27853,7 @@ materiału wejściowego, aby je poprawić</translation>
     </message>
     <message>
         <source>Clone</source>
-        <translation>Klonuj</translation>
+        <translation>Powiel</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -28154,7 +28154,7 @@ materiału wejściowego, aby je poprawić</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation>Automatyczny</translation>
+        <translation>Automatyczna</translation>
     </message>
     <message>
         <source>None</source>
@@ -28170,7 +28170,7 @@ materiału wejściowego, aby je poprawić</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation>Średni</translation>
+        <translation>Średnia</translation>
     </message>
     <message>
         <source>Low</source>
@@ -28254,7 +28254,7 @@ materiału wejściowego, aby je poprawić</translation>
     </message>
     <message>
         <source> sec</source>
-        <translation>sek</translation>
+        <translation>sek.</translation>
     </message>
     <message>
         <source>No Effect</source>
@@ -28342,7 +28342,7 @@ materiału wejściowego, aby je poprawić</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Uprawnienia</translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <source>Allow &amp;Printing the Document</source>
@@ -28446,7 +28446,7 @@ materiału wejściowego, aby je poprawić</translation>
     </message>
     <message>
         <source>Images:</source>
-        <translation>Obrazki:</translation>
+        <translation>Obrazy:</translation>
     </message>
     <message>
         <source>C&amp;olor</source>
@@ -28622,7 +28622,7 @@ materiału wejściowego, aby je poprawić</translation>
     </message>
     <message>
         <source>Export resolution of text and vector graphics. This does not affect the resolution of bitmap images like photos.</source>
-        <translation>Rozdzielczość tekstu i grafiki wektorowej podczas eksportu. Nie dotyczy rozdzielczości obrazków bitmapowych, np. fotografii.</translation>
+        <translation>Eksportuj rozdzielczość tekstu i grafiki wektorowej. Nie dotyczy rozdzielczości obrazów bitmapowych, np. fotografii.</translation>
     </message>
     <message>
         <source>Enables lossless compression of text and graphics. Unless you have a reason, leave this checked. This reduces PDF file size.</source>
@@ -28837,7 +28837,7 @@ JPEG nadaje się lepiej do tworzenia mniejszych plików PDF zawierających dużo
     </message>
     <message>
         <source>Maximum Image Resolution:</source>
-        <translation>Maksymalna rozdzielczość obrazka:</translation>
+        <translation>Maksymalna rozdzielczość obrazu:</translation>
     </message>
     <message>
         <source>Show the document in single page mode</source>
@@ -29823,7 +29823,7 @@ do %2</translation>
     </message>
     <message>
         <source>Multiple duplicate</source>
-        <translation>Wielokrotne klonowanie</translation>
+        <translation>Wielokrotne powielenie</translation>
     </message>
     <message>
         <source>Change Image Offset</source>
@@ -29949,7 +29949,7 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Duplicate layer %1</source>
-        <translation>Klonuj warstwę %1</translation>
+        <translation>Powiel warstwę %1</translation>
     </message>
     <message>
         <source>More than 20 items involved</source>
@@ -30041,7 +30041,7 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Duplicate master page</source>
-        <translation>Klonuj stronę wzorcową</translation>
+        <translation>Powiel stronę wzorcową</translation>
     </message>
     <message>
         <source>Combine Polygons</source>
@@ -30221,7 +30221,7 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Duplicate</source>
-        <translation>Klonuj</translation>
+        <translation>Powiel</translation>
     </message>
     <message>
         <source>Remove mesh patch</source>
@@ -31257,7 +31257,7 @@ Menu podręczne z opcją usunięcia jest dostępne jedynie, gdy posiadasz prawa 
     </message>
     <message>
         <source>&amp;About</source>
-        <translation>&amp;O programie</translation>
+        <translation>&amp;O szablonie</translation>
     </message>
     <message>
         <source>&amp;Preview</source>

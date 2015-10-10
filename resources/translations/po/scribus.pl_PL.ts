@@ -21099,12 +21099,12 @@ materiału wejściowego, aby je poprawić</translation>
     <message>
         <location filename="../../../scribus/scribusview.cpp" line="351"/>
         <source>Zoom out by the stepping value in Tools preferences</source>
-        <translation type="unfinished"/>
+        <translation>Pomniejsz o wartość przeskoku oznaczonego w preferencjach narzędzi </translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusview.cpp" line="352"/>
         <source>Zoom in by the stepping value in Tools preferences</source>
-        <translation type="unfinished"/>
+        <translation>Przybliż o wartość przeskoku oznaczonego w preferencjach narzędzi </translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusview.cpp" line="353"/>
@@ -25679,7 +25679,7 @@ UCR zmniejsza możliwość wystąpienia przesycenia  tuszami CMY.</translation>
     <message>
         <location filename="../../../scribus/tabtools.cpp" line="559"/>
         <source>Constrain value for the rotation tool when the Control key is pressed</source>
-        <translation type="unfinished"/>
+        <translation>Wartość ograniczenia narzędzia obracania, gdy wciśnięty jest przycisk Control</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabtools.cpp" line="511"/>
