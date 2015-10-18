@@ -190,7 +190,7 @@
     </message>
     <message>
         <source>Haiku Port:</source>
-        <translation type="unfinished"/>
+        <translation>Porzh da Haiku</translation>
     </message>
     <message>
         <source>SVN Revision: %1</source>
@@ -1846,7 +1846,7 @@
     </message>
     <message>
         <source>When distributing by a set distance, reverse the direction of the distribution of items</source>
-        <translation type="unfinished"/>
+        <translation>Pa vez dasparzhet dre ur pellder despizet, tuginañ tuadur dasparzhadur an ergorennoù</translation>
     </message>
     <message>
         <source>None Selected</source>
@@ -3021,7 +3021,8 @@ diazezet war arlad ar voullerezh bet dibabet.</translation>
     <message>
         <source>Simulate a full color managed environment :
 all colors, rgb or cmyk, are converted to printer color space.</source>
-        <translation type="unfinished"/>
+        <translation>Darvanañ un endo ardoet dre an holl livioù :
+an holl livioù, RGG pe SMMD, zo amdroet da egor livverkel ar voullerez.</translation>
     </message>
     <message>
         <source>Convert all colors to printer space</source>
@@ -3030,7 +3031,8 @@ all colors, rgb or cmyk, are converted to printer color space.</source>
     <message>
         <source>Method of showing colors on the screen which may not print properly.
 This requires very accurate profiles and serves only as a warning.</source>
-        <translation type="unfinished"/>
+        <translation>Hentenn da ziskouez war ar skramm pe re a c&apos;hallfe bezañ moullet gant un doare direizh.
+Aeladoù nevesañ zo azgoulennet ganti hag evel un evezh e talv nemetken.</translation>
     </message>
     <message>
         <source>Mark Colors out of &amp;Gamut</source>
@@ -3039,7 +3041,8 @@ This requires very accurate profiles and serves only as a warning.</source>
     <message>
         <source>Black Point Compensation is a method of improving contrast in photos.
 It is recommended that you enable this if you have photos in your document.</source>
-        <translation type="unfinished"/>
+        <translation>Kempouezadur ar pikoù du a dalv d&apos;un hentenn wellaat eus an dargemm evit al luc&apos;hskeudennoù.
+Erbedet eo deoc&apos;h gweredekaat an dra-mañ mard eus luc&apos;hskeudennoù gant ho teul.</translation>
     </message>
     <message>
         <source>Document Rendering Intents</source>
@@ -3640,7 +3643,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Show/Hide Enhanced Palette</source>
-        <translation type="unfinished"/>
+        <translation>Diskouez/Klask ur spletad gwellaet</translation>
     </message>
     <message>
         <source>Unicode Search</source>
@@ -3648,15 +3651,15 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Load a Character Palette</source>
-        <translation type="unfinished"/>
+        <translation>Kargañ ur spletad arouezennoù</translation>
     </message>
     <message>
         <source>Save the Character Palette</source>
-        <translation type="unfinished"/>
+        <translation>Enrollañ ar spletad arouezennoù</translation>
     </message>
     <message>
         <source>Empty the Character Palette</source>
-        <translation type="unfinished"/>
+        <translation>Goullonderiñ ar spletad arouezennoù</translation>
     </message>
 </context>
 <context>
@@ -6438,7 +6441,7 @@ HE GWRIZIOÙ D&apos;UR VLEUNIENN WENN;</translation>
     </message>
     <message>
         <source>Enabling this tells Scribus to use these replacements for missing fonts permanently in all future layouts. This can be reverted or changed in File &gt; Preferences &gt; Fonts.</source>
-        <translation type="unfinished"/>
+        <translation>Gweredekaat an dra-mañ a lavar da Scribus da arverañ nodrezhoù amsaviñ ent padennek evit an nodrezhoù a vanko en holl bajennaozadennoù da zont. Daskemmet e vez dre Restr &gt; Gwellvezioù &gt; Nodrezhoù.</translation>
     </message>
 </context>
 <context>
@@ -10907,7 +10910,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>The save button will be disabled if you are trying to export PDF/X and the info string is missing from the PDF/X tab.</source>
-        <translation type="unfinished"/>
+        <translation>Diweredekaet e vo an afell Enrollañ mard emaoc&apos;h o klask da ezporzhiañ restroù mod PDF/X hag an hedad kelaouiñ a vanko diwar ivinell ar restr PDF/X.</translation>
     </message>
     <message>
         <source>PDF Files (*.pdf);;All Files (*)</source>
@@ -16397,7 +16400,7 @@ HE GWRIZIOÃ D&apos;UR VLEUNIENN WENN;</translation>
     </message>
     <message>
         <source>Mandatory string for PDF/X or the PDF will fail PDF/X conformance. We recommend you use the title of the document.</source>
-        <translation type="unfinished"/>
+        <translation>Hedad ret evit ar restr mod PDF/X-3 a-hend-all ne vo ket sur kenfurmded ar restr mod PDF/X-3. Erbedet eo deoc&apos;h ober gant titl an teul.</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -18083,7 +18086,7 @@ Notenn : Ar furmskridoù mod PDF ne vint ket ezporzhiet. </translation>
     </message>
     <message>
         <source>When chosen, the contour line can be edited with the Edit Shape Tool on the palette further above. When edited via the shape palette, this becomes a second separate line originally based on the frame&apos;s shape for text flow of text frames below the object.</source>
-        <translation type="unfinished"/>
+        <translation>Mar dibabet e vez daskemmet linenn an drolinenn gant an ostilh Embann al lun diwar an ostilhaoueg amañ a-us. Pa vez embannet dre al lunaoueg e ya da vezañ un eil linenn dispartiet diazezet war frammad al lun evit red an destenn eus ar frammadoù testenn dindan an ergorenn.</translation>
     </message>
     <message>
         <source>Use the clipping path of the image</source>
@@ -18091,11 +18094,11 @@ Notenn : Ar furmskridoù mod PDF ne vint ket ezporzhiet. </translation>
     </message>
     <message>
         <source>Any path self-intersections or subpaths create holes in the fill.</source>
-        <translation type="unfinished"/>
+        <translation>Krouet e vo toulloù el leuniadur gant istreugoù pe gant emskejadurioù dre ne vern pe dreug.</translation>
     </message>
     <message>
         <source>Fill is solid unless a subpath is counterdirectional.</source>
-        <translation type="unfinished"/>
+        <translation>Unvan eo al leuniadur nemet mar bez un istreug ginroudek.</translation>
     </message>
 </context>
 <context>
@@ -18917,11 +18920,11 @@ Transparency</source>
     </message>
     <message>
         <source>Any path self-intersections or subpaths create holes in the fill.</source>
-        <translation type="unfinished"/>
+        <translation>Krouet e vo toulloù el leuniadur gant istreugoù pe gant emskejadurioù dre ne vern pe dreug.</translation>
     </message>
     <message>
         <source>Fill is solid unless a subpath is counterdirectional.</source>
-        <translation type="unfinished"/>
+        <translation>Unvan eo al leuniadur nemet mar bez un istreug ginroudek.</translation>
     </message>
 </context>
 <context>
@@ -20512,19 +20515,19 @@ Gwiriit an treug ha anv ar restr.</translation>
     </message>
     <message>
         <source>Files of type:</source>
-        <translation type="unfinished"/>
+        <translation>Restoù o rizh :</translation>
     </message>
     <message>
         <source>Look in:</source>
-        <translation type="unfinished"/>
+        <translation>Teurel ur sell e :</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished"/>
+        <translation>War-lerc&apos;h</translation>
     </message>
     <message>
         <source>Parent Directory</source>
-        <translation type="unfinished"/>
+        <translation>Kavlec&apos;hiad kar</translation>
     </message>
     <message>
         <source>Recent Places</source>
@@ -21796,11 +21799,11 @@ dre nemedennoù digant an arc&apos;hwelioù galvet.</translation>
     </message>
     <message>
         <source>Scribus Crash</source>
-        <translation type="unfinished"/>
+        <translation>Sac&apos;hadenn Scribus</translation>
     </message>
     <message>
         <source>Scribus crashes due to Signal #%1</source>
-        <translation type="unfinished"/>
+        <translation>En abeg d&apos;an arhent #%1 e sac&apos;h Scribus</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -21896,7 +21899,7 @@ dre nemedennoù digant an arc&apos;hwelioù galvet.</translation>
     </message>
     <message>
         <source>Scribus crashes due to the following exception : %1</source>
-        <translation type="unfinished"/>
+        <translation>En abeg d&apos;an nemedenn amañ dindan e sac&apos;h Scribus : %1</translation>
     </message>
     <message>
         <source>Creating Font Cache</source>
@@ -22652,7 +22655,7 @@ Neuze ne vo ket dereat ar skeudenn marteze</translation>
     </message>
     <message>
         <source>Grids</source>
-        <translation type="unfinished"/>
+        <translation>Kaelioù</translation>
     </message>
     <message>
         <source>PDF Importer</source>
@@ -23060,7 +23063,7 @@ Neuze ne vo ket dereat ar skeudenn marteze</translation>
     </message>
     <message>
         <source>Anii</source>
-        <translation type="unfinished"/>
+        <translation>Aniieg</translation>
     </message>
     <message>
         <source>Open Document Importer</source>
@@ -23100,22 +23103,22 @@ Neuze ne vo ket dereat ar skeudenn marteze</translation>
     <message>
         <source>Failed to open document: %1</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>C&apos;hwitadenn war digeriñ an teul : %1</translation>
     </message>
     <message>
         <source>Master page does not exist: &apos;%1&apos;</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ar bajenn vestrez n&apos;eus ket anezhi : &apos;%1&apos;</translation>
     </message>
     <message>
         <source>Page number out of range: %1.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Niverenn bajenn er-maez eus al ledad : %1</translation>
     </message>
     <message>
         <source>Failed to apply masterpage &apos;%1&apos; on page: %2</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>C&apos;hwitadenn war seveniñ ur bajenn vestrez &apos;%1&apos; war ar bajenn : %2</translation>
     </message>
     <message>
         <source>Bosnian</source>
@@ -23511,7 +23514,7 @@ Dibabit unan all mar plij.</translation>
     </message>
     <message>
         <source>Run Script</source>
-        <translation type="unfinished"/>
+        <translation>Erounit ar skript</translation>
     </message>
 </context>
 <context>
@@ -26616,7 +26619,7 @@ Gwell e vefe ober gant Gwirierez Preflight d&apos;o reizhañ</translation>
     </message>
     <message>
         <source>Text Files (*.txt);;All Files (*)</source>
-        <translation type="unfinished"/>
+        <translation>Restroù mod Testenn (*.txt);;An holl restroù (*)</translation>
     </message>
     <message>
         <source>Editing Inline Item</source>
@@ -27735,7 +27738,7 @@ Gwell e vefe ober gant Gwirierez Preflight d&apos;o reizhañ</translation>
     </message>
     <message>
         <source>Text Files (*.txt);;All Files (*)</source>
-        <translation type="unfinished"/>
+        <translation>Restroù mod Testenn (*.txt);;An holl restroù (*)</translation>
     </message>
 </context>
 <context>
@@ -28182,7 +28185,7 @@ Gwell e vefe ober gant Gwirierez Preflight d&apos;o reizhañ</translation>
     </message>
     <message>
         <source>PDF/X Output Intent</source>
-        <translation type="unfinished"/>
+        <translation>Pal Ec&apos;hankañ mod PDF/X</translation>
     </message>
     <message>
         <source>Determines the PDF compatibility.&lt;br/&gt;The default is &lt;b&gt;PDF 1.3&lt;/b&gt; which gives the widest compatibility.&lt;br/&gt;Choose &lt;b&gt;PDF 1.4&lt;/b&gt; if your file uses features such as transparency or you require 128 bit encryption.&lt;br/&gt;&lt;b&gt;PDF 1.5&lt;/b&gt; is necessary when you wish to preserve objects in separate layers within the PDF.&lt;br/&gt;&lt;b&gt;PDF/X-3&lt;/b&gt; is for exporting the PDF when you want color managed RGB for commercial printing and is selectable when you have activated color management. Use only when advised by your printer or in some cases printing to a 4 color digital color laser printer.&lt;br/&gt;&lt;b&gt;PDF/X-1a&lt;/b&gt; is for blind exchange with colors strictly specified in CMYK or spot colors.&lt;br/&gt;&lt;b&gt;PDF/X-4&lt;/b&gt; is an extension of PDF/X-3 to support transparancy and layering.</source>
@@ -28190,7 +28193,7 @@ Gwell e vefe ober gant Gwirierez Preflight d&apos;o reizhañ</translation>
     </message>
     <message>
         <source>Mandatory string for PDF/X or the PDF will fail PDF/X conformance. We recommend you use the title of the document.</source>
-        <translation type="unfinished"/>
+        <translation>Hedad ret evit ar restr mod PDF/X-3 a-hend-all ne vo ket sur kenfurmded ar restr mod PDF/X-3. Erbedet eo deoc&apos;h ober gant titl an teul.</translation>
     </message>
     <message>
         <source>Page</source>
@@ -30196,7 +30199,7 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Duplicate</source>
-        <translation type="unfinished"/>
+        <translation>Arredaoliñ</translation>
     </message>
     <message>
         <source>Remove mesh patch</source>

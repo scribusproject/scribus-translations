@@ -1009,7 +1009,7 @@
     <message>
         <source>Straight Double</source>
         <comment>Unicode 0x0022</comment>
-        <translation>Prosty podwójny</translation>
+        <translation>Apostrof prosty podwójny</translation>
     </message>
     <message>
         <source>Single Left</source>
@@ -1029,7 +1029,7 @@
     <message>
         <source>Double Right</source>
         <comment>Unicode 0x201D</comment>
-        <translation>Podwójny angielski prawy</translation>
+        <translation>Podwójny angielski prawy / polski</translation>
     </message>
     <message>
         <source>Single Reversed</source>
@@ -1064,22 +1064,22 @@
     <message>
         <source>Low Single Comma</source>
         <comment>Unicode 0x201A</comment>
-        <translation>Przecinkowy frakcja dolna</translation>
+        <translation>Lewy przecinkowy pojedynczy</translation>
     </message>
     <message>
         <source>Low Double Comma</source>
         <comment>Unicode 0x201E</comment>
-        <translation>Lewy polski</translation>
+        <translation>Lewy przecinkowy podwójny / polski</translation>
     </message>
     <message>
         <source>CJK Single Left</source>
         <comment>Unicode 0x300C</comment>
-        <translation>CJK pojedyńczy lewy</translation>
+        <translation>CJK pojedynczy lewy</translation>
     </message>
     <message>
         <source>CJK Single Right</source>
         <comment>Unicode 0x300D</comment>
-        <translation>CJK pojedyńczy prawy</translation>
+        <translation>CJK pojedynczy prawy</translation>
     </message>
     <message>
         <source>CJK Double Left</source>
@@ -5194,7 +5194,7 @@ Sprawdź, czy identyfikator kompilacji zawiera C-C-T. Symbole te oznaczają obs�
     </message>
     <message>
         <source>Switches between linear and cubic interpolation of the curve</source>
-        <translation>Przełącza pomiędzy linearną i przestrzenną interpolacją krzywej</translation>
+        <translation>Przełącza pomiędzy liniową i przestrzenną interpolacją krzywej</translation>
     </message>
     <message>
         <source>Loads a curve</source>
@@ -6540,7 +6540,7 @@ Projektu Wyzwolenia Dokumentów: http://www.documentliberation.org</translation>
     </message>
     <message>
         <source>Skew:</source>
-        <translation type="unfinished"/>
+        <translation>Odchylenie:</translation>
     </message>
     <message>
         <source>Focal:</source>
@@ -9629,7 +9629,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Insert a comma separated list of tokens import where a token can be * for all the pages, 1-5 for a range of pages or a single page number.</source>
-        <translation>Wstaw rozdzieloną przecinkami listę wartości, gdzie wartość może być znakiem * oznaczającym wszystkie strony, np. 1-5 dla zakresu stron lub pojedyńczym numerem strony.</translation>
+        <translation>Wstaw rozdzieloną przecinkami listę wartości, gdzie wartość może być znakiem * oznaczającym wszystkie strony, np. 1-5 dla zakresu stron lub pojedynczym numerem strony.</translation>
     </message>
     <message>
         <source>&amp;Select...</source>
@@ -10580,7 +10580,7 @@ zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <source>Render Style:</source>
-        <translation type="unfinished"/>
+        <translation>Styl renderowany:</translation>
     </message>
     <message>
         <source>Bounding Box</source>
@@ -10596,7 +10596,7 @@ zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <source>Lighting:</source>
-        <translation type="unfinished"/>
+        <translation>Oświetlenie:</translation>
     </message>
     <message>
         <source>None</source>
@@ -10604,23 +10604,23 @@ zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <source>Headlamp</source>
-        <translation type="unfinished"/>
+        <translation>Lampka</translation>
     </message>
     <message>
         <source>White</source>
-        <translation type="unfinished"/>
+        <translation>Białe</translation>
     </message>
     <message>
         <source>Day</source>
-        <translation type="unfinished"/>
+        <translation>Dzienne</translation>
     </message>
     <message>
         <source>Night</source>
-        <translation type="unfinished"/>
+        <translation>Nocne</translation>
     </message>
     <message>
         <source>Hard</source>
-        <translation type="unfinished"/>
+        <translation>Ostre</translation>
     </message>
     <message>
         <source>Primary</source>
@@ -10628,11 +10628,11 @@ zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished"/>
+        <translation>Niebieskie</translation>
     </message>
     <message>
         <source>Red</source>
-        <translation type="unfinished"/>
+        <translation>Czerwone</translation>
     </message>
     <message>
         <source>Cube</source>
@@ -10640,7 +10640,7 @@ zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <source>CAD</source>
-        <translation type="unfinished"/>
+        <translation>CAD</translation>
     </message>
     <message>
         <source>Artwork</source>
@@ -11040,7 +11040,7 @@ zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <source>Shows transparency and transparent items in your document. Requires Ghostscript 7.07 or later</source>
-        <translation>Wyświetla przezroczystość i przezroczyste obiekty zawarte w dokumencie. Wymaga Ghostscriptu w wersji 7.07 lub późniejszej</translation>
+        <translation>Wyświetla przezroczystość i przezroczyste obiekty zawarte w dokumencie. Wymaga Ghostscriptu w wersji 7.07 lub wyższej</translation>
     </message>
     <message>
         <source>Gives a print preview using simulations of generic CMYK inks, instead of RGB colors</source>
@@ -12211,11 +12211,11 @@ a oba punkty końcowe muszą znajdować się na zewnątrz wielokąta</translatio
     </message>
     <message>
         <source>Single</source>
-        <translation>Pojedyńczy</translation>
+        <translation>Pojedynczy</translation>
     </message>
     <message>
         <source>Single, stretched</source>
-        <translation>Pojedyńczy, rozciągnięty</translation>
+        <translation>Pojedynczy, rozciągnięty</translation>
     </message>
     <message>
         <source>Repeated</source>
@@ -12479,11 +12479,11 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     </message>
     <message>
         <source>X-Skew:</source>
-        <translation type="unfinished"/>
+        <translation>Odchylenie X:</translation>
     </message>
     <message>
         <source>Y-Skew:</source>
-        <translation type="unfinished"/>
+        <translation>Odchylenie Y:</translation>
     </message>
     <message>
         <source>Angle:</source>
@@ -12932,7 +12932,7 @@ Proszę wybrać inny.</translation>
     </message>
     <message>
         <source>Height and width of the image</source>
-        <translation>Wysokość i szerokość obrazka</translation>
+        <translation>Wysokość i szerokość obrazu</translation>
     </message>
     <message>
         <source>Horizontal and vertical scaling applied to the image</source>
@@ -14893,7 +14893,7 @@ połączeń między ramkami.</translation>
     </message>
     <message>
         <source>Uniconvertor</source>
-        <translation type="unfinished"/>
+        <translation>Uniconvertor</translation>
     </message>
     <message>
         <source>Render Frames</source>
@@ -14977,7 +14977,7 @@ połączeń między ramkami.</translation>
     </message>
     <message>
         <source>Locate the uniconvertor executable</source>
-        <translation type="unfinished"/>
+        <translation>Wskaż położenie pliku wykonalnego uniconvertora</translation>
     </message>
     <message>
         <source>Locate your editor</source>
@@ -14985,7 +14985,7 @@ połączeń między ramkami.</translation>
     </message>
     <message>
         <source>Uniconvertor executable not found!</source>
-        <translation type="unfinished"/>
+        <translation>Nie odnaleziono pliku wykonalnego uniconvertora!</translation>
     </message>
     <message>
         <source>Locate a Configuration file</source>
@@ -15257,7 +15257,7 @@ Do you want to use this?</source>
     </message>
     <message>
         <source>Crosses and Dots</source>
-        <translation type="unfinished"/>
+        <translation>Krzyżyki i kropki</translation>
     </message>
     <message>
         <source>BaselineGrid</source>
@@ -18048,7 +18048,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>X, Y, &amp;Z</source>
-        <translation>X, Y, &amp;Z</translation>
+        <translation>Współrzędne X, Y, &amp;Z</translation>
     </message>
     <message>
         <source>&amp;Shape</source>
@@ -18076,7 +18076,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>&amp;Transparency</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Przezroczystość</translation>
     </message>
     <message>
         <source>T&amp;able</source>
@@ -18084,7 +18084,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Drop Shadow</source>
-        <translation type="unfinished"/>
+        <translation>Rzucany cień</translation>
     </message>
 </context>
 <context>
@@ -18265,7 +18265,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Extended Properties</source>
-        <translation type="unfinished"/>
+        <translation>Rozszerzone właściwości</translation>
     </message>
     <message>
         <source>Input Profile:</source>
@@ -18405,7 +18405,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>&amp;To Frame Size</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Do rozmiaru ramki</translation>
     </message>
 </context>
 <context>
@@ -18468,7 +18468,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>To Frame Size</source>
-        <translation type="unfinished"/>
+        <translation>Do rozmiaru ramki</translation>
     </message>
     <message>
         <source>Color Management</source>
@@ -18500,7 +18500,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Extended Properties</source>
-        <translation type="unfinished"/>
+        <translation>Rozszerzone właściwości</translation>
     </message>
 </context>
 <context>
@@ -18677,15 +18677,15 @@ Note: PDF Forms will not be exported.</source>
     <name>PropertiesPalette_Shadow</name>
     <message>
         <source>X-Offset:</source>
-        <translation type="unfinished"/>
+        <translation>Przesunięcie X:</translation>
     </message>
     <message>
         <source>Y-Offset:</source>
-        <translation type="unfinished"/>
+        <translation>Przesunięcie Y:</translation>
     </message>
     <message>
         <source>Blur:</source>
-        <translation type="unfinished"/>
+        <translation>Rozmycie:</translation>
     </message>
     <message>
         <source>Color:</source>
@@ -18701,11 +18701,11 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Blendmode:</source>
-        <translation type="unfinished"/>
+        <translation>Tryb mieszania:</translation>
     </message>
     <message>
         <source>Has Drop Shadow</source>
-        <translation type="unfinished"/>
+        <translation>Czy posiada rzucany cień</translation>
     </message>
     <message>
         <source>Black</source>
@@ -18778,12 +18778,14 @@ Note: PDF Forms will not be exported.</source>
     <message>
         <source>Content covers
 Drop Shadow</source>
-        <translation type="unfinished"/>
+        <translation>Zawartość pokrywa
+rzucany cień</translation>
     </message>
     <message>
         <source>Inherit Object
 Transparency</source>
-        <translation type="unfinished"/>
+        <translation>Odziedzicz przezroczystość
+obiektu</translation>
     </message>
 </context>
 <context>
@@ -18794,15 +18796,15 @@ Transparency</source>
     </message>
     <message>
         <source>Object has a drop shadow</source>
-        <translation type="unfinished"/>
+        <translation>Obiekt posiada rzucany cień</translation>
     </message>
     <message>
         <source>X-Offset:</source>
-        <translation type="unfinished"/>
+        <translation>Przesunięcie X:</translation>
     </message>
     <message>
         <source>Y-Offset:</source>
-        <translation type="unfinished"/>
+        <translation>Przesunięcie Y:</translation>
     </message>
     <message>
         <source>Color:</source>
@@ -18822,7 +18824,7 @@ Transparency</source>
     </message>
     <message>
         <source>Blendmode:</source>
-        <translation type="unfinished"/>
+        <translation>Tryb mieszania:</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -18890,7 +18892,7 @@ Transparency</source>
     </message>
     <message>
         <source>Blur:</source>
-        <translation type="unfinished"/>
+        <translation>Rozmycie:</translation>
     </message>
     <message>
         <source> px</source>
@@ -18901,7 +18903,7 @@ Transparency</source>
     <name>PropertiesPalette_Shape</name>
     <message>
         <source> pt</source>
-        <translation type="unfinished"/>
+        <translation type="vanished"> pt</translation>
     </message>
     <message>
         <source>Shape:</source>
@@ -22224,12 +22226,12 @@ is not exhaustive due to exceptions from called functions.
     <message>
         <source>Transparency out of bounds, must be 0 &lt;= transparency &lt;= 1.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Przezroczystość poza dozwolonym zakresem, musi być od 0 &lt;= przezroczystość &lt;= 1.</translation>
     </message>
     <message>
         <source>Blendmode out of bounds, must be 0 &lt;= blendmode &lt;= 15.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Tryb mieszania poza dozwolonym zakresem, musi być od 0 &lt;= tryb mieszania &lt;= 15.</translation>
     </message>
     <message>
         <source>Scribus 1.2.x Support</source>
@@ -22564,7 +22566,7 @@ Therefore the image may be not correct</source>
     <message>
         <source>Opacity out of bounds, must be 0 &lt;= transparency &lt;= 1.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Krycie poza dozwolonym zakresem, musi być od 0 &lt;= przezroczystość &lt;= 1.</translation>
     </message>
     <message>
         <source>Character scaling out of bounds, must be &gt;= 10</source>
@@ -22610,7 +22612,7 @@ Therefore the image may be not correct</source>
     </message>
     <message>
         <source>Could not get alpha channel data!</source>
-        <translation type="unfinished"/>
+        <translation>Nie można uzyskać danych kanału alfa!</translation>
     </message>
     <message>
         <source>Could not allocate output buffer!</source>
@@ -23238,11 +23240,11 @@ Therefore the image may be not correct</source>
     </message>
     <message>
         <source>Calamus Vector Graphics</source>
-        <translation type="unfinished"/>
+        <translation>Grafiki wektorowe Calamus</translation>
     </message>
     <message>
         <source>WordPerfect Graphics</source>
-        <translation type="unfinished"/>
+        <translation>Grafiki WordPerfect</translation>
     </message>
     <message>
         <source>Qt Supported File</source>
@@ -23342,7 +23344,7 @@ Therefore the image may be not correct</source>
     <name>QtIOCompressor::open</name>
     <message>
         <source>The gzip format not supported in this version of zlib.</source>
-        <translation type="unfinished"/>
+        <translation>Format gzip jest nieobsługiwany w tej wersji zlib.</translation>
     </message>
     <message>
         <source>Internal zlib error: </source>
@@ -24615,7 +24617,7 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>Manual Tracking</source>
-        <translation>Manualne podcinanie</translation>
+        <translation>Ręczne podcinanie</translation>
     </message>
 </context>
 <context>
@@ -25450,19 +25452,19 @@ zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <source>Fit Page</source>
-        <translation type="unfinished"/>
+        <translation>Dopasuj stronę</translation>
     </message>
     <message>
         <source>Fit Width</source>
-        <translation type="unfinished"/>
+        <translation>Dopasuj szerokość</translation>
     </message>
     <message>
         <source>Fit Height</source>
-        <translation type="unfinished"/>
+        <translation>Dopasuj wysokość</translation>
     </message>
     <message>
         <source>Fit Visible</source>
-        <translation type="unfinished"/>
+        <translation>Dopasuj widoczność</translation>
     </message>
     <message>
         <source>Single Page</source>
@@ -25694,91 +25696,91 @@ zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <source>m/d</source>
-        <translation type="unfinished"/>
+        <translation>m/d</translation>
     </message>
     <message>
         <source>m/d/yy</source>
-        <translation type="unfinished"/>
+        <translation>m/d/rr</translation>
     </message>
     <message>
         <source>mm/dd/yy</source>
-        <translation type="unfinished"/>
+        <translation>mm/dd/rr</translation>
     </message>
     <message>
         <source>mm/yy</source>
-        <translation type="unfinished"/>
+        <translation>mm/rr</translation>
     </message>
     <message>
         <source>d-mmm</source>
-        <translation type="unfinished"/>
+        <translation>d-mmm</translation>
     </message>
     <message>
         <source>d-mmm-yy</source>
-        <translation type="unfinished"/>
+        <translation>d-mmm-rr</translation>
     </message>
     <message>
         <source>dd-mmm-yy</source>
-        <translation type="unfinished"/>
+        <translation>dd-mmm-rr</translation>
     </message>
     <message>
         <source>dd/mm/yy</source>
-        <translation type="unfinished"/>
+        <translation>dd/mm/rr</translation>
     </message>
     <message>
         <source>dd/mm/yyyy</source>
-        <translation type="unfinished"/>
+        <translation>dd/mm/rrrr</translation>
     </message>
     <message>
         <source>dd.mm.yyyy</source>
-        <translation type="unfinished"/>
+        <translation>dd.mm.rrrr</translation>
     </message>
     <message>
         <source>yy-mm-dd</source>
-        <translation type="unfinished"/>
+        <translation>rr-mm-dd</translation>
     </message>
     <message>
         <source>mmm-yy</source>
-        <translation type="unfinished"/>
+        <translation>mmm-rr</translation>
     </message>
     <message>
         <source>mmmm-yy</source>
-        <translation type="unfinished"/>
+        <translation>mmmm-rr</translation>
     </message>
     <message>
         <source>mmm d, yyyy</source>
-        <translation type="unfinished"/>
+        <translation>mmm d, rrrr</translation>
     </message>
     <message>
         <source>mmmm d, yyyy</source>
-        <translation type="unfinished"/>
+        <translation>mmmm d, rrrr</translation>
     </message>
     <message>
         <source>m/d/yy h:MM tt</source>
-        <translation type="unfinished"/>
+        <translation>m/d/rr g:MM tt</translation>
     </message>
     <message>
         <source>m/d/yy HH:MM</source>
-        <translation type="unfinished"/>
+        <translation>m/d/rr GG:MM</translation>
     </message>
     <message>
         <source>yyyy-mm-dd</source>
-        <translation type="unfinished"/>
+        <translation>rrrr-mm-dd</translation>
     </message>
     <message>
         <source>HH:MM</source>
-        <translation type="unfinished"/>
+        <translation>GG:MM</translation>
     </message>
     <message>
         <source>h:MM tt</source>
-        <translation type="unfinished"/>
+        <translation>g:MM tt</translation>
     </message>
     <message>
         <source>HH:MM:ss</source>
-        <translation type="unfinished"/>
+        <translation>GG:MM:ss</translation>
     </message>
     <message>
         <source>h:MM:ss tt</source>
-        <translation type="unfinished"/>
+        <translation>g:MM:ss tt</translation>
     </message>
 </context>
 <context>
@@ -26357,11 +26359,11 @@ Obrót: %4</translation>
     </message>
     <message>
         <source>&amp;Shade:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">&amp;Cieniowanie:</translation>
     </message>
     <message>
         <source>Shade</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Cieniowanie</translation>
     </message>
     <message>
         <source>An error occurred while opening monitor profile.
@@ -26807,7 +26809,7 @@ materiału wejściowego, aby je poprawić</translation>
     </message>
     <message>
         <source>Do not start GUI</source>
-        <translation type="unfinished"/>
+        <translation>Nie uruchamiaj interfejsu graficznego</translation>
     </message>
     <message>
         <source>Stop showing the splashscreen on startup. Writes an empty file called .neversplash in ~/.scribus</source>
@@ -26850,7 +26852,7 @@ materiału wejściowego, aby je poprawić</translation>
     </message>
     <message>
         <source>Linking Text Frames</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Łączenie ramek tekstowych</translation>
     </message>
     <message>
         <source>Cannot Convert In-Use Item</source>
@@ -27061,7 +27063,7 @@ materiału wejściowego, aby je poprawić</translation>
     </message>
     <message>
         <source>Please enter a Python command:</source>
-        <translation type="unfinished"/>
+        <translation>Proszę wpisać polecenie Pythona:</translation>
     </message>
     <message>
         <source>Scribus - Scripter Plugin</source>
@@ -27981,7 +27983,7 @@ materiału wejściowego, aby je poprawić</translation>
     </message>
     <message>
         <source>Shadowed Text. Hold down the button momentarily to enable the offset spacing.</source>
-        <translation>Cieniowanie. Przytrzymaj klawisz myszy, aby zmienić wielkość przesunięcia.</translation>
+        <translation>Tekst cieniowany. Przytrzymaj klawisz myszy, aby zmienić wielkość przesunięcia.</translation>
     </message>
 </context>
 <context>
@@ -29282,11 +29284,11 @@ JPEG nadaje się lepiej do tworzenia mniejszych plików PDF zawierających dużo
     <name>UnZip</name>
     <message>
         <source>ZIP operation completed successfully.</source>
-        <translation type="unfinished"/>
+        <translation>Działanie ZIP zakończone pomyślnie.</translation>
     </message>
     <message>
         <source>Failed to initialize or load zlib library.</source>
-        <translation type="unfinished"/>
+        <translation>Błąd uruchomienia lub wczytania biblioteki zlib.</translation>
     </message>
     <message>
         <source>zlib library error.</source>
@@ -29334,7 +29336,7 @@ JPEG nadaje się lepiej do tworzenia mniejszych plików PDF zawierających dużo
     </message>
     <message>
         <source>Invalid device.</source>
-        <translation type="unfinished"/>
+        <translation>Nieprawidłowe urządzenie.</translation>
     </message>
     <message>
         <source>Invalid or incompatible zip archive.</source>
@@ -29603,7 +29605,7 @@ do %2</translation>
     </message>
     <message>
         <source>Set font width</source>
-        <translation>Ustaw szerokość pisma</translation>
+        <translation>Ustaw szerokość czcionki</translation>
     </message>
     <message>
         <source>Set font fill color</source>
@@ -29977,11 +29979,11 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Set layer blend mode</source>
-        <translation type="unfinished"/>
+        <translation>Ustaw tryb mieszania wartwy</translation>
     </message>
     <message>
         <source>Set layer opacity</source>
-        <translation>Ustaw nieprzezroczystość warstwy</translation>
+        <translation>Ustaw krycie warstwy</translation>
     </message>
     <message>
         <source>Lock layer</source>
@@ -30021,7 +30023,7 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Change blend mode</source>
-        <translation type="unfinished"/>
+        <translation>Zmień tryb mieszania</translation>
     </message>
     <message>
         <source>Change action PDF</source>
@@ -30257,35 +30259,35 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Drop Shadow</source>
-        <translation type="unfinished"/>
+        <translation>Rzucany cień</translation>
     </message>
     <message>
         <source>Drop Shadow Color</source>
-        <translation type="unfinished"/>
+        <translation>Kolor rzucanego cienia</translation>
     </message>
     <message>
         <source>Drop Shadow Shade</source>
-        <translation type="unfinished"/>
+        <translation>Kształt rzucanego cienia</translation>
     </message>
     <message>
         <source>Drop Shadow Blur Radius</source>
-        <translation type="unfinished"/>
+        <translation>Współczynnik rozmycia rzucanego cienia</translation>
     </message>
     <message>
         <source>Drop Shadow X Offset</source>
-        <translation type="unfinished"/>
+        <translation>Przesunięcie na osi X rzucanego cienia</translation>
     </message>
     <message>
         <source>Drop Shadow Y Offset</source>
-        <translation type="unfinished"/>
+        <translation>Przesunięcie na osi Y rzucanego cienia</translation>
     </message>
     <message>
         <source>Drop Shadow Opacity</source>
-        <translation type="unfinished"/>
+        <translation>Krycie rzucanego cienia</translation>
     </message>
     <message>
         <source>Drop Shadow Blend Mode</source>
-        <translation type="unfinished"/>
+        <translation>Tryb mieszania rzucanego cienia</translation>
     </message>
     <message>
         <source>Swap page</source>
@@ -30745,11 +30747,11 @@ zamieniając dane wektorowe na obiekty Scribusa.</translation>
     <name>Zip</name>
     <message>
         <source>ZIP operation completed successfully.</source>
-        <translation type="unfinished"/>
+        <translation>Działanie ZIP zakończone pomyślnie.</translation>
     </message>
     <message>
         <source>Failed to initialize or load zlib library.</source>
-        <translation type="unfinished"/>
+        <translation>Błąd uruchomienia lub wczytania biblioteki zlib.</translation>
     </message>
     <message>
         <source>zlib library error.</source>
@@ -30800,11 +30802,11 @@ zamieniając dane wektorowe na obiekty Scribusa.</translation>
     </message>
     <message>
         <source>Linear</source>
-        <translation type="unfinished"/>
+        <translation>Liniowy</translation>
     </message>
     <message>
         <source>Radial</source>
-        <translation type="unfinished"/>
+        <translation>Promieniowy</translation>
     </message>
     <message>
         <source>Move Vector</source>
@@ -31567,7 +31569,7 @@ Menu podręczne z opcją usunięcia jest dostępne jedynie, gdy posiadasz prawa 
     </message>
     <message>
         <source>Set the transparency for the color selected</source>
-        <translation>Włącz przezroczystość dla wybranego koloru</translation>
+        <translation>Ustaw przezroczystość dla wybranego koloru</translation>
     </message>
     <message>
         <source> %</source>
@@ -31651,11 +31653,11 @@ Menu podręczne z opcją usunięcia jest dostępne jedynie, gdy posiadasz prawa 
     </message>
     <message>
         <source>Linear</source>
-        <translation type="unfinished"/>
+        <translation>Liniowy</translation>
     </message>
     <message>
         <source>Radial</source>
-        <translation type="unfinished"/>
+        <translation>Promieniowy</translation>
     </message>
     <message>
         <source>Move the start of the gradient vector with the left mouse button pressed and move the end of the gradient vector with the right mouse button pressed</source>
@@ -31667,7 +31669,7 @@ Menu podręczne z opcją usunięcia jest dostępne jedynie, gdy posiadasz prawa 
     </message>
     <message>
         <source>Use Luminosity as Alpha</source>
-        <translation type="unfinished"/>
+        <translation>Użyj jasności jako alfa</translation>
     </message>
     <message>
         <source>Pattern</source>
