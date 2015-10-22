@@ -14,7 +14,7 @@ Translations are managed via [Transifex](https://www.transifex.com/projects/p/sc
 | Esperanto             |eo             |                         |           |     |
 | French                |fr             |                         |           |     |
 | German                |de             | Christoph S             |           |:+1: |
-| German (Trad.)        |de             | Christoph S             |           |:+1: |
+| German (Trad.)        |de_1901        | Christoph S             |           |:+1: |
 | German (Swiss)        |de_CH          | Christoph S             |           |:+1: |
 | Bulgarian             |bg             |                         |           |     |
 | Swedish               |sv             |                         |           |     |
