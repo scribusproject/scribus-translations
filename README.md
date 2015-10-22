@@ -3,6 +3,7 @@
 Translations for the [Scribus DTP](https://github.com/scribusproject/scribus)  
 Translations are managed via [Transifex](https://www.transifex.com/projects/p/scribus)
 
+## Translation Map
 
 | Language              |  Intl Code    | Translator              | Transifex | SVN |      
 |:----------------------|---------------|:-----------------------:|:---------:|:---:|
@@ -12,8 +13,9 @@ Translations are managed via [Transifex](https://www.transifex.com/projects/p/sc
 | Afrikaans             |af             |                         |           |     |
 | Esperanto             |eo             |                         |           |     |
 | French                |fr             |                         |           |     |
-| German (Trad.)        |de             |                         |           |     |
-| German (Swiss)        |de_CH          |                         |           |     |
+| German                |de             | Christoph S             |           |:+1: |
+| German (Trad.)        |de             | Christoph S             |           |:+1: |
+| German (Swiss)        |de_CH          | Christoph S             |           |:+1: |
 | Bulgarian             |bg             |                         |           |     |
 | Swedish               |sv             |                         |           |     |
 | Solvenia              |sl             |                         |           |     |
