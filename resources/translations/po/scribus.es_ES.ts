@@ -1241,7 +1241,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1577"/>
         <source>fl</source>
-        <translation type="unfinished"/>
+        <translation>fl</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1578"/>

@@ -9166,7 +9166,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Bleeds</source>
-        <translation type="unfinished"/>
+        <translation>בלידים</translation>
     </message>
     <message>
         <source>Inside:</source>
@@ -14669,7 +14669,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Bleeds</source>
-        <translation type="unfinished"/>
+        <translation>בלידים</translation>
     </message>
     <message>
         <source>Portrait</source>
@@ -16023,7 +16023,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Bleed Settings</source>
-        <translation type="unfinished"/>
+        <translation>הגדרות בליד</translation>
     </message>
     <message>
         <source>Use Document Bleeds</source>
@@ -17026,7 +17026,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Bleed Settings</source>
-        <translation type="unfinished"/>
+        <translation>הגדרות בליד</translation>
     </message>
     <message>
         <source>Do not show objects outside the margins on the printed page</source>
@@ -17853,7 +17853,7 @@ a range of pages or a single page number.</source>
     </message>
     <message>
         <source>Bleeds</source>
-        <translation type="unfinished"/>
+        <translation>בלידים</translation>
     </message>
     <message>
         <source>Top:</source>
@@ -28644,7 +28644,7 @@ when PDF document is opened:</source>
     </message>
     <message>
         <source>Bleed Settings</source>
-        <translation type="unfinished"/>
+        <translation>הגדרות בליד</translation>
     </message>
     <message>
         <source>Top:</source>

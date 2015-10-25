@@ -209,7 +209,7 @@
     </message>
     <message>
         <source>Enabled:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Activado:</translation>
     </message>
     <message>
         <source>Release Date:</source>
@@ -917,7 +917,7 @@
     </message>
     <message>
         <source>fl</source>
-        <translation type="unfinished"/>
+        <translation>fl</translation>
     </message>
     <message>
         <source>ffi</source>
@@ -1421,35 +1421,35 @@
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"/>
+        <translation>Rehacer</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"/>
+        <translation>Deshacer</translation>
     </message>
     <message>
         <source>Close the current document</source>
-        <translation type="unfinished"/>
+        <translation>Cerrar el documento actual</translation>
     </message>
     <message>
         <source>Export the document to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Exportar el documento a PDF</translation>
     </message>
     <message>
         <source>Create a new document</source>
-        <translation type="unfinished"/>
+        <translation>Crear un documento nuevo</translation>
     </message>
     <message>
         <source>Open an existing document</source>
-        <translation type="unfinished"/>
+        <translation>Abrir un documento existente</translation>
     </message>
     <message>
         <source>Print the document</source>
-        <translation type="unfinished"/>
+        <translation>Imprimir el documento</translation>
     </message>
     <message>
         <source>Save the current document</source>
-        <translation type="unfinished"/>
+        <translation>Guardar el documento actual</translation>
     </message>
     <message>
         <source>Copy item properties</source>
@@ -1489,11 +1489,11 @@
     </message>
     <message>
         <source>Insert a line</source>
-        <translation type="unfinished"/>
+        <translation>Insertar una línea</translation>
     </message>
     <message>
         <source>Insert a polygon</source>
-        <translation type="unfinished"/>
+        <translation>Insertar un polígono</translation>
     </message>
     <message>
         <source>Insert a render frame</source>
@@ -1505,15 +1505,15 @@
     </message>
     <message>
         <source>Insert a spiral</source>
-        <translation type="unfinished"/>
+        <translation>Insertar un espiral</translation>
     </message>
     <message>
         <source>Insert a table</source>
-        <translation type="unfinished"/>
+        <translation>Insertar una tabla</translation>
     </message>
     <message>
         <source>Insert a text frame</source>
-        <translation type="unfinished"/>
+        <translation>Insertar un marco de texto</translation>
     </message>
     <message>
         <source>Link text frames</source>
@@ -1521,7 +1521,7 @@
     </message>
     <message>
         <source>Measurements</source>
-        <translation type="unfinished"/>
+        <translation>Medidas</translation>
     </message>
     <message>
         <source>Insert link annotation</source>
@@ -1561,11 +1561,11 @@
     </message>
     <message>
         <source>Rotate an item</source>
-        <translation type="unfinished"/>
+        <translation>Rotar un ítem</translation>
     </message>
     <message>
         <source>Select an item</source>
-        <translation type="unfinished"/>
+        <translation>Seleccione un ítem</translation>
     </message>
     <message>
         <source>Unlink text frames</source>
@@ -1625,7 +1625,7 @@
     </message>
     <message>
         <source>Calligraphic Line</source>
-        <translation type="unfinished"/>
+        <translation>Línea caligráfica</translation>
     </message>
     <message>
         <source>&amp;Freehand Line</source>
@@ -1689,11 +1689,11 @@
     </message>
     <message>
         <source>&amp;Downloads</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Descargas</translation>
     </message>
     <message>
         <source>&amp;Resources</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Recursos</translation>
     </message>
 </context>
 <context>
@@ -2389,7 +2389,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Insert a barcode</source>
-        <translation type="unfinished"/>
+        <translation>Insertar un código de barras</translation>
     </message>
 </context>
 <context>
@@ -2472,31 +2472,31 @@ Configuration invalid</source>
     </message>
     <message>
         <source>EAN-13</source>
-        <translation type="unfinished"/>
+        <translation>EAN-13</translation>
     </message>
     <message>
         <source>EAN-8</source>
-        <translation type="unfinished"/>
+        <translation>EAN-8</translation>
     </message>
     <message>
         <source>UPC-A</source>
-        <translation type="unfinished"/>
+        <translation>UPC-A</translation>
     </message>
     <message>
         <source>UPC-E</source>
-        <translation type="unfinished"/>
+        <translation>UPC-E</translation>
     </message>
     <message>
         <source>EAN-5</source>
-        <translation type="unfinished"/>
+        <translation>EAN-5</translation>
     </message>
     <message>
         <source>EAN-2</source>
-        <translation type="unfinished"/>
+        <translation>EAN-2</translation>
     </message>
     <message>
         <source>ISBN</source>
-        <translation type="unfinished"/>
+        <translation>ISBN</translation>
     </message>
     <message>
         <source>Code-39</source>
@@ -2508,7 +2508,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>UCC/EAN-128</source>
-        <translation type="unfinished"/>
+        <translation>UCC/EAN-128</translation>
     </message>
     <message>
         <source>Rationalized Codabar</source>
@@ -2520,7 +2520,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>ITF-14</source>
-        <translation type="unfinished"/>
+        <translation>ITF-14</translation>
     </message>
     <message>
         <source>Code 2 of 5</source>
@@ -2536,7 +2536,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>MSI</source>
-        <translation type="unfinished"/>
+        <translation>MSI</translation>
     </message>
     <message>
         <source>Plessey</source>
@@ -3174,38 +3174,38 @@ Please choose another one.</source>
     </message>
     <message>
         <source>HLC</source>
-        <translation type="unfinished"/>
+        <translation>HLC</translation>
     </message>
     <message>
         <source>L:</source>
-        <translation type="unfinished"/>
+        <translation>L:</translation>
     </message>
     <message>
         <source>a:</source>
-        <translation type="unfinished"/>
+        <translation>a:</translation>
     </message>
     <message>
         <source>b:</source>
-        <translation type="unfinished"/>
+        <translation>b:</translation>
     </message>
     <message>
         <source>H:</source>
-        <translation type="unfinished"/>
+        <translation>H:</translation>
     </message>
 </context>
 <context>
     <name>CMYKChooseBase</name>
     <message>
         <source>Edit Color</source>
-        <translation type="unfinished"/>
+        <translation>Editar Color</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Nombre:</translation>
     </message>
     <message>
         <source>Color &amp;Model</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Modelo de Color</translation>
     </message>
     <message>
         <source>Is Spot Color</source>
@@ -3213,43 +3213,43 @@ Please choose another one.</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"/>
+        <translation>Nuevo</translation>
     </message>
     <message>
         <source>Old</source>
-        <translation type="unfinished"/>
+        <translation>Antiguo</translation>
     </message>
     <message>
         <source>C:</source>
-        <translation type="unfinished"/>
+        <translation>C:</translation>
     </message>
     <message>
         <source> %</source>
-        <translation type="unfinished"/>
+        <translation> %</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"/>
+        <translation>...</translation>
     </message>
     <message>
         <source>M:</source>
-        <translation type="unfinished"/>
+        <translation>M:</translation>
     </message>
     <message>
         <source>Y:</source>
-        <translation type="unfinished"/>
+        <translation>Y:</translation>
     </message>
     <message>
         <source>K:</source>
-        <translation type="unfinished"/>
+        <translation>K:</translation>
     </message>
 </context>
 <context>
@@ -3989,7 +3989,7 @@ resolución actual:  %2 x %3 DPI</translation>
     </message>
     <message>
         <source>Issues: %1</source>
-        <translation type="unfinished"/>
+        <translation>Problemas: %1</translation>
     </message>
     <message>
         <source>Object colorspace is not CMYK or spot</source>
@@ -4001,7 +4001,7 @@ resolución actual:  %2 x %3 DPI</translation>
     </message>
     <message>
         <source>Empty Text Frame</source>
-        <translation type="unfinished"/>
+        <translation>Marco de Texto Vacío</translation>
     </message>
     <message>
         <source>Indicates that editorial changes have been made to a PDF are still present or your PDF contains unprintable annotation items. They may cause issues in professional printing. Also helpful reminder if you are wanting to publish a final draft without editorial relics.</source>
@@ -4214,35 +4214,35 @@ resolución actual:  %2 x %3 DPI</translation>
     </message>
     <message>
         <source>Monochromatic Light</source>
-        <translation type="unfinished"/>
+        <translation>Luz Monocromática</translation>
     </message>
     <message>
         <source>Monochromatic Dark</source>
-        <translation type="unfinished"/>
+        <translation>Oscuro Monocromática</translation>
     </message>
     <message>
         <source>1st. Analogous</source>
-        <translation type="unfinished"/>
+        <translation>1er. Análogo</translation>
     </message>
     <message>
         <source>2nd. Analogous</source>
-        <translation type="unfinished"/>
+        <translation>2do. Análogo</translation>
     </message>
     <message>
         <source>1st. Split</source>
-        <translation type="unfinished"/>
+        <translation>1ra. División</translation>
     </message>
     <message>
         <source>2nd. Split</source>
-        <translation type="unfinished"/>
+        <translation>2da. División</translation>
     </message>
     <message>
         <source>3rd. Split</source>
-        <translation type="unfinished"/>
+        <translation>3ra. División</translation>
     </message>
     <message>
         <source>4th. Split</source>
-        <translation type="unfinished"/>
+        <translation>4ta. División</translation>
     </message>
     <message>
         <source>1st. Triadic</source>
@@ -4836,7 +4836,7 @@ resolución actual:  %2 x %3 DPI</translation>
     </message>
     <message>
         <source>Insert Mark</source>
-        <translation type="unfinished"/>
+        <translation>Insertar Marca</translation>
     </message>
     <message>
         <source>Image</source>
@@ -4876,7 +4876,7 @@ resolución actual:  %2 x %3 DPI</translation>
     </message>
     <message>
         <source>&amp;Paste Here</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Pegar Aqui</translation>
     </message>
     <message>
         <source>Paste Recent</source>
@@ -4884,7 +4884,7 @@ resolución actual:  %2 x %3 DPI</translation>
     </message>
     <message>
         <source>Content</source>
-        <translation type="unfinished"/>
+        <translation>Contenido</translation>
     </message>
 </context>
 <context>
@@ -5242,11 +5242,11 @@ resolución actual:  %2 x %3 DPI</translation>
     </message>
     <message>
         <source>Import Option:</source>
-        <translation type="unfinished"/>
+        <translation>Importar Opción:</translation>
     </message>
     <message>
         <source>Keep original size</source>
-        <translation type="unfinished"/>
+        <translation>Mantener tamaño original</translation>
     </message>
     <message>
         <source>Downscale to page size</source>
@@ -5506,7 +5506,7 @@ resolución actual:  %2 x %3 DPI</translation>
     </message>
     <message>
         <source>Show</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -5993,11 +5993,11 @@ Usa 72 dpi para imágenes dirigidas a verse en pantalla</translation>
     </message>
     <message>
         <source>Prefix:</source>
-        <translation type="unfinished"/>
+        <translation>Prefijo:</translation>
     </message>
     <message>
         <source>No Background</source>
-        <translation type="unfinished"/>
+        <translation>Sin Fondo</translation>
     </message>
     <message>
         <source>Don&apos;t export Page Background</source>
@@ -6174,7 +6174,7 @@ Usa 72 dpi para imágenes dirigidas a verse en pantalla</translation>
     <name>FhPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Importando: %1</translation>
     </message>
     <message>
         <source>Analyzing File:</source>
@@ -7178,19 +7178,19 @@ actual, convirtiendo los datos vectoriales en objetos de Scribus.</translation>
     <name>ImportCdrPlugin</name>
     <message>
         <source>Import Corel Draw...</source>
-        <translation type="unfinished"/>
+        <translation>Importar Corel Draw...</translation>
     </message>
     <message>
         <source>Corel Draw</source>
-        <translation type="unfinished"/>
+        <translation>Corel Draw</translation>
     </message>
     <message>
         <source>Corel Draw CDR (*.cdr *.CDR)</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Corel Draw CDR (*.cdr *.CDR)</translation>
     </message>
     <message>
         <source>Imports Corel Draw Files</source>
-        <translation type="unfinished"/>
+        <translation>Importa Archivos de Corel Draw</translation>
     </message>
     <message>
         <source>Imports most Corel Draw files into the current document,
@@ -7199,7 +7199,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Corel Draw (*.cdr *.CDR)</source>
-        <translation type="unfinished"/>
+        <translation>Corel Draw (*.cdr *.CDR)</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7221,7 +7221,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     <name>ImportCgmPlugin</name>
     <message>
         <source>Import Cgm...</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Importar Cgm...</translation>
     </message>
     <message>
         <source>CGM File</source>
@@ -7262,11 +7262,11 @@ actual, convirtiendo los datos vectoriales en objetos de Scribus.</translation>
     <name>ImportCvgPlugin</name>
     <message>
         <source>Import Cvg...</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Importar Cvg...</translation>
     </message>
     <message>
         <source>Imports Cvg Files</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Importa Archivos Cvg</translation>
     </message>
     <message>
         <source>Imports most Cvg files into the current document,
@@ -7295,7 +7295,7 @@ converting their vector data into Scribus objects.</source>
     <name>ImportDrwPlugin</name>
     <message>
         <source>Import DRW...</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Importar DRW...</translation>
     </message>
     <message>
         <source>Micrografx DRW File</source>
@@ -7321,42 +7321,42 @@ actual, convirtiendo los datos vectoriales en objetos de Scribus.</translation>
     </message>
     <message>
         <source>Micrografx DRW</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Micrografx DRW</translation>
     </message>
     <message>
         <source>Micrografx DRW (*.drw *.DRW)</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Micrografx DRW (*.drw *.DRW)</translation>
     </message>
     <message>
         <source>Import Micrografx Draw...</source>
-        <translation type="unfinished"/>
+        <translation>Importar Micrografx Draw...</translation>
     </message>
     <message>
         <source>Micrografx Draw</source>
-        <translation type="unfinished"/>
+        <translation>Micrografx Draw</translation>
     </message>
     <message>
         <source>Micrografx Draw (*.drw *.DRW)</source>
-        <translation type="unfinished"/>
+        <translation>Micrografx Draw (*.drw *.DRW)</translation>
     </message>
 </context>
 <context>
     <name>ImportEmfPlugin</name>
     <message>
         <source>Import EMF...</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Importar EMF...</translation>
     </message>
     <message>
         <source>EMF</source>
-        <translation type="unfinished"/>
+        <translation>EMF</translation>
     </message>
     <message>
         <source>EMF (*.emf *.EMF)</source>
-        <translation type="unfinished"/>
+        <translation>EMF (*.emf *.EMF)</translation>
     </message>
     <message>
         <source>Imports EMF Files</source>
-        <translation type="unfinished"/>
+        <translation>Importa Archivos EMF</translation>
     </message>
     <message>
         <source>Imports most EMF files into the current document,
@@ -7384,19 +7384,19 @@ converting their vector data into Scribus objects.</source>
     <name>ImportFhPlugin</name>
     <message>
         <source>Import Freehand...</source>
-        <translation type="unfinished"/>
+        <translation>Importar Freehand...</translation>
     </message>
     <message>
         <source>Freehand</source>
-        <translation type="unfinished"/>
+        <translation>Freehand</translation>
     </message>
     <message>
         <source>Freehand (*.fh* *.FH*)</source>
-        <translation type="unfinished"/>
+        <translation>Freehand (*.fh* *.FH*)</translation>
     </message>
     <message>
         <source>Imports Freehand Files</source>
-        <translation type="unfinished"/>
+        <translation>Importa Archivos Freehand</translation>
     </message>
     <message>
         <source>Imports most Freehand files into the current document,
@@ -7453,7 +7453,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Imports IDML Files</source>
-        <translation>Importar archivos IDML</translation>
+        <translation>Importa archivos IDML</translation>
     </message>
     <message>
         <source>Imports most IDML files into the current document,
@@ -7478,29 +7478,29 @@ actual, convirtiendo los datos vectoriales en objetos de Scribus.</translation>
     <name>ImportOdgPlugin</name>
     <message>
         <source>Import ODF Document...</source>
-        <translation type="unfinished"/>
+        <translation>Importar Documento ODF...</translation>
     </message>
     <message>
         <source>ODF Drawing</source>
         <comment>Import/export format name</comment>
-        <translation type="unfinished"/>
+        <translation>Dibujo ODF</translation>
     </message>
     <message>
         <source>ODF Drawing (*.odg *.ODG *.fodg *.FODG)</source>
-        <translation type="unfinished"/>
+        <translation>Dibujo ODF (*.odg *.ODG *.fodg *.FODG)</translation>
     </message>
     <message>
         <source>ODF Presentation</source>
         <comment>Import/export format name</comment>
-        <translation type="unfinished"/>
+        <translation>Presentación PDF</translation>
     </message>
     <message>
         <source>ODF Presentation (*.odp *.ODP *.fodp *.FODP)</source>
-        <translation type="unfinished"/>
+        <translation>Presentación ODF (*.odp *.ODP *.fodp *.FODP)</translation>
     </message>
     <message>
         <source>Imports ODF Drawing Files</source>
-        <translation type="unfinished"/>
+        <translation>Importa Dibujo ODF</translation>
     </message>
     <message>
         <source>Imports most ODF Drawing files into the current document,
@@ -7533,19 +7533,19 @@ actual, conviritiendo los datos de vectores en objetos de Scribus.</translation>
     <name>ImportPagesPlugin</name>
     <message>
         <source>Import iWorks Pages...</source>
-        <translation type="unfinished"/>
+        <translation>Importar iWorks Pages...</translation>
     </message>
     <message>
         <source>iWorks Pages</source>
-        <translation type="unfinished"/>
+        <translation>iWorks Pages</translation>
     </message>
     <message>
         <source>iWorks Pages (*.pages *.PAGES)</source>
-        <translation type="unfinished"/>
+        <translation>iWorks Pages (*.pages *.PAGES)</translation>
     </message>
     <message>
         <source>Imports iWorks Pages Files</source>
-        <translation type="unfinished"/>
+        <translation>Importa Archivos iWorks Pages</translation>
     </message>
     <message>
         <source>Imports most iWorks Pages files into the current document,
@@ -7561,7 +7561,7 @@ converting their vector data into Scribus objects.</source>
     <name>ImportPctPlugin</name>
     <message>
         <source>Import Pict...</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Importar Pict...</translation>
     </message>
     <message>
         <source>Imports Pict Files</source>
@@ -7598,7 +7598,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Imports PDF Files</source>
-        <translation>Importar archivos PDF</translation>
+        <translation>Importa archivos PDF</translation>
     </message>
     <message>
         <source>Imports most PDF files into the current document,
@@ -7687,7 +7687,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Imports Dia shape Files</source>
-        <translation>Importar archivos de forma Dia</translation>
+        <translation>Importa archivos de forma Dia</translation>
     </message>
     <message>
         <source>Imports most Dia shapes into the current document,
@@ -7732,7 +7732,7 @@ actual, convirtiendo los datos vectoriales en objetos de Scribus.</translation>
     </message>
     <message>
         <source>Imports Sml Files</source>
-        <translation>Importar archivos Sml</translation>
+        <translation>Importa archivos Sml</translation>
     </message>
     <message>
         <source>Imports most Kivio stencils into the current document,
@@ -9427,7 +9427,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">&amp;Nombre:</translation>
     </message>
     <message>
         <source>New Master Page</source>
@@ -14600,15 +14600,15 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Reversed</source>
-        <translation type="unfinished"/>
+        <translation>Invertido</translation>
     </message>
     <message>
         <source>*</source>
-        <translation type="unfinished"/>
+        <translation>*</translation>
     </message>
     <message>
         <source>CJK</source>
-        <translation type="unfinished"/>
+        <translation>CJK</translation>
     </message>
 </context>
 <context>
@@ -17133,7 +17133,7 @@ Un valor de 0 significa sin límite.</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Todo</translation>
     </message>
     <message>
         <source>Length:</source>
