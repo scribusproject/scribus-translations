@@ -64,6 +64,7 @@ Organizing Transifex vs. SVN
 _Language that are checked can be safely added in to SVN_
 
 -[ ] Basque  
+
 -[ ] French  
 -[ ] Hungarian  
 -[ ] Galician  
