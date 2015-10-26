@@ -27,7 +27,7 @@ Translations are managed via [Transifex](https://www.transifex.com/projects/p/sc
 | Polish                |pl_PL          |                         |           |     |
 | Galacian              |gl             |                         |           |     |
 | Hungarian             |hu             |                         |           |     |
-| Danish (Denmark       |da_DK          |                         |           |     |
+| Danish (Denmark)      |da_DK          |                         |           |     |
 | Norwegian Bokmål      |nb_NO          |                         |           |     |
 | Finnish               |fi             |                         |           |     |
 | Italian               |it             |                         |           |     |
