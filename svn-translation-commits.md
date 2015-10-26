@@ -1,26 +1,14 @@
-20487 	1d 03h 	jghali 	/trunk/Scribus/scribus/ui/ 	#13444, third part: fix non-switching translations in line style widget 	 
-
-20484 	1d 10h 	jghali 	/trunk/Scribus/scribus/ui/ 	#13444, second part: fix non-switching translations in table and cell styles widgets
-
-20482 	1d 23h 	jghali 	/trunk/Scribus/scribus/ui/ 	#13444, first part: fix non-switching translations in text styles widgets 	 
-
-20481 	2d 02h 	jghali 	/trunk/Scribus/scribus/ui/ 	#13442: translation of "name" column not switching in layer palette 	 
-
-20479 	2d 04h 	jghali 	/trunk/Scribus/scribus/ui/ 	#13441: Scrapbook Non-switching translations 	 
-
 20472 	5d 06h 	craig 	/trunk/Scribus/resources/translations/ 	#13429: Updated Pl translation 	 
 
 20458 	13d 08h 	jghali 	/branches/Version14x/Scribus/resources/translations/po/ 	#13407: Polish translation update <mhanski> 	 
 
 20455 	14d 01h 	jghali 	/branches/Version14x/Scribus/resources/translations/po/ 	#13404: Updated Danish Translation <mlanglo> 	 
 
-20434 	25d 00h 	craig 	/trunk/Scribus/ 	Fix my email in TRANSLATION file 	 
-
 20433 	25d 01h 	craig 	/trunk/Scribus/resources/translations/ 	Bump ts files 	 
 
 20404 	34d 05h 	craig 	/branches/Version14x/Scribus/ 	Bump all ts files 	 
 
-20403 	34d 05h 	craig 	/branches/Version14x/Scribus/resources/translations/po/ 	#13353: Apply transifex sourced translations 	 
+**20403 	34d 05h 	craig 	/branches/Version14x/Scribus/resources/translations/po/ 	#13353: Apply transifex sourced translations**
 
 20395 	36d 00h 	craig 	/trunk/Scribus/resources/translations/ 	Bump en_GB/en_AU to 100% 	 
 
@@ -28,7 +16,9 @@
 
 20391 	36d 01h 	craig 	/trunk/Scribus/resources/translations/ 	Bump ts files for string freeze 	 
 
-20389 	37d 00h 	craig 	/branches/Version14x/Scribus/ 	Bump ts files for string freeze 	 
+20389 	37d 00h 	craig 	/branches/Version14x/Scribus/ 	Bump ts files for string freeze
+
+###String Freeze from here on up
 
 20359 	50d 01h 	craig 	/trunk/Scribus/resources/translations/ 	Fix French translation of HSV to just be TSL 	 
 
@@ -99,6 +89,8 @@
 20032 	180d 04h 	craig 	/trunk/Scribus/ 	Bump ts files 	 
 
 20031 	180d 04h 	jghali 	/trunk/Scribus/resources/translations/ 	Partial update of fr translation 	 
+
+### Approximation of when official Scribus Transifex repo was opened
 
 20017 	185d 15h 	christoph 	/trunk/Scribus/resources/translations/ 	DE translations for 1.5.0 	 
 
