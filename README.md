@@ -61,7 +61,7 @@ Translations are managed via [Transifex](https://www.transifex.com/projects/p/sc
 
 ## Tracking correct Translations
 Organizing Transifex vs. SVN  
-_Language that are checked can be safely added in to SVN_
+_Language that are checked need to be inspected before adding to SVN_
 
 - [ ] Basque    
 - [ ] French    
@@ -74,7 +74,7 @@ _Language that are checked can be safely added in to SVN_
 - [ ] German    
 - [ ] German (Switzerland)    
 - [ ] Spanish (Spain)    
-- [ ] Polish (Poland)    
+- [x] Polish (Poland)  translator: maciej/mhanski[v1.5.1 Oct18 #13429](http://bugs.scribus.net/view.php?id=13429) & [v1.4.6 Oct10 #13407](http://bugs.scribus.net/view.php?id=13407)
 - [ ] Russian    
 - [ ] Catalan    
 - [ ] Lithuanian (Lithuania)    
