@@ -67,14 +67,17 @@ _Language that are checked need to be inspected before adding to SVN_
 - [ ] French    
 - [ ] Hungarian    
 - [ ] Galician    
-- [x] Danish (Denmark)  translato: [mlanglo #13404](http://bugs.scribus.net/view.php?id=13404)
+- [x] Danish (Denmark)  translator: mlanglo 
+  - [v1.4.6 #13404](http://bugs.scribus.net/view.php?id=13404)
 - [ ] English (Australia)    
 - [ ] English (United Kingdom)    
 - [ ] Italian    
 - [ ] German    
 - [ ] German (Switzerland)    
 - [ ] Spanish (Spain)    
-- [x] Polish (Poland)  translator: maciej/mhanski[v1.5.1 Oct18 #13429](http://bugs.scribus.net/view.php?id=13429) & [v1.4.6 Oct10 #13407](http://bugs.scribus.net/view.php?id=13407)
+- [x] Polish (Poland) translator: maciej/mhanski
+  - [v1.5.1 Oct18 #13429](http://bugs.scribus.net/view.php?id=13429)  
+  - [v1.4.6 Oct10 #13407](http://bugs.scribus.net/view.php?id=13407)
 - [ ] Russian    
 - [ ] Catalan    
 - [ ] Lithuanian (Lithuania)    
