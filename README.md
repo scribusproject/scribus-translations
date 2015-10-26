@@ -58,3 +58,57 @@ Translations are managed via [Transifex](https://www.transifex.com/projects/p/sc
 | Korean                |ko             |                         |           |     |
 | Arabic                |ar             |                         |           |     |
 | Hebrew                |he_IL          | luzpaz                  |   :+1:    |     |
+
+## Tracking correct Translations
+Organizing Transifex vs. SVN  
+_Language that are checked can be safely added in to SVN_
+
+-[ ]Basque		
+-[ ]French		
+-[ ]Hungarian		
+-[ ]Galician		
+-[ ]Danish (Denmark)		
+-[ ]English (Australia)		
+-[ ]English (United Kingdom)		
+-[ ]Italian		
+-[ ]German		
+-[ ]German (Switzerland)		
+-[ ]Spanish (Spain)		
+-[ ]Polish (Poland)		
+-[ ]Russian		
+-[ ]Catalan		
+-[ ]Lithuanian (Lithuania)		
+-[ ]Estonian		
+-[ ]Breton		
+-[ ]Slovak (Slovakia)		
+-[ ]Japanese		
+-[ ]Czech (Czech Republic)		
+-[ ]Dutch		
+-[ ]Korean		
+-[ ]Norwegian		
+-[ ]Chinese (China)		
+-[ ]Slovenian		
+-[ ]Chinese (Taiwan)		
+-[ ]Portuguese (Brazil)		
+-[ ]Sanskrit		
+-[ ]Finnish		
+-[ ]Greek		
+-[ ]Portuguese (Portugal)		
+-[ ]Turkish		
+-[ ]Ukrainian		
+-[ ]Welsh		
+-[ ]Swedish		
+-[ ]Serbian		
+-[ ]Hebrew (Israel)		
+-[ ]Afrikaans		
+-[ ]Albanian		
+-[ ]Indonesian		
+-[ ]Arabic		
+-[ ]Kannada (India)		
+-[ ]Bulgarian		
+-[ ]Esperanto		
+-[ ]Telugu		
+-[ ]English (India)		
+-[ ]Hindi (India)		
+-[ ]Kabyle		
+-[ ]Somali 		
