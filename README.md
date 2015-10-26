@@ -64,7 +64,8 @@ Organizing Transifex vs. SVN
 _Language that are checked need to be inspected before adding to SVN_
 
 - [ ] Basque    
-- [ ] French    
+- [x] French    translator:
+  - [r20359](http://scribus.net/websvn/revision.php?repname=Scribus&path=%2F&rev=20359&peg=20359)
 - [ ] Hungarian    
 - [ ] Galician    
 - [x] Danish (Denmark)  translator: mlanglo 
