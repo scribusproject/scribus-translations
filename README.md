@@ -72,7 +72,7 @@ _Language that are checked need to be inspected before adding to SVN_
   - [v1.4.6 #13404](http://bugs.scribus.net/view.php?id=13404)
 - [ ] English (Australia)    
 - [ ] English (United Kingdom)    
-- [ ] ~~Italian~~ :-1: Main translator prefers not to use Transifex 
+- [ ] ~~Italian~~ :-1: Main translator prefers not to use Transifex ([IRC Chat](https://github.com/scribusproject/scribus-translations/blob/master/italian-language.md))
 - [ ] German    
 - [ ] German (Switzerland)    
 - [ ] Spanish (Spain)    
