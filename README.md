@@ -67,7 +67,7 @@ _Language that are checked need to be inspected before adding to SVN_
 - [ ] French    
 - [ ] Hungarian    
 - [ ] Galician    
-- [ ] Danish (Denmark)    
+- [x] Danish (Denmark)  translato: [mlanglo #13404](http://bugs.scribus.net/view.php?id=13404)
 - [ ] English (Australia)    
 - [ ] English (United Kingdom)    
 - [ ] Italian    
