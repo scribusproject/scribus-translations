@@ -30,7 +30,7 @@ Translations are managed via [Transifex](https://www.transifex.com/projects/p/sc
 | Danish (Denmark)      |da_DK          |                         |           |     |
 | Norwegian Bokmål      |nb_NO          |                         |           |     |
 | Finnish               |fi             |                         |           |     |
-| Italian               |it             |                         |           |     |
+| Italian               |it             | @FirasH                 |           |:+1: |
 | Catalan               |ca             |                         |           |     |
 | Greek                 |el             |                         |           |     |
 | Turkish               |tr             |                         |           |     |
@@ -72,7 +72,7 @@ _Language that are checked need to be inspected before adding to SVN_
   - [v1.4.6 #13404](http://bugs.scribus.net/view.php?id=13404)
 - [ ] English (Australia)    
 - [ ] English (United Kingdom)    
-- [ ] Italian    
+- [ ] ~~Italian~~ :-1: Main translator prefers not to use Transifex 
 - [ ] German    
 - [ ] German (Switzerland)    
 - [ ] Spanish (Spain)    
