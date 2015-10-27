@@ -7900,11 +7900,11 @@ actual, convirtiendo los datos vectoriales en objetos de Scribus.</translation>
     </message>
     <message>
         <source>XARA</source>
-        <translation type="unfinished"/>
+        <translation>XARA</translation>
     </message>
     <message>
         <source>XARA (*.xar *.XAR)</source>
-        <translation type="unfinished"/>
+        <translation>XARA (*.xar *.XAR)</translation>
     </message>
 </context>
 <context>
@@ -7932,23 +7932,23 @@ actual, conviritiendo los datos de vector en objetos Scribus.</translation>
     <name>ImportXpsPlugin</name>
     <message>
         <source>Import Xps...</source>
-        <translation type="unfinished"/>
+        <translation>Importar Xps...</translation>
     </message>
     <message>
         <source>Microsoft XPS</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft XPS</translation>
     </message>
     <message>
         <source>Microsoft XPS (*.xps *.XPS)</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft XPS (*.xps *.XPS)</translation>
     </message>
     <message>
         <source>Open XML Paper</source>
-        <translation type="unfinished"/>
+        <translation>Open XML Paper</translation>
     </message>
     <message>
         <source>Open XML Paper (*.oxps *.OXPS)</source>
-        <translation type="unfinished"/>
+        <translation>Open XML Paper (*.oxps *.OXPS)</translation>
     </message>
     <message>
         <source>Imports XPS and Open XML Paper Files</source>
@@ -9423,7 +9423,7 @@ p, li { white-space: pre-wrap; }
     <name>MasterPagesPalette</name>
     <message>
         <source>Edit Master Pages</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Editar Páginas Maestras</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
@@ -9431,39 +9431,39 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>New Master Page</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Nueva Página Maestra</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Nombre:</translation>
     </message>
     <message>
         <source>New MasterPage</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Nueva PáginaMaestra</translation>
     </message>
     <message>
         <source>Copy #%1 of </source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Copia #%1 de </translation>
     </message>
     <message>
         <source>Duplicate the selected master page</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Duplicar la página maestra seleccionada</translation>
     </message>
     <message>
         <source>Delete the selected master page</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Eliminar la página maestra seleccionada</translation>
     </message>
     <message>
         <source>Add a new master page</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Añadir una nueva página maestra</translation>
     </message>
     <message>
         <source>Import master pages from another document</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Importar páginas maestras de otro documento</translation>
     </message>
     <message>
         <source>New Master Page %1</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Nueva Página Maestra %1</translation>
     </message>
     <message>
         <source>Unable to Rename Master Page</source>
@@ -9475,15 +9475,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Rename Master Page</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Renombrar Página Maestra</translation>
     </message>
     <message>
         <source>New Name:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Nuevo Nombre:</translation>
     </message>
     <message>
         <source>Copy #%1 of %2</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Copia #%1 de %2</translation>
     </message>
     <message>
         <source>This master page is used at least once in the document.</source>
@@ -13497,11 +13497,11 @@ Por favor, elija otro.</translation>
     </message>
     <message>
         <source>Select a directory</source>
-        <translation type="unfinished"/>
+        <translation>Selecciona un directorio</translation>
     </message>
     <message>
         <source>Add filter</source>
-        <translation type="unfinished"/>
+        <translation>Añadir filtro</translation>
     </message>
     <message>
         <source>Filter criteria</source>
@@ -13513,15 +13513,15 @@ Por favor, elija otro.</translation>
     </message>
     <message>
         <source>Type name</source>
-        <translation type="unfinished"/>
+        <translation>Nombre del tipo</translation>
     </message>
     <message>
         <source>Set date</source>
-        <translation type="unfinished"/>
+        <translation>Fijar fecha</translation>
     </message>
     <message>
         <source>Set size</source>
-        <translation type="unfinished"/>
+        <translation>Fijar tamaño</translation>
     </message>
     <message>
         <source>Select file type(s)</source>
@@ -16128,7 +16128,7 @@ Un valor de 0 significa sin límite.</translation>
     </message>
     <message>
         <source>Outline All</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Trazar Todas</translation>
     </message>
     <message>
         <source>Fonts to Embed</source>
@@ -18664,7 +18664,7 @@ Nota: los formularios PDF no se exportarán.</translation>
     </message>
     <message>
         <source>Blur:</source>
-        <translation type="unfinished"/>
+        <translation>Desenfocar:</translation>
     </message>
     <message>
         <source>Color:</source>
@@ -18869,7 +18869,7 @@ Transparency</source>
     </message>
     <message>
         <source>Blur:</source>
-        <translation type="unfinished"/>
+        <translation>Desenfocar:</translation>
     </message>
     <message>
         <source> px</source>
@@ -18880,7 +18880,7 @@ Transparency</source>
     <name>PropertiesPalette_Shape</name>
     <message>
         <source> pt</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">pt</translation>
     </message>
     <message>
         <source>Shape:</source>
@@ -19546,7 +19546,7 @@ Transparency</source>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"/>
+        <translation>Arriba</translation>
     </message>
     <message>
         <source>Middle</source>
@@ -19554,7 +19554,7 @@ Transparency</source>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Inferior</translation>
     </message>
 </context>
 <context>
@@ -19601,7 +19601,7 @@ Transparency</source>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"/>
+        <translation>Arriba</translation>
     </message>
     <message>
         <source>Middle</source>
@@ -19609,7 +19609,7 @@ Transparency</source>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"/>
+        <translation>Inferior</translation>
     </message>
 </context>
 <context>
@@ -20293,7 +20293,7 @@ Scripter de Scribus para obtener más información. </translation>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"/>
+        <translation>Seleccionar Color</translation>
     </message>
 </context>
 <context>
@@ -20548,7 +20548,7 @@ Compruebe la ruta y el nombre.</translation>
     </message>
     <message>
         <source>Look in:</source>
-        <translation type="unfinished"/>
+        <translation>Mirar en:</translation>
     </message>
     <message>
         <source>Forward</source>
@@ -20572,7 +20572,7 @@ Compruebe la ruta y el nombre.</translation>
     </message>
     <message>
         <source>&amp;New Folder</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Nueva Carpeta</translation>
     </message>
 </context>
 <context>
@@ -21821,7 +21821,7 @@ código Python esta lista no es exhaustiva debido a las excepciones de las funci
     </message>
     <message>
         <source>table &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">tabla &apos;%1&apos;</translation>
     </message>
     <message>
         <source>memcpy table: %1 %2 %3</source>
@@ -21990,11 +21990,11 @@ código Python esta lista no es exhaustiva debido a las excepciones de las funci
     </message>
     <message>
         <source>C&amp;reate</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">C&amp;rear</translation>
     </message>
     <message>
         <source>&amp;Import</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">&amp;Importar</translation>
     </message>
     <message>
         <source>Thai</source>
@@ -22311,7 +22311,7 @@ código Python esta lista no es exhaustiva debido a las excepciones de las funci
     <message>
         <source>°</source>
         <comment>degrees, unicode 0xB0</comment>
-        <translation type="unfinished"/>
+        <translation>°</translation>
     </message>
     <message>
         <source>WMF Import</source>
@@ -23053,7 +23053,7 @@ Por eso la imagen pudiera no ser correcta</translation>
     </message>
     <message>
         <source>11x17</source>
-        <translation type="unfinished"/>
+        <translation>11x17</translation>
     </message>
     <message>
         <source>Pages Importer</source>
@@ -23077,7 +23077,7 @@ Por eso la imagen pudiera no ser correcta</translation>
     </message>
     <message>
         <source>Microsoft XPS (*.xps *.XPS);;All Files (*)</source>
-        <translation type="unfinished"/>
+        <translation>Microsoft XPS (*.xps *.XPS);;Todos los Archivos (*)</translation>
     </message>
     <message>
         <source>Output Settings:</source>
@@ -23097,19 +23097,19 @@ Por eso la imagen pudiera no ser correcta</translation>
     </message>
     <message>
         <source>Anii</source>
-        <translation type="unfinished"/>
+        <translation>Anii</translation>
     </message>
     <message>
         <source>Open Document Importer</source>
-        <translation type="unfinished"/>
+        <translation>Importador Open Document</translation>
     </message>
     <message>
         <source>OpenOffice.org Draw (*.sxd *.SXD);;All Files (*)</source>
-        <translation type="unfinished"/>
+        <translation>OpenOffice.org Draw (*.sxd *.SXD);;Todos los Archivos (*)</translation>
     </message>
     <message>
         <source>Corel Draw Importer</source>
-        <translation type="unfinished"/>
+        <translation>Importador Corel Draw</translation>
     </message>
     <message>
         <source>Open Raster Files</source>
@@ -23156,19 +23156,19 @@ Por eso la imagen pudiera no ser correcta</translation>
     </message>
     <message>
         <source>Bosnian</source>
-        <translation type="unfinished"/>
+        <translation>Bosnio</translation>
     </message>
     <message>
         <source>Serbian (Latin)</source>
-        <translation type="unfinished"/>
+        <translation>Serbio (Latín)</translation>
     </message>
     <message>
         <source>Telugu</source>
-        <translation type="unfinished"/>
+        <translation>Telugu</translation>
     </message>
     <message>
         <source>EMF Importer</source>
-        <translation type="unfinished"/>
+        <translation>Importador EMF</translation>
     </message>
     <message>
         <source>SVM Importer</source>
@@ -23212,7 +23212,7 @@ Por eso la imagen pudiera no ser correcta</translation>
     </message>
     <message>
         <source>Calamus CVG</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Calamus CVG</translation>
     </message>
     <message>
         <source>Word Perfect WPG</source>
@@ -23224,7 +23224,7 @@ Por eso la imagen pudiera no ser correcta</translation>
     </message>
     <message>
         <source>GraphicsMagick</source>
-        <translation type="unfinished"/>
+        <translation>GraphicsMagick</translation>
     </message>
     <message>
         <source>UniConvertor</source>
@@ -23232,7 +23232,7 @@ Por eso la imagen pudiera no ser correcta</translation>
     </message>
     <message>
         <source>Macintosh Pict</source>
-        <translation type="unfinished"/>
+        <translation>Macintosh Pict</translation>
     </message>
     <message>
         <source>&lt;fontEmbedding&gt; invalid</source>
@@ -23448,7 +23448,7 @@ Elija otro, por favor.</translation>
     </message>
     <message>
         <source>ID</source>
-        <translation type="unfinished"/>
+        <translation>ID</translation>
     </message>
     <message>
         <source>Location</source>
@@ -23464,7 +23464,7 @@ Elija otro, por favor.</translation>
     </message>
     <message>
         <source>Available</source>
-        <translation type="unfinished"/>
+        <translation>Disponible</translation>
     </message>
     <message>
         <source>Download</source>
@@ -25629,51 +25629,51 @@ actual, convirtiendo los datos de vectores en objetos Scribus.</translation>
     </message>
     <message>
         <source>Courier</source>
-        <translation type="unfinished"/>
+        <translation>Courier</translation>
     </message>
     <message>
         <source>Courier Bold</source>
-        <translation type="unfinished"/>
+        <translation>Courier Negrita</translation>
     </message>
     <message>
         <source>Courier Italic</source>
-        <translation type="unfinished"/>
+        <translation>Courie Cursiva </translation>
     </message>
     <message>
         <source>Courier Bold Italic</source>
-        <translation type="unfinished"/>
+        <translation>Courier Negrita Cursiva</translation>
     </message>
     <message>
         <source>Helvetica</source>
-        <translation type="unfinished"/>
+        <translation>Helvetica</translation>
     </message>
     <message>
         <source>Helvetica Bold</source>
-        <translation type="unfinished"/>
+        <translation>Helvetica Negrita</translation>
     </message>
     <message>
         <source>Helvetica Italic</source>
-        <translation type="unfinished"/>
+        <translation>Helvetica Cursiva</translation>
     </message>
     <message>
         <source>Helvetica Bold Italic</source>
-        <translation type="unfinished"/>
+        <translation>Helvetica Negrita Cursiva</translation>
     </message>
     <message>
         <source>Times</source>
-        <translation type="unfinished"/>
+        <translation>Times</translation>
     </message>
     <message>
         <source>Times Bold</source>
-        <translation type="unfinished"/>
+        <translation>Times Negrita</translation>
     </message>
     <message>
         <source>Times Italic</source>
-        <translation type="unfinished"/>
+        <translation>Times Cursiva</translation>
     </message>
     <message>
         <source>Times Bold Italic</source>
-        <translation type="unfinished"/>
+        <translation>Times Negrita Cursiva</translation>
     </message>
     <message>
         <source>Zapf Dingbats</source>
@@ -25681,27 +25681,27 @@ actual, convirtiendo los datos de vectores en objetos Scribus.</translation>
     </message>
     <message>
         <source>Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Símbolos</translation>
     </message>
     <message>
         <source>Plain Text</source>
-        <translation type="unfinished"/>
+        <translation>Texto sin Formato</translation>
     </message>
     <message>
         <source>9,999.99</source>
-        <translation type="unfinished"/>
+        <translation>9,999.99</translation>
     </message>
     <message>
         <source>9.999,99</source>
-        <translation type="unfinished"/>
+        <translation>9.999,99</translation>
     </message>
     <message>
         <source>9999.99</source>
-        <translation type="unfinished"/>
+        <translation>9999.99</translation>
     </message>
     <message>
         <source>9999,99</source>
-        <translation type="unfinished"/>
+        <translation>9999,99</translation>
     </message>
     <message>
         <source>m/d</source>
@@ -25866,7 +25866,7 @@ actual, convirtiendo los datos de vectores en objetos Scribus.</translation>
     </message>
     <message>
         <source>C&amp;onvert To</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">C&amp;onvertir A</translation>
     </message>
     <message>
         <source>Character</source>
@@ -25894,7 +25894,7 @@ actual, convirtiendo los datos de vectores en objetos Scribus.</translation>
     </message>
     <message>
         <source>C&amp;onvert to</source>
-        <translation type="unfinished"/>
+        <translation>C&amp;onvertir a</translation>
     </message>
     <message>
         <source>Duplicate/Transform</source>
@@ -25910,7 +25910,7 @@ actual, convirtiendo los datos de vectores en objetos Scribus.</translation>
     </message>
     <message>
         <source>Send to</source>
-        <translation type="unfinished"/>
+        <translation>Enviar a</translation>
     </message>
     <message>
         <source>Scrapbook</source>
@@ -25918,11 +25918,11 @@ actual, convirtiendo los datos de vectores en objetos Scribus.</translation>
     </message>
     <message>
         <source>Adjust</source>
-        <translation type="unfinished"/>
+        <translation>Ajustar</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished"/>
+        <translation>Imagen</translation>
     </message>
     <message>
         <source>Text Frame Links</source>
@@ -25934,31 +25934,31 @@ actual, convirtiendo los datos de vectores en objetos Scribus.</translation>
     </message>
     <message>
         <source>Marks</source>
-        <translation type="unfinished"/>
+        <translation>Marcas</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"/>
+        <translation>Zoom</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"/>
+        <translation>Vista preliminar</translation>
     </message>
     <message>
         <source>Measurement</source>
-        <translation type="unfinished"/>
+        <translation>Medidas</translation>
     </message>
     <message>
         <source>Text Frames</source>
-        <translation type="unfinished"/>
+        <translation>Marcos de Texto</translation>
     </message>
     <message>
         <source>Image Frames</source>
-        <translation type="unfinished"/>
+        <translation>Marcos de Imagen</translation>
     </message>
     <message>
         <source>Document</source>
-        <translation type="unfinished"/>
+        <translation>Documento</translation>
     </message>
     <message>
         <source>Grids and Guides</source>
@@ -26258,7 +26258,7 @@ Rotación: %4</translation>
     </message>
     <message>
         <source>C&amp;onvert To</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">C&amp;onvertir a</translation>
     </message>
     <message>
         <source>Ready</source>
@@ -26370,11 +26370,11 @@ Rotación: %4</translation>
     </message>
     <message>
         <source>&amp;Shade:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">&amp;Saturación:</translation>
     </message>
     <message>
         <source>Shade</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Saturación</translation>
     </message>
     <message>
         <source>An error occurred while opening monitor profile.
@@ -26622,7 +26622,7 @@ Considere utilizar el revisor de diseño para corregirlos</translation>
     </message>
     <message>
         <source>Measures</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Medidas</translation>
     </message>
     <message>
         <source>Text Frames</source>
@@ -26638,7 +26638,7 @@ Considere utilizar el revisor de diseño para corregirlos</translation>
     </message>
     <message>
         <source>S&amp;paces / Breaks</source>
-        <translation type="unfinished"/>
+        <translation>Es&amp;paciado / Rupturas</translation>
     </message>
     <message>
         <source> %</source>
@@ -26654,7 +26654,7 @@ Considere utilizar el revisor de diseño para corregirlos</translation>
     </message>
     <message>
         <source>Text Files (*.txt);;All Files (*)</source>
-        <translation type="unfinished"/>
+        <translation>Archivos de Texto (*.txt);;Todos los Archivos (*)</translation>
     </message>
     <message>
         <source>Editing Inline Item</source>
@@ -26686,11 +26686,11 @@ Considere utilizar el revisor de diseño para corregirlos</translation>
     </message>
     <message>
         <source>C&amp;onvert to</source>
-        <translation type="unfinished"/>
+        <translation>C&amp;onvertir a</translation>
     </message>
     <message>
         <source>%1 selected</source>
-        <translation type="unfinished"/>
+        <translation>%1 seleccionado</translation>
     </message>
     <message>
         <source>C&amp;reate</source>
@@ -26698,7 +26698,7 @@ Considere utilizar el revisor de diseño para corregirlos</translation>
     </message>
     <message>
         <source>Measurement</source>
-        <translation type="unfinished"/>
+        <translation>Medidas</translation>
     </message>
 </context>
 <context>
@@ -27416,7 +27416,7 @@ Considere utilizar el revisor de diseño para corregirlos</translation>
     </message>
     <message>
         <source>Delete all Shapes</source>
-        <translation type="unfinished"/>
+        <translation>Eliminar todas las Formas</translation>
     </message>
     <message>
         <source>Display Icons only</source>
@@ -27637,7 +27637,7 @@ Considere utilizar el revisor de diseño para corregirlos</translation>
     </message>
     <message>
         <source>Text Files (*.txt);;All Files(*)</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Archivos de Texto (*.txt);;Todos los Archivos (*)</translation>
     </message>
     <message>
         <source>Save as</source>
@@ -27773,7 +27773,7 @@ Considere utilizar el revisor de diseño para corregirlos</translation>
     </message>
     <message>
         <source>Text Files (*.txt);;All Files (*)</source>
-        <translation type="unfinished"/>
+        <translation>Archivos de Texto (*.txt);;Todos los Archivos (*)</translation>
     </message>
 </context>
 <context>
@@ -28204,7 +28204,7 @@ Considere utilizar el revisor de diseño para corregirlos</translation>
     </message>
     <message>
         <source>Available Fonts:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Tipografías Disponibles:</translation>
     </message>
     <message>
         <source>Fonts to embed:</source>
@@ -29002,7 +29002,7 @@ se abra el documento PDF:</translation>
     </message>
     <message>
         <source>TabWidget</source>
-        <translation type="unfinished"/>
+        <translation>TabWidget</translation>
     </message>
     <message>
         <source>...</source>
@@ -29010,19 +29010,19 @@ se abra el documento PDF:</translation>
     </message>
     <message>
         <source>0 °</source>
-        <translation type="unfinished"/>
+        <translation>0 °</translation>
     </message>
     <message>
         <source>90 °</source>
-        <translation type="unfinished"/>
+        <translation>90 °</translation>
     </message>
     <message>
         <source>180 °</source>
-        <translation type="unfinished"/>
+        <translation>180 °</translation>
     </message>
     <message>
         <source>270 °</source>
-        <translation type="unfinished"/>
+        <translation>270 °</translation>
     </message>
     <message>
         <source> °</source>
@@ -29359,7 +29359,7 @@ se abra el documento PDF:</translation>
     </message>
     <message>
         <source>Unknown error.</source>
-        <translation type="unfinished"/>
+        <translation>Error desconocido.</translation>
     </message>
 </context>
 <context>
@@ -30630,11 +30630,11 @@ de Scribus.</translation>
     <name>XPSExportPlugin</name>
     <message>
         <source>Save as XPS...</source>
-        <translation type="unfinished"/>
+        <translation>Guardar como XPS...</translation>
     </message>
     <message>
         <source>Exports XPS Files</source>
-        <translation type="unfinished"/>
+        <translation>Exporta Archivos XPS</translation>
     </message>
     <message>
         <source>Exports the current document into an XPS file.</source>
@@ -30679,7 +30679,7 @@ de Scribus.</translation>
     <name>XpsImportOptions</name>
     <message>
         <source>XPS Import</source>
-        <translation type="unfinished"/>
+        <translation>Importar XPS</translation>
     </message>
     <message>
         <source>Importing File:</source>
@@ -30792,7 +30792,7 @@ de Scribus.</translation>
     </message>
     <message>
         <source>Unknown error.</source>
-        <translation type="unfinished"/>
+        <translation>Error desconocido.</translation>
     </message>
 </context>
 <context>
@@ -30859,7 +30859,7 @@ de Scribus.</translation>
     </message>
     <message>
         <source>Transparency:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Transparencia:</translation>
     </message>
     <message>
         <source>Edit Colors</source>
@@ -30911,7 +30911,7 @@ de Scribus.</translation>
     </message>
     <message>
         <source>Distance:</source>
-        <translation type="unfinished"/>
+        <translation>Distancia:</translation>
     </message>
     <message>
         <source>Angle:</source>
@@ -30927,11 +30927,11 @@ de Scribus.</translation>
     </message>
     <message>
         <source>Double</source>
-        <translation type="unfinished"/>
+        <translation>Doble</translation>
     </message>
     <message>
         <source>Triple</source>
-        <translation type="unfinished"/>
+        <translation>Triple</translation>
     </message>
     <message>
         <source>Line Color:</source>
@@ -30943,7 +30943,7 @@ de Scribus.</translation>
     </message>
     <message>
         <source>Extend:</source>
-        <translation type="unfinished"/>
+        <translation>Extender:</translation>
     </message>
     <message>
         <source>None</source>

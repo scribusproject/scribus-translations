@@ -15664,7 +15664,7 @@ Scripter de Scribus para obtener más información. </translation>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="30"/>
         <source>Look in:</source>
-        <translation type="unfinished"/>
+        <translation>Buscar en:</translation>
     </message>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="31"/>
@@ -16258,7 +16258,7 @@ Comprueba la ruta y el nombre del archivo.</translation>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="65"/>
         <source>Anii</source>
-        <translation type="unfinished"/>
+        <translation>Anii</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="77"/>
@@ -18446,7 +18446,7 @@ Enlaces externos</translation>
         <location filename="../../../scribus/units.cpp" line="163"/>
         <source>°</source>
         <comment>degrees, unicode 0xB0</comment>
-        <translation type="unfinished"/>
+        <translation>°</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/cmdtext.cpp" line="152"/>
@@ -20665,7 +20665,7 @@ Considere utilizar el revisor de diseño para corregirlos</translation>
     <message>
         <location filename="../../../scribus/scribus.cpp" line="5665"/>
         <source>Text Files (*.txt);;All Files (*)</source>
-        <translation type="unfinished"/>
+        <translation>Archivos de Texto (*.txt);;Todos los Archivos (*)</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribus.cpp" line="7844"/>
@@ -21940,7 +21940,7 @@ Considere utilizar el revisor de diseño para corregirlos</translation>
         <location filename="../../../scribus/storyeditor.cpp" line="3250"/>
         <location filename="../../../scribus/storyeditor.cpp" line="3285"/>
         <source>Text Files (*.txt);;All Files (*)</source>
-        <translation type="unfinished"/>
+        <translation>Archivos de Texto (*.txt);;Todos los Archivos (*)</translation>
     </message>
     <message>
         <location filename="../../../scribus/storyeditor.cpp" line="3285"/>
