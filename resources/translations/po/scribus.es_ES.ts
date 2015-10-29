@@ -18309,7 +18309,7 @@ Enlaces externos</translation>
     <message>
         <location filename="../../../scribus/util_formats.cpp" line="52"/>
         <source>Macintosh Pict File</source>
-        <translation type="unfinished"/>
+        <translation>Archivo Macintosh Pict</translation>
     </message>
     <message>
         <location filename="../../../scribus/fonts/scface_ps.cpp" line="105"/>

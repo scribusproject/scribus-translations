@@ -1405,7 +1405,7 @@
     </message>
     <message>
         <source>Test Qt Quick</source>
-        <translation type="unfinished"/>
+        <translation>Probar Qt Rápidamente</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -1453,11 +1453,11 @@
     </message>
     <message>
         <source>Copy item properties</source>
-        <translation type="unfinished"/>
+        <translation>Copiar propiedades del elemento</translation>
     </message>
     <message>
         <source>Edit contents of a frame</source>
-        <translation type="unfinished"/>
+        <translation>Editar contenido del marco</translation>
     </message>
     <message>
         <source>Edit text in the Story Editor</source>
@@ -1469,7 +1469,7 @@
     </message>
     <message>
         <source>Insert an arc</source>
-        <translation type="unfinished"/>
+        <translation>Insertar un arco</translation>
     </message>
     <message>
         <source>Insert a bezier curve</source>
@@ -1585,11 +1585,11 @@
     </message>
     <message>
         <source>T&amp;runcate</source>
-        <translation type="unfinished"/>
+        <translation>T&amp;runcar</translation>
     </message>
     <message>
         <source>Edit in Preview Mode</source>
-        <translation type="unfinished"/>
+        <translation>Editar en modo de vista previa</translation>
     </message>
     <message>
         <source>Toggle Color Management System</source>
@@ -1597,7 +1597,7 @@
     </message>
     <message>
         <source>&amp;View Tools</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ver Herramientas</translation>
     </message>
     <message>
         <source>&amp;Render Frame</source>
@@ -2500,11 +2500,11 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Code-39</source>
-        <translation type="unfinished"/>
+        <translation>Código-39</translation>
     </message>
     <message>
         <source>Code-128</source>
-        <translation type="unfinished"/>
+        <translation>Código-128</translation>
     </message>
     <message>
         <source>UCC/EAN-128</source>
@@ -2675,7 +2675,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>&amp;Format:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Formato:</translation>
     </message>
     <message>
         <source>Error &amp;checking:</source>
@@ -7578,11 +7578,11 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Import Macintosh Pict...</source>
-        <translation type="unfinished"/>
+        <translation>Importar Macintosh Pict...</translation>
     </message>
     <message>
         <source>Imports Macintosh Pict Files</source>
-        <translation type="unfinished"/>
+        <translation>Importa Archivos de Macintosh Pic</translation>
     </message>
     <message>
         <source>Imports most Macintosh Pict files into the current document,
@@ -7619,19 +7619,19 @@ actual, convirtiendo los datos vectoriales en objetos de Scribus.</translation>
     <name>ImportPmPlugin</name>
     <message>
         <source>Import Pagemaker...</source>
-        <translation type="unfinished"/>
+        <translation>Importar Pagemaker...</translation>
     </message>
     <message>
         <source>Pagemaker</source>
-        <translation type="unfinished"/>
+        <translation>Pagemaker</translation>
     </message>
     <message>
         <source>Pagemaker (*.pmd *.PMD *.pm *.PM *.pm3 *.PM3 *.pm4 *.PM4 *.pm5 *.PM5 *.pm6 *.PM6 *.p65 *.P65)</source>
-        <translation type="unfinished"/>
+        <translation>Pagemaker (*.pmd *.PMD *.pm *.PM *.pm3 *.PM3 *.pm4 *.PM4 *.pm5 *.PM5 *.pm6 *.PM6 *.p65 *.P65)</translation>
     </message>
     <message>
         <source>Imports Pagemaker Files</source>
-        <translation type="unfinished"/>
+        <translation>Importa Archivos Pagemaker</translation>
     </message>
     <message>
         <source>Imports most Pagemaker files into the current document,
@@ -7647,19 +7647,19 @@ converting their vector data into Scribus objects.</source>
     <name>ImportPubPlugin</name>
     <message>
         <source>Import PUB...</source>
-        <translation type="unfinished"/>
+        <translation>Importar PUB...</translation>
     </message>
     <message>
         <source>MS Publisher</source>
-        <translation type="unfinished"/>
+        <translation>MS Publisher</translation>
     </message>
     <message>
         <source>MS Publisher (*.pub *.PUB)</source>
-        <translation type="unfinished"/>
+        <translation>MS Publisher (*.pub *.PUB)</translation>
     </message>
     <message>
         <source>Imports PUB Files</source>
-        <translation type="unfinished"/>
+        <translation>Importa Archivos PUB...</translation>
     </message>
     <message>
         <source>Imports most MS Publisher files into the current document,
@@ -7757,19 +7757,19 @@ actual, convirtiendo los datos vectoriales en objetos de Scribus.</translation>
     <name>ImportSvmPlugin</name>
     <message>
         <source>Import SVM...</source>
-        <translation type="unfinished"/>
+        <translation>Importar SVM...</translation>
     </message>
     <message>
         <source>SVM</source>
-        <translation type="unfinished"/>
+        <translation>SVM</translation>
     </message>
     <message>
         <source>SVM (*.svm *.svm)</source>
-        <translation type="unfinished"/>
+        <translation>SVM (*.svm *.svm)</translation>
     </message>
     <message>
         <source>Imports SVM Files</source>
-        <translation type="unfinished"/>
+        <translation>Importa Archivos SVM</translation>
     </message>
     <message>
         <source>Imports most SVM files into the current document,
@@ -7813,19 +7813,19 @@ converting their vector data into Scribus objects.</source>
     <name>ImportVsdPlugin</name>
     <message>
         <source>Import Visio...</source>
-        <translation type="unfinished"/>
+        <translation>Importar Visio...</translation>
     </message>
     <message>
         <source>MS Visio</source>
-        <translation type="unfinished"/>
+        <translation>MS Visio</translation>
     </message>
     <message>
         <source>MS Visio (*.vsd *.VSD *.vdx *.VDX *.vsdx *.VSDX)</source>
-        <translation type="unfinished"/>
+        <translation>MS Visio (*.vsd *.VSD *.vdx *.VDX *.vsdx *.VSDX)</translation>
     </message>
     <message>
         <source>Imports MS Visio Files</source>
-        <translation type="unfinished"/>
+        <translation>Importa Archivos MS Visio</translation>
     </message>
     <message>
         <source>Imports most MS Visio files into the current document,
@@ -7841,7 +7841,7 @@ converting their vector data into Scribus objects.</source>
     <name>ImportWpgPlugin</name>
     <message>
         <source>Import WPG...</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Importar WPG...</translation>
     </message>
     <message>
         <source>Imports WPG Files</source>
@@ -7858,11 +7858,11 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Import WordPerfect Graphics...</source>
-        <translation type="unfinished"/>
+        <translation>Importar Gráficos de WordPerfect</translation>
     </message>
     <message>
         <source>Imports WordPerfect Graphics Files</source>
-        <translation type="unfinished"/>
+        <translation>Importa Archivos Gráficos de WordPerfect</translation>
     </message>
     <message>
         <source>Imports most WordPerfect Graphics files into the current document,
@@ -10460,7 +10460,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>OpenOffice.org 1.x Draw (*.sxd *.SXD)</source>
-        <translation type="unfinished"/>
+        <translation>OpenOffice.org 1.x Draw (*.sxd *.SXD)</translation>
     </message>
 </context>
 <context>
@@ -13525,7 +13525,7 @@ Por favor, elija otro.</translation>
     </message>
     <message>
         <source>Select file type(s)</source>
-        <translation type="unfinished"/>
+        <translation>Seleccionar tipo(s) de archivo</translation>
     </message>
     <message>
         <source>Select the page(s) where to insert the image(s)</source>
@@ -16120,7 +16120,7 @@ Un valor de 0 significa sin límite.</translation>
     </message>
     <message>
         <source>Available Fonts</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Tipografías Disponibles</translation>
     </message>
     <message>
         <source>Embed All</source>
@@ -22369,35 +22369,35 @@ código Python esta lista no es exhaustiva debido a las excepciones de las funci
     </message>
     <message>
         <source>PostScript &quot;*.ps&quot;</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">PostScript &quot;*.ps&quot;</translation>
     </message>
     <message>
         <source>Adobe Photoshop &quot;*.psd&quot;</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Adobe Photoshop &quot;*.psd&quot;</translation>
     </message>
     <message>
         <source>Windows Meta File &quot;*.wmf&quot;</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Windows Meta File &quot;*.wmf&quot;</translation>
     </message>
     <message>
         <source>Scalable Vector Graphics &quot;*.svg&quot;</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Scalable Vector Graphics &quot;*.svg&quot;</translation>
     </message>
     <message>
         <source>Adobe Illustrator &quot;*.ai&quot;</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Adobe Illustrator &quot;*.ai&quot;</translation>
     </message>
     <message>
         <source>GraphicsMagick File</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Archivo GraphicMagick</translation>
     </message>
     <message>
         <source>UniConvertor File</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Archivo UniConvertor</translation>
     </message>
     <message>
         <source>Macintosh Pict File</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Archivo Macintosh Pict</translation>
     </message>
     <message>
         <source>TIFF</source>
@@ -22589,7 +22589,7 @@ Por eso la imagen pudiera no ser correcta</translation>
     </message>
     <message>
         <source>Cvg Importer</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Importador Cvg</translation>
     </message>
     <message>
         <source>Pict Importer</source>
@@ -23249,7 +23249,7 @@ Por eso la imagen pudiera no ser correcta</translation>
     </message>
     <message>
         <source>WordPerfect Graphics</source>
-        <translation type="unfinished"/>
+        <translation>Gráficos de WordPerfect</translation>
     </message>
     <message>
         <source>Qt Supported File</source>
@@ -25705,7 +25705,7 @@ actual, convirtiendo los datos de vectores en objetos Scribus.</translation>
     </message>
     <message>
         <source>m/d</source>
-        <translation type="unfinished"/>
+        <translation>m/d</translation>
     </message>
     <message>
         <source>m/d/yy</source>
