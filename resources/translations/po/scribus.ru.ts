@@ -67,7 +67,7 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="307"/>
         <source>Haiku Port:</source>
-        <translation type="unfinished"/>
+        <translation>Портирование на Haiku:</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="309"/>
@@ -3085,17 +3085,18 @@
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginimpl.cpp" line="97"/>
         <source>Spell Checker Plugin Failed to Initialise.
 Configuration invalid</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось инициализировать модуль проверки орфографии.
+Некорректная конфигурация.</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginimpl.cpp" line="104"/>
         <source>Spell Checker Plugin Failed to Initialise.</source>
-        <translation type="unfinished"/>
+        <translation>Не удалось инициализировать модуль проверки орфографии.</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginimpl.cpp" line="106"/>
         <source>No Aspell dictionaries could be found.</source>
-        <translation type="unfinished"/>
+        <translation>Не обнаружены словари Aspell.</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginimpl.cpp" line="259"/>
@@ -3234,7 +3235,7 @@ Configuration invalid</source>
     <message>
         <location filename="../../../scribus/plugins/barcodegenerator/barcodegenerator.cpp" line="102"/>
         <source>Variable number of characters, digits and any symbols.</source>
-        <translation type="unfinished"/>
+        <translation>Разное количество букв, цифр и любых других символов.</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/barcodegenerator/barcodegenerator.cpp" line="320"/>
@@ -4382,7 +4383,7 @@ Height: %2</source>
     <message>
         <location filename="../../../scribus/charselect.ui" line="25"/>
         <source>Show/Hide Enhanced Palette</source>
-        <translation type="unfinished"/>
+        <translation>Показать или скрыть расширенную палитру</translation>
     </message>
     <message>
         <location filename="../../../scribus/charselect.ui" line="35"/>
@@ -4392,17 +4393,17 @@ Height: %2</source>
     <message>
         <location filename="../../../scribus/charselect.ui" line="42"/>
         <source>Load a Character Palette</source>
-        <translation type="unfinished"/>
+        <translation>Загрузить палитру символов</translation>
     </message>
     <message>
         <location filename="../../../scribus/charselect.ui" line="52"/>
         <source>Save the Character Palette</source>
-        <translation type="unfinished"/>
+        <translation>Сохранить палитру символов</translation>
     </message>
     <message>
         <location filename="../../../scribus/charselect.ui" line="62"/>
         <source>Empty the Character Palette</source>
-        <translation type="unfinished"/>
+        <translation>Очистить палитру символов</translation>
     </message>
     <message>
         <location filename="../../../scribus/charselect.cpp" line="345"/>
@@ -7942,7 +7943,7 @@ Name of the export file will be &apos;documentname-pagenumber.filetype&apos;</so
     <message>
         <location filename="../../../scribus/fontreplacedialog.cpp" line="84"/>
         <source>Enabling this tells Scribus to use these replacements for missing fonts permanently in all future layouts. This can be reverted or changed in File &gt; Preferences &gt; Fonts.</source>
-        <translation type="unfinished"/>
+        <translation>Scribus будет в дальнешем каждый раз использовать эти подстановки для отсутствующих шрифтов. Отменить этот выбор можно в диалоге настройки программы на вкладке «Шрифты».</translation>
     </message>
     <message>
         <location filename="../../../scribus/fontreplacedialog.cpp" line="85"/>
@@ -14960,30 +14961,30 @@ Corners:</source>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5620"/>
         <source>Any path self-intersections or subpaths create holes in the fill.</source>
-        <translation type="unfinished"/>
+        <translation>Каждое пересечение контуром самого себя, а также субконтуров создаёт дырки в заливке.</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5621"/>
         <source>Fill is solid unless a subpath is counterdirectional.</source>
-        <translation type="unfinished"/>
+        <translation>Заливка будет сплошной, если только субконтур не развёрнут в противоположную сторону.</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5625"/>
         <location filename="../../../scribus/propertiespalette.cpp" line="5630"/>
         <source>Use the bounding box, which is always rectangular, instead of the frame&apos;s shape for text flow of text frames below the object.</source>
-        <translation type="unfinished"/>
+        <translation>Использовать габаритный прямоугольник (BB) вместо фигуры блока при обтекании текстом в текстовых блоках ниже этого объекта.</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5626"/>
         <location filename="../../../scribus/propertiespalette.cpp" line="5631"/>
         <source>When chosen, the contour line can be edited with the Edit Shape Tool on the palette further above. When edited via the shape palette, this becomes a second separate line originally based on the frame&apos;s shape for text flow of text frames below the object.</source>
-        <translation type="unfinished"/>
+        <translation>Если выбрано, контурную линию можно отредактировать, нажав кнопку «Изменить». При редактировании через палитру фигур она становится второй, самостоятельной линией на основе исходных очертаний блока, влияющих на обтекание текстом в блоке уровнем ниже.</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5627"/>
         <location filename="../../../scribus/propertiespalette.cpp" line="5632"/>
         <source>Use the clipping path of the image.</source>
-        <translation type="unfinished"/>
+        <translation>Использовать встроенный в изображение обтравочный контур.</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5664"/>
@@ -15630,7 +15631,7 @@ Scripter documentation for futher information. </source>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="19"/>
         <source>Files of type:</source>
-        <translation type="unfinished"/>
+        <translation>Файлы типа:</translation>
     </message>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="20"/>
@@ -16279,7 +16280,7 @@ Check path and filename.</source>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="65"/>
         <source>Anii</source>
-        <translation type="unfinished"/>
+        <translation>Ании</translation>
     </message>
     <message>
         <location filename="../../../scribus/langmgr.cpp" line="77"/>
@@ -26731,7 +26732,7 @@ to %2</source>
     <message>
         <location filename="../../../scribus/undomanager.cpp" line="953"/>
         <source>Duplicate</source>
-        <translation type="unfinished"/>
+        <translation>Дублирование</translation>
     </message>
     <message>
         <location filename="../../../scribus/undomanager.cpp" line="969"/>

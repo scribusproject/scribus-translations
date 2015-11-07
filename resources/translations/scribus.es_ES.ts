@@ -1477,7 +1477,7 @@
     </message>
     <message>
         <source>Insert a calligraphic line</source>
-        <translation type="unfinished"/>
+        <translation>Insertar una línea caligráfica</translation>
     </message>
     <message>
         <source>Insert a freehand line</source>
@@ -1665,7 +1665,7 @@
     </message>
     <message>
         <source>3D Annotation</source>
-        <translation type="unfinished"/>
+        <translation>Anotación 3D</translation>
     </message>
     <message>
         <source>Edit text in story editor</source>
@@ -2524,7 +2524,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Code 2 of 5</source>
-        <translation type="unfinished"/>
+        <translation>Código 2 de 5</translation>
     </message>
     <message>
         <source>Postnet</source>
@@ -2544,7 +2544,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>QR Code</source>
-        <translation type="unfinished"/>
+        <translation>Código QR</translation>
     </message>
 </context>
 <context>
@@ -2679,7 +2679,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Error &amp;checking:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Chequeo de errores:</translation>
     </message>
     <message>
         <source>Minimum error checking; raized opportunistically if size of symbol is not increased</source>
@@ -4009,11 +4009,11 @@ resolución actual:  %2 x %3 DPI</translation>
     </message>
     <message>
         <source>Have you applied the correct Master Page?</source>
-        <translation type="unfinished"/>
+        <translation>¿Ha aplicado la Página Maestra correcta?</translation>
     </message>
     <message>
         <source>If you have created an image frame, there is the presumption that you planned to put an image in it.</source>
-        <translation type="unfinished"/>
+        <translation>Si ha creado un cuadro de imagen, existe la presunción de que ha planeado en poner una imagen.</translation>
     </message>
     <message>
         <source>If you have created a text frame, there is the presumption that you planned to put text in it.</source>
@@ -4057,7 +4057,7 @@ resolución actual:  %2 x %3 DPI</translation>
     </message>
     <message>
         <source>PDF supports many different ways to represent the color of any object including RGB, CMYK and Spot (aka Separation) colors. Some of the PDF standards, such as PDF/X-1a, require the only CMYK and Spot colors be used.</source>
-        <translation type="unfinished"/>
+        <translation>PDF soporta muchas maneras diferentes para representar el color de cualquier objeto incluyendo RGB, CMYK y Spot (alias de Separación) de colores. Algunos de los estándares PDF, como PDF / X-1a, requieren CMYK y Spot de colores que sean utilizados unicamente.</translation>
     </message>
     <message>
         <source>The warning is verifying for you that there is a PDF loaded into an Image Frame, where it will be rasterized or converted to a bitmap. Its resolution may be less than ideal. See PDF Export to learn how to minimize this problem.</source>
@@ -4081,7 +4081,7 @@ resolución actual:  %2 x %3 DPI</translation>
     </message>
     <message>
         <source>This layer uses transparency, only an issue if using older printing profiles. You may safely ignore this when using modern printing methods, or exporting to PDF version greater than 1.4.</source>
-        <translation type="unfinished"/>
+        <translation>Esta capa utiliza la transparencia, sería sólo un problema si se utiliza perfiles de impresión antiguos. Se puede ignorar este mensaje si se está utilizando métodos de impresión modernos, o exportando una versión de PDF superior a 1,4.</translation>
     </message>
     <message>
         <source>This layer uses blendmodes which relies on transparency, only an issue if using older printing profiles. You may safely ignore this when using modern printing methods, or exporting to PDF version greater than 1.4.</source>
@@ -4832,7 +4832,7 @@ resolución actual:  %2 x %3 DPI</translation>
     </message>
     <message>
         <source>Edit 3D Annotation...</source>
-        <translation type="unfinished"/>
+        <translation>Editar Anotación 3D...</translation>
     </message>
     <message>
         <source>Insert Mark</source>
@@ -5487,7 +5487,7 @@ resolución actual:  %2 x %3 DPI</translation>
     </message>
     <message>
         <source>Show In Explorer</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar en el Explorador</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -6178,7 +6178,7 @@ Usa 72 dpi para imágenes dirigidas a verse en pantalla</translation>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Analizando Archivo:</translation>
     </message>
     <message>
         <source>Parsing failed!
@@ -7405,7 +7405,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>All Supported Formats</source>
-        <translation type="unfinished"/>
+        <translation>Todos los formatos compatibles</translation>
     </message>
 </context>
 <context>
@@ -7505,7 +7505,8 @@ actual, convirtiendo los datos vectoriales en objetos de Scribus.</translation>
     <message>
         <source>Imports most ODF Drawing files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Importa la mayoría de los archivos de Dibujo ODF en el documento actual,
+convirtiendo sus datos vectoriales en objetos de Scribus.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7550,7 +7551,8 @@ actual, conviritiendo los datos de vectores en objetos de Scribus.</translation>
     <message>
         <source>Imports most iWorks Pages files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Importa la mayoría de los archivos WPG en el documento actual, 
+convirtiendo los datos vectoriales en objetos de Scribus.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7565,12 +7567,13 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Imports Pict Files</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Importa Archivos Pict</translation>
     </message>
     <message>
         <source>Imports most Mac Pict files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Importa la mayoría de los archivos Mac Pict en el documento actual, 
+convirtiendo los datos vectoriales en objetos de Scribus.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7587,7 +7590,8 @@ converting their vector data into Scribus objects.</source>
     <message>
         <source>Imports most Macintosh Pict files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Importa la mayoría de los archivos Mac Pict en el documento actual, 
+convirtiendo los datos vectoriales en objetos de Scribus.</translation>
     </message>
 </context>
 <context>
@@ -7636,7 +7640,8 @@ actual, convirtiendo los datos vectoriales en objetos de Scribus.</translation>
     <message>
         <source>Imports most Pagemaker files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Importa la mayoría de los archivos Pagemaker en el documento actual, 
+convirtiendo los datos vectoriales en objetos de Scribus.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7664,7 +7669,8 @@ converting their vector data into Scribus objects.</source>
     <message>
         <source>Imports most MS Publisher files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Importa la mayoría de los archivos MS Publisher en el documento actual, 
+convirtiendo los datos vectoriales en objetos de Scribus.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7785,24 +7791,25 @@ converting their vector data into Scribus objects.</source>
     <name>ImportVivaPlugin</name>
     <message>
         <source>Import Viva...</source>
-        <translation type="unfinished"/>
+        <translation>Importar Viva...</translation>
     </message>
     <message>
         <source>Viva Designer XML</source>
-        <translation type="unfinished"/>
+        <translation>Viva Designer XML</translation>
     </message>
     <message>
         <source>Viva Designer XML (*.xml *.XML)</source>
-        <translation type="unfinished"/>
+        <translation>Viva Designer XML (*.xml *.XML)</translation>
     </message>
     <message>
         <source>Imports Viva Files</source>
-        <translation type="unfinished"/>
+        <translation>Importa Archivos de Viva</translation>
     </message>
     <message>
         <source>Imports most Viva files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Importa la mayoría de los archivos Viva en el documento actual, 
+convirtiendo los datos vectoriales en objetos de Scribus.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7830,7 +7837,8 @@ converting their vector data into Scribus objects.</source>
     <message>
         <source>Imports most MS Visio files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Importa la mayoría de los archivos MS Visio en el documento actual, 
+convirtiendo los datos de vectores en objetos Scribus.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7845,12 +7853,13 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Imports WPG Files</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Importa Archivos WPG</translation>
     </message>
     <message>
         <source>Imports most WPG files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Importa la mayoría de los archivos WPG en el documento actual, 
+convirtiendo los datos vectoriales en objetos de Scribus.</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7867,7 +7876,8 @@ converting their vector data into Scribus objects.</source>
     <message>
         <source>Imports most WordPerfect Graphics files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Importa la mayoría de los archivos WordPerfect Graphics en el documento actual, 
+convirtiendo los datos vectoriales en objetos de Scribus.</translation>
     </message>
 </context>
 <context>
@@ -13509,7 +13519,7 @@ Por favor, elija otro.</translation>
     </message>
     <message>
         <source>Search criteria</source>
-        <translation type="unfinished"/>
+        <translation>Criterio de búsqueda</translation>
     </message>
     <message>
         <source>Type name</source>
@@ -16680,7 +16690,7 @@ Un valor de 0 significa sin límite.</translation>
     </message>
     <message>
         <source>Choose an owner password which enables or disables all the security features in your exported PDF</source>
-        <translation type="unfinished"/>
+        <translation>Elige una contraseña de propietario que active o desactive todas las características de seguridad en el PDF exportado</translation>
     </message>
     <message>
         <source>Create a range of pages</source>
@@ -23025,7 +23035,7 @@ Por eso la imagen pudiera no ser correcta</translation>
     </message>
     <message>
         <source>PUB Importer</source>
-        <translation type="unfinished"/>
+        <translation>Importador de PUB</translation>
     </message>
     <message>
         <source>&lt;p&gt;You are trying to import more pages than there are available in the current document counting from the active page.&lt;/p&gt;Choose one of the following:&lt;ul&gt;&lt;li&gt;&lt;b&gt;Create&lt;/b&gt; missing pages&lt;/li&gt;&lt;li&gt;&lt;b&gt;Import&lt;/b&gt; pages until the last page&lt;/li&gt;&lt;li&gt;&lt;b&gt;Cancel&lt;/b&gt;&lt;/li&gt;&lt;/ul&gt;</source>
@@ -23037,7 +23047,7 @@ Por eso la imagen pudiera no ser correcta</translation>
     </message>
     <message>
         <source>Compact Disc</source>
-        <translation type="unfinished"/>
+        <translation>Disco Compacto</translation>
     </message>
     <message>
         <source>Letter Half</source>
@@ -23385,7 +23395,7 @@ Elija otro, por favor.</translation>
     </message>
     <message>
         <source>Show In Explorer</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar en el Explorador</translation>
     </message>
     <message>
         <source>Fonts</source>
@@ -25709,59 +25719,59 @@ actual, convirtiendo los datos de vectores en objetos Scribus.</translation>
     </message>
     <message>
         <source>m/d/yy</source>
-        <translation type="unfinished"/>
+        <translation>m/d/aa</translation>
     </message>
     <message>
         <source>mm/dd/yy</source>
-        <translation type="unfinished"/>
+        <translation>mm/dd/aa</translation>
     </message>
     <message>
         <source>mm/yy</source>
-        <translation type="unfinished"/>
+        <translation>mm/yy</translation>
     </message>
     <message>
         <source>d-mmm</source>
-        <translation type="unfinished"/>
+        <translation>d-mmm</translation>
     </message>
     <message>
         <source>d-mmm-yy</source>
-        <translation type="unfinished"/>
+        <translation>d-mmm-aa</translation>
     </message>
     <message>
         <source>dd-mmm-yy</source>
-        <translation type="unfinished"/>
+        <translation>dd-mmm-aa</translation>
     </message>
     <message>
         <source>dd/mm/yy</source>
-        <translation type="unfinished"/>
+        <translation>dd/mm/aa</translation>
     </message>
     <message>
         <source>dd/mm/yyyy</source>
-        <translation type="unfinished"/>
+        <translation>dd/mm/aaaa</translation>
     </message>
     <message>
         <source>dd.mm.yyyy</source>
-        <translation type="unfinished"/>
+        <translation>dd.mm.aaaa</translation>
     </message>
     <message>
         <source>yy-mm-dd</source>
-        <translation type="unfinished"/>
+        <translation>aa-mm-dd</translation>
     </message>
     <message>
         <source>mmm-yy</source>
-        <translation type="unfinished"/>
+        <translation>mmm-aa</translation>
     </message>
     <message>
         <source>mmmm-yy</source>
-        <translation type="unfinished"/>
+        <translation>mmmm-aa</translation>
     </message>
     <message>
         <source>mmm d, yyyy</source>
-        <translation type="unfinished"/>
+        <translation>mmm d, aaaa</translation>
     </message>
     <message>
         <source>mmmm d, yyyy</source>
-        <translation type="unfinished"/>
+        <translation>mmmm d, aaaa</translation>
     </message>
     <message>
         <source>m/d/yy h:MM tt</source>
@@ -25769,15 +25779,15 @@ actual, convirtiendo los datos de vectores en objetos Scribus.</translation>
     </message>
     <message>
         <source>m/d/yy HH:MM</source>
-        <translation type="unfinished"/>
+        <translation>d/m/aa HH:MM</translation>
     </message>
     <message>
         <source>yyyy-mm-dd</source>
-        <translation type="unfinished"/>
+        <translation>aaaa-mm-dd</translation>
     </message>
     <message>
         <source>HH:MM</source>
-        <translation type="unfinished"/>
+        <translation>HH:MM</translation>
     </message>
     <message>
         <source>h:MM tt</source>
@@ -25785,7 +25795,7 @@ actual, convirtiendo los datos de vectores en objetos Scribus.</translation>
     </message>
     <message>
         <source>HH:MM:ss</source>
-        <translation type="unfinished"/>
+        <translation>HH:MM:ss</translation>
     </message>
     <message>
         <source>h:MM:ss tt</source>
@@ -26829,11 +26839,11 @@ Considere utilizar el revisor de diseño para corregirlos</translation>
     </message>
     <message>
         <source>Show location of ICC profile information on console while starting</source>
-        <translation type="unfinished"/>
+        <translation>Muestra la localización de la información del perfil ICC en la consola al arrancar</translation>
     </message>
     <message>
         <source>Download a file from the Scribus website and show the latest available version</source>
-        <translation type="unfinished"/>
+        <translation>Descarga un archivo del sitio web de Scribus y muestra la última versión disponible.</translation>
     </message>
 </context>
 <context>
@@ -28838,7 +28848,7 @@ se abra el documento PDF:</translation>
     </message>
     <message>
         <source>&amp;Outline all</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Tra&amp;zar todo</translation>
     </message>
     <message>
         <source>Convert all glyphs in the document to outlines.</source>
@@ -28990,11 +29000,11 @@ se abra el documento PDF:</translation>
     </message>
     <message>
         <source>Image Quality Settings</source>
-        <translation type="unfinished"/>
+        <translation>Ajuste de Calidad de Imagen</translation>
     </message>
     <message>
         <source>Choose an owner password which enables or disables all the security features in your exported PDF</source>
-        <translation type="unfinished"/>
+        <translation>Elige una contraseña de propietario que active o desactive todas las características de seguridad en el PDF exportado</translation>
     </message>
     <message>
         <source>Create a range of pages</source>
@@ -29319,7 +29329,7 @@ se abra el documento PDF:</translation>
     </message>
     <message>
         <source>Wrong password.</source>
-        <translation type="unfinished"/>
+        <translation>Contraseña incorrecta</translation>
     </message>
     <message>
         <source>No archive has been created yet.</source>
@@ -29347,7 +29357,7 @@ se abra el documento PDF:</translation>
     </message>
     <message>
         <source>Invalid device.</source>
-        <translation type="unfinished"/>
+        <translation>Dispositivo no válido.</translation>
     </message>
     <message>
         <source>Invalid or incompatible zip archive.</source>
@@ -30302,7 +30312,7 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Swap page</source>
-        <translation type="unfinished"/>
+        <translation>Intercambiar página</translation>
     </message>
     <message>
         <source>Unweld Items</source>
@@ -30525,7 +30535,7 @@ Would you like to start the system&apos;s default browser instead?</source>
     <name>ViewToolBar</name>
     <message>
         <source>View Tools</source>
-        <translation type="unfinished"/>
+        <translation>Ver Herramientas</translation>
     </message>
     <message>
         <source>High</source>
@@ -31062,7 +31072,7 @@ por favor escoja otro.</translation>
     </message>
     <message>
         <source>Set zoom to 100%</source>
-        <translation type="unfinished"/>
+        <translation>Establecer el zoom al 100%</translation>
     </message>
 </context>
 <context>

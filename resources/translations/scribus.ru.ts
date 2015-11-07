@@ -2351,7 +2351,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>No Aspell dictionaries could be found.</source>
-        <translation type="unfinished"/>
+        <translation>Не обнаружены словари Aspell.</translation>
     </message>
 </context>
 <context>
@@ -2468,7 +2468,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Variable number of characters, digits and any symbols.</source>
-        <translation type="unfinished"/>
+        <translation>Разное количество букв, цифр и любых других символов.</translation>
     </message>
     <message>
         <source>EAN-13</source>
@@ -3651,7 +3651,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Show/Hide Enhanced Palette</source>
-        <translation type="unfinished"/>
+        <translation>Показать или скрыть расширенную палитру</translation>
     </message>
     <message>
         <source>Unicode Search</source>
@@ -3659,15 +3659,15 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Load a Character Palette</source>
-        <translation type="unfinished"/>
+        <translation>Загрузить палитру символов</translation>
     </message>
     <message>
         <source>Save the Character Palette</source>
-        <translation type="unfinished"/>
+        <translation>Сохранить палитру символов</translation>
     </message>
     <message>
         <source>Empty the Character Palette</source>
-        <translation type="unfinished"/>
+        <translation>Очистить палитру символов</translation>
     </message>
 </context>
 <context>
@@ -6450,7 +6450,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Enabling this tells Scribus to use these replacements for missing fonts permanently in all future layouts. This can be reverted or changed in File &gt; Preferences &gt; Fonts.</source>
-        <translation type="unfinished"/>
+        <translation>Scribus будет в дальнешем каждый раз использовать эти подстановки для отсутствующих шрифтов. Отменить этот выбор можно в диалоге настройки программы на вкладке «Шрифты».</translation>
     </message>
 </context>
 <context>
@@ -18124,7 +18124,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>When chosen, the contour line can be edited with the Edit Shape Tool on the palette further above. When edited via the shape palette, this becomes a second separate line originally based on the frame&apos;s shape for text flow of text frames below the object.</source>
-        <translation type="unfinished"/>
+        <translation>Если выбрано, контурную линию можно отредактировать, нажав кнопку «Изменить». При редактировании через палитру фигур она становится второй, самостоятельной линией на основе исходных очертаний блока, влияющих на обтекание текстом в блоке уровнем ниже.</translation>
     </message>
     <message>
         <source>Use the clipping path of the image</source>
@@ -18132,11 +18132,11 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Any path self-intersections or subpaths create holes in the fill.</source>
-        <translation type="unfinished"/>
+        <translation>Каждое пересечение контуром самого себя, а также субконтуров создаёт дырки в заливке.</translation>
     </message>
     <message>
         <source>Fill is solid unless a subpath is counterdirectional.</source>
-        <translation type="unfinished"/>
+        <translation>Заливка будет сплошной, если только субконтур не развёрнут в противоположную сторону.</translation>
     </message>
 </context>
 <context>
@@ -18958,11 +18958,11 @@ Transparency</source>
     </message>
     <message>
         <source>Any path self-intersections or subpaths create holes in the fill.</source>
-        <translation type="unfinished"/>
+        <translation>Каждое пересечение контуром самого себя, а также субконтуров создаёт дырки в заливке.</translation>
     </message>
     <message>
         <source>Fill is solid unless a subpath is counterdirectional.</source>
-        <translation type="unfinished"/>
+        <translation>Заливка будет сплошной, если только субконтур не развёрнут в противоположную сторону.</translation>
     </message>
 </context>
 <context>
@@ -20552,7 +20552,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Files of type:</source>
-        <translation type="unfinished"/>
+        <translation>Файлы типа:</translation>
     </message>
     <message>
         <source>Look in:</source>
@@ -23078,7 +23078,7 @@ Therefore the image may be not correct</source>
     </message>
     <message>
         <source>Anii</source>
-        <translation type="unfinished"/>
+        <translation>Ании</translation>
     </message>
     <message>
         <source>Open Document Importer</source>
@@ -30227,7 +30227,7 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Duplicate</source>
-        <translation type="unfinished"/>
+        <translation>Дублирование</translation>
     </message>
     <message>
         <source>Remove mesh patch</source>
