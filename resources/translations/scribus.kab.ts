@@ -11,11 +11,11 @@
     </message>
     <message>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>Group%1</translation>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Asnulfu n tɣawsiwin</translation>
     </message>
 </context>
 <context>
@@ -26,43 +26,43 @@
     </message>
     <message>
         <source>&amp;About</source>
-        <translation type="unfinished"/>
+        <translation>Ɣef</translation>
     </message>
     <message>
         <source>A&amp;uthors</source>
-        <translation type="unfinished"/>
+        <translation>Imeskaren</translation>
     </message>
     <message>
         <source>&amp;Translations</source>
-        <translation type="unfinished"/>
+        <translation>Tisuqqilin</translation>
     </message>
     <message>
         <source>&amp;Online</source>
-        <translation type="unfinished"/>
+        <translation>Ɣef uẓeṭṭa</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>Mdel</translation>
     </message>
     <message>
         <source>Development Team:</source>
-        <translation type="unfinished"/>
+        <translation>Tarbaɛt n usnefli</translation>
     </message>
     <message>
         <source>Official Documentation:</source>
-        <translation type="unfinished"/>
+        <translation>Asefter unṣib</translation>
     </message>
     <message>
         <source>Other Documentation:</source>
-        <translation type="unfinished"/>
+        <translation>Asefter-nniḍen</translation>
     </message>
     <message>
         <source>Homepage</source>
-        <translation type="unfinished"/>
+        <translation>Asmel unṣib</translation>
     </message>
     <message>
         <source>Online Reference</source>
-        <translation type="unfinished"/>
+        <translation>Asefter ɣef uẓeṭṭa</translation>
     </message>
     <message>
         <source>Bugs and Feature Requests</source>
@@ -70,27 +70,27 @@
     </message>
     <message>
         <source>Mailing List</source>
-        <translation type="unfinished"/>
+        <translation>Tabdart n tnezwit</translation>
     </message>
     <message>
         <source>Official Translations and Translators:</source>
-        <translation type="unfinished"/>
+        <translation>Imsuqqlen unṣiben</translation>
     </message>
     <message>
         <source>Previous Translation Contributors:</source>
-        <translation type="unfinished"/>
+        <translation>Imsuqqlen iqburen</translation>
     </message>
     <message>
         <source>About Scribus %1</source>
-        <translation type="unfinished"/>
+        <translation>Awal ɣef </translation>
     </message>
     <message>
         <source>Wiki</source>
-        <translation type="unfinished"/>
+        <translation>Wiki</translation>
     </message>
     <message>
         <source>%1 %2 %3</source>
-        <translation type="unfinished"/>
+        <translation>%1 %2 %3</translation>
     </message>
     <message>
         <source>%3-%2-%1 %4 %5</source>
@@ -106,7 +106,7 @@
     </message>
     <message>
         <source>Build ID:</source>
-        <translation type="unfinished"/>
+        <translation>ID n usefsu</translation>
     </message>
     <message>
         <source>Mac OS&amp;#174; X Aqua Port:</source>
@@ -122,11 +122,11 @@
     </message>
     <message>
         <source>&amp;Updates</source>
-        <translation type="unfinished"/>
+        <translation>Amucceḍ</translation>
     </message>
     <message>
         <source>Check for updates to Scribus. No data from your machine will be transferred off it.</source>
-        <translation type="unfinished"/>
+        <translation>Nadi imucceḍen n Scribus iwejden. Ulac asefku n uselkim-inek ara yettwaznen.</translation>
     </message>
     <message>
         <source>OS/2&amp;#174;/eComStation&amp;#8482; Port:</source>
@@ -134,11 +134,11 @@
     </message>
     <message>
         <source>Splash Screen:</source>
-        <translation type="unfinished"/>
+        <translation>Agdil n usnubeg :</translation>
     </message>
     <message>
         <source>This panel shows the version, build date and compiled in library support in Scribus.</source>
-        <translation type="unfinished"/>
+        <translation>Agalis-agi iskan lqem, azemz aked temkarḍiwin ittwasqedcen deg wesefsu n Scribus.</translation>
     </message>
     <message>
         <source>The C-C-T-F equates to C=littlecms C=CUPS T=TIFF support F=Fontconfig support.Last Letter is the renderer C=cairo or Q=Qt</source>
@@ -146,7 +146,7 @@
     </message>
     <message>
         <source>Missing library support is indicated by a *. This also indicates the version of Ghostscript which Scribus has detected.</source>
-        <translation type="unfinished"/>
+        <translation>Tamkarḍit ixuṣen imal-itt usekkil *. Lqem n Ghostscript i d-yufa Scribus tettwabeqqeḍ daɣen.</translation>
     </message>
     <message>
         <source>The Windows version does not use fontconfig or CUPS libraries.</source>
@@ -256,7 +256,7 @@
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>Mdel</translation>
     </message>
     <message>
         <source>&amp;Save</source>
@@ -3584,7 +3584,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Asnulfu n tɣawsiwin</translation>
     </message>
 </context>
 <context>
@@ -5244,7 +5244,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Asnulfu n tɣawsiwin</translation>
     </message>
 </context>
 <context>
@@ -5495,7 +5495,7 @@ currently %2 x %3 DPI</source>
     <name>DrwPlug</name>
     <message>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>Group%1</translation>
     </message>
     <message>
         <source>Importing: %1</source>
@@ -5507,7 +5507,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Asnulfu n tɣawsiwin</translation>
     </message>
 </context>
 <context>
@@ -5528,7 +5528,7 @@ failed!</source>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Asnulfu n tɣawsiwin</translation>
     </message>
     <message>
         <source>Analyzing PostScript:</source>
@@ -5540,7 +5540,7 @@ failed!</source>
     </message>
     <message>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>Group%1</translation>
     </message>
     <message>
         <source>Importing: %1</source>
@@ -5788,7 +5788,7 @@ failed!</source>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Asnulfu n tɣawsiwin</translation>
     </message>
 </context>
 <context>
@@ -5803,7 +5803,7 @@ failed!</source>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>Mdel</translation>
     </message>
     <message>
         <source>Exception</source>
@@ -6341,7 +6341,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>Mdel</translation>
     </message>
     <message>
         <source>Alt+C</source>
@@ -7009,7 +7009,7 @@ Ignore List</source>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Asnulfu n tɣawsiwin</translation>
     </message>
 </context>
 <context>
@@ -8525,7 +8525,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>Mdel</translation>
     </message>
     <message>
         <source>&amp;New Script:</source>
@@ -10378,7 +10378,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>Group%1</translation>
     </message>
 </context>
 <context>
@@ -10623,7 +10623,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Asnulfu n tɣawsiwin</translation>
     </message>
 </context>
 <context>
@@ -11726,7 +11726,7 @@ Often used for allowing items to be placed across page spreads</source>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Asnulfu n tɣawsiwin</translation>
     </message>
     <message>
         <source>Parsing failed!
@@ -12424,7 +12424,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Asnulfu n tɣawsiwin</translation>
     </message>
 </context>
 <context>
@@ -12494,7 +12494,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Asnulfu n tɣawsiwin</translation>
     </message>
     <message>
         <source>Open PDF-File</source>
@@ -20613,7 +20613,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>Mdel</translation>
     </message>
     <message>
         <source>Stay on &amp;Top</source>
@@ -24559,7 +24559,7 @@ converting their vector data into Scribus objects.</source>
     <name>SVGPlug</name>
     <message>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>Group%1</translation>
     </message>
 </context>
 <context>
@@ -25886,7 +25886,7 @@ If you save it in this version, it will no longer be readable by older Scribus v
     </message>
     <message>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>Group%1</translation>
     </message>
 </context>
 <context>
@@ -26055,7 +26055,7 @@ Rotation: %4</source>
     </message>
     <message>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>Group%1</translation>
     </message>
     <message>
         <source>Imported </source>
@@ -26632,7 +26632,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Homepage</source>
-        <translation type="unfinished"/>
+        <translation>Asmel unṣib</translation>
     </message>
     <message>
         <source>Documentation</source>
@@ -26640,7 +26640,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Wiki</source>
-        <translation type="unfinished"/>
+        <translation>Wiki</translation>
     </message>
     <message>
         <source>Issues</source>
@@ -26789,7 +26789,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>Mdel</translation>
     </message>
     <message>
         <source>Ctrl+W</source>
@@ -27122,7 +27122,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="unfinished"/>
+        <translation>Mdel</translation>
     </message>
     <message>
         <source>C&amp;lear</source>
@@ -27249,11 +27249,11 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Asnulfu n tɣawsiwin</translation>
     </message>
     <message>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>Group%1</translation>
     </message>
 </context>
 <context>
@@ -27376,7 +27376,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Asnulfu n tɣawsiwin</translation>
     </message>
 </context>
 <context>
@@ -27888,7 +27888,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Asnulfu n tɣawsiwin</translation>
     </message>
 </context>
 <context>
@@ -30413,7 +30413,7 @@ Would you like to start the system&apos;s default browser instead?</source>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Asnulfu n tɣawsiwin</translation>
     </message>
 </context>
 <context>
@@ -30496,11 +30496,11 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>Group%1</translation>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Asnulfu n tɣawsiwin</translation>
     </message>
 </context>
 <context>
@@ -30515,7 +30515,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Asnulfu n tɣawsiwin</translation>
     </message>
 </context>
 <context>
@@ -30561,7 +30561,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Asnulfu n tɣawsiwin</translation>
     </message>
 </context>
 <context>
@@ -31002,7 +31002,7 @@ please choose another one.</source>
     </message>
     <message>
         <source>&amp;About</source>
-        <translation type="unfinished"/>
+        <translation>Ɣef</translation>
     </message>
     <message>
         <source>&amp;Help</source>
@@ -31109,7 +31109,7 @@ please choose another one.</source>
     </message>
     <message>
         <source>&amp;About</source>
-        <translation type="unfinished"/>
+        <translation>Ɣef</translation>
     </message>
     <message>
         <source>&amp;Preview</source>
