@@ -12,7 +12,7 @@ Translations are managed via [Transifex](https://www.transifex.com/projects/p/sc
 | English (India)       |en_IN
 | Afrikaans             |af             |                         |           |     |
 | Esperanto             |eo             |                         |           |     |
-| French                |fr             |                         |           |     |
+| French                |fr             | Jean Ghali              |           |:+1: |
 | German                |de             | Christoph S             |           |:+1: |
 | German (Trad.)        |de_1901        | Christoph S             |           |:+1: |
 | German (Swiss)        |de_CH          | Christoph S             |           |:+1: |
