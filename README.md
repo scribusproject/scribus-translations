@@ -57,7 +57,7 @@ Translations are managed via [Transifex](https://www.transifex.com/projects/p/sc
 | Japanese              |jp             |                         |           |     |
 | Korean                |ko             |                         |           |     |
 | Arabic                |ar             |                         |           |     |
-| Hebrew                |he_IL          | luzpaz                  |   :+1:    |     |
+| Hebrew                |he_IL          | @luzpaz                 |   :+1:    |     |
 
 ## Tracking correct Translations
 Organizing Transifex vs. SVN  
