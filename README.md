@@ -26,7 +26,7 @@ Translations are managed via [Transifex](https://www.transifex.com/projects/p/sc
 | Albanian              |sq             |                         |           |     |
 | Polish                |pl_PL          |                         |           |     |
 | Galacian              |gl             |                         |           |     |
-| Hungarian             |hu             |                         |           |     |
+| Hungarian             |hu             | @gyuris / bubu          |   :+1:    |     |
 | Danish (Denmark)      |da_DK          |                         |           |     |
 | Norwegian Bokmål      |nb_NO          |                         |           |     |
 | Finnish               |fi             |                         |           |     |
