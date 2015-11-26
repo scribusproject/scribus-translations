@@ -3,15 +3,15 @@
     <name>AIPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Sedang mengimpor: %1</translation>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Sedang Menganalisis Berkas:</translation>
     </message>
     <message>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>Grup%1</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -26,19 +26,19 @@
     </message>
     <message>
         <source>&amp;About</source>
-        <translation type="unfinished"/>
+        <translation>Tent&amp;ang</translation>
     </message>
     <message>
         <source>A&amp;uthors</source>
-        <translation type="unfinished"/>
+        <translation>Pen_ulis</translation>
     </message>
     <message>
         <source>&amp;Translations</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Terjemahan</translation>
     </message>
     <message>
         <source>&amp;Online</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Online</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -46,87 +46,87 @@
     </message>
     <message>
         <source>Development Team:</source>
-        <translation type="unfinished"/>
+        <translation>Tim Pengembang:</translation>
     </message>
     <message>
         <source>Official Documentation:</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentasi Resmi:</translation>
     </message>
     <message>
         <source>Other Documentation:</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentasi Lain:</translation>
     </message>
     <message>
         <source>Homepage</source>
-        <translation type="unfinished"/>
+        <translation>Situs resmi</translation>
     </message>
     <message>
         <source>Online Reference</source>
-        <translation type="unfinished"/>
+        <translation> Referensi Online</translation>
     </message>
     <message>
         <source>Bugs and Feature Requests</source>
-        <translation type="unfinished"/>
+        <translation>Bug dan Permintaan Fitur</translation>
     </message>
     <message>
         <source>Mailing List</source>
-        <translation type="unfinished"/>
+        <translation>Milis</translation>
     </message>
     <message>
         <source>Official Translations and Translators:</source>
-        <translation type="unfinished"/>
+        <translation>Penerjemahan Pesmi dan Penerjemah:</translation>
     </message>
     <message>
         <source>Previous Translation Contributors:</source>
-        <translation type="unfinished"/>
+        <translation>Kontributor Terjemahan Sebelumnya:</translation>
     </message>
     <message>
         <source>About Scribus %1</source>
-        <translation type="unfinished"/>
+        <translation>Tentang Scribus %1</translation>
     </message>
     <message>
         <source>Wiki</source>
-        <translation type="unfinished"/>
+        <translation>Wiki</translation>
     </message>
     <message>
         <source>%1 %2 %3</source>
-        <translation type="unfinished"/>
+        <translation>%1 %2 %3</translation>
     </message>
     <message>
         <source>%3-%2-%1 %4 %5</source>
-        <translation type="unfinished"/>
+        <translation>%3-%2-%1 %4 %5</translation>
     </message>
     <message>
         <source>Using Ghostscript version %1</source>
-        <translation type="unfinished"/>
+        <translation>Menggunakan Ghostscript versi %1</translation>
     </message>
     <message>
         <source>No Ghostscript version available</source>
-        <translation type="unfinished"/>
+        <translation>Tidak ada versi Ghostscript tersedia</translation>
     </message>
     <message>
         <source>Build ID:</source>
-        <translation type="unfinished"/>
+        <translation>Tanda Pengenal Build:</translation>
     </message>
     <message>
         <source>Mac OS&amp;#174; X Aqua Port:</source>
-        <translation type="unfinished"/>
+        <translation>Port Mac OS&amp;#174; X Aqua:</translation>
     </message>
     <message>
         <source>Windows&amp;#174; Port:</source>
-        <translation type="unfinished"/>
+        <translation>Port Windows&amp;#174;:</translation>
     </message>
     <message>
         <source>Tango Project Icons:</source>
-        <translation type="unfinished"/>
+        <translation>Proyek Ikon Tango</translation>
     </message>
     <message>
         <source>&amp;Updates</source>
-        <translation type="unfinished"/>
+        <translation>Pem_utakhiran</translation>
     </message>
     <message>
         <source>Check for updates to Scribus. No data from your machine will be transferred off it.</source>
-        <translation type="unfinished"/>
+        <translation>Periksa pemutakhiran Scribus. Tidak ada data dari mesin Anda akan ditransfer. </translation>
     </message>
     <message>
         <source>OS/2&amp;#174;/eComStation&amp;#8482; Port:</source>
@@ -134,7 +134,7 @@
     </message>
     <message>
         <source>Splash Screen:</source>
-        <translation type="unfinished"/>
+        <translation>Splash Screen:</translation>
     </message>
     <message>
         <source>This panel shows the version, build date and compiled in library support in Scribus.</source>
@@ -3551,11 +3551,11 @@ Page: %2</source>
     <name>CdrPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Sedang mengimpor: %1</translation>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Sedang Menganalisis Berkas:</translation>
     </message>
     <message>
         <source>Parsing failed!
@@ -3576,11 +3576,11 @@ Document Liberation Project http://www.documentliberation.org</source>
     <name>CgmPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Sedang mengimpor: %1</translation>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Sedang Menganalisis Berkas:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -3864,7 +3864,7 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     </message>
     <message>
         <source>Page </source>
-        <translation type="unfinished"/>
+        <translation>Halaman</translation>
     </message>
     <message>
         <source>Free Objects</source>
@@ -5236,11 +5236,11 @@ currently %2 x %3 DPI</source>
     <name>CvgPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Sedang mengimpor: %1</translation>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Sedang Menganalisis Berkas:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -5495,15 +5495,15 @@ currently %2 x %3 DPI</source>
     <name>DrwPlug</name>
     <message>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>Grup%1</translation>
     </message>
     <message>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Sedang mengimpor: %1</translation>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Sedang Menganalisis Berkas:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -5540,11 +5540,11 @@ failed!</source>
     </message>
     <message>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>Grup%1</translation>
     </message>
     <message>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Sedang mengimpor: %1</translation>
     </message>
 </context>
 <context>
@@ -5780,11 +5780,11 @@ failed!</source>
     <name>EmfPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Sedang mengimpor: %1</translation>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Sedang Menganalisis Berkas:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -6142,11 +6142,11 @@ Use 72 dpi for Images intended for the Screen</source>
     <name>FhPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Sedang mengimpor: %1</translation>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Sedang Menganalisis Berkas:</translation>
     </message>
     <message>
         <source>Parsing failed!
@@ -7001,11 +7001,11 @@ Ignore List</source>
     <name>IdmlPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Sedang mengimpor: %1</translation>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Sedang Menganalisis Berkas:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -10378,7 +10378,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>Grup%1</translation>
     </message>
 </context>
 <context>
@@ -10615,11 +10615,11 @@ You cannot switch to different notes style before you apply that new one or pres
     <name>OdgPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Sedang mengimpor: %1</translation>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Sedang Menganalisis Berkas:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -10745,7 +10745,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Page </source>
-        <translation type="unfinished"/>
+        <translation>Halaman</translation>
     </message>
     <message>
         <source>Free Objects</source>
@@ -10761,11 +10761,11 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Filter:</source>
-        <translation type="unfinished"/>
+        <translation>Filter:</translation>
     </message>
     <message>
         <source>Active</source>
-        <translation type="unfinished"/>
+        <translation>Aktif</translation>
     </message>
     <message>
         <source>Visible</source>
@@ -10773,11 +10773,11 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Printing</source>
-        <translation type="unfinished"/>
+        <translation>Pencetakan</translation>
     </message>
     <message>
         <source>Locked</source>
-        <translation type="unfinished"/>
+        <translation>Terkunci</translation>
     </message>
     <message>
         <source>Layer: &quot;</source>
@@ -10842,7 +10842,7 @@ You cannot switch to different notes style before you apply that new one or pres
     <name>PDFExportDialog</name>
     <message>
         <source>Save as PDF</source>
-        <translation type="unfinished"/>
+        <translation>Simpan sebagai PDF</translation>
     </message>
     <message>
         <source>O&amp;utput to File:</source>
@@ -11718,11 +11718,11 @@ Often used for allowing items to be placed across page spreads</source>
     <name>PagesPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Sedang mengimpor: %1</translation>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Sedang Menganalisis Berkas:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -12416,11 +12416,11 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <name>PctPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Sedang mengimpor: %1</translation>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Sedang Menganalisis Berkas:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -12486,11 +12486,11 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <name>PdfPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Sedang mengimpor: %1</translation>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Sedang Menganalisis Berkas:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -13625,11 +13625,11 @@ Please choose another one.</source>
     <name>PmPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Sedang mengimpor: %1</translation>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Sedang Menganalisis Berkas:</translation>
     </message>
     <message>
         <source>Parsing failed!
@@ -16894,7 +16894,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Printing</source>
-        <translation type="unfinished"/>
+        <translation>Pencetakan</translation>
     </message>
     <message>
         <source>Destination</source>
@@ -20020,11 +20020,11 @@ Transparency</source>
     <name>PubPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Sedang mengimpor: %1</translation>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Sedang Menganalisis Berkas:</translation>
     </message>
     <message>
         <source>Parsing failed!
@@ -24559,7 +24559,7 @@ converting their vector data into Scribus objects.</source>
     <name>SVGPlug</name>
     <message>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>Grup%1</translation>
     </message>
 </context>
 <context>
@@ -25886,7 +25886,7 @@ If you save it in this version, it will no longer be readable by older Scribus v
     </message>
     <message>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>Grup%1</translation>
     </message>
 </context>
 <context>
@@ -26055,7 +26055,7 @@ Rotation: %4</source>
     </message>
     <message>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>Grup%1</translation>
     </message>
     <message>
         <source>Imported </source>
@@ -26632,7 +26632,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Homepage</source>
-        <translation type="unfinished"/>
+        <translation>Situs resmi</translation>
     </message>
     <message>
         <source>Documentation</source>
@@ -26640,7 +26640,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Wiki</source>
-        <translation type="unfinished"/>
+        <translation>Wiki</translation>
     </message>
     <message>
         <source>Issues</source>
@@ -27241,11 +27241,11 @@ Consider using the Preflight Verifier to correct them</source>
     <name>ShapePlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Sedang mengimpor: %1</translation>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Sedang Menganalisis Berkas:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -27253,7 +27253,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>Grup%1</translation>
     </message>
 </context>
 <context>
@@ -27368,11 +27368,11 @@ Consider using the Preflight Verifier to correct them</source>
     <name>SmlPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Sedang mengimpor: %1</translation>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Sedang Menganalisis Berkas:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -27880,11 +27880,11 @@ Consider using the Preflight Verifier to correct them</source>
     <name>SvmPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Sedang mengimpor: %1</translation>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Sedang Menganalisis Berkas:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -30405,11 +30405,11 @@ Would you like to start the system&apos;s default browser instead?</source>
     <name>VivaPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Sedang mengimpor: %1</translation>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Sedang Menganalisis Berkas:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -30420,11 +30420,11 @@ Would you like to start the system&apos;s default browser instead?</source>
     <name>VsdPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Sedang mengimpor: %1</translation>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Sedang Menganalisis Berkas:</translation>
     </message>
     <message>
         <source>Parsing failed!
@@ -30462,11 +30462,11 @@ converting their vector data into Scribus objects.</source>
     <name>WpgPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Sedang mengimpor: %1</translation>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Sedang Menganalisis Berkas:</translation>
     </message>
 </context>
 <context>
@@ -30488,15 +30488,15 @@ converting their vector data into Scribus objects.</source>
     <name>XarPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Sedang mengimpor: %1</translation>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Sedang Menganalisis Berkas:</translation>
     </message>
     <message>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>Grup%1</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -30507,11 +30507,11 @@ converting their vector data into Scribus objects.</source>
     <name>XfigPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Sedang mengimpor: %1</translation>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Sedang Menganalisis Berkas:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -30553,11 +30553,11 @@ converting their vector data into Scribus objects.</source>
     <name>XpsPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Sedang mengimpor: %1</translation>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Sedang Menganalisis Berkas:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -31002,7 +31002,7 @@ please choose another one.</source>
     </message>
     <message>
         <source>&amp;About</source>
-        <translation type="unfinished"/>
+        <translation>Tent&amp;ang</translation>
     </message>
     <message>
         <source>&amp;Help</source>
@@ -31109,7 +31109,7 @@ please choose another one.</source>
     </message>
     <message>
         <source>&amp;About</source>
-        <translation type="unfinished"/>
+        <translation>Tent&amp;ang</translation>
     </message>
     <message>
         <source>&amp;Preview</source>
@@ -31218,7 +31218,7 @@ please choose another one.</source>
     </message>
     <message>
         <source>Locked</source>
-        <translation type="unfinished"/>
+        <translation>Terkunci</translation>
     </message>
     <message>
         <source>Select all items on the current page</source>

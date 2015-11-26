@@ -209,7 +209,7 @@
     </message>
     <message>
         <source>Enabled:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Ingeschakeld:</translation>
     </message>
     <message>
         <source>Release Date:</source>
@@ -1333,31 +1333,31 @@
     </message>
     <message>
         <source>Marks...</source>
-        <translation type="unfinished"/>
+        <translation>Markeringen...</translation>
     </message>
     <message>
         <source>Notes Styles...</source>
-        <translation type="unfinished"/>
+        <translation>Notities Opmaak...</translation>
     </message>
     <message>
         <source>Adjust Group</source>
-        <translation type="unfinished"/>
+        <translation>Groep Aanpassen</translation>
     </message>
     <message>
         <source>Anchor Mark</source>
-        <translation type="unfinished"/>
+        <translation>Markering vastzetten</translation>
     </message>
     <message>
         <source>Variable Text</source>
-        <translation type="unfinished"/>
+        <translation>Veranderlijke Tekst</translation>
     </message>
     <message>
         <source>Reference to Item</source>
-        <translation type="unfinished"/>
+        <translation>Verwijst naar Item</translation>
     </message>
     <message>
         <source>Reference to Mark</source>
-        <translation type="unfinished"/>
+        <translation>Verwijst naar Markering</translation>
     </message>
     <message>
         <source>Foot/Endnote</source>
@@ -1365,11 +1365,11 @@
     </message>
     <message>
         <source>Edit Mark</source>
-        <translation type="unfinished"/>
+        <translation>Markering Aanpassen</translation>
     </message>
     <message>
         <source>Update Marks</source>
-        <translation type="unfinished"/>
+        <translation>Markeringen Updaten</translation>
     </message>
     <message>
         <source>Snap to Items</source>
@@ -1389,11 +1389,11 @@
     </message>
     <message>
         <source>&amp;Symbol</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Symbool</translation>
     </message>
     <message>
         <source>&amp;Update Document</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Update Document</translation>
     </message>
     <message>
         <source>Table</source>
@@ -1433,23 +1433,23 @@
     </message>
     <message>
         <source>Export the document to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Het document naar PDF exporteren</translation>
     </message>
     <message>
         <source>Create a new document</source>
-        <translation type="unfinished"/>
+        <translation>Nieuw document maken</translation>
     </message>
     <message>
         <source>Open an existing document</source>
-        <translation type="unfinished"/>
+        <translation>Open bestaand document</translation>
     </message>
     <message>
         <source>Print the document</source>
-        <translation type="unfinished"/>
+        <translation>Document uitprinten</translation>
     </message>
     <message>
         <source>Save the current document</source>
-        <translation type="unfinished"/>
+        <translation>Huidig document opslaan</translation>
     </message>
     <message>
         <source>Copy item properties</source>
@@ -1469,7 +1469,7 @@
     </message>
     <message>
         <source>Insert an arc</source>
-        <translation type="unfinished"/>
+        <translation>Boog invoegen</translation>
     </message>
     <message>
         <source>Insert a bezier curve</source>
@@ -1489,7 +1489,7 @@
     </message>
     <message>
         <source>Insert a line</source>
-        <translation type="unfinished"/>
+        <translation>Lijn invoegen</translation>
     </message>
     <message>
         <source>Insert a polygon</source>
@@ -1501,15 +1501,15 @@
     </message>
     <message>
         <source>Insert a shape</source>
-        <translation type="unfinished"/>
+        <translation>Vorm invoegen</translation>
     </message>
     <message>
         <source>Insert a spiral</source>
-        <translation type="unfinished"/>
+        <translation>Spiraal invoegen</translation>
     </message>
     <message>
         <source>Insert a table</source>
-        <translation type="unfinished"/>
+        <translation>Tabel invoegen</translation>
     </message>
     <message>
         <source>Insert a text frame</source>
@@ -9278,7 +9278,7 @@ p, li { white-space: pre-wrap; }
     <name>MarkAnchor</name>
     <message>
         <source>Anchor Mark</source>
-        <translation type="unfinished"/>
+        <translation>Markering vastzetten</translation>
     </message>
 </context>
 <context>
@@ -9372,7 +9372,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Variable Text</source>
-        <translation type="unfinished"/>
+        <translation>Veranderlijke Tekst</translation>
     </message>
     <message>
         <source>Marks to Items</source>

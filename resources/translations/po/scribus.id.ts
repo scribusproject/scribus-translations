@@ -4,17 +4,17 @@
     <message>
         <location filename="../../../scribus/plugins/import/ai/importai.cpp" line="124"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Sedang mengimpor: %1</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/ai/importai.cpp" line="127"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Sedang Menganalisis Berkas:</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/ai/importai.cpp" line="262"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>Grup%1</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/ai/importai.cpp" line="2495"/>
@@ -27,42 +27,42 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="97"/>
         <source>About Scribus %1</source>
-        <translation type="unfinished"/>
+        <translation>Tentang Scribus %1</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="125"/>
         <source>%1 %2 %3</source>
-        <translation type="unfinished"/>
+        <translation>%1 %2 %3</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="133"/>
         <source>%3-%2-%1 %4 %5</source>
-        <translation type="unfinished"/>
+        <translation>%3-%2-%1 %4 %5</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="183"/>
         <source>Using Ghostscript version %1</source>
-        <translation type="unfinished"/>
+        <translation>Menggunakan Ghostscript versi %1</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="185"/>
         <source>No Ghostscript version available</source>
-        <translation type="unfinished"/>
+        <translation>Tidak ada versi Ghostscript tersedia</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="186"/>
         <source>Build ID:</source>
-        <translation type="unfinished"/>
+        <translation>Tanda Pengenal Build:</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="188"/>
         <source>&amp;About</source>
-        <translation type="unfinished"/>
+        <translation>Tent&amp;ang</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="299"/>
         <source>Development Team:</source>
-        <translation type="unfinished"/>
+        <translation>Tim Pengembang:</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="307"/>
@@ -77,82 +77,82 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="301"/>
         <source>Mac OS&amp;#174; X Aqua Port:</source>
-        <translation type="unfinished"/>
+        <translation>Port Mac OS&amp;#174; X Aqua:</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="305"/>
         <source>Windows&amp;#174; Port:</source>
-        <translation type="unfinished"/>
+        <translation>Port Windows&amp;#174;:</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="311"/>
         <source>Official Documentation:</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentasi Resmi:</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="315"/>
         <source>Other Documentation:</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentasi Lain:</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="321"/>
         <source>Tango Project Icons:</source>
-        <translation type="unfinished"/>
+        <translation>Proyek Ikon Tango</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="201"/>
         <source>A&amp;uthors</source>
-        <translation type="unfinished"/>
+        <translation>Pen_ulis</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="333"/>
         <source>Official Translations and Translators:</source>
-        <translation type="unfinished"/>
+        <translation>Penerjemahan Pesmi dan Penerjemah:</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="335"/>
         <source>Previous Translation Contributors:</source>
-        <translation type="unfinished"/>
+        <translation>Kontributor Terjemahan Sebelumnya:</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="215"/>
         <source>&amp;Translations</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Terjemahan</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="349"/>
         <source>Homepage</source>
-        <translation type="unfinished"/>
+        <translation>Situs resmi</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="351"/>
         <source>Online Reference</source>
-        <translation type="unfinished"/>
+        <translation> Referensi Online</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="353"/>
         <source>Wiki</source>
-        <translation type="unfinished"/>
+        <translation>Wiki</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="355"/>
         <source>Bugs and Feature Requests</source>
-        <translation type="unfinished"/>
+        <translation>Bug dan Permintaan Fitur</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="359"/>
         <source>Mailing List</source>
-        <translation type="unfinished"/>
+        <translation>Milis</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="226"/>
         <source>&amp;Online</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Online</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="229"/>
         <source>&amp;Updates</source>
-        <translation type="unfinished"/>
+        <translation>Pem_utakhiran</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="267"/>
@@ -162,7 +162,7 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="279"/>
         <source>Check for updates to Scribus. No data from your machine will be transferred off it.</source>
-        <translation type="unfinished"/>
+        <translation>Periksa pemutakhiran Scribus. Tidak ada data dari mesin Anda akan ditransfer. </translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="303"/>
@@ -172,7 +172,7 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="319"/>
         <source>Splash Screen:</source>
-        <translation type="unfinished"/>
+        <translation>Splash Screen:</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="275"/>
@@ -4655,7 +4655,7 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     <message>
         <location filename="../../../scribus/checkDocument.cpp" line="569"/>
         <source>Page </source>
-        <translation type="unfinished"/>
+        <translation>Halaman</translation>
     </message>
     <message>
         <location filename="../../../scribus/checkDocument.cpp" line="627"/>
@@ -6190,17 +6190,17 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/plugins/import/cvg/importcvg.cpp" line="79"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Sedang mengimpor: %1</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/cvg/importcvg.cpp" line="82"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Sedang Menganalisis Berkas:</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/cvg/importcvg.cpp" line="205"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>Grup%1</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/cvg/importcvg.cpp" line="332"/>
@@ -6756,7 +6756,7 @@ See the Edit Colors section of the documentation for more details.</source>
         <location filename="../../../scribus/plugins/import/ps/importps.cpp" line="278"/>
         <location filename="../../../scribus/plugins/import/ps/importps.cpp" line="706"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>Grup%1</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/ps/importps.cpp" line="476"/>
@@ -6788,7 +6788,7 @@ failed!</source>
     <message>
         <location filename="../../../scribus/plugins/import/ps/importps.cpp" line="80"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Sedang mengimpor: %1</translation>
     </message>
 </context>
 <context>
@@ -11193,7 +11193,7 @@ If no handle is selected all handles will be reset.</source>
         <location filename="../../../scribus/plugins/import/oodraw/oodrawimp.cpp" line="467"/>
         <location filename="../../../scribus/plugins/import/oodraw/oodrawimp.cpp" line="617"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>Grup%1</translation>
     </message>
 </context>
 <context>
@@ -11369,7 +11369,7 @@ If no handle is selected all handles will be reset.</source>
     <message>
         <location filename="../../../scribus/outlinepalette.cpp" line="776"/>
         <source>Page </source>
-        <translation type="unfinished"/>
+        <translation>Halaman</translation>
     </message>
     <message>
         <location filename="../../../scribus/outlinepalette.cpp" line="831"/>
@@ -11390,7 +11390,7 @@ If no handle is selected all handles will be reset.</source>
         <location filename="../../../scribus/outlinepalette.cpp" line="156"/>
         <location filename="../../../scribus/outlinepalette.cpp" line="934"/>
         <source>Filter:</source>
-        <translation type="unfinished"/>
+        <translation>Filter:</translation>
     </message>
     <message>
         <location filename="../../../scribus/outlinepalette.cpp" line="155"/>
@@ -11418,7 +11418,7 @@ If no handle is selected all handles will be reset.</source>
         <location filename="../../../scribus/pdfopts.cpp" line="60"/>
         <location filename="../../../scribus/pdfopts.cpp" line="158"/>
         <source>Save as PDF</source>
-        <translation type="unfinished"/>
+        <translation>Simpan sebagai PDF</translation>
     </message>
     <message>
         <location filename="../../../scribus/pdfopts.cpp" line="66"/>
@@ -12808,17 +12808,17 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <message>
         <location filename="../../../scribus/plugins/import/pct/importpct.cpp" line="82"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Sedang mengimpor: %1</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/pct/importpct.cpp" line="85"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Sedang Menganalisis Berkas:</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/pct/importpct.cpp" line="209"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>Grup%1</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/pct/importpct.cpp" line="368"/>
@@ -19756,7 +19756,7 @@ converting their vector data into Scribus objects.</source>
         <location filename="../../../scribus/plugins/import/svg/svgplugin.cpp" line="407"/>
         <location filename="../../../scribus/plugins/import/svg/svgplugin.cpp" line="1019"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>Grup%1</translation>
     </message>
 </context>
 <context>
@@ -20228,7 +20228,7 @@ Rotation: %4</source>
     <message>
         <location filename="../../../scribus/scribusdoc.cpp" line="10615"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>Grup%1</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusdoc.cpp" line="2896"/>
@@ -20836,7 +20836,7 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <location filename="../../../scribus/scribusapp.cpp" line="497"/>
         <source>Homepage</source>
-        <translation type="unfinished"/>
+        <translation>Situs resmi</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusapp.cpp" line="498"/>
@@ -20846,7 +20846,7 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <location filename="../../../scribus/scribusapp.cpp" line="499"/>
         <source>Wiki</source>
-        <translation type="unfinished"/>
+        <translation>Wiki</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusapp.cpp" line="500"/>
@@ -20964,7 +20964,7 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <location filename="../../../scribus/scribusview.cpp" line="3698"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>Grup%1</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusview.cpp" line="4005"/>
@@ -27123,7 +27123,7 @@ Would you like to start the system&apos;s default browser instead?</source>
     <message>
         <location filename="../../../scribus/plugins/import/wmf/wmfimport.cpp" line="647"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>Grup%1</translation>
     </message>
 </context>
 <context>
@@ -27160,17 +27160,17 @@ converting their vector data into Scribus objects.</source>
     <message>
         <location filename="../../../scribus/plugins/import/xfig/importxfig.cpp" line="147"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Sedang mengimpor: %1</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/xfig/importxfig.cpp" line="150"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Sedang Menganalisis Berkas:</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/xfig/importxfig.cpp" line="283"/>
         <source>Group%1</source>
-        <translation type="unfinished"/>
+        <translation>Grup%1</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/xfig/importxfig.cpp" line="1552"/>
@@ -27477,7 +27477,7 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../../scribus/plugins/newfromtemplateplugin/nftdialog.ui" line="62"/>
         <source>&amp;About</source>
-        <translation type="unfinished"/>
+        <translation>Tent&amp;ang</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/newfromtemplateplugin/nftdialog.ui" line="114"/>
@@ -27610,7 +27610,7 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../../scribus/nftwidget.ui" line="81"/>
         <source>&amp;About</source>
-        <translation type="unfinished"/>
+        <translation>Tent&amp;ang</translation>
     </message>
     <message>
         <location filename="../../../scribus/nftwidget.ui" line="105"/>
@@ -27801,7 +27801,7 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../../scribus/selectobjects.ui" line="231"/>
         <source>Locked</source>
-        <translation type="unfinished"/>
+        <translation>Terkunci</translation>
     </message>
     <message>
         <location filename="../../../scribus/selectobjects.ui" line="261"/>

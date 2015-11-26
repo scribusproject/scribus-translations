@@ -30,19 +30,19 @@
     </message>
     <message>
         <source>A&amp;uthors</source>
-        <translation>作者 (&amp;u)</translation>
+        <translation>作者(&amp;u)</translation>
     </message>
     <message>
         <source>&amp;Translations</source>
-        <translation>翻译 (&amp;T)</translation>
+        <translation>翻译(&amp;T)</translation>
     </message>
     <message>
         <source>&amp;Online</source>
-        <translation>在线资料 (&amp;O)</translation>
+        <translation>在线资料(&amp;O)</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>关闭 (&amp;C)</translation>
+        <translation>关闭(&amp;C)</translation>
     </message>
     <message>
         <source>Development Team:</source>
@@ -122,7 +122,7 @@
     </message>
     <message>
         <source>&amp;Updates</source>
-        <translation>更新 (&amp;U)</translation>
+        <translation>更新(&amp;U)</translation>
     </message>
     <message>
         <source>Check for updates to Scribus. No data from your machine will be transferred off it.</source>
@@ -190,11 +190,11 @@
     </message>
     <message>
         <source>Haiku Port:</source>
-        <translation type="unfinished"/>
+        <translation>Haiku 移植：</translation>
     </message>
     <message>
         <source>SVN Revision: %1</source>
-        <translation type="unfinished"/>
+        <translation>SVN 版本: %1</translation>
     </message>
 </context>
 <context>
@@ -209,7 +209,7 @@
     </message>
     <message>
         <source>Enabled:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">启用 :</translation>
     </message>
     <message>
         <source>Release Date:</source>
@@ -240,39 +240,39 @@
     <name>ActionManager</name>
     <message>
         <source>&amp;Image Effects</source>
-        <translation>图像效果 (&amp;I)</translation>
+        <translation>图像效果(&amp;I)</translation>
     </message>
     <message>
         <source>&amp;Tabulators...</source>
-        <translation>制表符 (&amp;T)...</translation>
+        <translation>制表符(&amp;T)...</translation>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation>新建 (&amp;N)</translation>
+        <translation>新建(&amp;N)</translation>
     </message>
     <message>
         <source>&amp;Open...</source>
-        <translation>打开 (&amp;O)...</translation>
+        <translation>打开(&amp;O)...</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>关闭 (&amp;C)</translation>
+        <translation>关闭(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation>保存 (&amp;S)</translation>
+        <translation>保存(&amp;S)</translation>
     </message>
     <message>
         <source>Save &amp;As...</source>
-        <translation>另存为 (&amp;A)...</translation>
+        <translation>另存为(&amp;A)...</translation>
     </message>
     <message>
         <source>Re&amp;vert to Saved</source>
-        <translation>恢复到保存前 (&amp;V)</translation>
+        <translation>恢复到保存前(&amp;V)</translation>
     </message>
     <message>
         <source>Collect for O&amp;utput...</source>
-        <translation>采集输出 (&amp;U)...</translation>
+        <translation>采集输出(&amp;U)...</translation>
     </message>
     <message>
         <source>Get Text...</source>
@@ -280,7 +280,7 @@
     </message>
     <message>
         <source>Append &amp;Text...</source>
-        <translation>追加文本 (&amp;T)...</translation>
+        <translation>追加文本(&amp;T)...</translation>
     </message>
     <message>
         <source>Get Image...</source>
@@ -288,67 +288,67 @@
     </message>
     <message>
         <source>Save &amp;Text...</source>
-        <translation>保存文本 (&amp;T)...</translation>
+        <translation>保存文本(&amp;T)...</translation>
     </message>
     <message>
         <source>Save as P&amp;DF...</source>
-        <translation>保存为PDF (&amp;D)...</translation>
+        <translation>保存为PDF(&amp;D)...</translation>
     </message>
     <message>
         <source>Document &amp;Setup...</source>
-        <translation>文档设置 (&amp;S)...</translation>
+        <translation>文档设置(&amp;S)...</translation>
     </message>
     <message>
         <source>&amp;Print...</source>
-        <translation>打印 (&amp;P)...</translation>
+        <translation>打印(&amp;P)...</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation>退出 (&amp;Q)</translation>
+        <translation>退出(&amp;Q)</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation>撤销 (&amp;U)</translation>
+        <translation>撤销(&amp;U)</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation>重复 (&amp;R)</translation>
+        <translation>重复(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Item Action Mode</source>
-        <translation type="unfinished"/>
+        <translation>项目操作模式(&amp;I)</translation>
     </message>
     <message>
         <source>Cu&amp;t</source>
-        <translation>剪切 (&amp;t)</translation>
+        <translation>剪切(&amp;t)</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation>复制 (&amp;C)</translation>
+        <translation>复制(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation>粘贴 (&amp;P)</translation>
+        <translation>粘贴(&amp;P)</translation>
     </message>
     <message>
         <source>Select &amp;All</source>
-        <translation>全选 (&amp;A)</translation>
+        <translation>全选(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Deselect All</source>
-        <translation>取消全选 (&amp;D)</translation>
+        <translation>取消全选(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Search/Replace...</source>
-        <translation>查找/替换 (&amp;S)...</translation>
+        <translation>查找/替换(&amp;S)...</translation>
     </message>
     <message>
         <source>&amp;Master Pages...</source>
-        <translation>母页 (&amp;M)...</translation>
+        <translation>母页(&amp;M)...</translation>
     </message>
     <message>
         <source>P&amp;references...</source>
-        <translation>首选项 (&amp;r)...</translation>
+        <translation>首选项(&amp;r)...</translation>
     </message>
     <message>
         <source>%1 pt</source>
@@ -356,91 +356,91 @@
     </message>
     <message>
         <source>&amp;Other...</source>
-        <translation>其他 (&amp;O)...</translation>
+        <translation>其他(&amp;O)...</translation>
     </message>
     <message>
         <source>&amp;Left</source>
-        <translation>左对齐 (&amp;L)</translation>
+        <translation>左对齐(&amp;L)</translation>
     </message>
     <message>
         <source>&amp;Center</source>
-        <translation>居中对齐 (&amp;C)</translation>
+        <translation>居中对齐(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Right</source>
-        <translation>右对齐 (&amp;R)</translation>
+        <translation>右对齐(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Block</source>
-        <translation>区块 (&amp;B)</translation>
+        <translation>区块(&amp;B)</translation>
     </message>
     <message>
         <source>&amp;Forced</source>
-        <translation>强制 (&amp;F)</translation>
+        <translation>强制(&amp;F)</translation>
     </message>
     <message>
         <source>&amp;Normal</source>
-        <translation>普通 (&amp;N)</translation>
+        <translation>普通(&amp;N)</translation>
     </message>
     <message>
         <source>&amp;Underline</source>
-        <translation>下划线 (&amp;U)</translation>
+        <translation>下划线(&amp;U)</translation>
     </message>
     <message>
         <source>Underline &amp;Words</source>
-        <translation>文字下划线 (&amp;W)</translation>
+        <translation>文字下划线(&amp;W)</translation>
     </message>
     <message>
         <source>&amp;Strike Through</source>
-        <translation>删除线 (&amp;S)</translation>
+        <translation>删除线(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;All Caps</source>
-        <translation>全部大写 (&amp;A)</translation>
+        <translation>全部大写(&amp;A)</translation>
     </message>
     <message>
         <source>Small &amp;Caps</source>
-        <translation>小写 (&amp;C)</translation>
+        <translation>小写(&amp;C)</translation>
     </message>
     <message>
         <source>Su&amp;perscript</source>
-        <translation>上标 (&amp;P)</translation>
+        <translation>上标(&amp;P)</translation>
     </message>
     <message>
         <source>Su&amp;bscript</source>
-        <translation>下标 (&amp;B)</translation>
+        <translation>下标(&amp;B)</translation>
     </message>
     <message>
         <source>D&amp;uplicate</source>
-        <translation>复印 (&amp;u)</translation>
+        <translation>复印(&amp;u)</translation>
     </message>
     <message>
         <source>&amp;Multiple Duplicate</source>
-        <translation>多重复印 (&amp;M)</translation>
+        <translation>多重复印(&amp;M)</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>删除 (&amp;D)</translation>
+        <translation>删除(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Group</source>
-        <translation>编组 (&amp;G)</translation>
+        <translation>编组(&amp;G)</translation>
     </message>
     <message>
         <source>&amp;Ungroup</source>
-        <translation>解组 (&amp;U)</translation>
+        <translation>解组(&amp;U)</translation>
     </message>
     <message>
         <source>Is &amp;Locked</source>
-        <translation>锁定 (&amp;L)</translation>
+        <translation>锁定(&amp;L)</translation>
     </message>
     <message>
         <source>Si&amp;ze is Locked</source>
-        <translation>锁定大小 (&amp;z)</translation>
+        <translation>锁定大小(&amp;z)</translation>
     </message>
     <message>
         <source>Lower to &amp;Bottom</source>
-        <translation>降低到底层 (&amp;B)</translation>
+        <translation>降低到底层(&amp;B)</translation>
     </message>
     <message>
         <source>Raize to &amp;Top</source>
@@ -448,7 +448,7 @@
     </message>
     <message>
         <source>&amp;Lower</source>
-        <translation>降低 (&amp;L)</translation>
+        <translation>降低(&amp;L)</translation>
     </message>
     <message>
         <source>&amp;Raize</source>
@@ -456,71 +456,71 @@
     </message>
     <message>
         <source>&amp;Attributes...</source>
-        <translation>特性 (&amp;A)...</translation>
+        <translation>特性(&amp;A)...</translation>
     </message>
     <message>
         <source>I&amp;mage Visible</source>
-        <translation>显示图像 (&amp;M)</translation>
+        <translation>显示图像(&amp;M)</translation>
     </message>
     <message>
         <source>Embed Image</source>
-        <translation type="unfinished"/>
+        <translation>嵌入图像</translation>
     </message>
     <message>
         <source>Is PDF &amp;Bookmark</source>
-        <translation>为PDF书签 (&amp;B)</translation>
+        <translation>为PDF书签(&amp;B)</translation>
     </message>
     <message>
         <source>Is PDF A&amp;nnotation</source>
-        <translation>为PDF注释 (&amp;N)</translation>
+        <translation>为PDF注释(&amp;N)</translation>
     </message>
     <message>
         <source>Annotation P&amp;roperties</source>
-        <translation>注释属性 (&amp;R)</translation>
+        <translation>注释属性(&amp;R)</translation>
     </message>
     <message>
         <source>Field P&amp;roperties</source>
-        <translation>文字域属性 (&amp;R)</translation>
+        <translation>文字域属性(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Edit Shape...</source>
-        <translation>编辑形状 (&amp;E)...</translation>
+        <translation>编辑形状(&amp;E)...</translation>
     </message>
     <message>
         <source>&amp;Attach Text to Path</source>
-        <translation>附着文本到路径 (&amp;A)</translation>
+        <translation>附着文本到路径(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Detach Text from Path</source>
-        <translation>从路径分离文本 (&amp;D)</translation>
+        <translation>从路径分离文本(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Combine Polygons</source>
-        <translation>合并多边形 (&amp;C)</translation>
+        <translation>合并多边形(&amp;C)</translation>
     </message>
     <message>
         <source>Split &amp;Polygons</source>
-        <translation>拆分多边形 (&amp;P)</translation>
+        <translation>拆分多边形(&amp;P)</translation>
     </message>
     <message>
         <source>&amp;Bezier Curve</source>
-        <translation>贝塞尔曲线 (&amp;B)</translation>
+        <translation>贝塞尔曲线(&amp;B)</translation>
     </message>
     <message>
         <source>&amp;Image Frame</source>
-        <translation>图片框 (&amp;I)</translation>
+        <translation>图片框(&amp;I)</translation>
     </message>
     <message>
         <source>&amp;Polygon</source>
-        <translation>多边形 (&amp;P)</translation>
+        <translation>多边形(&amp;P)</translation>
     </message>
     <message>
         <source>&amp;Text Frame</source>
-        <translation>文本框 (&amp;T)</translation>
+        <translation>文本框(&amp;T)</translation>
     </message>
     <message>
         <source>&amp;Glyph...</source>
-        <translation>符号 (&amp;G)...</translation>
+        <translation>符号(&amp;G)...</translation>
     </message>
     <message>
         <source>Sample Text</source>
@@ -528,15 +528,15 @@
     </message>
     <message>
         <source>&amp;Insert...</source>
-        <translation>插入页面 (&amp;I)...</translation>
+        <translation>插入页面(&amp;I)...</translation>
     </message>
     <message>
         <source>Im&amp;port...</source>
-        <translation>导入页面 (&amp;P)...</translation>
+        <translation>导入页面(&amp;P)...</translation>
     </message>
     <message>
         <source>&amp;Delete...</source>
-        <translation>删除页面 (&amp;D)...</translation>
+        <translation>删除页面(&amp;D)...</translation>
     </message>
     <message>
         <source>&amp;Copy...</source>
@@ -544,107 +544,107 @@
     </message>
     <message>
         <source>&amp;Move...</source>
-        <translation>移动页面 (&amp;M)...</translation>
+        <translation>移动页面(&amp;M)...</translation>
     </message>
     <message>
         <source>&amp;Apply Master Page...</source>
-        <translation>应用母页 (&amp;A)...</translation>
+        <translation>应用母页(&amp;A)...</translation>
     </message>
     <message>
         <source>Manage &amp;Guides...</source>
-        <translation>管理参考线 (&amp;G)...</translation>
+        <translation>管理参考线(&amp;G)...</translation>
     </message>
     <message>
         <source>&amp;50%</source>
-        <translation>50% (&amp;5)</translation>
+        <translation>50%(&amp;5)</translation>
     </message>
     <message>
         <source>&amp;75%</source>
-        <translation>75% (&amp;7)</translation>
+        <translation>75%(&amp;7)</translation>
     </message>
     <message>
         <source>&amp;100%</source>
-        <translation>100% (&amp;1)</translation>
+        <translation>100%(&amp;1)</translation>
     </message>
     <message>
         <source>&amp;200%</source>
-        <translation>200% (&amp;2)</translation>
+        <translation>200%(&amp;2)</translation>
     </message>
     <message>
         <source>Show &amp;Margins</source>
-        <translation>显示边距 (&amp;M)</translation>
+        <translation>显示边距(&amp;M)</translation>
     </message>
     <message>
         <source>Show &amp;Frames</source>
-        <translation>显示框体 (&amp;F)</translation>
+        <translation>显示框体(&amp;F)</translation>
     </message>
     <message>
         <source>Show &amp;Images</source>
-        <translation>显示图像 (&amp;I)</translation>
+        <translation>显示图像(&amp;I)</translation>
     </message>
     <message>
         <source>Show &amp;Grid</source>
-        <translation>显示网格 (&amp;G)</translation>
+        <translation>显示网格(&amp;G)</translation>
     </message>
     <message>
         <source>Show G&amp;uides</source>
-        <translation>显示参考线 (&amp;G)</translation>
+        <translation>显示参考线(&amp;G)</translation>
     </message>
     <message>
         <source>Show &amp;Baseline Grid</source>
-        <translation>显示底线 (&amp;B)</translation>
+        <translation>显示底线(&amp;B)</translation>
     </message>
     <message>
         <source>Show &amp;Text Chain</source>
-        <translation>显示文本链 (&amp;T)</translation>
+        <translation>显示文本链(&amp;T)</translation>
     </message>
     <message>
         <source>Sn&amp;ap to Grid</source>
-        <translation>吸附到网格 (&amp;a)</translation>
+        <translation>吸附到网格(&amp;a)</translation>
     </message>
     <message>
         <source>Sna&amp;p to Guides</source>
-        <translation>吸附到参考线 (&amp;p)</translation>
+        <translation>吸附到参考线(&amp;p)</translation>
     </message>
     <message>
         <source>&amp;Properties</source>
-        <translation>属性 (&amp;P)</translation>
+        <translation>属性(&amp;P)</translation>
     </message>
     <message>
         <source>&amp;Scrapbook</source>
-        <translation>寄存本 (&amp;S)</translation>
+        <translation>寄存本(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Layers</source>
-        <translation>图层 (&amp;L)</translation>
+        <translation>图层(&amp;L)</translation>
     </message>
     <message>
         <source>&amp;Bookmarks</source>
-        <translation>书签 (&amp;B)</translation>
+        <translation>书签(&amp;B)</translation>
     </message>
     <message>
         <source>&amp;Measurements</source>
-        <translation>测量 (&amp;M)</translation>
+        <translation>测量(&amp;M)</translation>
     </message>
     <message>
         <source>Action &amp;History</source>
-        <translation>历史记录 (&amp;H)</translation>
+        <translation>历史记录(&amp;H)</translation>
     </message>
     <message>
         <source>Preflight &amp;Verifier</source>
-        <translation>印前检验器 (&amp;V)</translation>
+        <translation>印前检验器(&amp;V)</translation>
     </message>
     <message>
         <source>Symbols</source>
-        <translation type="unfinished"/>
+        <translation>符号</translation>
     </message>
     <message>
         <source>&amp;Tools</source>
-        <translation>工具 (&amp;T)</translation>
+        <translation>工具(&amp;T)</translation>
     </message>
     <message>
         <source>P&amp;DF Tools</source>
-        <translation>PDF 工具 (&amp;P)</translation>
+        <translation>PDF 工具(&amp;P)</translation>
     </message>
     <message>
         <source>Select Item</source>
@@ -680,7 +680,7 @@
     </message>
     <message>
         <source>&amp;Eye Dropper</source>
-        <translation>取色器 (&amp;E)</translation>
+        <translation>取色器(&amp;E)</translation>
     </message>
     <message>
         <source>Copy Item Properties</source>
@@ -688,35 +688,35 @@
     </message>
     <message>
         <source>&amp;Hyphenate Text</source>
-        <translation>连字符连接文本 (&amp;H)</translation>
+        <translation>连字符连接文本(&amp;H)</translation>
     </message>
     <message>
         <source>&amp;Generate Table Of Contents</source>
-        <translation>生成目录 (&amp;G)</translation>
+        <translation>生成目录(&amp;G)</translation>
     </message>
     <message>
         <source>&amp;About Scribus</source>
-        <translation>关于Scribus (&amp;A)</translation>
+        <translation>关于Scribus(&amp;A)</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
-        <translation>关于 Qt (&amp;Q)</translation>
+        <translation>关于 Qt(&amp;Q)</translation>
     </message>
     <message>
         <source>Toolti&amp;ps</source>
-        <translation>提示 (&amp;p)</translation>
+        <translation>提示(&amp;p)</translation>
     </message>
     <message>
         <source>Scribus &amp;Manual...</source>
-        <translation>Scribus 手册 (&amp;M)...</translation>
+        <translation>Scribus 手册(&amp;M)...</translation>
     </message>
     <message>
         <source>Non Breaking &amp;Space</source>
-        <translation>不间断空铅 (&amp;S)</translation>
+        <translation>不间断空铅(&amp;S)</translation>
     </message>
     <message>
         <source>Page &amp;Number</source>
-        <translation>页码 (&amp;N)</translation>
+        <translation>页码(&amp;N)</translation>
     </message>
     <message>
         <source>Copyright</source>
@@ -752,23 +752,23 @@
     </message>
     <message>
         <source>Toggle Palettes</source>
-        <translation type="unfinished"/>
+        <translation>切换面板</translation>
     </message>
     <message>
         <source>S&amp;hadow</source>
-        <translation>暗调 (&amp;h)</translation>
+        <translation>暗调(&amp;h)</translation>
     </message>
     <message>
         <source>&amp;Low Resolution</source>
-        <translation>低解析度 (&amp;L)</translation>
+        <translation>低解析度(&amp;L)</translation>
     </message>
     <message>
         <source>&amp;Normal Resolution</source>
-        <translation>普通解析度 (&amp;N)</translation>
+        <translation>普通解析度(&amp;N)</translation>
     </message>
     <message>
         <source>&amp;Full Resolution</source>
-        <translation>全解析度 (&amp;F)</translation>
+        <translation>全解析度(&amp;F)</translation>
     </message>
     <message>
         <source>Edit Image...</source>
@@ -776,7 +776,7 @@
     </message>
     <message>
         <source>&amp;Update Image</source>
-        <translation>刷新图片 (&amp;U)</translation>
+        <translation>刷新图片(&amp;U)</translation>
     </message>
     <message>
         <source>Adjust Frame to Image</source>
@@ -820,7 +820,7 @@
     </message>
     <message>
         <source>&amp;Arrange Pages</source>
-        <translation>安排页面 (&amp;A)</translation>
+        <translation>安排页面(&amp;A)</translation>
     </message>
     <message>
         <source>Dehyphenate Text</source>
@@ -832,11 +832,11 @@
     </message>
     <message>
         <source>Print Previe&amp;w</source>
-        <translation>打印预览 (&amp;w)</translation>
+        <translation>打印预览(&amp;w)</translation>
     </message>
     <message>
         <source>&amp;JavaScripts...</source>
-        <translation>JavaScripts (&amp;J)...</translation>
+        <translation>JavaScripts(&amp;J)...</translation>
     </message>
     <message>
         <source>Convert to Master Page...</source>
@@ -844,11 +844,11 @@
     </message>
     <message>
         <source>&amp;Cascade</source>
-        <translation>层叠 (&amp;A)</translation>
+        <translation>层叠(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Tile</source>
-        <translation>平铺 (&amp;T)</translation>
+        <translation>平铺(&amp;T)</translation>
     </message>
     <message>
         <source>More Info...</source>
@@ -856,15 +856,15 @@
     </message>
     <message>
         <source>&amp;Printing Enabled</source>
-        <translation>允许打印 (&amp;P)</translation>
+        <translation>允许打印(&amp;P)</translation>
     </message>
     <message>
         <source>&amp;Flip Horizontally</source>
-        <translation>水平翻转 (&amp;F)</translation>
+        <translation>水平翻转(&amp;F)</translation>
     </message>
     <message>
         <source>&amp;Flip Vertically</source>
-        <translation>垂直翻转 (&amp;F)</translation>
+        <translation>垂直翻转(&amp;F)</translation>
     </message>
     <message>
         <source>Show Rulers</source>
@@ -873,7 +873,7 @@
     <message>
         <source>&amp;Outline</source>
         <comment>Document Outline Palette</comment>
-        <translation>大纲 (&amp;O)</translation>
+        <translation>大纲(&amp;O)</translation>
     </message>
     <message>
         <source>Solidus</source>
@@ -937,29 +937,29 @@
     </message>
     <message>
         <source>S&amp;tyles...</source>
-        <translation>样式 (&amp;S)...</translation>
+        <translation>样式(&amp;S)...</translation>
     </message>
     <message>
         <source>&amp;Outline</source>
         <comment>type effect</comment>
-        <translation>大纲 (&amp;O)</translation>
+        <translation>大纲(&amp;O)</translation>
     </message>
     <message>
         <source>&amp;Outlines</source>
         <comment>Convert to oulines</comment>
-        <translation>轮廓线 (&amp;O)</translation>
+        <translation>轮廓线(&amp;O)</translation>
     </message>
     <message>
         <source>Paste (&amp;Absolute)</source>
-        <translation>完全粘贴 (&amp;A)</translation>
+        <translation>完全粘贴(&amp;A)</translation>
     </message>
     <message>
         <source>C&amp;lear</source>
-        <translation>清除 (&amp;A)</translation>
+        <translation>清除(&amp;A)</translation>
     </message>
     <message>
         <source>Save as &amp;EPS...</source>
-        <translation>保存为 EPS (&amp;E)...</translation>
+        <translation>保存为 EPS(&amp;E)...</translation>
     </message>
     <message>
         <source>Show Text Frame Columns</source>
@@ -979,7 +979,7 @@
     </message>
     <message>
         <source>&amp;Fit to Height</source>
-        <translation>适应高度 (&amp;F)</translation>
+        <translation>适应高度(&amp;F)</translation>
     </message>
     <message>
         <source>Fit to Width</source>
@@ -991,7 +991,7 @@
     </message>
     <message>
         <source>Soft &amp;Hyphen</source>
-        <translation type="unfinished"/>
+        <translation>软连字符(&amp;H)</translation>
     </message>
     <message>
         <source>&amp;Zero Width Space</source>
@@ -1117,11 +1117,11 @@
     </message>
     <message>
         <source>&amp;Manage Images</source>
-        <translation>管理图片 (&amp;M)</translation>
+        <translation>管理图片(&amp;M)</translation>
     </message>
     <message>
         <source>&amp;About Plugins</source>
-        <translation>关于插件 (&amp;A)</translation>
+        <translation>关于插件(&amp;A)</translation>
     </message>
     <message>
         <source>Insert Unicode Character Begin Sequence</source>
@@ -1165,7 +1165,7 @@
     </message>
     <message>
         <source>&amp;File</source>
-        <translation>文件 (&amp;F)</translation>
+        <translation>文件(&amp;F)</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -1173,7 +1173,7 @@
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation>编辑 (&amp;E)</translation>
+        <translation>编辑(&amp;E)</translation>
     </message>
     <message>
         <source>Style</source>
@@ -1181,7 +1181,7 @@
     </message>
     <message>
         <source>&amp;Style</source>
-        <translation>样式 (&amp;S)</translation>
+        <translation>样式(&amp;S)</translation>
     </message>
     <message>
         <source>Item</source>
@@ -1189,7 +1189,7 @@
     </message>
     <message>
         <source>&amp;Item</source>
-        <translation>对象 (&amp;I)</translation>
+        <translation>对象(&amp;I)</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -1197,7 +1197,7 @@
     </message>
     <message>
         <source>I&amp;nsert</source>
-        <translation>插入 (&amp;n)</translation>
+        <translation>插入(&amp;n)</translation>
     </message>
     <message>
         <source>Page</source>
@@ -1205,7 +1205,7 @@
     </message>
     <message>
         <source>&amp;Page</source>
-        <translation>页面 (&amp;P)</translation>
+        <translation>页面(&amp;P)</translation>
     </message>
     <message>
         <source>View</source>
@@ -1213,7 +1213,7 @@
     </message>
     <message>
         <source>&amp;View</source>
-        <translation>查看 (&amp;V)</translation>
+        <translation>查看(&amp;V)</translation>
     </message>
     <message>
         <source>Extras</source>
@@ -1221,7 +1221,7 @@
     </message>
     <message>
         <source>E&amp;xtras</source>
-        <translation>扩展 (&amp;E)</translation>
+        <translation>扩展(&amp;E)</translation>
     </message>
     <message>
         <source>Windows</source>
@@ -1229,7 +1229,7 @@
     </message>
     <message>
         <source>&amp;Windows</source>
-        <translation>窗口 (&amp;W)</translation>
+        <translation>窗口(&amp;W)</translation>
     </message>
     <message>
         <source>Help</source>
@@ -1237,7 +1237,7 @@
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation>帮助 (&amp;H)</translation>
+        <translation>帮助(&amp;H)</translation>
     </message>
     <message>
         <source>Plugin Menu Items</source>
@@ -1257,15 +1257,15 @@
     </message>
     <message>
         <source>New &amp;from Template...</source>
-        <translation>从模板新建 (&amp;f)...</translation>
+        <translation>从模板新建(&amp;f)...</translation>
     </message>
     <message>
         <source>&amp;Transform</source>
-        <translation type="unfinished"/>
+        <translation>变换(&amp;T)</translation>
     </message>
     <message>
         <source>Paste Image from Clipboard</source>
-        <translation type="unfinished"/>
+        <translation>从剪贴板粘贴图像</translation>
     </message>
     <message>
         <source>Insert Rows...</source>
@@ -1317,7 +1317,7 @@
     </message>
     <message>
         <source>&amp;Frames...</source>
-        <translation type="unfinished"/>
+        <translation>框体…(&amp;F)</translation>
     </message>
     <message>
         <source>Unlink Text Frame with Text Copy</source>
@@ -1333,11 +1333,11 @@
     </message>
     <message>
         <source>Marks...</source>
-        <translation type="unfinished"/>
+        <translation>标记...</translation>
     </message>
     <message>
         <source>Notes Styles...</source>
-        <translation type="unfinished"/>
+        <translation>注解样式...</translation>
     </message>
     <message>
         <source>Adjust Group</source>
@@ -1397,15 +1397,15 @@
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"/>
+        <translation>表</translation>
     </message>
     <message>
         <source>&amp;Table</source>
-        <translation type="unfinished"/>
+        <translation>表格(&amp;T)</translation>
     </message>
     <message>
         <source>Test Qt Quick</source>
-        <translation type="unfinished"/>
+        <translation>测试 Qt Quick</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -1421,31 +1421,31 @@
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"/>
+        <translation>重做</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"/>
+        <translation>撤销</translation>
     </message>
     <message>
         <source>Close the current document</source>
-        <translation type="unfinished"/>
+        <translation>关闭当前文档</translation>
     </message>
     <message>
         <source>Export the document to PDF</source>
-        <translation type="unfinished"/>
+        <translation>导出文档到 PDF 文件</translation>
     </message>
     <message>
         <source>Create a new document</source>
-        <translation type="unfinished"/>
+        <translation>新建文档</translation>
     </message>
     <message>
         <source>Open an existing document</source>
-        <translation type="unfinished"/>
+        <translation>打开现有文档</translation>
     </message>
     <message>
         <source>Print the document</source>
-        <translation type="unfinished"/>
+        <translation>打印文档</translation>
     </message>
     <message>
         <source>Save the current document</source>
@@ -1453,11 +1453,11 @@
     </message>
     <message>
         <source>Copy item properties</source>
-        <translation type="unfinished"/>
+        <translation>复制对象属性</translation>
     </message>
     <message>
         <source>Edit contents of a frame</source>
-        <translation type="unfinished"/>
+        <translation>编辑框内容</translation>
     </message>
     <message>
         <source>Edit text in the Story Editor</source>
@@ -1465,95 +1465,95 @@
     </message>
     <message>
         <source>Eye Dropper</source>
-        <translation type="unfinished"/>
+        <translation>取色器</translation>
     </message>
     <message>
         <source>Insert an arc</source>
-        <translation type="unfinished"/>
+        <translation>插入弧形</translation>
     </message>
     <message>
         <source>Insert a bezier curve</source>
-        <translation type="unfinished"/>
+        <translation>插入贝塞尔曲线</translation>
     </message>
     <message>
         <source>Insert a calligraphic line</source>
-        <translation type="unfinished"/>
+        <translation>插入书法线</translation>
     </message>
     <message>
         <source>Insert a freehand line</source>
-        <translation type="unfinished"/>
+        <translation>插入手绘线</translation>
     </message>
     <message>
         <source>Insert an image frame</source>
-        <translation type="unfinished"/>
+        <translation>插入图片框</translation>
     </message>
     <message>
         <source>Insert a line</source>
-        <translation type="unfinished"/>
+        <translation>插入直线</translation>
     </message>
     <message>
         <source>Insert a polygon</source>
-        <translation type="unfinished"/>
+        <translation>插入多边形</translation>
     </message>
     <message>
         <source>Insert a render frame</source>
-        <translation type="unfinished"/>
+        <translation>插入渲染帧</translation>
     </message>
     <message>
         <source>Insert a shape</source>
-        <translation type="unfinished"/>
+        <translation>插入图形</translation>
     </message>
     <message>
         <source>Insert a spiral</source>
-        <translation type="unfinished"/>
+        <translation>插入螺旋</translation>
     </message>
     <message>
         <source>Insert a table</source>
-        <translation type="unfinished"/>
+        <translation>插入表格</translation>
     </message>
     <message>
         <source>Insert a text frame</source>
-        <translation type="unfinished"/>
+        <translation>插入文本框</translation>
     </message>
     <message>
         <source>Link text frames</source>
-        <translation type="unfinished"/>
+        <translation>链接文本框</translation>
     </message>
     <message>
         <source>Measurements</source>
-        <translation type="unfinished"/>
+        <translation>测量</translation>
     </message>
     <message>
         <source>Insert link annotation</source>
-        <translation type="unfinished"/>
+        <translation>插入链接注释</translation>
     </message>
     <message>
         <source>Insert text annotation</source>
-        <translation type="unfinished"/>
+        <translation>插入文字注释</translation>
     </message>
     <message>
         <source>Insert PDF check box</source>
-        <translation type="unfinished"/>
+        <translation>插入 PDF 复选框</translation>
     </message>
     <message>
         <source>Insert PDF combo box</source>
-        <translation type="unfinished"/>
+        <translation>插入 PDF 组合框</translation>
     </message>
     <message>
         <source>Insert PDF list box</source>
-        <translation type="unfinished"/>
+        <translation>插入 PDF 列表框</translation>
     </message>
     <message>
         <source>Insert PDF push button</source>
-        <translation type="unfinished"/>
+        <translation>插入 PDF 按钮</translation>
     </message>
     <message>
         <source>Insert PDF radio button</source>
-        <translation type="unfinished"/>
+        <translation>插入 PDF 按钮</translation>
     </message>
     <message>
         <source>Insert PDF text field</source>
-        <translation type="unfinished"/>
+        <translation>插入 PDF 文字域</translation>
     </message>
     <message>
         <source>Analyse the document for issues prior to exporting to PDF</source>
@@ -1561,15 +1561,15 @@
     </message>
     <message>
         <source>Rotate an item</source>
-        <translation type="unfinished"/>
+        <translation>旋转对象</translation>
     </message>
     <message>
         <source>Select an item</source>
-        <translation type="unfinished"/>
+        <translation>选择对象</translation>
     </message>
     <message>
         <source>Unlink text frames</source>
-        <translation type="unfinished"/>
+        <translation>解链文本框</translation>
     </message>
     <message>
         <source>Insert 3D annotation</source>
@@ -1609,7 +1609,7 @@
     </message>
     <message>
         <source>&amp;Shape</source>
-        <translation>形状 (&amp;S)</translation>
+        <translation>形状(&amp;S)</translation>
     </message>
     <message>
         <source>Arc</source>
@@ -1617,11 +1617,11 @@
     </message>
     <message>
         <source>Spiral</source>
-        <translation type="unfinished"/>
+        <translation>螺旋</translation>
     </message>
     <message>
         <source>&amp;Line</source>
-        <translation>线条 (&amp;L)</translation>
+        <translation>线条(&amp;L)</translation>
     </message>
     <message>
         <source>Calligraphic Line</source>
@@ -1657,7 +1657,7 @@
     </message>
     <message>
         <source>Text Annotation</source>
-        <translation type="unfinished"/>
+        <translation>文本注记</translation>
     </message>
     <message>
         <source>Link Annotation</source>
@@ -1685,7 +1685,7 @@
     </message>
     <message>
         <source>Edit Weld</source>
-        <translation type="unfinished"/>
+        <translation>编辑焊接</translation>
     </message>
     <message>
         <source>&amp;Downloads</source>
@@ -1711,15 +1711,15 @@
     </message>
     <message>
         <source>&amp;Selected Guide:</source>
-        <translation>已选定的参考线 (&amp;S):</translation>
+        <translation>已选定的参考线(&amp;S):</translation>
     </message>
     <message>
         <source>&amp;Relative To:</source>
-        <translation>相对于 (&amp;R):</translation>
+        <translation>相对于(&amp;R):</translation>
     </message>
     <message>
         <source>&amp;Align Sides By:</source>
-        <translation>对齐 (&amp;A):</translation>
+        <translation>对齐(&amp;A):</translation>
     </message>
     <message>
         <source>...</source>
@@ -1731,7 +1731,7 @@
     </message>
     <message>
         <source>&amp;Distance:</source>
-        <translation>间距 (&amp;D):</translation>
+        <translation>间距(&amp;D):</translation>
     </message>
     <message>
         <source>Reverse Distribution</source>
@@ -1754,7 +1754,7 @@
     </message>
     <message>
         <source>&amp;Relative to:</source>
-        <translation>相对于 (&amp;R):</translation>
+        <translation>相对于(&amp;R):</translation>
     </message>
     <message>
         <source>First Selected</source>
@@ -1778,7 +1778,7 @@
     </message>
     <message>
         <source>&amp;Align Sides By:</source>
-        <translation>对齐边 (&amp;A):</translation>
+        <translation>对齐边(&amp;A):</translation>
     </message>
     <message>
         <source>Align bottoms</source>
@@ -1834,11 +1834,11 @@
     </message>
     <message>
         <source>&amp;Selected Guide:</source>
-        <translation>已选参考线 (&amp;S):</translation>
+        <translation>已选参考线(&amp;S):</translation>
     </message>
     <message>
         <source>&amp;Distance:</source>
-        <translation>间距 (&amp;D):</translation>
+        <translation>间距(&amp;D):</translation>
     </message>
     <message>
         <source>Distribute the items with the distance specified</source>
@@ -2004,23 +2004,23 @@
     </message>
     <message>
         <source>&amp;Type:</source>
-        <translation>类型 (&amp;T) :</translation>
+        <translation>类型(&amp;T) :</translation>
     </message>
     <message>
         <source>C&amp;hange...</source>
-        <translation>修改 (&amp;h)...</translation>
+        <translation>修改(&amp;h)...</translation>
     </message>
     <message>
         <source>&amp;Page:</source>
-        <translation>页面 (&amp;P):</translation>
+        <translation>页面(&amp;P):</translation>
     </message>
     <message>
         <source>&amp;X-Pos</source>
-        <translation>X-坐标 (&amp;X)</translation>
+        <translation>X-坐标(&amp;X)</translation>
     </message>
     <message>
         <source>&amp;Y-Pos:</source>
-        <translation>Y-坐标 (&amp;Y):</translation>
+        <translation>Y-坐标(&amp;Y):</translation>
     </message>
     <message>
         <source>%1;;All Files (*)</source>
@@ -2040,15 +2040,15 @@
     </message>
     <message>
         <source>Note</source>
-        <translation type="unfinished"/>
+        <translation>备注</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"/>
+        <translation>注解</translation>
     </message>
     <message>
         <source>Key</source>
-        <translation type="unfinished"/>
+        <translation>密钥</translation>
     </message>
     <message>
         <source>Help</source>
@@ -2087,7 +2087,7 @@
     </message>
     <message>
         <source>&amp;Master Page:</source>
-        <translation>母页 (&amp;M):</translation>
+        <translation>母页(&amp;M):</translation>
     </message>
     <message>
         <source>Alt+P</source>
@@ -2135,23 +2135,23 @@
     </message>
     <message>
         <source>Current &amp;Page</source>
-        <translation>当前页面 (&amp;C)</translation>
+        <translation>当前页面(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Even Pages</source>
-        <translation>偶数页面 (&amp;E)</translation>
+        <translation>偶数页面(&amp;E)</translation>
     </message>
     <message>
         <source>O&amp;dd Pages</source>
-        <translation>奇数页页 (&amp;d)</translation>
+        <translation>奇数页页(&amp;d)</translation>
     </message>
     <message>
         <source>&amp;All Pages</source>
-        <translation>全部页面 (&amp;A)</translation>
+        <translation>全部页面(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Within Range</source>
-        <translation>页数范围内 (&amp;W)</translation>
+        <translation>页数范围内(&amp;W)</translation>
     </message>
 </context>
 <context>
@@ -2178,7 +2178,7 @@
     </message>
     <message>
         <source>End Edit</source>
-        <translation type="unfinished"/>
+        <translation>结束编辑</translation>
     </message>
 </context>
 <context>
@@ -2239,11 +2239,11 @@
     </message>
     <message>
         <source>&amp;Add Word</source>
-        <translation>添加单词 (&amp;A)</translation>
+        <translation>添加单词(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Change</source>
-        <translation>修改 (&amp;C)</translation>
+        <translation>修改(&amp;C)</translation>
     </message>
     <message>
         <source>Not in Dictionary:</source>
@@ -2267,7 +2267,7 @@
     </message>
     <message>
         <source>&amp;Ignore</source>
-        <translation>忽略 (&amp;I)</translation>
+        <translation>忽略(&amp;I)</translation>
     </message>
     <message>
         <source>Ignore all occurrences of the current text not found in the active dictionary</source>
@@ -2275,7 +2275,7 @@
     </message>
     <message>
         <source>I&amp;gnore All</source>
-        <translation>忽略全部 (&amp;g)</translation>
+        <translation>忽略全部(&amp;g)</translation>
     </message>
     <message>
         <source>Add the current word to the your personal spelling dictionary for future use</source>
@@ -2291,7 +2291,7 @@
     </message>
     <message>
         <source>Change A&amp;ll</source>
-        <translation>修改全部 (&amp;l)</translation>
+        <translation>修改全部(&amp;l)</translation>
     </message>
     <message>
         <source>Close</source>
@@ -2385,7 +2385,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Barcode</source>
-        <translation type="unfinished"/>
+        <translation>条形码</translation>
     </message>
     <message>
         <source>Insert a barcode</source>
@@ -2452,7 +2452,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Barcode</source>
-        <translation type="unfinished"/>
+        <translation>条形码</translation>
     </message>
     <message>
         <source>Barcode incomplete</source>
@@ -2544,14 +2544,14 @@ Configuration invalid</source>
     </message>
     <message>
         <source>QR Code</source>
-        <translation type="unfinished"/>
+        <translation>二维码</translation>
     </message>
 </context>
 <context>
     <name>BarcodeGeneratorBase</name>
     <message>
         <source>&amp;Type:</source>
-        <translation>类型 (&amp;T) :</translation>
+        <translation>类型(&amp;T) :</translation>
     </message>
     <message>
         <source>Select one of the available barcode type here</source>
@@ -2587,7 +2587,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>&amp;Background</source>
-        <translation>背景 (&amp;B)</translation>
+        <translation>背景(&amp;B)</translation>
     </message>
     <message>
         <source>Alt+B</source>
@@ -2599,7 +2599,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>&amp;Lines</source>
-        <translation>线条 (&amp;L)</translation>
+        <translation>线条(&amp;L)</translation>
     </message>
     <message>
         <source>Alt+L</source>
@@ -2611,7 +2611,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>&amp;Text</source>
-        <translation>文本 (&amp;T)</translation>
+        <translation>文本(&amp;T)</translation>
     </message>
     <message>
         <source>Alt+T</source>
@@ -2627,7 +2627,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Co&amp;de:</source>
-        <translation>条形码 (&amp;d) :</translation>
+        <translation>条形码(&amp;d) :</translation>
     </message>
     <message>
         <source>Alt+N</source>
@@ -2655,11 +2655,11 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Incl&amp;ude Checksum Digit</source>
-        <translation>包含校验和位 (&amp;u)</translation>
+        <translation>包含校验和位(&amp;u)</translation>
     </message>
     <message>
         <source>I&amp;nclude Checksum</source>
-        <translation>包含校验和 (&amp;n)</translation>
+        <translation>包含校验和(&amp;n)</translation>
     </message>
     <message>
         <source>&amp;Guard Whitespace</source>
@@ -2667,7 +2667,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>&amp;Include Text in Barcode</source>
-        <translation>条形码包含文字 (&amp;I)</translation>
+        <translation>条形码包含文字(&amp;I)</translation>
     </message>
     <message>
         <source>Options</source>
@@ -2675,7 +2675,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>&amp;Format:</source>
-        <translation type="unfinished"/>
+        <translation>格式(&amp;F):</translation>
     </message>
     <message>
         <source>Error &amp;checking:</source>
@@ -2710,7 +2710,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation>名称 (&amp;N):</translation>
+        <translation>名称(&amp;N):</translation>
     </message>
     <message>
         <source>Choose a Scrapbook Directory</source>
@@ -2922,11 +2922,11 @@ Configuration invalid</source>
     </message>
     <message>
         <source>&amp;Activate Color Management</source>
-        <translation>激活颜色 (&amp;A)</translation>
+        <translation>激活颜色(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;RGB Images:</source>
-        <translation>RGB 图片 (&amp;R) :</translation>
+        <translation>RGB 图片(&amp;R) :</translation>
     </message>
     <message>
         <source>Default color profile for imported RGB images</source>
@@ -2934,7 +2934,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>&amp;CMYK Images:</source>
-        <translation>CMYK 图片 (&amp;C) :</translation>
+        <translation>CMYK 图片(&amp;C) :</translation>
     </message>
     <message>
         <source>Default color profile for imported CMYK images</source>
@@ -2942,7 +2942,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>&amp;RGB Solid Colors:</source>
-        <translation>RGB 纯色 (&amp;R):</translation>
+        <translation>RGB 纯色(&amp;R):</translation>
     </message>
     <message>
         <source>Default color profile for solid RGB colors on the page</source>
@@ -2950,7 +2950,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>&amp;CMYK Solid Colors:</source>
-        <translation>CMYK 纯色 (&amp;C):</translation>
+        <translation>CMYK 纯色(&amp;C):</translation>
     </message>
     <message>
         <source>Default color profile for solid CMYK colors on the page</source>
@@ -2970,7 +2970,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>&amp;Monitor:</source>
-        <translation>显示器 (&amp;M):</translation>
+        <translation>显示器(&amp;M):</translation>
     </message>
     <message>
         <source>Color profile that you have generated or received from the manufacturer.
@@ -2980,7 +2980,7 @@ This profile should be specific to your monitor and not a generic profile (i.e. 
     </message>
     <message>
         <source>P&amp;rinter:</source>
-        <translation>打印机 (&amp;r):</translation>
+        <translation>打印机(&amp;r):</translation>
     </message>
     <message>
         <source>Document Profiles</source>
@@ -3004,7 +3004,7 @@ Relative Colorimetric or Perceptual should be chosen.</source>
     </message>
     <message>
         <source>Sol&amp;id Colors:</source>
-        <translation>纯色 (&amp;i) :</translation>
+        <translation>纯色(&amp;i) :</translation>
     </message>
     <message>
         <source>Default rendering intent for solid colors. Unless you know why to change it,
@@ -3036,7 +3036,7 @@ This requires very accurate profiles and serves only as a warning.</source>
     </message>
     <message>
         <source>Mark Colors out of &amp;Gamut</source>
-        <translation>标出超出色域的颜色 (&amp;G)</translation>
+        <translation>标出超出色域的颜色(&amp;G)</translation>
     </message>
     <message>
         <source>Black Point Compensation is a method of improving contrast in photos.
@@ -3050,7 +3050,7 @@ It is recommended that you enable this if you have photos in your document.</sou
     </message>
     <message>
         <source>Use &amp;Blackpoint Compensation</source>
-        <translation>使用黑场补偿 (&amp;B)</translation>
+        <translation>使用黑场补偿(&amp;B)</translation>
     </message>
 </context>
 <context>
@@ -3121,11 +3121,11 @@ It is recommended that you enable this if you have photos in your document.</sou
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="vanished">名称 (&amp;N):</translation>
+        <translation type="vanished">名称(&amp;N):</translation>
     </message>
     <message>
         <source>Color &amp;Model</source>
-        <translation type="vanished">颜色模型 (&amp;M)</translation>
+        <translation type="vanished">颜色模型(&amp;M)</translation>
     </message>
     <message>
         <source>Is Spot Color</source>
@@ -3189,26 +3189,26 @@ Please choose another one.</source>
     </message>
     <message>
         <source>H:</source>
-        <translation type="unfinished"/>
+        <translation>H:</translation>
     </message>
 </context>
 <context>
     <name>CMYKChooseBase</name>
     <message>
         <source>Edit Color</source>
-        <translation type="unfinished"/>
+        <translation>编辑颜色</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished"/>
+        <translation>名称(&amp;N):</translation>
     </message>
     <message>
         <source>Color &amp;Model</source>
-        <translation type="unfinished"/>
+        <translation>颜色模型(&amp;M)</translation>
     </message>
     <message>
         <source>Is Spot Color</source>
-        <translation type="unfinished"/>
+        <translation>是专色</translation>
     </message>
     <message>
         <source>OK</source>
@@ -3220,15 +3220,15 @@ Please choose another one.</source>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"/>
+        <translation>新</translation>
     </message>
     <message>
         <source>Old</source>
-        <translation type="unfinished"/>
+        <translation>旧</translation>
     </message>
     <message>
         <source>C:</source>
-        <translation type="unfinished"/>
+        <translation>C:</translation>
     </message>
     <message>
         <source> %</source>
@@ -3248,7 +3248,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>K:</source>
-        <translation type="unfinished"/>
+        <translation>K:</translation>
     </message>
 </context>
 <context>
@@ -3331,7 +3331,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>&amp;Merge</source>
-        <translation>混合 (&amp;M)</translation>
+        <translation>混合(&amp;M)</translation>
     </message>
     <message>
         <source>Alt+M</source>
@@ -3343,7 +3343,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>&amp;Replace</source>
-        <translation>替换 (&amp;R)</translation>
+        <translation>替换(&amp;R)</translation>
     </message>
     <message>
         <source>Alt+R</source>
@@ -3355,7 +3355,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>取消 (&amp;C)</translation>
+        <translation>取消(&amp;C)</translation>
     </message>
     <message>
         <source>Alt+C</source>
@@ -3498,7 +3498,7 @@ Height: %2</source>
     </message>
     <message>
         <source>After</source>
-        <translation type="unfinished"/>
+        <translation>封底</translation>
     </message>
     <message>
         <source>You are trying to insert a frame into an existing text chain, where would you like to insert it?</source>
@@ -3655,7 +3655,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Save the Character Palette</source>
-        <translation type="unfinished"/>
+        <translation>快速保存字符面板</translation>
     </message>
     <message>
         <source>Empty the Character Palette</source>
@@ -3714,11 +3714,11 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Box Drawing</source>
-        <translation type="unfinished"/>
+        <translation>制表符</translation>
     </message>
     <message>
         <source>Block Elements</source>
-        <translation type="unfinished"/>
+        <translation>块元素</translation>
     </message>
     <message>
         <source>Geometric Shapes</source>
@@ -3734,7 +3734,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Small Form Variants</source>
-        <translation type="unfinished"/>
+        <translation>小型变体</translation>
     </message>
     <message>
         <source>Ligatures</source>
@@ -3782,11 +3782,11 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;Font:</source>
-        <translation>字体 (&amp;F):</translation>
+        <translation>字体(&amp;F):</translation>
     </message>
     <message>
         <source>C&amp;haracter Class:</source>
-        <translation>字符种类 (&amp;h):</translation>
+        <translation>字符种类(&amp;h):</translation>
     </message>
     <message>
         <source>You can see a thumbnail if you press and hold down the right mouse button.
@@ -3795,7 +3795,7 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     </message>
     <message>
         <source>Insert &amp;Code:</source>
-        <translation>插入编码 (&amp;C):</translation>
+        <translation>插入编码(&amp;C):</translation>
     </message>
     <message>
         <source>Glyphs to Insert</source>
@@ -3807,7 +3807,7 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     </message>
     <message>
         <source>&amp;Insert</source>
-        <translation>插入 (&amp;I)</translation>
+        <translation>插入(&amp;I)</translation>
     </message>
     <message>
         <source>Delete the current selection(s).</source>
@@ -3815,7 +3815,7 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     </message>
     <message>
         <source>C&amp;lear</source>
-        <translation>清除 (&amp;l)</translation>
+        <translation>清除(&amp;l)</translation>
     </message>
     <message>
         <source>Type in a four digit Unicode value directly here</source>
@@ -3900,7 +3900,7 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     </message>
     <message>
         <source>&amp;Ignore Errors</source>
-        <translation>忽略错误 (&amp;I)</translation>
+        <translation>忽略错误(&amp;I)</translation>
     </message>
     <message>
         <source>Check again</source>
@@ -3928,7 +3928,7 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     </message>
     <message>
         <source>Annotation uses a non TrueType font</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">注记使用非 TrueType 字体</translation>
     </message>
     <message>
         <source>Preflight profile to base the report generation on. Options can be set in Document Setup or Preferences</source>
@@ -3952,7 +3952,7 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     </message>
     <message>
         <source>Print/Visible Mismatch</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">打印/可视效果不匹配</translation>
     </message>
     <message>
         <source>Master Pages</source>
@@ -4264,7 +4264,7 @@ currently %2 x %3 DPI</source>
     <name>ColorWheelPlugin</name>
     <message>
         <source>&amp;Color Wheel...</source>
-        <translation>色轮 (&amp;C)...</translation>
+        <translation>色轮(&amp;C)...</translation>
     </message>
     <message>
         <source>Color setting helper</source>
@@ -4286,19 +4286,19 @@ currently %2 x %3 DPI</source>
     <name>CommonStrings</name>
     <message>
         <source>&amp;Apply</source>
-        <translation>应用 (&amp;A)</translation>
+        <translation>应用(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>取消 (&amp;C)</translation>
+        <translation>取消(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>确认 (&amp;O)</translation>
+        <translation>确认(&amp;O)</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation>保存 (&amp;S)</translation>
+        <translation>保存(&amp;S)</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -4315,7 +4315,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Symbol</source>
-        <translation type="unfinished"/>
+        <translation>符号</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -4424,11 +4424,11 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>&amp;Yes</source>
-        <translation>是 (&amp;Y)</translation>
+        <translation>是(&amp;Y)</translation>
     </message>
     <message>
         <source>&amp;No</source>
-        <translation>否 (&amp;N)</translation>
+        <translation>否(&amp;N)</translation>
     </message>
     <message>
         <source>Left Page</source>
@@ -4631,7 +4631,7 @@ currently %2 x %3 DPI</source>
     <message>
         <source>Multiple</source>
         <comment>Multiple frame types</comment>
-        <translation type="unfinished"/>
+        <translation>多选</translation>
     </message>
     <message>
         <source>PDF Push Button</source>
@@ -4707,11 +4707,11 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Spiral</source>
-        <translation type="unfinished"/>
+        <translation>螺旋</translation>
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"/>
+        <translation>表</translation>
     </message>
     <message>
         <source>Default Table Style</source>
@@ -4739,7 +4739,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Checkbox</source>
-        <translation type="unfinished"/>
+        <translation>复选框</translation>
     </message>
     <message>
         <source>Combobox</source>
@@ -4807,7 +4807,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>In&amp;fo</source>
-        <translation>信息 (&amp;f)</translation>
+        <translation>信息(&amp;f)</translation>
     </message>
     <message>
         <source>Print: </source>
@@ -4839,11 +4839,11 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Locking</source>
-        <translation type="unfinished"/>
+        <translation>锁定中</translation>
     </message>
     <message>
         <source>Send to</source>
-        <translation type="unfinished"/>
+        <translation>发送到</translation>
     </message>
     <message>
         <source>Scrapbook</source>
@@ -4851,19 +4851,19 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Send to La&amp;yer</source>
-        <translation>发送到图层 (&amp;y)</translation>
+        <translation>发送到图层(&amp;y)</translation>
     </message>
     <message>
         <source>Le&amp;vel</source>
-        <translation>层 (&amp;v)</translation>
+        <translation>层(&amp;v)</translation>
     </message>
     <message>
         <source>Conve&amp;rt to</source>
-        <translation>转换为 (&amp;r)</translation>
+        <translation>转换为(&amp;r)</translation>
     </message>
     <message>
         <source>&amp;PDF Options</source>
-        <translation>PDF 选项 (&amp;P)</translation>
+        <translation>PDF 选项(&amp;P)</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -4879,7 +4879,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Content</source>
-        <translation type="unfinished"/>
+        <translation>内容</translation>
     </message>
 </context>
 <context>
@@ -4924,7 +4924,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="unfinished"/>
+        <translation>渐变</translation>
     </message>
     <message>
         <source>Hatch</source>
@@ -4962,7 +4962,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>De&amp;lete</source>
-        <translation>删除 (&amp;l)</translation>
+        <translation>删除(&amp;l)</translation>
     </message>
     <message>
         <source>Alt+L</source>
@@ -4970,7 +4970,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Move &amp;Down</source>
-        <translation>向下移动 (&amp;D)</translation>
+        <translation>向下移动(&amp;D)</translation>
     </message>
     <message>
         <source>Alt+D</source>
@@ -4978,7 +4978,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Move &amp;Up</source>
-        <translation>向上移动 (&amp;U)</translation>
+        <translation>向上移动(&amp;U)</translation>
     </message>
     <message>
         <source>Alt+U</source>
@@ -5006,7 +5006,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>&amp;Add To Range</source>
-        <translation>添加范围 (&amp;A)</translation>
+        <translation>添加范围(&amp;A)</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -5038,7 +5038,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>确认 (&amp;O)</translation>
+        <translation>确认(&amp;O)</translation>
     </message>
     <message>
         <source>Alt+O</source>
@@ -5046,7 +5046,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>取消 (&amp;C)</translation>
+        <translation>取消(&amp;C)</translation>
     </message>
     <message>
         <source>Alt+C</source>
@@ -5093,7 +5093,7 @@ currently %2 x %3 DPI</source>
     <name>CupsOptions</name>
     <message>
         <source>Printer Options</source>
-        <translation type="unfinished"/>
+        <translation>打印机选项</translation>
     </message>
     <message>
         <source>Option</source>
@@ -5145,7 +5145,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Pages per Sheet</source>
-        <translation type="unfinished"/>
+        <translation>每张打印页数</translation>
     </message>
     <message>
         <source>This panel displays various CUPS options when printing. The exact parameters available will depend on your printer driver. You can confirm CUPS support by selecting Help &gt; About. Look for the listings: C-C-T These equate to C=CUPS C=littlecms T=TIFF support. Missing library support is indicated by a *</source>
@@ -5194,7 +5194,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Curve Files (*.scu *.SCU);;All Files (*)</source>
-        <translation type="unfinished"/>
+        <translation>曲线文件 (*.scu *.SCU);;全部文件 (*)</translation>
     </message>
 </context>
 <context>
@@ -5205,11 +5205,11 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>&amp;Compress File</source>
-        <translation>压缩文件 (&amp;C)</translation>
+        <translation>压缩文件(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Include Fonts</source>
-        <translation>包含字体 (&amp;I)</translation>
+        <translation>包含字体(&amp;I)</translation>
     </message>
     <message>
         <source>Show Preview</source>
@@ -5217,7 +5217,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>&amp;Include Color Profiles</source>
-        <translation>包括颜色配置文件 (&amp;I)</translation>
+        <translation>包括颜色配置文件(&amp;I)</translation>
     </message>
     <message>
         <source>Show a preview and information for the selected file</source>
@@ -5343,71 +5343,71 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>&amp;Title:</source>
-        <translation>标题 (&amp;T):</translation>
+        <translation>标题(&amp;T):</translation>
     </message>
     <message>
         <source>&amp;Author:</source>
-        <translation>作者 (&amp;A):</translation>
+        <translation>作者(&amp;A):</translation>
     </message>
     <message>
         <source>&amp;Subject:</source>
-        <translation type="unfinished"/>
+        <translation>主题(&amp;S)：</translation>
     </message>
     <message>
         <source>&amp;Keywords:</source>
-        <translation>关键词 (&amp;K):</translation>
+        <translation>关键词(&amp;K):</translation>
     </message>
     <message>
         <source>Descri&amp;ption:</source>
-        <translation>描述 (&amp;p):</translation>
+        <translation>描述(&amp;p):</translation>
     </message>
     <message>
         <source>P&amp;ublisher:</source>
-        <translation>出版社 (&amp;u):</translation>
+        <translation>出版社(&amp;u):</translation>
     </message>
     <message>
         <source>&amp;Contributors:</source>
-        <translation>贡献者 (&amp;C):</translation>
+        <translation>贡献者(&amp;C):</translation>
     </message>
     <message>
         <source>Dat&amp;e:</source>
-        <translation>日期 (&amp;e):</translation>
+        <translation>日期(&amp;e):</translation>
     </message>
     <message>
         <source>T&amp;ype:</source>
-        <translation>类型 (&amp;y):</translation>
+        <translation>类型(&amp;y):</translation>
     </message>
     <message>
         <source>F&amp;ormat:</source>
-        <translation>格式 (&amp;o):</translation>
+        <translation>格式(&amp;o):</translation>
     </message>
     <message>
         <source>Identi&amp;fier:</source>
-        <translation>身份标记 (&amp;f):</translation>
+        <translation>身份标记(&amp;f):</translation>
     </message>
     <message>
         <source>&amp;Source:</source>
-        <translation>来源 (&amp;S):</translation>
+        <translation>来源(&amp;S):</translation>
     </message>
     <message>
         <source>&amp;Language:</source>
-        <translation>语言 (&amp;L):</translation>
+        <translation>语言(&amp;L):</translation>
     </message>
     <message>
         <source>&amp;Relation:</source>
-        <translation type="unfinished"/>
+        <translation>关系(&amp;R)：</translation>
     </message>
     <message>
         <source>Co&amp;verage:</source>
-        <translation>范围 (&amp;v):</translation>
+        <translation>范围(&amp;v):</translation>
     </message>
     <message>
         <source>Ri&amp;ghts:</source>
-        <translation>权利 (&amp;g):</translation>
+        <translation>权利(&amp;g):</translation>
     </message>
     <message>
         <source>Further &amp;Information</source>
-        <translation>更多信息 (&amp;I)</translation>
+        <translation>更多信息(&amp;I)</translation>
     </message>
     <message>
         <source>A person or organisation responsible for making the document available</source>
@@ -5447,7 +5447,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Documen&amp;t</source>
-        <translation>文档 (&amp;t)</translation>
+        <translation>文档(&amp;t)</translation>
     </message>
     <message>
         <source>The person or organisation primarily responsible for making the content of the document. This field can be embedded in the Scribus document for reference, as well as in the metadata of a PDF</source>
@@ -5501,7 +5501,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Show</source>
-        <translation type="unfinished"/>
+        <translation>显示</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -5585,59 +5585,59 @@ failed!</source>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation>新建 (&amp;N)</translation>
+        <translation>新建(&amp;N)</translation>
     </message>
     <message>
         <source>&amp;Open...</source>
-        <translation>打开 (&amp;O)...</translation>
+        <translation>打开(&amp;O)...</translation>
     </message>
     <message>
         <source>Save &amp;As...</source>
-        <translation>另存为 (&amp;A)...</translation>
+        <translation>另存为(&amp;A)...</translation>
     </message>
     <message>
         <source>&amp;Save and Exit</source>
-        <translation>保存并退出 (&amp;S)</translation>
+        <translation>保存并退出(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Exit without Saving</source>
-        <translation>退出不保存 (&amp;E)</translation>
+        <translation>退出不保存(&amp;E)</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation>撤销 (&amp;U)</translation>
+        <translation>撤销(&amp;U)</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation>重复 (&amp;R)</translation>
+        <translation>重复(&amp;R)</translation>
     </message>
     <message>
         <source>Cu&amp;t</source>
-        <translation>剪切 (&amp;t)</translation>
+        <translation>剪切(&amp;t)</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation>复制 (&amp;C)</translation>
+        <translation>复制(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation>粘贴 (&amp;P)</translation>
+        <translation>粘贴(&amp;P)</translation>
     </message>
     <message>
         <source>C&amp;lear</source>
-        <translation>清除 (&amp;A)</translation>
+        <translation>清除(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Get Field Names</source>
-        <translation>获取域名称 (&amp;G)</translation>
+        <translation>获取域名称(&amp;G)</translation>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation>文件 (&amp;F)</translation>
+        <translation>文件(&amp;F)</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation>编辑 (&amp;E)</translation>
+        <translation>编辑(&amp;E)</translation>
     </message>
     <message>
         <source>JavaScripts (*.js);;All Files (*)</source>
@@ -5708,7 +5708,7 @@ failed!</source>
     </message>
     <message>
         <source>Posterize:</source>
-        <translation type="unfinished"/>
+        <translation>色调分离：</translation>
     </message>
     <message>
         <source>Available Effects</source>
@@ -5724,7 +5724,7 @@ failed!</source>
     </message>
     <message>
         <source>Colorize</source>
-        <translation type="unfinished"/>
+        <translation>转为彩色</translation>
     </message>
     <message>
         <source>Contrast</source>
@@ -5740,7 +5740,7 @@ failed!</source>
     </message>
     <message>
         <source>Posterize</source>
-        <translation type="unfinished"/>
+        <translation>色调分离</translation>
     </message>
     <message>
         <source>Sharpen</source>
@@ -5826,11 +5826,11 @@ failed!</source>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>关闭 (&amp;C)</translation>
+        <translation>关闭(&amp;C)</translation>
     </message>
     <message>
         <source>Exception</source>
-        <translation type="unfinished"/>
+        <translation>异常</translation>
     </message>
     <message>
         <source>&amp;Details &gt;&gt;</source>
@@ -5864,7 +5864,7 @@ failed!</source>
     <name>ExportForm</name>
     <message>
         <source>&amp;All pages</source>
-        <translation>全部页面 (&amp;A)</translation>
+        <translation>全部页面(&amp;A)</translation>
     </message>
     <message>
         <source>Change the output directory</source>
@@ -5890,19 +5890,19 @@ Name of the export file will be &apos;documentname-pagenumber.filetype&apos;</so
     </message>
     <message>
         <source>C&amp;hange...</source>
-        <translation>修改 (&amp;h)...</translation>
+        <translation>修改(&amp;h)...</translation>
     </message>
     <message>
         <source>&amp;Export to Directory:</source>
-        <translation>导出目录 (&amp;E):</translation>
+        <translation>导出目录(&amp;E):</translation>
     </message>
     <message>
         <source>Image &amp;Type:</source>
-        <translation>图像类型 (&amp;T):</translation>
+        <translation>图像类型(&amp;T):</translation>
     </message>
     <message>
         <source>&amp;Quality:</source>
-        <translation>质量 (&amp;Q):</translation>
+        <translation>质量(&amp;Q):</translation>
     </message>
     <message>
         <source>Export as Image(s)</source>
@@ -5914,7 +5914,7 @@ Name of the export file will be &apos;documentname-pagenumber.filetype&apos;</so
     </message>
     <message>
         <source>&amp;Resolution:</source>
-        <translation>解析度 (&amp;R):</translation>
+        <translation>解析度(&amp;R):</translation>
     </message>
     <message>
         <source> %</source>
@@ -5930,11 +5930,11 @@ Name of the export file will be &apos;documentname-pagenumber.filetype&apos;</so
     </message>
     <message>
         <source>&amp;Current page</source>
-        <translation>当前页面 (&amp;C)</translation>
+        <translation>当前页面(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Range</source>
-        <translation>范围 (&amp;R)</translation>
+        <translation>范围(&amp;R)</translation>
     </message>
     <message>
         <source>Export a range of pages</source>
@@ -5944,8 +5944,9 @@ Name of the export file will be &apos;documentname-pagenumber.filetype&apos;</so
         <source>Insert a comma separated list of tokens where
 a token can be * for all the pages, 1-5 for
 a range of pages or a single page number.</source>
-        <translation>插入一个以逗号隔开的记号，这里记号可以是*以代表所有页，1-5代表页范围或者一个单独的页码。
-</translation>
+        <translation>插入一个以逗号隔开的记号，这里记号可以是：
+* 代表所有页，
+1-5代表页范围或者一个单独的页码。</translation>
     </message>
     <message>
         <source>Export all pages</source>
@@ -5959,7 +5960,7 @@ Use 72 dpi for Images intended for the Screen</source>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation>尺寸 (&amp;S):</translation>
+        <translation>尺寸(&amp;S):</translation>
     </message>
     <message>
         <source>Size of the images. 100% for no changes, 200% for two times larger etc.</source>
@@ -6168,11 +6169,11 @@ Use 72 dpi for Images intended for the Screen</source>
     <name>FhPlug</name>
     <message>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>正在导入: %1</translation>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>正在分析文件 :</translation>
     </message>
     <message>
         <source>Parsing failed!
@@ -6250,7 +6251,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Family</source>
-        <translation type="unfinished"/>
+        <translation>主体</translation>
     </message>
     <message>
         <source>Style</source>
@@ -6274,7 +6275,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Subset</source>
-        <translation type="unfinished"/>
+        <translation>子集</translation>
     </message>
     <message>
         <source>Access</source>
@@ -6314,7 +6315,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Outline</source>
-        <translation type="unfinished"/>
+        <translation>大纲</translation>
     </message>
 </context>
 <context>
@@ -6339,11 +6340,11 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;Quick Search:</source>
-        <translation>快速搜索 (&amp;Q):</translation>
+        <translation>快速搜索(&amp;Q):</translation>
     </message>
     <message>
         <source>&amp;Font Size:</source>
-        <translation>字号 (&amp;F):</translation>
+        <translation>字号(&amp;F):</translation>
     </message>
     <message>
         <source>Text</source>
@@ -6355,7 +6356,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Se&amp;t</source>
-        <translation>设置 (&amp;t)</translation>
+        <translation>设置(&amp;t)</translation>
     </message>
     <message>
         <source>Alt+T</source>
@@ -6367,7 +6368,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>关闭 (&amp;C)</translation>
+        <translation>关闭(&amp;C)</translation>
     </message>
     <message>
         <source>Alt+C</source>
@@ -6379,7 +6380,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;Default</source>
-        <translation>默认 (&amp;D)</translation>
+        <translation>默认(&amp;D)</translation>
     </message>
     <message>
         <source>Show Extended Font Information</source>
@@ -6394,7 +6395,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     <name>FontPreviewPlugin</name>
     <message>
         <source>&amp;Font Preview...</source>
-        <translation>字体预览 (&amp;F)...</translation>
+        <translation>字体预览(&amp;F)...</translation>
     </message>
     <message>
         <source>Font Preview dialog</source>
@@ -6470,7 +6471,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     <name>GradientEditorBase</name>
     <message>
         <source>Frame</source>
-        <translation type="unfinished"/>
+        <translation>边框</translation>
     </message>
     <message>
         <source>Position:</source>
@@ -6599,7 +6600,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     <name>GuideManager</name>
     <message>
         <source>&amp;Single</source>
-        <translation type="unfinished"/>
+        <translation>单一(&amp;S)</translation>
     </message>
     <message>
         <source>Horizontals</source>
@@ -6607,7 +6608,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>添加 (&amp;A)</translation>
+        <translation>添加(&amp;A)</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -6615,7 +6616,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>D&amp;elete</source>
-        <translation>删除 (&amp;e)</translation>
+        <translation>删除(&amp;e)</translation>
     </message>
     <message>
         <source>Alt+E</source>
@@ -6627,7 +6628,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>A&amp;dd</source>
-        <translation>添加 (&amp;d)</translation>
+        <translation>添加(&amp;d)</translation>
     </message>
     <message>
         <source>Alt+D</source>
@@ -6635,7 +6636,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>De&amp;lete</source>
-        <translation>删除 (&amp;l)</translation>
+        <translation>删除(&amp;l)</translation>
     </message>
     <message>
         <source>Alt+L</source>
@@ -6643,11 +6644,11 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;Lock Guides</source>
-        <translation>锁定附助线 (&amp;L)</translation>
+        <translation>锁定附助线(&amp;L)</translation>
     </message>
     <message>
         <source>Appl&amp;y to All Pages</source>
-        <translation>应用到所有页面 (&amp;y)</translation>
+        <translation>应用到所有页面(&amp;y)</translation>
     </message>
     <message>
         <source>Alt+Y</source>
@@ -6655,15 +6656,15 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;Column/Row</source>
-        <translation>列/行 (&amp;C)</translation>
+        <translation>列/行(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Number:</source>
-        <translation>数量 (&amp;N):</translation>
+        <translation>数量(&amp;N):</translation>
     </message>
     <message>
         <source>U&amp;se Gap:</source>
-        <translation>使用间隔 (&amp;s):</translation>
+        <translation>使用间隔(&amp;s):</translation>
     </message>
     <message>
         <source>Alt+S</source>
@@ -6671,7 +6672,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;Page</source>
-        <translation>页面 (&amp;P)</translation>
+        <translation>页面(&amp;P)</translation>
     </message>
     <message>
         <source>Alt+P</source>
@@ -6679,19 +6680,19 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>M&amp;argins</source>
-        <translation>边距 (&amp;a)</translation>
+        <translation>边距(&amp;a)</translation>
     </message>
     <message>
         <source>S&amp;election</source>
-        <translation>选择 (&amp;e)</translation>
+        <translation>选择(&amp;e)</translation>
     </message>
     <message>
         <source>Nu&amp;mber:</source>
-        <translation>数量 (&amp;m):</translation>
+        <translation>数量(&amp;m):</translation>
     </message>
     <message>
         <source>Use &amp;Gap:</source>
-        <translation>使用间隔 (&amp;G):</translation>
+        <translation>使用间隔(&amp;G):</translation>
     </message>
     <message>
         <source>Alt+G</source>
@@ -6699,7 +6700,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;Misc</source>
-        <translation>杂项 (&amp;M)</translation>
+        <translation>杂项(&amp;M)</translation>
     </message>
     <message>
         <source>Delete all guides from the current page</source>
@@ -6707,7 +6708,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Delete Guides from Current &amp;Page</source>
-        <translation>从当前页面删除所有参考线 (&amp;P)</translation>
+        <translation>从当前页面删除所有参考线(&amp;P)</translation>
     </message>
     <message>
         <source>Delete all guides from the current document</source>
@@ -6715,7 +6716,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Delete Guides from &amp;All Pages</source>
-        <translation>从所有页面删除参考线 (&amp;A)</translation>
+        <translation>从所有页面删除参考线(&amp;A)</translation>
     </message>
     <message>
         <source>Guide Manager</source>
@@ -6818,11 +6819,11 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>删除 (&amp;D)</translation>
+        <translation>删除(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Print...</source>
-        <translation>打印 (&amp;P)...</translation>
+        <translation>打印(&amp;P)...</translation>
     </message>
     <message>
         <source>New Bookmark</source>
@@ -6834,27 +6835,27 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation>文件 (&amp;F)</translation>
+        <translation>文件(&amp;F)</translation>
     </message>
     <message>
         <source>&amp;Find...</source>
-        <translation>查找 (&amp;F)...</translation>
+        <translation>查找(&amp;F)...</translation>
     </message>
     <message>
         <source>Find &amp;Next</source>
-        <translation>查找下一个 (&amp;N)</translation>
+        <translation>查找下一个(&amp;N)</translation>
     </message>
     <message>
         <source>Find &amp;Previous</source>
-        <translation>查找上一个 (&amp;P)</translation>
+        <translation>查找上一个(&amp;P)</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation>编辑 (&amp;E)</translation>
+        <translation>编辑(&amp;E)</translation>
     </message>
     <message>
         <source>Navigation</source>
-        <translation type="unfinished"/>
+        <translation>导航</translation>
     </message>
     <message>
         <source>Loading Failed</source>
@@ -6862,15 +6863,15 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;Add Bookmark</source>
-        <translation>添加书签 (&amp;A)</translation>
+        <translation>添加书签(&amp;A)</translation>
     </message>
     <message>
         <source>D&amp;elete All</source>
-        <translation>全部删除 (&amp;e)</translation>
+        <translation>全部删除(&amp;e)</translation>
     </message>
     <message>
         <source>&amp;Bookmarks</source>
-        <translation>书签 (&amp;B)</translation>
+        <translation>书签(&amp;B)</translation>
     </message>
     <message>
         <source>Scribus Help</source>
@@ -6878,23 +6879,23 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;Exit</source>
-        <translation>退出 (&amp;E)</translation>
+        <translation>退出(&amp;E)</translation>
     </message>
     <message>
         <source>Find &amp;Next...</source>
-        <translation>查找下一个 (&amp;N)...</translation>
+        <translation>查找下一个(&amp;N)...</translation>
     </message>
     <message>
         <source>Find &amp;Previous...</source>
-        <translation>查找上一个 (&amp;P)...</translation>
+        <translation>查找上一个(&amp;P)...</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>添加 (&amp;A)</translation>
+        <translation>添加(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation>退出 (&amp;Q)</translation>
+        <translation>退出(&amp;Q)</translation>
     </message>
     <message>
         <source>&lt;h2&gt;&lt;p&gt;Sorry, no manual is installed!&lt;/p&gt;&lt;p&gt;Please see:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;http://docs.scribus.net for updated documentation&lt;/li&gt;&lt;li&gt;http://www.scribus.net for downloads&lt;/li&gt;&lt;/ul&gt;&lt;/h2&gt;</source>
@@ -6910,11 +6911,11 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;Contents</source>
-        <translation>内容 (&amp;C)</translation>
+        <translation>内容(&amp;C)</translation>
     </message>
     <message>
         <source>Se&amp;arch</source>
-        <translation>搜索 (&amp;a)</translation>
+        <translation>搜索(&amp;a)</translation>
     </message>
     <message>
         <source>Searching is case insensitive</source>
@@ -6922,7 +6923,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;Search</source>
-        <translation>查找 (&amp;S)</translation>
+        <translation>查找(&amp;S)</translation>
     </message>
     <message>
         <source>1</source>
@@ -6930,19 +6931,19 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Book&amp;marks</source>
-        <translation>书签 (&amp;m)</translation>
+        <translation>书签(&amp;m)</translation>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation>新建 (&amp;N)</translation>
+        <translation>新建(&amp;N)</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>删除 (&amp;D)</translation>
+        <translation>删除(&amp;D)</translation>
     </message>
     <message>
         <source>D&amp;elete All</source>
-        <translation>全部删除 (&amp;e)</translation>
+        <translation>全部删除(&amp;e)</translation>
     </message>
 </context>
 <context>
@@ -6956,7 +6957,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     <name>HunspellDialogBase</name>
     <message>
         <source>Check Spelling</source>
-        <translation type="unfinished"/>
+        <translation>检查拼写</translation>
     </message>
     <message>
         <source>Text Language:</source>
@@ -6964,23 +6965,23 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Not in dictionary</source>
-        <translation type="unfinished"/>
+        <translation>不在字典中</translation>
     </message>
     <message>
         <source>Ignore Once</source>
-        <translation type="unfinished"/>
+        <translation>忽略</translation>
     </message>
     <message>
         <source>Ignore All</source>
-        <translation type="unfinished"/>
+        <translation>全部忽略</translation>
     </message>
     <message>
         <source>Suggestions</source>
-        <translation type="unfinished"/>
+        <translation>建议</translation>
     </message>
     <message>
         <source>Change</source>
-        <translation type="unfinished"/>
+        <translation>更改</translation>
     </message>
     <message>
         <source>Change All</source>
@@ -6991,7 +6992,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     <name>HunspellPlugin</name>
     <message>
         <source>Check Spelling...</source>
-        <translation type="unfinished"/>
+        <translation>检查拼写...</translation>
     </message>
 </context>
 <context>
@@ -7255,16 +7256,17 @@ converting their vector data into Scribus objects.</source>
     <name>ImportCvgPlugin</name>
     <message>
         <source>Import Cvg...</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">导入 Cvg...</translation>
     </message>
     <message>
         <source>Imports Cvg Files</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">导入 Cvg 文件</translation>
     </message>
     <message>
         <source>Imports most Cvg files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">多数导入当前文档的 Cvg 文件，它们
+的矢量数椐转换为 Scribus 对象。</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7365,7 +7367,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Enhanced Metafile</source>
-        <translation type="unfinished"/>
+        <translation>增强型图元文件</translation>
     </message>
     <message>
         <source>Enhanced Metafile (*.emf *.EMF)</source>
@@ -7380,7 +7382,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Freehand</source>
-        <translation type="unfinished"/>
+        <translation>手画</translation>
     </message>
     <message>
         <source>Freehand (*.fh* *.FH*)</source>
@@ -7397,7 +7399,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>All Supported Formats</source>
-        <translation type="unfinished"/>
+        <translation>全部支持的格式</translation>
     </message>
 </context>
 <context>
@@ -7550,16 +7552,17 @@ converting their vector data into Scribus objects.</source>
     <name>ImportPctPlugin</name>
     <message>
         <source>Import Pict...</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">导入 Pict...</translation>
     </message>
     <message>
         <source>Imports Pict Files</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">导入 Pict 文件</translation>
     </message>
     <message>
         <source>Imports most Mac Pict files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">多数导入当前文档的 Pict 文件，它们
+的矢量数椐转换为 Scribus 对象。</translation>
     </message>
     <message>
         <source>All Supported Formats</source>
@@ -7968,7 +7971,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Gri&amp;d</source>
-        <translation>网格 (&amp;d)</translation>
+        <translation>网格(&amp;d)</translation>
     </message>
     <message>
         <source>Copies</source>
@@ -7976,7 +7979,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Do&amp;uble sided</source>
-        <translation>双面 (&amp;u)</translation>
+        <translation>双面(&amp;u)</translation>
     </message>
     <message>
         <source>Alt+U</source>
@@ -7992,7 +7995,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>&amp;Booklet</source>
-        <translation>小册子 (&amp;B)</translation>
+        <translation>小册子(&amp;B)</translation>
     </message>
     <message>
         <source>Pages per sheet</source>
@@ -8067,7 +8070,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>确认 (&amp;O)</translation>
+        <translation>确认(&amp;O)</translation>
     </message>
     <message>
         <source>Alt+G</source>
@@ -8075,7 +8078,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>取消 (&amp;C)</translation>
+        <translation>取消(&amp;C)</translation>
     </message>
     <message>
         <source>Alt+C</source>
@@ -8086,7 +8089,7 @@ p, li { white-space: pre-wrap; }
     <name>ImpositionPlugin</name>
     <message>
         <source>&amp;Imposition...</source>
-        <translation>拼版 (&amp;I)...</translation>
+        <translation>拼版(&amp;I)...</translation>
     </message>
     <message>
         <source>Imposition dialog</source>
@@ -8140,11 +8143,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Insert</source>
-        <translation>插入 (&amp;I)</translation>
+        <translation>插入(&amp;I)</translation>
     </message>
     <message>
         <source>&amp;Master Page:</source>
-        <translation>母页 (&amp;M):</translation>
+        <translation>母页(&amp;M):</translation>
     </message>
     <message>
         <source>Page Size</source>
@@ -8152,11 +8155,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation>尺寸 (&amp;S):</translation>
+        <translation>尺寸(&amp;S):</translation>
     </message>
     <message>
         <source>Orie&amp;ntation:</source>
-        <translation>页面方向 (&amp;n):</translation>
+        <translation>页面方向(&amp;n):</translation>
     </message>
     <message>
         <source>Portrait</source>
@@ -8168,11 +8171,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Width:</source>
-        <translation>宽度 (&amp;W):</translation>
+        <translation>宽度(&amp;W):</translation>
     </message>
     <message>
         <source>&amp;Height:</source>
-        <translation>高度 (&amp;H):</translation>
+        <translation>高度(&amp;H):</translation>
     </message>
     <message>
         <source>Move Objects with their Page</source>
@@ -8195,19 +8198,19 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>T&amp;ype</source>
-        <translation>类型 (&amp;y)</translation>
+        <translation>类型(&amp;y)</translation>
     </message>
     <message>
         <source>&amp;Text Frame</source>
-        <translation>文本框 (&amp;T)</translation>
+        <translation>文本框(&amp;T)</translation>
     </message>
     <message>
         <source>&amp;Image Frame</source>
-        <translation>图片框 (&amp;I)</translation>
+        <translation>图片框(&amp;I)</translation>
     </message>
     <message>
         <source>&amp;Location</source>
-        <translation>位置 (&amp;L)</translation>
+        <translation>位置(&amp;L)</translation>
     </message>
     <message>
         <source>Page Placement</source>
@@ -8251,7 +8254,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Size</source>
-        <translation>尺寸 (&amp;S)</translation>
+        <translation>尺寸(&amp;S)</translation>
     </message>
     <message>
         <source>Same as the Page Margins</source>
@@ -8279,7 +8282,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Options</source>
-        <translation>选项 (&amp;O)</translation>
+        <translation>选项(&amp;O)</translation>
     </message>
     <message>
         <source>Source Image:</source>
@@ -8485,7 +8488,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>After</source>
-        <translation type="unfinished"/>
+        <translation>封底</translation>
     </message>
     <message>
         <source>Beginning</source>
@@ -8520,7 +8523,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>After</source>
-        <translation type="unfinished"/>
+        <translation>封底</translation>
     </message>
     <message>
         <source>Beginning</source>
@@ -8543,23 +8546,23 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Edit...</source>
-        <translation>编辑 (&amp;E)...</translation>
+        <translation>编辑(&amp;E)...</translation>
     </message>
     <message>
         <source>&amp;Add...</source>
-        <translation>添加 (&amp;A)...</translation>
+        <translation>添加(&amp;A)...</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>删除 (&amp;D)</translation>
+        <translation>删除(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>关闭 (&amp;C)</translation>
+        <translation>关闭(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;New Script:</source>
-        <translation>新脚本 (&amp;N):</translation>
+        <translation>新脚本(&amp;N):</translation>
     </message>
     <message>
         <source>Do you really want to delete this script?</source>
@@ -8876,7 +8879,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;X Pos:</source>
-        <translation type="unfinished"/>
+        <translation>X-坐标(&amp;X):</translation>
     </message>
     <message>
         <source>Horizontal position of the lens</source>
@@ -8884,7 +8887,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Y Pos:</source>
-        <translation type="unfinished"/>
+        <translation>Y-坐标(&amp;Y):</translation>
     </message>
     <message>
         <source>Vertical position of the lens</source>
@@ -8916,7 +8919,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Strength:</source>
-        <translation type="unfinished"/>
+        <translation>强度(&amp;S)：</translation>
     </message>
     <message>
         <source>Strength of the lens</source>
@@ -9034,11 +9037,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation>尺寸 (&amp;S):</translation>
+        <translation>尺寸(&amp;S):</translation>
     </message>
     <message>
         <source>Orie&amp;ntation:</source>
-        <translation>页面方向 (&amp;n):</translation>
+        <translation>页面方向(&amp;n):</translation>
     </message>
     <message>
         <source>Portrait</source>
@@ -9050,11 +9053,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Width:</source>
-        <translation>宽度 (&amp;W):</translation>
+        <translation>宽度(&amp;W):</translation>
     </message>
     <message>
         <source>&amp;Height:</source>
-        <translation>高度 (&amp;H):</translation>
+        <translation>高度(&amp;H):</translation>
     </message>
     <message>
         <source>Move Objects with their Page</source>
@@ -9097,19 +9100,19 @@ p, li { white-space: pre-wrap; }
     <name>MarginWidget</name>
     <message>
         <source>&amp;Bottom:</source>
-        <translation>底部 (&amp;B):</translation>
+        <translation>底部(&amp;B):</translation>
     </message>
     <message>
         <source>&amp;Top:</source>
-        <translation>顶部 (&amp;T):</translation>
+        <translation>顶部(&amp;T):</translation>
     </message>
     <message>
         <source>&amp;Right:</source>
-        <translation>右边 (&amp;R):</translation>
+        <translation>右边(&amp;R):</translation>
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation>左边 (&amp;L):</translation>
+        <translation>左边(&amp;L):</translation>
     </message>
     <message>
         <source>Distance between the top margin guide and the edge of the page</source>
@@ -9121,7 +9124,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Inside:</source>
-        <translation type="unfinished"/>
+        <translation>里面(&amp;I):</translation>
     </message>
     <message>
         <source>O&amp;utside:</source>
@@ -9227,7 +9230,7 @@ p, li { white-space: pre-wrap; }
     <name>Mark2ItemDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>对话框</translation>
     </message>
     <message>
         <source>Label:</source>
@@ -9261,7 +9264,7 @@ p, li { white-space: pre-wrap; }
     <name>Mark2MarkDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>对话框</translation>
     </message>
     <message>
         <source>Label:</source>
@@ -9283,7 +9286,7 @@ p, li { white-space: pre-wrap; }
     <name>MarkAnchorDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>对话框</translation>
     </message>
     <message>
         <source>Label:</source>
@@ -9301,7 +9304,7 @@ p, li { white-space: pre-wrap; }
     <name>MarkNoteDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>对话框</translation>
     </message>
     <message>
         <source>Notes Style:</source>
@@ -9350,7 +9353,7 @@ p, li { white-space: pre-wrap; }
     <name>MarksManager</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>对话框</translation>
     </message>
     <message>
         <source>Update All Marks</source>
@@ -9405,75 +9408,75 @@ p, li { white-space: pre-wrap; }
     <name>MasterPagesPalette</name>
     <message>
         <source>Edit Master Pages</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">编辑母页</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">名称(&amp;N):</translation>
     </message>
     <message>
         <source>New Master Page</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">新建母页</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">名称：</translation>
     </message>
     <message>
         <source>New MasterPage</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">新建母页</translation>
     </message>
     <message>
         <source>Copy #%1 of </source>
-        <translation type="unfinished"/>
+        <translation type="vanished">复制 #%1 的</translation>
     </message>
     <message>
         <source>Duplicate the selected master page</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">复印选中的母页</translation>
     </message>
     <message>
         <source>Delete the selected master page</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">删除当前选中的母页</translation>
     </message>
     <message>
         <source>Add a new master page</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">增加一个新的母页</translation>
     </message>
     <message>
         <source>Import master pages from another document</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">从另外一个文件导入母页</translation>
     </message>
     <message>
         <source>New Master Page %1</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">新建母页 %1</translation>
     </message>
     <message>
         <source>Unable to Rename Master Page</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">无法重命名母页</translation>
     </message>
     <message>
         <source>The Normal page is not allowed to be renamed.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">普通页面不允许重命名。</translation>
     </message>
     <message>
         <source>Rename Master Page</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">重命名母页</translation>
     </message>
     <message>
         <source>New Name:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">新名称 :</translation>
     </message>
     <message>
         <source>Copy #%1 of %2</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">复制 ＃%1 of %2</translation>
     </message>
     <message>
         <source>This master page is used at least once in the document.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">母页在文档中至少使用一次。</translation>
     </message>
     <message>
         <source>Do you really want to delete master page &quot;%1&quot;?</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">你直的确定要删除母页“%1”?</translation>
     </message>
 </context>
 <context>
@@ -9562,11 +9565,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Import Page(s):</source>
-        <translation>导入页面 (&amp;I):</translation>
+        <translation>导入页面(&amp;I):</translation>
     </message>
     <message>
         <source>&amp;Import Master Page</source>
-        <translation>导入母页 (&amp;I)</translation>
+        <translation>导入母页(&amp;I)</translation>
     </message>
     <message>
         <source>Before Page</source>
@@ -9582,7 +9585,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Import</source>
-        <translation>导入 (&amp;I)</translation>
+        <translation>导入(&amp;I)</translation>
     </message>
     <message>
         <source>Insert a comma separated list of tokens import where a token can be * for all the pages, 1-5 for a range of pages or a single page number.</source>
@@ -9627,7 +9630,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>&amp;Reset</source>
-        <translation>重置 (&amp;R)</translation>
+        <translation>重置(&amp;R)</translation>
     </message>
 </context>
 <context>
@@ -9738,7 +9741,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>取消 (&amp;C)</translation>
+        <translation>取消(&amp;C)</translation>
     </message>
     <message>
         <source>%v of %m</source>
@@ -9749,19 +9752,19 @@ If no handle is selected all handles will be reset.</source>
     <name>MultipleDuplicate</name>
     <message>
         <source>&amp;Horizontal Shift:</source>
-        <translation>水平伸缩 (&amp;H):</translation>
+        <translation>水平伸缩(&amp;H):</translation>
     </message>
     <message>
         <source>&amp;Vertical Shift:</source>
-        <translation>垂直伸缩 (&amp;V):</translation>
+        <translation>垂直伸缩(&amp;V):</translation>
     </message>
     <message>
         <source>&amp;Horizontal Gap:</source>
-        <translation>水平间距 (&amp;H):</translation>
+        <translation>水平间距(&amp;H):</translation>
     </message>
     <message>
         <source>&amp;Vertical Gap:</source>
-        <translation>垂直间距 (&amp;V):</translation>
+        <translation>垂直间距(&amp;V):</translation>
     </message>
     <message>
         <source>Multiple Duplicate</source>
@@ -9769,15 +9772,15 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>&amp;By Number of Copies</source>
-        <translation>由复件数 (&amp;B)</translation>
+        <translation>由复件数(&amp;B)</translation>
     </message>
     <message>
         <source>&amp;Number of Copies:</source>
-        <translation>复件数 (&amp;N):</translation>
+        <translation>复件数(&amp;N):</translation>
     </message>
     <message>
         <source>&amp;Shift Created Items By</source>
-        <translation>变换尺寸创建对象 (&amp;S)</translation>
+        <translation>变换尺寸创建对象(&amp;S)</translation>
     </message>
     <message>
         <source>Alt+S</source>
@@ -9785,7 +9788,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>Create &amp;Gap Between Items Of</source>
-        <translation>按间距创建对象 (&amp;G)</translation>
+        <translation>按间距创建对象(&amp;G)</translation>
     </message>
     <message>
         <source>Alt+G</source>
@@ -9797,7 +9800,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>By &amp;Rows &amp;&amp; Columns</source>
-        <translation>由行 &amp;&amp; 列 (&amp;R)</translation>
+        <translation>由行 &amp;&amp; 列(&amp;R)</translation>
     </message>
     <message>
         <source>Vertical Gap:</source>
@@ -9817,18 +9820,18 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>确认 (&amp;O)</translation>
+        <translation>确认(&amp;O)</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>取消 (&amp;C)</translation>
+        <translation>取消(&amp;C)</translation>
     </message>
 </context>
 <context>
     <name>MyPlugin</name>
     <message>
         <source>My &amp;Plugin</source>
-        <translation>我的插件 (&amp;P)</translation>
+        <translation>我的插件(&amp;P)</translation>
     </message>
 </context>
 <context>
@@ -9898,31 +9901,31 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation>尺寸 (&amp;S):</translation>
+        <translation>尺寸(&amp;S):</translation>
     </message>
     <message>
         <source>Orie&amp;ntation:</source>
-        <translation>页面方向 (&amp;n):</translation>
+        <translation>页面方向(&amp;n):</translation>
     </message>
     <message>
         <source>&amp;Width:</source>
-        <translation>宽度 (&amp;W):</translation>
+        <translation>宽度(&amp;W):</translation>
     </message>
     <message>
         <source>&amp;Height:</source>
-        <translation>高度 (&amp;H):</translation>
+        <translation>高度(&amp;H):</translation>
     </message>
     <message>
         <source>&amp;Default Unit:</source>
-        <translation>默认单位 (&amp;D):</translation>
+        <translation>默认单位(&amp;D):</translation>
     </message>
     <message>
         <source>&amp;Automatic Text Frames</source>
-        <translation>自动文本框 (&amp;A)</translation>
+        <translation>自动文本框(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Gap:</source>
-        <translation>间隔 (&amp;G):</translation>
+        <translation>间隔(&amp;G):</translation>
     </message>
     <message>
         <source>New from Template</source>
@@ -9938,7 +9941,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>Colu&amp;mns:</source>
-        <translation>列 (&amp;m):</translation>
+        <translation>列(&amp;m):</translation>
     </message>
     <message>
         <source>Do not show this dialog again</source>
@@ -9950,7 +9953,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>N&amp;umber of Pages:</source>
-        <translation>页数 (&amp;u):</translation>
+        <translation>页数(&amp;u):</translation>
     </message>
     <message>
         <source>Open</source>
@@ -9958,15 +9961,15 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>&amp;New Document</source>
-        <translation>新建文档 (&amp;N)</translation>
+        <translation>新建文档(&amp;N)</translation>
     </message>
     <message>
         <source>Open &amp;Existing Document</source>
-        <translation>打开现有文档 (&amp;E)</translation>
+        <translation>打开现有文档(&amp;E)</translation>
     </message>
     <message>
         <source>Open Recent &amp;Document</source>
-        <translation>打开最近文档 (&amp;D)</translation>
+        <translation>打开最近文档(&amp;D)</translation>
     </message>
     <message>
         <source>First Page is:</source>
@@ -9982,14 +9985,14 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>New &amp;from Template</source>
-        <translation>从模板新建 (&amp;f)</translation>
+        <translation>从模板新建(&amp;f)</translation>
     </message>
 </context>
 <context>
     <name>NewFromTemplatePlugin</name>
     <message>
         <source>New &amp;from Template...</source>
-        <translation>从模板新建 (&amp;f)...</translation>
+        <translation>从模板新建(&amp;f)...</translation>
     </message>
     <message>
         <source>Load documents with predefined layout</source>
@@ -10052,11 +10055,11 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>&amp;Inside:</source>
-        <translation type="unfinished"/>
+        <translation>里面(&amp;I):</translation>
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation>左边 (&amp;L):</translation>
+        <translation>左边(&amp;L):</translation>
     </message>
     <message>
         <source>O&amp;utside:</source>
@@ -10064,7 +10067,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>&amp;Right:</source>
-        <translation>右 (&amp;R):</translation>
+        <translation>右(&amp;R):</translation>
     </message>
     <message>
         <source>Ensure all margins have the same value</source>
@@ -10107,23 +10110,23 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>&amp;Absolute Coordinates</source>
-        <translation>绝对坐标 (&amp;A)</translation>
+        <translation>绝对坐标(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;X-Pos:</source>
-        <translation>X-坐标 (&amp;X):</translation>
+        <translation>X-坐标(&amp;X):</translation>
     </message>
     <message>
         <source>&amp;Y-Pos:</source>
-        <translation>Y-坐标 (&amp;Y):</translation>
+        <translation>Y-坐标(&amp;Y):</translation>
     </message>
     <message>
         <source>Edit &amp;Contour Line</source>
-        <translation>编辑轮廓线 (&amp;C)</translation>
+        <translation>编辑轮廓线(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Reset Contour Line</source>
-        <translation>重置轮廓线 (&amp;R)</translation>
+        <translation>重置轮廓线(&amp;R)</translation>
     </message>
     <message>
         <source>Move Control Points Independently</source>
@@ -10290,11 +10293,11 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>Prefix</source>
-        <translation type="unfinished"/>
+        <translation>前缀</translation>
     </message>
     <message>
         <source>Suffix</source>
-        <translation type="unfinished"/>
+        <translation>后缀</translation>
     </message>
     <message>
         <source>Superscript in text</source>
@@ -10358,7 +10361,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>Frame</source>
-        <translation type="unfinished"/>
+        <translation>边框</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -10374,7 +10377,7 @@ If no handle is selected all handles will be reset.</source>
     </message>
     <message>
         <source>default</source>
-        <translation type="unfinished"/>
+        <translation>默认</translation>
     </message>
     <message>
         <source>No Style</source>
@@ -10417,7 +10420,7 @@ You cannot switch to different notes style before you apply that new one or pres
     <name>OODrawImportPlugin</name>
     <message>
         <source>Import &amp;OpenOffice.org Draw...</source>
-        <translation>导入 OpenOffice.org 图画图像 (&amp;O)...</translation>
+        <translation>导入 OpenOffice.org 图画图像(&amp;O)...</translation>
     </message>
     <message>
         <source>Imports OpenOffice.org Draw Files</source>
@@ -10481,7 +10484,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Transparent</source>
-        <translation type="unfinished"/>
+        <translation>透明</translation>
     </message>
     <message>
         <source>Transparent Wireframe</source>
@@ -10501,7 +10504,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Vertices</source>
-        <translation type="unfinished"/>
+        <translation>顶点</translation>
     </message>
     <message>
         <source>Shaded Vertices</source>
@@ -10541,7 +10544,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Bounding Box</source>
-        <translation type="unfinished"/>
+        <translation>边框</translation>
     </message>
     <message>
         <source>Transparent Bounding Box</source>
@@ -10565,11 +10568,11 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>White</source>
-        <translation type="unfinished"/>
+        <translation>白色</translation>
     </message>
     <message>
         <source>Day</source>
-        <translation type="unfinished"/>
+        <translation>天</translation>
     </message>
     <message>
         <source>Night</source>
@@ -10581,19 +10584,19 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Primary</source>
-        <translation type="unfinished"/>
+        <translation>主要的</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished"/>
+        <translation>蓝色</translation>
     </message>
     <message>
         <source>Red</source>
-        <translation type="unfinished"/>
+        <translation>红色</translation>
     </message>
     <message>
         <source>Cube</source>
-        <translation type="unfinished"/>
+        <translation>立方体</translation>
     </message>
     <message>
         <source>CAD</source>
@@ -10797,7 +10800,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Active</source>
-        <translation type="unfinished"/>
+        <translation>激活</translation>
     </message>
     <message>
         <source>Visible</source>
@@ -10878,15 +10881,15 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>O&amp;utput to File:</source>
-        <translation>输出文件 (&amp;O):</translation>
+        <translation>输出文件(&amp;O):</translation>
     </message>
     <message>
         <source>Cha&amp;nge...</source>
-        <translation>更改 (&amp;n)...</translation>
+        <translation>更改(&amp;n)...</translation>
     </message>
     <message>
         <source>Output one file for eac&amp;h page</source>
-        <translation>逐页输出单个文件 (&amp;h)</translation>
+        <translation>逐页输出单个文件(&amp;h)</translation>
     </message>
     <message>
         <source>Open PDF after Export</source>
@@ -10894,7 +10897,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation>保存 (&amp;S)</translation>
+        <translation>保存(&amp;S)</translation>
     </message>
     <message>
         <source>Open the exported PDF with the PDF viewer as set in External Tools preferences, when not exporting to a multi-file export destination.</source>
@@ -11021,11 +11024,11 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Display Trans&amp;parency</source>
-        <translation>显示透明度 (&amp;p)</translation>
+        <translation>显示透明度(&amp;p)</translation>
     </message>
     <message>
         <source>&amp;Display CMYK</source>
-        <translation>显示 CMYK (&amp;D)</translation>
+        <translation>显示 CMYK(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;C</source>
@@ -11045,7 +11048,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>&amp;Under Color Removal</source>
-        <translation>底色清除 (&amp;U)</translation>
+        <translation>底色清除(&amp;U)</translation>
     </message>
     <message>
         <source>Separation Name</source>
@@ -11097,7 +11100,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Enable &amp;Antialiasing</source>
-        <translation>启用抗锯齿 (&amp;A)</translation>
+        <translation>启用抗锯齿(&amp;A)</translation>
     </message>
     <message>
         <source>Fit to Width</source>
@@ -11223,7 +11226,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Symbol</source>
-        <translation type="unfinished"/>
+        <translation>符号</translation>
     </message>
     <message>
         <source>Copy of</source>
@@ -11243,11 +11246,11 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Spiral</source>
-        <translation type="unfinished"/>
+        <translation>螺旋</translation>
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"/>
+        <translation>表</translation>
     </message>
 </context>
 <context>
@@ -11271,7 +11274,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>添加 (&amp;A)</translation>
+        <translation>添加(&amp;A)</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -11279,7 +11282,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation>复制 (&amp;C)</translation>
+        <translation>复制(&amp;C)</translation>
     </message>
     <message>
         <source>Alt+C</source>
@@ -11287,7 +11290,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>删除 (&amp;D)</translation>
+        <translation>删除(&amp;D)</translation>
     </message>
     <message>
         <source>Alt+D</source>
@@ -11295,7 +11298,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>C&amp;lear</source>
-        <translation>清除 (&amp;l)</translation>
+        <translation>清除(&amp;l)</translation>
     </message>
     <message>
         <source>Alt+L</source>
@@ -11303,11 +11306,11 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>确认 (&amp;O)</translation>
+        <translation>确认(&amp;O)</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>取消 (&amp;C)</translation>
+        <translation>取消(&amp;C)</translation>
     </message>
     <message>
         <source>Name</source>
@@ -11386,7 +11389,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>missing</source>
-        <translation type="unfinished"/>
+        <translation>缺失</translation>
     </message>
     <message>
         <source>No Image Loaded</source>
@@ -11425,7 +11428,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Application</source>
-        <translation type="unfinished"/>
+        <translation>应用程序</translation>
     </message>
     <message>
         <source>DPI</source>
@@ -11433,7 +11436,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>State</source>
-        <translation type="unfinished"/>
+        <translation>状态</translation>
     </message>
     <message>
         <source>Finished</source>
@@ -11441,7 +11444,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Render</source>
-        <translation type="unfinished"/>
+        <translation>渲染</translation>
     </message>
     <message>
         <source>This is usually a problem with your input. Please check the program&apos;s output.</source>
@@ -11473,7 +11476,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Rendering...</source>
-        <translation type="unfinished"/>
+        <translation>渲染中...</translation>
     </message>
     <message>
         <source>Render Error</source>
@@ -11507,7 +11510,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>3D Model</source>
-        <translation type="unfinished"/>
+        <translation>三维模型</translation>
     </message>
     <message>
         <source>File:</source>
@@ -11623,7 +11626,7 @@ Often used for allowing items to be placed across page spreads</source>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation>名称 (&amp;N):</translation>
+        <translation>名称(&amp;N):</translation>
     </message>
     <message>
         <source>New Master Page</source>
@@ -11792,7 +11795,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Import</source>
-        <translation>导入 (&amp;I)</translation>
+        <translation>导入(&amp;I)</translation>
     </message>
     <message>
         <source>Create a new color within the current set</source>
@@ -11808,7 +11811,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation>编辑 (&amp;E)</translation>
+        <translation>编辑(&amp;E)</translation>
     </message>
     <message>
         <source>Make a copy of the currently selected color</source>
@@ -11816,7 +11819,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>D&amp;uplicate</source>
-        <translation>复印 (&amp;u)</translation>
+        <translation>复印(&amp;u)</translation>
     </message>
     <message>
         <source>Delete the currently selected color</source>
@@ -11824,7 +11827,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>删除 (&amp;D)</translation>
+        <translation>删除(&amp;D)</translation>
     </message>
     <message>
         <source>Remove unused colors from current document&apos;s color set</source>
@@ -11832,7 +11835,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Remove Unused</source>
-        <translation>清除未使用 (&amp;R)</translation>
+        <translation>清除未使用(&amp;R)</translation>
     </message>
     <message>
         <source>Color Sets</source>
@@ -11852,7 +11855,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Save Color Set</source>
-        <translation>保存颜色集 (&amp;S)</translation>
+        <translation>保存颜色集(&amp;S)</translation>
     </message>
     <message>
         <source>Make the current colorset the default color set</source>
@@ -11879,7 +11882,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Gradients</source>
-        <translation type="unfinished"/>
+        <translation>渐变</translation>
     </message>
     <message>
         <source>Scribus Swatches</source>
@@ -11974,7 +11977,7 @@ See the Edit Colors section of the documentation for more details.</source>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation>名称 (&amp;N):</translation>
+        <translation>名称(&amp;N):</translation>
     </message>
     <message>
         <source>Choose a Name</source>
@@ -11986,7 +11989,7 @@ See the Edit Colors section of the documentation for more details.</source>
     </message>
     <message>
         <source>&amp;Import</source>
-        <translation>导入 (&amp;I)</translation>
+        <translation>导入(&amp;I)</translation>
     </message>
     <message>
         <source>Add</source>
@@ -11994,7 +11997,7 @@ See the Edit Colors section of the documentation for more details.</source>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation>编辑 (&amp;E)</translation>
+        <translation>编辑(&amp;E)</translation>
     </message>
     <message>
         <source>Load File</source>
@@ -12091,7 +12094,7 @@ See the Edit Colors section of the documentation for more details.</source>
     </message>
     <message>
         <source>by using:</source>
-        <translation type="unfinished"/>
+        <translation>通过使用：</translation>
     </message>
 </context>
 <context>
@@ -12422,7 +12425,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     </message>
     <message>
         <source>Spacing</source>
-        <translation type="unfinished"/>
+        <translation>间距</translation>
     </message>
     <message>
         <source>Value:</source>
@@ -12619,7 +12622,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Preview</source>
-        <translation>预览 (&amp;P)</translation>
+        <translation>预览(&amp;P)</translation>
     </message>
     <message>
         <source>Alt+P</source>
@@ -12627,7 +12630,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Select</source>
-        <translation>选择 (&amp;S)</translation>
+        <translation>选择(&amp;S)</translation>
     </message>
     <message>
         <source>Alt+S</source>
@@ -12799,7 +12802,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Printed:</source>
-        <translation type="unfinished"/>
+        <translation>已打印：</translation>
     </message>
     <message>
         <source>Layout</source>
@@ -13062,7 +13065,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Go</source>
-        <translation type="unfinished"/>
+        <translation>执行</translation>
     </message>
     <message>
         <source>0 Image(s) Displayed, 0 Image(s) Filtered</source>
@@ -13166,7 +13169,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Criteria</source>
-        <translation type="unfinished"/>
+        <translation>条件</translation>
     </message>
     <message>
         <source>&lt;&lt; Add</source>
@@ -13190,11 +13193,11 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Tag</source>
-        <translation type="unfinished"/>
+        <translation>标签</translation>
     </message>
     <message>
         <source>Contains</source>
-        <translation type="unfinished"/>
+        <translation>包含</translation>
     </message>
     <message>
         <source>Doesn&apos;t Contain</source>
@@ -13222,7 +13225,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>add</source>
-        <translation type="unfinished"/>
+        <translation>添加</translation>
     </message>
     <message>
         <source>Apply Filters</source>
@@ -13402,7 +13405,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>not available</source>
-        <translation type="unfinished"/>
+        <translation>不可用/无效</translation>
     </message>
     <message>
         <source>No image selected</source>
@@ -13474,7 +13477,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Type name</source>
-        <translation type="unfinished"/>
+        <translation>类型名</translation>
     </message>
     <message>
         <source>Set date</source>
@@ -13536,7 +13539,7 @@ Please choose another one.</source>
     <name>PixmapExportPlugin</name>
     <message>
         <source>Save as &amp;Image...</source>
-        <translation>保存为图像 (&amp;I)...</translation>
+        <translation>保存为图像(&amp;I)...</translation>
     </message>
     <message>
         <source>Export As Image</source>
@@ -13699,7 +13702,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Corn&amp;ers:</source>
-        <translation>角度 (&amp;e):</translation>
+        <translation>角度(&amp;e):</translation>
     </message>
     <message>
         <source>Number of corners for polygons</source>
@@ -13707,7 +13710,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;Rotation:</source>
-        <translation>旋转 (&amp;R):</translation>
+        <translation>旋转(&amp;R):</translation>
     </message>
     <message>
         <source>Degrees of rotation for polygons</source>
@@ -13723,11 +13726,11 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Apply &amp;Factor</source>
-        <translation>应用系数 (&amp;F)</translation>
+        <translation>应用系数(&amp;F)</translation>
     </message>
     <message>
         <source>&amp;Factor:</source>
-        <translation>系数 (&amp;F):</translation>
+        <translation>系数(&amp;F):</translation>
     </message>
     <message>
         <source>A negative value will make the polygon concave (or star shaped), a positive value will make it convex</source>
@@ -13793,15 +13796,15 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation>应用 (&amp;A)</translation>
+        <translation>应用(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>确认 (&amp;O)</translation>
+        <translation>确认(&amp;O)</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>取消 (&amp;C)</translation>
+        <translation>取消(&amp;C)</translation>
     </message>
     <message>
         <source>User Interface</source>
@@ -13845,7 +13848,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Color Management</source>
-        <translation type="unfinished"/>
+        <translation>色彩管理</translation>
     </message>
     <message>
         <source>Document Information</source>
@@ -13969,7 +13972,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Color Management</source>
-        <translation type="unfinished"/>
+        <translation>色彩管理</translation>
     </message>
     <message>
         <source>Document Options</source>
@@ -14017,7 +14020,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Printer:</source>
-        <translation type="unfinished"/>
+        <translation>打印机:</translation>
     </message>
     <message>
         <source>Document Rendering Intents</source>
@@ -14184,7 +14187,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Frames:</source>
-        <translation type="unfinished"/>
+        <translation>帧：</translation>
     </message>
     <message>
         <source>Locked Frames:</source>
@@ -14299,7 +14302,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Subject:</source>
-        <translation type="unfinished"/>
+        <translation>主题：</translation>
     </message>
     <message>
         <source>Keywords:</source>
@@ -14315,7 +14318,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Publisher:</source>
-        <translation type="unfinished"/>
+        <translation>生产商:</translation>
     </message>
     <message>
         <source>Contributors:</source>
@@ -14339,7 +14342,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Source:</source>
-        <translation type="unfinished"/>
+        <translation>源文件:</translation>
     </message>
     <message>
         <source>Language:</source>
@@ -14394,7 +14397,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>添加 (&amp;A)</translation>
+        <translation>添加(&amp;A)</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -14402,7 +14405,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation>复制 (&amp;C)</translation>
+        <translation>复制(&amp;C)</translation>
     </message>
     <message>
         <source>Alt+C</source>
@@ -14410,7 +14413,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>删除 (&amp;D)</translation>
+        <translation>删除(&amp;D)</translation>
     </message>
     <message>
         <source>Alt+D</source>
@@ -14418,7 +14421,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>C&amp;lear</source>
-        <translation>清除 (&amp;l)</translation>
+        <translation>清除(&amp;l)</translation>
     </message>
     <message>
         <source>Alt+L</source>
@@ -14536,7 +14539,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>添加 (&amp;A)</translation>
+        <translation>添加(&amp;A)</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -14544,7 +14547,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>删除 (&amp;D)</translation>
+        <translation>删除(&amp;D)</translation>
     </message>
     <message>
         <source>Alt+D</source>
@@ -14595,7 +14598,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Orientation:</source>
-        <translation type="unfinished"/>
+        <translation>方向：</translation>
     </message>
     <message>
         <source>Units:</source>
@@ -14770,7 +14773,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>&amp;Name of Executable:</source>
-        <translation>可执行文件名称 (&amp;N):</translation>
+        <translation>可执行文件名称(&amp;N):</translation>
     </message>
     <message>
         <source>&lt;qt&gt;Add the path for the Ghostscript interpreter. On Windows, please note it is important to note you need to use the program named gswin32c.exe - NOT gswin32.exe. Otherwise, this maybe cause a hang when starting Scribus.&lt;/qt&gt;</source>
@@ -14778,7 +14781,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>&amp;Change...</source>
-        <translation>修改 (&amp;C)...</translation>
+        <translation>修改(&amp;C)...</translation>
     </message>
     <message>
         <source>Alt+C</source>
@@ -14790,7 +14793,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Antialias &amp;Text</source>
-        <translation>文本抗锯齿 (&amp;T)</translation>
+        <translation>文本抗锯齿(&amp;T)</translation>
     </message>
     <message>
         <source>Alt+T</source>
@@ -14802,7 +14805,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Antialias &amp;Graphics</source>
-        <translation>图形抗锯齿 (&amp;G)</translation>
+        <translation>图形抗锯齿(&amp;G)</translation>
     </message>
     <message>
         <source>Alt+G</source>
@@ -14822,7 +14825,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Name of &amp;Executable:</source>
-        <translation>可执行文件名称 (&amp;E):</translation>
+        <translation>可执行文件名称(&amp;E):</translation>
     </message>
     <message>
         <source>&lt;qt&gt;File system location for graphics editor. If you use gimp and your distribution includes it, we recommend &apos;gimp-remote&apos;, as it allows you to edit the image in an already running instance of gimp.&lt;/qt&gt;</source>
@@ -14898,7 +14901,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>&amp;Rescan</source>
-        <translation>重新扫描 (&amp;R)</translation>
+        <translation>重新扫描(&amp;R)</translation>
     </message>
     <message>
         <source>Alt+R</source>
@@ -14991,15 +14994,15 @@ Do you want to use this?</source>
     </message>
     <message>
         <source>C&amp;hange...</source>
-        <translation>修改 (&amp;h)...</translation>
+        <translation>修改(&amp;h)...</translation>
     </message>
     <message>
         <source>A&amp;dd...</source>
-        <translation>添加 (&amp;d)...</translation>
+        <translation>添加(&amp;d)...</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation>移除 (&amp;R)</translation>
+        <translation>移除(&amp;R)</translation>
     </message>
     <message>
         <source>Available Fonts</source>
@@ -15042,7 +15045,7 @@ Do you want to use this?</source>
     </message>
     <message>
         <source>Placement</source>
-        <translation type="unfinished"/>
+        <translation>位置</translation>
     </message>
     <message>
         <source>Placement:</source>
@@ -15062,7 +15065,7 @@ Do you want to use this?</source>
     </message>
     <message>
         <source>Visibility</source>
-        <translation type="unfinished"/>
+        <translation>可见性</translation>
     </message>
     <message>
         <source>Margins</source>
@@ -15194,7 +15197,7 @@ Do you want to use this?</source>
     </message>
     <message>
         <source>Grid</source>
-        <translation type="unfinished"/>
+        <translation>网格</translation>
     </message>
     <message>
         <source>Lines</source>
@@ -15225,7 +15228,7 @@ Do you want to use this?</source>
     </message>
     <message>
         <source>&amp;Hyphenation Suggestions</source>
-        <translation>连字符建议 (&amp;H)</translation>
+        <translation>连字符建议(&amp;H)</translation>
     </message>
     <message>
         <source>Enables automatic hyphenation of your text while typing.</source>
@@ -15233,7 +15236,7 @@ Do you want to use this?</source>
     </message>
     <message>
         <source>Hyphenate Text Automatically &amp;During Typing</source>
-        <translation>连字符文本自动添加 (&amp;D)</translation>
+        <translation>连字符文本自动添加(&amp;D)</translation>
     </message>
     <message>
         <source>Behaviour</source>
@@ -15545,7 +15548,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Calligraphic Pen</source>
-        <translation type="unfinished"/>
+        <translation>书法钢笔</translation>
     </message>
     <message>
         <source>Pen Angle:</source>
@@ -15565,7 +15568,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Spiral</source>
-        <translation type="unfinished"/>
+        <translation>螺旋</translation>
     </message>
 </context>
 <context>
@@ -15592,7 +15595,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>&amp;No Key</source>
-        <translation>没有键 (&amp;N)</translation>
+        <translation>没有键(&amp;N)</translation>
     </message>
     <message>
         <source>Alt+N</source>
@@ -15600,7 +15603,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>&amp;User Defined Key</source>
-        <translation>用户定义键 (&amp;U)</translation>
+        <translation>用户定义键(&amp;U)</translation>
     </message>
     <message>
         <source>Alt+U</source>
@@ -15608,7 +15611,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Set &amp;Key</source>
-        <translation>设置键 (&amp;K)</translation>
+        <translation>设置键(&amp;K)</translation>
     </message>
     <message>
         <source>Alt+K</source>
@@ -15632,7 +15635,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>&amp;Load</source>
-        <translation>载入 (&amp;L)</translation>
+        <translation>载入(&amp;L)</translation>
     </message>
     <message>
         <source>Alt+L</source>
@@ -15644,7 +15647,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>&amp;Import...</source>
-        <translation>导入 (&amp;I)...</translation>
+        <translation>导入(&amp;I)...</translation>
     </message>
     <message>
         <source>Alt+I</source>
@@ -15656,7 +15659,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>&amp;Export...</source>
-        <translation>导出 (&amp;E)...</translation>
+        <translation>导出(&amp;E)...</translation>
     </message>
     <message>
         <source>Alt+E</source>
@@ -15668,7 +15671,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>&amp;Reset</source>
-        <translation>重置 (&amp;R)</translation>
+        <translation>重置(&amp;R)</translation>
     </message>
     <message>
         <source>Alt+R</source>
@@ -15909,7 +15912,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Compression</source>
-        <translation type="unfinished"/>
+        <translation>压缩</translation>
     </message>
     <message>
         <source>Compress Text and Vector Graphics</source>
@@ -15925,7 +15928,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Security</source>
-        <translation type="unfinished"/>
+        <translation>安全</translation>
     </message>
     <message>
         <source>Use Encryption</source>
@@ -15937,11 +15940,11 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Owner:</source>
-        <translation type="unfinished"/>
+        <translation>所有者：</translation>
     </message>
     <message>
         <source>User:</source>
-        <translation type="unfinished"/>
+        <translation>用户名：</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -16077,7 +16080,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Available Fonts</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">可用字体</translation>
     </message>
     <message>
         <source>Embed All</source>
@@ -16357,7 +16360,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>This creates bleed marks which are indicated by  _ . _ and show the bleed limit</source>
-        <translation>创建出血标记由  _ . _ 指示，显示出血限制</translation>
+        <translation>创建由  _ . _ 指示的出血标记并显示出血限制</translation>
     </message>
     <message>
         <source>Add registration marks to each separation</source>
@@ -16521,7 +16524,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Cover</source>
-        <translation type="unfinished"/>
+        <translation>封面</translation>
     </message>
     <message>
         <source>Uncover</source>
@@ -16573,7 +16576,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Convert all glyphs in the document to outlines.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">文档中所有符号全部转换为轮廓线。</translation>
     </message>
     <message>
         <source>Show the document in single page mode</source>
@@ -16649,15 +16652,15 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Embed or Subset</source>
-        <translation type="unfinished"/>
+        <translation>嵌入或子集</translation>
     </message>
     <message>
         <source>Outline All Fonts</source>
-        <translation type="unfinished"/>
+        <translation>将所有字体转换为轮廓线</translation>
     </message>
     <message>
         <source>Do Not Embed</source>
-        <translation type="unfinished"/>
+        <translation>不嵌入</translation>
     </message>
     <message>
         <source>Fonts to Subset</source>
@@ -16707,7 +16710,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>&amp;Change...</source>
-        <translation>修改 (&amp;C)...</translation>
+        <translation>修改(&amp;C)...</translation>
     </message>
     <message>
         <source>Alt+C</source>
@@ -16719,7 +16722,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>C&amp;hange...</source>
-        <translation>修改 (&amp;h)...</translation>
+        <translation>修改(&amp;h)...</translation>
     </message>
     <message>
         <source>Alt+H</source>
@@ -16731,7 +16734,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Ch&amp;ange...</source>
-        <translation>修改 (&amp;a)...</translation>
+        <translation>修改(&amp;a)...</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -16743,7 +16746,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Cha&amp;nge...</source>
-        <translation>修改 (&amp;n)...</translation>
+        <translation>修改(&amp;n)...</translation>
     </message>
     <message>
         <source>Alt+N</source>
@@ -17090,7 +17093,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">全部</translation>
     </message>
     <message>
         <source>Length:</source>
@@ -17262,7 +17265,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Spelling</source>
-        <translation type="unfinished"/>
+        <translation>拼写</translation>
     </message>
     <message>
         <source>Installed Spelling Dictionaries</source>
@@ -17286,23 +17289,23 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Code</source>
-        <translation type="unfinished"/>
+        <translation>代码</translation>
     </message>
     <message>
         <source>Location</source>
-        <translation type="unfinished"/>
+        <translation>地点（Location）</translation>
     </message>
     <message>
         <source>Installed</source>
-        <translation type="unfinished"/>
+        <translation>已安装</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"/>
+        <translation>下载</translation>
     </message>
     <message>
         <source>Downloading</source>
-        <translation type="unfinished"/>
+        <translation>正在下载</translation>
     </message>
 </context>
 <context>
@@ -17317,7 +17320,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation>添加 (&amp;A)</translation>
+        <translation>添加(&amp;A)</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -17325,7 +17328,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>删除 (&amp;D)</translation>
+        <translation>删除(&amp;D)</translation>
     </message>
     <message>
         <source>Alt+D</source>
@@ -17436,7 +17439,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Strikeout</source>
-        <translation type="unfinished"/>
+        <translation>删除线</translation>
     </message>
     <message>
         <source>Small Caps</source>
@@ -17507,11 +17510,11 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>&amp;Language:</source>
-        <translation>语言 (&amp;L):</translation>
+        <translation>语言(&amp;L):</translation>
     </message>
     <message>
         <source>&amp;Theme:</source>
-        <translation>主题 (&amp;T):</translation>
+        <translation>主题(&amp;T):</translation>
     </message>
     <message>
         <source>Use Small Widgets on Palettes</source>
@@ -17523,7 +17526,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>&amp;Recent Documents:</source>
-        <translation>最近打开文档 (&amp;R):</translation>
+        <translation>最近打开文档(&amp;R):</translation>
     </message>
     <message>
         <source>Font Sizes</source>
@@ -17630,7 +17633,7 @@ A value of 0 means unlimited hyphenations.</source>
     <name>PresetLayout</name>
     <message>
         <source>Magazine</source>
-        <translation type="unfinished"/>
+        <translation>杂志</translation>
     </message>
     <message>
         <source>Fibonacci</source>
@@ -17686,7 +17689,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Print Current Pa&amp;ge</source>
-        <translation>打印当前页 (&amp;g)</translation>
+        <translation>打印当前页(&amp;g)</translation>
     </message>
     <message>
         <source>Print Normal</source>
@@ -17725,15 +17728,15 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>&amp;Options...</source>
-        <translation>选项 (&amp;O)...</translation>
+        <translation>选项(&amp;O)...</translation>
     </message>
     <message>
         <source>&amp;File:</source>
-        <translation>文件 (&amp;F):</translation>
+        <translation>文件(&amp;F):</translation>
     </message>
     <message>
         <source>C&amp;hange...</source>
-        <translation>修改 (&amp;h)...</translation>
+        <translation>修改(&amp;h)...</translation>
     </message>
     <message>
         <source>Use an alternative print manager, such as kprinter or gtklp, to utilize additional printing options</source>
@@ -17741,11 +17744,11 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>A&amp;lternative Printer Command</source>
-        <translation>其它打印命令 (&amp;l)</translation>
+        <translation>其它打印命令(&amp;l)</translation>
     </message>
     <message>
         <source>Co&amp;mmand:</source>
-        <translation>命令 (&amp;m):</translation>
+        <translation>命令(&amp;m):</translation>
     </message>
     <message>
         <source>Range</source>
@@ -17753,19 +17756,19 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Print &amp;All</source>
-        <translation>打印全部 (&amp;A)</translation>
+        <translation>打印全部(&amp;A)</translation>
     </message>
     <message>
         <source>N&amp;umber of Copies:</source>
-        <translation>印数 (&amp;u):</translation>
+        <translation>印数(&amp;u):</translation>
     </message>
     <message>
         <source>Print Current Pa&amp;ge</source>
-        <translation>打印当前页面 (&amp;g)</translation>
+        <translation>打印当前页面(&amp;g)</translation>
     </message>
     <message>
         <source>Print &amp;Range</source>
-        <translation>打印范围 (&amp;R)</translation>
+        <translation>打印范围(&amp;R)</translation>
     </message>
     <message>
         <source>Insert a comma separated list of tokens where
@@ -17934,7 +17937,7 @@ a range of pages or a single page number.</source>
     </message>
     <message>
         <source>&amp;Print</source>
-        <translation>打印 (&amp;P)</translation>
+        <translation>打印(&amp;P)</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -17982,31 +17985,31 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>X, Y, &amp;Z</source>
-        <translation>定位 (&amp;Z)</translation>
+        <translation>定位(&amp;Z)</translation>
     </message>
     <message>
         <source>&amp;Shape</source>
-        <translation>形状 (&amp;S)</translation>
+        <translation>形状(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Text</source>
-        <translation>文本 (&amp;T)</translation>
+        <translation>文本(&amp;T)</translation>
     </message>
     <message>
         <source>&amp;Image</source>
-        <translation>图像 (&amp;I)</translation>
+        <translation>图像(&amp;I)</translation>
     </message>
     <message>
         <source>&amp;Line</source>
-        <translation>线条 (&amp;L)</translation>
+        <translation>线条(&amp;L)</translation>
     </message>
     <message>
         <source>&amp;Colors</source>
-        <translation>颜色 (&amp;C)</translation>
+        <translation>颜色(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Group</source>
-        <translation>组 (&amp;G)</translation>
+        <translation>组(&amp;G)</translation>
     </message>
     <message>
         <source>&amp;Transparency</source>
@@ -18018,14 +18021,14 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Drop Shadow</source>
-        <translation type="unfinished"/>
+        <translation>投射阴影</translation>
     </message>
 </context>
 <context>
     <name>PropertiesPalette_Group</name>
     <message>
         <source>&amp;Edit...</source>
-        <translation>编辑 (&amp;E)...</translation>
+        <translation>编辑(&amp;E)...</translation>
     </message>
     <message>
         <source>Shape</source>
@@ -18041,15 +18044,15 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Use Frame &amp;Shape</source>
-        <translation>使用图文框和图形 (&amp;S)</translation>
+        <translation>使用图文框和图形(&amp;S)</translation>
     </message>
     <message>
         <source>Use &amp;Bounding Box</source>
-        <translation>使用边框 (&amp;B)</translation>
+        <translation>使用边框(&amp;B)</translation>
     </message>
     <message>
         <source>&amp;Use Contour Line</source>
-        <translation>使用轮廓线 (&amp;U)</translation>
+        <translation>使用轮廓线(&amp;U)</translation>
     </message>
     <message>
         <source>Use Image Clip Path</source>
@@ -18100,7 +18103,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>&amp;Edit...</source>
-        <translation>编辑 (&amp;E)...</translation>
+        <translation>编辑(&amp;E)...</translation>
     </message>
     <message>
         <source>Text Flow Around Frame</source>
@@ -18116,11 +18119,11 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Use &amp;Bounding Box</source>
-        <translation>使用边框 (&amp;B)</translation>
+        <translation>使用边框(&amp;B)</translation>
     </message>
     <message>
         <source>&amp;Use Contour Line</source>
-        <translation>使用轮廓线 (&amp;U)</translation>
+        <translation>使用轮廓线(&amp;U)</translation>
     </message>
     <message>
         <source>Use Image Clip Path</source>
@@ -18128,7 +18131,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Transparency</source>
-        <translation type="unfinished"/>
+        <translation>透明度</translation>
     </message>
     <message>
         <source>Fill Rule</source>
@@ -18163,27 +18166,27 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>&amp;X-Pos:</source>
-        <translation>X-坐标 (&amp;X):</translation>
+        <translation>X-坐标(&amp;X):</translation>
     </message>
     <message>
         <source>&amp;Y-Pos:</source>
-        <translation>Y-坐标 (&amp;Y):</translation>
+        <translation>Y-坐标(&amp;Y):</translation>
     </message>
     <message>
         <source>X-Sc&amp;ale:</source>
-        <translation>X-缩放 (&amp;A):</translation>
+        <translation>X-缩放(&amp;A):</translation>
     </message>
     <message>
         <source>Y-Scal&amp;e:</source>
-        <translation>Y-缩放 (&amp;E):</translation>
+        <translation>Y-缩放(&amp;E):</translation>
     </message>
     <message>
         <source>&amp;Free Scaling</source>
-        <translation>自由缩放 (&amp;F)</translation>
+        <translation>自由缩放(&amp;F)</translation>
     </message>
     <message>
         <source>&amp;Page Number:</source>
-        <translation>页码 (&amp;P):</translation>
+        <translation>页码(&amp;P):</translation>
     </message>
     <message>
         <source>Rotation:</source>
@@ -18191,7 +18194,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>P&amp;roportional</source>
-        <translation>按比例 (&amp;r)</translation>
+        <translation>按比例(&amp;r)</translation>
     </message>
     <message>
         <source>Image Effects</source>
@@ -18215,7 +18218,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Quality:</source>
-        <translation type="unfinished"/>
+        <translation>质量：</translation>
     </message>
     <message>
         <source>Perceptual</source>
@@ -18235,7 +18238,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Global</source>
-        <translation type="unfinished"/>
+        <translation>全局</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -18358,7 +18361,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>&amp;Page Number:</source>
-        <translation>页码 (&amp;P):</translation>
+        <translation>页码(&amp;P):</translation>
     </message>
     <message>
         <source>Y-Pos:</source>
@@ -18374,11 +18377,11 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>X-Sc&amp;ale:</source>
-        <translation>X-缩放 (&amp;A):</translation>
+        <translation>X-缩放(&amp;A):</translation>
     </message>
     <message>
         <source>Y-Scal&amp;e:</source>
-        <translation>Y-缩放 (&amp;E):</translation>
+        <translation>Y-缩放(&amp;E):</translation>
     </message>
     <message>
         <source>...</source>
@@ -18406,7 +18409,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Color Management</source>
-        <translation type="unfinished"/>
+        <translation>色彩管理</translation>
     </message>
     <message>
         <source>Input Profile</source>
@@ -18426,7 +18429,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Quality:</source>
-        <translation type="unfinished"/>
+        <translation>质量：</translation>
     </message>
     <message>
         <source>Image Effects</source>
@@ -18457,11 +18460,11 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>&amp;Basepoint:</source>
-        <translation>基点 (&amp;B):</translation>
+        <translation>基点(&amp;B):</translation>
     </message>
     <message>
         <source>T&amp;ype of Line:</source>
-        <translation>线条类型 (&amp;y):</translation>
+        <translation>线条类型(&amp;y):</translation>
     </message>
     <message>
         <source>Start Arrow:</source>
@@ -18477,11 +18480,11 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Line &amp;Width:</source>
-        <translation>线条宽度 (&amp;W):</translation>
+        <translation>线条宽度(&amp;W):</translation>
     </message>
     <message>
         <source>Ed&amp;ges:</source>
-        <translation>边缘 (&amp;g):</translation>
+        <translation>边缘(&amp;g):</translation>
     </message>
     <message>
         <source>Miter Join</source>
@@ -18509,7 +18512,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>&amp;Endings:</source>
-        <translation>结尾 (&amp;E):</translation>
+        <translation>结尾(&amp;E):</translation>
     </message>
     <message>
         <source> %</source>
@@ -18572,11 +18575,11 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>&amp;Basepoint:</source>
-        <translation>基点 (&amp;B):</translation>
+        <translation>基点(&amp;B):</translation>
     </message>
     <message>
         <source>T&amp;ype of Line:</source>
-        <translation>线条类型 (&amp;y):</translation>
+        <translation>线条类型(&amp;y):</translation>
     </message>
     <message>
         <source>Start Arrow:</source>
@@ -18592,7 +18595,7 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Line &amp;Width:</source>
-        <translation>线条宽度 (&amp;W):</translation>
+        <translation>线条宽度(&amp;W):</translation>
     </message>
     <message>
         <source>Hairline</source>
@@ -18600,11 +18603,11 @@ Note: PDF Forms will not be exported.</source>
     </message>
     <message>
         <source>Ed&amp;ges:</source>
-        <translation>边缘 (&amp;g):</translation>
+        <translation>边缘(&amp;g):</translation>
     </message>
     <message>
         <source>&amp;Endings:</source>
-        <translation>结尾 (&amp;E):</translation>
+        <translation>结尾(&amp;E):</translation>
     </message>
 </context>
 <context>
@@ -18835,7 +18838,7 @@ Transparency</source>
     <name>PropertiesPalette_Shape</name>
     <message>
         <source> pt</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">磅</translation>
     </message>
     <message>
         <source>Shape:</source>
@@ -18847,7 +18850,7 @@ Transparency</source>
     </message>
     <message>
         <source>&amp;Edit...</source>
-        <translation>编辑 (&amp;E)...</translation>
+        <translation>编辑(&amp;E)...</translation>
     </message>
     <message>
         <source>Set radius of corner rounding</source>
@@ -18879,15 +18882,15 @@ Transparency</source>
     </message>
     <message>
         <source>Use Frame &amp;Shape</source>
-        <translation>使用图文框和图形 (&amp;S)</translation>
+        <translation>使用图文框和图形(&amp;S)</translation>
     </message>
     <message>
         <source>Use &amp;Bounding Box</source>
-        <translation>使用边框 (&amp;B)</translation>
+        <translation>使用边框(&amp;B)</translation>
     </message>
     <message>
         <source>&amp;Use Contour Line</source>
-        <translation>使用轮廓线 (&amp;U)</translation>
+        <translation>使用轮廓线(&amp;U)</translation>
     </message>
     <message>
         <source>Use Image Clip Path</source>
@@ -18926,7 +18929,7 @@ Transparency</source>
     </message>
     <message>
         <source>&amp;Edit...</source>
-        <translation>编辑 (&amp;E)...</translation>
+        <translation>编辑(&amp;E)...</translation>
     </message>
     <message>
         <source>Round Corners</source>
@@ -18950,11 +18953,11 @@ Transparency</source>
     </message>
     <message>
         <source>Use &amp;Bounding Box</source>
-        <translation>使用边框 (&amp;B)</translation>
+        <translation>使用边框(&amp;B)</translation>
     </message>
     <message>
         <source>&amp;Use Contour Line</source>
-        <translation>使用轮廓线 (&amp;U)</translation>
+        <translation>使用轮廓线(&amp;U)</translation>
     </message>
     <message>
         <source>Use Image Clip Path</source>
@@ -19024,15 +19027,15 @@ Transparency</source>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"/>
+        <translation>填充</translation>
     </message>
     <message>
         <source>Styles</source>
-        <translation type="unfinished"/>
+        <translation>样式</translation>
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"/>
+        <translation>表</translation>
     </message>
     <message>
         <source>Cells</source>
@@ -19067,11 +19070,11 @@ Transparency</source>
     </message>
     <message>
         <source>Paragraph St&amp;yle:</source>
-        <translation>段落样式 (&amp;y):</translation>
+        <translation>段落样式(&amp;y):</translation>
     </message>
     <message>
         <source>Character St&amp;yle:</source>
-        <translation>字符样式 (&amp;y):</translation>
+        <translation>字符样式(&amp;y):</translation>
     </message>
     <message>
         <source>Fixed Linespacing</source>
@@ -19111,7 +19114,7 @@ Transparency</source>
     </message>
     <message>
         <source>Remove Direct Paragraph Formatting</source>
-        <translation type="unfinished"/>
+        <translation>移除直接段落格式</translation>
     </message>
     <message>
         <source>Remove Direct Character Formatting</source>
@@ -19145,7 +19148,7 @@ Transparency</source>
     <name>PropertiesPalette_XYZ</name>
     <message>
         <source>&amp;X-Pos:</source>
-        <translation>X-坐标 (&amp;X):</translation>
+        <translation>X-坐标(&amp;X):</translation>
     </message>
     <message>
         <source>&amp;Width</source>
@@ -19153,11 +19156,11 @@ Transparency</source>
     </message>
     <message>
         <source>&amp;Y-Pos:</source>
-        <translation>Y-坐标 (&amp;Y):</translation>
+        <translation>Y-坐标(&amp;Y):</translation>
     </message>
     <message>
         <source>&amp;Height:</source>
-        <translation>高度 (&amp;H):</translation>
+        <translation>高度(&amp;H):</translation>
     </message>
     <message>
         <source>&amp;X1:</source>
@@ -19177,7 +19180,7 @@ Transparency</source>
     </message>
     <message>
         <source>&amp;Width:</source>
-        <translation>宽度 (&amp;W):</translation>
+        <translation>宽度(&amp;W):</translation>
     </message>
     <message>
         <source>Name &quot;%1&quot; isn&apos;t unique.&lt;br/&gt;Please choose another.</source>
@@ -19197,7 +19200,7 @@ Transparency</source>
     </message>
     <message>
         <source>&amp;Rotation:</source>
-        <translation>旋转 (&amp;R):</translation>
+        <translation>旋转(&amp;R):</translation>
     </message>
     <message>
         <source>Basepoint:</source>
@@ -19308,23 +19311,23 @@ Transparency</source>
     </message>
     <message>
         <source>&amp;X-Pos:</source>
-        <translation>X-坐标 (&amp;X):</translation>
+        <translation>X-坐标(&amp;X):</translation>
     </message>
     <message>
         <source>&amp;Width:</source>
-        <translation>宽度 (&amp;W):</translation>
+        <translation>宽度(&amp;W):</translation>
     </message>
     <message>
         <source>&amp;Y-Pos:</source>
-        <translation>Y-坐标 (&amp;Y):</translation>
+        <translation>Y-坐标(&amp;Y):</translation>
     </message>
     <message>
         <source>&amp;Height:</source>
-        <translation>高度 (&amp;H):</translation>
+        <translation>高度(&amp;H):</translation>
     </message>
     <message>
         <source>&amp;Rotation:</source>
-        <translation>旋转 (&amp;R):</translation>
+        <translation>旋转(&amp;R):</translation>
     </message>
     <message>
         <source>Basepoint:</source>
@@ -19340,14 +19343,14 @@ Transparency</source>
     </message>
     <message>
         <source>0</source>
-        <translation type="unfinished"/>
+        <translation>0</translation>
     </message>
 </context>
 <context>
     <name>PropertyWidget_Advanced</name>
     <message>
         <source>Word Tracking</source>
-        <translation type="unfinished"/>
+        <translation>单词追踪</translation>
     </message>
     <message>
         <source>Min:</source>
@@ -19406,11 +19409,11 @@ Transparency</source>
     <name>PropertyWidget_AdvancedBase</name>
     <message>
         <source>Frame</source>
-        <translation type="unfinished"/>
+        <translation>边框</translation>
     </message>
     <message>
         <source>Word Spacing</source>
-        <translation type="unfinished"/>
+        <translation>字间距</translation>
     </message>
     <message>
         <source>Min:</source>
@@ -19429,7 +19432,7 @@ Transparency</source>
     <name>PropertyWidget_Distance</name>
     <message>
         <source>Colu&amp;mns:</source>
-        <translation>列 (&amp;m):</translation>
+        <translation>列(&amp;m):</translation>
     </message>
     <message>
         <source>Gap:</source>
@@ -19441,23 +19444,23 @@ Transparency</source>
     </message>
     <message>
         <source>To&amp;p:</source>
-        <translation>顶部 (&amp;p):</translation>
+        <translation>顶部(&amp;p):</translation>
     </message>
     <message>
         <source>&amp;Bottom:</source>
-        <translation>底部 (&amp;B):</translation>
+        <translation>底部(&amp;B):</translation>
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation>左边 (&amp;L):</translation>
+        <translation>左边(&amp;L):</translation>
     </message>
     <message>
         <source>&amp;Right:</source>
-        <translation>右 (&amp;R):</translation>
+        <translation>右(&amp;R):</translation>
     </message>
     <message>
         <source>T&amp;abulators...</source>
-        <translation>制表符 (&amp;a)...</translation>
+        <translation>制表符(&amp;a)...</translation>
     </message>
     <message>
         <source> pt</source>
@@ -19501,7 +19504,7 @@ Transparency</source>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"/>
+        <translation>顶</translation>
     </message>
     <message>
         <source>Middle</source>
@@ -19509,18 +19512,18 @@ Transparency</source>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"/>
+        <translation>低</translation>
     </message>
 </context>
 <context>
     <name>PropertyWidget_DistanceBase</name>
     <message>
         <source>Frame</source>
-        <translation type="unfinished"/>
+        <translation>边框</translation>
     </message>
     <message>
         <source>Colu&amp;mns:</source>
-        <translation>列 (&amp;m):</translation>
+        <translation>列(&amp;m):</translation>
     </message>
     <message>
         <source>Gap:</source>
@@ -19532,31 +19535,31 @@ Transparency</source>
     </message>
     <message>
         <source>To&amp;p:</source>
-        <translation>顶部 (&amp;p):</translation>
+        <translation>顶部(&amp;p):</translation>
     </message>
     <message>
         <source>&amp;Bottom:</source>
-        <translation>底部 (&amp;B):</translation>
+        <translation>底部(&amp;B):</translation>
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation>左边 (&amp;L):</translation>
+        <translation>左边(&amp;L):</translation>
     </message>
     <message>
         <source>&amp;Right:</source>
-        <translation>右 (&amp;R):</translation>
+        <translation>右(&amp;R):</translation>
     </message>
     <message>
         <source>T&amp;abulators...</source>
-        <translation>制表符 (&amp;a)...</translation>
+        <translation>制表符(&amp;a)...</translation>
     </message>
     <message>
         <source>Vertical Alignment</source>
-        <translation type="unfinished"/>
+        <translation>垂直对齐</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"/>
+        <translation>顶</translation>
     </message>
     <message>
         <source>Middle</source>
@@ -19564,22 +19567,22 @@ Transparency</source>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"/>
+        <translation>低</translation>
     </message>
 </context>
 <context>
     <name>PropertyWidget_DropCap</name>
     <message>
         <source>Use Drop Caps</source>
-        <translation type="unfinished"/>
+        <translation>使用首字下沉</translation>
     </message>
     <message>
         <source>Drop Caps lines</source>
-        <translation type="unfinished"/>
+        <translation>首字下沉行数</translation>
     </message>
     <message>
         <source>Drop Caps offset</source>
-        <translation type="unfinished"/>
+        <translation>首字下沉偏移</translation>
     </message>
     <message>
         <source>Drop Cap use character style...</source>
@@ -19602,23 +19605,23 @@ Transparency</source>
     </message>
     <message>
         <source> lines</source>
-        <translation type="unfinished"/>
+        <translation> 行数</translation>
     </message>
     <message>
         <source>Offset</source>
-        <translation type="unfinished"/>
+        <translation>偏移</translation>
     </message>
     <message>
         <source>use Drop Caps</source>
-        <translation type="unfinished"/>
+        <translation>使用首字下沉</translation>
     </message>
     <message>
         <source>Use Character Style</source>
-        <translation type="unfinished"/>
+        <translation>使用字符样式</translation>
     </message>
     <message>
         <source>Number of lines used by the drop cap</source>
-        <translation type="unfinished"/>
+        <translation>首字下沉的行数</translation>
     </message>
 </context>
 <context>
@@ -19660,7 +19663,7 @@ Transparency</source>
     <name>PropertyWidget_FlopBase</name>
     <message>
         <source>Frame</source>
-        <translation type="unfinished"/>
+        <translation>边框</translation>
     </message>
     <message>
         <source>Maximum Ascent</source>
@@ -19714,7 +19717,7 @@ Transparency</source>
     <name>PropertyWidget_OptMarginsBase</name>
     <message>
         <source>Frame</source>
-        <translation type="unfinished"/>
+        <translation>边框</translation>
     </message>
     <message>
         <source>None</source>
@@ -19749,7 +19752,7 @@ Transparency</source>
     </message>
     <message>
         <source> lines</source>
-        <translation type="unfinished"/>
+        <translation> 行数</translation>
     </message>
     <message>
         <source>Do not split paragraph</source>
@@ -19792,7 +19795,7 @@ Transparency</source>
     </message>
     <message>
         <source> lines</source>
-        <translation type="unfinished"/>
+        <translation> 行数</translation>
     </message>
     <message>
         <source>Don&apos;t separate last</source>
@@ -19843,7 +19846,7 @@ Transparency</source>
     </message>
     <message>
         <source>Set</source>
-        <translation type="unfinished"/>
+        <translation>设置</translation>
     </message>
     <message>
         <source>Format</source>
@@ -19855,15 +19858,15 @@ Transparency</source>
     </message>
     <message>
         <source>Prefix</source>
-        <translation type="unfinished"/>
+        <translation>前缀</translation>
     </message>
     <message>
         <source>Suffix</source>
-        <translation type="unfinished"/>
+        <translation>后缀</translation>
     </message>
     <message>
         <source>Offset</source>
-        <translation type="unfinished"/>
+        <translation>偏移</translation>
     </message>
     <message>
         <source>Auto-Indent</source>
@@ -19906,7 +19909,7 @@ Transparency</source>
     </message>
     <message>
         <source>Offset</source>
-        <translation type="unfinished"/>
+        <translation>偏移</translation>
     </message>
     <message>
         <source>Drop Caps</source>
@@ -19914,7 +19917,7 @@ Transparency</source>
     </message>
     <message>
         <source>Number of lines used by the drop cap</source>
-        <translation type="unfinished"/>
+        <translation>首字下沉的行数</translation>
     </message>
     <message>
         <source>Lines</source>
@@ -19934,7 +19937,7 @@ Transparency</source>
     </message>
     <message>
         <source>Set</source>
-        <translation type="unfinished"/>
+        <translation>设置</translation>
     </message>
     <message>
         <source>Format</source>
@@ -19942,11 +19945,11 @@ Transparency</source>
     </message>
     <message>
         <source>Prefix</source>
-        <translation type="unfinished"/>
+        <translation>前缀</translation>
     </message>
     <message>
         <source>Suffix</source>
-        <translation type="unfinished"/>
+        <translation>后缀</translation>
     </message>
     <message>
         <source>Bulleted List</source>
@@ -20004,7 +20007,7 @@ Transparency</source>
     <name>PropertyWidget_PathTextBase</name>
     <message>
         <source>Frame</source>
-        <translation type="unfinished"/>
+        <translation>边框</translation>
     </message>
     <message>
         <source>Type:</source>
@@ -20054,7 +20057,7 @@ Transparency</source>
     <name>PropertyWidget_TextColorBase</name>
     <message>
         <source>Frame</source>
-        <translation type="unfinished"/>
+        <translation>边框</translation>
     </message>
 </context>
 <context>
@@ -20079,27 +20082,27 @@ Document Liberation Project http://www.documentliberation.org</source>
     <name>PythonConsole</name>
     <message>
         <source>&amp;Open...</source>
-        <translation>打开 (&amp;O)...</translation>
+        <translation>打开(&amp;O)...</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation>保存 (&amp;S)</translation>
+        <translation>保存(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation>文件 (&amp;F)</translation>
+        <translation>文件(&amp;F)</translation>
     </message>
     <message>
         <source>&amp;Run</source>
-        <translation>运行 (&amp;R)</translation>
+        <translation>运行(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Save Output...</source>
-        <translation>保存输出 (&amp;S)...</translation>
+        <translation>保存输出(&amp;S)...</translation>
     </message>
     <message>
         <source>&amp;Script</source>
-        <translation>脚本 (&amp;S)</translation>
+        <translation>脚本(&amp;S)</translation>
     </message>
     <message>
         <source>Script Console</source>
@@ -20127,11 +20130,11 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Save &amp;As...</source>
-        <translation>另存为 (&amp;A)...</translation>
+        <translation>另存为(&amp;A)...</translation>
     </message>
     <message>
         <source>Run As &amp;Console</source>
-        <translation>终端中运行 (&amp;C)</translation>
+        <translation>终端中运行(&amp;C)</translation>
     </message>
     <message>
         <source>Scribus Python Console</source>
@@ -20159,7 +20162,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation>退出 (&amp;Q)</translation>
+        <translation>退出(&amp;Q)</translation>
     </message>
     <message>
         <source>This is a standard Python console with some 
@@ -20186,43 +20189,43 @@ Scripter documentation for futher information. </source>
     <name>QColorDialog</name>
     <message>
         <source>Hu&amp;e:</source>
-        <translation>色相 (&amp;e):</translation>
+        <translation>色相(&amp;e):</translation>
     </message>
     <message>
         <source>&amp;Sat:</source>
-        <translation>饱和度 (&amp;S):</translation>
+        <translation>饱和度(&amp;S):</translation>
     </message>
     <message>
         <source>&amp;Val:</source>
-        <translation>亮度 (&amp;V):</translation>
+        <translation>亮度(&amp;V):</translation>
     </message>
     <message>
         <source>&amp;Red:</source>
-        <translation>红色 (&amp;R):</translation>
+        <translation>红色(&amp;R):</translation>
     </message>
     <message>
         <source>&amp;Green:</source>
-        <translation>绿色 (&amp;G):</translation>
+        <translation>绿色(&amp;G):</translation>
     </message>
     <message>
         <source>Bl&amp;ue:</source>
-        <translation>蓝色 (&amp;u):</translation>
+        <translation>蓝色(&amp;u):</translation>
     </message>
     <message>
         <source>A&amp;lpha channel:</source>
-        <translation>阿尔法通道 (&amp;l):</translation>
+        <translation>阿尔法通道(&amp;l):</translation>
     </message>
     <message>
         <source>&amp;Basic colors</source>
-        <translation>基本颜色 (&amp;B)</translation>
+        <translation>基本颜色(&amp;B)</translation>
     </message>
     <message>
         <source>&amp;Custom colors</source>
-        <translation>自定义颜色 (&amp;C)</translation>
+        <translation>自定义颜色(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Define Custom Colors &gt;&gt;</source>
-        <translation>自定义颜色 (&amp;D) &gt;&gt;</translation>
+        <translation>自定义颜色(&amp;D) &gt;&gt;</translation>
     </message>
     <message>
         <source>OK</source>
@@ -20234,7 +20237,7 @@ Scripter documentation for futher information. </source>
     </message>
     <message>
         <source>&amp;Add to Custom Colors</source>
-        <translation>添加到自定义颜色 (&amp;A)</translation>
+        <translation>添加到自定义颜色(&amp;A)</translation>
     </message>
     <message>
         <source>Select color</source>
@@ -20246,7 +20249,7 @@ Scripter documentation for futher information. </source>
     </message>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"/>
+        <translation>选择颜色</translation>
     </message>
 </context>
 <context>
@@ -20265,11 +20268,11 @@ Scripter documentation for futher information. </source>
     </message>
     <message>
         <source>File &amp;name:</source>
-        <translation>文件名 (&amp;n):</translation>
+        <translation>文件名(&amp;n):</translation>
     </message>
     <message>
         <source>File &amp;type:</source>
-        <translation>文件类型 (&amp;t):</translation>
+        <translation>文件类型(&amp;t):</translation>
     </message>
     <message>
         <source>One directory up</source>
@@ -20309,7 +20312,7 @@ Scripter documentation for futher information. </source>
     </message>
     <message>
         <source>Look &amp;in:</source>
-        <translation>搜索 (&amp;i):</translation>
+        <translation>搜索(&amp;i):</translation>
     </message>
     <message>
         <source>Back</source>
@@ -20385,39 +20388,39 @@ Scripter documentation for futher information. </source>
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation>打开 (&amp;O)</translation>
+        <translation>打开(&amp;O)</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation>保存 (&amp;S)</translation>
+        <translation>保存(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Rename</source>
-        <translation>重命名 (&amp;R)</translation>
+        <translation>重命名(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>删除 (&amp;D)</translation>
+        <translation>删除(&amp;D)</translation>
     </message>
     <message>
         <source>R&amp;eload</source>
-        <translation>重新载入 (&amp;e)</translation>
+        <translation>重新载入(&amp;e)</translation>
     </message>
     <message>
         <source>Sort by &amp;Name</source>
-        <translation>按名称排列 (&amp;N)</translation>
+        <translation>按名称排列(&amp;N)</translation>
     </message>
     <message>
         <source>Sort by &amp;Size</source>
-        <translation>按大小排列 (&amp;S)</translation>
+        <translation>按大小排列(&amp;S)</translation>
     </message>
     <message>
         <source>Sort by &amp;Date</source>
-        <translation>按日期排列 (&amp;D)</translation>
+        <translation>按日期排列(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Unsorted</source>
-        <translation>不排序 (&amp;U)</translation>
+        <translation>不排序(&amp;U)</translation>
     </message>
     <message>
         <source>Sort</source>
@@ -20425,7 +20428,7 @@ Scripter documentation for futher information. </source>
     </message>
     <message>
         <source>Show &amp;hidden files</source>
-        <translation>显示隐藏文件 (&amp;h)</translation>
+        <translation>显示隐藏文件(&amp;h)</translation>
     </message>
     <message>
         <source>the file</source>
@@ -20501,11 +20504,11 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Look in:</source>
-        <translation type="unfinished"/>
+        <translation>搜索于：</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished"/>
+        <translation>向前</translation>
     </message>
     <message>
         <source>Parent Directory</source>
@@ -20521,7 +20524,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Are you sure you want to delete &apos;%1&apos;?</source>
-        <translation type="unfinished"/>
+        <translation>真的删除 &apos;%1&apos;?</translation>
     </message>
     <message>
         <source>&amp;New Folder</source>
@@ -20532,15 +20535,15 @@ Check path and filename.</source>
     <name>QFontDialog</name>
     <message>
         <source>&amp;Font</source>
-        <translation>字体 (&amp;F)</translation>
+        <translation>字体(&amp;F)</translation>
     </message>
     <message>
         <source>Font st&amp;yle</source>
-        <translation>字体样式 (&amp;y)</translation>
+        <translation>字体样式(&amp;y)</translation>
     </message>
     <message>
         <source>&amp;Size</source>
-        <translation>字号 (&amp;S)</translation>
+        <translation>字号(&amp;S)</translation>
     </message>
     <message>
         <source>Effects</source>
@@ -20548,15 +20551,15 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Stri&amp;keout</source>
-        <translation>删除线 (&amp;k)</translation>
+        <translation>删除线(&amp;k)</translation>
     </message>
     <message>
         <source>&amp;Underline</source>
-        <translation>下划线 (&amp;U)</translation>
+        <translation>下划线(&amp;U)</translation>
     </message>
     <message>
         <source>&amp;Color</source>
-        <translation>颜色 (&amp;C)</translation>
+        <translation>颜色(&amp;C)</translation>
     </message>
     <message>
         <source>Sample</source>
@@ -20564,7 +20567,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Scr&amp;ipt</source>
-        <translation>脚本 (&amp;i)</translation>
+        <translation>脚本(&amp;i)</translation>
     </message>
     <message>
         <source>OK</source>
@@ -20599,23 +20602,23 @@ Check path and filename.</source>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation>撤销 (&amp;U)</translation>
+        <translation>撤销(&amp;U)</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation>重复 (&amp;R)</translation>
+        <translation>重复(&amp;R)</translation>
     </message>
     <message>
         <source>Cu&amp;t</source>
-        <translation>剪切 (&amp;t)</translation>
+        <translation>剪切(&amp;t)</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation>复制 (&amp;C)</translation>
+        <translation>复制(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation>粘贴 (&amp;P)</translation>
+        <translation>粘贴(&amp;P)</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -20641,27 +20644,27 @@ Check path and filename.</source>
     </message>
     <message>
         <source>&amp;Move</source>
-        <translation type="unfinished"/>
+        <translation>移动(&amp;M)</translation>
     </message>
     <message>
         <source>&amp;Size</source>
-        <translation>尺寸 (&amp;S)</translation>
+        <translation>尺寸(&amp;S)</translation>
     </message>
     <message>
         <source>Mi&amp;nimize</source>
-        <translation>最小 (&amp;n)</translation>
+        <translation>最小(&amp;n)</translation>
     </message>
     <message>
         <source>Ma&amp;ximize</source>
-        <translation>最大化 (&amp;x)</translation>
+        <translation>最大化(&amp;x)</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>关闭 (&amp;C)</translation>
+        <translation>关闭(&amp;C)</translation>
     </message>
     <message>
         <source>Stay on &amp;Top</source>
-        <translation>置于顶层 (&amp;T)</translation>
+        <translation>置于顶层(&amp;T)</translation>
     </message>
     <message>
         <source>Minimize</source>
@@ -20677,7 +20680,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Sh&amp;ade</source>
-        <translation>暗调 (&amp;a)</translation>
+        <translation>暗调(&amp;a)</translation>
     </message>
     <message>
         <source>%1 - [%2]</source>
@@ -20685,7 +20688,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>&amp;Unshade</source>
-        <translation>取消暗调 (&amp;U)</translation>
+        <translation>取消暗调(&amp;U)</translation>
     </message>
 </context>
 <context>
@@ -20743,7 +20746,7 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Cards</source>
-        <translation type="unfinished"/>
+        <translation>信用卡</translation>
     </message>
     <message>
         <source>Letterheads</source>
@@ -20850,7 +20853,8 @@ Check path and filename.</source>
 External Links
 </source>
         <translation>
-外部链接</translation>
+外部链接
+</translation>
     </message>
     <message>
         <source>Text Filters</source>
@@ -21384,7 +21388,7 @@ External Links
     </message>
     <message>
         <source>Unable to read settings XML:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">不能读取设置 XML:</translation>
     </message>
     <message>
         <source>%1 (line %2 col %3)</source>
@@ -21413,7 +21417,7 @@ External Links
     <message>
         <source>unexpected null &lt;%2&gt; node</source>
         <comment>Load PDF settings</comment>
-        <translation type="unfinished"/>
+        <translation type="vanished">意外：无 &lt;%2&gt; 节点</translation>
     </message>
     <message>
         <source>node &lt;%1&gt; not an element</source>
@@ -21453,7 +21457,7 @@ External Links
     </message>
     <message>
         <source>p</source>
-        <translation type="unfinished"/>
+        <translation>p</translation>
     </message>
     <message>
         <source>cm</source>
@@ -21631,27 +21635,27 @@ External Links
     </message>
     <message>
         <source>&amp;Execute Script...</source>
-        <translation>执行脚本 (&amp;E)...</translation>
+        <translation>执行脚本(&amp;E)...</translation>
     </message>
     <message>
         <source>Show &amp;Console</source>
-        <translation>显示控制台 (&amp;C)</translation>
+        <translation>显示控制台(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;About Script...</source>
-        <translation>关于脚本 (&amp;A)...</translation>
+        <translation>关于脚本(&amp;A)...</translation>
     </message>
     <message>
         <source>&amp;Script</source>
-        <translation>脚本 (&amp;S)</translation>
+        <translation>脚本(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Scribus Scripts</source>
-        <translation>Scribus 脚本 (&amp;S)</translation>
+        <translation>Scribus 脚本(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Recent Scripts</source>
-        <translation>最近使用的脚本 (&amp;R)</translation>
+        <translation>最近使用的脚本(&amp;R)</translation>
     </message>
     <message>
         <source>About Script</source>
@@ -21741,19 +21745,19 @@ is not exhaustive due to exceptions from called functions.
     </message>
     <message>
         <source>memcpy header: %1 %2 %3</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">memcpy 标头：%1 %2 %3</translation>
     </message>
     <message>
         <source>table &apos;%1&apos;</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">表 &apos;%1&apos;</translation>
     </message>
     <message>
         <source>memcpy table: %1 %2 %3</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">memcpy 表：%1 %2 %3</translation>
     </message>
     <message>
         <source>memcpy offset: %1 %2 %3</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">memcpy 偏移量：%1 %2 %3</translation>
     </message>
     <message>
         <source>Scribus Crash</source>
@@ -21914,11 +21918,11 @@ is not exhaustive due to exceptions from called functions.
     </message>
     <message>
         <source>C&amp;reate</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">创建(&amp;)</translation>
     </message>
     <message>
         <source>&amp;Import</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">导入(&amp;I)</translation>
     </message>
     <message>
         <source>Thai</source>
@@ -22010,11 +22014,11 @@ is not exhaustive due to exceptions from called functions.
     </message>
     <message>
         <source>+shadow </source>
-        <translation type="unfinished"/>
+        <translation>+阴影   </translation>
     </message>
     <message>
         <source>-shadow </source>
-        <translation type="unfinished"/>
+        <translation>-阴影   </translation>
     </message>
     <message>
         <source>+outline </source>
@@ -22026,7 +22030,7 @@ is not exhaustive due to exceptions from called functions.
     </message>
     <message>
         <source>-tracking </source>
-        <translation type="unfinished"/>
+        <translation>-追踪    </translation>
     </message>
     <message>
         <source>+stretch </source>
@@ -22130,7 +22134,7 @@ is not exhaustive due to exceptions from called functions.
     </message>
     <message>
         <source>C</source>
-        <translation type="unfinished"/>
+        <translation>C</translation>
     </message>
     <message>
         <source>D</source>
@@ -22321,7 +22325,7 @@ is not exhaustive due to exceptions from called functions.
     </message>
     <message>
         <source>Macintosh Pict File</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Macintosh Pict 文件</translation>
     </message>
     <message>
         <source>TIFF</source>
@@ -22509,7 +22513,7 @@ Therefore the image may be not correct</source>
     </message>
     <message>
         <source>Cvg Importer</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">CVG 导入</translation>
     </message>
     <message>
         <source>Pict Importer</source>
@@ -22577,7 +22581,7 @@ Therefore the image may be not correct</source>
     </message>
     <message>
         <source>Calamus CVG File</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Calamus CVG 文件</translation>
     </message>
     <message>
         <source>Word Perfect WPG File</source>
@@ -22609,7 +22613,7 @@ Therefore the image may be not correct</source>
     </message>
     <message>
         <source>Grids</source>
-        <translation type="unfinished"/>
+        <translation>网格</translation>
     </message>
     <message>
         <source>PDF Importer</source>
@@ -22881,19 +22885,19 @@ Therefore the image may be not correct</source>
     </message>
     <message>
         <source>Aragonese</source>
-        <translation type="unfinished"/>
+        <translation>阿拉贡语</translation>
     </message>
     <message>
         <source>Belarusian</source>
-        <translation type="unfinished"/>
+        <translation>白俄罗斯语</translation>
     </message>
     <message>
         <source>English (Australia)</source>
-        <translation type="unfinished"/>
+        <translation>英语 (澳大利亚)</translation>
     </message>
     <message>
         <source>English (Canada)</source>
-        <translation type="unfinished"/>
+        <translation>英语 (加拿大)</translation>
     </message>
     <message>
         <source>English (UK)</source>
@@ -23076,7 +23080,7 @@ Therefore the image may be not correct</source>
     </message>
     <message>
         <source>Bosnian</source>
-        <translation type="unfinished"/>
+        <translation>Bosnian 波斯尼亚语</translation>
     </message>
     <message>
         <source>Serbian (Latin)</source>
@@ -23192,23 +23196,23 @@ Therefore the image may be not correct</source>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation>撤销 (&amp;U)</translation>
+        <translation>撤销(&amp;U)</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation>重复 (&amp;R)</translation>
+        <translation>重复(&amp;R)</translation>
     </message>
     <message>
         <source>Cu&amp;t</source>
-        <translation>剪切 (&amp;t)</translation>
+        <translation>剪切(&amp;t)</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation>复制 (&amp;C)</translation>
+        <translation>复制(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation>粘贴 (&amp;P)</translation>
+        <translation>粘贴(&amp;P)</translation>
     </message>
 </context>
 <context>
@@ -23326,11 +23330,11 @@ Please choose another.</source>
     </message>
     <message>
         <source>Installed</source>
-        <translation type="unfinished"/>
+        <translation>已安装</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"/>
+        <translation>下载</translation>
     </message>
     <message>
         <source>Language</source>
@@ -23338,11 +23342,11 @@ Please choose another.</source>
     </message>
     <message>
         <source>Code</source>
-        <translation type="unfinished"/>
+        <translation>代码</translation>
     </message>
     <message>
         <source>Location</source>
-        <translation type="unfinished"/>
+        <translation>地点（Location）</translation>
     </message>
 </context>
 <context>
@@ -23357,7 +23361,7 @@ Please choose another.</source>
     </message>
     <message>
         <source>Installed</source>
-        <translation type="unfinished"/>
+        <translation>已安装</translation>
     </message>
     <message>
         <source>Description</source>
@@ -23365,11 +23369,11 @@ Please choose another.</source>
     </message>
     <message>
         <source>ID</source>
-        <translation type="unfinished"/>
+        <translation>ID</translation>
     </message>
     <message>
         <source>Location</source>
-        <translation type="unfinished"/>
+        <translation>地点（Location）</translation>
     </message>
     <message>
         <source>Show in Filesystem</source>
@@ -23377,15 +23381,15 @@ Please choose another.</source>
     </message>
     <message>
         <source>Delete Selected</source>
-        <translation type="unfinished"/>
+        <translation>删除选中的记录</translation>
     </message>
     <message>
         <source>Available</source>
-        <translation type="unfinished"/>
+        <translation>可用</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"/>
+        <translation>下载</translation>
     </message>
     <message>
         <source>Update Available List</source>
@@ -23484,19 +23488,19 @@ Please choose another.</source>
     </message>
     <message>
         <source>Tabloid</source>
-        <translation type="unfinished"/>
+        <translation>小报</translation>
     </message>
     <message>
         <source>landscape</source>
-        <translation type="unfinished"/>
+        <translation>横式</translation>
     </message>
     <message>
         <source>portrait</source>
-        <translation type="unfinished"/>
+        <translation>竖式</translation>
     </message>
     <message>
         <source>custom</source>
-        <translation type="unfinished"/>
+        <translation>自定义</translation>
     </message>
 </context>
 <context>
@@ -23519,7 +23523,7 @@ Please choose another.</source>
     </message>
     <message>
         <source>&amp;More Details</source>
-        <translation>详细信息 (&amp;M)</translation>
+        <translation>详细信息(&amp;M)</translation>
     </message>
     <message>
         <source>Category:</source>
@@ -23594,7 +23598,7 @@ Please choose another.</source>
     <name>SMCStyleWidget</name>
     <message>
         <source>Tracking</source>
-        <translation type="unfinished"/>
+        <translation>追踪</translation>
     </message>
     <message>
         <source>Language</source>
@@ -23925,7 +23929,7 @@ Please choose another.</source>
     </message>
     <message>
         <source>&amp;Lines:</source>
-        <translation>行 (&amp;L):</translation>
+        <translation>行(&amp;L):</translation>
     </message>
     <message>
         <source>Distance from Text:</source>
@@ -23981,7 +23985,7 @@ Please choose another.</source>
     </message>
     <message>
         <source>Ch&amp;aracter Style</source>
-        <translation>字符样式 (&amp;a)</translation>
+        <translation>字符样式(&amp;a)</translation>
     </message>
     <message>
         <source>None</source>
@@ -24046,7 +24050,7 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source> lines</source>
-        <translation type="unfinished"/>
+        <translation> 行数</translation>
     </message>
     <message>
         <source>Don&apos;t separate last</source>
@@ -24078,7 +24082,7 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>Lines:</source>
-        <translation type="unfinished"/>
+        <translation>线条：</translation>
     </message>
     <message>
         <source>None</source>
@@ -24154,15 +24158,15 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>Prefix</source>
-        <translation type="unfinished"/>
+        <translation>前缀</translation>
     </message>
     <message>
         <source>Suffix</source>
-        <translation type="unfinished"/>
+        <translation>后缀</translation>
     </message>
     <message>
         <source>Restart</source>
-        <translation type="unfinished"/>
+        <translation>重启</translation>
     </message>
     <message>
         <source>Restart after other format</source>
@@ -24206,7 +24210,7 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>Frame</source>
-        <translation type="unfinished"/>
+        <translation>边框</translation>
     </message>
     <message>
         <source>Alignment and Distances</source>
@@ -24313,11 +24317,11 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>确定 (&amp;O)</translation>
+        <translation>确定(&amp;O)</translation>
     </message>
     <message>
         <source>Ca&amp;ncel</source>
-        <translation>取消 (&amp;n)</translation>
+        <translation>取消(&amp;n)</translation>
     </message>
     <message>
         <source>Alt+N</source>
@@ -24369,11 +24373,11 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>&amp;Rename Imported Style</source>
-        <translation>重命名导入样式 (&amp;R)</translation>
+        <translation>重命名导入样式(&amp;R)</translation>
     </message>
     <message>
         <source>R&amp;eplace Existing Style</source>
-        <translation>替换已存在的样式 (&amp;e)</translation>
+        <translation>替换已存在的样式(&amp;e)</translation>
     </message>
     <message>
         <source>Select or Unselect All</source>
@@ -24557,7 +24561,7 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>Save as &amp;SVG...</source>
-        <translation>保存为 SVG (&amp;S)...</translation>
+        <translation>保存为 SVG(&amp;S)...</translation>
     </message>
     <message>
         <source>Compress File</source>
@@ -24585,7 +24589,7 @@ Caution: this will increase the file size!</source>
     <name>SVGImportPlugin</name>
     <message>
         <source>Import &amp;SVG...</source>
-        <translation>导入 SVG (&amp;S)...</translation>
+        <translation>导入 SVG(&amp;S)...</translation>
     </message>
     <message>
         <source>Imports SVG Files</source>
@@ -24637,19 +24641,19 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>&amp;Languages:</source>
-        <translation>语言 (&amp;L):</translation>
+        <translation>语言(&amp;L):</translation>
     </message>
     <message>
         <source>&amp;Selected Frames</source>
-        <translation>选中的框 (&amp;S)</translation>
+        <translation>选中的框(&amp;S)</translation>
     </message>
     <message>
         <source>Active &amp;Page</source>
-        <translation>活动的页面 (&amp;P)</translation>
+        <translation>活动的页面(&amp;P)</translation>
     </message>
     <message>
         <source>&amp;All Items</source>
-        <translation>全部对象 (&amp;A)</translation>
+        <translation>全部对象(&amp;A)</translation>
     </message>
     <message>
         <source>Language Settings</source>
@@ -24657,7 +24661,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>&amp;Use Language from Style Definition</source>
-        <translation>使用语言样式定义 (&amp;U)</translation>
+        <translation>使用语言样式定义(&amp;U)</translation>
     </message>
     <message>
         <source>Apply Unbreakable Space To:</source>
@@ -24671,17 +24675,17 @@ converting their vector data into Scribus objects.</source>
     <message>
         <source>&amp;Selected Frames</source>
         <comment>short words plugin</comment>
-        <translation>选中的框 (&amp;S)</translation>
+        <translation>选中的框(&amp;S)</translation>
     </message>
     <message>
         <source>Active &amp;Page</source>
         <comment>short words plugin</comment>
-        <translation>活动的页面 (&amp;P)</translation>
+        <translation>活动的页面(&amp;P)</translation>
     </message>
     <message>
         <source>&amp;All Items</source>
         <comment>short words plugin</comment>
-        <translation>全部对象 (&amp;A)</translation>
+        <translation>全部对象(&amp;A)</translation>
     </message>
 </context>
 <context>
@@ -24696,7 +24700,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation>保存 (&amp;S)</translation>
+        <translation>保存(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Reset</source>
@@ -24743,7 +24747,7 @@ converting their vector data into Scribus objects.</source>
     <name>SaveAsTemplatePlugin</name>
     <message>
         <source>Save as &amp;Template...</source>
-        <translation>保存为模板 (&amp;T)...</translation>
+        <translation>保存为模板(&amp;T)...</translation>
     </message>
     <message>
         <source>Save a document as a template</source>
@@ -24971,11 +24975,11 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Check Style:</source>
-        <translation type="unfinished"/>
+        <translation>十字线样式：</translation>
     </message>
     <message>
         <source>Check</source>
-        <translation type="unfinished"/>
+        <translation>检查</translation>
     </message>
     <message>
         <source>Cross</source>
@@ -25140,7 +25144,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Plain</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">纯文本</translation>
     </message>
     <message>
         <source>Number</source>
@@ -25336,59 +25340,59 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>First Page</source>
-        <translation type="unfinished"/>
+        <translation>第一页</translation>
     </message>
     <message>
         <source>Previous Page</source>
-        <translation type="unfinished"/>
+        <translation>上一页</translation>
     </message>
     <message>
         <source>Next Page</source>
-        <translation type="unfinished"/>
+        <translation>下一页</translation>
     </message>
     <message>
         <source>Last Page</source>
-        <translation type="unfinished"/>
+        <translation>最后一页</translation>
     </message>
     <message>
         <source>Go Back</source>
-        <translation type="unfinished"/>
+        <translation>返回</translation>
     </message>
     <message>
         <source>Go Forward</source>
-        <translation type="unfinished"/>
+        <translation>向前</translation>
     </message>
     <message>
         <source>Go Back Doc</source>
-        <translation type="unfinished"/>
+        <translation>文档返回</translation>
     </message>
     <message>
         <source>Go Forward Doc</source>
-        <translation type="unfinished"/>
+        <translation>文档向前</translation>
     </message>
     <message>
         <source>Go To Page</source>
-        <translation type="unfinished"/>
+        <translation>前往页面</translation>
     </message>
     <message>
         <source>Actual Size</source>
-        <translation type="unfinished"/>
+        <translation>实际大小</translation>
     </message>
     <message>
         <source>Fit Page</source>
-        <translation type="unfinished"/>
+        <translation>适应页面</translation>
     </message>
     <message>
         <source>Fit Width</source>
-        <translation type="unfinished"/>
+        <translation>适应宽度</translation>
     </message>
     <message>
         <source>Fit Height</source>
-        <translation type="unfinished"/>
+        <translation>适应高度</translation>
     </message>
     <message>
         <source>Fit Visible</source>
-        <translation type="unfinished"/>
+        <translation>适应可见</translation>
     </message>
     <message>
         <source>Single Page</source>
@@ -25396,23 +25400,23 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Two Pages</source>
-        <translation type="unfinished"/>
+        <translation>双页</translation>
     </message>
     <message>
         <source>One Column</source>
-        <translation type="unfinished"/>
+        <translation>单列</translation>
     </message>
     <message>
         <source>Two Columns</source>
-        <translation type="unfinished"/>
+        <translation>双列</translation>
     </message>
     <message>
         <source>Zoom View In</source>
-        <translation type="unfinished"/>
+        <translation>放大视图</translation>
     </message>
     <message>
         <source>Zoom View Out</source>
-        <translation type="unfinished"/>
+        <translation>缩小视图</translation>
     </message>
     <message>
         <source>Zoom To</source>
@@ -25420,7 +25424,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"/>
+        <translation>打印</translation>
     </message>
     <message>
         <source>Close</source>
@@ -25428,11 +25432,11 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"/>
+        <translation>退出</translation>
     </message>
     <message>
         <source>General Prefs</source>
-        <translation type="unfinished"/>
+        <translation>通用偏好设置</translation>
     </message>
     <message>
         <source>General Info</source>
@@ -25440,63 +25444,63 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation type="unfinished"/>
+        <translation>页面设置</translation>
     </message>
     <message>
         <source>Full Screen</source>
-        <translation type="unfinished"/>
+        <translation>全屏</translation>
     </message>
     <message>
         <source>Show/Hide Bookmarks</source>
-        <translation type="unfinished"/>
+        <translation>显示或隐藏书签</translation>
     </message>
     <message>
         <source>Show/Hide Thumbnails</source>
-        <translation type="unfinished"/>
+        <translation>显示或隐藏缩略图</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar Editing</source>
-        <translation type="unfinished"/>
+        <translation>显示或隐藏工具栏编辑中</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar Commenting</source>
-        <translation type="unfinished"/>
+        <translation>显示或隐藏工具栏评论中</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar Edit</source>
-        <translation type="unfinished"/>
+        <translation>显示或隐藏工具栏编辑</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar File</source>
-        <translation type="unfinished"/>
+        <translation>显示或隐藏工具栏文件</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar Find</source>
-        <translation type="unfinished"/>
+        <translation>显示或隐藏工具栏查找</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar Forms</source>
-        <translation type="unfinished"/>
+        <translation>显示或隐藏工具栏表格</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar Measuring</source>
-        <translation type="unfinished"/>
+        <translation>显示或隐藏工具栏测量</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar Data</source>
-        <translation type="unfinished"/>
+        <translation>显示或隐藏工具栏数据</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar Page Display</source>
-        <translation type="unfinished"/>
+        <translation>显示或隐藏工具栏页面显示</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar Navigation</source>
-        <translation type="unfinished"/>
+        <translation>显示或隐藏工具栏导航</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar Print Production</source>
-        <translation type="unfinished"/>
+        <translation>显示或隐藏工具栏打印生产</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar Redaction</source>
@@ -25504,91 +25508,91 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Show/Hide Toolbar Basic Tools</source>
-        <translation type="unfinished"/>
+        <translation>显示或隐藏工具栏基本工具</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar Tasks</source>
-        <translation type="unfinished"/>
+        <translation>显示或隐藏工具栏任务</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar Typewriter</source>
-        <translation type="unfinished"/>
+        <translation>显示或隐藏工具栏打字机</translation>
     </message>
     <message>
         <source>Show/Hide Articles</source>
-        <translation type="unfinished"/>
+        <translation>显示或隐藏文章</translation>
     </message>
     <message>
         <source>Show/Hide File Attachment</source>
-        <translation type="unfinished"/>
+        <translation>显示或隐藏文章文件附件</translation>
     </message>
     <message>
         <source>Show/Hide Annot Manager</source>
-        <translation type="unfinished"/>
+        <translation>显示或隐藏文章批注管理器</translation>
     </message>
     <message>
         <source>Show/Hide Fields</source>
-        <translation type="unfinished"/>
+        <translation>显示或隐藏字段</translation>
     </message>
     <message>
         <source>Show/Hide Optional Content</source>
-        <translation type="unfinished"/>
+        <translation>显示或隐藏可选内容</translation>
     </message>
     <message>
         <source>Show/Hide Model Tree</source>
-        <translation type="unfinished"/>
+        <translation>显示或隐藏模型树</translation>
     </message>
     <message>
         <source>Show/Hide Signatures</source>
-        <translation type="unfinished"/>
+        <translation>显示或隐藏签名</translation>
     </message>
     <message>
         <source>Courier</source>
-        <translation type="unfinished"/>
+        <translation>Courier字体</translation>
     </message>
     <message>
         <source>Courier Bold</source>
-        <translation type="unfinished"/>
+        <translation>Courier Bold</translation>
     </message>
     <message>
         <source>Courier Italic</source>
-        <translation type="unfinished"/>
+        <translation>Courier Italic</translation>
     </message>
     <message>
         <source>Courier Bold Italic</source>
-        <translation type="unfinished"/>
+        <translation>Courier Bold Italic</translation>
     </message>
     <message>
         <source>Helvetica</source>
-        <translation type="unfinished"/>
+        <translation>Helvetica字体</translation>
     </message>
     <message>
         <source>Helvetica Bold</source>
-        <translation type="unfinished"/>
+        <translation>Helvetica Bold</translation>
     </message>
     <message>
         <source>Helvetica Italic</source>
-        <translation type="unfinished"/>
+        <translation>Helvetica Italic</translation>
     </message>
     <message>
         <source>Helvetica Bold Italic</source>
-        <translation type="unfinished"/>
+        <translation>Helvetica Bold Italic</translation>
     </message>
     <message>
         <source>Times</source>
-        <translation type="unfinished"/>
+        <translation>Times</translation>
     </message>
     <message>
         <source>Times Bold</source>
-        <translation type="unfinished"/>
+        <translation>Times Bold</translation>
     </message>
     <message>
         <source>Times Italic</source>
-        <translation type="unfinished"/>
+        <translation>Times Italic</translation>
     </message>
     <message>
         <source>Times Bold Italic</source>
-        <translation type="unfinished"/>
+        <translation>Times Bold Italic</translation>
     </message>
     <message>
         <source>Zapf Dingbats</source>
@@ -25596,11 +25600,11 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Symbols</source>
-        <translation type="unfinished"/>
+        <translation>符号</translation>
     </message>
     <message>
         <source>Plain Text</source>
-        <translation type="unfinished"/>
+        <translation>纯文本</translation>
     </message>
     <message>
         <source>9,999.99</source>
@@ -25620,27 +25624,27 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>m/d</source>
-        <translation type="unfinished"/>
+        <translation>m/d</translation>
     </message>
     <message>
         <source>m/d/yy</source>
-        <translation type="unfinished"/>
+        <translation>m/d/yy</translation>
     </message>
     <message>
         <source>mm/dd/yy</source>
-        <translation type="unfinished"/>
+        <translation>mm/dd/yy</translation>
     </message>
     <message>
         <source>mm/yy</source>
-        <translation type="unfinished"/>
+        <translation>mm/yy</translation>
     </message>
     <message>
         <source>d-mmm</source>
-        <translation type="unfinished"/>
+        <translation>d-mmm</translation>
     </message>
     <message>
         <source>d-mmm-yy</source>
-        <translation type="unfinished"/>
+        <translation>d-mmm-yy</translation>
     </message>
     <message>
         <source>dd-mmm-yy</source>
@@ -25648,19 +25652,19 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>dd/mm/yy</source>
-        <translation type="unfinished"/>
+        <translation>dd/mm/yy</translation>
     </message>
     <message>
         <source>dd/mm/yyyy</source>
-        <translation type="unfinished"/>
+        <translation>dd/mm/yyyy</translation>
     </message>
     <message>
         <source>dd.mm.yyyy</source>
-        <translation type="unfinished"/>
+        <translation>dd.mm.yyyy</translation>
     </message>
     <message>
         <source>yy-mm-dd</source>
-        <translation type="unfinished"/>
+        <translation>yy-mm-dd</translation>
     </message>
     <message>
         <source>mmm-yy</source>
@@ -25668,15 +25672,15 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>mmmm-yy</source>
-        <translation type="unfinished"/>
+        <translation>mmmm-yy</translation>
     </message>
     <message>
         <source>mmm d, yyyy</source>
-        <translation type="unfinished"/>
+        <translation>mmm d, yyyy</translation>
     </message>
     <message>
         <source>mmmm d, yyyy</source>
-        <translation type="unfinished"/>
+        <translation>mmmm d, yyyy</translation>
     </message>
     <message>
         <source>m/d/yy h:MM tt</source>
@@ -25688,19 +25692,19 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>yyyy-mm-dd</source>
-        <translation type="unfinished"/>
+        <translation>yyyy-mm-dd</translation>
     </message>
     <message>
         <source>HH:MM</source>
-        <translation type="unfinished"/>
+        <translation>HH:MM</translation>
     </message>
     <message>
         <source>h:MM tt</source>
-        <translation type="unfinished"/>
+        <translation>h:MM tt</translation>
     </message>
     <message>
         <source>HH:MM:ss</source>
-        <translation type="unfinished"/>
+        <translation>HH:MM:ss</translation>
     </message>
     <message>
         <source>h:MM:ss tt</source>
@@ -25745,7 +25749,7 @@ converting their vector data into Scribus objects.</source>
     <name>ScMWMenuManager</name>
     <message>
         <source>Open &amp;Recent</source>
-        <translation>最近打开 (&amp;R)</translation>
+        <translation>最近打开(&amp;R)</translation>
     </message>
     <message>
         <source>Paste Recent</source>
@@ -25753,11 +25757,11 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>&amp;Import</source>
-        <translation>导入 (&amp;I)</translation>
+        <translation>导入(&amp;I)</translation>
     </message>
     <message>
         <source>&amp;Export</source>
-        <translation>导出 (&amp;E)</translation>
+        <translation>导出(&amp;E)</translation>
     </message>
     <message>
         <source>Contents</source>
@@ -25765,7 +25769,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>&amp;Level</source>
-        <translation>层 (&amp;L)</translation>
+        <translation>层(&amp;L)</translation>
     </message>
     <message>
         <source>Send to Layer</source>
@@ -25773,15 +25777,15 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Previe&amp;w Settings</source>
-        <translation>预览设置 (&amp;w)</translation>
+        <translation>预览设置(&amp;w)</translation>
     </message>
     <message>
         <source>&amp;PDF Options</source>
-        <translation>PDF 选项 (&amp;P)</translation>
+        <translation>PDF 选项(&amp;P)</translation>
     </message>
     <message>
         <source>C&amp;onvert To</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">转换为(&amp;o)</translation>
     </message>
     <message>
         <source>Character</source>
@@ -25797,47 +25801,47 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Liga&amp;ture</source>
-        <translation>拉丁语连字 (&amp;t)</translation>
+        <translation>拉丁语连字(&amp;t)</translation>
     </message>
     <message>
         <source>&amp;Alignment</source>
-        <translation>对齐 (&amp;A)</translation>
+        <translation>对齐(&amp;A)</translation>
     </message>
     <message>
         <source>Online &amp;Tutorials</source>
-        <translation>在线教程 (&amp;T)</translation>
+        <translation>在线教程(&amp;T)</translation>
     </message>
     <message>
         <source>C&amp;onvert to</source>
-        <translation type="unfinished"/>
+        <translation>转换为(&amp;o)</translation>
     </message>
     <message>
         <source>Duplicate/Transform</source>
-        <translation type="unfinished"/>
+        <translation>重制/变换</translation>
     </message>
     <message>
         <source>Grouping</source>
-        <translation type="unfinished"/>
+        <translation>群组</translation>
     </message>
     <message>
         <source>Locking</source>
-        <translation type="unfinished"/>
+        <translation>锁定中</translation>
     </message>
     <message>
         <source>Send to</source>
-        <translation type="unfinished"/>
+        <translation>发送到</translation>
     </message>
     <message>
         <source>Scrapbook</source>
-        <translation type="unfinished"/>
+        <translation>寄存本</translation>
     </message>
     <message>
         <source>Adjust</source>
-        <translation type="unfinished"/>
+        <translation>调整</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished"/>
+        <translation>图像</translation>
     </message>
     <message>
         <source>Text Frame Links</source>
@@ -25849,11 +25853,11 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Marks</source>
-        <translation type="unfinished"/>
+        <translation>标记</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation type="unfinished"/>
+        <translation>缩放</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -25865,15 +25869,15 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Text Frames</source>
-        <translation type="unfinished"/>
+        <translation>文本框</translation>
     </message>
     <message>
         <source>Image Frames</source>
-        <translation type="unfinished"/>
+        <translation>图片框</translation>
     </message>
     <message>
         <source>Document</source>
-        <translation type="unfinished"/>
+        <translation>文档颜色</translation>
     </message>
     <message>
         <source>Grids and Guides</source>
@@ -26065,11 +26069,11 @@ If you save it in this version, it will no longer be readable by older Scribus v
     </message>
     <message>
         <source>&amp;Unlock All</source>
-        <translation>全部解锁 (&amp;U)</translation>
+        <translation>全部解锁(&amp;U)</translation>
     </message>
     <message>
         <source>&amp;Skip locked objects</source>
-        <translation>跳过被锁定的对象 (&amp;S)</translation>
+        <translation>跳过被锁定的对象(&amp;S)</translation>
     </message>
     <message>
         <source>An error occurred while opening ICC profiles, color management is not enabled.</source>
@@ -26112,7 +26116,7 @@ Rotation: %4</source>
     <message>
         <source>Imported </source>
         <comment>Prefix of imported default style</comment>
-        <translation type="unfinished"/>
+        <translation>已导入 </translation>
     </message>
     <message>
         <source>No Style</source>
@@ -26143,15 +26147,15 @@ Rotation: %4</source>
     </message>
     <message>
         <source>Open &amp;Recent</source>
-        <translation>最近打开 (&amp;R)</translation>
+        <translation>最近打开(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Import</source>
-        <translation>导入 (&amp;I)</translation>
+        <translation>导入(&amp;I)</translation>
     </message>
     <message>
         <source>&amp;Export</source>
-        <translation>导出 (&amp;E)</translation>
+        <translation>导出(&amp;E)</translation>
     </message>
     <message>
         <source>Preview Settings</source>
@@ -26163,15 +26167,15 @@ Rotation: %4</source>
     </message>
     <message>
         <source>Send to La&amp;yer</source>
-        <translation>发送到图层 (&amp;y)</translation>
+        <translation>发送到图层(&amp;y)</translation>
     </message>
     <message>
         <source>&amp;PDF Options</source>
-        <translation>PDF选项 (&amp;P)</translation>
+        <translation>PDF选项(&amp;P)</translation>
     </message>
     <message>
         <source>C&amp;onvert To</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">转换为(&amp;o)</translation>
     </message>
     <message>
         <source>Ready</source>
@@ -26275,7 +26279,7 @@ Rotation: %4</source>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation>尺寸 (&amp;S):</translation>
+        <translation>尺寸(&amp;S):</translation>
     </message>
     <message>
         <source>Size</source>
@@ -26283,11 +26287,11 @@ Rotation: %4</source>
     </message>
     <message>
         <source>&amp;Shade:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">暗调(&amp;S):</translation>
     </message>
     <message>
         <source>Shade</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">暗调</translation>
     </message>
     <message>
         <source>An error occurred while opening monitor profile.
@@ -26320,7 +26324,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;Lock All</source>
-        <translation>全部锁定 (&amp;L)</translation>
+        <translation>全部锁定(&amp;L)</translation>
     </message>
     <message>
         <source>Locate your PDF viewer</source>
@@ -26328,7 +26332,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;Unlock All</source>
-        <translation>全部解锁 (&amp;U)</translation>
+        <translation>全部解锁(&amp;U)</translation>
     </message>
     <message>
         <source>Information</source>
@@ -26352,15 +26356,15 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;Character</source>
-        <translation>字符 (&amp;C)</translation>
+        <translation>字符(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Quote</source>
-        <translation>引号 (&amp;Q)</translation>
+        <translation>引号(&amp;Q)</translation>
     </message>
     <message>
         <source>Liga&amp;ture</source>
-        <translation>拉丁语连字 (&amp;t)</translation>
+        <translation>拉丁语连字(&amp;t)</translation>
     </message>
     <message>
         <source>Paste Recent</source>
@@ -26410,7 +26414,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation>名称 (&amp;N):</translation>
+        <translation>名称(&amp;N):</translation>
     </message>
     <message>
         <source>New Entry</source>
@@ -26486,19 +26490,19 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Duplicate/Transform</source>
-        <translation type="unfinished"/>
+        <translation>重制/变换</translation>
     </message>
     <message>
         <source>Grouping</source>
-        <translation type="unfinished"/>
+        <translation>群组</translation>
     </message>
     <message>
         <source>Locking</source>
-        <translation type="unfinished"/>
+        <translation>锁定中</translation>
     </message>
     <message>
         <source>Send to</source>
-        <translation type="unfinished"/>
+        <translation>发送到</translation>
     </message>
     <message>
         <source>Scrapbook</source>
@@ -26506,7 +26510,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Adjust</source>
-        <translation type="unfinished"/>
+        <translation>调整</translation>
     </message>
     <message>
         <source>Image</source>
@@ -26598,7 +26602,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>C&amp;onvert to</source>
-        <translation type="unfinished"/>
+        <translation>转换为(&amp;o)</translation>
     </message>
     <message>
         <source>%1 selected</source>
@@ -26606,7 +26610,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>C&amp;reate</source>
-        <translation>创建 (&amp;r)</translation>
+        <translation>创建(&amp;r)</translation>
     </message>
     <message>
         <source>Measurement</source>
@@ -26657,7 +26661,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Use right to left dialog button ordering (eg. Cancel/No/Yes instead of Yes/No/Cancel)</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">使用从右到左的对话按钮顺序（例如：取消/否/是，而不是 是/否/取消）</translation>
     </message>
     <message>
         <source>filename</source>
@@ -26776,7 +26780,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Linking Text Frames</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">链接文本框</translation>
     </message>
     <message>
         <source>Cannot Convert In-Use Item</source>
@@ -26800,15 +26804,15 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Enter Object Size</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">输入对象尺寸</translation>
     </message>
     <message>
         <source>You are trying to link a frame to itself.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">你正在尝试链接图文框自身。</translation>
     </message>
     <message>
         <source>End Edit</source>
-        <translation type="unfinished"/>
+        <translation>结束编辑</translation>
     </message>
     <message>
         <source>Click here to leave this special edit mode.</source>
@@ -26834,19 +26838,19 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation>文件 (&amp;F)</translation>
+        <translation>文件(&amp;F)</translation>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation>新建 (&amp;N)</translation>
+        <translation>新建(&amp;N)</translation>
     </message>
     <message>
         <source>&amp;Run</source>
-        <translation>运行 (&amp;R)</translation>
+        <translation>运行(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>关闭 (&amp;C)</translation>
+        <translation>关闭(&amp;C)</translation>
     </message>
     <message>
         <source>Ctrl+W</source>
@@ -26854,11 +26858,11 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;Exit</source>
-        <translation>退出 (&amp;E)</translation>
+        <translation>退出(&amp;E)</translation>
     </message>
     <message>
         <source>Ctrl+R</source>
-        <translation type="unfinished"/>
+        <translation>Ctrl+A</translation>
     </message>
     <message>
         <source>Run script in &amp;console</source>
@@ -26870,7 +26874,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Python</source>
-        <translation type="unfinished"/>
+        <translation>Python</translation>
     </message>
     <message>
         <source>Ctrl+N</source>
@@ -26902,7 +26906,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation>打开 (&amp;O)</translation>
+        <translation>打开(&amp;O)</translation>
     </message>
     <message>
         <source>Open a script</source>
@@ -26914,7 +26918,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation>保存 (&amp;S)</translation>
+        <translation>保存(&amp;S)</translation>
     </message>
     <message>
         <source>Save the current script</source>
@@ -27143,11 +27147,11 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Block</source>
-        <translation type="unfinished"/>
+        <translation>区块</translation>
     </message>
     <message>
         <source>Forced</source>
-        <translation type="unfinished"/>
+        <translation>强制</translation>
     </message>
     <message>
         <source>Replace with:</source>
@@ -27159,31 +27163,31 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;Whole Word</source>
-        <translation>整个单词 (&amp;W)</translation>
+        <translation>整个单词(&amp;W)</translation>
     </message>
     <message>
         <source>&amp;Ignore Case</source>
-        <translation>忽略大小写 (&amp;I)</translation>
+        <translation>忽略大小写(&amp;I)</translation>
     </message>
     <message>
         <source>&amp;Search</source>
-        <translation>查找 (&amp;S)</translation>
+        <translation>查找(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Replace</source>
-        <translation>替换 (&amp;R)</translation>
+        <translation>替换(&amp;R)</translation>
     </message>
     <message>
         <source>Replace &amp;All</source>
-        <translation>全部替换 (&amp;A)</translation>
+        <translation>全部替换(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation>关闭 (&amp;C)</translation>
+        <translation>关闭(&amp;C)</translation>
     </message>
     <message>
         <source>C&amp;lear</source>
-        <translation>清除 (&amp;l)</translation>
+        <translation>清除(&amp;l)</translation>
     </message>
     <message>
         <source>Search finished, found %1 matches</source>
@@ -27253,7 +27257,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;Shade:</source>
-        <translation>暗调 (&amp;S):</translation>
+        <translation>暗调(&amp;S):</translation>
     </message>
 </context>
 <context>
@@ -27344,7 +27348,7 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <source>Short &amp;Words...</source>
         <comment>short words plugin</comment>
-        <translation>短单词 (&amp;W)...</translation>
+        <translation>短单词(&amp;W)...</translation>
     </message>
     <message>
         <source>Short Words</source>
@@ -27359,15 +27363,15 @@ Consider using the Preflight Verifier to correct them</source>
     <name>ShortcutWidget</name>
     <message>
         <source>&amp;No Key</source>
-        <translation>无快捷键 (&amp;N)</translation>
+        <translation>无快捷键(&amp;N)</translation>
     </message>
     <message>
         <source>&amp;User Defined Key</source>
-        <translation>用户自定义键 (&amp;U)</translation>
+        <translation>用户自定义键(&amp;U)</translation>
     </message>
     <message>
         <source>Set &amp;Key</source>
-        <translation>设置键 (&amp;K)</translation>
+        <translation>设置键(&amp;K)</translation>
     </message>
     <message>
         <source>Alt</source>
@@ -27479,7 +27483,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>End Edit</source>
-        <translation type="unfinished"/>
+        <translation>结束编辑</translation>
     </message>
 </context>
 <context>
@@ -27561,59 +27565,59 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;Reload Text from Frame</source>
-        <translation>从文本框重新载入文本 (&amp;R)</translation>
+        <translation>从文本框重新载入文本(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Save to File...</source>
-        <translation>保存到文件 (&amp;S)...</translation>
+        <translation>保存到文件(&amp;S)...</translation>
     </message>
     <message>
         <source>&amp;Load from File...</source>
-        <translation>从文件载入 (&amp;L)...</translation>
+        <translation>从文件载入(&amp;L)...</translation>
     </message>
     <message>
         <source>Save &amp;Document</source>
-        <translation>保存文档 (&amp;D)</translation>
+        <translation>保存文档(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Update Text Frame and Exit</source>
-        <translation>更新文本框后退出 (&amp;U)</translation>
+        <translation>更新文本框后退出(&amp;U)</translation>
     </message>
     <message>
         <source>&amp;Exit Without Updating Text Frame</source>
-        <translation>不更新文本框退出 (&amp;E)</translation>
+        <translation>不更新文本框退出(&amp;E)</translation>
     </message>
     <message>
         <source>Cu&amp;t</source>
-        <translation>剪切 (&amp;t)</translation>
+        <translation>剪切(&amp;t)</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation>复制 (&amp;C)</translation>
+        <translation>复制(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation>粘贴 (&amp;P)</translation>
+        <translation>粘贴(&amp;P)</translation>
     </message>
     <message>
         <source>C&amp;lear</source>
-        <translation>清除 (&amp;A)</translation>
+        <translation>清除(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Update Text Frame</source>
-        <translation>更新文本框 (&amp;U)</translation>
+        <translation>更新文本框(&amp;U)</translation>
     </message>
     <message>
         <source>&amp;File</source>
-        <translation>文件 (&amp;F)</translation>
+        <translation>文件(&amp;F)</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation>编辑 (&amp;E)</translation>
+        <translation>编辑(&amp;E)</translation>
     </message>
     <message>
         <source>Select &amp;All</source>
-        <translation>全选 (&amp;A)</translation>
+        <translation>全选(&amp;A)</translation>
     </message>
     <message>
         <source>File</source>
@@ -27621,27 +27625,27 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;Search/Replace...</source>
-        <translation>查找/替换 (&amp;S)...</translation>
+        <translation>查找/替换(&amp;S)...</translation>
     </message>
     <message>
         <source>&amp;Fonts Preview...</source>
-        <translation>字体预览 (&amp;F)...</translation>
+        <translation>字体预览(&amp;F)...</translation>
     </message>
     <message>
         <source>&amp;Background...</source>
-        <translation>背景 (&amp;B)...</translation>
+        <translation>背景(&amp;B)...</translation>
     </message>
     <message>
         <source>&amp;Display Font...</source>
-        <translation>显示字体 (&amp;D)...</translation>
+        <translation>显示字体(&amp;D)...</translation>
     </message>
     <message>
         <source>&amp;Settings</source>
-        <translation>设置 (&amp;S)</translation>
+        <translation>设置(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Insert Glyph...</source>
-        <translation>插入符号 (&amp;I)...</translation>
+        <translation>插入符号(&amp;I)...</translation>
     </message>
     <message>
         <source>Clear All Text</source>
@@ -27661,7 +27665,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;Insert</source>
-        <translation>插入 (&amp;I)</translation>
+        <translation>插入(&amp;I)</translation>
     </message>
     <message>
         <source>Character</source>
@@ -27719,27 +27723,27 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;Apply</source>
-        <translation>应用 (&amp;A)</translation>
+        <translation>应用(&amp;A)</translation>
     </message>
     <message>
         <source>&lt;&lt; &amp;Done</source>
-        <translation>&lt;&lt; 完成 (&amp;D)</translation>
+        <translation>&lt;&lt; 完成(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation>新建 (&amp;N)</translation>
+        <translation>新建(&amp;N)</translation>
     </message>
     <message>
         <source>&amp;Import</source>
-        <translation>导入 (&amp;I)</translation>
+        <translation>导入(&amp;I)</translation>
     </message>
     <message>
         <source>&amp;Clone</source>
-        <translation>克隆 (&amp;C)</translation>
+        <translation>克隆(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>删除 (&amp;D)</translation>
+        <translation>删除(&amp;D)</translation>
     </message>
     <message>
         <source>Reset all changes</source>
@@ -27787,11 +27791,11 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation>编辑 (&amp;E)</translation>
+        <translation>编辑(&amp;E)</translation>
     </message>
     <message>
         <source>&amp;Done</source>
-        <translation>完成 (&amp;D)</translation>
+        <translation>完成(&amp;D)</translation>
     </message>
     <message>
         <source>Shortcut</source>
@@ -27999,7 +28003,7 @@ Consider using the Preflight Verifier to correct them</source>
     <name>SymbolPalette</name>
     <message>
         <source>Symbols</source>
-        <translation type="unfinished"/>
+        <translation>符号</translation>
     </message>
 </context>
 <context>
@@ -28024,15 +28028,15 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;All Pages</source>
-        <translation>全部页面 (&amp;A)</translation>
+        <translation>全部页面(&amp;A)</translation>
     </message>
     <message>
         <source>C&amp;hoose Pages</source>
-        <translation>选择页面 (&amp;h)</translation>
+        <translation>选择页面(&amp;h)</translation>
     </message>
     <message>
         <source>&amp;Rotation:</source>
-        <translation>旋转 (&amp;R):</translation>
+        <translation>旋转(&amp;R):</translation>
     </message>
     <message>
         <source>File Options</source>
@@ -28040,11 +28044,11 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Compatibilit&amp;y:</source>
-        <translation>相容性 (&amp;y):</translation>
+        <translation>相容性(&amp;y):</translation>
     </message>
     <message>
         <source>&amp;Binding:</source>
-        <translation>装订 (&amp;B):</translation>
+        <translation>装订(&amp;B):</translation>
     </message>
     <message>
         <source>Left Margin</source>
@@ -28056,15 +28060,15 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Generate &amp;Thumbnails</source>
-        <translation>生成缩略图 (&amp;T)</translation>
+        <translation>生成缩略图(&amp;T)</translation>
     </message>
     <message>
         <source>Save &amp;Linked Text Frames as PDF Articles</source>
-        <translation>已链接文本框另存为 PDF 对象 (&amp;L)</translation>
+        <translation>已链接文本框另存为 PDF 对象(&amp;L)</translation>
     </message>
     <message>
         <source>&amp;Include Bookmarks</source>
-        <translation>包含书签 (&amp;I)</translation>
+        <translation>包含书签(&amp;I)</translation>
     </message>
     <message>
         <source> dpi</source>
@@ -28072,11 +28076,11 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;Resolution for EPS Graphics:</source>
-        <translation>EPS 图的解析度 (&amp;R):</translation>
+        <translation>EPS 图的解析度(&amp;R):</translation>
     </message>
     <message>
         <source>Com&amp;press Text and Vector Graphics</source>
-        <translation>压缩文本和矢量图 (&amp;p)</translation>
+        <translation>压缩文本和矢量图(&amp;p)</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -28108,7 +28112,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;General</source>
-        <translation>常规 (&amp;G)</translation>
+        <translation>常规(&amp;G)</translation>
     </message>
     <message>
         <source>Embedding</source>
@@ -28116,7 +28120,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Available Fonts:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">可用字体:</translation>
     </message>
     <message>
         <source>Fonts to embed:</source>
@@ -28124,11 +28128,11 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;Fonts</source>
-        <translation>字体 (&amp;F)</translation>
+        <translation>字体(&amp;F)</translation>
     </message>
     <message>
         <source>Enable &amp;Presentation Effects</source>
-        <translation>启用演示效果 (&amp;P)</translation>
+        <translation>启用演示效果(&amp;P)</translation>
     </message>
     <message>
         <source>PDF/X Output Intent</source>
@@ -28148,7 +28152,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Show Page Pre&amp;views</source>
-        <translation>显示页面预览 (&amp;v)</translation>
+        <translation>显示页面预览(&amp;v)</translation>
     </message>
     <message>
         <source>Effects</source>
@@ -28156,27 +28160,27 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;Display Duration:</source>
-        <translation>显示持续时间 (&amp;D):</translation>
+        <translation>显示持续时间(&amp;D):</translation>
     </message>
     <message>
         <source>Effec&amp;t Duration:</source>
-        <translation>特效持续时间 (&amp;t):</translation>
+        <translation>特效持续时间(&amp;t):</translation>
     </message>
     <message>
         <source>Effect T&amp;ype:</source>
-        <translation>特效类型 (&amp;y):</translation>
+        <translation>特效类型(&amp;y):</translation>
     </message>
     <message>
         <source>&amp;Moving Lines:</source>
-        <translation>移动线条 (&amp;M) :</translation>
+        <translation>移动线条(&amp;M) :</translation>
     </message>
     <message>
         <source>F&amp;rom the:</source>
-        <translation>从 (&amp;r):</translation>
+        <translation>从(&amp;r):</translation>
     </message>
     <message>
         <source>D&amp;irection:</source>
-        <translation>方向 (&amp;i):</translation>
+        <translation>方向(&amp;i):</translation>
     </message>
     <message>
         <source> sec</source>
@@ -28248,11 +28252,11 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>E&amp;xtras</source>
-        <translation>附加 (&amp;x)</translation>
+        <translation>附加(&amp;x)</translation>
     </message>
     <message>
         <source>&amp;Use Encryption</source>
-        <translation>使用加密 (&amp;U)</translation>
+        <translation>使用加密(&amp;U)</translation>
     </message>
     <message>
         <source>Passwords</source>
@@ -28260,11 +28264,11 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;User:</source>
-        <translation>用户名 (&amp;U):</translation>
+        <translation>用户名(&amp;U):</translation>
     </message>
     <message>
         <source>&amp;Owner:</source>
-        <translation>所有者 (&amp;O):</translation>
+        <translation>所有者(&amp;O):</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -28272,23 +28276,23 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Allow &amp;Printing the Document</source>
-        <translation>允许打印文档 (&amp;P)</translation>
+        <translation>允许打印文档(&amp;P)</translation>
     </message>
     <message>
         <source>Allow &amp;Changing the Document</source>
-        <translation>允许更改文档 (&amp;C)</translation>
+        <translation>允许更改文档(&amp;C)</translation>
     </message>
     <message>
         <source>Allow Cop&amp;ying Text and Graphics</source>
-        <translation>允许复制文本和图片 (&amp;y)</translation>
+        <translation>允许复制文本和图片(&amp;y)</translation>
     </message>
     <message>
         <source>Allow Adding &amp;Annotations and Fields</source>
-        <translation>允许加入注释和表单域 (&amp;A)</translation>
+        <translation>允许加入注释和表单域(&amp;A)</translation>
     </message>
     <message>
         <source>S&amp;ecurity</source>
-        <translation>安全 (&amp;e)</translation>
+        <translation>安全(&amp;e)</translation>
     </message>
     <message>
         <source>General</source>
@@ -28296,7 +28300,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Output &amp;Intended For:</source>
-        <translation>输出预期为 (&amp;I):</translation>
+        <translation>输出预期为(&amp;I):</translation>
     </message>
     <message>
         <source>Screen / Web</source>
@@ -28312,7 +28316,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;Use Custom Rendering Settings</source>
-        <translation>使用自定义渲染设置 (&amp;U)</translation>
+        <translation>使用自定义渲染设置(&amp;U)</translation>
     </message>
     <message>
         <source>Rendering Settings</source>
@@ -28320,15 +28324,15 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Fre&amp;quency:</source>
-        <translation>频率 (&amp;q):</translation>
+        <translation>频率(&amp;q):</translation>
     </message>
     <message>
         <source>&amp;Angle:</source>
-        <translation>角度 (&amp;A):</translation>
+        <translation>角度(&amp;A):</translation>
     </message>
     <message>
         <source>S&amp;pot Function:</source>
-        <translation>网点函数 (&amp;p):</translation>
+        <translation>网点函数(&amp;p):</translation>
     </message>
     <message>
         <source>Simple Dot</source>
@@ -28376,7 +28380,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>C&amp;olor</source>
-        <translation>顔色 (&amp;o)</translation>
+        <translation>顔色(&amp;o)</translation>
     </message>
     <message>
         <source>&amp;Info String:</source>
@@ -28384,7 +28388,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Output &amp;Profile:</source>
-        <translation>输出配置文件 (&amp;P):</translation>
+        <translation>输出配置文件(&amp;P):</translation>
     </message>
     <message>
         <source>Show page previews of each page listed above.</source>
@@ -28500,7 +28504,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Compression &amp;Quality:</source>
-        <translation>压缩质量 (&amp;Q):</translation>
+        <translation>压缩质量(&amp;Q):</translation>
     </message>
     <message>
         <source>Allow copying of text or graphics from the PDF. If unchecked, text and graphics cannot be copied.</source>
@@ -28516,11 +28520,11 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Include La&amp;yers</source>
-        <translation>包括图层 (&amp;y)</translation>
+        <translation>包括图层(&amp;y)</translation>
     </message>
     <message>
         <source>Compression Metho&amp;d:</source>
-        <translation>压缩方式 (&amp;d):</translation>
+        <translation>压缩方式(&amp;d):</translation>
     </message>
     <message>
         <source>Embed fonts into the PDF. Embedding the fonts will preserve the layout and appearance of your document.</source>
@@ -28572,7 +28576,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Continuous</source>
-        <translation type="unfinished"/>
+        <translation>连续</translation>
     </message>
     <message>
         <source>Double Page Left</source>
@@ -28742,19 +28746,19 @@ when PDF document is opened:</source>
     </message>
     <message>
         <source>&amp;Embed all</source>
-        <translation>全部嵌入 (&amp;E)</translation>
+        <translation>全部嵌入(&amp;E)</translation>
     </message>
     <message>
         <source>Fonts to outline:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">转换为轮廓线的字体:</translation>
     </message>
     <message>
         <source>&amp;Outline all</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">全部为轮廓线(&amp;O)</translation>
     </message>
     <message>
         <source>Convert all glyphs in the document to outlines.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">文档中所有符号全部转换为轮廓线。</translation>
     </message>
     <message>
         <source>Document Layout</source>
@@ -28854,7 +28858,7 @@ when PDF document is opened:</source>
     </message>
     <message>
         <source>&amp;Apply Effect to all Pages</source>
-        <translation>应用特效到所有页面 (&amp;A)</translation>
+        <translation>应用特效到所有页面(&amp;A)</translation>
     </message>
     <message>
         <source>Automatically rotate the exported pages</source>
@@ -28870,7 +28874,7 @@ when PDF document is opened:</source>
     </message>
     <message>
         <source>Cover</source>
-        <translation type="unfinished"/>
+        <translation>封面</translation>
     </message>
     <message>
         <source>Uncover</source>
@@ -28922,19 +28926,19 @@ when PDF document is opened:</source>
     </message>
     <message>
         <source>0 °</source>
-        <translation type="unfinished"/>
+        <translation>0 °</translation>
     </message>
     <message>
         <source>90 °</source>
-        <translation type="unfinished"/>
+        <translation>90 °</translation>
     </message>
     <message>
         <source>180 °</source>
-        <translation type="unfinished"/>
+        <translation>180 °</translation>
     </message>
     <message>
         <source>270 °</source>
-        <translation type="unfinished"/>
+        <translation>270 °</translation>
     </message>
     <message>
         <source> °</source>
@@ -28942,27 +28946,27 @@ when PDF document is opened:</source>
     </message>
     <message>
         <source>Embedding Mode:</source>
-        <translation type="unfinished"/>
+        <translation>嵌入模式：</translation>
     </message>
     <message>
         <source>Embed or Subset</source>
-        <translation type="unfinished"/>
+        <translation>嵌入或子集</translation>
     </message>
     <message>
         <source>Outline All Fonts</source>
-        <translation type="unfinished"/>
+        <translation>将所有字体转换为轮廓线</translation>
     </message>
     <message>
         <source>Do Not Embed</source>
-        <translation type="unfinished"/>
+        <translation>不嵌入</translation>
     </message>
     <message>
         <source>Fonts to subset:</source>
-        <translation type="unfinished"/>
+        <translation>字体转子集：</translation>
     </message>
     <message>
         <source>&amp;Subset all</source>
-        <translation type="unfinished"/>
+        <translation>子集化全部(&amp;S)</translation>
     </message>
     <message>
         <source>Embed only subset fonts with glyphs used in the document into the PDF.</source>
@@ -28973,22 +28977,22 @@ when PDF document is opened:</source>
     <name>TableColumnWidthsDialog</name>
     <message>
         <source>Set Column Widths</source>
-        <translation type="unfinished"/>
+        <translation>设置列宽</translation>
     </message>
     <message>
         <source>Column Width:</source>
-        <translation type="unfinished"/>
+        <translation>列宽：</translation>
     </message>
 </context>
 <context>
     <name>TableRowHeightsDialog</name>
     <message>
         <source>Set Row Heights</source>
-        <translation type="unfinished"/>
+        <translation>设置行高</translation>
     </message>
     <message>
         <source>Row Height:</source>
-        <translation type="unfinished"/>
+        <translation>行高：</translation>
     </message>
 </context>
 <context>
@@ -29034,7 +29038,7 @@ when PDF document is opened:</source>
     </message>
     <message>
         <source>&amp;Position:</source>
-        <translation>位置 (&amp;P):</translation>
+        <translation>位置(&amp;P):</translation>
     </message>
     <message>
         <source>Fill Char:</source>
@@ -29079,11 +29083,11 @@ when PDF document is opened:</source>
     </message>
     <message>
         <source>Period</source>
-        <translation type="unfinished"/>
+        <translation>时期</translation>
     </message>
     <message>
         <source>Delete Selected</source>
-        <translation type="unfinished"/>
+        <translation>删除选中的记录</translation>
     </message>
     <message>
         <source>Delete selected Tabulator</source>
@@ -29777,20 +29781,20 @@ X: %4, Y: %5</translation>
     <message>
         <source>&amp;Undo: %1</source>
         <comment>f.e. Undo: Move</comment>
-        <translation>撤消 (&amp;U): %1</translation>
+        <translation>撤消(&amp;U): %1</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation>撤消 (&amp;U)</translation>
+        <translation>撤消(&amp;U)</translation>
     </message>
     <message>
         <source>&amp;Redo: %1</source>
         <comment>f.e. Redo: Move</comment>
-        <translation>重作 (&amp;R): %1</translation>
+        <translation>重作(&amp;R): %1</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation>重作 (&amp;R)</translation>
+        <translation>重作(&amp;R)</translation>
     </message>
     <message>
         <source>No object frame</source>
@@ -29906,15 +29910,15 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Set layer opacity</source>
-        <translation type="unfinished"/>
+        <translation>设置图层不透明度</translation>
     </message>
     <message>
         <source>Lock layer</source>
-        <translation type="unfinished"/>
+        <translation>锁定图层</translation>
     </message>
     <message>
         <source>Unlock layer</source>
-        <translation type="unfinished"/>
+        <translation>解锁图层</translation>
     </message>
     <message>
         <source>Link text frame</source>
@@ -29926,7 +29930,7 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Move page</source>
-        <translation type="unfinished"/>
+        <translation>移动页面</translation>
     </message>
     <message>
         <source>Clear image frame content</source>
@@ -30086,7 +30090,7 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Delete text</source>
-        <translation type="unfinished"/>
+        <translation>删除文本</translation>
     </message>
     <message>
         <source>Insert text</source>
@@ -30094,7 +30098,7 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Append text</source>
-        <translation type="unfinished"/>
+        <translation>附加文字</translation>
     </message>
     <message>
         <source>Import text</source>
@@ -30146,7 +30150,7 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Duplicate</source>
-        <translation type="unfinished"/>
+        <translation>再制</translation>
     </message>
     <message>
         <source>Remove mesh patch</source>
@@ -30182,7 +30186,7 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>Drop Shadow</source>
-        <translation type="unfinished"/>
+        <translation>投射阴影</translation>
     </message>
     <message>
         <source>Drop Shadow Color</source>
@@ -30229,11 +30233,11 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation>撤销 (&amp;U)</translation>
+        <translation>撤销(&amp;U)</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation>重复 (&amp;R)</translation>
+        <translation>重复(&amp;R)</translation>
     </message>
     <message>
         <source>Show the action history for the selected item only. This changes the effect of the undo/redo buttons to act on the object or document.</source>
@@ -30274,7 +30278,7 @@ X: %4, Y: %5</translation>
     </message>
     <message>
         <source>&amp;Search:</source>
-        <translation>搜索 (&amp;S):</translation>
+        <translation>搜索(&amp;S):</translation>
     </message>
     <message>
         <source>Enter the search phrase. Then press Enter.</source>
@@ -30394,7 +30398,7 @@ Would you like to start the system&apos;s default browser instead?</source>
     </message>
     <message>
         <source>Select &amp;Printer:</source>
-        <translation>选择印刷机 (&amp;P):</translation>
+        <translation>选择印刷机(&amp;P):</translation>
     </message>
     <message>
         <source>Margins</source>
@@ -30406,19 +30410,19 @@ Would you like to start the system&apos;s default browser instead?</source>
     </message>
     <message>
         <source>&amp;Top:</source>
-        <translation>顶部 (&amp;T):</translation>
+        <translation>顶部(&amp;T):</translation>
     </message>
     <message>
         <source>&amp;Bottom:</source>
-        <translation>底部 (&amp;B):</translation>
+        <translation>底部(&amp;B):</translation>
     </message>
     <message>
         <source>&amp;Left:</source>
-        <translation>左边 (&amp;L):</translation>
+        <translation>左边(&amp;L):</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>确认 (&amp;O)</translation>
+        <translation>确认(&amp;O)</translation>
     </message>
     <message>
         <source>Alt+O</source>
@@ -30426,7 +30430,7 @@ Would you like to start the system&apos;s default browser instead?</source>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>取消 (&amp;C)</translation>
+        <translation>取消(&amp;C)</translation>
     </message>
     <message>
         <source>Alt+C</source>
@@ -30505,7 +30509,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     <name>WMFImportPlugin</name>
     <message>
         <source>Import &amp;WMF...</source>
-        <translation>导入 WMF (&amp;W)...</translation>
+        <translation>导入 WMF(&amp;W)...</translation>
     </message>
     <message>
         <source>Imports WMF Files</source>
@@ -30722,11 +30726,11 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Linear</source>
-        <translation type="unfinished"/>
+        <translation>线性</translation>
     </message>
     <message>
         <source>Radial</source>
-        <translation type="unfinished"/>
+        <translation>放射</translation>
     </message>
     <message>
         <source>Move Vector</source>
@@ -30742,7 +30746,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>4 Colors</source>
-        <translation type="unfinished"/>
+        <translation>四色</translation>
     </message>
     <message>
         <source>Diamond</source>
@@ -30762,7 +30766,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Transparency</source>
-        <translation type="unfinished"/>
+        <translation>透明度</translation>
     </message>
     <message>
         <source>Color:</source>
@@ -30770,7 +30774,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Transparency:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">透明度：</translation>
     </message>
     <message>
         <source>Edit Colors</source>
@@ -30794,7 +30798,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished"/>
+        <translation>填充</translation>
     </message>
     <message>
         <source>Fill Mode</source>
@@ -30814,7 +30818,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Conical</source>
-        <translation type="unfinished"/>
+        <translation>锥(Conical)</translation>
     </message>
     <message>
         <source>Patch Mesh</source>
@@ -30822,7 +30826,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Distance:</source>
-        <translation type="unfinished"/>
+        <translation>距离：</translation>
     </message>
     <message>
         <source>Angle:</source>
@@ -30862,7 +30866,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Pad</source>
-        <translation type="unfinished"/>
+        <translation>格板</translation>
     </message>
     <message>
         <source>Opacity:</source>
@@ -30873,7 +30877,7 @@ converting their vector data into Scribus objects.</source>
     <name>gradientAddEditDialog</name>
     <message>
         <source>Edit Gradient</source>
-        <translation type="unfinished"/>
+        <translation>编辑渐变</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -30913,15 +30917,15 @@ please choose another one.</source>
     </message>
     <message>
         <source>&amp;Importer:</source>
-        <translation>导入工具 (&amp;I):</translation>
+        <translation>导入工具(&amp;I):</translation>
     </message>
     <message>
         <source>Import &amp;Text Only</source>
-        <translation>仅导入文字 (&amp;T)</translation>
+        <translation>仅导入文字(&amp;T)</translation>
     </message>
     <message>
         <source>&amp;Encoding:</source>
-        <translation>编码 (&amp;E):</translation>
+        <translation>编码(&amp;E):</translation>
     </message>
 </context>
 <context>
@@ -30943,15 +30947,15 @@ please choose another one.</source>
     <name>imagedialog</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>对话框</translation>
     </message>
     <message>
         <source>Fit to Window</source>
-        <translation type="unfinished"/>
+        <translation>适应窗口</translation>
     </message>
     <message>
         <source>Custom Zoom</source>
-        <translation type="unfinished"/>
+        <translation>自定义缩放</translation>
     </message>
     <message>
         <source>%</source>
@@ -30959,7 +30963,7 @@ please choose another one.</source>
     </message>
     <message>
         <source>Original Size</source>
-        <translation type="unfinished"/>
+        <translation>原始尺寸</translation>
     </message>
     <message>
         <source>Close</source>
@@ -30971,7 +30975,7 @@ please choose another one.</source>
     </message>
     <message>
         <source>Set zoom to 100%</source>
-        <translation type="unfinished"/>
+        <translation>缩放到 100%</translation>
     </message>
 </context>
 <context>
@@ -31014,11 +31018,11 @@ please choose another one.</source>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation>移除 (&amp;R)</translation>
+        <translation>移除(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation>打开 (&amp;O)</translation>
+        <translation>打开(&amp;O)</translation>
     </message>
     <message>
         <source>Downloading Templates</source>
@@ -31070,26 +31074,26 @@ please choose another one.</source>
     </message>
     <message>
         <source>&amp;About</source>
-        <translation>关于 (&amp;A)</translation>
+        <translation>关于(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation>帮助 (&amp;H)</translation>
+        <translation>帮助(&amp;H)</translation>
     </message>
     <message>
         <source>&amp;Preview</source>
-        <translation>预览 (&amp;P)</translation>
+        <translation>预览(&amp;P)</translation>
     </message>
 </context>
 <context>
     <name>nftwidget</name>
     <message>
         <source>&amp;Remove</source>
-        <translation>移除 (&amp;R)</translation>
+        <translation>移除(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation>打开 (&amp;O)</translation>
+        <translation>打开(&amp;O)</translation>
     </message>
     <message>
         <source>All</source>
@@ -31177,15 +31181,15 @@ please choose another one.</source>
     </message>
     <message>
         <source>&amp;About</source>
-        <translation>关于 (&amp;A)</translation>
+        <translation>关于(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Preview</source>
-        <translation>预览 (&amp;P)</translation>
+        <translation>预览(&amp;P)</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation>帮助 (&amp;H)</translation>
+        <translation>帮助(&amp;H)</translation>
     </message>
 </context>
 <context>
@@ -31258,7 +31262,7 @@ please choose another one.</source>
     </message>
     <message>
         <source>Symbol</source>
-        <translation type="unfinished"/>
+        <translation>符号</translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -31358,7 +31362,7 @@ please choose another one.</source>
     </message>
     <message>
         <source>Resizable</source>
-        <translation type="unfinished"/>
+        <translation>可变</translation>
     </message>
 </context>
 <context>
@@ -31369,11 +31373,11 @@ please choose another one.</source>
     </message>
     <message>
         <source>C&amp;lear</source>
-        <translation>清除 (&amp;l)</translation>
+        <translation>清除(&amp;l)</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>删除 (&amp;D)</translation>
+        <translation>删除(&amp;D)</translation>
     </message>
     <message>
         <source>Choose a previously saved filter</source>
@@ -31412,11 +31416,11 @@ please choose another one.</source>
     </message>
     <message>
         <source>remove match</source>
-        <translation type="unfinished"/>
+        <translation>删除匹配</translation>
     </message>
     <message>
         <source>do not remove match</source>
-        <translation type="unfinished"/>
+        <translation>不删除匹配</translation>
     </message>
     <message>
         <source>words</source>
@@ -31567,15 +31571,15 @@ please choose another one.</source>
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="unfinished"/>
+        <translation>渐变</translation>
     </message>
     <message>
         <source>Linear</source>
-        <translation type="unfinished"/>
+        <translation>线性</translation>
     </message>
     <message>
         <source>Radial</source>
-        <translation type="unfinished"/>
+        <translation>放射</translation>
     </message>
     <message>
         <source>Move the start of the gradient vector with the left mouse button pressed and move the end of the gradient vector with the right mouse button pressed</source>
@@ -31587,7 +31591,7 @@ please choose another one.</source>
     </message>
     <message>
         <source>Use Luminosity as Alpha</source>
-        <translation type="unfinished"/>
+        <translation>将亮度用作 Alpha</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -31599,34 +31603,34 @@ please choose another one.</source>
     </message>
     <message>
         <source>Use inverted Pattern</source>
-        <translation type="unfinished"/>
+        <translation>使用反转模式</translation>
     </message>
 </context>
 <context>
     <name>weldEditBase</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">从</translation>
     </message>
     <message>
         <source>Move weld Point</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">移动焊点</translation>
     </message>
     <message>
         <source>Move Object</source>
-        <translation type="unfinished"/>
+        <translation>移动对象</translation>
     </message>
     <message>
         <source>End Edit</source>
-        <translation type="unfinished"/>
+        <translation>结束编辑</translation>
     </message>
     <message>
         <source>Edit Weld</source>
-        <translation type="unfinished"/>
+        <translation>编辑焊接</translation>
     </message>
     <message>
         <source>Move Weld Point</source>
-        <translation type="unfinished"/>
+        <translation>移动焊点</translation>
     </message>
 </context>
 </TS>

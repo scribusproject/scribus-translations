@@ -46,7 +46,7 @@
     </message>
     <message>
         <source>Development Team:</source>
-        <translation>Fejlesztő csapat:</translation>
+        <translation>Fejlesztőcsapat:</translation>
     </message>
     <message>
         <source>Official Documentation:</source>
@@ -126,7 +126,7 @@
     </message>
     <message>
         <source>Check for updates to Scribus. No data from your machine will be transferred off it.</source>
-        <translation>Frissítés keresése a Scribushoz. A gépről semmilyen információ nem kerül ki.</translation>
+        <translation>Scribus frissítések keresése. A művelet során semmilyen személyes információ nem kerül továbbításra!</translation>
     </message>
     <message>
         <source>OS/2&amp;#174;/eComStation&amp;#8482; Port:</source>
@@ -162,7 +162,7 @@
     </message>
     <message>
         <source>Check for Updates</source>
-        <translation>Frissítés keresése</translation>
+        <translation>Frissítések keresése</translation>
     </message>
     <message>
         <source>Developer Blog</source>
@@ -396,7 +396,7 @@
     </message>
     <message>
         <source>&amp;All Caps</source>
-        <translation>Csupa &amp;nagybetűs</translation>
+        <translation>&amp;Nagybetűs</translation>
     </message>
     <message>
         <source>Small &amp;Caps</source>
@@ -428,7 +428,7 @@
     </message>
     <message>
         <source>&amp;Ungroup</source>
-        <translation>Csoportosítás &amp;megszüntetése</translation>
+        <translation>Csoport&amp;bontás</translation>
     </message>
     <message>
         <source>Is &amp;Locked</source>
@@ -488,11 +488,11 @@
     </message>
     <message>
         <source>&amp;Attach Text to Path</source>
-        <translation>&amp;Szöveg útvonalra való illesztése</translation>
+        <translation>&amp;Szöveg illesztése útvonalra</translation>
     </message>
     <message>
         <source>&amp;Detach Text from Path</source>
-        <translation>Szö&amp;veg útvonalról való eltávolítása</translation>
+        <translation>Szö&amp;veg eltávolítása útvonalról</translation>
     </message>
     <message>
         <source>&amp;Combine Polygons</source>
@@ -676,7 +676,7 @@
     </message>
     <message>
         <source>Unlink Text Frames</source>
-        <translation>Szövegkeretek szétkapcsolása</translation>
+        <translation>Szövegkeret kapcsolatok megszüntetése</translation>
     </message>
     <message>
         <source>&amp;Eye Dropper</source>
@@ -967,7 +967,7 @@
     </message>
     <message>
         <source>Preview Mode</source>
-        <translation>Előnézetmód</translation>
+        <translation>&amp;Előnézet</translation>
     </message>
     <message>
         <source>Show Layer Indicators</source>
@@ -975,7 +975,7 @@
     </message>
     <message>
         <source>Sticky Tools</source>
-        <translation>Megmaradó eszközök mód</translation>
+        <translation>Eszközművelet ismétlése</translation>
     </message>
     <message>
         <source>&amp;Fit to Height</source>
@@ -1097,7 +1097,7 @@
     </message>
     <message>
         <source>Scribus Homepage</source>
-        <translation>Scribus weboldal</translation>
+        <translation>Scribus weboldala</translation>
     </message>
     <message>
         <source>Scribus Online Documentation</source>
@@ -1109,11 +1109,11 @@
     </message>
     <message>
         <source>Getting Started with Scribus</source>
-        <translation>Bevezetés a Scribusba</translation>
+        <translation>Kezdő lépések</translation>
     </message>
     <message>
         <source>Show Context Menu</source>
-        <translation>Környezetfüggő menü megjelenítése</translation>
+        <translation>Helyi menü megjelenítése</translation>
     </message>
     <message>
         <source>&amp;Manage Images</source>
@@ -1133,7 +1133,7 @@
     </message>
     <message>
         <source>Advanced Select All...</source>
-        <translation>Haladó kijelölés...</translation>
+        <translation>Speciális kijelölés...</translation>
     </message>
     <message>
         <source>Edit Source...</source>
@@ -1241,7 +1241,7 @@
     </message>
     <message>
         <source>Plugin Menu Items</source>
-        <translation>Bővítmény menü elem</translation>
+        <translation>Bővítmények</translation>
     </message>
     <message>
         <source>Others</source>
@@ -1405,7 +1405,7 @@
     </message>
     <message>
         <source>Test Qt Quick</source>
-        <translation>Qt Quick tesztelése</translation>
+        <translation>Qt gyorsteszt</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -1433,7 +1433,7 @@
     </message>
     <message>
         <source>Export the document to PDF</source>
-        <translation>Dokumentum PDF-be való exportálása</translation>
+        <translation>Dokumentum exportálása PDF-be</translation>
     </message>
     <message>
         <source>Create a new document</source>
@@ -1557,7 +1557,7 @@
     </message>
     <message>
         <source>Analyse the document for issues prior to exporting to PDF</source>
-        <translation>Hibakeresés a dokumentumban PDF-be való exportálás előtt</translation>
+        <translation>Dokumentum vizsgálata PDF exportálás előtt</translation>
     </message>
     <message>
         <source>Rotate an item</source>
@@ -1569,7 +1569,7 @@
     </message>
     <message>
         <source>Unlink text frames</source>
-        <translation>Szövegkeretek szétkapcsolása</translation>
+        <translation>Szövegkeret kapcsolatok megszüntetése</translation>
     </message>
     <message>
         <source>Insert 3D annotation</source>
@@ -1577,7 +1577,7 @@
     </message>
     <message>
         <source>Unweld Items</source>
-        <translation>Egymáshoz rögzítés megszüntetése</translation>
+        <translation>Egymáshoz rögzítés feloldása</translation>
     </message>
     <message>
         <source>Weld Items</source>
@@ -1681,7 +1681,7 @@
     </message>
     <message>
         <source>Toggle color management system</source>
-        <translation>Színkezelésrendszer átkapcsolása</translation>
+        <translation>Színkezelés be/ki</translation>
     </message>
     <message>
         <source>Edit Weld</source>
@@ -1790,7 +1790,7 @@
     </message>
     <message>
         <source>Center on vertical axis</source>
-        <translation>Középvonalak igazítása a függőleges tengely mentén</translation>
+        <translation>Középvonalak igazítása a függőleges tengelyhez</translation>
     </message>
     <message>
         <source>Align left sides</source>
@@ -1798,7 +1798,7 @@
     </message>
     <message>
         <source>Center on horizontal axis</source>
-        <translation>Középvonalak igazítása a vízszintes tengely mentén</translation>
+        <translation>Középvonalak igazítása a vízszintes tengelyhez</translation>
     </message>
     <message>
         <source>Align tops</source>
@@ -1806,27 +1806,27 @@
     </message>
     <message>
         <source>Distribute left sides equidistantly</source>
-        <translation>Bal oldali szélek egyenletes távolságban való elosztása</translation>
+        <translation>Egyenletes elosztás, a bal szélekhez viszonyítva</translation>
     </message>
     <message>
         <source>Distribute bottoms equidistantly</source>
-        <translation>Alsó szélek egyenletes távolságban való elosztása</translation>
+        <translation>Egyenletes elosztás, az alsó szélekhez viszonyítva</translation>
     </message>
     <message>
         <source>Distribute centers equidistantly horizontally</source>
-        <translation>Középvonalak egyenletes távolságban való elosztása a vízszintes tengely mentén</translation>
+        <translation>Egyenletes elosztás vízszintesen, a középvonalakhoz viszonyítva</translation>
     </message>
     <message>
         <source>Distribute centers equidistantly vertically</source>
-        <translation>Középvonalak egyenletes távolságban való elosztása a függőleges tengely mentén</translation>
+        <translation>Egyenletes elosztás függőlegesen, a középvonalakhoz viszonyítva</translation>
     </message>
     <message>
         <source>Distribute tops equidistantly</source>
-        <translation>Felső szélek egyenletes távolságban való elosztása</translation>
+        <translation>Egyenletes elosztás, a felső szélekhez viszonyítva</translation>
     </message>
     <message>
         <source>Distribute right sides equidistantly</source>
-        <translation>Jobb oldalai szélek egyenletes távolságban való elosztása</translation>
+        <translation>Egyenletes elosztás, a jobb szélekhez viszonyítva</translation>
     </message>
     <message>
         <source>Guide</source>
@@ -1842,11 +1842,11 @@
     </message>
     <message>
         <source>Distribute the items with the distance specified</source>
-        <translation>Az elemek elosztása a megadott távolságnak megfelelően</translation>
+        <translation>Az elemek elosztása a megadott érték alapján</translation>
     </message>
     <message>
         <source>When distributing by a set distance, reverse the direction of the distribution of items</source>
-        <translation>Ha egy megadott távolsággal történik az elosztás, fordítsa meg az elemek elosztásának irányát</translation>
+        <translation>Az igazítás balról-jobbra vagy felülről-lefelé történik. Megjelölve ezt az irányt lehet megordítani. Az objektumok távolsága a &quot;Távolság&quot; mezőben megadott érték alapján beállítva.</translation>
     </message>
     <message>
         <source>None Selected</source>
@@ -1886,35 +1886,35 @@
     </message>
     <message>
         <source>Make horizontal gaps between items equal</source>
-        <translation>Az elemek közti vízszintes helyek azonossá tétele</translation>
+        <translation>Az elemek között a vízszintes távolság legyen azonos</translation>
     </message>
     <message>
         <source>Make horizontal gaps between items equal to the value specified</source>
-        <translation>Az elemek közti vízszintes helyek a megadott értéknek megfelelővé tétele</translation>
+        <translation>Az elemek vízszintes távolsága a &quot;Távolság&quot; mezőben megadott érték alapján beállítva</translation>
     </message>
     <message>
         <source>Make vertical gaps between items equal</source>
-        <translation>Az elemek közti függőleges helyek azonossá tétele</translation>
+        <translation>Az elemek közötti függőleges távolság legyen azonos</translation>
     </message>
     <message>
         <source>Make vertical gaps between items equal to the value specified</source>
-        <translation>Az elemek közti függőleges helyek a megadott értéknek megfelelővé tétele</translation>
+        <translation>Az elemek függőleges távolsága a &quot;Távolság&quot; mezőben megadott érték alapján beállítva</translation>
     </message>
     <message>
         <source>Make horizontal gaps between items and sides of page equal</source>
-        <translation>Az elemek és az oldal széle közti vízszintes helyek azonossá tétele</translation>
+        <translation>Az elemek vízszintes elosztása az oldal bal és jobb széle között</translation>
     </message>
     <message>
         <source>Make vertical gaps between items and the top and bottom of page margins equal</source>
-        <translation>Az elemek és az oldal alsó valamint felső margója közti függőleges helyek azonossá tétele</translation>
+        <translation>Az elemek elosztása az alsó és felső margók között</translation>
     </message>
     <message>
         <source>Make horizontal gaps between items and sides of page margins equal</source>
-        <translation>Az elemek és az oldal margója közti vízszintes helyek azonossá tétele</translation>
+        <translation>Az elemek elosztása a bal és jobb margók között</translation>
     </message>
     <message>
         <source>Make vertical gaps between items and the top and bottom of page equal</source>
-        <translation>Az elemek és az oldal alsó valamint felső széle közti függőleges helyek azonossá tétele</translation>
+        <translation>Az elemek függőleges elosztása az oldal felső és alsó széle között</translation>
     </message>
     <message>
         <source>Align</source>
@@ -2279,7 +2279,7 @@
     </message>
     <message>
         <source>Add the current word to the your personal spelling dictionary for future use</source>
-        <translation>Felveszi a jelenlegi szót a személyes helyesírási szótárába jövőbeni használatra</translation>
+        <translation>Aktuális szó felvétele a saját helyesírási szótárba</translation>
     </message>
     <message>
         <source>Change the current word that was not found to that shown in the replacement entry field</source>
@@ -2425,7 +2425,7 @@ Hibás a beállítása</translation>
     </message>
     <message>
         <source>Variable number of characters, digits and any of the symbols -. *$/+%.</source>
-        <translation>Váltózó számú számjegy és bármely alábbi szimbólum: -. *$/+%.</translation>
+        <translation>Változó számú számjegy és bármely alábbi szimbólum: -. *$/+%.</translation>
     </message>
     <message>
         <source>Variable number of ASCII characters and special function symbols, starting with the appropriate start character for the initial character set. UCC/EAN-128s must have a mandatory FNC 1 symbol immediately following the start character.</source>
@@ -2433,7 +2433,7 @@ Hibás a beállítása</translation>
     </message>
     <message>
         <source>Variable number of digits and any of the symbols -$:/.+ABCD.</source>
-        <translation>Váltózó számú számjegy és bármely alábbi szimbólum: -$:/.+ABCD.</translation>
+        <translation>Változó számú számjegy és bármely alábbi szimbólum: -$:/.+ABCD.</translation>
     </message>
     <message>
         <source>Variable number of digits. An ITF-14 is 14 characters and does not have a check digit</source>
@@ -2564,7 +2564,7 @@ Hibás a beállítása</translation>
     </message>
     <message>
         <source>Reset the barcode samples</source>
-        <translation>Vonalkód minta alapállapotban hozása</translation>
+        <translation>Vonalkód minta alapállapotba hozása</translation>
     </message>
     <message>
         <source>Alt+I</source>
@@ -2572,7 +2572,7 @@ Hibás a beállítása</translation>
     </message>
     <message>
         <source>If checked, there will be numbers in the barcode too</source>
-        <translation>Bekapcsolva számok is megjelennek a vonalkódban</translation>
+        <translation>Bekapcsolva a számok is megjelennek a vonalkódban</translation>
     </message>
     <message>
         <source>Alt+G</source>
@@ -2580,7 +2580,7 @@ Hibás a beállítása</translation>
     </message>
     <message>
         <source>Draw arrows to be sure of space next the code</source>
-        <translation>Nyíl elhelyezése a kód után a helykihagyás biztosítása miatt</translation>
+        <translation>Nyíl elhelyezése a kód után a helykihagyás biztosítása végett</translation>
     </message>
     <message>
         <source>Colors</source>
@@ -2959,7 +2959,7 @@ Hibás a beállítása</translation>
     </message>
     <message>
         <source>Document Options</source>
-        <translation>Dokumentumbeállítás</translation>
+        <translation>Dokumentum beállítások</translation>
     </message>
     <message>
         <source>Simulate printer on Screen</source>
@@ -3028,7 +3028,7 @@ all colors, rgb or cmyk, are converted to printer color space.</source>
     <message>
         <source>Method of showing colors on the screen which may not print properly.
 This requires very accurate profiles and serves only as a warning.</source>
-        <translation>A képernyőn megjelenő színek módszere miatt a nyomtatás nem megfelelő lehet. Emiatt nagyon precíz profilokra van szükség és csak figyelmeztetésül szolgál.</translation>
+        <translation>Technikai okok miatt a képernyőn és a nyomtatón megjelenő színek eltérhetnek egymástól. Éppen ezért pontosan előállított profilokra van szükség.</translation>
     </message>
     <message>
         <source>Mark Colors out of &amp;Gamut</source>
@@ -3134,11 +3134,11 @@ Ez az átlátszó színnek fenntartott név</translation>
     </message>
     <message>
         <source>Choosing this will make this color a spot color, thus creating another spot when creating plates or separations. This is used most often when a logo or other color needs exact representation or cannot be replicated with CMYK inks. Metallic and fluorescent inks are good examples which cannot be easily replicated with CMYK inks.</source>
-        <translation>Kiválasztva direkt szín jön létre, ily módon a színbontások és lemezek létrehozásakor egy másik folt jön létre. Leggyakrabban emblémáknál vagy más színeknél használatos, ha pontos ábrázolásra van szükség, vagy CMYK nyomdafestékkel nem elállíthatók a színek. A fémes vagy a fluoreszkáló nyomdafestékek jó példák arra, hogy mit nem lehet létrehozni CMYK festékekkel.</translation>
+        <translation>Kiválasztva direkt szín jön létre, ily módon a színbontások és lemezek létrehozásakor ez egy másik spot-ot eredményez. Leggyakrabban emblémáknál vagy más színeknél használatos, ha pontos ábrázolásra van szükség, vagy CMYK nyomdafestékkel nem állíthatók elő a színek. A fémes vagy a fluoreszkáló nyomdafestékek jó példák arra, hogy mit nem lehet létrehozni CMYK festékekkel.</translation>
     </message>
     <message>
         <source>If color management is enabled, a triangle warning indicator is a warning that the color maybe outside of the color gamut of the current printer profile selected. What this means is the color may not print exactly as indicated on screen. More hints about gamut warnings are in the online help under Color Management.</source>
-        <translation>Aktív színkezelés esetén egy kis háromszögű figyelmeztető jelzés látható, ha a szín valószínűleg kívül esik a kiválasztott nyomtató-profil színkorlátján. Ez azt jelenti, hogy a szín nyomtatásban valószínűleg nem úgy jelenik meg, mint a képernyőn. A színkorlát (gamut) figyelmeztetésekről további útmutató az online dokumentáció Színkezelés fejezetében található.</translation>
+        <translation>Ha a színkezelés aktív, és a dokumentum tartalmaz olyan elemet, melynek színei kívül esnek a nyomtató-profil színkorlátján, erre az elem jobb alsó sarkában megjelenő jelzés figyelmeztet. Ez azt jelenti, hogy a szín nyomtatásban valószínűleg nem úgy jelenik majd meg, mint a képernyőn. A színkorlát ‒ gamut ‒ figyelmeztetésekről további útmutató az online dokumentáció Színkezelés fejezetében található.</translation>
     </message>
     <message>
         <source>HSV Color Map</source>
@@ -3316,7 +3316,7 @@ Adjon meg egy másik nevet.</translation>
     </message>
     <message>
         <source>Difference between the selected value and the counted ones. Refer to documentation for more information.</source>
-        <translation>Különbség a kijelölt érték és a számított között. További információért forduljon a dokumentációhoz.</translation>
+        <translation>Különbség a kiválasztott érték és a számított között. További információt a dokumentációban talál.</translation>
     </message>
     <message>
         <source>Select one of the methods to create a color scheme. Refer to documentation for more information.</source>
@@ -3793,8 +3793,7 @@ Document Liberation Project számára: http://www.documentliberation.org</transl
     <message>
         <source>You can see a thumbnail if you press and hold down the right mouse button.
 The Insert key inserts a Glyph into the Selection below and the Delete key removes the last inserted one</source>
-        <translation>A másodlagos egérgomb lenyomva tartásával előnézet jelenik meg.
-A Beszúrás gomb hozzáad egy betűkészletjelet a kiválasztáshoz, a Törlés gomb pedig letörli az utoljára hozzáadottat</translation>
+        <translation>A jobb egérgomb lenyomva tartásával előnézet jelenik meg. A Beszúrás gomb hozzáad egy betűkészletjelet a kiválasztáshoz, a Törlés gomb pedig törli az utoljára hozzáadottat</translation>
     </message>
     <message>
         <source>Insert &amp;Code:</source>
@@ -3875,7 +3874,7 @@ A Beszúrás gomb hozzáad egy betűkészletjelet a kiválasztáshoz, a Törlés
     </message>
     <message>
         <source>No Problems found</source>
-        <translation>Nincs probléma</translation>
+        <translation>Minden rendben!</translation>
     </message>
     <message>
         <source>Page </source>
@@ -3939,7 +3938,7 @@ A Beszúrás gomb hozzáad egy betűkészletjelet a kiválasztáshoz, a Törlés
     </message>
     <message>
         <source>Ignore found errors and continue to export or print. Be sure to understand the errors you are ignoring before continuing.</source>
-        <translation>A fellelt hibák mellőzése és folytatás exportálással vagy nyomtatással. Győződjön meg a hiba mibenlétéről, mielőtt mellőzi és tovább megy.</translation>
+        <translation>A fellelt hibák mellőzése és folytatás exportálással vagy nyomtatással. Győződjön meg a hiba mibenlétéről, mielőtt mellőzi azt és folytatja.</translation>
     </message>
     <message>
         <source>Rerun the document scan to check corrections you may have made</source>
@@ -4021,11 +4020,11 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>When some imported document uses non-embedded fonts, then their rendering will be wrong, unless by chance you have them installed on their system, but that cannot be guaranteed in case you want to share the resulting document.</source>
-        <translation>Ha az importált dokumentum nem beágyazott betűkészleteket tartalmaz, akkor a megjelenítése rossz lesz, hacsak nincs telepítve a rendszerre, de ez nem garantálható, ha szeretnénk megosztani másokkal a dokumentumot.</translation>
+        <translation>Ha a dokumentum importálásakor nem kerül beágyazásra a betűkészlet, akkor előfordulhat, hogy emiatt a dokumentum másik számítógépen vagy rendszeren hibásan fog megjelenni!</translation>
     </message>
     <message>
         <source>This is a user definable setting serving as a caution for high resolution images, which may lead to unnecessarily large files.</source>
-        <translation>Ez a felhasználó által szábályozható beállítás biztosítja a nagy felbontású képek elkerülését, amelyek fölöslegesen nagy fájlméretet okozhatnak.</translation>
+        <translation>Ezzel a beállítással lehet szabályozni, hogy a dokumentumba túlzottan nagy felbontású képek kerüljenek, melyek fölöslegesen nagy fájlméretet okoznának.</translation>
     </message>
     <message>
         <source>mage doesnt fit the whole space you reserved for it. Maybe this is intended, or maybe this is caused by bad inner placement or scale. The result will either be a cropped image or white space around the image.</source>
@@ -4033,11 +4032,11 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>This warning alerts you that you are using a bitmap based graphic format that is typically not used for high resolution images (.gif is one of those). This may result in poor viewing quality (for example: when commercially printed, viewed on a high-resolution screens, etc...). If your PDF will be printed commercially, there are some printing systems that will have difficulty printing these types of images.</source>
-        <translation>A figyelmeztetés jelzi, hogy egy olyan bitképes képformátumot alkalmazunk, amely tipikusan nem alkalmas nagy felbontásra (a GIF egyike ezeknek). Ez alacsony nyomatminőséget eredményez (pl. nyomdában, nagy felbontású képernyőn, stb.) Ha a PDF nyomdában lesz kivietelezve, előfordulhat, hogy a rendszernek nehézségei akadnak ezekkel a képtípusokkal.</translation>
+        <translation>A figyelmeztetés jelzi, hogy egy olyan bitképes képformátumot próbáltunk használni, mely nem alkalmas nagy felbontásra (a GIF egyike ezeknek). Ez alacsony nyomatminőséget eredményez (pl. nyomdában, nagy felbontású képernyőn, stb.) Ha a PDF nyomdában lesz kinyomtatva, előfordulhat, hogy komoly problémák lesznek a nyomtatással.</translation>
     </message>
     <message>
         <source>This is a user definable setting serving as a caution for low resolution images, which may lead to poor quality output.</source>
-        <translation>Ez a felhasználó által szábályozható beállítás biztosítja a kis felbontású képek elkerülését, amelyek rossz kimenti minőséget okozhatnak.</translation>
+        <translation>Ezzel a beállítással lehet szabályozni, hogy a dokumentumba túlzottan kis felbontású képek kerüljenek, melyek gyenge nyomatminőséget okoznának.</translation>
     </message>
     <message>
         <source>You have one or more characters which do not have a corresponding glyph in your chosen font.</source>
@@ -4053,11 +4052,11 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>PDF supports many different ways to represent the color of any object including RGB, CMYK and Spot (aka Separation) colors. Some of the PDF standards, such as PDF/X-1a, require the only CMYK and Spot colors be used.</source>
-        <translation>A PDF több módot biztosít egy objektum színének képviselére: RGB, CMYK, direkt színek. Néhány PDF szabvány, mint pl. a PDF/X-1a kizárólag CMYK vagy direkt színeket kezel.</translation>
+        <translation>A PDF szabvány sokrétűen támogatja a különböző színterek megjelenítését, beleértve az RGB, CMYK és direkt (más néven „separation”) színtereket is. Néhány PDF szabvány, mint pl. a PDF/X-1a viszont kizárólag csak a CMYK vagy direkt színeket kezeli.</translation>
     </message>
     <message>
         <source>The warning is verifying for you that there is a PDF loaded into an Image Frame, where it will be rasterized or converted to a bitmap. Its resolution may be less than ideal. See PDF Export to learn how to minimize this problem.</source>
-        <translation>A figyelmeztetés jelzi, hogy PDF van betöltve egy képkeretbe, ahol az raszteres képpé lesz alakítva. A felbontása valószínűleg kévésbbé lesz ideális. A PDF exportálási beállításokban minimalizálhatjuk a problémát.</translation>
+        <translation>A figyelmeztetés jelzi, hogy PDF van betöltve egy képkeretbe, ahol az raszteres képpé lesz alakítva. A felbontása valószínűleg kevésbé lesz ideális. A PDF exportálási beállításokban minimalizálhatjuk a problémát.</translation>
     </message>
     <message>
         <source>There is more text than can show in the frame as sized. Nonvisible excess characters like spaces and carriage returns may trigger this if nothing appears to be missing.</source>
@@ -4496,7 +4495,7 @@ currently %2 x %3 DPI</source>
     <message>
         <source>Full Color Blindness</source>
         <comment>Color Blindness - Full Color Blindness</comment>
-        <translation>Teljes színvakság</translation>
+        <translation>Színek nélkül</translation>
     </message>
     <message>
         <source>Custom: </source>
@@ -5059,7 +5058,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Field delimiter:</source>
-        <translation>Mező határoló:</translation>
+        <translation>Mezőhatároló:</translation>
     </message>
     <message>
         <source>(TAB)</source>
@@ -5067,7 +5066,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Value delimiter:</source>
-        <translation>Érték határoló:</translation>
+        <translation>Értékhatároló:</translation>
     </message>
     <message>
         <source>First row is a header</source>
@@ -5103,7 +5102,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Page Set</source>
-        <translation>Oldal beállítás</translation>
+        <translation>Oldalbeállítás</translation>
     </message>
     <message>
         <source>All Pages</source>
@@ -5242,7 +5241,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Downscale to page size</source>
-        <translation>Felnagyítás a lap méretéhez</translation>
+        <translation>Nagyítás a lap méretéhez</translation>
     </message>
     <message>
         <source>Upscale to page size</source>
@@ -5316,7 +5315,7 @@ currently %2 x %3 DPI</source>
     <name>DialogsAPI</name>
     <message>
         <source>Alert - Scribus</source>
-        <translation>Fifyelmeztetés - Scribus</translation>
+        <translation>Figyelmeztetés - Scribus</translation>
     </message>
 </context>
 <context>
@@ -6334,7 +6333,7 @@ Wesselényinél mázol Quitóban</translation>
     </message>
     <message>
         <source>Fonts Preview</source>
-        <translation>Betűkészletszemle</translation>
+        <translation>Betűkészletek</translation>
     </message>
     <message>
         <source>&amp;Quick Search:</source>
@@ -6350,7 +6349,7 @@ Wesselényinél mázol Quitóban</translation>
     </message>
     <message>
         <source>Sample text to display</source>
-        <translation>Megjelenő minta szöveg</translation>
+        <translation>Megjelenő mintaszöveg</translation>
     </message>
     <message>
         <source>Se&amp;t</source>
@@ -6393,11 +6392,11 @@ Wesselényinél mázol Quitóban</translation>
     <name>FontPreviewPlugin</name>
     <message>
         <source>&amp;Font Preview...</source>
-        <translation>&amp;Betűkészletszemle...</translation>
+        <translation>&amp;Betűkészletek...</translation>
     </message>
     <message>
         <source>Font Preview dialog</source>
-        <translation>Betűkészletszemle párbeszédablak</translation>
+        <translation>Betűkészletek párbeszédablak</translation>
     </message>
     <message>
         <source>Sorting, searching and browsing available fonts.</source>
@@ -6432,7 +6431,7 @@ Wesselényinél mázol Quitóban</translation>
     </message>
     <message>
         <source>If you select OK, then save, these substitutions are made permanent in the document.</source>
-        <translation>Ha az OK-ra kattint, majd elmenti, akkor a a helyettesítés állandóvá válik a dokumentumban.</translation>
+        <translation>A OK-ra kattintva, majd mentve a helyettesítés állandóvá válik a dokumentumban.</translation>
     </message>
     <message>
         <source>Enabling this tells Scribus to use these replacements for missing fonts permanently in all future layouts. This can be reverted or changed in File &gt; Preferences &gt; Fonts.</source>
@@ -7081,7 +7080,7 @@ Ignore List</source>
     </message>
     <message>
         <source>User Comment:</source>
-        <translation>Felhasználói megjegyzés:</translation>
+        <translation>Felhasználó megjegyzései:</translation>
     </message>
     <message>
         <source>Camera Model:</source>
@@ -7145,7 +7144,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Choose which one should be imported</source>
-        <translation>Válassza ki, hogy mely kerüljün importálásra</translation>
+        <translation>Válasszuk ki, mi kerüljön importálásra</translation>
     </message>
     <message>
         <source>Use the pdf part</source>
@@ -7280,7 +7279,7 @@ converting their vector data into Scribus objects.</source>
     <message>
         <source>Imports most Calamus Vector Graphics files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation>A legtöbb Calamus vektografikus fájlt képes az aktuális dokumentumba importálni, a vektoros adataikat Scribus objektumokká konvertálva.</translation>
+        <translation>A legtöbb Calamus Vector Graphics fájlt képes az aktuális dokumentumba importálni, a vektoros adataikat Scribus objektumokká konvertálva.</translation>
     </message>
 </context>
 <context>
@@ -8217,7 +8216,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>All Pages</source>
-        <translation>Minden oldal</translation>
+        <translation>Minden oldalon</translation>
     </message>
     <message>
         <source>...</source>
@@ -8301,7 +8300,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Range of Pages</source>
-        <translation>Oldaltartomány</translation>
+        <translation>Oldaltartományon</translation>
     </message>
     <message>
         <source>Custom Position</source>
@@ -8313,7 +8312,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&lt;b&gt;Insert a text frame&lt;/b&gt;&lt;br/&gt;A text frame allows you to enter any text in a defined position with the formatting you choose. You may select a text file on the Options tab if you want to immediately import a document into the frame. Scribus supports a wide variety of importable formats from plain text to OpenOffice.org.&lt;br/&gt;Your text may be edited and formatted on the page directly or in the Story Editor.</source>
-        <translation>&lt;b&gt;Szövegkeret beszúrása&lt;/b&gt;&lt;br/&gt;A szövegkeret lehetővé teszi bármilyen szöveg beírását, formázását és elhelyezését az oldalon. A Beállítások fülön egy szövegfájlt megadva azonnal importálhat egy dokumentumot a keretbe. A Scribus számos importálható formátumot támogat az egyszerű szövegfájltól az OpenOffice.org-ig.&lt;br/&gt;A szöveg közvetlenül az oldalon is szerkeszthető és formázható éppúgy mint a Szövegszerkesztőben.</translation>
+        <translation>&lt;b&gt;Szövegkeret beszúrása&lt;/b&gt;&lt;br/&gt;A szövegkeret lehetővé teszi tetszőleges szöveg beírását, formázását és elhelyezését az oldalon. A Beállítások fülön egy szövegfájlt megadva azonnal importálhat egy dokumentumot a keretbe. A Scribus számos importálható formátumot támogat az egyszerű szövegfájltól az OpenOffice.org-ig.&lt;br/&gt;A szöveg közvetlenül az oldalon is szerkeszthető és formázható éppúgy mint a Szövegszerkesztőben.</translation>
     </message>
     <message>
         <source>&lt;b&gt;Insert an image frame&lt;/b&gt;&lt;br/&gt;An image frame allows you to place an image onto your page. Various image effects may be applied or combined including transparencies, brightness, and posterisation that allow retouching or the creation of interesting visual results. Image scaling and shaping is performed with the Properties Palette.</source>
@@ -8329,15 +8328,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Place the new frames on the current page, on all pages or on a selected range</source>
-        <translation>Új keret elhelyezése az aktuális oldalon vagy minden oldalon vagy egy megjelölt tartományon</translation>
+        <translation>Új keret elhelyezése az aktuális oldalon, minden oldalon vagy egy megjelölt tartományban</translation>
     </message>
     <message>
         <source>Insert the frame on the current page only</source>
-        <translation>Keret beszúrása csak az aktuális oldalra</translation>
+        <translation>Keret beszúrása csak a jelenlegi oldalra</translation>
     </message>
     <message>
         <source>Insert one frame for each existing page</source>
-        <translation>Keretek beszúrása minden egyes oldalra</translation>
+        <translation>Keret beszúrása minden oldalra</translation>
     </message>
     <message>
         <source>Insert frames on a range of pages</source>
@@ -8345,7 +8344,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Range of pages to insert frames on</source>
-        <translation>Oldaltartomány ahová a keret beszúrásra kerülnek</translation>
+        <translation>Oldaltartomány ahová a keretek beszúrásra kerülnek</translation>
     </message>
     <message>
         <source>Position the new frame in relation to the page</source>
@@ -8393,7 +8392,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Insert the new frame with a custom size</source>
-        <translation>Egyedi méretű új beszúrt keret</translation>
+        <translation>Új, egyedi méretű keret beszúrása</translation>
     </message>
     <message>
         <source>Width of the inserted frame</source>
@@ -8533,7 +8532,7 @@ p, li { white-space: pre-wrap; }
     <name>JavaDocs</name>
     <message>
         <source>New Script</source>
-        <translation>Új utasítás</translation>
+        <translation>Új parancsfájl</translation>
     </message>
     <message>
         <source>Edit JavaScripts</source>
@@ -8648,7 +8647,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>An editor for this frame is already running!</source>
-        <translation>Már fut egy ehhez a kerethez tartozó szerkesztő!</translation>
+        <translation>A kerethez tartozó szerkesztő már meg van nyitva!</translation>
     </message>
     <message>
         <source>Editor running!</source>
@@ -8695,7 +8694,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Do you want to delete all objects on this layer too?</source>
-        <translation>Valóban törölhető az ezen a rétegen lévő összes objektum is?</translation>
+        <translation>Valóban törölhetőek a réteggel együtt a tartalmazott objektumok is?</translation>
     </message>
     <message>
         <source>Opacity:</source>
@@ -8775,23 +8774,23 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Color of the Layer Indicator - Each layer has a color assigned to display on the canvas when layer indicators are enabled. You can double click to edit the color. </source>
-        <translation>Rétegjelző színe – Ha a rétegjelzők be vannak kapcsolva, minden réteghez csatolva van egy szín a rajzvásznon. Dupla kattintással szerkeszthető a szín.</translation>
+        <translation>Rétegjelző színe – Ha a rétegjelzők be vannak kapcsolva, a rajzvásznon minden réteg egy színnel lesz megjelölve. A szín dupla kattintással módosítható.</translation>
     </message>
     <message>
         <source>Make Layer Visible - Uncheck to hide the layer from the display </source>
-        <translation>Réteg láthatósága – A jelölés megszüntetésével a réteg nem jelenik meg</translation>
+        <translation>Réteg láthatósága – Csak a megjelölt réteg látható.</translation>
     </message>
     <message>
         <source>Print Layer - Uncheck to disable printing. </source>
-        <translation>Réteg nyomtatása – A jelölés megszüntetésével a réteg nem kerül nyomtatásra.</translation>
+        <translation>Réteg nyomtatása – Csak a megjelölt réteg kerül nyomtatásra.</translation>
     </message>
     <message>
         <source>Lock or Unlock Layer - Unchecked is unlocked </source>
-        <translation>Réteg zárolása vagy zárolás feloldása – A jelölés megszüntetésével a réteg zárolása feloldódik</translation>
+        <translation>Réteg zárolása vagy feloldása – A megjelölt rétegen nem lehet módosításokat végrehajtani.</translation>
     </message>
     <message>
         <source>Outline Mode - Toggles the &apos;wireframe&apos; display of objects to speed the display of very complex objects.</source>
-        <translation>Körvonal mód – Átváltás „drótvázas” megjelenítésre, ezzel a nagyon összetett objektumok megjelenítése felgyorsul.</translation>
+        <translation>Körvonal mód – Megjelölve csak az objektumok körvonala lesz látható, így a dokumentum megjelenítése gyorsul.</translation>
     </message>
     <message>
         <source>Selects the Blendmode, works only in PDF 1.4</source>
@@ -8819,15 +8818,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Make text in lower layers flow around objects - Enabling this forces text in lower layers to flow around objects of the layer for which this option has been enabled</source>
-        <translation>Az alsóbb rétegen lévő szövegek körbefuttatása az objektumok körül - Kikényszeríthető az alsóbb rétegek szöveginek a körbefuttatása azon rétegek objektumai körül, mely rétegre be van állatíva ez a kapcsoló</translation>
+        <translation>Rétegszintű körbefuttatás – Megjelölve az alsó rétegek szövegtartalma körbefuthatja a felső rétegek objektumait.</translation>
     </message>
     <message>
         <source>Name of the Layer - Double click on the name of a layer to edit the name</source>
-        <translation>Réteg neve – dupla kattintással szerkeszthető a réteg neve</translation>
+        <translation>Réteg neve – Dupla kattintással szerkeszthető.</translation>
     </message>
     <message>
         <source>Select Objects on Layer - Check to enable selecting. </source>
-        <translation>Rétegen lévő objektumok kijelölése - Kijelölve bekapcsolható.</translation>
+        <translation>Rétegműveletek – Megjelölve a réteg objektumai akkor is szerkeszthetőek maradnak, ha a réteg nem aktív.</translation>
     </message>
 </context>
 <context>
@@ -9130,7 +9129,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Apply the margin changes to all existing pages in the document</source>
-        <translation>Margó változások alkalmazása a dokumentum összes létező oldalára</translation>
+        <translation>Megváltozott margóbeállítások alkalmazása a dokumentum összes oldalán</translation>
     </message>
     <message>
         <source>Printer Margins...</source>
@@ -9138,7 +9137,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Import the margins for the selected page size from the available printers.</source>
-        <translation>A margó importálása a kijelölt oldalmérethez az elérhető nyomtatóktól.</translation>
+        <translation>Margóbeállítások importálása a kijelölt oldalmérethez az elérhető nyomtatóktól.</translation>
     </message>
     <message>
         <source>Apply settings to:</source>
@@ -9154,7 +9153,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Apply the margin changes to all existing master pages in the document</source>
-        <translation>A margók módosításának alkalmazása a dokumentumban található összes mesteroldalra</translation>
+        <translation>Módosított margóbeállítások alkalmazása a dokumentum összes mesteroldalára</translation>
     </message>
     <message>
         <source>Margin Guides</source>
@@ -9170,19 +9169,19 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Distance for bleed from the top of the physical page</source>
-        <translation>A kifutó számára fenntartott távolság a lap felső szélétől</translation>
+        <translation>Kifutó magassága a lap tetején</translation>
     </message>
     <message>
         <source>Distance for bleed from the bottom of the physical page</source>
-        <translation>A kifutó számára fenntartott távolság a lap alsó szélétől</translation>
+        <translation>Kifutó magassága a lap alján</translation>
     </message>
     <message>
         <source>Distance for bleed from the left of the physical page</source>
-        <translation>A kifutó számára fenntartott távolság a lap bal szélétől</translation>
+        <translation>Kifutó szélessége a lap bal oldalán</translation>
     </message>
     <message>
         <source>Distance for bleed from the right of the physical page</source>
-        <translation>A kifutó számára fenntartott távolság a lap jobb szélétől</translation>
+        <translation>Kifutó szélessége a lap  jobb oldalán</translation>
     </message>
     <message>
         <source>Bleeds</source>
@@ -9206,11 +9205,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Distance between the left margin guide and the edge of the page. If a double-sided, 3 or 4-fold layout is selected, this margin space can be used to achieve the correct margins for binding</source>
-        <translation>A bal oldali margó távolsága az oldal szélétől. Kétoldalas, vagy három- ill. négyrét hajtott elrendezés esetén ezzel a távolsággal lehet megadni a kötésbeni margót</translation>
+        <translation>Bal margó távolsága az oldal szélétől. Kétoldalas, három- vagy négyrét hajtott elrendezés esetén ezzel a távolsággal lehet megadni a kötésmargót</translation>
     </message>
     <message>
         <source>Distance between the right margin guide and the edge of the page. If a double-sided, 3 or 4-fold layout is selected, this margin space can be used to achieve the correct margins for binding</source>
-        <translation>A jobb oldali margó távolsága az oldal szélétől. Kétoldalas, vagy három- ill. négyrét hajtott elrendezés esetén ezzel a távolsággal lehet megadni a kötésbeni margót</translation>
+        <translation>Jobb margó távolsága az oldal szélétől. Kétoldalas, három- vagy négyrét hajtott elrendezés esetén ezzel a távolsággal lehet megadni a kötésmargót</translation>
     </message>
 </context>
 <context>
@@ -9583,7 +9582,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Insert a comma separated list of tokens import where a token can be * for all the pages, 1-5 for a range of pages or a single page number.</source>
-        <translation>Egy vesszővel ellátott listában lehet megadni a jelsort, ahol a * minden oldalt jelöl, az 1-5 egy tartományt jelöl, vagy egy oldalszámot is meg lehet adni.</translation>
+        <translation>Vesszővel elválasztott listában lehet megadni a jelsort, melyben a * minden oldalt, az 1-5 egy tartományt jelöl, de megadható oldalszám is.</translation>
     </message>
     <message>
         <source>&amp;Select...</source>
@@ -9994,7 +9993,7 @@ Ha nincs kijelölve egy köröcske, az összes alaphelyzetbe lesz állítva.</tr
     </message>
     <message>
         <source>Start a document from a template made by other users or yourself (f.e. for documents you have a constant style).</source>
-        <translation>A dokumentum egy felhasználó által készített sablonból való indítása (pl. egy dokumentum, mely állandó stílussal készül).</translation>
+        <translation>A dokumentum egy felhasználó által készített sablonból történő indítása (pl. egy dokumentum, mely állandó stílussal készül).</translation>
     </message>
 </context>
 <context>
@@ -10041,11 +10040,11 @@ Ha nincs kijelölve egy köröcske, az összes alaphelyzetbe lesz állítva.</tr
     </message>
     <message>
         <source>Distance between the left margin guide and the edge of the page. If a double-sided, 3 or 4-fold layout is selected, this margin space can be used to achieve the correct margins for binding</source>
-        <translation>A bal oldali margó távolsága az oldal szélétől. Kétoldalas, vagy három- ill. négyrét hajtott elrendezés esetén ezzel a távolsággal lehet megadni a kötésbeni margót</translation>
+        <translation>Bal margó távolsága az oldal szélétől. Kétoldalas, három- vagy négyrét hajtott elrendezés esetén ezzel a távolsággal lehet megadni a kötésmargót</translation>
     </message>
     <message>
         <source>Distance between the right margin guide and the edge of the page. If a double-sided, 3 or 4-fold layout is selected, this margin space can be used to achieve the correct margins for binding</source>
-        <translation>A jobb oldali margó távolsága az oldal szélétől. Kétoldalas, vagy három- ill. négyrét hajtott elrendezés esetén ezzel a távolsággal lehet megadni a kötésbeni margót</translation>
+        <translation>Jobb margó távolsága az oldal szélétől. Kétoldalas, három- vagy négyrét hajtott elrendezés esetén ezzel a távolsággal lehet megadni a kötésmargót</translation>
     </message>
     <message>
         <source>&amp;Inside:</source>
@@ -10069,7 +10068,7 @@ Ha nincs kijelölve egy köröcske, az összes alaphelyzetbe lesz állítva.</tr
     </message>
     <message>
         <source>Import the margins for the selected page size from the available printers.</source>
-        <translation>A margó importálása a kijelölt oldalmérethez az elérhető nyomtatóktól.</translation>
+        <translation>Margóbeállítások importálása a kijelölt oldalmérethez az elérhető nyomtatóktól</translation>
     </message>
 </context>
 <context>
@@ -10120,7 +10119,7 @@ Ha nincs kijelölve egy köröcske, az összes alaphelyzetbe lesz állítva.</tr
     </message>
     <message>
         <source>&amp;Reset Contour Line</source>
-        <translation>&amp;Kontúrvonal alaphelyzetbe hozása</translation>
+        <translation>&amp;Kontúrvonal alaphelyzetbe állítása</translation>
     </message>
     <message>
         <source>Move Control Points Independently</source>
@@ -10212,7 +10211,7 @@ Ha nincs kijelölve egy köröcske, az összes alaphelyzetbe lesz állítva.</tr
     </message>
     <message>
         <source>Value to Enlarge or Shrink By</source>
-        <translation>érték, amellyel növelhető vagy csökkenthető az útvonal</translation>
+        <translation>Érték, amellyel növelhető vagy csökkenthető az útvonal</translation>
     </message>
     <message>
         <source>Set Contour to Image Clip</source>
@@ -10323,7 +10322,7 @@ Ha nincs kijelölve egy köröcske, az összes alaphelyzetbe lesz állítva.</tr
     </message>
     <message>
         <source>Remove if empty</source>
-        <translation>Eltávolítás üresedéskor</translation>
+        <translation>Eltávolítás, ha üres</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -10396,7 +10395,7 @@ Ha nincs kijelölve egy köröcske, az összes alaphelyzetbe lesz állítva.</tr
     <message>
         <source>New notes style will be add to document only after pressing Apply button.
 You cannot switch to different notes style before you apply that new one or press Cancel button and exit from adding mode.</source>
-        <translation>Az új jegyzetstílus csak az Alamazás gombra kattintva kerül a dokumentumba.
+        <translation>Az új jegyzetstílus csak az Alkalmaz gombra kattintva kerül a dokumentumba.
 Nem lehet átváltani más stílusra, míg nem alkalmazzuk a változásokat, vagy a Mégse gombbal ki nem lépünk az új stílus hozzáadásából.</translation>
     </message>
 </context>
@@ -10423,7 +10422,7 @@ Nem lehet átváltani más stílusra, míg nem alkalmazzuk a változásokat, vag
     </message>
     <message>
         <source>Imports most OpenOffice.org Draw files into the current document, converting their vector data into Scribus objects.</source>
-        <translation>A legtöbb OpenOffice.org Ábra fájlt képes az aktuális dokumentumba importálni, a vektoros adataikat Scribus objektumokká konvertálva.</translation>
+        <translation>A legtöbb OpenOffice.org Draw fájlt képes az aktuális dokumentumba importálni, a vektoros adataikat Scribus objektumokká konvertálva.</translation>
     </message>
     <message>
         <source>OpenOffice.org 1.x Draw</source>
@@ -10503,7 +10502,7 @@ Nem lehet átváltani más stílusra, míg nem alkalmazzuk a változásokat, vag
     </message>
     <message>
         <source>Shaded Vertices</source>
-        <translation>Arnyékos csúcsok</translation>
+        <translation>Árnyékos csúcsok</translation>
     </message>
     <message>
         <source>Illustration</source>
@@ -11575,7 +11574,7 @@ Gyakran csak arra használatos, hogy az oldalak a teljes rajzvásznat elfoglalj�
     </message>
     <message>
         <source>Location on the canvas where the first page of the document is placed</source>
-        <translation>Megadja az első oldal helyét a rajzvásznon</translation>
+        <translation>A dokumentum első oldalának helye, a többi oldalhoz viszonyítva</translation>
     </message>
 </context>
 <context>
@@ -11660,7 +11659,7 @@ Gyakran csak arra használatos, hogy az oldalak a teljes rajzvásznat elfoglalj�
     </message>
     <message>
         <source>&lt;&lt;&lt; Return to Normal Page Mode</source>
-        <translation>&lt;&lt;&lt; Visszatérés a normál oldalmódba</translation>
+        <translation>&lt;&lt;&lt; Vissza a szerkesztett oldalakhoz</translation>
     </message>
 </context>
 <context>
@@ -11687,15 +11686,15 @@ Gyakran csak arra használatos, hogy az oldalak a teljes rajzvásznat elfoglalj�
     </message>
     <message>
         <source>List of master pages in the document. Master page names may be dragged onto the page view below to apply master pages, or onto the empty space between pages to create new pages.</source>
-        <translation>Mesteroldalak listája a dokumentumban. A mesteroldalak nevének az alul látható oldalak képére való húzásával alkalmazható a mesteroldal az oldalra, vagy az oldalak között üres helyre húzva új oldalak hozhatók létre az adott mesteroldallal.</translation>
+        <translation>A dokumentumhoz tartozó mesteroldalak. A mesteroldalt ráhúzva a lent látható oldalak valamelyikére, az oldal felveszi annak tulajdonságait. Új oldal létrehozásához a mesteroldalt a dokumentum oldalai között lévő üres területre kell húzni. Az új oldal helyét egy vastag, sötét sáv fogja jelezni.</translation>
     </message>
     <message>
         <source>List of normal pages in the document, shown with the document layout. Pages may be dragged to rearrange or delete them.</source>
-        <translation>Normál oldalak listája a dokumentumban, ahogy a dokumentum elrendezésben szerepelnek. Az oldalak húzásával újrarendezhetők, ill. törölhetők.</translation>
+        <translation>A szerkesztett oldalak abban az elrendezésben, ahogy a dokumentumban megjelennek. Az oldalak húzással átrendezhetőek, vagy a szemetes ikonra dobva törölhetőek.</translation>
     </message>
     <message>
         <source>Drag pages or master pages onto the trash to delete them</source>
-        <translation>Kukába húzva törölhetők az oldalak, ill. mesteroldalak</translation>
+        <translation>Szemetes ‒ Ide húzva törölhető bármelyik oldal vagy mesteroldal a dokumentumból</translation>
     </message>
 </context>
 <context>
@@ -12072,11 +12071,11 @@ További információkért lásd a dokumentáció Színek szerkesztése fejezet�
     </message>
     <message>
         <source>Starting Point</source>
-        <translation>Kezdőpontja</translation>
+        <translation>Kiindulópont</translation>
     </message>
     <message>
         <source>End Point</source>
-        <translation>Végpontja</translation>
+        <translation>Végpont</translation>
     </message>
     <message>
         <source>a straight Line</source>
@@ -12151,8 +12150,7 @@ További információkért lásd a dokumentáció Színek szerkesztése fejezet�
     <message>
         <source>The cutting line must cross the polygon and
 both end points must lie outside of the polygon</source>
-        <translation>Az elvágó vonalnak át kell szelnie a sokszöget
-és mindkét végpontjának a sokszög területén kívül kell feküdnie</translation>
+        <translation>Az elvágó vonalnak át kell szelnie a sokszöget és mindkét végpontjának a sokszög területén kívül kell esnie</translation>
     </message>
     <message>
         <source>Cuts a Polygon with a Path.</source>
@@ -12195,7 +12193,7 @@ both end points must lie outside of the polygon</source>
     </message>
     <message>
         <source>Gap between Objects</source>
-        <translation>Hézag az másolatok között</translation>
+        <translation>Hézag a másolatok között</translation>
     </message>
     <message>
         <source>Preview on Canvas</source>
@@ -12262,20 +12260,20 @@ both end points must lie outside of the polygon</source>
     </message>
     <message>
         <source>Unites the shapes</source>
-        <translation>Unió. Alakzatok uniója</translation>
+        <translation>Alakzatok uniója</translation>
     </message>
     <message>
         <source>Intersection of the shapes</source>
-        <translation>Metszet. Alakzatok metszete</translation>
+        <translation>Alakzatok metszete</translation>
     </message>
     <message>
         <source>Result is the area where the two shapes do not intersect</source>
-        <translation>Kizárás. Az eredmény az a terület, ahol a két alakzat nem metszi egymást</translation>
+        <translation>Kizárás, melynek eredménye az a terület, ahol a két alakzat nem metszi egymást</translation>
     </message>
     <message>
         <source>Break apart,
 The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot;</source>
-        <translation>Darabolás. Az eredmény a metszet és a kizárás kombinációja</translation>
+        <translation>Darabolás, melynek eredmény a metszet és a kizárás kombinációja</translation>
     </message>
     <message>
         <source>Custom Colors</source>
@@ -12661,7 +12659,7 @@ p, li { white-space: pre-wrap; }
     <name>PicSearchOptions</name>
     <message>
         <source>The filesystem will be searched for case insensitive file names when you check this on. Remember it is not default on most operating systems except MS Windows</source>
-        <translation>A fájlrendszeren történő keresés nem lesz érzékeny a kis- és nagybetűkre. Figyelem, számos rendszeres ez nem az alapbeállítás, kivéve az MS Windows-t</translation>
+        <translation>A fájlrendszerben történő keresés nem lesz érzékeny a kis- és nagybetűkre. Figyelem, az MS Windows kivételével ez számos rendszerben nem alapbeállítás.</translation>
     </message>
     <message>
         <source>Cancel Search</source>
@@ -14170,7 +14168,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Gaps Between Pages</source>
-        <translation>Oldalak közötti hézag</translation>
+        <translation>Oldalak közötti térköz</translation>
     </message>
     <message>
         <source>Pages</source>
@@ -21877,7 +21875,7 @@ lista hiányos a meghívott funkciók miatt.</translation>
     </message>
     <message>
         <source>Font Preview</source>
-        <translation>Betűkészletszemle</translation>
+        <translation>Betűkészletek</translation>
     </message>
     <message>
         <source>My Plugin</source>
@@ -26840,7 +26838,7 @@ Tekintse meg őket az Elővizsgálóval, hogy javítani tudja</translation>
     </message>
     <message>
         <source>Linking Text Frames</source>
-        <translation type="vanished">Szövegkeretek összekapcsolása</translation>
+        <translation type="vanished">Kapcsolt szövegkeretek</translation>
     </message>
     <message>
         <source>Cannot Convert In-Use Item</source>
@@ -27689,7 +27687,7 @@ Tekintse meg őket az Elővizsgálóval, hogy javítani tudja</translation>
     </message>
     <message>
         <source>&amp;Fonts Preview...</source>
-        <translation>&amp;Betűkészletszemle...</translation>
+        <translation>&amp;Betűkészletek...</translation>
     </message>
     <message>
         <source>&amp;Background...</source>

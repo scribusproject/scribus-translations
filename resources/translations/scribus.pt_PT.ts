@@ -7,7 +7,7 @@
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Analisando arquivo:</translation>
     </message>
     <message>
         <source>Group%1</source>
@@ -126,7 +126,7 @@
     </message>
     <message>
         <source>Check for updates to Scribus. No data from your machine will be transferred off it.</source>
-        <translation>Procurar actualizações do Scribus. Nenhum dado será transferido da sua máquina.</translation>
+        <translation>Procurar atualizações do Scribus. Nenhum dado será transferido da sua máquina.</translation>
     </message>
     <message>
         <source>OS/2&amp;#174;/eComStation&amp;#8482; Port:</source>
@@ -134,27 +134,27 @@
     </message>
     <message>
         <source>Splash Screen:</source>
-        <translation type="unfinished"/>
+        <translation>Tela de abertura:</translation>
     </message>
     <message>
         <source>This panel shows the version, build date and compiled in library support in Scribus.</source>
-        <translation type="unfinished"/>
+        <translation>Este painel mostra a versão, data de construção e compilação na biblioteca de apoio no Scribus.</translation>
     </message>
     <message>
         <source>The C-C-T-F equates to C=littlecms C=CUPS T=TIFF support F=Fontconfig support.Last Letter is the renderer C=cairo or Q=Qt</source>
-        <translation type="unfinished"/>
+        <translation>O CCTF equivale a C = C = LittleCMS CUPS T = F = suporte TIFF Fontconfig support.Last Letter é o representante de C = Q = cairo ou Qt</translation>
     </message>
     <message>
         <source>Missing library support is indicated by a *. This also indicates the version of Ghostscript which Scribus has detected.</source>
-        <translation type="unfinished"/>
+        <translation>Falta de suporte da biblioteca é indicada por um *. Isso também indica a versão do Ghostscript que Scribus detetou.</translation>
     </message>
     <message>
         <source>The Windows version does not use fontconfig or CUPS libraries.</source>
-        <translation type="unfinished"/>
+        <translation>A versão do Windows não usa bibliotecas fontconfig ou CUPS.</translation>
     </message>
     <message>
         <source>&lt;p align=&quot;center&quot;&gt;&lt;b&gt;%1 %2&lt;/b&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;%3&lt;br&gt;%4 %5&lt;br&gt;%6&lt;/p&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;p align=&quot;center&quot;&gt;&lt;b&gt;%1 %2&lt;/b&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;%3&lt;br&gt;%4 %5&lt;br&gt;%6&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Scribus Version</source>
@@ -162,39 +162,39 @@
     </message>
     <message>
         <source>Check for Updates</source>
-        <translation type="unfinished"/>
+        <translation>Verificar atualizações</translation>
     </message>
     <message>
         <source>Developer Blog</source>
-        <translation type="unfinished"/>
+        <translation>Blog do Desenvolvedor</translation>
     </message>
     <message>
         <source>&amp;Licence</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Licença</translation>
     </message>
     <message>
         <source>Unable to open licence file. Please check your install directory or the Scribus website for licencing information.</source>
-        <translation type="unfinished"/>
+        <translation>Não é possível abrir arquivo de licença. Por favor, verifique o seu diretório de instalação ou o site do Scribus para informações de licenciamento.</translation>
     </message>
     <message>
         <source>Doc Translators:</source>
-        <translation type="unfinished"/>
+        <translation>Doc Tradutores:</translation>
     </message>
     <message>
         <source>Webmasters:</source>
-        <translation type="unfinished"/>
+        <translation>Webmasters:</translation>
     </message>
     <message>
         <source>Unable to open %1 file. Please check your install directory or the Scribus website for %1 information.</source>
-        <translation type="unfinished"/>
+        <translation>Não é possível abrir% 1 arquivo. Por favor, verifique o seu diretório de instalação ou o site do Scribus para 1% da informação.</translation>
     </message>
     <message>
         <source>Haiku Port:</source>
-        <translation type="unfinished"/>
+        <translation>Porta Haiku:</translation>
     </message>
     <message>
         <source>SVN Revision: %1</source>
-        <translation type="unfinished"/>
+        <translation>SVN Revisão: %1</translation>
     </message>
 </context>
 <context>
@@ -209,7 +209,7 @@
     </message>
     <message>
         <source>Enabled:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Habilitado:</translation>
     </message>
     <message>
         <source>Release Date:</source>
@@ -233,7 +233,7 @@
     </message>
     <message>
         <source>Scribus: About Plug-ins</source>
-        <translation type="unfinished"/>
+        <translation>Scribus: Sobre Plug-ins</translation>
     </message>
 </context>
 <context>
@@ -264,7 +264,7 @@
     </message>
     <message>
         <source>Save &amp;As...</source>
-        <translation>Salv&amp;ar como...</translation>
+        <translation>Salvar &amp;como...</translation>
     </message>
     <message>
         <source>Re&amp;vert to Saved</source>
@@ -300,7 +300,7 @@
     </message>
     <message>
         <source>&amp;Print...</source>
-        <translation>Im&amp;primir...</translation>
+        <translation>&amp;Imprimir...</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
@@ -336,7 +336,7 @@
     </message>
     <message>
         <source>&amp;Deselect All</source>
-        <translation>&amp;Deselecionar tudo</translation>
+        <translation>&amp;Desmarcar tudo</translation>
     </message>
     <message>
         <source>&amp;Search/Replace...</source>
@@ -368,11 +368,11 @@
     </message>
     <message>
         <source>&amp;Right</source>
-        <translation>Di&amp;reita</translation>
+        <translation>&amp;Direita</translation>
     </message>
     <message>
         <source>&amp;Block</source>
-        <translation>&amp;Bloco</translation>
+        <translation>&amp;Bloquear</translation>
     </message>
     <message>
         <source>&amp;Forced</source>
@@ -384,7 +384,7 @@
     </message>
     <message>
         <source>&amp;Underline</source>
-        <translation>S&amp;ublinhado</translation>
+        <translation>&amp;Sublinhado</translation>
     </message>
     <message>
         <source>Underline &amp;Words</source>
@@ -392,7 +392,7 @@
     </message>
     <message>
         <source>&amp;Strike Through</source>
-        <translation>Risca&amp;do</translation>
+        <translation>&amp;Riscado</translation>
     </message>
     <message>
         <source>&amp;All Caps</source>
@@ -400,7 +400,7 @@
     </message>
     <message>
         <source>Small &amp;Caps</source>
-        <translation>&amp;Versaletes</translation>
+        <translation>Caixa &amp;Pequena</translation>
     </message>
     <message>
         <source>Su&amp;perscript</source>
@@ -424,7 +424,7 @@
     </message>
     <message>
         <source>&amp;Group</source>
-        <translation>A&amp;grupar</translation>
+        <translation>&amp;Agrupar</translation>
     </message>
     <message>
         <source>&amp;Ungroup</source>
@@ -444,7 +444,7 @@
     </message>
     <message>
         <source>Raize to &amp;Top</source>
-        <translation type="unfinished"/>
+        <translation>Subir para &amp;Topo</translation>
     </message>
     <message>
         <source>&amp;Lower</source>
@@ -452,7 +452,7 @@
     </message>
     <message>
         <source>&amp;Raize</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Aumentar</translation>
     </message>
     <message>
         <source>&amp;Attributes...</source>
@@ -460,11 +460,11 @@
     </message>
     <message>
         <source>I&amp;mage Visible</source>
-        <translation>I&amp;magem visível</translation>
+        <translation>I&amp;magem Visível</translation>
     </message>
     <message>
         <source>Embed Image</source>
-        <translation type="unfinished"/>
+        <translation>Incorporar imagem</translation>
     </message>
     <message>
         <source>Is PDF &amp;Bookmark</source>
@@ -576,7 +576,7 @@
     </message>
     <message>
         <source>Show &amp;Frames</source>
-        <translation>Mostrar &amp;Caixas</translation>
+        <translation>Mostrar &amp;Frames</translation>
     </message>
     <message>
         <source>Show &amp;Images</source>
@@ -636,7 +636,7 @@
     </message>
     <message>
         <source>Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Simbolos</translation>
     </message>
     <message>
         <source>&amp;Tools</source>
@@ -700,7 +700,7 @@
     </message>
     <message>
         <source>About &amp;Qt</source>
-        <translation>Sobre a &amp;Qt</translation>
+        <translation>Sobre &amp;Qt</translation>
     </message>
     <message>
         <source>Toolti&amp;ps</source>
@@ -716,7 +716,7 @@
     </message>
     <message>
         <source>Page &amp;Number</source>
-        <translation>Página &amp;número</translation>
+        <translation>Número &amp;página</translation>
     </message>
     <message>
         <source>Copyright</source>
@@ -728,7 +728,7 @@
     </message>
     <message>
         <source>Trademark</source>
-        <translation>Trademark</translation>
+        <translation>Marca registrada</translation>
     </message>
     <message>
         <source>Bullet</source>
@@ -744,7 +744,7 @@
     </message>
     <message>
         <source>Figure Dash</source>
-        <translation>Traço para numerais</translation>
+        <translation>Traço Figura</translation>
     </message>
     <message>
         <source>Quotation Dash</source>
@@ -764,11 +764,11 @@
     </message>
     <message>
         <source>&amp;Normal Resolution</source>
-        <translation>&amp;Média resolução</translation>
+        <translation>&amp;Resolução Normal</translation>
     </message>
     <message>
         <source>&amp;Full Resolution</source>
-        <translation>&amp;Alta resolução</translation>
+        <translation>&amp;Total resolução</translation>
     </message>
     <message>
         <source>Edit Image...</source>
@@ -776,7 +776,7 @@
     </message>
     <message>
         <source>&amp;Update Image</source>
-        <translation>At&amp;ualizar imagem</translation>
+        <translation>&amp;Atualizar imagem</translation>
     </message>
     <message>
         <source>Adjust Frame to Image</source>
@@ -788,7 +788,7 @@
     </message>
     <message>
         <source>Show Control Characters</source>
-        <translation>Mostrar invisíveis</translation>
+        <translation>Mostrar caracteres de controle</translation>
     </message>
     <message>
         <source>&amp;Align and Distribute</source>
@@ -820,7 +820,7 @@
     </message>
     <message>
         <source>&amp;Arrange Pages</source>
-        <translation>Organiz&amp;ar páginas</translation>
+        <translation>&amp;Organizar páginas</translation>
     </message>
     <message>
         <source>Dehyphenate Text</source>
@@ -942,7 +942,7 @@
     <message>
         <source>&amp;Outline</source>
         <comment>type effect</comment>
-        <translation>C&amp;ontorno</translation>
+        <translation>&amp;Contorno</translation>
     </message>
     <message>
         <source>&amp;Outlines</source>
@@ -991,7 +991,7 @@
     </message>
     <message>
         <source>Soft &amp;Hyphen</source>
-        <translation type="unfinished"/>
+        <translation>Soft &amp;Hyphen</translation>
     </message>
     <message>
         <source>&amp;Zero Width Space</source>
@@ -1004,160 +1004,160 @@
     <message>
         <source>Apostrophe</source>
         <comment>Unicode 0x0027</comment>
-        <translation type="unfinished"/>
+        <translation>Apostrophe</translation>
     </message>
     <message>
         <source>Straight Double</source>
         <comment>Unicode 0x0022</comment>
-        <translation type="unfinished"/>
+        <translation>Straight Double</translation>
     </message>
     <message>
         <source>Single Left</source>
         <comment>Unicode 0x2018</comment>
-        <translation type="unfinished"/>
+        <translation>Esquerda única</translation>
     </message>
     <message>
         <source>Single Right</source>
         <comment>Unicode 0x2019</comment>
-        <translation type="unfinished"/>
+        <translation>Direita única</translation>
     </message>
     <message>
         <source>Double Left</source>
         <comment>Unicode 0x201C</comment>
-        <translation type="unfinished"/>
+        <translation>Dupla Esquerda</translation>
     </message>
     <message>
         <source>Double Right</source>
         <comment>Unicode 0x201D</comment>
-        <translation type="unfinished"/>
+        <translation>Dupla Direita</translation>
     </message>
     <message>
         <source>Single Reversed</source>
         <comment>Unicode 0x201B</comment>
-        <translation type="unfinished"/>
+        <translation>única Invertida </translation>
     </message>
     <message>
         <source>Double Reversed</source>
         <comment>Unicode 0x201F</comment>
-        <translation type="unfinished"/>
+        <translation>Dupla Invertida</translation>
     </message>
     <message>
         <source>Single Left Guillemet</source>
         <comment>Unicode 0x2039</comment>
-        <translation type="unfinished"/>
+        <translation>Única Guillemet Esquerda</translation>
     </message>
     <message>
         <source>Single Right Guillemet</source>
         <comment>Unicode 0x203A</comment>
-        <translation type="unfinished"/>
+        <translation>Única Guillemet Direita</translation>
     </message>
     <message>
         <source>Double Left Guillemet</source>
         <comment>Unicode 0x00AB</comment>
-        <translation>&lt;&lt;</translation>
+        <translation>Dupla Guillemet Esquerda</translation>
     </message>
     <message>
         <source>Double Right Guillemet</source>
         <comment>Unicode 0x00BB</comment>
-        <translation>&gt;&gt;</translation>
+        <translation>Dupla Guillemet Direita</translation>
     </message>
     <message>
         <source>Low Single Comma</source>
         <comment>Unicode 0x201A</comment>
-        <translation type="unfinished"/>
+        <translation>Único baixo Comma</translation>
     </message>
     <message>
         <source>Low Double Comma</source>
         <comment>Unicode 0x201E</comment>
-        <translation type="unfinished"/>
+        <translation>Baixo Duplo Comma</translation>
     </message>
     <message>
         <source>CJK Single Left</source>
         <comment>Unicode 0x300C</comment>
-        <translation type="unfinished"/>
+        <translation>CJK Único Esquerdo </translation>
     </message>
     <message>
         <source>CJK Single Right</source>
         <comment>Unicode 0x300D</comment>
-        <translation type="unfinished"/>
+        <translation>CJK Único Direito</translation>
     </message>
     <message>
         <source>CJK Double Left</source>
         <comment>Unicode 0x300E</comment>
-        <translation type="unfinished"/>
+        <translation>CJK Duplo Esquerdo </translation>
     </message>
     <message>
         <source>CJK Double Right</source>
         <comment>Unicode 0x300F</comment>
-        <translation type="unfinished"/>
+        <translation>CJK Duplo Direito</translation>
     </message>
     <message>
         <source>&amp;400%</source>
-        <translation type="unfinished"/>
+        <translation>&amp;400%</translation>
     </message>
     <message>
         <source>Scribus Homepage</source>
-        <translation type="unfinished"/>
+        <translation>Página Web do Scribus</translation>
     </message>
     <message>
         <source>Scribus Online Documentation</source>
-        <translation type="unfinished"/>
+        <translation>Documentação Online do Scribus</translation>
     </message>
     <message>
         <source>Scribus Wiki</source>
-        <translation type="unfinished"/>
+        <translation>Wiki do Scribus</translation>
     </message>
     <message>
         <source>Getting Started with Scribus</source>
-        <translation type="unfinished"/>
+        <translation>Introdução ao Scribus</translation>
     </message>
     <message>
         <source>Show Context Menu</source>
-        <translation type="unfinished"/>
+        <translation>Mostrar Menu de Contexto</translation>
     </message>
     <message>
         <source>&amp;Manage Images</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Gerencie Imagens</translation>
     </message>
     <message>
         <source>&amp;About Plugins</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sobre Plug-ins</translation>
     </message>
     <message>
         <source>Insert Unicode Character Begin Sequence</source>
-        <translation type="unfinished"/>
+        <translation>Insira Carateres Unicode no Inicio da Sequência</translation>
     </message>
     <message>
         <source>Get Vector File...</source>
-        <translation type="unfinished"/>
+        <translation>Obter Arquivo Vectorial ...</translation>
     </message>
     <message>
         <source>Advanced Select All...</source>
-        <translation type="unfinished"/>
+        <translation>Selecionar Tudo Avançado...</translation>
     </message>
     <message>
         <source>Edit Source...</source>
-        <translation type="unfinished"/>
+        <translation>Editar Fonte ...</translation>
     </message>
     <message>
         <source>Replace Colors...</source>
-        <translation type="unfinished"/>
+        <translation>Substituir cores ...</translation>
     </message>
     <message>
         <source>Rulers Relative to Page</source>
-        <translation type="unfinished"/>
+        <translation>Margens relativas à Página</translation>
     </message>
     <message>
         <source>Check for Updates</source>
-        <translation type="unfinished"/>
+        <translation>Verificar atualizações</translation>
     </message>
     <message>
         <source>Number of Pages</source>
-        <translation type="unfinished"/>
+        <translation>Número de Páginas</translation>
     </message>
     <message>
         <source>Adjust Image to Frame</source>
-        <translation type="unfinished"/>
+        <translation>Ajustar imagem à caixa</translation>
     </message>
     <message>
         <source>File</source>
@@ -1181,23 +1181,23 @@
     </message>
     <message>
         <source>&amp;Style</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Formato</translation>
     </message>
     <message>
         <source>Item</source>
-        <translation type="unfinished"/>
+        <translation>Item</translation>
     </message>
     <message>
         <source>&amp;Item</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Item</translation>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"/>
+        <translation>Inserir</translation>
     </message>
     <message>
         <source>I&amp;nsert</source>
-        <translation type="unfinished"/>
+        <translation>I&amp;serir</translation>
     </message>
     <message>
         <source>Page</source>
@@ -1205,19 +1205,19 @@
     </message>
     <message>
         <source>&amp;Page</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Pagina</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"/>
+        <translation>Visualização</translation>
     </message>
     <message>
         <source>&amp;View</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Visualização</translation>
     </message>
     <message>
         <source>Extras</source>
-        <translation type="unfinished"/>
+        <translation>Extras</translation>
     </message>
     <message>
         <source>E&amp;xtras</source>
@@ -1225,35 +1225,35 @@
     </message>
     <message>
         <source>Windows</source>
-        <translation type="unfinished"/>
+        <translation>Janelas</translation>
     </message>
     <message>
         <source>&amp;Windows</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Janelas</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Ajuda</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation type="unfinished"/>
+        <translation>%Ajuda</translation>
     </message>
     <message>
         <source>Plugin Menu Items</source>
-        <translation type="unfinished"/>
+        <translation>Plug-in para itens do menu</translation>
     </message>
     <message>
         <source>Others</source>
-        <translation>Todos</translation>
+        <translation>Outros</translation>
     </message>
     <message>
         <source>Unicode Characters</source>
-        <translation type="unfinished"/>
+        <translation>Carateres Unicode</translation>
     </message>
     <message>
         <source>Move/Resize Value Indicator</source>
-        <translation type="unfinished"/>
+        <translation>Mover/Redimensionar o Indicador de Valor</translation>
     </message>
     <message>
         <source>New &amp;from Template...</source>
@@ -1261,151 +1261,151 @@
     </message>
     <message>
         <source>&amp;Transform</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Transformar</translation>
     </message>
     <message>
         <source>Paste Image from Clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Colar imagem da área de transferência</translation>
     </message>
     <message>
         <source>Insert Rows...</source>
-        <translation type="unfinished"/>
+        <translation>Inserir Linhas ...</translation>
     </message>
     <message>
         <source>Insert Columns...</source>
-        <translation type="unfinished"/>
+        <translation>Inserir Colunas</translation>
     </message>
     <message>
         <source>Delete Rows</source>
-        <translation type="unfinished"/>
+        <translation>Apagar Linhas</translation>
     </message>
     <message>
         <source>Delete Columns</source>
-        <translation type="unfinished"/>
+        <translation>Apagar Colunas</translation>
     </message>
     <message>
         <source>Merge Cells</source>
-        <translation type="unfinished"/>
+        <translation>Unir Celulas</translation>
     </message>
     <message>
         <source>Split Cells...</source>
-        <translation type="unfinished"/>
+        <translation>Separar Celulas </translation>
     </message>
     <message>
         <source>Set Row Heights...</source>
-        <translation type="unfinished"/>
+        <translation>Definir alturas das linhas ...</translation>
     </message>
     <message>
         <source>Set Column Widths...</source>
-        <translation type="unfinished"/>
+        <translation>Definir largura das colunas ...</translation>
     </message>
     <message>
         <source>Distribute Rows Evenly</source>
-        <translation type="unfinished"/>
+        <translation>Distribuir linhas uniformemente</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
-        <translation type="unfinished"/>
+        <translation>Distribuir colunas uniformemente</translation>
     </message>
     <message>
         <source>Adjust Frame to Table</source>
-        <translation type="unfinished"/>
+        <translation>Ajustar a Tabela à moldura</translation>
     </message>
     <message>
         <source>Adjust Table to Frame</source>
-        <translation type="unfinished"/>
+        <translation>Ajuste da tabela para o Quadro</translation>
     </message>
     <message>
         <source>&amp;Frames...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Frames...</translation>
     </message>
     <message>
         <source>Unlink Text Frame with Text Copy</source>
-        <translation type="unfinished"/>
+        <translation>Desvincular Quadro de texto com o texto da cópia</translation>
     </message>
     <message>
         <source>Unlink Text Frame with Text Cut</source>
-        <translation type="unfinished"/>
+        <translation>Desvincular Quadro de texto com texto Cortar</translation>
     </message>
     <message>
         <source>Adjust Frame Height to Text</source>
-        <translation type="unfinished"/>
+        <translation>Ajuste Altura do Quadro ao Texto</translation>
     </message>
     <message>
         <source>Marks...</source>
-        <translation type="unfinished"/>
+        <translation>Marcas ...</translation>
     </message>
     <message>
         <source>Notes Styles...</source>
-        <translation type="unfinished"/>
+        <translation>Notas Modelo ...</translation>
     </message>
     <message>
         <source>Adjust Group</source>
-        <translation type="unfinished"/>
+        <translation>Ajuste Grupo</translation>
     </message>
     <message>
         <source>Anchor Mark</source>
-        <translation type="unfinished"/>
+        <translation>Ancorar Marca</translation>
     </message>
     <message>
         <source>Variable Text</source>
-        <translation type="unfinished"/>
+        <translation>Texto Variável</translation>
     </message>
     <message>
         <source>Reference to Item</source>
-        <translation type="unfinished"/>
+        <translation>Referência ao Item</translation>
     </message>
     <message>
         <source>Reference to Mark</source>
-        <translation type="unfinished"/>
+        <translation>Referência para Marca</translation>
     </message>
     <message>
         <source>Foot/Endnote</source>
-        <translation type="unfinished"/>
+        <translation>Paço/Nota final</translation>
     </message>
     <message>
         <source>Edit Mark</source>
-        <translation type="unfinished"/>
+        <translation>Editar Marca</translation>
     </message>
     <message>
         <source>Update Marks</source>
-        <translation type="unfinished"/>
+        <translation>Atualizar Marcas</translation>
     </message>
     <message>
         <source>Snap to Items</source>
-        <translation type="unfinished"/>
+        <translation>Encaixe de Itens</translation>
     </message>
     <message>
         <source>Colors and Fills...</source>
-        <translation type="unfinished"/>
+        <translation>Cores e preenchimentos...</translation>
     </message>
     <message>
         <source>Patterns</source>
-        <translation type="unfinished"/>
+        <translation>Padrões</translation>
     </message>
     <message>
         <source>Inline Items</source>
-        <translation type="unfinished"/>
+        <translation>Items em Linha</translation>
     </message>
     <message>
         <source>&amp;Symbol</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Simbolo</translation>
     </message>
     <message>
         <source>&amp;Update Document</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Atualização de Documento</translation>
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"/>
+        <translation>Quadro</translation>
     </message>
     <message>
         <source>&amp;Table</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Quadro</translation>
     </message>
     <message>
         <source>Test Qt Quick</source>
-        <translation type="unfinished"/>
+        <translation>Teste Qt Quick</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -1421,39 +1421,39 @@
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"/>
+        <translation>Refazer</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"/>
+        <translation>Desfazer</translation>
     </message>
     <message>
         <source>Close the current document</source>
-        <translation type="unfinished"/>
+        <translation>Feche o documento atual</translation>
     </message>
     <message>
         <source>Export the document to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Exportar documento para PDF</translation>
     </message>
     <message>
         <source>Create a new document</source>
-        <translation type="unfinished"/>
+        <translation>Criar um novo documento</translation>
     </message>
     <message>
         <source>Open an existing document</source>
-        <translation type="unfinished"/>
+        <translation>Abrir documento existente</translation>
     </message>
     <message>
         <source>Print the document</source>
-        <translation type="unfinished"/>
+        <translation>Imprimir o documento</translation>
     </message>
     <message>
         <source>Save the current document</source>
-        <translation type="unfinished"/>
+        <translation>Salve o documento atual</translation>
     </message>
     <message>
         <source>Copy item properties</source>
-        <translation type="unfinished"/>
+        <translation>Copiar propriedades do item</translation>
     </message>
     <message>
         <source>Edit contents of a frame</source>
@@ -2052,7 +2052,7 @@
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"/>
+        <translation>Ajuda</translation>
     </message>
     <message>
         <source>NewParagraph</source>
@@ -2064,7 +2064,7 @@
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"/>
+        <translation>Inserir</translation>
     </message>
     <message>
         <source>Cross</source>
@@ -3556,7 +3556,7 @@ Page: %2</source>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Analisando arquivo:</translation>
     </message>
     <message>
         <source>Parsing failed!
@@ -3581,7 +3581,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Analisando arquivo:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -4697,7 +4697,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"/>
+        <translation>Quadro</translation>
     </message>
     <message>
         <source>Default Table Style</source>
@@ -4766,7 +4766,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Windows</source>
-        <translation type="unfinished"/>
+        <translation>Janelas</translation>
     </message>
     <message>
         <source>Meta</source>
@@ -5250,7 +5250,7 @@ As bibliotecas nao suportadas são indicadas por um *</translation>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Analisando arquivo:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -5514,7 +5514,7 @@ As bibliotecas nao suportadas são indicadas por um *</translation>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Analisando arquivo:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -5795,7 +5795,7 @@ failed!</source>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Analisando arquivo:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -6160,7 +6160,7 @@ Use 72 dpi for Images intended for the Screen</source>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Analisando arquivo:</translation>
     </message>
     <message>
         <source>Parsing failed!
@@ -6659,7 +6659,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;Page</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Pagina</translation>
     </message>
     <message>
         <source>Alt+P</source>
@@ -7019,7 +7019,7 @@ Ignore List</source>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Analisando arquivo:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -8097,7 +8097,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Inline Items</source>
-        <translation type="unfinished"/>
+        <translation>Items em Linha</translation>
     </message>
 </context>
 <context>
@@ -9259,7 +9259,7 @@ p, li { white-space: pre-wrap; }
     <name>MarkAnchor</name>
     <message>
         <source>Anchor Mark</source>
-        <translation type="unfinished"/>
+        <translation>Anchor Mark</translation>
     </message>
 </context>
 <context>
@@ -9353,7 +9353,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Variable Text</source>
-        <translation type="unfinished"/>
+        <translation>Texto Variável</translation>
     </message>
     <message>
         <source>Marks to Items</source>
@@ -10633,7 +10633,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Analisando arquivo:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -11229,7 +11229,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"/>
+        <translation>Quadro</translation>
     </message>
 </context>
 <context>
@@ -11737,7 +11737,7 @@ Often used for allowing items to be placed across page spreads</source>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Analisando arquivo:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -11965,7 +11965,7 @@ Veja a secção de Edição de Cores da documentação para mais detalhes.</tran
     </message>
     <message>
         <source>Patterns</source>
-        <translation type="unfinished"/>
+        <translation>Padrões</translation>
     </message>
     <message>
         <source>&amp;Import</source>
@@ -12440,7 +12440,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Analisando arquivo:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -12510,7 +12510,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Analisando arquivo:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -13280,7 +13280,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Insert</source>
-        <translation type="unfinished"/>
+        <translation>Inserir</translation>
     </message>
     <message>
         <source>Tag Image(s)</source>
@@ -13649,7 +13649,7 @@ Please choose another one.</source>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Analisando arquivo:</translation>
     </message>
     <message>
         <source>Parsing failed!
@@ -16081,7 +16081,7 @@ A value of 0 means unlimited hyphenations.</source>
     </message>
     <message>
         <source>Extras</source>
-        <translation type="unfinished"/>
+        <translation>Extras</translation>
     </message>
     <message>
         <source>Enable Presentation Effects</source>
@@ -19018,7 +19018,7 @@ Transparency</source>
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"/>
+        <translation>Quadro</translation>
     </message>
     <message>
         <source>Cells</source>
@@ -20051,7 +20051,7 @@ Transparency</source>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Analisando arquivo:</translation>
     </message>
     <message>
         <source>Parsing failed!
@@ -25608,7 +25608,7 @@ convertendo seus dados vectoriais em objectos do Scribus.</translation>
     </message>
     <message>
         <source>Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Simbolos</translation>
     </message>
     <message>
         <source>Plain Text</source>
@@ -27311,7 +27311,7 @@ Recomend-se o uso do verificador pré-publicação para corrigi-los</translation
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Analisando arquivo:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -27438,7 +27438,7 @@ Recomend-se o uso do verificador pré-publicação para corrigi-los</translation
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Analisando arquivo:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -27950,7 +27950,7 @@ Recomend-se o uso do verificador pré-publicação para corrigi-los</translation
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Analisando arquivo:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -28008,7 +28008,7 @@ Recomend-se o uso do verificador pré-publicação para corrigi-los</translation
     <name>SymbolPalette</name>
     <message>
         <source>Symbols</source>
-        <translation type="unfinished"/>
+        <translation>Simbolos</translation>
     </message>
 </context>
 <context>
@@ -30483,7 +30483,7 @@ Would you like to start the system&apos;s default browser instead?</source>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Analisando arquivo:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -30498,7 +30498,7 @@ Would you like to start the system&apos;s default browser instead?</source>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Analisando arquivo:</translation>
     </message>
     <message>
         <source>Parsing failed!
@@ -30540,7 +30540,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Analisando arquivo:</translation>
     </message>
 </context>
 <context>
@@ -30566,7 +30566,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Analisando arquivo:</translation>
     </message>
     <message>
         <source>Group%1</source>
@@ -30585,7 +30585,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Analisando arquivo:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -30631,7 +30631,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Analisando arquivo:</translation>
     </message>
     <message>
         <source>Generating Items</source>
@@ -31082,7 +31082,7 @@ para ficheiros desse tipo.</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation type="unfinished"/>
+        <translation>%Ajuda</translation>
     </message>
     <message>
         <source>&amp;Preview</source>
@@ -31193,7 +31193,7 @@ para ficheiros desse tipo.</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation type="unfinished"/>
+        <translation>%Ajuda</translation>
     </message>
 </context>
 <context>
