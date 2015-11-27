@@ -19,7 +19,7 @@
     <message>
         <location filename="../../../scribus/plugins/import/ai/importai.cpp" line="2495"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Menghasilkan Item-Item</translation>
     </message>
 </context>
 <context>
@@ -67,7 +67,7 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="307"/>
         <source>Haiku Port:</source>
-        <translation type="unfinished"/>
+        <translation>Port Haiku:</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="309"/>
@@ -177,7 +177,7 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="275"/>
         <source>This panel shows the version, build date and compiled in library support in Scribus.</source>
-        <translation type="unfinished"/>
+        <translation>Panel ini menampilkan versi, tanggal build dan compiled dalam dukungan pustaka di Scribus.</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="276"/>
@@ -192,7 +192,7 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="278"/>
         <source>The Windows version does not use fontconfig or CUPS libraries.</source>
-        <translation type="unfinished"/>
+        <translation>Versi Windows tidak menggunakan fontconfig atau pustaka CUPS.</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="186"/>
@@ -202,13 +202,13 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="186"/>
         <source>Scribus Version</source>
-        <translation type="unfinished"/>
+        <translation>Versi Scribus</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="233"/>
         <location filename="../../../scribus/about.cpp" line="657"/>
         <source>Check for Updates</source>
-        <translation type="unfinished"/>
+        <translation>Cek Pemutakhiran</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="655"/>
@@ -218,27 +218,27 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="357"/>
         <source>Developer Blog</source>
-        <translation type="unfinished"/>
+        <translation>Blog Pengembang</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="240"/>
         <source>&amp;Licence</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Lisensi</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="249"/>
         <source>Unable to open licence file. Please check your install directory or the Scribus website for licencing information.</source>
-        <translation type="unfinished"/>
+        <translation>Gagal membuka berkas lisensi. Mohon periksa direktori instalasi Anda atau situs Scribus untuk informasi lisensi. </translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="313"/>
         <source>Doc Translators:</source>
-        <translation type="unfinished"/>
+        <translation>Penerjemah Dokumentasi</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="317"/>
         <source>Webmasters:</source>
-        <translation type="unfinished"/>
+        <translation>Webmaster:</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="452"/>
@@ -253,47 +253,47 @@
     <message>
         <location filename="../../../scribus/aboutplugins.cpp" line="68"/>
         <source>Filename:</source>
-        <translation type="unfinished"/>
+        <translation>Nama berkas:</translation>
     </message>
     <message>
         <location filename="../../../scribus/aboutplugins.cpp" line="69"/>
         <source>Version:</source>
-        <translation type="unfinished"/>
+        <translation>Versi:</translation>
     </message>
     <message>
         <location filename="../../../scribus/aboutplugins.cpp" line="72"/>
         <source>Enabled:</source>
-        <translation type="unfinished"/>
+        <translation>Aktif:</translation>
     </message>
     <message>
         <location filename="../../../scribus/aboutplugins.cpp" line="73"/>
         <source>Release Date:</source>
-        <translation type="unfinished"/>
+        <translation>Tanggal Rilis:</translation>
     </message>
     <message>
         <location filename="../../../scribus/aboutplugins.cpp" line="80"/>
         <source>Description:</source>
-        <translation type="unfinished"/>
+        <translation>Deskripsi:</translation>
     </message>
     <message>
         <location filename="../../../scribus/aboutplugins.cpp" line="81"/>
         <source>Author(s):</source>
-        <translation type="unfinished"/>
+        <translation>Pembuat:</translation>
     </message>
     <message>
         <location filename="../../../scribus/aboutplugins.cpp" line="82"/>
         <source>Copyright:</source>
-        <translation type="unfinished"/>
+        <translation>Hak cipta:</translation>
     </message>
     <message>
         <location filename="../../../scribus/aboutplugins.cpp" line="83"/>
         <source>License:</source>
-        <translation type="unfinished"/>
+        <translation>Lisensi</translation>
     </message>
     <message>
         <location filename="../../../scribus/aboutplugins.ui" line="13"/>
         <source>Scribus: About Plug-ins</source>
-        <translation type="unfinished"/>
+        <translation>Scribus: Tentang Pengaya</translation>
     </message>
 </context>
 <context>
@@ -301,12 +301,12 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1269"/>
         <source>&amp;New</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Baru</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1271"/>
         <source>&amp;Open...</source>
-        <translation type="unfinished"/>
+        <translation>B&amp;uka...</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1272"/>
@@ -316,22 +316,22 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1273"/>
         <source>&amp;Save</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Simpan</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1274"/>
         <source>Save &amp;As...</source>
-        <translation type="unfinished"/>
+        <translation>Simp&amp;an Sebagai... </translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1275"/>
         <source>Re&amp;vert to Saved</source>
-        <translation type="unfinished"/>
+        <translation>K_embalikan ke Tersimpan</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1276"/>
         <source>Collect for O&amp;utput...</source>
-        <translation type="unfinished"/>
+        <translation>Kumpulkan untuk &amp;Output...</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1277"/>
@@ -341,17 +341,17 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1278"/>
         <source>Append &amp;Text...</source>
-        <translation type="unfinished"/>
+        <translation>Bubuhkan &amp;Teks</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1279"/>
         <source>Get Image...</source>
-        <translation type="unfinished"/>
+        <translation>Tambahkan Gambar...</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1282"/>
         <source>Save &amp;Text...</source>
-        <translation type="unfinished"/>
+        <translation>Simpan &amp;Teks</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1283"/>
@@ -361,22 +361,22 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1284"/>
         <source>Save as P&amp;DF...</source>
-        <translation type="unfinished"/>
+        <translation>Simpan sebagai P&amp;DF...</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1285"/>
         <source>Document &amp;Setup...</source>
-        <translation type="unfinished"/>
+        <translation>Pengaturan Do&amp;kumen</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1286"/>
         <source>P&amp;references...</source>
-        <translation type="unfinished"/>
+        <translation>P&amp;referensi...</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1287"/>
         <source>&amp;Print...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Cetak...</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1288"/>
@@ -386,39 +386,39 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1289"/>
         <source>&amp;Quit</source>
-        <translation type="unfinished"/>
+        <translation>Ke&amp;luar</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1291"/>
         <source>&amp;Undo</source>
-        <translation type="unfinished"/>
+        <translation>%Undo</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1292"/>
         <source>&amp;Redo</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Redo</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1293"/>
         <source>&amp;Item Action Mode</source>
-        <translation type="unfinished"/>
+        <translation>Mode Aksi &amp;Item</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1294"/>
         <source>Cu&amp;t</source>
-        <translation type="unfinished"/>
+        <translation>Po&amp;tong</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1295"/>
         <location filename="../../../scribus/actionmanager.cpp" line="1297"/>
         <source>&amp;Copy</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Salin</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1296"/>
         <location filename="../../../scribus/actionmanager.cpp" line="1298"/>
         <source>&amp;Paste</source>
-        <translation type="unfinished"/>
+        <translation>Tem&amp;pel</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1299"/>
@@ -438,17 +438,17 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1302"/>
         <source>Select &amp;All</source>
-        <translation type="unfinished"/>
+        <translation>Pilih Semu&amp;a</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1304"/>
         <source>&amp;Deselect All</source>
-        <translation type="unfinished"/>
+        <translation>Le&amp;pas Pilih Semua</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1305"/>
         <source>&amp;Search/Replace...</source>
-        <translation type="unfinished"/>
+        <translation>Ca&amp;ri/Ganti</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1306"/>
@@ -473,7 +473,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1312"/>
         <source>&amp;Master Pages...</source>
-        <translation type="unfinished"/>
+        <translation>Halaman &amp;Master...</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1313"/>
@@ -1529,7 +1529,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1505"/>
         <source>Check for Updates</source>
-        <translation type="unfinished"/>
+        <translation>Cek Pemutakhiran</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1522"/>
@@ -3155,7 +3155,7 @@ Configuration invalid</source>
     <message>
         <location filename="../../../scribus/plugins/barcodegenerator/barcode.cpp" line="39"/>
         <source>Scribus frontend for Pure PostScript Barcode Writer</source>
-        <translation type="unfinished"/>
+        <translation>Frontend Scribus untuk Pure PostScript Barcode Writer</translation>
     </message>
 </context>
 <context>
@@ -3570,7 +3570,7 @@ Configuration invalid</source>
     <message>
         <location filename="../../../scribus/buttonicon.cpp" line="29"/>
         <source>Icon Placement</source>
-        <translation type="unfinished"/>
+        <translation>Penempatan Ikon</translation>
     </message>
     <message>
         <location filename="../../../scribus/buttonicon.cpp" line="38"/>
@@ -3655,7 +3655,7 @@ Configuration invalid</source>
     <message>
         <location filename="../../../scribus/buttonicon.cpp" line="90"/>
         <source>Icon</source>
-        <translation type="unfinished"/>
+        <translation>Ikon</translation>
     </message>
     <message>
         <location filename="../../../scribus/buttonicon.cpp" line="117"/>
@@ -4838,7 +4838,7 @@ currently %2 x %3 DPI</source>
     <message>
         <location filename="../../../scribus/colorm.cpp" line="83"/>
         <source>&amp;New</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Baru</translation>
     </message>
     <message>
         <location filename="../../../scribus/colorm.cpp" line="85"/>
@@ -5052,7 +5052,7 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="258"/>
         <source>&amp;Save</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Simpan</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="261"/>
@@ -6036,7 +6036,7 @@ See the Edit Colors section of the documentation for more details.</source>
         <location filename="../../../scribus/cupsoptions.cpp" line="168"/>
         <location filename="../../../scribus/cupsoptions.cpp" line="178"/>
         <source>Orientation</source>
-        <translation type="unfinished"/>
+        <translation>Orientasi</translation>
     </message>
     <message>
         <location filename="../../../scribus/cupsoptions.cpp" line="175"/>
@@ -6053,7 +6053,7 @@ See the Edit Colors section of the documentation for more details.</source>
         <location filename="../../../scribus/cupsoptions.cpp" line="185"/>
         <location filename="../../../scribus/cupsoptions.cpp" line="198"/>
         <source>N-Up Printing</source>
-        <translation type="unfinished"/>
+        <translation>N-Up Printing</translation>
     </message>
     <message>
         <location filename="../../../scribus/cupsoptions.cpp" line="192"/>
@@ -6205,7 +6205,7 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/plugins/import/cvg/importcvg.cpp" line="332"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Menghasilkan Item-Item</translation>
     </message>
 </context>
 <context>
@@ -6643,7 +6643,7 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../../scribus/docitemattrprefs.ui" line="92"/>
         <source>&amp;Copy</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Salin</translation>
     </message>
     <message>
         <location filename="../../../scribus/docitemattrprefs.ui" line="95"/>
@@ -6773,7 +6773,7 @@ failed!</source>
     <message>
         <location filename="../../../scribus/plugins/import/ps/importps.cpp" line="482"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Menghasilkan Item-Item</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/ps/importps.cpp" line="837"/>
@@ -6809,17 +6809,17 @@ failed!</source>
     <message>
         <location filename="../../../scribus/editor.cpp" line="40"/>
         <source>&amp;New</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Baru</translation>
     </message>
     <message>
         <location filename="../../../scribus/editor.cpp" line="43"/>
         <source>&amp;Open...</source>
-        <translation type="unfinished"/>
+        <translation>B&amp;uka...</translation>
     </message>
     <message>
         <location filename="../../../scribus/editor.cpp" line="45"/>
         <source>Save &amp;As...</source>
-        <translation type="unfinished"/>
+        <translation>Simp&amp;an Sebagai... </translation>
     </message>
     <message>
         <location filename="../../../scribus/editor.cpp" line="47"/>
@@ -6834,27 +6834,27 @@ failed!</source>
     <message>
         <location filename="../../../scribus/editor.cpp" line="51"/>
         <source>&amp;Undo</source>
-        <translation type="unfinished"/>
+        <translation>%Undo</translation>
     </message>
     <message>
         <location filename="../../../scribus/editor.cpp" line="54"/>
         <source>&amp;Redo</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Redo</translation>
     </message>
     <message>
         <location filename="../../../scribus/editor.cpp" line="56"/>
         <source>Cu&amp;t</source>
-        <translation type="unfinished"/>
+        <translation>Po&amp;tong</translation>
     </message>
     <message>
         <location filename="../../../scribus/editor.cpp" line="59"/>
         <source>&amp;Copy</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Salin</translation>
     </message>
     <message>
         <location filename="../../../scribus/editor.cpp" line="62"/>
         <source>&amp;Paste</source>
-        <translation type="unfinished"/>
+        <translation>Tem&amp;pel</translation>
     </message>
     <message>
         <location filename="../../../scribus/editor.cpp" line="65"/>
@@ -8257,7 +8257,7 @@ Name of the export file will be &apos;documentname-pagenumber.filetype&apos;</so
     <message>
         <location filename="../../../scribus/ui/helpbrowser.ui" line="96"/>
         <source>&amp;New</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Baru</translation>
     </message>
     <message>
         <location filename="../../../scribus/ui/helpbrowser.ui" line="103"/>
@@ -8275,7 +8275,7 @@ Name of the export file will be &apos;documentname-pagenumber.filetype&apos;</so
         <location filename="../../../scribus/ui/helpbrowser.ui" line="148"/>
         <location filename="../../../scribus/helpbrowser.cpp" line="292"/>
         <source>&amp;Print...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Cetak...</translation>
     </message>
     <message>
         <location filename="../../../scribus/helpbrowser.cpp" line="288"/>
@@ -8385,7 +8385,7 @@ Name of the export file will be &apos;documentname-pagenumber.filetype&apos;</so
     <message>
         <location filename="../../../scribus/helpbrowser.cpp" line="293"/>
         <source>&amp;Quit</source>
-        <translation type="unfinished"/>
+        <translation>Ke&amp;luar</translation>
     </message>
     <message>
         <location filename="../../../scribus/helpbrowser.cpp" line="718"/>
@@ -8622,12 +8622,12 @@ Ignore List</source>
     <message>
         <location filename="../../../scribus/imageinfodialog.cpp" line="135"/>
         <source>Description:</source>
-        <translation type="unfinished"/>
+        <translation>Deskripsi:</translation>
     </message>
     <message>
         <location filename="../../../scribus/imageinfodialog.cpp" line="136"/>
         <source>Copyright:</source>
-        <translation type="unfinished"/>
+        <translation>Hak cipta:</translation>
     </message>
     <message>
         <location filename="../../../scribus/imageinfodialog.cpp" line="137"/>
@@ -8708,18 +8708,19 @@ converting their vector data into Scribus objects.</source>
     <message>
         <location filename="../../../scribus/plugins/import/ps/importpsplugin.cpp" line="57"/>
         <source>Import PostScript...</source>
-        <translation type="unfinished"/>
+        <translation>Impor PostScript...</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/ps/importpsplugin.cpp" line="78"/>
         <source>Imports PostScript Files</source>
-        <translation type="unfinished"/>
+        <translation>Impor Berkas-Berkas PostScript</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/import/ps/importpsplugin.cpp" line="79"/>
         <source>Imports most PostScript files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Impor sebagian besar berkas PostScript ke dalam dokumen yang sekarang,
+mengonversi data vektornya menjadi objek Scribbus</translation>
     </message>
 </context>
 <context>
@@ -8891,7 +8892,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/plugins/imposition/impositionbase.ui" line="487"/>
         <source>Orientation</source>
-        <translation type="unfinished"/>
+        <translation>Orientasi</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/imposition/impositionbase.ui" line="519"/>
@@ -9366,17 +9367,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/insertTable.cpp" line="15"/>
         <source>Insert Table</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan Tabel</translation>
     </message>
     <message>
         <location filename="../../../scribus/insertTable.cpp" line="28"/>
         <source>Number of rows:</source>
-        <translation type="unfinished"/>
+        <translation>Jumlah baris:</translation>
     </message>
     <message>
         <location filename="../../../scribus/insertTable.cpp" line="29"/>
         <source>Number of columns:</source>
-        <translation type="unfinished"/>
+        <translation>Jumlah kolom:</translation>
     </message>
 </context>
 <context>
@@ -11438,7 +11439,7 @@ If no handle is selected all handles will be reset.</source>
     <message>
         <location filename="../../../scribus/pdfopts.cpp" line="116"/>
         <source>&amp;Save</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Simpan</translation>
     </message>
     <message>
         <location filename="../../../scribus/pdfopts.cpp" line="128"/>
@@ -11865,7 +11866,7 @@ If no handle is selected all handles will be reset.</source>
     <message>
         <location filename="../../../scribus/pageitemattributes.ui" line="68"/>
         <source>&amp;Copy</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Salin</translation>
     </message>
     <message>
         <location filename="../../../scribus/pageitemattributes.ui" line="71"/>
@@ -12823,7 +12824,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <message>
         <location filename="../../../scribus/plugins/import/pct/importpct.cpp" line="368"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Menghasilkan Item-Item</translation>
     </message>
 </context>
 <context>
@@ -15318,17 +15319,17 @@ Corners:</source>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/pconsole.ui" line="93"/>
         <source>&amp;Open...</source>
-        <translation type="unfinished"/>
+        <translation>B&amp;uka...</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/pconsole.ui" line="98"/>
         <source>&amp;Save</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Simpan</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/pconsole.ui" line="103"/>
         <source>Save &amp;As...</source>
-        <translation type="unfinished"/>
+        <translation>Simp&amp;an Sebagai... </translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/pconsole.ui" line="71"/>
@@ -15436,7 +15437,7 @@ Corners:</source>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/pconsole.ui" line="108"/>
         <source>&amp;Quit</source>
-        <translation type="unfinished"/>
+        <translation>Ke&amp;luar</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/pconsole.cpp" line="62"/>
@@ -15714,7 +15715,7 @@ Scripter documentation for futher information. </source>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="52"/>
         <source>&amp;Save</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Simpan</translation>
     </message>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="53"/>
@@ -15927,32 +15928,32 @@ Check path and filename.</source>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="84"/>
         <source>Select All</source>
-        <translation type="unfinished"/>
+        <translation>Pilih Semua</translation>
     </message>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="85"/>
         <source>&amp;Undo</source>
-        <translation type="unfinished"/>
+        <translation>%Undo</translation>
     </message>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="86"/>
         <source>&amp;Redo</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Redo</translation>
     </message>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="87"/>
         <source>Cu&amp;t</source>
-        <translation type="unfinished"/>
+        <translation>Po&amp;tong</translation>
     </message>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="88"/>
         <source>&amp;Copy</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Salin</translation>
     </message>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="89"/>
         <source>&amp;Paste</source>
-        <translation type="unfinished"/>
+        <translation>Tem&amp;pel</translation>
     </message>
 </context>
 <context>
@@ -18505,32 +18506,32 @@ Therefore the image may be not correct</source>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="94"/>
         <source>Select All</source>
-        <translation type="unfinished"/>
+        <translation>Pilih Semua</translation>
     </message>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="95"/>
         <source>&amp;Undo</source>
-        <translation type="unfinished"/>
+        <translation>%Undo</translation>
     </message>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="96"/>
         <source>&amp;Redo</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Redo</translation>
     </message>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="97"/>
         <source>Cu&amp;t</source>
-        <translation type="unfinished"/>
+        <translation>Po&amp;tong</translation>
     </message>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="98"/>
         <source>&amp;Copy</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Salin</translation>
     </message>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="99"/>
         <source>&amp;Paste</source>
-        <translation type="unfinished"/>
+        <translation>Tem&amp;pel</translation>
     </message>
 </context>
 <context>
@@ -18553,7 +18554,7 @@ Therefore the image may be not correct</source>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="111"/>
         <source>Normalize</source>
-        <translation type="unfinished"/>
+        <translation>Normalkan</translation>
     </message>
     <message>
         <location filename="../../../scribus/translationdummy.cpp" line="112"/>
@@ -19597,7 +19598,7 @@ Expressed as a percentage of the current white space value.</source>
     <message>
         <location filename="../../../scribus/storyeditor.cpp" line="1397"/>
         <source>Style of current paragraph</source>
-        <translation type="unfinished"/>
+        <translation>Gaya paragraf ini</translation>
     </message>
 </context>
 <context>
@@ -19865,7 +19866,7 @@ converting their vector data into Scribus objects.</source>
     <message>
         <location filename="../../../scribus/plugins/short-words/swprefsgui.cpp" line="92"/>
         <source>&amp;Save</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Simpan</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/short-words/swprefsgui.cpp" line="93"/>
@@ -20826,7 +20827,7 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <location filename="../../../scribus/scribusapp.cpp" line="480"/>
         <source>Scribus Version</source>
-        <translation type="unfinished"/>
+        <translation>Versi Scribus</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusapp.cpp" line="489"/>
@@ -20889,7 +20890,7 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <location filename="../../../scribus/contextmenu.cpp" line="408"/>
         <source>&amp;Paste</source>
-        <translation type="unfinished"/>
+        <translation>Tem&amp;pel</translation>
     </message>
     <message>
         <location filename="../../../scribus/contextmenu.cpp" line="414"/>
@@ -21256,12 +21257,12 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <location filename="../../../scribus/pagepalette.cpp" line="393"/>
         <source>Delete Page?</source>
-        <translation type="unfinished"/>
+        <translation>Hapus Halaman?</translation>
     </message>
     <message>
         <location filename="../../../scribus/pagepalette.cpp" line="394"/>
         <source>Are you sure you want to delete this page?</source>
-        <translation type="unfinished"/>
+        <translation>Anda yakin ingin menghapus halaman ini?</translation>
     </message>
 </context>
 <context>
@@ -21702,22 +21703,22 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <location filename="../../../scribus/storyeditor.cpp" line="1992"/>
         <source>Select &amp;All</source>
-        <translation type="unfinished"/>
+        <translation>Pilih Semu&amp;a</translation>
     </message>
     <message>
         <location filename="../../../scribus/storyeditor.cpp" line="1993"/>
         <source>Cu&amp;t</source>
-        <translation type="unfinished"/>
+        <translation>Po&amp;tong</translation>
     </message>
     <message>
         <location filename="../../../scribus/storyeditor.cpp" line="1994"/>
         <source>&amp;Copy</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Salin</translation>
     </message>
     <message>
         <location filename="../../../scribus/storyeditor.cpp" line="1995"/>
         <source>&amp;Paste</source>
-        <translation type="unfinished"/>
+        <translation>Tem&amp;pel</translation>
     </message>
     <message>
         <location filename="../../../scribus/storyeditor.cpp" line="1996"/>
@@ -21727,7 +21728,7 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <location filename="../../../scribus/storyeditor.cpp" line="1997"/>
         <source>&amp;Search/Replace...</source>
-        <translation type="unfinished"/>
+        <translation>Ca&amp;ri/Ganti</translation>
     </message>
     <message>
         <location filename="../../../scribus/storyeditor.cpp" line="1999"/>
@@ -21885,7 +21886,7 @@ Consider using the Preflight Verifier to correct them</source>
         <location filename="../../../scribus/stylemanager.ui" line="110"/>
         <location filename="../../../scribus/stylemanager.cpp" line="128"/>
         <source>&amp;New</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Baru</translation>
     </message>
     <message>
         <location filename="../../../scribus/stylemanager.ui" line="157"/>
@@ -26736,7 +26737,7 @@ to %2</source>
     <message>
         <location filename="../../../scribus/undomanager.cpp" line="957"/>
         <source>&amp;Undo</source>
-        <translation type="unfinished"/>
+        <translation>%Undo</translation>
     </message>
     <message>
         <location filename="../../../scribus/undomanager.cpp" line="958"/>
@@ -26747,7 +26748,7 @@ to %2</source>
     <message>
         <location filename="../../../scribus/undomanager.cpp" line="959"/>
         <source>&amp;Redo</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Redo</translation>
     </message>
     <message>
         <location filename="../../../scribus/undomanager.cpp" line="961"/>
@@ -26905,12 +26906,12 @@ to %2</source>
     <message>
         <location filename="../../../scribus/undogui.cpp" line="310"/>
         <source>&amp;Undo</source>
-        <translation type="unfinished"/>
+        <translation>%Undo</translation>
     </message>
     <message>
         <location filename="../../../scribus/undogui.cpp" line="311"/>
         <source>&amp;Redo</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Redo</translation>
     </message>
     <message>
         <location filename="../../../scribus/undogui.cpp" line="313"/>
@@ -27175,7 +27176,7 @@ converting their vector data into Scribus objects.</source>
     <message>
         <location filename="../../../scribus/plugins/import/xfig/importxfig.cpp" line="1552"/>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Menghasilkan Item-Item</translation>
     </message>
 </context>
 <context>
@@ -27714,7 +27715,7 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../../scribus/plugins/saveastemplateplugin/satdialog.ui" line="116"/>
         <source>Description:</source>
-        <translation type="unfinished"/>
+        <translation>Deskripsi:</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/saveastemplateplugin/satdialog.ui" line="123"/>

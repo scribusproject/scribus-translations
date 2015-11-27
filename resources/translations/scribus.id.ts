@@ -15,7 +15,7 @@
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Menghasilkan Item-Item</translation>
     </message>
 </context>
 <context>
@@ -138,7 +138,7 @@
     </message>
     <message>
         <source>This panel shows the version, build date and compiled in library support in Scribus.</source>
-        <translation type="unfinished"/>
+        <translation>Panel ini menampilkan versi, tanggal build dan compiled dalam dukungan pustaka di Scribus.</translation>
     </message>
     <message>
         <source>The C-C-T-F equates to C=littlecms C=CUPS T=TIFF support F=Fontconfig support.Last Letter is the renderer C=cairo or Q=Qt</source>
@@ -150,7 +150,7 @@
     </message>
     <message>
         <source>The Windows version does not use fontconfig or CUPS libraries.</source>
-        <translation type="unfinished"/>
+        <translation>Versi Windows tidak menggunakan fontconfig atau pustaka CUPS.</translation>
     </message>
     <message>
         <source>&lt;p align=&quot;center&quot;&gt;&lt;b&gt;%1 %2&lt;/b&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;%3&lt;br&gt;%4 %5&lt;br&gt;%6&lt;/p&gt;</source>
@@ -158,31 +158,31 @@
     </message>
     <message>
         <source>Scribus Version</source>
-        <translation type="unfinished"/>
+        <translation>Versi Scribus</translation>
     </message>
     <message>
         <source>Check for Updates</source>
-        <translation type="unfinished"/>
+        <translation>Cek Pemutakhiran</translation>
     </message>
     <message>
         <source>Developer Blog</source>
-        <translation type="unfinished"/>
+        <translation>Blog Pengembang</translation>
     </message>
     <message>
         <source>&amp;Licence</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Lisensi</translation>
     </message>
     <message>
         <source>Unable to open licence file. Please check your install directory or the Scribus website for licencing information.</source>
-        <translation type="unfinished"/>
+        <translation>Gagal membuka berkas lisensi. Mohon periksa direktori instalasi Anda atau situs Scribus untuk informasi lisensi. </translation>
     </message>
     <message>
         <source>Doc Translators:</source>
-        <translation type="unfinished"/>
+        <translation>Penerjemah Dokumentasi</translation>
     </message>
     <message>
         <source>Webmasters:</source>
-        <translation type="unfinished"/>
+        <translation>Webmaster:</translation>
     </message>
     <message>
         <source>Unable to open %1 file. Please check your install directory or the Scribus website for %1 information.</source>
@@ -190,50 +190,50 @@
     </message>
     <message>
         <source>Haiku Port:</source>
-        <translation type="unfinished"/>
+        <translation>Port Haiku:</translation>
     </message>
     <message>
         <source>SVN Revision: %1</source>
-        <translation type="unfinished"/>
+        <translation>Revisi SVN: %1</translation>
     </message>
 </context>
 <context>
     <name>AboutPlugins</name>
     <message>
         <source>Filename:</source>
-        <translation type="unfinished"/>
+        <translation>Nama berkas:</translation>
     </message>
     <message>
         <source>Version:</source>
-        <translation type="unfinished"/>
+        <translation>Versi:</translation>
     </message>
     <message>
         <source>Enabled:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Aktif:</translation>
     </message>
     <message>
         <source>Release Date:</source>
-        <translation type="unfinished"/>
+        <translation>Tanggal Rilis:</translation>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"/>
+        <translation>Deskripsi:</translation>
     </message>
     <message>
         <source>Author(s):</source>
-        <translation type="unfinished"/>
+        <translation>Pembuat:</translation>
     </message>
     <message>
         <source>Copyright:</source>
-        <translation type="unfinished"/>
+        <translation>Hak cipta:</translation>
     </message>
     <message>
         <source>License:</source>
-        <translation type="unfinished"/>
+        <translation>Lisensi</translation>
     </message>
     <message>
         <source>Scribus: About Plug-ins</source>
-        <translation type="unfinished"/>
+        <translation>Scribus: Tentang Pengaya</translation>
     </message>
 </context>
 <context>
@@ -248,11 +248,11 @@
     </message>
     <message>
         <source>&amp;New</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Baru</translation>
     </message>
     <message>
         <source>&amp;Open...</source>
-        <translation type="unfinished"/>
+        <translation>B&amp;uka...</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -260,19 +260,19 @@
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Simpan</translation>
     </message>
     <message>
         <source>Save &amp;As...</source>
-        <translation type="unfinished"/>
+        <translation>Simp&amp;an Sebagai... </translation>
     </message>
     <message>
         <source>Re&amp;vert to Saved</source>
-        <translation type="unfinished"/>
+        <translation>K_embalikan ke Tersimpan</translation>
     </message>
     <message>
         <source>Collect for O&amp;utput...</source>
-        <translation type="unfinished"/>
+        <translation>Kumpulkan untuk &amp;Output...</translation>
     </message>
     <message>
         <source>Get Text...</source>
@@ -280,75 +280,75 @@
     </message>
     <message>
         <source>Append &amp;Text...</source>
-        <translation type="unfinished"/>
+        <translation>Bubuhkan &amp;Teks</translation>
     </message>
     <message>
         <source>Get Image...</source>
-        <translation type="unfinished"/>
+        <translation>Tambahkan Gambar...</translation>
     </message>
     <message>
         <source>Save &amp;Text...</source>
-        <translation type="unfinished"/>
+        <translation>Simpan &amp;Teks</translation>
     </message>
     <message>
         <source>Save as P&amp;DF...</source>
-        <translation type="unfinished"/>
+        <translation>Simpan sebagai P&amp;DF...</translation>
     </message>
     <message>
         <source>Document &amp;Setup...</source>
-        <translation type="unfinished"/>
+        <translation>Pengaturan Do&amp;kumen</translation>
     </message>
     <message>
         <source>&amp;Print...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Cetak...</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished"/>
+        <translation>Ke&amp;luar</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"/>
+        <translation>%Undo</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Redo</translation>
     </message>
     <message>
         <source>&amp;Item Action Mode</source>
-        <translation type="unfinished"/>
+        <translation>Mode Aksi &amp;Item</translation>
     </message>
     <message>
         <source>Cu&amp;t</source>
-        <translation type="unfinished"/>
+        <translation>Po&amp;tong</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Salin</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"/>
+        <translation>Tem&amp;pel</translation>
     </message>
     <message>
         <source>Select &amp;All</source>
-        <translation type="unfinished"/>
+        <translation>Pilih Semu&amp;a</translation>
     </message>
     <message>
         <source>&amp;Deselect All</source>
-        <translation type="unfinished"/>
+        <translation>Le&amp;pas Pilih Semua</translation>
     </message>
     <message>
         <source>&amp;Search/Replace...</source>
-        <translation type="unfinished"/>
+        <translation>Ca&amp;ri/Ganti</translation>
     </message>
     <message>
         <source>&amp;Master Pages...</source>
-        <translation type="unfinished"/>
+        <translation>Halaman &amp;Master...</translation>
     </message>
     <message>
         <source>P&amp;references...</source>
-        <translation type="unfinished"/>
+        <translation>P&amp;referensi...</translation>
     </message>
     <message>
         <source>%1 pt</source>
@@ -1149,7 +1149,7 @@
     </message>
     <message>
         <source>Check for Updates</source>
-        <translation type="unfinished"/>
+        <translation>Cek Pemutakhiran</translation>
     </message>
     <message>
         <source>Number of Pages</source>
@@ -2381,15 +2381,15 @@ Configuration invalid</source>
     <name>Barcode</name>
     <message>
         <source>Scribus frontend for Pure PostScript Barcode Writer</source>
-        <translation type="unfinished"/>
+        <translation>Frontend Scribus untuk Pure PostScript Barcode Writer</translation>
     </message>
     <message>
         <source>Barcode</source>
-        <translation type="unfinished"/>
+        <translation>Barcode</translation>
     </message>
     <message>
         <source>Insert a barcode</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan barcode</translation>
     </message>
 </context>
 <context>
@@ -2452,7 +2452,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Barcode</source>
-        <translation type="unfinished"/>
+        <translation>Barcode</translation>
     </message>
     <message>
         <source>Barcode incomplete</source>
@@ -2808,7 +2808,7 @@ Configuration invalid</source>
     <name>ButtonIcon</name>
     <message>
         <source>Icon Placement</source>
-        <translation type="unfinished"/>
+        <translation>Penempatan Ikon</translation>
     </message>
     <message>
         <source>Layout:</source>
@@ -2872,7 +2872,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Icon</source>
-        <translation type="unfinished"/>
+        <translation>Ikon</translation>
     </message>
     <message>
         <source>OK</source>
@@ -3584,7 +3584,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Menghasilkan Item-Item</translation>
     </message>
 </context>
 <context>
@@ -4279,7 +4279,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Simpan</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -5106,7 +5106,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"/>
+        <translation>Orientasi</translation>
     </message>
     <message>
         <source>Portrait</source>
@@ -5118,7 +5118,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>N-Up Printing</source>
-        <translation type="unfinished"/>
+        <translation>N-Up Printing</translation>
     </message>
     <message>
         <source>Page per Sheet</source>
@@ -5244,7 +5244,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Menghasilkan Item-Item</translation>
     </message>
 </context>
 <context>
@@ -5507,7 +5507,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Menghasilkan Item-Item</translation>
     </message>
 </context>
 <context>
@@ -5528,7 +5528,7 @@ failed!</source>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Menghasilkan Item-Item</translation>
     </message>
     <message>
         <source>Analyzing PostScript:</source>
@@ -5562,15 +5562,15 @@ failed!</source>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Baru</translation>
     </message>
     <message>
         <source>&amp;Open...</source>
-        <translation type="unfinished"/>
+        <translation>B&amp;uka...</translation>
     </message>
     <message>
         <source>Save &amp;As...</source>
-        <translation type="unfinished"/>
+        <translation>Simp&amp;an Sebagai... </translation>
     </message>
     <message>
         <source>&amp;Save and Exit</source>
@@ -5582,23 +5582,23 @@ failed!</source>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"/>
+        <translation>%Undo</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Redo</translation>
     </message>
     <message>
         <source>Cu&amp;t</source>
-        <translation type="unfinished"/>
+        <translation>Po&amp;tong</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Salin</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"/>
+        <translation>Tem&amp;pel</translation>
     </message>
     <message>
         <source>C&amp;lear</source>
@@ -5788,7 +5788,7 @@ failed!</source>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Menghasilkan Item-Item</translation>
     </message>
 </context>
 <context>
@@ -6796,7 +6796,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;Print...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Cetak...</translation>
     </message>
     <message>
         <source>New Bookmark</source>
@@ -6868,7 +6868,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished"/>
+        <translation>Ke&amp;luar</translation>
     </message>
     <message>
         <source>&lt;h2&gt;&lt;p&gt;Sorry, no manual is installed!&lt;/p&gt;&lt;p&gt;Please see:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;http://docs.scribus.net for updated documentation&lt;/li&gt;&lt;li&gt;http://www.scribus.net for downloads&lt;/li&gt;&lt;/ul&gt;&lt;/h2&gt;</source>
@@ -6908,7 +6908,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Baru</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -7009,7 +7009,7 @@ Ignore List</source>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Menghasilkan Item-Item</translation>
     </message>
 </context>
 <context>
@@ -7068,11 +7068,11 @@ Ignore List</source>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"/>
+        <translation>Deskripsi:</translation>
     </message>
     <message>
         <source>Copyright:</source>
-        <translation type="unfinished"/>
+        <translation>Hak cipta:</translation>
     </message>
     <message>
         <source>Scanner Model:</source>
@@ -7477,16 +7477,17 @@ converting their vector data into Scribus objects.</source>
     <name>ImportPSPlugin</name>
     <message>
         <source>Import PostScript...</source>
-        <translation type="unfinished"/>
+        <translation>Impor PostScript...</translation>
     </message>
     <message>
         <source>Imports PostScript Files</source>
-        <translation type="unfinished"/>
+        <translation>Impor Berkas-Berkas PostScript</translation>
     </message>
     <message>
         <source>Imports most PostScript files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Impor sebagian besar berkas PostScript ke dalam dokumen yang sekarang,
+mengonversi data vektornya menjadi objek Scribbus</translation>
     </message>
 </context>
 <context>
@@ -8017,7 +8018,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Orientation</source>
-        <translation type="unfinished"/>
+        <translation>Orientasi</translation>
     </message>
     <message>
         <source>Width</source>
@@ -8420,15 +8421,15 @@ p, li { white-space: pre-wrap; }
     <name>InsertTable</name>
     <message>
         <source>Insert Table</source>
-        <translation type="unfinished"/>
+        <translation>Masukkan Tabel</translation>
     </message>
     <message>
         <source>Number of rows:</source>
-        <translation type="unfinished"/>
+        <translation>Jumlah baris:</translation>
     </message>
     <message>
         <source>Number of columns:</source>
-        <translation type="unfinished"/>
+        <translation>Jumlah kolom:</translation>
     </message>
 </context>
 <context>
@@ -9196,15 +9197,15 @@ p, li { white-space: pre-wrap; }
     <name>Mark2ItemDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>Dialog</translation>
     </message>
     <message>
         <source>Label:</source>
-        <translation type="unfinished"/>
+        <translation>Label:</translation>
     </message>
     <message>
         <source>Item:</source>
-        <translation type="unfinished"/>
+        <translation>Item:</translation>
     </message>
 </context>
 <context>
@@ -9230,15 +9231,15 @@ p, li { white-space: pre-wrap; }
     <name>Mark2MarkDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>Dialog</translation>
     </message>
     <message>
         <source>Label:</source>
-        <translation type="unfinished"/>
+        <translation>Label</translation>
     </message>
     <message>
         <source>Select marker:</source>
-        <translation type="unfinished"/>
+        <translation>Pilih penanda:</translation>
     </message>
 </context>
 <context>
@@ -9252,11 +9253,11 @@ p, li { white-space: pre-wrap; }
     <name>MarkAnchorDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>Dialog</translation>
     </message>
     <message>
         <source>Label:</source>
-        <translation type="unfinished"/>
+        <translation>Label</translation>
     </message>
 </context>
 <context>
@@ -9270,7 +9271,7 @@ p, li { white-space: pre-wrap; }
     <name>MarkNoteDlg</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>Dialog</translation>
     </message>
     <message>
         <source>Notes Style:</source>
@@ -9308,7 +9309,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Label:</source>
-        <translation type="unfinished"/>
+        <translation>Label</translation>
     </message>
     <message>
         <source>Text to insert:</source>
@@ -9319,7 +9320,7 @@ p, li { white-space: pre-wrap; }
     <name>MarksManager</name>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished"/>
+        <translation>Dialog</translation>
     </message>
     <message>
         <source>Update All Marks</source>
@@ -10623,7 +10624,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Menghasilkan Item-Item</translation>
     </message>
 </context>
 <context>
@@ -10862,7 +10863,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Simpan</translation>
     </message>
     <message>
         <source>Open the exported PDF with the PDF viewer as set in External Tools preferences, when not exporting to a multi-file export destination.</source>
@@ -11246,7 +11247,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Salin</translation>
     </message>
     <message>
         <source>Alt+C</source>
@@ -11726,7 +11727,7 @@ Often used for allowing items to be placed across page spreads</source>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Menghasilkan Item-Item</translation>
     </message>
     <message>
         <source>Parsing failed!
@@ -12424,7 +12425,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Menghasilkan Item-Item</translation>
     </message>
 </context>
 <context>
@@ -12494,7 +12495,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Menghasilkan Item-Item</translation>
     </message>
     <message>
         <source>Open PDF-File</source>
@@ -14269,7 +14270,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"/>
+        <translation>Deskripsi:</translation>
     </message>
     <message>
         <source>Further Information</source>
@@ -14364,7 +14365,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Salin</translation>
     </message>
     <message>
         <source>Alt+C</source>
@@ -20038,11 +20039,11 @@ Document Liberation Project http://www.documentliberation.org</source>
     <name>PythonConsole</name>
     <message>
         <source>&amp;Open...</source>
-        <translation type="unfinished"/>
+        <translation>B&amp;uka...</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Simpan</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -20086,7 +20087,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>Save &amp;As...</source>
-        <translation type="unfinished"/>
+        <translation>Simp&amp;an Sebagai... </translation>
     </message>
     <message>
         <source>Run As &amp;Console</source>
@@ -20118,7 +20119,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished"/>
+        <translation>Ke&amp;luar</translation>
     </message>
     <message>
         <source>This is a standard Python console with some 
@@ -20347,7 +20348,7 @@ Scripter documentation for futher information. </source>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Simpan</translation>
     </message>
     <message>
         <source>&amp;Rename</source>
@@ -20551,27 +20552,27 @@ Check path and filename.</source>
     </message>
     <message>
         <source>Select All</source>
-        <translation type="unfinished"/>
+        <translation>Pilih Semua</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"/>
+        <translation>%Undo</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Redo</translation>
     </message>
     <message>
         <source>Cu&amp;t</source>
-        <translation type="unfinished"/>
+        <translation>Po&amp;tong</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Salin</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"/>
+        <translation>Tem&amp;pel</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -23142,27 +23143,27 @@ Therefore the image may be not correct</source>
     </message>
     <message>
         <source>Select All</source>
-        <translation type="unfinished"/>
+        <translation>Pilih Semua</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"/>
+        <translation>%Undo</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Redo</translation>
     </message>
     <message>
         <source>Cu&amp;t</source>
-        <translation type="unfinished"/>
+        <translation>Po&amp;tong</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Salin</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"/>
+        <translation>Tem&amp;pel</translation>
     </message>
 </context>
 <context>
@@ -23181,7 +23182,7 @@ Therefore the image may be not correct</source>
     </message>
     <message>
         <source>Normalize</source>
-        <translation type="unfinished"/>
+        <translation>Normalkan</translation>
     </message>
     <message>
         <source>Minimize</source>
@@ -23501,7 +23502,7 @@ Please choose another.</source>
     </message>
     <message>
         <source>Description:</source>
-        <translation type="unfinished"/>
+        <translation>Deskripsi:</translation>
     </message>
     <message>
         <source>Description of the document template</source>
@@ -24428,7 +24429,7 @@ Expressed as a percentage of the current white space value.</source>
     <name>SToolBAlign</name>
     <message>
         <source>Style of current paragraph</source>
-        <translation type="unfinished"/>
+        <translation>Gaya paragraf ini</translation>
     </message>
     <message>
         <source>Style Settings</source>
@@ -24649,7 +24650,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Simpan</translation>
     </message>
     <message>
         <source>&amp;Reset</source>
@@ -26624,7 +26625,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Scribus Version</source>
-        <translation type="unfinished"/>
+        <translation>Versi Scribus</translation>
     </message>
     <message>
         <source>Scribus, Open Source Desktop Publishing</source>
@@ -26781,7 +26782,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Baru</translation>
     </message>
     <message>
         <source>&amp;Run</source>
@@ -26857,7 +26858,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Simpan</translation>
     </message>
     <message>
         <source>Save the current script</source>
@@ -27023,11 +27024,11 @@ Consider using the Preflight Verifier to correct them</source>
     <name>SeView</name>
     <message>
         <source>Delete Page?</source>
-        <translation type="unfinished"/>
+        <translation>Hapus Halaman?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this page?</source>
-        <translation type="unfinished"/>
+        <translation>Anda yakin ingin menghapus halaman ini?</translation>
     </message>
 </context>
 <context>
@@ -27249,7 +27250,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Menghasilkan Item-Item</translation>
     </message>
     <message>
         <source>Group%1</source>
@@ -27376,7 +27377,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Menghasilkan Item-Item</translation>
     </message>
 </context>
 <context>
@@ -27528,15 +27529,15 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Cu&amp;t</source>
-        <translation type="unfinished"/>
+        <translation>Po&amp;tong</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Salin</translation>
     </message>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"/>
+        <translation>Tem&amp;pel</translation>
     </message>
     <message>
         <source>C&amp;lear</source>
@@ -27556,7 +27557,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Select &amp;All</source>
-        <translation type="unfinished"/>
+        <translation>Pilih Semu&amp;a</translation>
     </message>
     <message>
         <source>File</source>
@@ -27564,7 +27565,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;Search/Replace...</source>
-        <translation type="unfinished"/>
+        <translation>Ca&amp;ri/Ganti</translation>
     </message>
     <message>
         <source>&amp;Fonts Preview...</source>
@@ -27670,7 +27671,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Baru</translation>
     </message>
     <message>
         <source>&amp;Import</source>
@@ -27888,7 +27889,7 @@ Consider using the Preflight Verifier to correct them</source>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Menghasilkan Item-Item</translation>
     </message>
 </context>
 <context>
@@ -28930,7 +28931,7 @@ when PDF document is opened:</source>
     </message>
     <message>
         <source>Row Height:</source>
-        <translation type="unfinished"/>
+        <translation>Tinggi Baris:</translation>
     </message>
 </context>
 <context>
@@ -29717,7 +29718,7 @@ X: %4, Y: %5</source>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"/>
+        <translation>%Undo</translation>
     </message>
     <message>
         <source>&amp;Redo: %1</source>
@@ -29726,7 +29727,7 @@ X: %4, Y: %5</source>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Redo</translation>
     </message>
     <message>
         <source>No object frame</source>
@@ -30165,11 +30166,11 @@ X: %4, Y: %5</source>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"/>
+        <translation>%Undo</translation>
     </message>
     <message>
         <source>&amp;Redo</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Redo</translation>
     </message>
     <message>
         <source>Show the action history for the selected item only. This changes the effect of the undo/redo buttons to act on the object or document.</source>
@@ -30413,7 +30414,7 @@ Would you like to start the system&apos;s default browser instead?</source>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Menghasilkan Item-Item</translation>
     </message>
 </context>
 <context>
@@ -30500,7 +30501,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Menghasilkan Item-Item</translation>
     </message>
 </context>
 <context>
@@ -30515,7 +30516,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Menghasilkan Item-Item</translation>
     </message>
 </context>
 <context>
@@ -30561,7 +30562,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Generating Items</source>
-        <translation type="unfinished"/>
+        <translation>Menghasilkan Item-Item</translation>
     </message>
 </context>
 <context>
