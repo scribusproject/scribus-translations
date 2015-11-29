@@ -9,9 +9,9 @@ Translations are managed via [Transifex](https://www.transifex.com/projects/p/sc
 |:----------------------|---------------|:-----------------------:|:---------:|:---:|
 | English (UK)          |en_UK          | Craig Bradney           |           |:+1: |
 | English (AUS)         |en_AU          | Craig Bradney           |           |:+1: |
-| English (India)       |en_IN
+| English (India)       |en_IN          |                         |           |     |
 | Afrikaans             |af             |                         |           |     |
-| Esperanto             |eo             |                         |           |     |
+| Esperanto             |eo             | Pier Luigi Cinquantini  |   :+1:    |     |
 | French                |fr             | Jean Ghali              |           |:+1: |
 | German                |de             | Christoph S             |           |:+1: |
 | German (Trad.)        |de_1901        | Christoph S             |           |:+1: |
