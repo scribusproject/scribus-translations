@@ -41,7 +41,7 @@ Translations are managed via [Transifex](https://www.transifex.com/projects/p/sc
 | Lithuanian            |lt_LT          |                         |           |     |
 | Estonian              |et             |                         |           |     |
 | Breton                |br             |                         |           |     |
-| Slovak (Slovakia)     |sk_SK          |                         |           |     |
+| Slovak (Slovakia)     |sk_SK          | alan.monfort            |   :+1:    |     |
 | Czech (Czech Republic)|cs_CZ          |                         |           |     |
 | Dutch                 |nl             |                         |           |     |
 | Welsh                 |cy             |                         |           |     |
