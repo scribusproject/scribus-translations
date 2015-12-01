@@ -6,7 +6,7 @@ Translations are managed via [Transifex](https://www.transifex.com/projects/p/sc
 ## Translation Map
 
 | Language              |  Intl Code    | Translator              | Transifex | SVN |      
-|:----------------------|---------------|:-----------------------:|:---------:|:---:|
+|:----------------------|:--------------|:-----------------------:|:---------:|:---:|
 | English (UK)          |en_UK          | Craig Bradney           |           |:+1: |
 | English (AUS)         |en_AU          | Craig Bradney           |           |:+1: |
 | English (India)       |en_IN          |                         |           |     |
