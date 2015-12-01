@@ -43,7 +43,7 @@ Translations are managed via [Transifex](https://www.transifex.com/projects/p/sc
 | Breton                |br             |                         |           |     |
 | Slovak (Slovakia)     |sk_SK          | alan.monfort            |   :+1:    |     |
 | Czech (Czech Republic)|cs_CZ          |                         |           |     |
-| Dutch                 |nl             |                         |           |     |
+| Dutch                 |nl             | Foppe Benedictus        |   :+1:    |     |
 | Welsh                 |cy             |                         |           |     |
 | Kabyle                |kab            |                         |   :+1:    |     |
 | Somali                |so             |                         |   :+1:    |     |
