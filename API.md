@@ -1,8 +1,7 @@
 http://docs.transifex.com/api
 
-*project_slug* = scribus  
-*resource_slug* = 1.5 'scribus'  
-                  1.4 'scribus-14x'
+**project_slug** = scribus  
+**resource_slug** = for 1.5 use '**scribus**' for 1.4 use '**scribus-14x**'
 
 ###Project Stats  
 URLs:
