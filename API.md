@@ -7,7 +7,7 @@ http://docs.transifex.com/api
 URLs:
 
     /project/<project_slug>/resource/<resource_slug>/stats/
-
+    
     /project/<project_slug>/resource/<resource_slug>/stats/<lang_code>/
 
 The latter should be used, if one is interested in the statistics for a particular language.
