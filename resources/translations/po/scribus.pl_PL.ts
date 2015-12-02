@@ -3083,7 +3083,8 @@
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginimpl.cpp" line="97"/>
         <source>Spell Checker Plugin Failed to Initialise.
 Configuration invalid</source>
-        <translation type="unfinished"/>
+        <translation>Wystąpił błąd uruchamiania wtyczki sprawdzania pisowni.
+Błędna konfiguracja</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginimpl.cpp" line="104"/>
@@ -4660,7 +4661,7 @@ dołącza glif do listy wybranych znaków znajdujących się poniżej, klawisz D
     <message>
         <location filename="../../../scribus/checkDocument.cpp" line="443"/>
         <source>Print/Visible Mismatch</source>
-        <translation type="unfinished"/>
+        <translation>Niezgodności druku/widoczności</translation>
     </message>
     <message>
         <location filename="../../../scribus/checkDocument.cpp" line="451"/>
@@ -9286,7 +9287,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="178"/>
         <source>Insert the frame at the top left of the page margins</source>
-        <translation type="unfinished"/>
+        <translation>Wstaw ramkę w górnym lewym rogu marginesów strony</translation>
     </message>
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="188"/>
@@ -9296,12 +9297,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="198"/>
         <source>Insert the frame at the top left of the page bleed</source>
-        <translation type="unfinished"/>
+        <translation>Wstaw ramkę w górnym lewym rogu spadu strony</translation>
     </message>
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="208"/>
         <source>Insert the frame at a custom position on the page</source>
-        <translation type="unfinished"/>
+        <translation>Wstaw ramkę w określonym miejscu strony</translation>
     </message>
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="252"/>
@@ -9356,7 +9357,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="481"/>
         <source>Distance between the columns in the text frame</source>
-        <translation type="unfinished"/>
+        <translation>Ostęp pomiędzy łamami w ramce tekstowej</translation>
     </message>
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="512"/>
@@ -24833,7 +24834,7 @@ JPEG nadaje się lepiej do tworzenia mniejszych plików PDF zawierających dużo
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="992"/>
         <source>Creates crop marks in the PDF indicating where the paper should be cut or trimmed after printing</source>
-        <translation type="unfinished"/>
+        <translation>Tworzy w pliku PDF znaczniki cięcia wskazujący na miejsce cięcia arkusza po wydruku</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="993"/>
@@ -24853,7 +24854,7 @@ JPEG nadaje się lepiej do tworzenia mniejszych plików PDF zawierających dużo
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="996"/>
         <source>Add document information which includes the document title and page numbers</source>
-        <translation type="unfinished"/>
+        <translation>Dodaj informacje o dokumencie, któ©e zawierają tytuł dokumentu i numerację stron</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="997"/>

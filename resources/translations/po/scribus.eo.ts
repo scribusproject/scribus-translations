@@ -2878,12 +2878,12 @@
     <message>
         <location filename="../../../scribus/applytemplatedialog.cpp" line="283"/>
         <source>Alt+O</source>
-        <translation type="unfinished"/>
+        <translation>Alt+O</translation>
     </message>
     <message>
         <location filename="../../../scribus/applytemplatedialog.cpp" line="285"/>
         <source>Alt+C</source>
-        <translation type="unfinished"/>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <location filename="../../../scribus/applytemplatedialog.cpp" line="52"/>
@@ -3321,7 +3321,7 @@ Nevalida konfiguro</translation>
     <message>
         <location filename="../../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="42"/>
         <source>Alt+U</source>
-        <translation type="unfinished"/>
+        <translation>Alt+U</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="36"/>
@@ -3371,7 +3371,7 @@ Nevalida konfiguro</translation>
     <message>
         <location filename="../../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="251"/>
         <source>Alt+T</source>
-        <translation type="unfinished"/>
+        <translation>Alt+T</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="245"/>
@@ -4375,27 +4375,27 @@ Alto: %2</translation>
     <message>
         <location filename="../../../scribus/charselect.ui" line="25"/>
         <source>Show/Hide Enhanced Palette</source>
-        <translation type="unfinished"/>
+        <translation>Montru/Kaŝu plibonigitan paletron</translation>
     </message>
     <message>
         <location filename="../../../scribus/charselect.ui" line="35"/>
         <source>Unicode Search</source>
-        <translation type="unfinished"/>
+        <translation>Unikoda serĉado</translation>
     </message>
     <message>
         <location filename="../../../scribus/charselect.ui" line="42"/>
         <source>Load a Character Palette</source>
-        <translation type="unfinished"/>
+        <translation>Ŝargu signopaletron</translation>
     </message>
     <message>
         <location filename="../../../scribus/charselect.ui" line="52"/>
         <source>Save the Character Palette</source>
-        <translation type="unfinished"/>
+        <translation>Konserrvu la signopaletron</translation>
     </message>
     <message>
         <location filename="../../../scribus/charselect.ui" line="62"/>
         <source>Empty the Character Palette</source>
-        <translation type="unfinished"/>
+        <translation>Malplenigu la signopaletron</translation>
     </message>
     <message>
         <location filename="../../../scribus/charselect.cpp" line="345"/>
@@ -5735,7 +5735,7 @@ VIdu la sekcion Redaktu Kolorojn de la dokumentaro por kromaj detaloj.     </tra
     <message>
         <location filename="../../../scribus/cpalette.cpp" line="1029"/>
         <source>Screen</source>
-        <translation type="unfinished"/>
+        <translation>Ekrano</translation>
     </message>
     <message>
         <location filename="../../../scribus/cpalette.cpp" line="1030"/>
@@ -7152,12 +7152,12 @@ malsukcesis!</translation>
     <message>
         <location filename="../../../scribus/effectsdialog.cpp" line="483"/>
         <source>&gt;&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&gt;&gt;</translation>
     </message>
     <message>
         <location filename="../../../scribus/effectsdialog.cpp" line="487"/>
         <source>&lt;&lt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;&lt;</translation>
     </message>
     <message>
         <location filename="../../../scribus/effectsdialog.cpp" line="498"/>
@@ -7426,7 +7426,7 @@ La nomo de la eksportdosiero estos &apos;dokumentnomo-paĝnumero.dosierotipo&apo
         <location filename="../../../scribus/extimageprops.cpp" line="84"/>
         <location filename="../../../scribus/extimageprops.cpp" line="118"/>
         <source>Screen</source>
-        <translation type="unfinished"/>
+        <translation>Ekrano</translation>
     </message>
     <message>
         <location filename="../../../scribus/extimageprops.cpp" line="67"/>
@@ -7842,7 +7842,7 @@ La nomo de la eksportdosiero estos &apos;dokumentnomo-paĝnumero.dosierotipo&apo
     <message>
         <location filename="../../../scribus/plugins/fontpreview/fontpreview.ui" line="126"/>
         <source>Alt+T</source>
-        <translation type="unfinished"/>
+        <translation>Alt+T</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/fontpreview/fontpreview.ui" line="133"/>
@@ -8059,7 +8059,7 @@ La nomo de la eksportdosiero estos &apos;dokumentnomo-paĝnumero.dosierotipo&apo
         <location filename="../../../scribus/guidemanager.ui" line="130"/>
         <location filename="../../../scribus/guidemanager.ui" line="321"/>
         <source>Alt+Y</source>
-        <translation type="unfinished"/>
+        <translation>Alt+J</translation>
     </message>
     <message>
         <location filename="../../../scribus/guidemanager.ui" line="138"/>
@@ -8082,7 +8082,7 @@ La nomo de la eksportdosiero estos &apos;dokumentnomo-paĝnumero.dosierotipo&apo
     <message>
         <location filename="../../../scribus/guidemanager.ui" line="176"/>
         <source>Alt+S</source>
-        <translation type="unfinished"/>
+        <translation>Alt+S</translation>
     </message>
     <message>
         <location filename="../../../scribus/guidemanager.ui" line="192"/>
@@ -9673,7 +9673,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/layers.cpp" line="607"/>
         <source>Screen</source>
-        <translation type="unfinished"/>
+        <translation>Ekrano</translation>
     </message>
     <message>
         <location filename="../../../scribus/layers.cpp" line="608"/>
@@ -12838,7 +12838,7 @@ La rezulto estas kombino de &quot;Intersekco&quot; kaj &quot;Ekskludo&quot; </tr
     <message>
         <location filename="../../../scribus/patterndialog.cpp" line="85"/>
         <source>Rename Entry</source>
-        <translation type="unfinished"/>
+        <translation>Alinomu la terminon</translation>
     </message>
     <message>
         <location filename="../../../scribus/patterndialog.cpp" line="209"/>
@@ -14417,7 +14417,7 @@ Noto: PDF-formularoj ne estos eksportitaj.</translation>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5290"/>
         <source>Screen</source>
-        <translation type="unfinished"/>
+        <translation>Ekrano</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5291"/>

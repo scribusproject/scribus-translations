@@ -1036,32 +1036,32 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1476"/>
         <source>Insert PDF Text Field</source>
-        <translation type="unfinished"/>
+        <translation>Voeg PDF tekstveld in</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1477"/>
         <source>Insert PDF Check Box</source>
-        <translation type="unfinished"/>
+        <translation>Voeg PDF keuzevak in</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1478"/>
         <source>Insert PDF Combo Box</source>
-        <translation type="unfinished"/>
+        <translation>Voeg PDF combo box in</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1479"/>
         <source>Insert PDF List Box</source>
-        <translation type="unfinished"/>
+        <translation>Voeg PDF keuzelijst in</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1480"/>
         <source>Insert Text Annotation</source>
-        <translation type="unfinished"/>
+        <translation>Voeg tekstannotatie in</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1481"/>
         <source>Insert Link Annotation</source>
-        <translation type="unfinished"/>
+        <translation>Voeg link-annotatie in</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1486"/>
@@ -1449,7 +1449,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1472"/>
         <source>Insert &amp;Bezier Curve</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Beziercurve invoegen</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1473"/>
@@ -2300,7 +2300,7 @@
     <message>
         <location filename="../../../scribus/annot.cpp" line="490"/>
         <source>Diamond</source>
-        <translation type="unfinished"/>
+        <translation>Ruit</translation>
     </message>
     <message>
         <location filename="../../../scribus/annot.cpp" line="490"/>
@@ -2525,7 +2525,7 @@
     <message>
         <location filename="../../../scribus/annot.cpp" line="793"/>
         <source>Use Currency Symbol</source>
-        <translation type="unfinished"/>
+        <translation>Valutasymbool gebruiken</translation>
     </message>
     <message>
         <location filename="../../../scribus/annot.cpp" line="802"/>
@@ -2931,7 +2931,7 @@
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellplugin.cpp" line="66"/>
         <source>Adds support for spell-checking via aspell. Languages can be chosen from among the installed aspell dictionaries, and spell-checking can be done on the fly, or on selected text.</source>
-        <translation type="unfinished"/>
+        <translation>Voegt spellingcontrole toe met behulp van Aspell. Talen kunnen gekozen worden uit de geïnstalleerde Aspell woordenboeken en spellingscontrole kan doorlopend of op geselecteerde tekst uitgevoerd worden.</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellplugin.cpp" line="70"/>
@@ -2994,7 +2994,7 @@
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginbase.ui" line="194"/>
         <source>The currently active dictionary. Scribus uses aspell for dictionary support.&lt;br /&gt;If you require updated or more dictionaries, you should install them via your system&apos;s installation system or package manager.</source>
-        <translation type="unfinished"/>
+        <translation>Momenteel actief woordenboek. Scribus gebruikt Aspell voor de ondersteuning &lt;br /&gt;Als u meer woordenboeken nodig hebt, moet u deze installeren via uw installatiemanager.</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginbase.ui" line="225"/>
@@ -4380,7 +4380,7 @@ Hoogte: %2</translation>
     <message>
         <location filename="../../../scribus/charselect.ui" line="35"/>
         <source>Unicode Search</source>
-        <translation type="unfinished"/>
+        <translation>Unicode zoeken</translation>
     </message>
     <message>
         <location filename="../../../scribus/charselect.ui" line="42"/>
@@ -10283,27 +10283,27 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/masterpagepalette.cpp" line="97"/>
         <source>Edit Master Pages</source>
-        <translation type="unfinished"/>
+        <translation>Bewerk paginasjabloon</translation>
     </message>
     <message>
         <location filename="../../../scribus/masterpagepalette.cpp" line="98"/>
         <source>Duplicate the selected master page</source>
-        <translation type="unfinished"/>
+        <translation>Dupliceer het geselecteerd paginasjabloon</translation>
     </message>
     <message>
         <location filename="../../../scribus/masterpagepalette.cpp" line="99"/>
         <source>Delete the selected master page</source>
-        <translation type="unfinished"/>
+        <translation>Verwijder het geselecteerde paginasjabloon</translation>
     </message>
     <message>
         <location filename="../../../scribus/masterpagepalette.cpp" line="100"/>
         <source>Add a new master page</source>
-        <translation type="unfinished"/>
+        <translation>Voeg een nieuw paginasjabloon toe</translation>
     </message>
     <message>
         <location filename="../../../scribus/masterpagepalette.cpp" line="101"/>
         <source>Import master pages from another document</source>
-        <translation type="unfinished"/>
+        <translation>Importeer paginasjablonen vanuit een ander document</translation>
     </message>
     <message>
         <location filename="../../../scribus/masterpagepalette.cpp" line="369"/>
@@ -10318,7 +10318,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/masterpagepalette.cpp" line="177"/>
         <source>New Master Page</source>
-        <translation type="unfinished"/>
+        <translation>Nieuw paginasjabloon</translation>
     </message>
     <message>
         <location filename="../../../scribus/masterpagepalette.cpp" line="303"/>
@@ -10328,7 +10328,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/masterpagepalette.cpp" line="303"/>
         <source>New MasterPage</source>
-        <translation type="unfinished"/>
+        <translation>Nieuw paginasjabloon</translation>
     </message>
     <message>
         <location filename="../../../scribus/masterpagepalette.cpp" line="303"/>
@@ -10338,17 +10338,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/masterpagepalette.cpp" line="449"/>
         <source>Unable to Rename Master Page</source>
-        <translation type="unfinished"/>
+        <translation>Kan paginasjabloon niet hernoemen</translation>
     </message>
     <message>
         <location filename="../../../scribus/masterpagepalette.cpp" line="449"/>
         <source>The Normal page is not allowed to be renamed.</source>
-        <translation type="unfinished"/>
+        <translation>De standaardpagina is niet hernoembaar.</translation>
     </message>
     <message>
         <location filename="../../../scribus/masterpagepalette.cpp" line="453"/>
         <source>Rename Master Page</source>
-        <translation type="unfinished"/>
+        <translation>Hernoem paginasjabloon</translation>
     </message>
     <message>
         <location filename="../../../scribus/masterpagepalette.cpp" line="453"/>
@@ -10363,12 +10363,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/masterpagepalette.cpp" line="139"/>
         <source>This master page is used at least once in the document.</source>
-        <translation type="unfinished"/>
+        <translation>Dit paginasjabloon wordt in ieder geval één keer gebruikt in het document.</translation>
     </message>
     <message>
         <location filename="../../../scribus/masterpagepalette.cpp" line="143"/>
         <source>Do you really want to delete master page &quot;%1&quot;?</source>
-        <translation type="unfinished"/>
+        <translation>Wilt u paginasjabloon &quot;%1&quot; werkelijk verwijderen?</translation>
     </message>
 </context>
 <context>
@@ -10479,7 +10479,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/mergedoc.cpp" line="75"/>
         <source> from 0</source>
-        <translation type="unfinished"/>
+        <translation> van 0</translation>
     </message>
     <message>
         <location filename="../../../scribus/mergedoc.cpp" line="78"/>
@@ -10767,7 +10767,7 @@ Als er geen ankerpunt geselecteerd is, zullen alle ankerpunten worden teruggezet
     <message>
         <location filename="../../../scribus/multipleduplicate.ui" line="236"/>
         <source>By &amp;Rows &amp;&amp; Columns</source>
-        <translation type="unfinished"/>
+        <translation>Met &amp;rijen &amp;&amp; kolommen</translation>
     </message>
     <message>
         <location filename="../../../scribus/multipleduplicate.ui" line="273"/>
@@ -10841,7 +10841,7 @@ Als er geen ankerpunt geselecteerd is, zullen alle ankerpunten worden teruggezet
     <message>
         <location filename="../../../scribus/newfile.cpp" line="118"/>
         <source>Open Recent &amp;Document</source>
-        <translation type="unfinished"/>
+        <translation>Open recent &amp;document</translation>
     </message>
     <message>
         <location filename="../../../scribus/newfile.cpp" line="129"/>
@@ -11187,7 +11187,7 @@ Als er geen ankerpunt geselecteerd is, zullen alle ankerpunten worden teruggezet
     <message>
         <location filename="../../../scribus/nodeeditpalette.cpp" line="913"/>
         <source>Set Contour to Image Clip</source>
-        <translation type="unfinished"/>
+        <translation>Contourlijn toepassen op afbeeldingsknippad</translation>
     </message>
     <message>
         <location filename="../../../scribus/nodeeditpalette.cpp" line="943"/>
@@ -12270,7 +12270,7 @@ Vaak gebruikt om items over meerdere pagina&apos;s te plaatsen</translation>
     <message>
         <location filename="../../../scribus/pagepalette.cpp" line="929"/>
         <source>Available Master Pages:</source>
-        <translation type="unfinished"/>
+        <translation>Beschikbare paginasjablonen:</translation>
     </message>
     <message>
         <location filename="../../../scribus/pagepalette.cpp" line="930"/>
@@ -12280,7 +12280,7 @@ Vaak gebruikt om items over meerdere pagina&apos;s te plaatsen</translation>
     <message>
         <location filename="../../../scribus/pagepalette.cpp" line="933"/>
         <source>List of normal pages in the document, shown with the document layout. Pages may be dragged to rearrange or delete them.</source>
-        <translation type="unfinished"/>
+        <translation>Lijst van normale pagina&apos;s in het document worden getoond met de documentlay-out. Pagina&apos;s kunnen worden versleept om ze te rangschikken of te verwijderen.</translation>
     </message>
     <message>
         <location filename="../../../scribus/pagepalette.cpp" line="934"/>
@@ -12295,12 +12295,12 @@ Vaak gebruikt om items over meerdere pagina&apos;s te plaatsen</translation>
     <message>
         <location filename="../../../scribus/pagepalette.cpp" line="636"/>
         <source>This master page is used at least once in the document.</source>
-        <translation type="unfinished"/>
+        <translation>Dit paginasjabloon is tenminste eenmaal toegepast in dit document.</translation>
     </message>
     <message>
         <location filename="../../../scribus/pagepalette.cpp" line="640"/>
         <source>Do you really want to delete this master page?</source>
-        <translation type="unfinished"/>
+        <translation>Wilt u dit paginasjabloon werkelijk verwijderen?</translation>
     </message>
 </context>
 <context>
@@ -12563,7 +12563,7 @@ en de beide eindpunten moeten buiten de polygoon liggen</translation>
     <message>
         <location filename="../../../scribus/plugins/tools/pathfinder/pathfinderbase.ui" line="14"/>
         <source>Boolean Path Operations</source>
-        <translation type="unfinished"/>
+        <translation>Booleaanse bewerkingen op het pad</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/pathfinder/pathfinderbase.ui" line="111"/>
@@ -12828,7 +12828,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <message>
         <location filename="../../../scribus/patterndialog.cpp" line="85"/>
         <source>Rename Entry</source>
-        <translation type="unfinished"/>
+        <translation>Hernoem deze ingang</translation>
     </message>
     <message>
         <location filename="../../../scribus/patterndialog.cpp" line="209"/>
@@ -12937,18 +12937,18 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <message>
         <location filename="../../../scribus/picsearchoptions.cpp" line="59"/>
         <source>Cancel Search</source>
-        <translation type="unfinished"/>
+        <translation>Annuleer zoekopdracht</translation>
     </message>
     <message>
         <location filename="../../../scribus/picsearchoptions.ui" line="124"/>
         <location filename="../../../scribus/picsearchoptions.cpp" line="68"/>
         <source>Start Search</source>
-        <translation type="unfinished"/>
+        <translation>Begin zoekopdracht</translation>
     </message>
     <message>
         <location filename="../../../scribus/picsearchoptions.cpp" line="92"/>
         <source>Select a base directory for search</source>
-        <translation type="unfinished"/>
+        <translation>Selecteer een te doorzoeken map</translation>
     </message>
     <message>
         <location filename="../../../scribus/picsearchoptions.cpp" line="104"/>
@@ -12959,12 +12959,12 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <message>
         <location filename="../../../scribus/picsearchoptions.cpp" line="141"/>
         <source>The search failed: %1</source>
-        <translation type="unfinished"/>
+        <translation>De zoekopdracht is mislukt: %1</translation>
     </message>
     <message>
         <location filename="../../../scribus/picsearchoptions.ui" line="13"/>
         <source>Search Images</source>
-        <translation type="unfinished"/>
+        <translation>Zoek afbeeldingen</translation>
     </message>
     <message>
         <location filename="../../../scribus/picsearchoptions.ui" line="25"/>
@@ -12974,7 +12974,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <message>
         <location filename="../../../scribus/picsearchoptions.ui" line="38"/>
         <source>Start at:</source>
-        <translation type="unfinished"/>
+        <translation>Begin bij:</translation>
     </message>
     <message>
         <location filename="../../../scribus/picsearchoptions.ui" line="64"/>
@@ -12984,23 +12984,24 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <message>
         <location filename="../../../scribus/picsearchoptions.ui" line="79"/>
         <source>Searching</source>
-        <translation type="unfinished"/>
+        <translation>Zoeken</translation>
     </message>
     <message>
         <location filename="../../../scribus/picsearchoptions.ui" line="141"/>
         <source>Case insensitive search</source>
-        <translation type="unfinished"/>
+        <translation>Niet hoofdlettergevoelig zoeken</translation>
     </message>
     <message>
         <location filename="../../../scribus/picsearchoptions.ui" line="148"/>
         <source>Search recursively</source>
-        <translation type="unfinished"/>
+        <translation>Recursief zoeken</translation>
     </message>
     <message>
         <location filename="../../../scribus/picsearchoptions.cpp" line="104"/>
         <source>Base directory for search does not exist.
 Please choose another one.</source>
-        <translation type="unfinished"/>
+        <translation>Basismap om te doorzoeken bestaat niet.
+Kies aub. een andere map.</translation>
     </message>
 </context>
 <context>
@@ -13023,12 +13024,12 @@ Please choose another one.</source>
     <message>
         <location filename="../../../scribus/picstatus.cpp" line="259"/>
         <source>Not on a Page</source>
-        <translation type="unfinished"/>
+        <translation>Niet op een Pagina</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.cpp" line="284"/>
         <source>JPG</source>
-        <translation type="unfinished"/>
+        <translation>JPG</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.cpp" line="287"/>
@@ -13038,12 +13039,12 @@ Please choose another one.</source>
     <message>
         <location filename="../../../scribus/picstatus.cpp" line="290"/>
         <source>PSD</source>
-        <translation type="unfinished"/>
+        <translation>PSD</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.cpp" line="293"/>
         <source>EPS/PS</source>
-        <translation type="unfinished"/>
+        <translation>EPS/PS</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.cpp" line="296"/>
@@ -13053,12 +13054,12 @@ Please choose another one.</source>
     <message>
         <location filename="../../../scribus/picstatus.cpp" line="299"/>
         <source>JPG2000</source>
-        <translation type="unfinished"/>
+        <translation>JPG2000</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.cpp" line="305"/>
         <source>emb. PSD</source>
-        <translation type="unfinished"/>
+        <translation>ingev. PSD</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.cpp" line="311"/>
@@ -13078,12 +13079,12 @@ Please choose another one.</source>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="155"/>
         <source>Path:</source>
-        <translation type="unfinished"/>
+        <translation>Pad:</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="198"/>
         <source>Search...</source>
-        <translation type="unfinished"/>
+        <translation>Zoeken...</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="105"/>
@@ -13098,7 +13099,7 @@ Please choose another one.</source>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="288"/>
         <source>DPI:</source>
-        <translation type="unfinished"/>
+        <translation>DPI:</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="221"/>
@@ -13118,7 +13119,7 @@ Please choose another one.</source>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="329"/>
         <source>Pixels:</source>
-        <translation type="unfinished"/>
+        <translation>Pixels:</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="358"/>
@@ -13128,7 +13129,7 @@ Please choose another one.</source>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="387"/>
         <source>Printed:</source>
-        <translation type="unfinished"/>
+        <translation>Afgedrukt:</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="425"/>
@@ -13138,17 +13139,17 @@ Please choose another one.</source>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="433"/>
         <source>On Page:</source>
-        <translation type="unfinished"/>
+        <translation>Op Pagina:</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="546"/>
         <source>Select</source>
-        <translation type="unfinished"/>
+        <translation>Selecteer</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="575"/>
         <source>Image Tools</source>
-        <translation type="unfinished"/>
+        <translation>Afbeeldingsopties</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="623"/>
@@ -13188,27 +13189,27 @@ Please choose another one.</source>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="530"/>
         <source>Go to</source>
-        <translation type="unfinished"/>
+        <translation>Ga naar</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="127"/>
         <source>Name of the image file</source>
-        <translation type="unfinished"/>
+        <translation>Naam van het afbeeldingsbestand</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="177"/>
         <source>Location where the image file is stored</source>
-        <translation type="unfinished"/>
+        <translation>Locatie waar het afbeeldingsbestand is opgeslagen</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="195"/>
         <source>Search for a missing image</source>
-        <translation type="unfinished"/>
+        <translation>Zoeken naar ontbrekende afbeeldingen</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="240"/>
         <source>Type of the image</source>
-        <translation type="unfinished"/>
+        <translation>Afbeeldingstype</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="253"/>
@@ -13228,22 +13229,22 @@ Please choose another one.</source>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="345"/>
         <source>Height and width of the image</source>
-        <translation type="unfinished"/>
+        <translation>Hoogte en breedte van de afbeelding</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="374"/>
         <source>Horizontal and vertical scaling applied to the image</source>
-        <translation type="unfinished"/>
+        <translation>Horizontale en verticale schaling die is toegepast op de afbeelding</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="409"/>
         <source>Size of the image when printed</source>
-        <translation type="unfinished"/>
+        <translation>Grootte van de afbeelding bij het afdrukken</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="449"/>
         <source>Page that the image is displayed on</source>
-        <translation type="unfinished"/>
+        <translation>Pagina waar de afbeelding op staat</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="462"/>
@@ -13253,12 +13254,12 @@ Please choose another one.</source>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="478"/>
         <source>Name of the page item that contains the image</source>
-        <translation type="unfinished"/>
+        <translation>Naam van het pagina-item waar de afbeelding op staat</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="491"/>
         <source>Effective DPI:</source>
-        <translation type="unfinished"/>
+        <translation>Effectief PPI:</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="510"/>
@@ -27056,7 +27057,7 @@ tot %2</translation>
     <message>
         <location filename="../../../scribus/unicodesearch.ui" line="14"/>
         <source>Unicode Search</source>
-        <translation type="unfinished"/>
+        <translation>Unicode zoeken</translation>
     </message>
     <message>
         <location filename="../../../scribus/unicodesearch.ui" line="26"/>
