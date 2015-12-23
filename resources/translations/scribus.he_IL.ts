@@ -1092,7 +1092,7 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1563"/>
         <source>&amp;Flip Vertically</source>
-        <translation>&amp;הפוך אנכית</translation>
+        <translation>&amp;הפיכה אנכית</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1660"/>
@@ -12656,7 +12656,7 @@ If no handle is selected all handles will be reset.</source>
     <message>
         <location filename="../../scribus/ui/multipleduplicate.cpp" line="68"/>
         <source>&amp;Vertical Gap:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;מרווח אנכי:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/multipleduplicate.ui" line="14"/>
@@ -12706,7 +12706,7 @@ If no handle is selected all handles will be reset.</source>
     <message>
         <location filename="../../scribus/ui/multipleduplicate.ui" line="276"/>
         <source>Vertical Gap:</source>
-        <translation type="unfinished"/>
+        <translation>מרווח אנכי:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/multipleduplicate.ui" line="306"/>
@@ -18283,7 +18283,7 @@ Do you want to migrate them to the new Scribus version?</source>
     <message>
         <location filename="../../scribus/ui/prefs_displaybase.ui" line="247"/>
         <source>Vertical:</source>
-        <translation type="unfinished"/>
+        <translation>אנכי:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_displaybase.ui" line="297"/>
@@ -24996,7 +24996,7 @@ Transparency</source>
     <message>
         <location filename="../../scribus/ui/propertiespalette_xyz.cpp" line="1322"/>
         <source>Flip Vertical</source>
-        <translation type="unfinished"/>
+        <translation>הפיכה אנכית</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertiespalette_xyz.cpp" line="1323"/>
@@ -36672,7 +36672,7 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <location filename="../../scribus/ui/tabpdfoptions.ui" line="744"/>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>אנכי</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/tabpdfoptions.ui" line="808"/>
@@ -37951,7 +37951,7 @@ when PDF document is opened:</source>
         <location filename="../../scribus/ui/transformdialogbase.ui" line="278"/>
         <location filename="../../scribus/ui/transformdialogbase.ui" line="398"/>
         <source>Vertical</source>
-        <translation type="unfinished"/>
+        <translation>Vertical</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/transformdialogbase.ui" line="251"/>
@@ -38249,7 +38249,7 @@ W: %3, H: %4</source>
     <message>
         <location filename="../../scribus/undomanager.cpp" line="616"/>
         <source>Flip vertically</source>
-        <translation type="unfinished"/>
+        <translation>הפיכה אנכית</translation>
     </message>
     <message>
         <location filename="../../scribus/undomanager.cpp" line="617"/>

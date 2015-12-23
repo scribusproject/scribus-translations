@@ -4,7 +4,7 @@
     <message>
         <location filename="../../scribus/plugins/import/ai/importai.cpp" line="342"/>
         <source>Importing: %1</source>
-        <translation>ಆಮದಿಸಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ : %1</translation>
+        <translation>ಆಮದು ಮಾಡಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ : %1</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/ai/importai.cpp" line="345"/>
@@ -2993,7 +2993,7 @@ Configuration invalid</source>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcode.cpp" line="25"/>
         <source>Barcode</source>
-        <translation type="unfinished"/>
+        <translation>ಬಾರ್ ಕೋಡ್</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcode.cpp" line="26"/>
@@ -3066,7 +3066,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Barcode</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">ಬಾರ್ ಕೋಡ್</translation>
     </message>
     <message>
         <source>Barcode incomplete</source>
@@ -3079,7 +3079,7 @@ Configuration invalid</source>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.cpp" line="386"/>
         <source>Select Type</source>
-        <translation type="unfinished"/>
+        <translation>ಬಗೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ</translation>
     </message>
     <message>
         <source>Variable number of characters, digits and any symbols.</source>
@@ -5008,7 +5008,7 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="112"/>
         <source>Problems</source>
-        <translation type="unfinished"/>
+        <translation>ತೊಂದರೆಗಳು</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="117"/>
@@ -5024,7 +5024,7 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="119"/>
         <source>Check again</source>
-        <translation type="unfinished"/>
+        <translation>ಮತ್ತೊಮ್ಮೆ ಪರಿಶೀಲಿಸಿ</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="134"/>
@@ -7959,7 +7959,7 @@ a range of pages or a single page number</source>
         <location filename="../../scribus/ui/customfdialog.cpp" line="217"/>
         <location filename="../../scribus/ui/customfdialog.cpp" line="257"/>
         <source>Size:</source>
-        <translation type="unfinished"/>
+        <translation>ಗಾತ್ರ:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/customfdialog.cpp" line="270"/>
@@ -8014,7 +8014,7 @@ a range of pages or a single page number</source>
     <message>
         <location filename="../../scribus/plugins/import/fh/importfh.cpp" line="143"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>ಆಮದು ಮಾಡಿಕೊಳ್ಳಲಾಗುತ್ತಿದೆ : %1</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/fh/importfh.cpp" line="146"/>
@@ -9639,7 +9639,7 @@ converting their vector data into Scribus objects.</source>
     <message>
         <location filename="../../scribus/plugins/import/idml_old/importidml.cpp" line="67"/>
         <source>GPL</source>
-        <translation type="unfinished"/>
+        <translation>ಜಿಪಿಎಲ್</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/idml_old/importidml.cpp" line="52"/>
@@ -14342,12 +14342,12 @@ Please check it and try again.</source>
     <message>
         <location filename="../../scribus/ui/preview.cpp" line="177"/>
         <source>Yellow</source>
-        <translation type="unfinished"/>
+        <translation>ಹಳದಿ</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/preview.cpp" line="184"/>
         <source>Black</source>
-        <translation type="unfinished"/>
+        <translation>ಕಪ್ಪು</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/preview.cpp" line="260"/>
@@ -14735,7 +14735,7 @@ Please check it and try again.</source>
     <message>
         <location filename="../../scribus/pageitem_imageframe.cpp" line="113"/>
         <source>Size:</source>
-        <translation type="unfinished"/>
+        <translation>ಗಾತ್ರ:</translation>
     </message>
     <message>
         <location filename="../../scribus/pageitem_imageframe.cpp" line="114"/>
@@ -16296,7 +16296,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../scribus/ui/picsearch.cpp" line="110"/>
         <source>Size:</source>
-        <translation type="unfinished"/>
+        <translation>ಗಾತ್ರ:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/picsearch.cpp" line="111"/>
@@ -16933,7 +16933,7 @@ Please choose another one.</source>
     <message>
         <location filename="../../scribus/plugins/picbrowser/picturebrowser.ui" line="936"/>
         <source>Size:</source>
-        <translation type="unfinished"/>
+        <translation>ಗಾತ್ರ:</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/picbrowser/picturebrowser.ui" line="969"/>
@@ -18806,7 +18806,7 @@ Do you want to migrate them to the new Scribus version?</source>
     <message>
         <location filename="../../scribus/ui/prefs_documentsetupbase.ui" line="74"/>
         <source>Size:</source>
-        <translation type="unfinished"/>
+        <translation>ಗಾತ್ರ:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_documentsetupbase.ui" line="89"/>
@@ -19944,7 +19944,7 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../scribus/ui/prefs_itemtoolsbase.ui" line="422"/>
         <source>Size:</source>
-        <translation type="unfinished"/>
+        <translation>ಗಾತ್ರ:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_itemtoolsbase.ui" line="453"/>
@@ -22917,14 +22917,14 @@ A value of 0 means unlimited hyphenations.</source>
         <location filename="../../scribus/ui/printdialog.cpp" line="470"/>
         <location filename="../../scribus/ui/printdialog.cpp" line="526"/>
         <source>Yellow</source>
-        <translation type="unfinished"/>
+        <translation>ಹಳದಿ</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/printdialog.cpp" line="97"/>
         <location filename="../../scribus/ui/printdialog.cpp" line="470"/>
         <location filename="../../scribus/ui/printdialog.cpp" line="525"/>
         <source>Black</source>
-        <translation type="unfinished"/>
+        <translation>ಕಪ್ಪು</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/printdialog.cpp" line="396"/>
@@ -24180,7 +24180,7 @@ a range of pages or a single page number</source>
     <message>
         <location filename="../../scribus/ui/propertiespalette_shadow.cpp" line="57"/>
         <source>Black</source>
-        <translation type="unfinished"/>
+        <translation>ಕಪ್ಪು</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertiespalette_shadow.cpp" line="74"/>
@@ -25110,7 +25110,7 @@ Transparency</source>
         <location filename="../../scribus/ui/propertywidget_advanced.cpp" line="373"/>
         <location filename="../../scribus/ui/propertywidget_advanced.cpp" line="376"/>
         <source>Min:</source>
-        <translation type="unfinished"/>
+        <translation>ಕನಿಷ್ಟ:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertywidget_advanced.cpp" line="374"/>
@@ -25189,7 +25189,7 @@ Transparency</source>
         <location filename="../../scribus/ui/propertywidget_advancedbase.ui" line="86"/>
         <location filename="../../scribus/ui/propertywidget_advancedbase.ui" line="133"/>
         <source>Min:</source>
-        <translation type="unfinished"/>
+        <translation>ಕನಿಷ್ಟ:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertywidget_advancedbase.ui" line="119"/>
@@ -28315,7 +28315,7 @@ is not exhaustive due to exceptions from called functions.
     <message>
         <location filename="../../scribus/pslib.cpp" line="1609"/>
         <source>Black</source>
-        <translation type="unfinished"/>
+        <translation>ಕಪ್ಪು</translation>
     </message>
     <message>
         <location filename="../../scribus/pslib.cpp" line="1611"/>
@@ -28330,7 +28330,7 @@ is not exhaustive due to exceptions from called functions.
     <message>
         <location filename="../../scribus/pslib.cpp" line="1615"/>
         <source>Yellow</source>
-        <translation type="unfinished"/>
+        <translation>ಹಳದಿ</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/colorwheel/colorwheel.cpp" line="58"/>
@@ -31460,7 +31460,7 @@ Expressed as a percentage of the current white space value.</source>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="222"/>
         <source>Min:</source>
         <comment>Glyph Extension</comment>
-        <translation type="unfinished"/>
+        <translation>ಕನಿಷ್ಟ:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="223"/>

@@ -2893,7 +2893,7 @@
     <message>
         <location filename="../../../scribus/applytemplatedialog.cpp" line="269"/>
         <source>Apply to</source>
-        <translation type="unfinished"/>
+        <translation>Aplicar a</translation>
     </message>
     <message>
         <location filename="../../../scribus/applytemplatedialog.cpp" line="270"/>
@@ -2936,12 +2936,12 @@
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellplugin.cpp" line="70"/>
         <source>0.1</source>
-        <translation type="unfinished"/>
+        <translation>0.1</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellplugin.cpp" line="32"/>
         <source>Spell Checker</source>
-        <translation type="unfinished"/>
+        <translation>Corretor ortográfico</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellplugin.cpp" line="97"/>
@@ -3024,7 +3024,7 @@
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginbase.ui" line="303"/>
         <source>Change the current word that was not found to that shown in the replacement entry field</source>
-        <translation type="unfinished"/>
+        <translation>Alterar a palavra atual que não foi encontrada ao mostrado no campo de entrada de substituição</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginbase.ui" line="331"/>
@@ -3099,7 +3099,7 @@ Configuration invalid</source>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginimpl.cpp" line="259"/>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginimpl.cpp" line="451"/>
         <source>Spell Checker</source>
-        <translation type="unfinished"/>
+        <translation>Corretor ortográfico</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginimpl.cpp" line="72"/>
@@ -5463,22 +5463,22 @@ Veja a secção de Edição de Cores da documentação para mais detalhes.</tran
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="277"/>
         <source>PDF Text Field</source>
-        <translation type="unfinished"/>
+        <translation>Campo de Texto de PDF</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="278"/>
         <source>PDF Check Box</source>
-        <translation type="unfinished"/>
+        <translation>Caixa de verificação de PDF</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="279"/>
         <source>PDF Combo Box</source>
-        <translation type="unfinished"/>
+        <translation>Caixa Combo PDF</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="280"/>
         <source>PDF List Box</source>
-        <translation type="unfinished"/>
+        <translation>Caixa de Lista de PDF</translation>
     </message>
     <message>
         <location filename="../../../scribus/commonstrings.cpp" line="281"/>

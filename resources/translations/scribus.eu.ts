@@ -249,7 +249,7 @@
     <message>
         <location filename="../../scribus/ui/about.cpp" line="312"/>
         <source>Scribus 1.5.1+ Icon Set:</source>
-        <translation type="unfinished"/>
+        <translation>Scribus 1.5.1+ ikono multzoa:</translation>
     </message>
 </context>
 <context>
@@ -561,7 +561,7 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1565"/>
         <source>Raise to &amp;Top</source>
-        <translation type="unfinished"/>
+        <translation>Eraman g&amp;oraino</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1566"/>
@@ -571,7 +571,7 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1567"/>
         <source>&amp;Raise</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Goratu</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1570"/>
@@ -2127,7 +2127,7 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1750"/>
         <source>Chat with the Community</source>
-        <translation type="unfinished"/>
+        <translation>Hitz egin komunitatearekin</translation>
     </message>
 </context>
 <context>
@@ -2191,7 +2191,7 @@
     <message>
         <location filename="../../scribus/ui/aligndistribute.ui" line="14"/>
         <source>Align and Distribute</source>
-        <translation type="unfinished"/>
+        <translation>Lerrokatu eta banatu</translation>
     </message>
 </context>
 <context>
@@ -2945,11 +2945,12 @@ Konfigurazio baliogabea</translation>
     <message>
         <source>Spell Checker Plugin Failed to Initialise.
 Configuration invalid</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Ortografia-egiaztatzailearen plugina ezin izan da hasieratu.
+Konfigurazio baliogabea</translation>
     </message>
     <message>
         <source>Spell Checker Plugin Failed to Initialise.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Ortografia-egiaztatzailearen plugina ezin izan da hasieratu</translation>
     </message>
 </context>
 <context>
@@ -3004,7 +3005,7 @@ Configuration invalid</source>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcode.cpp" line="51"/>
         <source>Scribus frontend for Barcode Writer in Pure PostScript</source>
-        <translation type="unfinished"/>
+        <translation>Scribus interfazea Barcode Writer-erako Pure PostScript-en</translation>
     </message>
 </context>
 <context>
@@ -3166,57 +3167,57 @@ Configuration invalid</source>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.cpp" line="184"/>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.cpp" line="367"/>
         <source>Select a barcode format</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu barra-kode formatu bat</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.cpp" line="190"/>
         <source>Point of Sale</source>
-        <translation type="unfinished"/>
+        <translation>Salmenta-puntua</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.cpp" line="196"/>
         <source>Supply Chain</source>
-        <translation type="unfinished"/>
+        <translation>Hornidura-katea</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.cpp" line="203"/>
         <source>Two-dimensional symbols</source>
-        <translation type="unfinished"/>
+        <translation>Bi dimentsioko ikurrak</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.cpp" line="210"/>
         <source>One-dimensional symbols</source>
-        <translation type="unfinished"/>
+        <translation>Dimentsio bakarreko ikurrak</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.cpp" line="218"/>
         <source>GS1 DataBar family</source>
-        <translation type="unfinished"/>
+        <translation>GS1 DataBar familia</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.cpp" line="226"/>
         <source>Postal symbols</source>
-        <translation type="unfinished"/>
+        <translation>Posta-ikurrak</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.cpp" line="234"/>
         <source>Pharmaceutical symbols</source>
-        <translation type="unfinished"/>
+        <translation>Farmazia-ikurrak</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.cpp" line="243"/>
         <source>Less-used symbols</source>
-        <translation type="unfinished"/>
+        <translation>Gutxiago erabilitako ikurrak</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.cpp" line="253"/>
         <source>GS1 Composite symbols</source>
-        <translation type="unfinished"/>
+        <translation>GS1 Composite ikurrak</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.cpp" line="180"/>
         <source>Select a barcode family</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu barra-kode familia</translation>
     </message>
 </context>
 <context>
@@ -3374,92 +3375,92 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Minimum error checking; raised opportunistically if size of symbol is not increased</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Erroreen egiaztatze minimoa: behar denean erabiltzen da ikur-tamaina handitzen ez bada</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="71"/>
         <source>Display checksum</source>
-        <translation type="unfinished"/>
+        <translation>Bistaratu kontroleko batura</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="84"/>
         <source>Show readable text</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi testu irakurgarria</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="97"/>
         <source>Parse specials</source>
-        <translation type="unfinished"/>
+        <translation>Analizatu bereziak</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="107"/>
         <source>Guard whitespace</source>
-        <translation type="unfinished"/>
+        <translation>Babestu zuriunea</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="117"/>
         <source>^NNN as ASCII</source>
-        <translation type="unfinished"/>
+        <translation>^NNN ASCII gisa</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="127"/>
         <source>Add checksum</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu kontroleko batura</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="346"/>
         <source>Advanced options for the barcode</source>
-        <translation type="unfinished"/>
+        <translation>Barra-kodearen aukera aurreratuak</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="289"/>
         <source>&amp;Barcode:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Barra-kodea:</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="321"/>
         <source>&amp;Contents:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Edukiak:</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="384"/>
         <source>Options:</source>
-        <translation type="unfinished"/>
+        <translation>Aukerak:</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="371"/>
         <source>The contents encoded in the barcode</source>
-        <translation type="unfinished"/>
+        <translation>Barra-kodean kodetutako edukiak</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="308"/>
         <source>Select one of the available barcode types here</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu hemen eskuragarri dagoen barra-kode motetatko bat</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="457"/>
         <source>Version:</source>
-        <translation type="unfinished"/>
+        <translation>Bertsioa:</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="496"/>
         <source>Error correction level:</source>
-        <translation type="unfinished"/>
+        <translation>Errore-zuzenketaren maila:</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="266"/>
         <source>Barcode Family:</source>
-        <translation type="unfinished"/>
+        <translation>Barra-kode familia:</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="476"/>
         <source>Version of the symbol</source>
-        <translation type="unfinished"/>
+        <translation>Ikurraren bertsioa</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="489"/>
         <source>Error correction level</source>
-        <translation type="unfinished"/>
+        <translation>Errore-zuzenketaren maila</translation>
     </message>
 </context>
 <context>
@@ -4441,12 +4442,12 @@ Hautatu beste izen bat.</translation>
     <message>
         <location filename="../../scribus/plugins/colorwheel/cwdialog.ui" line="375"/>
         <source>Sample color scheme</source>
-        <translation type="unfinished"/>
+        <translation>Adibideko kolore-eskema</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/colorwheel/cwdialog.ui" line="173"/>
         <source>Colors of your chosen color scheme</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu duzun kolore-eskemaren koloreak</translation>
     </message>
 </context>
 <context>
@@ -4605,7 +4606,8 @@ Orrialdea: %2</translation>
         <location filename="../../scribus/canvasmode_normal.cpp" line="433"/>
         <source>Overflow Characters: %1 (%2 White Spaces)
 Click to link to existing text frame or auto-create new linked text frame</source>
-        <translation type="unfinished"/>
+        <translation>Gainezkatze-karaktereak: %1 (%2 zuriune)
+Klik lehendik dagoen testu-markoarekin estekatzeko edo estekatutako testu-marko berria automatikoki sortzeko</translation>
     </message>
 </context>
 <context>
@@ -4740,7 +4742,7 @@ Document Liberation Project-era http://www.documentliberation.org</translation>
     <message>
         <location filename="../../scribus/ui/charselect.cpp" line="183"/>
         <source>Font: %2</source>
-        <translation type="unfinished"/>
+        <translation>Letra-tipoa: %2</translation>
     </message>
 </context>
 <context>
@@ -4971,7 +4973,7 @@ Insert teklak glifo bat txertatzen du beheko hautapenean, eta Supr teklak txerta
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="141"/>
         <source>Text overflow</source>
-        <translation>Testua gainezka</translation>
+        <translation>Testu-gainezkatzea</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="138"/>
@@ -5272,47 +5274,47 @@ unekoa %2 x %3 DPI</translation>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="121"/>
         <source>Preflight profile to base the report generation on. Options can be set in Document Setup or Preferences.</source>
-        <translation type="unfinished"/>
+        <translation>Txostena sortzeko erabiliko den inprimatze aurreko egiaztatze-profila. Aukerak dokumentuaren-konfigurazioan edo hobespenetan ezar daitezke.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="129"/>
         <source>If you have created an image frame, there is the presumption that you planned to put an image in it</source>
-        <translation type="unfinished"/>
+        <translation>Irudi-marko bat sortu baduzu, hartan irudi bat sartuko duzula espero da</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="130"/>
         <source>If you have created a text frame, there is the presumption that you planned to put text in it</source>
-        <translation type="unfinished"/>
+        <translation>Testu-marko bat sortu baduzu, hartan testua sartuko duzula espero da</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="131"/>
         <source>When some imported document uses non-embedded fonts, then their rendering will be wrong, unless by chance you have them installed on their system, but that cannot be guaranteed in case you want to share the resulting document</source>
-        <translation type="unfinished"/>
+        <translation>Inportatutako zenbait dokumentuk kapsulatu gabeko letra-tipoak erabiltzen dituztenean, gaizki errendatuko dira, letra-tipo horiek zure sisteman instalatuta ez badituzu, baina hori ezin da bermatu dokumentua partekatu nahi duzunean</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="132"/>
         <source>This is a user definable setting serving as a caution for high resolution images, which may lead to unnecessarily large files</source>
-        <translation type="unfinished"/>
+        <translation>Erabiltzaileak ezar dezakeen ezarpen honek bereizmen handiko irudien kasurako abisua dira, beharrezkoak ez diren fitxategia handiekin kontuz ibiltzeko</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="135"/>
         <source>This is a user definable setting serving as a caution for low resolution images, which may lead to poor quality output</source>
-        <translation type="unfinished"/>
+        <translation>Erabiltzaileak definitu ahal duen ezarpen bat da hau, dokumentuaren kalitate baxua eragin dezaketen bereizmen txikiko irudiak saihesteko erabil daitekeena</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="136"/>
         <source>You have one or more characters which do not have a corresponding glyph in your chosen font</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu duzun letra-tipoan gliforik ez du(t)en karaktere bat edo gehiago dituzu</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="137"/>
         <source>The assigned image file cannot be found</source>
-        <translation type="unfinished"/>
+        <translation>Esleitutako irudia ezin izan da aurkitu</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="138"/>
         <source>An object is placed somewhere outside of the page borders, it will not be printed and might be missing somewhere</source>
-        <translation type="unfinished"/>
+        <translation>Objektu bat orrialde-ertzetik kanpo kokatu da, ez da inprimatuko eta agian zerbait galtzen ari zara</translation>
     </message>
 </context>
 <context>
@@ -6646,7 +6648,8 @@ C=CUPS, C=littlecms, T=TIFF euskarria. Falta diren liburutegiak
     <message>
         <location filename="../../scribus/ui/cupsoptions.cpp" line="225"/>
         <source>This panel displays various CUPS options when printing. The exact parameters available will depend on your printer driver. You can confirm CUPS support by selecting Help &gt; About. Look for the listings: C-C-T These equate to C=CUPS C=littlecms T=TIFF support. Missing library support is indicated by a *.</source>
-        <translation type="unfinished"/>
+        <translation>Panel honek CUPSeko hainbat aukera bistaratzen ditu inprimatzean. Parametro erabilgarriak inprimagailuaren kontrolatzailearen mende daude. CUPS euskarria berretsi dezakezu &apos;Laguntza &gt; Honi buruz&apos; hautatuz. Begiratu zerrendak: C-C-T kodeak zera adierazten du: 
+C=CUPS, C=littlecms, T=TIFF euskarria. Falta diren liburutegiak * ikurrarekin adierazten dira.</translation>
     </message>
 </context>
 <context>
@@ -7040,42 +7043,43 @@ daiteke erreferentziatzeko, edota PDF baten metadatuetan</translation>
     </message>
     <message>
         <source>The person or organisation primarily responsible for making the content of the document. This field can be embedded in the Scribus document for reference, as well as in the metadata of a PDF.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Dokumentuaren edukia egitearen arduraduna den pertsona edo erakundea. Eremu hau Scribus-eko dokumentuan kapsula daiteke erreferentziatzeko, edota PDF baten metadatuan.</translation>
     </message>
     <message>
         <location filename="../../scribus/docinfo.cpp" line="168"/>
         <source>A name given to the document. This field can be embedded in the Scribus document for reference, as well as in the metadata of a PDF.</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentuari emandako izena. Eremu hau Scribus-eko dokumentuan kapsula 
+daiteke erreferentziatzeko, edota PDF baten metadatuetan.</translation>
     </message>
     <message>
         <location filename="../../scribus/docinfo.cpp" line="169"/>
         <source>An account of the content of the document. This field is for a brief description or abstract of the document. It is embedded in the PDF on export.</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentuaren edukiari buruzkoa. Eremu hau dokumentuaren azalpen laburra edo laburpena da. PDFan kapsula daiteke esportatzeko.</translation>
     </message>
     <message>
         <location filename="../../scribus/docinfo.cpp" line="170"/>
         <source>The topic of the content of the document. This field is for document keywords you wish to embed in a PDF, to assist searches and indexing of PDF files.</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentuaren edukiaren gaia. Eremu hau dokumentuko gakoak PDFan kapsulatzeko da, bilaketetan laguntzeko edo PDF fitxategiak indexatzeko.</translation>
     </message>
     <message>
         <location filename="../../scribus/docinfo.cpp" line="175"/>
         <source>The physical or digital manifestation of the document. Media type and dimensions would be worth noting. RFC2045,RFC2046 for MIME types are also useful here.</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentuaren manifestazio digitala edo fisikoa. MIMEren RFC2045, RFC2046 motak ere erabilgarriak dira.</translation>
     </message>
     <message>
         <location filename="../../scribus/docinfo.cpp" line="167"/>
         <source>The person or organization primarily responsible for making the content of the document. This field can be embedded in the Scribus document for reference, as well as in the metadata of a PDF.</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentuaren edukia egitearen arduraduna den pertsona edo erakundea. Eremu hau Scribus-eko dokumentuan kapsula daiteke erreferentziatzeko, edota PDF baten metadatuan.</translation>
     </message>
     <message>
         <location filename="../../scribus/docinfo.cpp" line="171"/>
         <source>A person or organization responsible for making the document available</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentua eskuragarri egitearen pertsona edo erakunde arduraduna</translation>
     </message>
     <message>
         <location filename="../../scribus/docinfo.cpp" line="172"/>
         <source>A person or organization responsible for making contributions to the content of the document</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentuaren edukian lagundu duten pertsona edo erakunde arduraduna</translation>
     </message>
 </context>
 <context>
@@ -7806,7 +7810,9 @@ Erabili 72 dpi irudiak pantailan erabiltzeko badira</translation>
         <source>Insert a comma separated list of tokens where
 a token can be * for all the pages, 1-5 for
 a range of pages or a single page number</source>
-        <translation type="unfinished"/>
+        <translation>Txertatu komaz bereiztutako token-en zerrenda, 
+token-a izan daiteke * orrialde guztientzako, 1-5 orrialde barruti 
+batentzako, edo orrialde bakar baten zenbakia</translation>
     </message>
 </context>
 <context>
@@ -8393,12 +8399,12 @@ Document Liberation Project-era http://www.documentliberation.org</translation>
     <message>
         <location filename="../../scribus/ui/fontreplacedialog.cpp" line="83"/>
         <source>Cancels these font substitutions and stops loading the document</source>
-        <translation type="unfinished"/>
+        <translation>Letra-tipoak ordeztea bertan behera utzi eta dokumentua kargatzea gelditzen du</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/fontreplacedialog.cpp" line="85"/>
         <source>If you select OK, then save, these substitutions are made permanent in the document</source>
-        <translation type="unfinished"/>
+        <translation>&apos;Ados&apos; hautatzen baduzu gorde egingo du, eta ordezpenak betirako gordeko dira dokumentuan.</translation>
     </message>
 </context>
 <context>
@@ -9196,22 +9202,22 @@ ezikusien zerrendara</translation>
     <message>
         <location filename="../../scribus/ui/hyask.cpp" line="69"/>
         <source>Accept the proposed hyphenation</source>
-        <translation type="unfinished"/>
+        <translation>Onartu proposatutako hitz-zatiketa</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/hyask.cpp" line="76"/>
         <source>Add edited hyphen to local hyphenation dictionary list</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu editatutako zatiketa hitz-zatiketen hiztegi lokalaren zerrendari</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/hyask.cpp" line="97"/>
         <source>Add edited word to words that should not be hyphenated</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu editatutako hitza zatituko ez diren hitzen multzoari</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/hyask.cpp" line="111"/>
         <source>Do not apply the proposed hyphenation</source>
-        <translation type="unfinished"/>
+        <translation>Ez aplikatu proposatutako hitz-zatiketa</translation>
     </message>
 </context>
 <context>
@@ -9450,7 +9456,7 @@ Document Liberation Project-era http://www.documentliberation.org</translation>
         <location filename="../../scribus/plugins/import/cdr/importcdrplugin.cpp" line="58"/>
         <location filename="../../scribus/plugins/import/cdr/importcdrplugin.cpp" line="93"/>
         <source>Corel Draw (*.ccx *.CCX *.cdr *.CDR *.cdt *.CDT *.cmx *.CMX)</source>
-        <translation type="unfinished"/>
+        <translation>Corel Draw (*.ccx *.CCX *.cdr *.CDR *.cdt *.CDT *.cmx *.CMX)</translation>
     </message>
 </context>
 <context>
@@ -11498,42 +11504,42 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../scribus/ui/layers.cpp" line="680"/>
         <source>Color of the Layer Indicator. Each layer has a color assigned to display on the canvas when layer indicators are enabled. You can double click to edit the color.</source>
-        <translation type="unfinished"/>
+        <translation>Geruza-adierazlearen kolorea. Geruza-adierazleak gaituta daudenean, geruza bakoitzak kolore bat du esleituta oihalean erakusten denerako. Klik bikoitza erabil dezakezu kolorea editatzeko.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/layers.cpp" line="681"/>
         <source>Make Layer Visible. Uncheck to hide the layer from the display.</source>
-        <translation type="unfinished"/>
+        <translation>Egin geruza ikusgai. Kendu marka geruza ezkutatzeko</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/layers.cpp" line="682"/>
         <source>Print Layer. Uncheck to disable printing.</source>
-        <translation type="unfinished"/>
+        <translation>Inprimatze-geruza. Kendu marka inprimatzea desgaitzeko.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/layers.cpp" line="683"/>
         <source>Lock or Unlock Layer. Unchecked is unlocked.</source>
-        <translation type="unfinished"/>
+        <translation>Blokeatu edo desblokeatu geruza. Marka kenduta dagoenean, desblokeatuta dago</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/layers.cpp" line="684"/>
         <source>Make text in lower layers flow around objects. Enabling this forces text in lower layers to flow around objects of the layer for which this option has been enabled.</source>
-        <translation type="unfinished"/>
+        <translation>Gaitu azpiragoko geruzetako testua objektuetara egokitu dadin. Hau gaitzeak azpiragoko testuak geruzaren objektuetara egokitu dadin behartzen du, gaituta dagoen geruzetarako</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/layers.cpp" line="685"/>
         <source>Outline Mode. Toggles the &apos;wireframe&apos; display of objects to speed the display of very complex objects.</source>
-        <translation type="unfinished"/>
+        <translation>Eskema-modua. Objektuen &apos;ingerada-bilbea&apos; ikuspegia txandakatzen du objektu oso konplexuen bistaratzea azkartzeko. </translation>
     </message>
     <message>
         <location filename="../../scribus/ui/layers.cpp" line="686"/>
         <source>Select Objects on Layer. Check to enable selecting.</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu objektuak geruzan. Markatu hautatzea gaitzeko.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/layers.cpp" line="687"/>
         <source>Name of the Layer. Double click on the name of a layer to edit the name.</source>
-        <translation type="unfinished"/>
+        <translation>Geruzaren izena. Klik bikoitza geruzaren izenean hura editatzeko</translation>
     </message>
 </context>
 <context>
@@ -11863,7 +11869,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../scribus/ui/margindialog.cpp" line="184"/>
         <source>Size of the inserted pages, either a standard or custom size</source>
-        <translation type="unfinished"/>
+        <translation>Txertatutako orrialdeen tamaina, bai estandarra bai tamaina pertsonalizatukoa</translation>
     </message>
 </context>
 <context>
@@ -12020,27 +12026,27 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../scribus/ui/marginwidget.cpp" line="104"/>
         <source>Import the margins for the selected page size from the available printers</source>
-        <translation type="unfinished"/>
+        <translation>Inportatu marjinak inprimagailu erabilgarrietatik (hautatutako orri-tamainarentzako)</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/marginwidget.cpp" line="159"/>
         <source>Distance between the left margin guide and the edge of the page. If a double-sided, 3 or 4-fold layout is selected, this margin space can be used to achieve the correct margins for binding.</source>
-        <translation type="unfinished"/>
+        <translation>Ezkerreko marjinako gidaren eta orrialde-ertzaren arteko distantzia. Bi, hiru edo lau aldeko diseinu bat hautatu bada, marjineko espazio hori liburua josteko marjina zuzenak lortzeko erabil daiteke.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/marginwidget.cpp" line="160"/>
         <source>Distance between the right margin guide and the edge of the page. If a double-sided, 3 or 4-fold layout is selected, this margin space can be used to achieve the correct margins for binding.</source>
-        <translation type="unfinished"/>
+        <translation>Eskuineko marjinako gidaren eta orrialde-ertzaren arteko distantzia. Bi, hiru edo lau aldeko diseinu bat hautatu bada, marjineko espazio hori liburua josteko marjina zuzenak lortzeko erabil daiteke.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/marginwidget.cpp" line="147"/>
         <source>Ensure all bleeds have the same value</source>
-        <translation type="unfinished"/>
+        <translation>Ziurtatu koskatze guztiek balio bera dutela</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/marginwidget.cpp" line="161"/>
         <source>Ensure all margins have the same value</source>
-        <translation type="unfinished"/>
+        <translation>Ziurtatu marjina guztiek balio bera dutela</translation>
     </message>
 </context>
 <context>
@@ -12184,23 +12190,23 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Edit selected Mark`s label. To create new Mark select &quot;New Mark&quot; in drop list and input new label.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Editatu hautatutako marken etiketa. Marka berria sortzeko, hautatu &apos;Marka berria&apos; goitibeherako zerrendan eta sartu etiketa berria.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/markvariabletext.cpp" line="18"/>
         <source>Edit selected Mark&apos;s label. To create new Mark select &quot;New Mark&quot; in drop list and input new label.</source>
-        <translation type="unfinished"/>
+        <translation>Editatu hautatutako marken etiketa. Marka berria sortzeko, hautatu &apos;Marka berria&apos; goitibeherako zerrendan eta sartu etiketa berria.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/markvariabletext.cpp" line="31"/>
         <source>Edit selected Mark&apos;s label</source>
-        <translation type="unfinished"/>
+        <translation>Editatu hautatutako markaren etiketa</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/markvariabletext.cpp" line="48"/>
         <location filename="../../scribus/ui/markvariabletext.cpp" line="64"/>
         <source>Edit selected Mark&apos;s label.</source>
-        <translation type="unfinished"/>
+        <translation>Editatu hautatutako markaren etiketa.</translation>
     </message>
 </context>
 <context>
@@ -12437,7 +12443,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../scribus/ui/measurementsbase.ui" line="14"/>
         <source>Measurements</source>
-        <translation type="unfinished"/>
+        <translation>Neurriak</translation>
     </message>
 </context>
 <context>
@@ -12520,7 +12526,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../scribus/ui/mergedoc.cpp" line="72"/>
         <source>Insert a comma separated list of tokens import where a token can be * for all the pages, 1-5 for a range of pages or a single page number</source>
-        <translation type="unfinished"/>
+        <translation>Txertatu komaz bereiztutako token-en zerrenda, token-a izan daiteke * orrialde guztientzako, 1-5 orrialde barruti batentzako, edo orrialde bakar baten zenbakia</translation>
     </message>
 </context>
 <context>
@@ -13123,37 +13129,37 @@ hautatu baduzu.</translation>
     <message>
         <location filename="../../scribus/ui/newmarginwidget.cpp" line="83"/>
         <source>Distance between the left margin guide and the edge of the page. If a double-sided, 3 or 4-fold layout is selected, this margin space can be used to achieve the correct margins for binding.</source>
-        <translation type="unfinished"/>
+        <translation>Ezkerreko marjinako gidaren eta orrialde-ertzaren arteko distantzia. Bi, hiru edo lau aldeko diseinu bat hautatu bada, marjineko espazio hori liburua josteko marjina zuzenak lortzeko erabil daiteke.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/newmarginwidget.cpp" line="84"/>
         <source>Distance between the right margin guide and the edge of the page. If a double-sided, 3 or 4-fold layout is selected, this margin space can be used to achieve the correct margins for binding.</source>
-        <translation type="unfinished"/>
+        <translation>Eskuineko marjinako gidaren eta orrialde-ertzaren arteko distantzia. Bi, hiru edo lau aldeko diseinu bat hautatu bada, marjineko espazio hori liburua josteko marjina zuzenak lortzeko erabil daiteke.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/newmarginwidget.cpp" line="93"/>
         <source>Import the margins for the selected page size from the available printers</source>
-        <translation type="unfinished"/>
+        <translation>Inportatu marjinak inprimagailu erabilgarrietatik (hautatutako orri-tamainarentzako)</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/newmarginwidget.cpp" line="88"/>
         <source>Distance for bleed from the top of the physical page</source>
-        <translation type="unfinished"/>
+        <translation>Distantzia koskatzera orrialde fisikoaren goialdetik</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/newmarginwidget.cpp" line="89"/>
         <source>Distance for bleed from the bottom of the physical page</source>
-        <translation type="unfinished"/>
+        <translation>Distantzia koskatzera orrialde fisikoaren behealdetik</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/newmarginwidget.cpp" line="90"/>
         <source>Distance for bleed from the left of the physical page</source>
-        <translation type="unfinished"/>
+        <translation>Distantzia koskatzera orrialde fisikoaren ezkerraldetik</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/newmarginwidget.cpp" line="91"/>
         <source>Distance for bleed from the right of the physical page</source>
-        <translation type="unfinished"/>
+        <translation>Distantzia koskatzera orrialde fisikoaren eskuinaldetik</translation>
     </message>
 </context>
 <context>
@@ -13384,7 +13390,7 @@ hautatu baduzu.</translation>
     <message>
         <location filename="../../scribus/ui/nodeeditpalette.cpp" line="1046"/>
         <source>When checked use coordinates relative to the page, otherwise coordinates are relative to the Object</source>
-        <translation type="unfinished"/>
+        <translation>Egiaztatuta dagoenean orrialdearekiko korrdenatu erlatiboak erabiltzen ditu, bestela koordenatuak objektuarekiko erlatiboak dira</translation>
     </message>
 </context>
 <context>
@@ -13966,12 +13972,12 @@ objektuetan bihurtuz.</translation>
     <message>
         <location filename="../../scribus/plugins/gettext/odtim/odtdia.cpp" line="72"/>
         <source>Prepend the document name to the paragraph style name in Scribus</source>
-        <translation type="unfinished"/>
+        <translation>Jarri aurretik dokumentuaren izena paragrafo-estiloaren izenari Scribus-en</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/gettext/odtim/odtdia.cpp" line="81"/>
         <source>Make these settings the default and do not prompt again when importing an OASIS OpenDocument</source>
-        <translation type="unfinished"/>
+        <translation>Jarri ezarpen hauek lehenetsi gisa, eta ez galdetu berriro OASIS OpenDocument inportatzean</translation>
     </message>
 </context>
 <context>
@@ -14118,7 +14124,7 @@ objektuetan bihurtuz.</translation>
     <message>
         <location filename="../../scribus/ui/outlinepalette.cpp" line="426"/>
         <source>Enter a keyword or regular expression to filter the outline</source>
-        <translation type="unfinished"/>
+        <translation>Sartu gako-hitz bat edo adierazpen erregular bat eskema iragazteko</translation>
     </message>
 </context>
 <context>
@@ -14253,18 +14259,19 @@ objektuetan bihurtuz.</translation>
     <message>
         <location filename="../../scribus/ui/pdfexportdialog.cpp" line="135"/>
         <source>Open the exported PDF with the PDF viewer as set in External Tools preferences, when not exporting to a multi-file export destination</source>
-        <translation type="unfinished"/>
+        <translation>Ireki esportatutako PDFa kanpoko tresnen hobespenetan ezarri den PDF bisorearekin, fitxategi anitzeko esportazioa egin ez denean</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/pdfexportdialog.cpp" line="136"/>
         <source>The save button will be disabled if you are trying to export PDF/X and the info string is missing from the PDF/X tab</source>
-        <translation type="unfinished"/>
+        <translation>Gorde botoia desgaitu egingo da PDF/X formatura esportatzen saiatzean, eta informazioaren katea galdu egingo da PDF/X fitxatik</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/pdfexportdialog.cpp" line="176"/>
         <source>The range of pages to export is invalid.
 Please check it and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Esportatu nahi den orrialde-barrutia baliogabea da.
+Egiaztatu ondo dagoela eta saiatu berriro.</translation>
     </message>
 </context>
 <context>
@@ -14565,12 +14572,13 @@ Please check it and try again.</source>
     <message>
         <location filename="../../scribus/ui/preview.cpp" line="351"/>
         <source>Shows transparency and transparent items in your document. Requires Ghostscript 7.07 or later.</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi gardentasuna eta elementu gardenak dokumentuan. Ghostscript 7.07 edo 
+berriagoa behar da.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/preview.cpp" line="354"/>
         <source>Resize the scale of the page</source>
-        <translation type="unfinished"/>
+        <translation>Aldatu orriaren eskalaren tamaina</translation>
     </message>
 </context>
 <context>
@@ -15118,7 +15126,7 @@ Often used for allowing items to be placed across page spreads</source>
     <message>
         <location filename="../../scribus/ui/pagelayout.cpp" line="298"/>
         <source>Number of pages to show side-by-side on the canvas. Often used for allowing items to be placed across page spreads.</source>
-        <translation type="unfinished"/>
+        <translation>Oihalean elkarren alboan erakutsiko den orrialde kopurua. Sarritan elementuak hainbat orrialdetan barrena kokatzeko erabiltzen da.</translation>
     </message>
 </context>
 <context>
@@ -16071,17 +16079,17 @@ Emaitza &apos;Ebakidura&apos; eta &apos;Esklusio&apos; aukeren konbinazioa da.</
     <message>
         <location filename="../../scribus/plugins/tools/pathfinder/pathfinderbase.ui" line="42"/>
         <source>First source shape</source>
-        <translation type="unfinished"/>
+        <translation>Lehen iturburuko forma</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/tools/pathfinder/pathfinderbase.ui" line="153"/>
         <source>Second source shape</source>
-        <translation type="unfinished"/>
+        <translation>Bigarren iturburuko forma</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/tools/pathfinder/pathfinderbase.ui" line="261"/>
         <source>The resulting shape</source>
-        <translation type="unfinished"/>
+        <translation>Emaitza gisa lortu den forma</translation>
     </message>
 </context>
 <context>
@@ -16549,7 +16557,7 @@ Hautatu beste bat.</translation>
     <message>
         <location filename="../../scribus/ui/picsearchoptions.cpp" line="52"/>
         <source>The filesystem will be searched for case insensitive file names when you check this on. Remember it is not default on most operating systems except MS Windows.</source>
-        <translation type="unfinished"/>
+        <translation>Hau markatzen baduzu, maiuskulak eta minuskulak bereizi gabe bilatuko dira fitxategi-izenak fitxategi-sisteman. Gogoan izan hori ez dela portaera lehenetsia sistema eragile askotan (MS Windowsen bai).</translation>
     </message>
 </context>
 <context>
@@ -18545,7 +18553,7 @@ egoerako %2 kodea</translation>
     <message>
         <location filename="../../scribus/ui/prefs_display.cpp" line="73"/>
         <source>Enable or disable the display of linked frames</source>
-        <translation type="unfinished"/>
+        <translation>Gaitu edo desgaitu estekatutako markoen bistaratzea</translation>
     </message>
 </context>
 <context>
@@ -19431,27 +19439,27 @@ Hori erabili nahi duzu?</translation>
     <message>
         <location filename="../../scribus/ui/prefs_externaltoolsbase.ui" line="333"/>
         <source>&lt;qt&gt;File system location for web browser&lt;/qt&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;Web nabigatzailearen kokapena fitxategi-sisteman&lt;/qt&gt;</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_externaltoolsbase.ui" line="400"/>
         <source>&lt;qt&gt;File system location for PDF viewer&lt;/qt&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;PDF ikustailearen kokapena fitxategi-sisteman&lt;/qt&gt;</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_externaltoolsbase.ui" line="460"/>
         <source>&lt;qt&gt;File system location for Uniconvertor&lt;/qt&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;Uniconvertor-en kokapena fitxategi-sisteman&lt;/qt&gt;</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_externaltoolsbase.ui" line="586"/>
         <source>&lt;qt&gt;Path to the editor executable&lt;/qt&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;Editorearen exekutagarriaren bide-izena&lt;/qt&gt;</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_externaltoolsbase.ui" line="657"/>
         <source>Always use the configured DPI setting for calculating the size, even if the image file reports something different</source>
-        <translation type="unfinished"/>
+        <translation>Erabili beti konfiguratutako DPI ezarpena tamaian kalkulatzeko, baita irudi-fitxategiak beste zerbait dionean ere</translation>
     </message>
 </context>
 <context>
@@ -19759,7 +19767,7 @@ Hori erabili nahi duzu?</translation>
     <message>
         <location filename="../../scribus/ui/prefs_guides.cpp" line="88"/>
         <source>Radius of the area where Scribus will allow you to grab an objects handles. After setting this you will need to restart Scribus to set this setting.</source>
-        <translation type="unfinished"/>
+        <translation>Objektuen heldulekuak atzitu ahal diren azaleraren erradioa. Hau ezarri ondoren, Scribus berrabiarazi beharko duzu ezarpena indarrean sar dadin.</translation>
     </message>
 </context>
 <context>
@@ -19872,17 +19880,17 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../scribus/ui/prefs_hyphenatorbase.ui" line="51"/>
         <source>A dialog box showing all possible hyphens for each word will show up when you use the Extras &gt; Hyphenate Text option</source>
-        <translation type="unfinished"/>
+        <translation>Hitz bakoitzaren zatiketa-aukerak erakusten dituen elkarrizketa-koadroa bistaratuko da &apos;Estrak&apos; menuko &apos;Zatitu testua&apos; erabiltzean.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_hyphenatorbase.ui" line="61"/>
         <source>Enables automatic hyphenation of your text while typing</source>
-        <translation type="unfinished"/>
+        <translation>Idatzi ahala zure testuko hitzak automatikoki zatitzea gaitzen du</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_hyphenatorbase.ui" line="120"/>
         <source>Length of the smallest word to be hyphenated</source>
-        <translation type="unfinished"/>
+        <translation>Zatituko den hitzik laburrenaren luzera</translation>
     </message>
 </context>
 <context>
@@ -19943,12 +19951,12 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../scribus/ui/prefs_imagecache.cpp" line="29"/>
         <source>Limit the total size of all files in the image cache directory to this amount</source>
-        <translation type="unfinished"/>
+        <translation>Mugatu irudi-cacheko direktorioko fitxategi guztien tamaina osoa kantitate honetara</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_imagecache.cpp" line="30"/>
         <source>Limit the number of cache entries to this number</source>
-        <translation type="unfinished"/>
+        <translation>Mugatu cache-sarreren kopurua zenbaki honetara</translation>
     </message>
 </context>
 <context>
@@ -21662,82 +21670,82 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     <message>
         <location filename="../../scribus/ui/prefs_pdfexport.cpp" line="50"/>
         <source>Insert a comma separated list of tokens where a token can be * for all the pages, 1-5 for a range of pages or a single page number</source>
-        <translation type="unfinished"/>
+        <translation>Txertatu komaz bereiztutako token-en zerrenda, token bat izan daiteke * orrialde guztientzako, 1-5 orrialde barruti batentzako, edo orrialde bakar baten zenbakia.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_pdfexport.cpp" line="58"/>
         <source>Generate PDF Articles, which is useful for navigating linked articles in a PDF</source>
-        <translation type="unfinished"/>
+        <translation>Sortu PDF artikuluak, PDF batean estekatutako artikuluetan zehar erosoki nabigatzeko</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_pdfexport.cpp" line="59"/>
         <source>Layers in your document are exported to the PDF. Only available if PDF 1.5 is chosen.</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentuko geruzak PDFra esportatzen dira. PDF 1.5 aukeran soilik erabilgarria.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_pdfexport.cpp" line="67"/>
         <source>DPI (Dots Per Inch) for image export</source>
-        <translation type="unfinished"/>
+        <translation>DPI (puntu hazbeteko) irudia esportatzeko</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_pdfexport.cpp" line="70"/>
         <source>Choose a password for users to be able to read your PDF</source>
-        <translation type="unfinished"/>
+        <translation>Aukeratu erabiltzaileen pasahitzak zure PDFa irakur ahal izateko</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_pdfexport.cpp" line="72"/>
         <source>Allow modifying of the PDF. If unchecked, modifying the PDF is prevented.</source>
-        <translation type="unfinished"/>
+        <translation>Baimendu PDFa eraldatzea. Ez badago aktibatuta, PDFa aldatzea galarazita egongo da.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_pdfexport.cpp" line="655"/>
         <source>Type of the display effect</source>
-        <translation type="unfinished"/>
+        <translation>Bistaratzearen efektu-mota</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_pdfexport.cpp" line="656"/>
         <source>Direction of the effect of moving lines for the split and blind effects</source>
-        <translation type="unfinished"/>
+        <translation>Lerro mugikorren efektuaren norabidea efektuak zatitu eta lotzeko</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_pdfexport.cpp" line="657"/>
         <source>Starting position for the box and split effects</source>
-        <translation type="unfinished"/>
+        <translation>Hasierako posizioa kutxa- eta zaitze-efektuentzat</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_pdfexport.cpp" line="658"/>
         <source>Direction of the glitter or wipe effects</source>
-        <translation type="unfinished"/>
+        <translation>Distira- edo ezabatze-efektuen norabidea</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_pdfexport.cpp" line="659"/>
         <source>Apply the selected effect to all pages</source>
-        <translation type="unfinished"/>
+        <translation>Aplikatu hautatutako efektua orrialde guztietan</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_pdfexport.cpp" line="671"/>
         <source>Hides the Menu Bar for the viewer, the PDF will display in a plain window</source>
-        <translation type="unfinished"/>
+        <translation>Bisorearen menu-barra ezkutatzen du, PDFa leiho arrunt batean erakutsiko da</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_pdfexport.cpp" line="672"/>
         <source>Fit the document page or pages to the available space in the viewer window</source>
-        <translation type="unfinished"/>
+        <translation>Doitu dokumentuaren orrialdea edo orrialdeak bisorearen leihoan erabilgarri dagoen espaziora</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_pdfexport.cpp" line="660"/>
         <source>Embed only subset fonts with glyphs used in the document into the PDF</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentuan erabilitako glifoak dituzten letra-tipoen azpimultzoak soilik kapsulatu PDFan</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_pdfexportbase.ui" line="1215"/>
         <source>PDF/X Output Intent</source>
-        <translation type="unfinished"/>
+        <translation>PDF/X irteera</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_pdfexport.cpp" line="71"/>
         <source>Allow printing of the PDF. If unchecked, printing is prevented.</source>
-        <translation type="unfinished"/>
+        <translation>Baimendu PDFa inprimatzea. Ez bada aktibatzen, inprimatzea galarazita egongo da.</translation>
     </message>
 </context>
 <context>
@@ -22275,7 +22283,8 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
         <location filename="../../scribus/ui/prefs_printer.cpp" line="33"/>
         <source>Sets the PostScript Level.
  Setting to Level 1 or 2 can create huge files.</source>
-        <translation type="unfinished"/>
+        <translation>PostScript maila ezartzen du.
+1. edo 2. maila ezartzeak fitxategi handiak sor ditzake.</translation>
     </message>
 </context>
 <context>
@@ -22332,7 +22341,7 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     <message>
         <location filename="../../scribus/ui/prefs_scrapbook.cpp" line="25"/>
         <source>This enables the scrapbook to be used an extension to the copy/paste buffers. Simply copying an object or grouped object will send this to the Scrapbook automatically.</source>
-        <translation type="unfinished"/>
+        <translation>Ebakinen albuma kopiatu/itsatsi bufferren luzapen gisa erabiltzea ahalbidetzen du. Objektu bat edo taldekatutako objektu bat kopiatzeak hura ebakinen albumera automatikoki bidaliko du.</translation>
     </message>
 </context>
 <context>
@@ -22961,17 +22970,19 @@ konfiguratuta badago KDEko pluginak bilatzeko.</translation>
     <message>
         <location filename="../../scribus/ui/prefs_userinterface.cpp" line="53"/>
         <source>Select your default language for Scribus to run with. Leave this blank to choose based on environment variables. You can still override this by passing a command line option when starting Scribus.</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu Scribus-ek erabiliko duen hizkuntza lehenetsia. Utzi hau hutsik
+inguruneko aldagaien arabera aukeratzeko. Komando-lerroko aukera bat
+erabil dezakezu, Scribus abiaraztean, erabilera hau gainidazteko.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_userinterface.cpp" line="56"/>
         <source>Palette windows will use smaller (space savy) widgets. Requires application restart.</source>
-        <translation type="unfinished"/>
+        <translation>Paleta-leihoek widget txikiagoak (toki gutxiago betetzen dutenak) erabiliko dituzte. Aplikazioa berrabiarazi behar da.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_userinterface.cpp" line="64"/>
         <source>The default behavior when double-clicking on a word is to select the word and the first following space. Smart selection will select only the word, without the following space.</source>
-        <translation type="unfinished"/>
+        <translation>Hitz batean sakatzearen portaera lehenetsia hitza bera eta haren ondoren dagoen lehen zuriunea hautatzea da. Hautapen adimentsuak hitza soilik hautatuko du, hurrengo zuriunerik gabe.</translation>
     </message>
 </context>
 <context>
@@ -23423,17 +23434,19 @@ Note: PDF Forms will not be exported.</source>
         <source>Insert a comma separated list of tokens where
 a token can be * for all the pages, 1-5 for
 a range of pages or a single page number</source>
-        <translation type="unfinished"/>
+        <translation>Txertatu komaz bereiztutako token-en zerrenda, 
+token-a izan daiteke * orrialde guztientzako, 1-5 orrialde barruti 
+batentzako, edo orrialde bakar baten zenbakia</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/printdialogbase.ui" line="343"/>
         <source>Include PDF Annotations and Links into the output. Note: PDF Forms will not be exported.</source>
-        <translation type="unfinished"/>
+        <translation>Sartu PDF oharpenak eta estekak irteeran. Oharra: PDF inprimakiak ez dira esportatuko.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/printdialogbase.ui" line="336"/>
         <source>Sets the PostScript Level. Setting to Level 1 or 2 can create huge files.</source>
-        <translation type="unfinished"/>
+        <translation>PostScript maila ezartzen du. 1. edo 2. maila ezartzeak fitxategi handiak sor ditzake.</translation>
     </message>
 </context>
 <context>
@@ -23570,22 +23583,22 @@ a range of pages or a single page number</source>
     <message>
         <location filename="../../scribus/ui/propertiespalette_group.cpp" line="641"/>
         <source>Use the frame shape for text flow of text frames below the object</source>
-        <translation type="unfinished"/>
+        <translation>Erabili markoaren forma objektuaren azpian dauden testu-markoen testu-fluxurako</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertiespalette_group.cpp" line="642"/>
         <source>Use the bounding box, which is always rectangular, instead of the frame&apos;s shape for text flow of text frames below the object</source>
-        <translation type="unfinished"/>
+        <translation>Erabili muga-koadroa, beti laukizuzena dena, markoaren forma erabili ordez objektuaren azpian dauden testu-markoen testua egokitzeko</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertiespalette_group.cpp" line="646"/>
         <source>Any path self-intersections or subpaths create holes in the fill</source>
-        <translation type="unfinished"/>
+        <translation>Bideen edozein autoebakidurak edo azpibidek zuloak sortzen ditu betegarrian</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertiespalette_group.cpp" line="647"/>
         <source>Fill is solid unless a subpath is counter-directional</source>
-        <translation type="unfinished"/>
+        <translation>Betegarria solidoa da azpibide bat kontrako noranzkoa ez bada</translation>
     </message>
 </context>
 <context>
@@ -23668,7 +23681,7 @@ a range of pages or a single page number</source>
     <message>
         <location filename="../../scribus/ui/propertiespalette_groupbase.ui" line="324"/>
         <source>When the group&apos;s bounding frame has been edited, clip the contents of the page items to the edited bounding frame</source>
-        <translation type="unfinished"/>
+        <translation>Taldearen muga-markoa editatu denean, moztu orrialdeko elementuen edukiak editatutako muga-markoarekin</translation>
     </message>
 </context>
 <context>
@@ -23919,17 +23932,17 @@ a range of pages or a single page number</source>
     <message>
         <location filename="../../scribus/ui/propertiespalette_image.cpp" line="797"/>
         <source>Scaling</source>
-        <translation type="unfinished"/>
+        <translation>Eskalatzea</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertiespalette_image.cpp" line="806"/>
         <source>Color Management</source>
-        <translation type="unfinished"/>
+        <translation>Kolore-kudeaketa</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertiespalette_image.cpp" line="810"/>
         <source>PDF Compression</source>
-        <translation type="unfinished"/>
+        <translation>PDF konpresioa</translation>
     </message>
 </context>
 <context>
@@ -24654,12 +24667,12 @@ gardentasuna</translation>
     <message>
         <location filename="../../scribus/ui/propertiespalette_shape.cpp" line="556"/>
         <source>Any path self-intersections or subpaths create holes in the fill</source>
-        <translation type="unfinished"/>
+        <translation>Bideen edozein autoebakidurak edo azpibidek zuloak sortzen ditu betegarrian</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertiespalette_shape.cpp" line="557"/>
         <source>Fill is solid unless a subpath is counter-directional</source>
-        <translation type="unfinished"/>
+        <translation>Betegarria solidoa da azpibide bat kontrako noranzkoa ez bada</translation>
     </message>
 </context>
 <context>
@@ -24955,7 +24968,7 @@ gardentasuna</translation>
     <message>
         <location filename="../../scribus/ui/propertiespalette_text.cpp" line="666"/>
         <source>Select the line spacing mode</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu lerroarte modua</translation>
     </message>
 </context>
 <context>
@@ -25455,7 +25468,7 @@ gardentasuna</translation>
     <message>
         <location filename="../../scribus/ui/propertywidget_distance.cpp" line="437"/>
         <source>Vertical Alignment</source>
-        <translation type="unfinished"/>
+        <translation>Lerrokatze bertikala</translation>
     </message>
 </context>
 <context>
@@ -25925,12 +25938,12 @@ gardentasuna</translation>
     <message>
         <location filename="../../scribus/ui/propertywidget_pareffect.cpp" line="573"/>
         <source>Effect Parameters</source>
-        <translation type="unfinished"/>
+        <translation>Efektu-parametroak</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertywidget_pareffect.cpp" line="577"/>
         <source>Choose character style or leave blank for use default paragraph style</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu karaktere-estiloa edo utzi hutsik paragrafo-estilo lehenetsia erabiltzeko</translation>
     </message>
 </context>
 <context>
@@ -26137,7 +26150,7 @@ Biak aukeratzen badira, kolore berdina partekatuko dute.</translation>
     <message>
         <location filename="../../scribus/ui/propertywidget_textcolor.cpp" line="500"/>
         <source>Color of text stroke and/or drop shadow, depending which is chosen. If both are chosen, then they share the same color.</source>
-        <translation type="unfinished"/>
+        <translation>Testuaren trazua edota itzalaren kolorea, aukeratzen denaren arabera. Biak aukeratzen badira, kolore berdina partekatuko dute.</translation>
     </message>
 </context>
 <context>
@@ -26310,7 +26323,7 @@ informazio gehiagorako.</translation>
     <message>
         <location filename="../../scribus/plugins/scriptplugin/pconsole.cpp" line="134"/>
         <source>Write your commands here. A selection is processed as script.</source>
-        <translation type="unfinished"/>
+        <translation>Idatzi zure komandoak hemen. Hautapen bat scrip gisa prozesatzen da.</translation>
     </message>
 </context>
 <context>
@@ -30221,47 +30234,47 @@ Therefore the image may be not correct</source>
     <message>
         <location filename="../../scribus/numeration.cpp" line="51"/>
         <source>1, 2, 3, ...</source>
-        <translation type="unfinished"/>
+        <translation>1, 2, 3, ...</translation>
     </message>
     <message>
         <location filename="../../scribus/numeration.cpp" line="51"/>
         <source>i, ii, iii, ...</source>
-        <translation type="unfinished"/>
+        <translation>i, ii, iii, ...</translation>
     </message>
     <message>
         <location filename="../../scribus/numeration.cpp" line="51"/>
         <source>I, II, III, ...</source>
-        <translation type="unfinished"/>
+        <translation>I, II, III, ...</translation>
     </message>
     <message>
         <location filename="../../scribus/numeration.cpp" line="51"/>
         <source>a, b, c, ...</source>
-        <translation type="unfinished"/>
+        <translation>a, b, c, ...</translation>
     </message>
     <message>
         <location filename="../../scribus/numeration.cpp" line="51"/>
         <source>A, B, C, ...</source>
-        <translation type="unfinished"/>
+        <translation>A, B, C, ...</translation>
     </message>
     <message>
         <location filename="../../scribus/numeration.cpp" line="51"/>
         <source>*</source>
-        <translation type="unfinished"/>
+        <translation>*</translation>
     </message>
     <message>
         <location filename="../../scribus/numeration.cpp" line="51"/>
         <source>CJK</source>
-        <translation type="unfinished"/>
+        <translation>CJK</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/gettext/rtfim/rtfim.cpp" line="25"/>
         <source>RTF Document</source>
-        <translation type="unfinished"/>
+        <translation>RTF dokumentua</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/gettext/docxim/docxim.cpp" line="29"/>
         <source>DOCX Document</source>
-        <translation type="unfinished"/>
+        <translation>DOCX dokumentua</translation>
     </message>
 </context>
 <context>
@@ -30486,13 +30499,13 @@ Hautatu beste bat.</translation>
     <message>
         <location filename="../../scribus/ui/resourcemanager.cpp" line="169"/>
         <source>Licence</source>
-        <translation type="unfinished"/>
+        <translation>Lizentzia</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/resourcemanager.cpp" line="408"/>
         <location filename="../../scribus/ui/resourcemanager.cpp" line="508"/>
         <source>License</source>
-        <translation type="unfinished"/>
+        <translation>Lizentzia</translation>
     </message>
 </context>
 <context>
@@ -30559,7 +30572,7 @@ Hautatu beste bat.</translation>
     <message>
         <location filename="../../scribus/ui/resourcemanagerbase.ui" line="234"/>
         <source>Show License</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi lizentzia</translation>
     </message>
 </context>
 <context>
@@ -30567,7 +30580,7 @@ Hautatu beste bat.</translation>
     <message>
         <location filename="../../scribus/ui/resourcemanagerlicensebase.ui" line="14"/>
         <source>License</source>
-        <translation type="unfinished"/>
+        <translation>Lizentzia</translation>
     </message>
 </context>
 <context>
@@ -31684,59 +31697,59 @@ Uneko zuriune-balioaren ehuneko gisa adierazita.</translation>
     <message>
         <location filename="../../scribus/ui/smpstylewidget.ui" line="630"/>
         <source>Bullet Character(s)</source>
-        <translation type="unfinished"/>
+        <translation>Bulet-karakterea(k)</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/smpstylewidget.ui" line="675"/>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="178"/>
         <source>Character Table</source>
-        <translation type="unfinished"/>
+        <translation>Karaktere-taula</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/smpstylewidget.ui" line="709"/>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="180"/>
         <source>Numbering</source>
-        <translation type="unfinished"/>
+        <translation>Zenbakitzea</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/smpstylewidget.ui" line="740"/>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="181"/>
         <source>Level:</source>
-        <translation type="unfinished"/>
+        <translation>Maila:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/smpstylewidget.ui" line="777"/>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="183"/>
         <source>Numbering Style:</source>
-        <translation type="unfinished"/>
+        <translation>Zenbakitze-estiloa:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/smpstylewidget.ui" line="797"/>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="184"/>
         <source>Start with:</source>
-        <translation type="unfinished"/>
+        <translation>Hasi honekin:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/smpstylewidget.ui" line="831"/>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="185"/>
         <source>Prefix:</source>
-        <translation type="unfinished"/>
+        <translation>Aurrizkia:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/smpstylewidget.ui" line="841"/>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="186"/>
         <source>Suffix:</source>
-        <translation type="unfinished"/>
+        <translation>Atzizkia:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="177"/>
         <source>Bullet Character(s):</source>
-        <translation type="unfinished"/>
+        <translation>Bulet-karakterea(k):</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="187"/>
         <source>Restart:</source>
-        <translation type="unfinished"/>
+        <translation>Berrabiarazi:</translation>
     </message>
 </context>
 <context>
@@ -32120,7 +32133,7 @@ Kontuz: honek fitxategi-tamaina handituko du!</translation>
     <message>
         <location filename="../../scribus/plugins/export/svgexplugin/svgexplugin.cpp" line="148"/>
         <source>Adds the Page itself as background to the SVG</source>
-        <translation type="unfinished"/>
+        <translation>Gehitu orrialdea bera SVGaren atzeko plano gisa</translation>
     </message>
 </context>
 <context>
@@ -32247,19 +32260,19 @@ beraien bektore-datuak Scribus objektuetan bihurtuz.</translation>
         <location filename="../../scribus/plugins/short-words/swdialog.cpp" line="122"/>
         <source>Only selected frames processed</source>
         <comment>short words plugin</comment>
-        <translation type="unfinished"/>
+        <translation>Hautatutako markoak soilik prozesatu dira</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/short-words/swdialog.cpp" line="123"/>
         <source>Only actual page processed</source>
         <comment>short words plugin</comment>
-        <translation type="unfinished"/>
+        <translation>Uneko orrialdea soilik prozesatu da</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/short-words/swdialog.cpp" line="124"/>
         <source>All items in document processed</source>
         <comment>short words plugin</comment>
-        <translation type="unfinished"/>
+        <translation>Dokumentu elementu guztiak prozesatu diraq</translation>
     </message>
 </context>
 <context>
@@ -32332,7 +32345,8 @@ beraien bektore-datuak Scribus objektuetan bihurtuz.</translation>
     <message>
         <location filename="../../scribus/plugins/short-words/swprefsgui.cpp" line="97"/>
         <source>Edit custom configuration. If you save it, it will be used over system wide configuration.</source>
-        <translation type="unfinished"/>
+        <translation>Editatu konfigurazio pertsonalizatua. Gordetzen baduzu, konfigurazio orokorraren 
+gainean erabiliko da.</translation>
     </message>
 </context>
 <context>
@@ -34902,61 +34916,61 @@ Inprimatze aurreko egiaztatzailea erabil dezakezu haiek zuzentzeko.</translation
     </message>
     <message>
         <source>Invalid argument use: &apos;%1&apos; requires to be followed by &lt;argument&gt; [value]</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Argumentuaren erabilera baliogabea: &apos;%1&apos;-ek behar du &lt;argumentua&gt; [balioa] izatea jarraian</translation>
     </message>
     <message>
         <location filename="../../scribus/scribusapp.cpp" line="576"/>
         <source>Usage: scribus [options] [files]</source>
-        <translation type="unfinished"/>
+        <translation>Erabilera: scribus [aukerak] [fitxategia]</translation>
     </message>
     <message>
         <source>argument</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">argumentua</translation>
     </message>
     <message>
         <source>value</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">balioa</translation>
     </message>
     <message>
         <source>Argument passed on to python script, with an optional value, no effect without -py</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Python script-ari pasatutako argumentua, aukerako balioarekin, efekturik ez -py gabe</translation>
     </message>
     <message>
         <location filename="../../scribus/scribusapp.cpp" line="590"/>
         <source>Explicit end of command line options</source>
-        <translation type="unfinished"/>
+        <translation>Komando-lerroko aukeren amaiera esplizitua</translation>
     </message>
     <message>
         <location filename="../../scribus/scribusapp.cpp" line="174"/>
         <location filename="../../scribus/scribusapp.cpp" line="202"/>
         <location filename="../../scribus/scribusapp.cpp" line="268"/>
         <source>Option %1 requires an argument.</source>
-        <translation type="unfinished"/>
+        <translation>%1 aukerak argumentu bat behar du.</translation>
     </message>
     <message>
         <location filename="../../scribus/scribusapp.cpp" line="180"/>
         <source>Python script %1 does not exist, aborting.</source>
-        <translation type="unfinished"/>
+        <translation>%1 Python script-a ez da existitzen, abortatzen.</translation>
     </message>
     <message>
         <location filename="../../scribus/scribusapp.cpp" line="274"/>
         <source>Preferences file %1 does not exist, aborting.</source>
-        <translation type="unfinished"/>
+        <translation>%1 hobespen-fitxategia ez da existitzen, abortatzen.</translation>
     </message>
     <message>
         <location filename="../../scribus/scribusapp.cpp" line="588"/>
         <source>script</source>
-        <translation type="unfinished"/>
+        <translation>script-a</translation>
     </message>
     <message>
         <location filename="../../scribus/scribusapp.cpp" line="588"/>
         <source>arguments ...</source>
-        <translation type="unfinished"/>
+        <translation>argumentuak ...</translation>
     </message>
     <message>
         <location filename="../../scribus/scribusapp.cpp" line="588"/>
         <source>Run script in Python [with optional arguments]. This option must be last option used</source>
-        <translation type="unfinished"/>
+        <translation>Exekutatu script-a Python-en [aukerako argumentuekin]. Aukera horrek erabilitako azkena izan behar du</translation>
     </message>
 </context>
 <context>
@@ -35041,7 +35055,7 @@ eragiketa saltatu egingo da</translation>
     <message>
         <location filename="../../scribus/scribusview.cpp" line="257"/>
         <source>Click here to leave this special edit mode</source>
-        <translation type="unfinished"/>
+        <translation>Klik hemen edizio-modu berezi hau uzteko</translation>
     </message>
 </context>
 <context>
@@ -36152,12 +36166,12 @@ helbidera bidaliko bazenu.</translation>
     <message>
         <location filename="../../scribus/ui/storyeditor.cpp" line="2027"/>
         <source>&amp;Glyph...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Glifoa...</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/storyeditor.cpp" line="2032"/>
         <source>&amp;Sample Text</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Adibideko testua</translation>
     </message>
 </context>
 <context>
@@ -36405,7 +36419,7 @@ helbidera bidaliko bazenu.</translation>
     <message>
         <location filename="../../scribus/ui/stylemanager.ui" line="138"/>
         <source>Clone copies the style to make similar styles easily</source>
-        <translation type="unfinished"/>
+        <translation>Klonatzeak estiloa kopiatzen du antzeko estiloak sortzea errazteko</translation>
     </message>
 </context>
 <context>
@@ -36563,7 +36577,7 @@ bertsioko dokumentua inportatzean.</translation>
     <message>
         <location filename="../../scribus/plugins/gettext/sxwim/sxwdia.cpp" line="62"/>
         <source>Make these settings the default and do not prompt again when importing an OpenOffice.org 1.x document</source>
-        <translation type="unfinished"/>
+        <translation>Jarri ezarpen hauek lehenetsi gisa, eta ez galdetu berriro OpenOffice.org 1.x bertsioko dokumentua inportatzean</translation>
     </message>
 </context>
 <context>
@@ -36576,12 +36590,12 @@ bertsioko dokumentua inportatzean.</translation>
     <message>
         <location filename="../../scribus/ui/symbolpalette.cpp" line="181"/>
         <source>Edit Item</source>
-        <translation type="unfinished"/>
+        <translation>Editatu elementua</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/symbolpalette.cpp" line="183"/>
         <source>Remove Item</source>
-        <translation type="unfinished"/>
+        <translation>Kendu elementua</translation>
     </message>
 </context>
 <context>
@@ -37814,52 +37828,52 @@ Adobe&amp;#174; Reader&amp;#174; eta beste PDF ikustaileak erabiltzean</translat
     <message>
         <location filename="../../scribus/ui/tabpdfoptions.cpp" line="269"/>
         <source>This is an advanced setting which is not enabled by default. This should only be enabled when specifically requested by your printer and they have given you the exact details needed. Otherwise, your exported PDF may not print properly and is truly not portable across systems.</source>
-        <translation type="unfinished"/>
+        <translation>Hau ezarpen aurreratu da, lehenetsi gisa gaitzen ez dena. Ezarpen hau soilik gaitu baldin eta inprimagailuak bereziki eskatzen badu eta behar dituen zehaztasun guztiak ematen baditu. Bestela, esportatutako PDFa ez da ongi inprimatuko eta sistemetan zehar ez da eramangarria izango.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/tabpdfoptions.cpp" line="208"/>
         <source>Insert a comma separated list of tokens where a token can be * for all the pages, 1-5 for a range of pages or a single page number</source>
-        <translation type="unfinished"/>
+        <translation>Txertatu komaz bereiztutako token-en zerrenda, token bat izan daiteke * orrialde guztientzako, 1-5 orrialde barruti batentzako, edo orrialde bakar baten zenbakia.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/tabpdfoptions.cpp" line="218"/>
         <source>Generate PDF Articles, which is useful for navigating linked articles in a PDF</source>
-        <translation type="unfinished"/>
+        <translation>Sortu PDF artikuluak, PDF batean estekatutako artikuluetan zehar erosoki nabigatzeko</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/tabpdfoptions.cpp" line="219"/>
         <source>Layers in your document are exported to the PDF. Only available if PDF 1.5 is chosen.</source>
-        <translation type="unfinished"/>
+        <translation>Dokumentuko geruzak PDFra esportatzen dira. PDF 1.5 aukeran soilik erabilgarria.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/tabpdfoptions.cpp" line="227"/>
         <source>DPI (Dots Per Inch) for image export</source>
-        <translation type="unfinished"/>
+        <translation>DPI (puntu hazbeteko) irudia esportatzeko</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/tabpdfoptions.cpp" line="261"/>
         <source>Choose a password for users to be able to read your PDF</source>
-        <translation type="unfinished"/>
+        <translation>Aukeratu erabiltzaileen pasahitzak zure PDFa irakur ahal izateko</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/tabpdfoptions.cpp" line="263"/>
         <source>Allow modifying of the PDF. If unchecked, modifying the PDF is prevented.</source>
-        <translation type="unfinished"/>
+        <translation>Baimendu PDFa eraldatzea. Ez badago aktibatuta, PDFa aldatzea galarazita egongo da.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/tabpdfoptions.cpp" line="255"/>
         <source>Hides the Menu Bar for the viewer, the PDF will display in a plain window</source>
-        <translation type="unfinished"/>
+        <translation>Bisorearen menu-barra ezkutatzen du, PDFa leiho arrunt batean erakutsiko da</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/tabpdfoptions.cpp" line="256"/>
         <source>Fit the document page or pages to the available space in the viewer window</source>
-        <translation type="unfinished"/>
+        <translation>Doitu dokumentuaren orrialdea edo orrialdeak bisorearen leihoan erabilgarri dagoen espaziora</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/tabpdfoptions.cpp" line="262"/>
         <source>Allow printing of the PDF. If unchecked, printing is prevented.</source>
-        <translation type="unfinished"/>
+        <translation>Baimendu PDFa inprimatzea. Ez bada aktibatzen, inprimatzea galarazita egongo da.</translation>
     </message>
 </context>
 <context>
@@ -38809,7 +38823,7 @@ to %2</source>
     <message>
         <location filename="../../scribus/undomanager.cpp" line="742"/>
         <source>Raise layer</source>
-        <translation type="unfinished"/>
+        <translation>Goratu geruza</translation>
     </message>
     <message>
         <location filename="../../scribus/undomanager.cpp" line="744"/>
@@ -39762,7 +39776,7 @@ Sistemaren nabigatzaile lehenetsia ireki nahi duzu?</translation>
     <message>
         <location filename="../../scribus/ui/viewtoolbar.cpp" line="98"/>
         <source>Select the visual appearance of the display. You can choose between normal and several color blindness forms.</source>
-        <translation type="unfinished"/>
+        <translation>Hautatu bistaratzearen itxura. Itxura normalaren eta hainbat kolore-itsutasunen artean aukera dezakezu.</translation>
     </message>
 </context>
 <context>
@@ -40002,12 +40016,12 @@ haien datu bektorialak Scribus objektu bihurtuz.</translation>
     <message>
         <location filename="../../scribus/plugins/gettext/xtgim/xtgdialog.cpp" line="55"/>
         <source>Prepend the document name to the Style name in Scribus</source>
-        <translation type="unfinished"/>
+        <translation>Erantsi aurretik dokumentu-izena estilo-izenari Scribus-en</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/gettext/xtgim/xtgdialog.cpp" line="64"/>
         <source>Make these settings the default and do not prompt again when importing an XPress Tags document</source>
-        <translation type="unfinished"/>
+        <translation>Ezarpen hauek ezarpen lehenetsi bihurtu eta ez eskatu berriro XPress Tags dokumentu bat inportatzean</translation>
     </message>
 </context>
 <context>
@@ -40285,7 +40299,7 @@ haien datu bektorialak Scribus objektu bihurtuz.</translation>
     <message>
         <location filename="../../scribus/ui/colorpalette.ui" line="673"/>
         <source>Background:</source>
-        <translation type="unfinished"/>
+        <translation>Atzeko planoa:</translation>
     </message>
 </context>
 <context>

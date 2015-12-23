@@ -249,7 +249,7 @@
     <message>
         <location filename="../../scribus/ui/about.cpp" line="312"/>
         <source>Scribus 1.5.1+ Icon Set:</source>
-        <translation type="unfinished"/>
+        <translation>Jeu d&apos;icônes pour Scribus 1.5.1 et ultérieur</translation>
     </message>
 </context>
 <context>
@@ -561,7 +561,7 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1565"/>
         <source>Raise to &amp;Top</source>
-        <translation type="unfinished"/>
+        <translation>Monter au &amp;premier plan</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1566"/>
@@ -571,7 +571,7 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1567"/>
         <source>&amp;Raise</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Monter</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1570"/>
@@ -2127,7 +2127,7 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1750"/>
         <source>Chat with the Community</source>
-        <translation type="unfinished"/>
+        <translation>Discuter avec la communauté</translation>
     </message>
 </context>
 <context>
@@ -2191,7 +2191,7 @@
     <message>
         <location filename="../../scribus/ui/aligndistribute.ui" line="14"/>
         <source>Align and Distribute</source>
-        <translation type="unfinished"/>
+        <translation>Aligner et distribuer</translation>
     </message>
 </context>
 <context>
@@ -2945,11 +2945,12 @@ Configuration invalide</translation>
     <message>
         <source>Spell Checker Plugin Failed to Initialise.
 Configuration invalid</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">L&apos;initialisation du plugin de correction orthographique a échoué.
+Configuration invalide.</translation>
     </message>
     <message>
         <source>Spell Checker Plugin Failed to Initialise.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">L&apos;initialisation du plugin de vérification orthographique a échoué.</translation>
     </message>
 </context>
 <context>
@@ -3004,7 +3005,7 @@ Configuration invalid</source>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcode.cpp" line="51"/>
         <source>Scribus frontend for Barcode Writer in Pure PostScript</source>
-        <translation type="unfinished"/>
+        <translation>Interface Scribus pour Barcode Writer in Pure PostScript (création de codes barres)</translation>
     </message>
 </context>
 <context>
@@ -3166,27 +3167,27 @@ Configuration invalid</source>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.cpp" line="184"/>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.cpp" line="367"/>
         <source>Select a barcode format</source>
-        <translation type="unfinished"/>
+        <translation>Choisir un type de code barres</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.cpp" line="190"/>
         <source>Point of Sale</source>
-        <translation type="unfinished"/>
+        <translation>Point de vente</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.cpp" line="196"/>
         <source>Supply Chain</source>
-        <translation type="unfinished"/>
+        <translation>Chaîne d&apos;approvisionnement</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.cpp" line="203"/>
         <source>Two-dimensional symbols</source>
-        <translation type="unfinished"/>
+        <translation>Symboles en 2 dimensions</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.cpp" line="210"/>
         <source>One-dimensional symbols</source>
-        <translation type="unfinished"/>
+        <translation>Symboles à une dimension</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.cpp" line="218"/>
@@ -3196,27 +3197,27 @@ Configuration invalid</source>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.cpp" line="226"/>
         <source>Postal symbols</source>
-        <translation type="unfinished"/>
+        <translation>Symboles postaux</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.cpp" line="234"/>
         <source>Pharmaceutical symbols</source>
-        <translation type="unfinished"/>
+        <translation>Symboles pharmaceutiques</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.cpp" line="243"/>
         <source>Less-used symbols</source>
-        <translation type="unfinished"/>
+        <translation>Symboles moins courants</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.cpp" line="253"/>
         <source>GS1 Composite symbols</source>
-        <translation type="unfinished"/>
+        <translation>Symboles GS1 Composite</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.cpp" line="180"/>
         <source>Select a barcode family</source>
-        <translation type="unfinished"/>
+        <translation>Choisissez une famille de code barres</translation>
     </message>
 </context>
 <context>
@@ -3374,17 +3375,17 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Minimum error checking; raised opportunistically if size of symbol is not increased</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Vérification d&apos;erreurs minimale ; se déclenche si la taille d&apos;un symbole n&apos;est pas augmentée </translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="71"/>
         <source>Display checksum</source>
-        <translation type="unfinished"/>
+        <translation>Afficher la somme de contrôle</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="84"/>
         <source>Show readable text</source>
-        <translation type="unfinished"/>
+        <translation>Afficher le texte en clair</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="97"/>
@@ -3404,62 +3405,62 @@ Configuration invalid</source>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="127"/>
         <source>Add checksum</source>
-        <translation type="unfinished"/>
+        <translation>Ajouter la somme de contrôle</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="346"/>
         <source>Advanced options for the barcode</source>
-        <translation type="unfinished"/>
+        <translation>Options avancées pour le code barre</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="289"/>
         <source>&amp;Barcode:</source>
-        <translation type="unfinished"/>
+        <translation>Code &amp;Barre :</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="321"/>
         <source>&amp;Contents:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Contenu :</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="384"/>
         <source>Options:</source>
-        <translation type="unfinished"/>
+        <translation>Options :</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="371"/>
         <source>The contents encoded in the barcode</source>
-        <translation type="unfinished"/>
+        <translation>Le contenu encodé dans le code barre</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="308"/>
         <source>Select one of the available barcode types here</source>
-        <translation type="unfinished"/>
+        <translation>Choisissez l&apos;un des types de code barres disponibles</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="457"/>
         <source>Version:</source>
-        <translation type="unfinished"/>
+        <translation>Version :</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="496"/>
         <source>Error correction level:</source>
-        <translation type="unfinished"/>
+        <translation>Niveau de correction d&apos;erreurs :</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="266"/>
         <source>Barcode Family:</source>
-        <translation type="unfinished"/>
+        <translation>Famille de code barres :</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="476"/>
         <source>Version of the symbol</source>
-        <translation type="unfinished"/>
+        <translation>Version du symbole</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="489"/>
         <source>Error correction level</source>
-        <translation type="unfinished"/>
+        <translation>Niveau de correction d&apos;erreurs</translation>
     </message>
 </context>
 <context>
@@ -4436,12 +4437,12 @@ Veuillez choisir un autre nom.</translation>
     <message>
         <location filename="../../scribus/plugins/colorwheel/cwdialog.ui" line="375"/>
         <source>Sample color scheme</source>
-        <translation type="unfinished"/>
+        <translation>Exemple de schéma de couleurs</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/colorwheel/cwdialog.ui" line="173"/>
         <source>Colors of your chosen color scheme</source>
-        <translation type="unfinished"/>
+        <translation>Couleurs de votre schéma de couleurs</translation>
     </message>
 </context>
 <context>
