@@ -3077,7 +3077,7 @@
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginimpl.cpp" line="258"/>
         <source>Spelling check complete</source>
-        <translation>Literumada kontrolo kompleta</translation>
+        <translation>Ortografia kontrolo kompleta</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginimpl.cpp" line="97"/>
@@ -6529,7 +6529,7 @@ VIdu la sekcion Redaktu Kolorojn de la dokumentaro por kromaj detaloj.     </tra
     <message>
         <location filename="../../../scribus/docsections.cpp" line="201"/>
         <source>The value you have entered is outside the range of page numbers in the current document (%1-%2).</source>
-        <translation>La valoro enmetita estas ekster la intervalo de la paĝonumeroj en la aktauala dokumento(%1-%2). </translation>
+        <translation>La valoro enmetita estas ekster la intervalo de la paĝonumeroj en la aktuala dokumento(%1-%2). </translation>
     </message>
     <message>
         <location filename="../../../scribus/docsections.ui" line="13"/>
@@ -8432,7 +8432,7 @@ La nomo de la eksportdosiero estos &apos;dokumentnomo-paĝnumero.dosierotipo&apo
     <message>
         <location filename="../../../scribus/plugins/tools/hunspellcheck/hunspelldialog.cpp" line="80"/>
         <source>Spelling check complete</source>
-        <translation>Literumada kontrolo kompleta</translation>
+        <translation>Ortografia kontrolo kompleta</translation>
     </message>
 </context>
 <context>
@@ -8440,7 +8440,7 @@ La nomo de la eksportdosiero estos &apos;dokumentnomo-paĝnumero.dosierotipo&apo
     <message>
         <location filename="../../../scribus/plugins/tools/hunspellcheck/hunspelldialogbase.ui" line="14"/>
         <source>Check Spelling</source>
-        <translation>Kontrolu literumadon</translation>
+        <translation>Kontrolu ortografion</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/hunspellcheck/hunspelldialogbase.ui" line="22"/>
@@ -8483,7 +8483,7 @@ La nomo de la eksportdosiero estos &apos;dokumentnomo-paĝnumero.dosierotipo&apo
     <message>
         <location filename="../../../scribus/plugins/tools/hunspellcheck/hunspellplugin.cpp" line="33"/>
         <source>Check Spelling...</source>
-        <translation>Kontrolu literumadon...</translation>
+        <translation>Kontrolu ortografion...</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/hunspellcheck/hunspellplugin.cpp" line="64"/>
@@ -13807,7 +13807,7 @@ Do you want to migrate them to the new Scribus version?</source>
     <message>
         <location filename="../../../scribus/marginwidget.cpp" line="560"/>
         <source>When you have selected a Document Layout other than Single Page, you can select a predefined page layout here. &apos;None&apos; leaves margins as is, Gutenberg sets margins classically. &apos;Magazine&apos; sets all margins to the same value. Leading is Left/Inside value.</source>
-        <translation>Kiam vi elektis Dokumentaspekton malsama ol Unuopa paĝo, vi povas elekti defaultan paĝon ĉi tie. &apos;Neniu&apos; lasas la marĝenojn tiaj kiaj ili estas, Gutenberg agordas la marĝenojn klasike. &apos;Revuo&apos; agordas ĉiujn marĝenojn je la sama valoro. La valoro Maldekstra/Interna estas la baza por la kalkulo de la marĝenoj.</translation>
+        <translation>Kiam vi elektis Dokumentaspekton malsama ol Unuopa paĝo, vi povas elekti defaŭltan paĝon ĉi tie. &apos;Neniu&apos; lasas la marĝenojn tiaj kiaj ili estas, Gutenberg agordas la marĝenojn klasike. &apos;Revuo&apos; agordas ĉiujn marĝenojn je la sama valoro. La valoro Maldekstra/Interna estas la baza por la kalkulo de la marĝenoj.</translation>
     </message>
 </context>
 <context>
@@ -13878,7 +13878,7 @@ Do you want to migrate them to the new Scribus version?</source>
     <message>
         <location filename="../../../scribus/printdialog.cpp" line="370"/>
         <source>PostScript Files (*.ps);;All Files (*)</source>
-        <translation>Postskriptaj dosieroj (*.js);;Ĉiaj dosieroj (*)</translation>
+        <translation>Postskriptaj dosieroj (*.ps);;Ĉiaj dosieroj (*)</translation>
     </message>
     <message>
         <location filename="../../../scribus/printdialog.cpp" line="105"/>
@@ -14557,7 +14557,7 @@ angulojn:</translation>
         <location filename="../../../scribus/propertiespalette.cpp" line="5330"/>
         <location filename="../../../scribus/propertiespalette.cpp" line="5336"/>
         <source>Text &amp;Flow Around Frame</source>
-        <translation>Teksto &amp;fluas ĉirkaŭ kadro</translation>
+        <translation>Teksto&amp;fluo ĉirkaŭ kadro</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5331"/>
@@ -14867,7 +14867,7 @@ angulojn:</translation>
         <location filename="../../../scribus/propertiespalette.cpp" line="5623"/>
         <location filename="../../../scribus/propertiespalette.cpp" line="5628"/>
         <source>Disable text flow from lower frames around object</source>
-        <translation>Malebligas tekstofluon el la malsuperaj kadroj ĉirkaŭ la objekto</translation>
+        <translation>Malebligu tekstofluon el la malsuperaj kadroj ĉirkaŭ la objekto</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5624"/>
@@ -15289,7 +15289,7 @@ angulojn:</translation>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5656"/>
         <source>Set the height of the first line of the text frame to the specified line height</source>
-        <translation>Agordu la alton de la unua linio de la tekstokadro kiel la specifitan linialto</translation>
+        <translation>Agordu la alton de la unua linio de la tekstokadro kiel la specifita linialto</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5379"/>
@@ -15472,7 +15472,7 @@ angulojn:</translation>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/pconsole.cpp" line="252"/>
         <source>Save Current Output</source>
-        <translation>Konservu la aktaualan rezulton</translation>
+        <translation>Konservu la aktualan rezulton</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/pconsole.cpp" line="34"/>
@@ -16480,7 +16480,7 @@ qt/&lt;/tt&gt; por kromaj informoj.&lt;/p&gt;</translation>
     <message>
         <location filename="../../../scribus/pagesize.cpp" line="202"/>
         <source>Medium</source>
-        <translation>Medium</translation>
+        <translation>Meza</translation>
     </message>
     <message>
         <location filename="../../../scribus/pagesize.cpp" line="202"/>
@@ -21299,12 +21299,12 @@ Pripensu ĉu uzi la antaukontrolon por korekti ilin</translation>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/scripterprefsgui.ui" line="70"/>
         <source>Startup Script:</source>
-        <translation>Komenca skripto:</translation>
+        <translation>Startiga skripto:</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/scripterprefsgui.cpp" line="147"/>
         <source>Locate Startup Script</source>
-        <translation>Trovu komencan skripton</translation>
+        <translation>Trovu startigan skripton</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/scripterprefsgui.ui" line="13"/>
@@ -23378,7 +23378,7 @@ Pripensu ĉu uzi la antaukontrolon por korekti ilin</translation>
     <message>
         <location filename="../../../scribus/tabgeneral.cpp" line="60"/>
         <source>Palette windows will use smaller (space savy) widgets. Requires application restart</source>
-        <translation>Paletraj fenestroj uzos pli malgrandajn (spacŝparigaj) fenestraĵoj. Postula aplikaĵan restartigon</translation>
+        <translation>Paletraj fenestroj uzos pli malgrandajn (spacŝparigaj) fenestraĵoj. Postulas aplikaĵan restartigon</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabgeneral.ui" line="196"/>
@@ -23486,12 +23486,12 @@ Pripensu ĉu uzi la antaukontrolon por korekti ilin</translation>
     <message>
         <location filename="../../../scribus/tabguides.cpp" line="219"/>
         <source>Guides are not visible through objects on the page</source>
-        <translation>La gvidiloj ne estas videblaj tra la objektoj sur la paĝo</translation>
+        <translation>La helplinioj ne estas videblaj tra la objektoj sur la paĝo</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabguides.cpp" line="220"/>
         <source>Guides are visible above all objects on the page</source>
-        <translation>La gvidiloj estas videblaj super ĉiuj objektoj sur la paĝo</translation>
+        <translation>La helplinioj estas videblaj super ĉiuj objektoj sur la paĝo</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabguides.cpp" line="221"/>
@@ -23551,7 +23551,7 @@ Pripensu ĉu uzi la antaukontrolon por korekti ilin</translation>
     <message>
         <location filename="../../../scribus/tabguides.cpp" line="234"/>
         <source>Turns the guides on or off</source>
-        <translation>Igas (ne)videblaj la gvidilojn</translation>
+        <translation>Igas (ne)videblaj la helpliniojn</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabguides.cpp" line="235"/>
@@ -23728,7 +23728,7 @@ Pripensu ĉu uzi la antaukontrolon por korekti ilin</translation>
     <message>
         <location filename="../../../scribus/tabkeyboardshortcutswidget.ui" line="206"/>
         <source>Import a shortcut set into the current configuration</source>
-        <translation>Importu fulmoklavan aron ine la aktualan konfiguron</translation>
+        <translation>Importu fulmoklavan aron en la aktualan konfiguron</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabkeyboardshortcutswidget.ui" line="209"/>
@@ -23773,7 +23773,7 @@ Pripensu ĉu uzi la antaukontrolon por korekti ilin</translation>
     <message>
         <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="154"/>
         <source>Select a Key set file to read</source>
-        <translation>Elektu klvavoaran dosieron legotan</translation>
+        <translation>Elektu klavoaran dosieron legotan</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="154"/>
@@ -23784,7 +23784,7 @@ Pripensu ĉu uzi la antaukontrolon por korekti ilin</translation>
     <message>
         <location filename="../../../scribus/tabkeyboardshortcutswidget.cpp" line="162"/>
         <source>Select a Key set file to save to</source>
-        <translation>Elektu klvavoaran dosieron konservotan</translation>
+        <translation>Elektu klavoaran dosieron konservotan</translation>
     </message>
 </context>
 <context>
@@ -23815,7 +23815,7 @@ Pripensu ĉu uzi la antaukontrolon por korekti ilin</translation>
     <message>
         <location filename="../../../scribus/tabmiscellaneous.ui" line="111"/>
         <source>Preview of current Paragraph Style visible when editing Styles</source>
-        <translation>Antaŭrigardo de la aktauala alinestilo videbla dum la redaktado de la stiloj</translation>
+        <translation>Antaŭrigardo de la aktuala alinestilo videbla dum la redaktado de la stiloj</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabmiscellaneous.ui" line="121"/>
@@ -24443,7 +24443,7 @@ kiam PDF-dokumento estas malfermita:</translation>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="910"/>
         <source>Enables presentation effects when using Adobe&amp;#174; Reader&amp;#174; and other PDF viewers which support this in full screen mode.</source>
-        <translation>Ebligas prezentoefektojn kiam oni uzas Acdobe Reader&amp;#174, kaj aliaj PDF-vidigiloj kiuj subtenas tion  en tutekrana reĝimo.</translation>
+        <translation>Ebligas prezentoefektojn kiam oni uzas Adobe Reader&amp;#174, kaj aliaj PDF-vidigiloj kiuj subtenas tion en tutekrana reĝimo.</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="911"/>
@@ -24468,7 +24468,7 @@ kiam PDF-dokumento estas malfermita:</translation>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="915"/>
         <source>Direction of the effect of moving lines for the split and blind effects.</source>
-        <translation>Direkto de la efekto de la moviĝantaj linioj por laefektoj Opako kaj Disigo.</translation>
+        <translation>Direkto de la efekto de la moviĝantaj linioj por la efektoj Opako kaj Disigo.</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="916"/>
@@ -24503,7 +24503,7 @@ kiam PDF-dokumento estas malfermita:</translation>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="958"/>
         <source>Determines the PDF compatibility.&lt;br/&gt;The default is &lt;b&gt;PDF 1.3&lt;/b&gt; which gives the widest compatibility.&lt;br/&gt;Choose &lt;b&gt;PDF 1.4&lt;/b&gt; if your file uses features such as transparency or you require 128 bit encryption.&lt;br/&gt;&lt;b&gt;PDF 1.5&lt;/b&gt; is necessary when you wish to preserve objects in separate layers within the PDF.&lt;br/&gt;&lt;b&gt;PDF/X-3&lt;/b&gt; is for exporting the PDF when you want color managed RGB for commercial printing and is selectable when you have activated color management. Use only when advised by your printer or in some cases printing to a 4 color digital color laser printer.</source>
-        <translation>Determinas la PDF-kongruon.&lt;br/&gt;La defaulta estas&lt;b&gt;PDF 1.3&lt;/b&gt; kiu donas la plej grandan kongruecon.&lt;br/&gt;Elektu&lt;b&gt;PDF 1.4&lt;/b&gt; se la ecoj de via dosieroj estas, ekzemple, travidebleco aŭ ĉifrado je 128 bit.&lt;br/&gt;&lt;b&gt;PDF 1.5&lt;/b&gt;necesas kia vi deziras konservi la objektojn en apartaj tavoloj en la PDF.&lt;br/&gt;&lt;b&gt;PDF/X-3&lt;/b&gt; estas por eksportado de PDF kiam vi volas koloron RGB por komerca printado kaj ĝi estas elektebla kiam vi aktivigis koloradministradonmanagement. Uzu nur kiam petita fare de via presisto aŭ en iaj kazoj dum printado al 4-koloroj per cifereckolora laserprintilo.</translation>
+        <translation>Determinas la PDF-kongruon.&lt;br/&gt;La defaŭlta estas&lt;b&gt;PDF 1.3&lt;/b&gt; kiu donas la plej grandan kongruecon.&lt;br/&gt;Elektu&lt;b&gt;PDF 1.4&lt;/b&gt; se la ecoj de via dosieroj estas, ekzemple, travidebleco aŭ ĉifrado je 128 bit.&lt;br/&gt;&lt;b&gt;PDF 1.5&lt;/b&gt;necesas kia vi deziras konservi la objektojn en apartaj tavoloj en la PDF.&lt;br/&gt;&lt;b&gt;PDF/X-3&lt;/b&gt; estas por eksportado de PDF kiam vi volas koloron RGB por komerca printado kaj ĝi estas elektebla kiam vi aktivigis koloradministradonmanagement. Uzu nur kiam petita fare de via presisto aŭ en iaj kazoj dum printado al 4-koloroj per cifereckolora laserprintilo.</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="959"/>
@@ -24538,7 +24538,7 @@ kiam PDF-dokumento estas malfermita:</translation>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="966"/>
         <source>Enables lossless compression of text and graphics. Unless you have a reason, leave this checked. This reduces PDF file size.</source>
-        <translation>Densigo de teksto kaj grafikaĵoj. Se vi ne havas aliajn kialojn, lasu ĝin markita. Ĝi malpliigas la PDF-grandon.</translation>
+        <translation>Senperda densigo de teksto kaj grafikaĵoj. Se vi ne havas aliajn kialojn, lasu ĝin markita. Ĝi malpliigas la PDF-grandon.</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="970"/>
@@ -24583,12 +24583,12 @@ kiam PDF-dokumento estas malfermita:</translation>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="978"/>
         <source>Color model for the output of your PDF. Choose Screen/Web for PDFs which are used for screen display and for printing on typical inkjets. Choose Printer when printing to a true 4 color CMYK printer. Choose Grayscale when you want a grey scale PDF.</source>
-        <translation>Kolormodelo por la eligo de via PDF. Elektu Ekrano/TTT por PDF&apos;oj uzataj por montri sur ekrano aŭ por printi per ordinaraj inkprintiloj. Elektu Printilo kiam oni printas al 4-kolora CMYK-printilo. Elektu Grizgamo se vi volas grisgaman PDF&apos;on.</translation>
+        <translation>Kolormodelo por la eligo de via PDF. Elektu Ekrano/TTT por PDF&apos;oj uzataj por montri sur ekrano aŭ por printi per ordinaraj inkprintiloj. Elektu Printilo kiam oni printas al 4-kolora CMYK-printilo. Elektu Grizgamo se vi volas grizgaman PDF&apos;on.</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="979"/>
         <source>This is an advanced setting which is not enabled by default. This should only be enabled when specifically requested by your printer and they have given you the exact details needed. Otherwise, your exported PDF may not print properly and is truly not portable across systems.</source>
-        <translation>Ĉi tio estas kroma agordaĵo kiu ne estas defaulte ebligita. Ĝi devus estis ebligita nur kiam ĝin postulas via printilo kaj oni konas la necesajn detalojn. Alie la eksportita PDF-dosiero povus ne bone funkcii kaj ne esti portebla al aliaj sistemoj.</translation>
+        <translation>Ĉi tio estas kroma agordaĵo kiu ne estas defaŭlte ebligita. Ĝi devus estis ebligita nur kiam ĝin postulas via printilo kaj oni konas la necesajn detalojn. Alie la eksportita PDF-dosiero povus ne bone funkcii kaj ne esti portebla al aliaj sistemoj.</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="980"/>
@@ -24866,12 +24866,12 @@ kiam PDF-dokumento estas malfermita:</translation>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="932"/>
         <source>Fit the document page or pages to the available space in the viewer window.</source>
-        <translation>Adaptu la dikumentpaĝon aŭ paĝojn al la disponebla spaco en la vidigila fenestro.</translation>
+        <translation>Adaptu la dokumentpaĝon aŭ paĝojn al la disponebla spaco en la vidigila fenestro.</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="969"/>
         <source>Limits the resolution of your bitmap images to the selected DPI. Images with a lower resolution will be left untouched. Leaving this unchecked will render them at their native resolution. Enabling this will increase memory usage and slow down export.</source>
-        <translation>Malgrandigas la rastrumbildojn ĝis la elektita DPI. Bildoj kun pli malata distingivo ne estos modifitaj. Se vi ne markas la bildoj restos kun la origina distingivo. La ebligo de tio pliigos la uzadon de la memoro kaj malrapidigos la eksporton. </translation>
+        <translation>Malgrandigas la rastrumbildojn ĝis la elektita DPI. Bildoj kun pli malalta distingivo ne estos modifitaj. Se vi ne markas la bildoj restos kun la origina distingivo. La ebligo de tio pliigos la uzadon de la memoro kaj malrapidigos la eksporton. </translation>
     </message>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="992"/>
@@ -24932,7 +24932,7 @@ kiam PDF-dokumento estas malfermita:</translation>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="965"/>
         <source>Export PDFs in image frames as embedded PDFs. This does *not* yet take care of colorspaces, so you should know what you are doing before setting this to &apos;true&apos;.</source>
-        <translation>Eksportu PDF&apos;on en bildokadroj kiel enkorpigitaj PDF&apos;oj. Tio ankoraŭ *ne* okupiĝas pri la kolorspacoj, do vi devus scii kion vi faras antau ol agordi tion al &apos;vero&apos;.</translation>
+        <translation>Eksportu PDF&apos;on en bildokadroj kiel enkorpigitaj PDF&apos;oj. Tio ankoraŭ *ne* okupiĝas pri la kolorspacoj, do vi devus scii kion vi faras antaŭ ol agordi tion al &apos;vero&apos;.</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="1377"/>
@@ -25458,7 +25458,7 @@ Agordado al Nivelo 1 aŭ 2 povus krei grandegajn dosierojn</translation>
     <message>
         <location filename="../../../scribus/tabtools.cpp" line="398"/>
         <source>Use embedded Clipping Path</source>
-        <translation>Uzu la enkorpigan tondadstrekon</translation>
+        <translation>Uzu la enkorpigitan tondadstrekon</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabtools.cpp" line="402"/>
@@ -26244,12 +26244,12 @@ Agordado al Nivelo 1 aŭ 2 povus krei grandegajn dosierojn</translation>
     <message>
         <location filename="../../../scribus/undomanager.cpp" line="831"/>
         <source>Lock guides</source>
-        <translation>Ŝlosu gvidilojn</translation>
+        <translation>Ŝlosu helpliniojn</translation>
     </message>
     <message>
         <location filename="../../../scribus/undomanager.cpp" line="832"/>
         <source>Unlock guides</source>
-        <translation>Malŝlosu gvidilojn</translation>
+        <translation>Malŝlosu helpliniojn</translation>
     </message>
     <message>
         <location filename="../../../scribus/undomanager.cpp" line="833"/>
@@ -26807,12 +26807,12 @@ al %2</translation>
     <message>
         <location filename="../../../scribus/undomanager.cpp" line="945"/>
         <source>Enable text flow around for lower layers</source>
-        <translation>Ebligas la tekston ĉirkaŭflui en pli malsupraj tavoloj</translation>
+        <translation>Ebligu la tekston ĉirkaŭflui en pli malsupraj tavoloj</translation>
     </message>
     <message>
         <location filename="../../../scribus/undomanager.cpp" line="946"/>
         <source>Disable text flow around for lower layers</source>
-        <translation>Malebligas la tekston ĉirkaŭflui en pli malsupraj tavoloj</translation>
+        <translation>Malebligu la tekston ĉirkaŭflui en pli malsupraj tavoloj</translation>
     </message>
     <message>
         <location filename="../../../scribus/undomanager.cpp" line="947"/>
@@ -27475,12 +27475,12 @@ Valoro egala al 0 signifas senlimajn dividojn.</translation>
     <message>
         <location filename="../../../scribus/hysettingsBase.ui" line="383"/>
         <source>Refresh Downloadable List</source>
-        <translation>Aktualigu elŝutebla liston</translation>
+        <translation>Aktualigu elŝuteblan liston</translation>
     </message>
     <message>
         <location filename="../../../scribus/hysettingsBase.ui" line="390"/>
         <source>Download Selected Dictionaries</source>
-        <translation>Elŝutu elektitaj vortarojn</translation>
+        <translation>Elŝutu elektitajn vortarojn</translation>
     </message>
 </context>
 <context>

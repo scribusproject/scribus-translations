@@ -3395,7 +3395,7 @@ Hibás a beállítása</translation>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="107"/>
         <source>Guard whitespace</source>
-        <translation>Szóközök megőrzése</translation>
+        <translation>Helykihagyás biztosítása</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="117"/>
@@ -3820,7 +3820,7 @@ Hibás a beállítása</translation>
     <message>
         <location filename="../../scribus/ui/cmsprefsbase.ui" line="245"/>
         <source>Document Options</source>
-        <translation>Dokumentum beállítások</translation>
+        <translation>Dokumentum-beállítások</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/cmsprefsbase.ui" line="278"/>
@@ -3887,7 +3887,7 @@ Relative Colorimetric or Perceptual should be chosen.</source>
         <location filename="../../scribus/ui/cmsprefsbase.ui" line="274"/>
         <source>Enable 'soft proofing' of how your document colors will print,
 based on the chosen printer profile.</source>
-        <translation>Házi proof készítését teszi lehetővé, hogy ellenőrizni lehessen, milyen lesznek a kinyomtatott színek a kiválasztott nyomtató profil alapján.</translation>
+        <translation>Engedélyezi a monitoron történő színellenőrzést, vagyis hogy milyenek lesznek a kinyomtatott színek a kiválasztott nyomtatóprofil alapján.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/cmsprefsbase.ui" line="285"/>
@@ -13830,7 +13830,7 @@ Nem lehet átváltani más stílusra, míg nem alkalmazzuk a változásokat, vag
     <message>
         <location filename="../../scribus/ui/osgeditor.cpp" line="576"/>
         <source>Import 3-D Model</source>
-        <translation>3-D modell importálása</translation>
+        <translation>3D modell importálása</translation>
     </message>
 </context>
 <context>
@@ -18106,7 +18106,7 @@ Do you want to migrate them to the new Scribus version?</source>
     <message>
         <location filename="../../scribus/ui/prefs_colormanagementbase.ui" line="83"/>
         <source>Document Options</source>
-        <translation>Dokumentum beállítások</translation>
+        <translation>Dokumentum-beállítások</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_colormanagementbase.ui" line="97"/>
