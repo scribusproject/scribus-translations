@@ -6066,12 +6066,12 @@ currently %2 x %3 DPI</source>
     <message>
         <location filename="../../scribus/commonstrings.cpp" line="376"/>
         <source>Default Table Style</source>
-        <translation type="unfinished"/>
+        <translation>標準表スタイル</translation>
     </message>
     <message>
         <location filename="../../scribus/commonstrings.cpp" line="377"/>
         <source>Default Cell Style</source>
-        <translation type="unfinished"/>
+        <translation>標準セルスタイル</translation>
     </message>
     <message>
         <location filename="../../scribus/commonstrings.cpp" line="313"/>
@@ -7762,7 +7762,7 @@ Use 72 dpi for Images intended for the Screen</source>
     <message>
         <location filename="../../scribus/plugins/export/pixmapexport/exportform.ui" line="67"/>
         <source>Prefix:</source>
-        <translation type="unfinished"/>
+        <translation>プレフィックス:</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/export/pixmapexport/exportform.ui" line="177"/>
@@ -8102,7 +8102,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     <message>
         <location filename="../../scribus/ui/fontcombo.cpp" line="148"/>
         <source>Family:</source>
-        <translation type="unfinished"/>
+        <translation>ファミリー</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/fontcombo.cpp" line="149"/>
@@ -13359,7 +13359,7 @@ If no handle is selected all handles will be reset.</source>
     <message>
         <location filename="../../scribus/ui/notesstyleseditor.ui" line="93"/>
         <source>Numbering</source>
-        <translation type="unfinished"/>
+        <translation>番号付け</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/notesstyleseditor.ui" line="110"/>
@@ -24855,7 +24855,7 @@ Transparency</source>
         <location filename="../../scribus/ui/propertiespalette_text.cpp" line="81"/>
         <location filename="../../scribus/ui/propertiespalette_text.cpp" line="636"/>
         <source>Paragraph Effects</source>
-        <translation type="unfinished"/>
+        <translation>段落効果</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertiespalette_text.cpp" line="666"/>
@@ -25662,12 +25662,12 @@ Transparency</source>
     <message>
         <location filename="../../scribus/ui/propertywidget_orphans.cpp" line="100"/>
         <source>Do not split paragraph</source>
-        <translation type="unfinished"/>
+        <translation>段落を分割しない</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertywidget_orphans.cpp" line="101"/>
         <source>Keep with next paragraph</source>
-        <translation type="unfinished"/>
+        <translation>次の段落と同じ</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertywidget_orphans.cpp" line="103"/>
@@ -25721,12 +25721,12 @@ Transparency</source>
     <message>
         <location filename="../../scribus/ui/propertywidget_orphansbase.ui" line="57"/>
         <source>Do not split paragraph</source>
-        <translation type="unfinished"/>
+        <translation>段落を分割しない</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertywidget_orphansbase.ui" line="64"/>
         <source>Keep with next paragraph</source>
-        <translation type="unfinished"/>
+        <translation>次の段落と同じ</translation>
     </message>
 </context>
 <context>
@@ -25858,7 +25858,7 @@ Transparency</source>
     <message>
         <location filename="../../scribus/ui/propertywidget_pareffectbase.ui" line="41"/>
         <source>AutoIndent</source>
-        <translation type="unfinished"/>
+        <translation>自動インデント</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertywidget_pareffectbase.ui" line="61"/>
@@ -31291,13 +31291,13 @@ Expressed as a percentage of the current white space value.</source>
         <location filename="../../scribus/ui/smpstylewidget.ui" line="310"/>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="172"/>
         <source>Do not split paragraph</source>
-        <translation type="unfinished"/>
+        <translation>段落を分割しない</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/smpstylewidget.ui" line="317"/>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="173"/>
         <source>Keep with next paragraph</source>
-        <translation type="unfinished"/>
+        <translation>次の段落と同じ</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="132"/>
@@ -31324,7 +31324,7 @@ Expressed as a percentage of the current white space value.</source>
     <message>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="198"/>
         <source>Lines:</source>
-        <translation type="unfinished"/>
+        <translation>行数: </translation>
     </message>
     <message>
         <source>None</source>
@@ -31350,24 +31350,24 @@ Expressed as a percentage of the current white space value.</source>
         <location filename="../../scribus/ui/smpstylewidget.ui" line="604"/>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="216"/>
         <source>Paragraph Effects</source>
-        <translation type="unfinished"/>
+        <translation>段落効果</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/smpstylewidget.ui" line="995"/>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="200"/>
         <source>Character Style for Effect:</source>
-        <translation type="unfinished"/>
+        <translation>効果に使用する文字スタイル:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/smpstylewidget.ui" line="1057"/>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="202"/>
         <source>AutoIndent</source>
-        <translation type="unfinished"/>
+        <translation>自動インデント</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="203"/>
         <source>Use Parent`s Values</source>
-        <translation type="unfinished"/>
+        <translation>親の値を使用</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/smpstylewidget.ui" line="616"/>
@@ -31452,7 +31452,7 @@ Expressed as a percentage of the current white space value.</source>
     </message>
     <message>
         <source>Numbering Style</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">番号付けスタイル</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="284"/>
@@ -31493,7 +31493,7 @@ Expressed as a percentage of the current white space value.</source>
     <message>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="221"/>
         <source>Glyph Extension </source>
-        <translation type="unfinished"/>
+        <translation>グリフ拡張</translation>
     </message>
     <message>
         <source>Minimum:</source>
@@ -31560,53 +31560,53 @@ Expressed as a percentage of the current white space value.</source>
         <location filename="../../scribus/ui/smpstylewidget.ui" line="675"/>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="178"/>
         <source>Character Table</source>
-        <translation type="unfinished"/>
+        <translation>文字テーブル</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/smpstylewidget.ui" line="709"/>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="180"/>
         <source>Numbering</source>
-        <translation type="unfinished"/>
+        <translation>番号付け</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/smpstylewidget.ui" line="740"/>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="181"/>
         <source>Level:</source>
-        <translation type="unfinished"/>
+        <translation>レベル:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/smpstylewidget.ui" line="777"/>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="183"/>
         <source>Numbering Style:</source>
-        <translation type="unfinished"/>
+        <translation>番号付けスタイル:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/smpstylewidget.ui" line="797"/>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="184"/>
         <source>Start with:</source>
-        <translation type="unfinished"/>
+        <translation>次の値から開始:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/smpstylewidget.ui" line="831"/>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="185"/>
         <source>Prefix:</source>
-        <translation type="unfinished"/>
+        <translation>プレフィックス:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/smpstylewidget.ui" line="841"/>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="186"/>
         <source>Suffix:</source>
-        <translation type="unfinished"/>
+        <translation>サフィックス:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="177"/>
         <source>Bullet Character(s):</source>
-        <translation type="unfinished"/>
+        <translation>箇条書き文字:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="187"/>
         <source>Restart:</source>
-        <translation type="unfinished"/>
+        <translation>再開始</translation>
     </message>
 </context>
 <context>

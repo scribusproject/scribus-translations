@@ -5267,47 +5267,47 @@ actuellement %2 x %3 PPP (dpi)</translation>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="121"/>
         <source>Preflight profile to base the report generation on. Options can be set in Document Setup or Preferences.</source>
-        <translation type="unfinished"/>
+        <translation>Profil de contrôle utilisé pour la génération du rapport. Les options peuvent être configurées dans les Paramètres du document ou les Préférences</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="129"/>
         <source>If you have created an image frame, there is the presumption that you planned to put an image in it</source>
-        <translation type="unfinished"/>
+        <translation>Si vous avez créé un cadre d&apos;image, il est probable que vous aviez prévu d&apos;y mettre une image</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="130"/>
         <source>If you have created a text frame, there is the presumption that you planned to put text in it</source>
-        <translation type="unfinished"/>
+        <translation>Si vous avez créé un cadre de texte, il est probable que vous aviez prévu d&apos;y mettre du texte</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="131"/>
         <source>When some imported document uses non-embedded fonts, then their rendering will be wrong, unless by chance you have them installed on their system, but that cannot be guaranteed in case you want to share the resulting document</source>
-        <translation type="unfinished"/>
+        <translation>Lorsqu&apos;un document importé contient des polices non incorporées, leur rendu sera altéré, sauf si par hasard vous avez ces polices installées dans votre système, mais c&apos;est risqué dans le cas où vous souhaiteriez partager le document</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="132"/>
         <source>This is a user definable setting serving as a caution for high resolution images, which may lead to unnecessarily large files</source>
-        <translation type="unfinished"/>
+        <translation>Ce réglage utilisateur vous alerte au sujet des images haute résolution, qui peuvent amener à alourdir considérablement les fichiers</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="135"/>
         <source>This is a user definable setting serving as a caution for low resolution images, which may lead to poor quality output</source>
-        <translation type="unfinished"/>
+        <translation>Ce réglage utilisateur vous alerte au sujet des images de basse résolution, qui peuvent amener à une mauvaise qualité de sortie</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="136"/>
         <source>You have one or more characters which do not have a corresponding glyph in your chosen font</source>
-        <translation type="unfinished"/>
+        <translation>Un ou plusieurs caractères n&apos;existent pas dans la police sélectionnée</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="137"/>
         <source>The assigned image file cannot be found</source>
-        <translation type="unfinished"/>
+        <translation>Le fichier image assigné est introuvable</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="138"/>
         <source>An object is placed somewhere outside of the page borders, it will not be printed and might be missing somewhere</source>
-        <translation type="unfinished"/>
+        <translation>Un objet se trouve en dehors des bordures de pages, il ne sera donc pas imprimé et manquera probablement quelque part</translation>
     </message>
 </context>
 <context>
@@ -6637,7 +6637,7 @@ pour la sortie du fichier %1</translation>
     <message>
         <location filename="../../scribus/ui/cupsoptions.cpp" line="225"/>
         <source>This panel displays various CUPS options when printing. The exact parameters available will depend on your printer driver. You can confirm CUPS support by selecting Help &gt; About. Look for the listings: C-C-T These equate to C=CUPS C=littlecms T=TIFF support. Missing library support is indicated by a *.</source>
-        <translation type="unfinished"/>
+        <translation>Ce panneau montre les options d&apos;impression CUPS. Les paramètres disponibles dépendent de votre pilote d&apos;imprimante. Vous pouvez vérifier le support de CUPS en sélectionnant Aide &gt; À propos de Scribus.Dans l&apos;identifiant de compilation, le symbole C-C-T indique le support de C=CUPS C=littlecms T=TIFF. Les bibliothèques manquantes sont indiquées par une *.</translation>
     </message>
 </context>
 <context>
@@ -7030,42 +7030,42 @@ Ce champ peut être inclus dans le document Scribus pour référence, en plus de
     </message>
     <message>
         <source>The person or organisation primarily responsible for making the content of the document. This field can be embedded in the Scribus document for reference, as well as in the metadata of a PDF.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">La personne ou l&apos;organisation responsable du contenu du document. Ce champ peut être inclus dans le document Scribus pour référence, en plus des métadonnées d&apos;un fichier PDF.</translation>
     </message>
     <message>
         <location filename="../../scribus/docinfo.cpp" line="168"/>
         <source>A name given to the document. This field can be embedded in the Scribus document for reference, as well as in the metadata of a PDF.</source>
-        <translation type="unfinished"/>
+        <translation>Nom donné au document. Ce champ peut être inclus dans le document Scribus pour référence, en plus des métadonnées d&apos;un fichier PDF.</translation>
     </message>
     <message>
         <location filename="../../scribus/docinfo.cpp" line="169"/>
         <source>An account of the content of the document. This field is for a brief description or abstract of the document. It is embedded in the PDF on export.</source>
-        <translation type="unfinished"/>
+        <translation>Un compte rendu du contenu du document. Ce champ est utilisé pour faire une brève description ou un résumé du document. Il est inclus dans le fichier PDF lors de l&apos;export.</translation>
     </message>
     <message>
         <location filename="../../scribus/docinfo.cpp" line="170"/>
         <source>The topic of the content of the document. This field is for document keywords you wish to embed in a PDF, to assist searches and indexing of PDF files.</source>
-        <translation type="unfinished"/>
+        <translation>Le sujet du contenu du document. Ce champ est utilisé pour définir des mots clés à inclure dans un fichier PDF, ce qui facilite les recherches et l&apos;indexation de ce type de fichiers.</translation>
     </message>
     <message>
         <location filename="../../scribus/docinfo.cpp" line="175"/>
         <source>The physical or digital manifestation of the document. Media type and dimensions would be worth noting. RFC2045,RFC2046 for MIME types are also useful here.</source>
-        <translation type="unfinished"/>
+        <translation>Informations pratiques sur le document, comme le type de médias et ses dimensions. Voir les RFC 2045 et 2046 pour les types MIME</translation>
     </message>
     <message>
         <location filename="../../scribus/docinfo.cpp" line="167"/>
         <source>The person or organization primarily responsible for making the content of the document. This field can be embedded in the Scribus document for reference, as well as in the metadata of a PDF.</source>
-        <translation type="unfinished"/>
+        <translation>La personne ou l&apos;organisation responsable de la création du contenu du document. Ce champ peut être inclus dans le document Scribus pour référence, en plus des métadonnées d&apos;un fichier PDF.</translation>
     </message>
     <message>
         <location filename="../../scribus/docinfo.cpp" line="171"/>
         <source>A person or organization responsible for making the document available</source>
-        <translation type="unfinished"/>
+        <translation>La personne ou l&apos;organisation responsable de la diffusion du document</translation>
     </message>
     <message>
         <location filename="../../scribus/docinfo.cpp" line="172"/>
         <source>A person or organization responsible for making contributions to the content of the document</source>
-        <translation type="unfinished"/>
+        <translation>La personne ou l&apos;organisation en charge du contenu du document</translation>
     </message>
 </context>
 <context>
@@ -7794,7 +7794,8 @@ Utiliser 72 ppp pour des images destinées à la lecture sur écran</translation
         <source>Insert a comma separated list of tokens where
 a token can be * for all the pages, 1-5 for
 a range of pages or a single page number</source>
-        <translation type="unfinished"/>
+        <translation>Insérer une liste d&apos;éléments séparés par des virgules,
+les éléments pouvant être « * » pour toutes les pages, 1-5 pour une sélection de pages, ou bien un simple numéro de page</translation>
     </message>
 </context>
 <context>
@@ -8384,12 +8385,12 @@ Document Liberation : http://www.documentliberation.org</translation>
     <message>
         <location filename="../../scribus/ui/fontreplacedialog.cpp" line="83"/>
         <source>Cancels these font substitutions and stops loading the document</source>
-        <translation type="unfinished"/>
+        <translation>Annule ces substitutions de polices et arrête le chargement du document</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/fontreplacedialog.cpp" line="85"/>
         <source>If you select OK, then save, these substitutions are made permanent in the document</source>
-        <translation type="unfinished"/>
+        <translation>Si vous sélectionnez OK, puis sauvegardez, ces substitutions seront rendues permanentes dans le document</translation>
     </message>
 </context>
 <context>
@@ -9185,22 +9186,22 @@ Ignore List</source>
     <message>
         <location filename="../../scribus/ui/hyask.cpp" line="69"/>
         <source>Accept the proposed hyphenation</source>
-        <translation type="unfinished"/>
+        <translation>Accepte la césure proposée</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/hyask.cpp" line="76"/>
         <source>Add edited hyphen to local hyphenation dictionary list</source>
-        <translation type="unfinished"/>
+        <translation>Ajoute la césure modifiée au dictionnaire local de césures</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/hyask.cpp" line="97"/>
         <source>Add edited word to words that should not be hyphenated</source>
-        <translation type="unfinished"/>
+        <translation>Ajoute le mot modifié aux mots qui ne doivent pas subir de césures</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/hyask.cpp" line="111"/>
         <source>Do not apply the proposed hyphenation</source>
-        <translation type="unfinished"/>
+        <translation>Ne pas appliquer la césure proposée</translation>
     </message>
 </context>
 <context>
@@ -9439,7 +9440,7 @@ Document Liberation : http://www.documentliberation.org</translation>
         <location filename="../../scribus/plugins/import/cdr/importcdrplugin.cpp" line="58"/>
         <location filename="../../scribus/plugins/import/cdr/importcdrplugin.cpp" line="93"/>
         <source>Corel Draw (*.ccx *.CCX *.cdr *.CDR *.cdt *.CDT *.cmx *.CMX)</source>
-        <translation type="unfinished"/>
+        <translation>Corel Draw (*.ccx *.CCX *.cdr *.CDR *.cdt *.CDT *.cmx *.CMX)</translation>
     </message>
 </context>
 <context>
@@ -23408,7 +23409,8 @@ Note: les champs de formulaires ne seront pas exportés.</translation>
         <source>Insert a comma separated list of tokens where
 a token can be * for all the pages, 1-5 for
 a range of pages or a single page number</source>
-        <translation type="unfinished"/>
+        <translation>Insérer une liste d&apos;éléments séparés par des virgules,
+les éléments pouvant être « * » pour toutes les pages, 1-5 pour une sélection de pages, ou bien un simple numéro de page</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/printdialogbase.ui" line="343"/>

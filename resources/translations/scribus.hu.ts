@@ -3820,7 +3820,7 @@ Hibás a beállítása</translation>
     <message>
         <location filename="../../scribus/ui/cmsprefsbase.ui" line="245"/>
         <source>Document Options</source>
-        <translation>Dokumentum-beállítások</translation>
+        <translation>Dokumentumbeállítások</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/cmsprefsbase.ui" line="278"/>
@@ -18106,7 +18106,7 @@ Do you want to migrate them to the new Scribus version?</source>
     <message>
         <location filename="../../scribus/ui/prefs_colormanagementbase.ui" line="83"/>
         <source>Document Options</source>
-        <translation>Dokumentum-beállítások</translation>
+        <translation>Dokumentumbeállítások</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_colormanagementbase.ui" line="97"/>

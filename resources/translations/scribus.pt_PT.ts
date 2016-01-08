@@ -2191,7 +2191,7 @@
     <message>
         <location filename="../../scribus/ui/aligndistribute.ui" line="14"/>
         <source>Align and Distribute</source>
-        <translation type="unfinished"/>
+        <translation>Alinhar e distribuir</translation>
     </message>
 </context>
 <context>

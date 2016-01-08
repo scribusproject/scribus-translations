@@ -7596,7 +7596,7 @@ Name of the export file will be &apos;documentname-pagenumber.filetype&apos;</so
     <message>
         <location filename="../../../scribus/fontcombo.cpp" line="148"/>
         <source>Family:</source>
-        <translation type="unfinished"/>
+        <translation>ファミリー</translation>
     </message>
     <message>
         <location filename="../../../scribus/fontcombo.cpp" line="149"/>
@@ -19335,7 +19335,7 @@ Please choose another.</source>
     <message>
         <location filename="../../../scribus/smpstylewidget.cpp" line="130"/>
         <source>Lines:</source>
-        <translation type="unfinished"/>
+        <translation>行数: </translation>
     </message>
     <message>
         <location filename="../../../scribus/smpstylewidget.cpp" line="149"/>
