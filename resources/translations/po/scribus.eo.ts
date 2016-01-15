@@ -3992,7 +3992,7 @@ bonvolu elekti alian.</translation>
         <location filename="../../../scribus/cmykfw.cpp" line="777"/>
         <location filename="../../../scribus/cmykfw.cpp" line="778"/>
         <source>If color management is enabled, a triangle warning indicator is a warning that the color maybe outside of the color gamut of the current printer profile selected. What this means is the color may not print exactly as indicated on screen. More hints about gamut warnings are in the online help under Color Management.</source>
-        <translation>Se la koloradministrado estas ebligita, triangula indikilo estas averto ke tiu koloro povas esti ekster la kolorgamo de la aktuala printilprofilo elektita. Tio signifas ke la kolor povas en esti printita kiel indikita en la ekrano. Kromaj sugestoj pri gam-avertoj estas en la interreta helpo sub Koloradministrado.</translation>
+        <translation>Se la koloradministrado estas ebligita, triangula indikilo estas averto ke tiu koloro povas esti ekster la kolorgamo de la aktuala printilprofilo elektita. Tio signifas ke la koloro povas ne esti printita kiel indikita en la ekrano. Kromaj sugestoj pri gam-avertoj estas en la interreta helpo sub Koloradministrado.</translation>
     </message>
     <message>
         <location filename="../../../scribus/cmykfw.cpp" line="988"/>
@@ -4375,7 +4375,7 @@ Alto: %2</translation>
     <message>
         <location filename="../../../scribus/charselect.ui" line="25"/>
         <source>Show/Hide Enhanced Palette</source>
-        <translation>Montru/Kaŝu plibonigitan paletron</translation>
+        <translation>Montru/Kaŝu etenditan paletron</translation>
     </message>
     <message>
         <location filename="../../../scribus/charselect.ui" line="35"/>
@@ -4982,7 +4982,7 @@ VIdu la sekcion Redaktu Kolorojn de la dokumentaro por kromaj detaloj.     </tra
     <message>
         <location filename="../../../scribus/colorm.cpp" line="194"/>
         <source>If color management is enabled, a triangle warning indicator is a warning that the color maybe outside of the color gamut of the current printer profile selected. What this means is the color may not print exactly as indicated on screen. Spot colors are indicated by a red circle. More hints about gamut warnings are in the online help under Color Management. Registration colors will have a registration mark next to the color. Use Registration only for printers marks and crop marks.</source>
-        <translation>Se la koloradministrado estas ebligita, triangula indikilo estas averto ke tiu koloro povas esti ekster la kolorgamo de la aktuala printilprofilo elektita. Tio signifas ke la kolor povas en esti printita kiel indikita en la ekrano.La bazaj koloroj estas indikitaj de ruĝa cirklo. Kromaj sugestoj pri gam-avertoj estas en la interreta helpo sub Koloradministrado. Registrkoloroj havaso registran markon apud la koloro. Uzu registrkolorojn nur por printilmarkoj kaj tajlomarkoj. </translation>
+        <translation>Se la koloradministrado estas ebligita, triangula indikilo estas averto ke tiu koloro povas esti ekster la kolorgamo de la aktuala printilprofilo elektita. Tio signifas ke la koloro povas ne esti printita kiel indikita en la ekrano.La bazaj koloroj estas indikitaj de ruĝa cirklo. Kromaj sugestoj pri gam-avertoj estas en la interreta helpo sub Koloradministrado. Registrkoloroj havaso registran markon apud la koloro. Uzu registrkolorojn nur por printilmarkoj kaj tajlomarkoj. </translation>
     </message>
     <message>
         <location filename="../../../scribus/colorm.cpp" line="365"/>

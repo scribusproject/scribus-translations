@@ -3351,7 +3351,7 @@ Hibás a beállítása</translation>
     </message>
     <message>
         <source>I&amp;nclude Checksum</source>
-        <translation type="vanished">Elle&amp;nőrzőösszeg beszúrása</translation>
+        <translation type="vanished">Elle&amp;nőrzőösszeg elhelyezése</translation>
     </message>
     <message>
         <source>&amp;Guard Whitespace</source>
@@ -4245,7 +4245,7 @@ Adjon meg egy másik nevet.</translation>
     <message>
         <location filename="../../scribus/plugins/colorwheel/cwdialog.ui" line="62"/>
         <source>Result Colors</source>
-        <translation>Eredmény színek</translation>
+        <translation>Eredmény-színek</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/colorwheel/cwdialog.ui" line="138"/>
@@ -4282,7 +4282,7 @@ Adjon meg egy másik nevet.</translation>
     <message>
         <location filename="../../scribus/plugins/colorwheel/cwdialog.ui" line="237"/>
         <source>Difference between the selected value and the counted ones. Refer to documentation for more information.</source>
-        <translation>Különbség a kiválasztott érték és a számított között. További információt a dokumentációban talál.</translation>
+        <translation>Különbség a kiválasztott és a számított érték között. További információ a dokumentációban.</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/colorwheel/cwdialog.ui" line="258"/>
@@ -4346,7 +4346,7 @@ Adjon meg egy másik nevet.</translation>
     <message>
         <location filename="../../scribus/plugins/colorwheel/cwdialog.ui" line="394"/>
         <source>Simulate common vision defects here. Select type of the defect.</source>
-        <translation>Megszokott látási hibák szimulálása. Válassza ki a típust.</translation>
+        <translation>Általánosabb látási hibák szimulálása. A típust ki kell választani.</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/colorwheel/cwdialog.ui" line="401"/>
@@ -4437,7 +4437,7 @@ Adjon meg egy másik nevet.</translation>
     <message>
         <location filename="../../scribus/plugins/colorwheel/cwdialog.ui" line="375"/>
         <source>Sample color scheme</source>
-        <translation>Színséma minta</translation>
+        <translation>Színséma-minta</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/colorwheel/cwdialog.ui" line="173"/>
@@ -4490,7 +4490,7 @@ Height: %2</source>
     <message>
         <location filename="../../scribus/canvasmode_eyedropper.cpp" line="168"/>
         <source>The selected color does not exist in the document&apos;s color set. Please enter a name for this new color.</source>
-        <translation>A kiválasztott szín nem található a dokumentum szín készletében. Kérem adja meg az új szín nevét.</translation>
+        <translation>A kiválasztott szín nem található a dokumentum színkészletében. Kérem adja meg az új szín nevét.</translation>
     </message>
     <message>
         <location filename="../../scribus/canvasmode_eyedropper.cpp" line="171"/>
@@ -4525,7 +4525,7 @@ Height: %2</source>
     <message>
         <location filename="../../scribus/canvasmode_framelinks.cpp" line="191"/>
         <source>You are trying to insert a frame into an existing text chain, where would you like to insert it?</source>
-        <translation>A szövegláncba nem illeszthető a keret. Hová legyen beszúrva?</translation>
+        <translation>Szövegláncba nem illeszthető keret. Hová legyen beszúrva?</translation>
     </message>
     <message>
         <location filename="../../scribus/canvasmode_framelinks.cpp" line="258"/>
@@ -4601,7 +4601,7 @@ Oldal: %2</translation>
         <source>Overflow Characters: %1 (%2 White Spaces)
 Click to link to existing text frame or auto-create new linked text frame</source>
         <translation>Karaktertúlcsordulás: %1 (%2 üres hely)
-Ide kattintva majd egy meglévő szövegkeretre össze lehet kapcsolni ezeket, vagy létrehozva egy újabb szövegkeretet automatikusan össze lesznek kapcsolva</translation>
+Ide, majd egy meglévő szövegkeretre kattintva, össze lehet kapcsolni ezeket, vagy létrehozva egy újabb szövegkeretet, automatikusan össze lesznek kapcsolva</translation>
     </message>
 </context>
 <context>
@@ -4749,7 +4749,7 @@ Document Liberation Project számára: http://www.documentliberation.org</transl
     <message>
         <location filename="../../scribus/ui/charselectenhanced.cpp" line="214"/>
         <source>Basic Latin</source>
-        <translation>Latin alap</translation>
+        <translation>Alap latin</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/charselectenhanced.cpp" line="220"/>
@@ -4759,12 +4759,12 @@ Document Liberation Project számára: http://www.documentliberation.org</transl
     <message>
         <location filename="../../scribus/ui/charselectenhanced.cpp" line="226"/>
         <source>Latin Extended-A</source>
-        <translation>Latin bővített - A</translation>
+        <translation>Bővített latin - A</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/charselectenhanced.cpp" line="232"/>
         <source>Latin Extended-B</source>
-        <translation>Latin bővített - B</translation>
+        <translation>Bővített latin - B</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/charselectenhanced.cpp" line="238"/>
@@ -4869,12 +4869,12 @@ Document Liberation Project számára: http://www.documentliberation.org</transl
     <message>
         <location filename="../../scribus/ui/charselectenhanced.cpp" line="358"/>
         <source>Arabic Extended A</source>
-        <translation>Arab bővített - A</translation>
+        <translation>Bővített arab - A</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/charselectenhanced.cpp" line="364"/>
         <source>Arabic Extended B</source>
-        <translation>Arab bővített - B</translation>
+        <translation>Bővített arab - B</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/charselectenhanced.cpp" line="370"/>
@@ -4894,7 +4894,7 @@ Document Liberation Project számára: http://www.documentliberation.org</transl
     <message>
         <location filename="../../scribus/ui/charselectenhanced.ui" line="45"/>
         <source>C&amp;haracter Class:</source>
-        <translation>&amp;Karakter osztály:</translation>
+        <translation>&amp;Karakterosztály:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/charselectenhanced.ui" line="77"/>
@@ -4935,7 +4935,7 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     <message>
         <location filename="../../scribus/ui/charselectenhanced.ui" line="106"/>
         <source>Type in a four digit Unicode value directly here</source>
-        <translation>Unicode 4 számjegyű formában való közvetlen beírás</translation>
+        <translation>Négyjegyű Unicode érték közvetlen ide is beírható</translation>
     </message>
 </context>
 <context>
@@ -4971,7 +4971,7 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="138"/>
         <source>Object is not on a Page</source>
-        <translation>Objektum nincs az oldalon</translation>
+        <translation>Az objektum nincs az oldalon</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="137"/>
@@ -4986,7 +4986,7 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="126"/>
         <source>Object is a PDF Annotation or Field</source>
-        <translation>PDF megjegyzés vagy mező objektum</translation>
+        <translation>PDF megjegyzés- vagy mezőobjektum</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="140"/>
@@ -5057,12 +5057,12 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="144"/>
         <source>Transparency used</source>
-        <translation>Átlátszóság alkalmazásban</translation>
+        <translation>Átlátszóság van alkalmazva</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="145"/>
         <source>Blendmode used</source>
-        <translation>Keverési mód alkalmazásban</translation>
+        <translation>Keverési mód van alkalmazva</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="455"/>
@@ -5071,7 +5071,7 @@ The Insert key inserts a Glyph into the Selection below and the Delete key remov
     </message>
     <message>
         <source>Annotation uses a non TrueType font</source>
-        <translation type="vanished">A megjegyzés egy nem TrueType betűkészletet alkalmaz</translation>
+        <translation type="vanished">A megjegyzés nem TrueType betűkészletet alkalmaz</translation>
     </message>
     <message>
         <source>Preflight profile to base the report generation on. Options can be set in Document Setup or Preferences</source>
@@ -5143,7 +5143,7 @@ currently %2 x %3 DPI</source>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="139"/>
         <source>Object colorspace is not CMYK or spot</source>
-        <translation>Objektum színtere nem CMYK vagy direkt szín</translation>
+        <translation>Az objektum színtere nem CMYK vagy direkt szín</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="127"/>
@@ -5167,16 +5167,16 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>If you have created an image frame, there is the presumption that you planned to put an image in it.</source>
-        <translation type="vanished">Ha létrehozunk egy képkeretet, akkor az a feltételezés, hogy képet is szeretnénk bele helyezni.</translation>
+        <translation type="vanished">Ha létrehozunk egy képkeretet, akkor az a feltételezés, hogy szeretnénk bele képet is helyezni.</translation>
     </message>
     <message>
         <source>If you have created a text frame, there is the presumption that you planned to put text in it.</source>
-        <translation type="vanished">Ha létrehozunk egy szövegkeretet, akkor az a feltételezés, hogy szöveget is szeretnénk bele helyezni.</translation>
+        <translation type="vanished">Ha létrehozunk egy szövegkeretet, akkor az a feltételezés, hogy szeretnénk bele szöveget is helyezni.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="131"/>
         <source>Imported document contains non-embedded fonts</source>
-        <translation>Az importált dokumentum nem beágyazott betűkészleteket tartalmaz</translation>
+        <translation>Az importált dokumentum nem-beágyazott betűkészleteket tartalmaz</translation>
     </message>
     <message>
         <source>When some imported document uses non-embedded fonts, then their rendering will be wrong, unless by chance you have them installed on their system, but that cannot be guaranteed in case you want to share the resulting document.</source>

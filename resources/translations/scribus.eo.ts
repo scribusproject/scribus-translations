@@ -3375,7 +3375,7 @@ Nevalida konfiguro</translation>
     </message>
     <message>
         <source>Minimum error checking; raised opportunistically if size of symbol is not increased</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Minimuma erarkontrolo; oportune pliigita se la grando de simbolo ne pliiĝis</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcodegenerator.ui" line="71"/>
@@ -4057,7 +4057,7 @@ La nomo estas rezervita por travidebla koloro</translation>
         <location filename="../../scribus/ui/cmykfw.cpp" line="816"/>
         <location filename="../../scribus/ui/cmykfw.cpp" line="817"/>
         <source>If color management is enabled, a triangle warning indicator is a warning that the color maybe outside of the color gamut of the current printer profile selected. What this means is the color may not print exactly as indicated on screen. More hints about gamut warnings are in the online help under Color Management.</source>
-        <translation>Se la koloradministrado estas ebligita, triangula indikilo estas averto ke tiu koloro povas esti ekster la kolorgamo de la aktuala printilprofilo elektita. Tio signifas ke la kolor povas en esti printita kiel indikita en la ekrano. Kromaj sugestoj pri gam-avertoj estas en la interreta helpo sub Koloradministrado.</translation>
+        <translation>Se la koloradministrado estas ebligita, triangula indikilo estas averto ke tiu koloro povas esti ekster la kolorgamo de la aktuala printilprofilo elektita. Tio signifas ke la koloro povas ne esti printita kiel indikita en la ekrano. Kromaj sugestoj pri gam-avertoj estas en la interreta helpo sub Koloradministrado.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/cmykfw.cpp" line="98"/>
@@ -4706,7 +4706,7 @@ Document Liberation Project http://www.documentliberation.org</translation>
     </message>
     <message>
         <source>Hide/Show Enhanced Palette</source>
-        <translation type="vanished">Montru/Kaŝu plibonigitan paletron</translation>
+        <translation type="vanished">Montru/Kaŝu etenditan paletron</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/charselect.cpp" line="305"/>
@@ -4716,7 +4716,7 @@ Document Liberation Project http://www.documentliberation.org</translation>
     <message>
         <location filename="../../scribus/ui/charselect.ui" line="25"/>
         <source>Show/Hide Enhanced Palette</source>
-        <translation>Montru/Kaŝu plibonigitan paletron</translation>
+        <translation>Montru/Kaŝu etenditan paletron</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/charselect.ui" line="35"/>
@@ -5192,20 +5192,20 @@ aktuale %2 x %3 DPI  </translation>
     </message>
     <message>
         <source>This is a user definable setting serving as a caution for high resolution images, which may lead to unnecessarily large files.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Ĉi tiu agordaro, difinita de la uzanto, avertas pri altdistingivaj bildoj, kiuj povus krei nenecesajn grandajn dosierojn.</translation>
     </message>
     <message>
         <source>mage doesnt fit the whole space you reserved for it. Maybe this is intended, or maybe this is caused by bad inner placement or scale. The result will either be a cropped image or white space around the image.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">La bildo ne tute plenigas la spacon de vi rezervita. Eble tio estis intenca aŭ ŝuldita al malbona lokado en la kadro aŭ al malbona skalo. La rezulto estos aŭ tajlita bildo aŭ blanka spaco ĉirkaŭ ĝi.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="134"/>
         <source>This warning alerts you that you are using a bitmap based graphic format that is typically not used for high resolution images (.gif is one of those). This may result in poor viewing quality (for example: when commercially printed, viewed on a high-resolution screens, etc...). If your PDF will be printed commercially, there are some printing systems that will have difficulty printing these types of images.</source>
-        <translation type="unfinished"/>
+        <translation>Ĉi tiu averto atentigas ke oni estas uzanta grafikaĵon bazitan sur rastrumo kiu kutime ne estas uzata por altdistingivaj bildoj (.gif estas unu el tiuj). Tio povus rezultigi malaltkvalitan vidigon (ekzemple: se printita profesie, vidita en altdistingivaj ekranoj, ktp...). Se la PDF-aĵo estos printita profesie, estos kelkaj printsistemoj kiuj malfacile printos ĉi tiujn tipojn de bildoj.</translation>
     </message>
     <message>
         <source>This is a user definable setting serving as a caution for low resolution images, which may lead to poor quality output.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Ĉi tiu agordaro, difinita de la uzanto, avertas pri malaltdistingivaj bildoj, kiuj povus krei malaltkvalitajn eligojn.</translation>
     </message>
     <message>
         <source>You have one or more characters which do not have a corresponding glyph in your chosen font.</source>
@@ -5222,7 +5222,7 @@ aktuale %2 x %3 DPI  </translation>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="139"/>
         <source>PDF supports many different ways to represent the color of any object including RGB, CMYK and Spot (aka Separation) colors. Some of the PDF standards, such as PDF/X-1a, require the only CMYK and Spot colors be used.</source>
-        <translation type="unfinished"/>
+        <translation>PDF subtenas multajn diversajn manierojn prezenti la koloron de ajna objekto inkluzivanta RGB, CMYK kaj Bazan (aka-Disigo) kolorojn. Kelkaj el la PDF-normoj, kiel PDF/X-1a postulas ke oni uzu nur CMYK kaj bazajn kolorojn.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="140"/>
@@ -5237,7 +5237,7 @@ aktuale %2 x %3 DPI  </translation>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="142"/>
         <source>This warning indicates that your document contains images that have a transparent layer. This is really only an issue if using older printing profiles or PostScript. It is safe to ignore this when exporting to PDF version greater than 1.4.</source>
-        <translation type="unfinished"/>
+        <translation>Ĉi tiu averto indikas ke via dokumento entenas bildojn kun travidebla tavolo. Tio estas problemo nur se oni uzas pli malnovan printprofilojn aŭ Postskripton. Estas pli prudente ignori ĝin dum la eksporto al PDF-versio pli granda ol 1.4.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="143"/>
@@ -5253,12 +5253,12 @@ aktuale %2 x %3 DPI  </translation>
         <location filename="../../scribus/ui/checkDocument.cpp" line="144"/>
         <location filename="../../scribus/ui/checkDocument.cpp" line="146"/>
         <source>This layer uses transparency, only an issue if using older printing profiles. You may safely ignore this when using modern printing methods, or exporting to PDF version greater than 1.4.</source>
-        <translation type="unfinished"/>
+        <translation>Ĉi tiu tavolo uzas travideblecon, ĝi estas problemo nur se oni uzas  pli malnovajn printprofilojn. Oni povas trankvile ignori tion kiam oni uzas modernajn printmetodojn, aŭ kiam oni eksportas al PDF-versio pli granda ol 1.4.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="145"/>
         <source>This layer uses blendmodes which relies on transparency, only an issue if using older printing profiles. You may safely ignore this when using modern printing methods, or exporting to PDF version greater than 1.4.</source>
-        <translation type="unfinished"/>
+        <translation>Ĉi tiu tavolo uzas fandoreĝimojn kiuj baziĝas sur travidebleco, ĝi estas problemo nur se oni uzas pli malnovajn profilojn. Oni povas trankvile ignori tion kiam oni uzas modernajn printmetodojn, aŭ kiam oni eksportas al PDF-versio pli granda ol 1.4.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="146"/>
@@ -5268,7 +5268,7 @@ aktuale %2 x %3 DPI  </translation>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="133"/>
         <source>The image does not fit the whole space you reserved for it. Maybe this is intended, or maybe this is caused by bad inner placement or scale. The result will either be a cropped image or white space around the image.</source>
-        <translation>La bildo ne tute plenigas la spacon de vi rezervita. Eble estis intenca aŭ ŝuldita al malbona lokigo en la kadro aŭ al malbona skalo. La rezulto estos aŭ tajlita bildo aŭ blanka spaco ĉirkaŭ ĝi.</translation>
+        <translation>La bildo ne tute plenigas la spacon de vi rezervita. Eble estis intenca aŭ ŝuldita al malbona lokado en la kadro aŭ al malbona skalo. La rezulto estos aŭ tajlita bildo aŭ blanka spaco ĉirkaŭ ĝi.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="121"/>
@@ -5293,12 +5293,12 @@ aktuale %2 x %3 DPI  </translation>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="132"/>
         <source>This is a user definable setting serving as a caution for high resolution images, which may lead to unnecessarily large files</source>
-        <translation type="unfinished"/>
+        <translation>Ĉi tiu agordaro, difinita de la uzanto, avertas pri altdistingivaj bildoj, kiuj povus krei nenecesajn grandajn dosierojn</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="135"/>
         <source>This is a user definable setting serving as a caution for low resolution images, which may lead to poor quality output</source>
-        <translation type="unfinished"/>
+        <translation>Ĉi tiu agordaro, difinita de la uzanto, avertas pri malaltdistingivaj bildoj, kiuj povus krei malaltkvalitajn eligojn</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="136"/>
@@ -12175,7 +12175,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Edit selected Mark`s label.</source>
-        <translation type="vanished">Redaktu la elektitan indikilon de la marko</translation>
+        <translation type="vanished">Redaktu la elektitan indikilon de la marko.</translation>
     </message>
     <message>
         <source>Edit selected Mark`s label. To create new Mark select &quot;New Mark&quot; in drop list and input new label.</source>
@@ -13533,7 +13533,7 @@ Se estis elektita neniu tenilo, ĉiuj teniloj estos reportitaj al komenca pozici
     <message>
         <location filename="../../scribus/ui/notesstyleseditor.cpp" line="76"/>
         <source>Dialog is in adding new notes style mode. After pressing Cancel button dialog will be switched into normal notes styles edit mode.</source>
-        <translation type="unfinished"/>
+        <translation>La dialogo estas en reĝimo de aldono de nova notstilo. Post la premo de la Rezignobutono la dialogo pasos denove al normala reĝimo de notstila redaktado.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/notesstyleseditor.cpp" line="77"/>
@@ -13573,12 +13573,13 @@ Se estis elektita neniu tenilo, ĉiuj teniloj estos reportitaj al komenca pozici
     <message>
         <location filename="../../scribus/ui/notesstyleseditor.cpp" line="418"/>
         <source>Notes Styles Editor is in adding new notes style mode. After pressing Cancel button Notes Styles Editor switch into normal notes styles edit mode.</source>
-        <translation type="unfinished"/>
+        <translation>La notstila redaktilo estas en reĝimo de aldono de nova notstilo. Post la premo de la Rezignobutono la notstila redaktilo pasos denove al normala reĝimo de notstila redaktado.</translation>
     </message>
     <message>
         <source>New notes style will be add to document only after pressing Apply button.
 You cannot switch to different notes style before you apply that new one or press Cancel button and exit from adding mode.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">La nova notstilo estos aldonita post la premo de la butono Apliku.
+Ne eblas pasi al alia notstilo antaŭ ol apliko de la nova aŭ premo de la Rezignobutono kaj eliro ee la aldonreĝimo.</translation>
     </message>
 </context>
 <context>
@@ -13734,7 +13735,7 @@ You cannot switch to different notes style before you apply that new one or pres
     <message>
         <location filename="../../scribus/ui/osgeditor.ui" line="308"/>
         <source>Face Color:</source>
-        <translation type="unfinished"/>
+        <translation>Fackoloro:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/osgeditor.ui" line="343"/>
@@ -13878,7 +13879,7 @@ You cannot switch to different notes style before you apply that new one or pres
     <message>
         <location filename="../../scribus/ui/osgeditor.cpp" line="576"/>
         <source>Import 3-D Model</source>
-        <translation type="unfinished"/>
+        <translation>Importu 3D-ŝablonon</translation>
     </message>
 </context>
 <context>
@@ -15021,7 +15022,7 @@ Bonvolu kontroli ĝin kaj reprovi.</translation>
     <message>
         <location filename="../../scribus/pageitem_osgframe.cpp" line="161"/>
         <source>3D Model</source>
-        <translation type="unfinished"/>
+        <translation>3D-ŝablono</translation>
     </message>
     <message>
         <location filename="../../scribus/pageitem_osgframe.cpp" line="163"/>
@@ -15368,7 +15369,7 @@ p, li { white-space: pre-wrap; }
 &lt;table border=&quot;0&quot; style=&quot;-qt-table-type: root; margin-top:4px; margin-bottom:4px; margin-left:4px; margin-right:4px;&quot;&gt;
 &lt;tr&gt;
 &lt;td style=&quot;border: none;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Se la koloradministrado estas ebligita, triangula indikilo estas averto ke tiu koloro povas esti ekster la kolorgamo de la aktuala printilprofilo elektita. Tio signifas ke la kolor povas en esti printita kiel indikita en la ekrano.La bazaj koloroj estas indikitaj de ruĝa cirklo. Kromaj sugestoj pri gam-avertoj estas en la interreta helpo sub Koloradministrado. Registrkoloroj havaso registran markon apud la koloro. Uzu registrokolorojn nur por printilmarkoj kaj tajlomarkoj.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Se la koloradministrado estas ebligita, triangula indikilo estas averto ke tiu koloro povas esti ekster la kolorgamo de la aktuala printilprofilo elektita. Tio signifas ke la koloro povas ne esti printita kiel indikita en la ekrano.La bazaj koloroj estas indikitaj de ruĝa cirklo. Kromaj sugestoj pri gam-avertoj estas en la interreta helpo sub Koloradministrado. Registrkoloroj havaso registran markon apud la koloro. Uzu registrokolorojn nur por printilmarkoj kaj tajlomarkoj.&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/paintmanagerbase.ui" line="46"/>
@@ -16282,32 +16283,32 @@ La rezulto estas kombino de &quot;Intersekco&quot; kaj &quot;Ekskludo&quot; </tr
     <message>
         <location filename="../../scribus/plugins/import/pdf/pdfimportoptions.ui" line="140"/>
         <source>Crop to:</source>
-        <translation type="unfinished"/>
+        <translation>Tajlu al:</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/pdf/pdfimportoptions.ui" line="150"/>
         <source>Media Box</source>
-        <translation type="unfinished"/>
+        <translation>Aŭdvidaĵa zono</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/pdf/pdfimportoptions.ui" line="155"/>
         <source>Bleed Box</source>
-        <translation type="unfinished"/>
+        <translation>Eksterranda zono</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/pdf/pdfimportoptions.ui" line="160"/>
         <source>Trim Box</source>
-        <translation type="unfinished"/>
+        <translation>Senrandiga zono</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/pdf/pdfimportoptions.ui" line="165"/>
         <source>Crop Box</source>
-        <translation type="unfinished"/>
+        <translation>Tajla zono</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/pdf/pdfimportoptions.ui" line="170"/>
         <source>Art Box</source>
-        <translation type="unfinished"/>
+        <translation>Grafikaĵa zono</translation>
     </message>
 </context>
 <context>
@@ -19096,7 +19097,7 @@ Do you want to migrate them to the new Scribus version?</source>
     <message>
         <location filename="../../scribus/ui/prefs_documentsetup.cpp" line="111"/>
         <source>Enable or disable more page sizes by jumping to Page Size preferences</source>
-        <translation type="unfinished"/>
+        <translation>Ebligu aŭ malebligu kromajn paĝograndojn per salto al paĝograndaj agordoj</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_documentsetup.cpp" line="112"/>
@@ -19881,7 +19882,7 @@ Valoro egala al 0 signifas senlimajn dividojn.</translation>
     <message>
         <location filename="../../scribus/ui/prefs_imagecache.cpp" line="28"/>
         <source>Enabling the image cache will significantly speed up the loading of images. Enable the cache if you are often working on large documents with lots of images and if you have plenty of disk space in your application data directory.</source>
-        <translation type="unfinished"/>
+        <translation>La ebligo de la bilda kaŝmemoro multe pli rapidigos la ŝargon de la bildoj. Ebligu la kaŝmemoron se oni laboras ofte kun grandaj dokumentoj entenantaj multajn bildojn kaj oni posedas multan diskospacon en la datumdosierujo de la aplikaĵo.</translation>
     </message>
     <message>
         <source>Limit the total size of all files in the image cache directory to this amount.</source>
@@ -19894,7 +19895,7 @@ Valoro egala al 0 signifas senlimajn dividojn.</translation>
     <message>
         <location filename="../../scribus/ui/prefs_imagecache.cpp" line="31"/>
         <source>Set the level of compression for images in the cache. Higher values result in smaller cache files but also make writes to the cache slower.</source>
-        <translation type="unfinished"/>
+        <translation>Agordu la densigonivelon por la bildoj en la kaŝmemoro. Pli altaj valoroj rezultigos pli malgrandajn kaŝmemorajn dosierojn sed ankaŭ malrapidigos la skribadon de la kaŝmemoro.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_imagecachebase.ui" line="14"/>
@@ -25841,7 +25842,7 @@ de la objekto</translation>
     <message>
         <location filename="../../scribus/ui/propertywidget_pareffect.cpp" line="564"/>
         <source>Enhanced char table to choose bullet chars</source>
-        <translation type="unfinished"/>
+        <translation>Etendita signotabelo por elekto de buletoj</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertywidget_pareffect.cpp" line="565"/>
@@ -27199,7 +27200,7 @@ qt/&lt;/tt&gt; por kromaj informoj.&lt;/p&gt;</translation>
     <message>
         <location filename="../../scribus/plugins/gettext/csvim/csvim.cpp" line="66"/>
         <source>CSV_header</source>
-        <translation>CSV_kaplinioj</translation>
+        <translation>CSV_kaplinio</translation>
     </message>
     <message>
         <location filename="../../scribus/scfonts.cpp" line="468"/>
@@ -29674,7 +29675,7 @@ Do, la bildo povas esti ne ĝusta</translation>
         <location filename="../../scribus/plugins/scriptplugin/cmdtable.cpp" line="114"/>
         <source>Row deletion range out of bounds, index + numRows must be &lt;= %1</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Intervalo de liniforigo eksterlima, index + numRows, devas esti &lt;= %1</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/scriptplugin/cmdtable.cpp" line="135"/>
@@ -29730,7 +29731,7 @@ Do, la bildo povas esti ne ĝusta</translation>
         <location filename="../../scribus/plugins/scriptplugin/cmdtable.cpp" line="233"/>
         <source>Column deletion range out of bounds, index + numColumns must be &lt;= %1</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Intervalo de kolumnoforigo eksterlima, index + numColumns, devas esti &lt;= %1</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/scriptplugin/cmdtable.cpp" line="254"/>
@@ -29821,7 +29822,7 @@ Do, la bildo povas esti ne ĝusta</translation>
         <location filename="../../scribus/plugins/scriptplugin/cmdutil.cpp" line="280"/>
         <source>Expected a list of border lines</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Atendata listo de randlinioj</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/scriptplugin/cmdutil.cpp" line="301"/>
@@ -29838,7 +29839,7 @@ Do, la bildo povas esti ne ĝusta</translation>
         <location filename="../../scribus/plugins/scriptplugin/cmdutil.cpp" line="295"/>
         <source>Border lines are specified as (width,style,color,shade) tuples</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>La randlinioj estas specifitaj kiel tuploj (larĝo, stilo, koloro, intenso)</translation>
     </message>
     <message>
         <location filename="../../scribus/langmgr.cpp" line="92"/>
@@ -31498,7 +31499,7 @@ Esprimita kiel procento de la aktuala blankspaca valoro.</translation>
     </message>
     <message>
         <source>Bullet Char/String</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Buletsigno/Signoĉeno</translation>
     </message>
     <message>
         <source>Char Table</source>
@@ -31559,17 +31560,17 @@ Esprimita kiel procento de la aktuala blankspaca valoro.</translation>
     <message>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="113"/>
         <source>Enhanced Char Table for inserting customs chars as bullets</source>
-        <translation type="unfinished"/>
+        <translation>Etendita signopaletro por enmeti proprajn signojn kiel buletoj</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="114"/>
         <source>Paragraph Effects Chars Offset</source>
-        <translation type="unfinished"/>
+        <translation>Signoŝovo de la alinea efekto</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="115"/>
         <source>Hang Paragraph Effect before paragraph indent</source>
-        <translation type="unfinished"/>
+        <translation>Apliku la alinean efekton antaŭ la alinea deŝovo</translation>
     </message>
     <message>
         <source>Numbering Style</source>
@@ -34093,7 +34094,7 @@ Rotacio: %4</translation>
     <message>
         <location filename="../../scribus/scribusdoc.cpp" line="18419"/>
         <source>%1 note style has document as range and provide same numbering style as set %2</source>
-        <translation type="unfinished"/>
+        <translation>Notstilo %1 estas aplikita al la tuta dokumento kaj posedas la saman numeradstilon kiel %2 </translation>
     </message>
     <message>
         <location filename="../../scribus/scribusdoc.cpp" line="11681"/>
@@ -34916,7 +34917,7 @@ Pripensu ĉu uzi la antaŭkontrolon por korekti ilin</translation>
     <message>
         <location filename="../../scribus/scribusapp.cpp" line="590"/>
         <source>Explicit end of command line options</source>
-        <translation type="unfinished"/>
+        <translation>Eksplicita fino de komandliniaj opcioj</translation>
     </message>
     <message>
         <location filename="../../scribus/scribusapp.cpp" line="174"/>
@@ -35010,7 +35011,7 @@ Pripensu ĉu uzi la antaŭkontrolon por korekti ilin</translation>
     <message>
         <location filename="../../scribus/scribusview.cpp" line="313"/>
         <source>CMS is active. Therefore the color display may not match the perception by visually impaired</source>
-        <translation type="unfinished"/>
+        <translation>CMS estas aktiva. Do la kolormontro povas ne kongrui kun perceptado fare de malbonvidantoj</translation>
     </message>
     <message>
         <source>Enter Object Size</source>
@@ -35256,7 +35257,7 @@ Pripensu ĉu uzi la antaŭkontrolon por korekti ilin</translation>
     <message>
         <location filename="../../scribus/plugins/scripter/scripterimpl.cpp" line="331"/>
         <source>Scribus - Scripter Plugin</source>
-        <translation type="unfinished"/>
+        <translation>Scribus - Skriptila kromprogramo</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/scripter/scripterimpl.cpp" line="332"/>
@@ -35669,7 +35670,7 @@ Pripensu ĉu uzi la antaŭkontrolon por korekti ilin</translation>
     <message>
         <location filename="../../scribus/plugins/shapes/shapeplugin.cpp" line="93"/>
         <source>Palette for Photoshop Custom Shapes.</source>
-        <translation type="unfinished"/>
+        <translation>Paletro por Photoshop Custom Shapes.</translation>
     </message>
 </context>
 <context>
@@ -39165,7 +39166,7 @@ X: %4, Y: %5</translation>
     <message>
         <location filename="../../scribus/undomanager.cpp" line="621"/>
         <source>Set mask gradient type</source>
-        <translation type="unfinished"/>
+        <translation>Agordu la gradientan tipon de la masko</translation>
     </message>
     <message>
         <location filename="../../scribus/undomanager.cpp" line="631"/>
@@ -39185,17 +39186,17 @@ X: %4, Y: %5</translation>
     <message>
         <location filename="../../scribus/undomanager.cpp" line="653"/>
         <source>Change fill gradient type</source>
-        <translation type="unfinished"/>
+        <translation>Ŝanĝu la plenigan gradienttipon</translation>
     </message>
     <message>
         <location filename="../../scribus/undomanager.cpp" line="654"/>
         <source>Change fill gradient values</source>
-        <translation type="unfinished"/>
+        <translation>Ŝanĝu la plenigajn gradientvalorojn</translation>
     </message>
     <message>
         <location filename="../../scribus/undomanager.cpp" line="655"/>
         <source>Change stroke gradient values</source>
-        <translation type="unfinished"/>
+        <translation>Ŝanĝu la konturajn gradientvalorojn</translation>
     </message>
     <message>
         <location filename="../../scribus/undomanager.cpp" line="656"/>
@@ -39205,7 +39206,7 @@ X: %4, Y: %5</translation>
     <message>
         <location filename="../../scribus/undomanager.cpp" line="657"/>
         <source>Change stroke gradient type</source>
-        <translation type="unfinished"/>
+        <translation>Ŝanĝu la konturan gradienttipon</translation>
     </message>
     <message>
         <location filename="../../scribus/undomanager.cpp" line="670"/>
@@ -39411,7 +39412,7 @@ X: %4, Y: %5</translation>
     <message>
         <location filename="../../scribus/undomanager.cpp" line="791"/>
         <source>Drop Shadow Blur Radius</source>
-        <translation type="unfinished"/>
+        <translation>Misfokuseca radiuso de la ĵetita ombro</translation>
     </message>
     <message>
         <location filename="../../scribus/undomanager.cpp" line="792"/>
@@ -39538,12 +39539,12 @@ X: %4, Y: %5</translation>
     <message>
         <location filename="../../scribus/plugins/import/uniconvertor/uniconvplugin.cpp" line="158"/>
         <source>Starting Uniconvertor failed! The executable name in File-&gt;Preferences-&gt;External Tools may be incorrect or the software has been uninstalled since preferences were set. (%1)</source>
-        <translation type="unfinished"/>
+        <translation>Malsukcesis la rulo de Uniconvertor! La La nomo de la plenumebla dosiero en Dosiero-&gt;Eksteraj iloj povus esti neĝusta aŭ la programaro estis malinstalita post la agordo. (%1)</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/uniconvertor/uniconvplugin.cpp" line="168"/>
         <source>Uniconvertor did not exit correctly: %1</source>
-        <translation type="unfinished"/>
+        <translation>Uniconvertor ne ĝuste eliris: %1</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/uniconvertor/uniconvplugin.cpp" line="176"/>
@@ -41196,7 +41197,7 @@ bonvolu elekti alian.</translation>
         <location filename="../../scribus/ui/transparencypalette.ui" line="354"/>
         <location filename="../../scribus/ui/transparencypalette.ui" line="417"/>
         <source>Use Luminosity as Alpha</source>
-        <translation type="unfinished"/>
+        <translation>Uzu helecon kiel Alfa</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/transparencypalette.ui" line="362"/>
