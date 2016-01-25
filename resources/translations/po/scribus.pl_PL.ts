@@ -3062,12 +3062,12 @@
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginimpl.cpp" line="382"/>
         <source>AspellPluginImpl::on_fskipAllBtn_clicked(): Unable to skip all instances of &quot;</source>
-        <translation type="unfinished"/>
+        <translation>AspellPluginImpl::on_fskipAllBtn_clicked(): Nie można pominąć wszystkich instancji &quot;</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginimpl.cpp" line="384"/>
         <source> by adding it to the session list.</source>
-        <translation type="unfinished"/>
+        <translation>poprzez dodanie tego do listy sesji.</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/spellcheck/aspellpluginimpl.cpp" line="405"/>
@@ -8890,7 +8890,10 @@ converting their vector data into Scribus objects.</source>
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Sans Serif'; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Separate pages with a comma, ranges with a hyphen, e.g. 1,4,9-11 to get pages 1,4,9,10,11.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans Serif&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Rozdziel strony przecinkami, zakresy myślnikami, np. 1,4,9-11 aby otrzymać strony 1,4,9,10,11.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/imposition/impositionbase.ui" line="339"/>
@@ -9257,7 +9260,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="93"/>
         <source>Place the new frames on the current page, on all pages or on a selected range</source>
-        <translation type="unfinished"/>
+        <translation>Umieść nowe ramki w bieżącej stronie, na wszystkich stronach lub w wybranym zakresie</translation>
     </message>
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="102"/>
@@ -9282,7 +9285,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="169"/>
         <source>Position the new frame in relation to the page</source>
-        <translation type="unfinished"/>
+        <translation>Położenie nowej ramki w stosunku do strony</translation>
     </message>
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="178"/>
@@ -9307,22 +9310,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="252"/>
         <source>Top position of the inserted frame</source>
-        <translation type="unfinished"/>
+        <translation>Położenie górne wstawionej ramki</translation>
     </message>
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="259"/>
         <source>Left position of the inserted frame</source>
-        <translation type="unfinished"/>
+        <translation>Położenie lewe wstawionej ramki</translation>
     </message>
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="315"/>
         <source>Insert the new frame with the same dimensions as the page margins</source>
-        <translation type="unfinished"/>
+        <translation>Wstaw nową ramkę o takich samych wymiarach jak marginesy strony</translation>
     </message>
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="325"/>
         <source>Insert the new frame with the same dimensions as the page</source>
-        <translation type="unfinished"/>
+        <translation>Wstaw nową ramkę o takich samych wymiarach jak strona</translation>
     </message>
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="335"/>
@@ -9332,12 +9335,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="345"/>
         <source>Insert the new frame with the same dimensions as the image that will be imported</source>
-        <translation type="unfinished"/>
+        <translation>Wstaw nową ramkę o takich samych wymiarach jak obraz, który ma zostać importowany</translation>
     </message>
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="355"/>
         <source>Insert the new frame with a custom size</source>
-        <translation type="unfinished"/>
+        <translation>Wstaw nową ramkę o określonej wielkości</translation>
     </message>
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="399"/>
@@ -9352,7 +9355,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="464"/>
         <source>Number of columns for the inserted text frame</source>
-        <translation type="unfinished"/>
+        <translation>Ilość łamów we wstawionej ramce tekstowej</translation>
     </message>
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="481"/>
@@ -9362,7 +9365,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="512"/>
         <source>Link the inserted text frames together to form a chain of frames</source>
-        <translation type="unfinished"/>
+        <translation>Połącz ze sobą wstawione ramki tekstowe, aby utworzyć łańcuch ramek</translation>
     </message>
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="515"/>
@@ -9372,7 +9375,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="524"/>
         <source>Link the first inserted frame to a preexisting text frame</source>
-        <translation type="unfinished"/>
+        <translation>Połącz pierwszą wstawioną ramkę z istniejącą wcześniej ramką tekstową</translation>
     </message>
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="527"/>
@@ -9382,17 +9385,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="543"/>
         <source>Name of existing text frame to link to</source>
-        <translation type="unfinished"/>
+        <translation>Nazwa istniejącej ramki tekstowej, do której ma zostać utworzone połączenie</translation>
     </message>
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="561"/>
         <source>Source document to load into the text frame</source>
-        <translation type="unfinished"/>
+        <translation>Dokument źródłowy do wczytania w ramce tekstowej</translation>
     </message>
     <message>
         <location filename="../../../scribus/insertaframe.ui" line="603"/>
         <source>Source image to load into the inserted image frame</source>
-        <translation type="unfinished"/>
+        <translation>Obraz źródłowy do wczytania w ramce graficznej</translation>
     </message>
 </context>
 <context>
@@ -9958,7 +9961,8 @@ p, li { white-space: pre-wrap; }
         <location filename="../../../scribus/loadsaveplugin.cpp" line="98"/>
         <source>An error occured while parsing file at line %1, column %2 :
 %3</source>
-        <translation type="unfinished"/>
+        <translation>Wystąpił błąd podczas przetwarzania pliku w wierszu %1, kolumna %2:
+%3</translation>
     </message>
     <message>
         <location filename="../../../scribus/loadsaveplugin.cpp" line="80"/>
@@ -10120,7 +10124,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/margindialog.cpp" line="179"/>
         <source>When inserting a new page between others, move objects with their current pages. This is the default action.</source>
-        <translation type="unfinished"/>
+        <translation>Podczas wstawiania nowej strony pomiędzy inne, przenieś obiekty z ich bieżącymi stronami. Jest to działanie domyślne.</translation>
     </message>
 </context>
 <context>
@@ -13223,7 +13227,7 @@ Proszę wybrać inny.</translation>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="275"/>
         <source>Colorspace used within the image, eg RGB or CMYK</source>
-        <translation type="unfinished"/>
+        <translation>Przestrzeń barw użyta wobec obrazu, np. RGB lub CMYK</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="307"/>
@@ -13303,7 +13307,7 @@ Proszę wybrać inny.</translation>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="620"/>
         <source>Make the image visible or invisible</source>
-        <translation type="unfinished"/>
+        <translation>Uczyń obraz widocznym lub niewidocznym</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="630"/>
@@ -15167,12 +15171,12 @@ Corners:</source>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5648"/>
         <source>Paragraph style of currently selected text or paragraph</source>
-        <translation type="unfinished"/>
+        <translation>Styl akapitu obecnie zaznaczonego tekstu lub akapitu</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5649"/>
         <source>Character style of currently selected text or paragraph</source>
-        <translation type="unfinished"/>
+        <translation>Styl znaku obecnie zaznaczonego tekstu lub akapitu</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5650"/>
@@ -16435,7 +16439,7 @@ Sprawdź katalog i nazwę pliku.</translation>
     <message>
         <location filename="../../../scribus/pagesize.cpp" line="200"/>
         <source>Govt. Letter</source>
-        <translation type="unfinished"/>
+        <translation>Govt. Letter</translation>
     </message>
     <message>
         <location filename="../../../scribus/pagesize.cpp" line="200"/>
@@ -18075,7 +18079,7 @@ Zewnętrzne dowiązania
         <location filename="../../../scribus/plugins/gettext/pdbim/pdbim.cpp" line="101"/>
         <source>This file is not recognized as a PDB document. Please, report this as a bug if you are sure it is one.</source>
         <comment>PDB Importer</comment>
-        <translation type="unfinished"/>
+        <translation>Ten plik nie został rozpoznany jako dokument PDB. Prosimy o zgłoszenie tego jako błąd, jeśli jesteś pewny że jest to poprawny plik.</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/gettext/sxwim/sxwim.cpp" line="45"/>
@@ -18423,7 +18427,7 @@ Zewnętrzne dowiązania
         <location filename="../../../scribus/plugins/scriptplugin/cmdtext.cpp" line="471"/>
         <source>Text distances out of bounds, must be positive.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Odstęp tekstu poza zakresem, wartość powinna być dodatnia.</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/cmdtext.cpp" line="479"/>
@@ -18500,7 +18504,7 @@ Therefore the image may be not correct</source>
         <location filename="../../../scribus/plugins/scriptplugin/cmdtext.cpp" line="741"/>
         <source>Character scaling out of bounds, must be &gt;= 10</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Skalowanie znaków poza zakresem, powinno być &gt;= 10</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/cmdtext.cpp" line="714"/>
@@ -18704,19 +18708,22 @@ Therefore the image may be not correct</source>
         <location filename="../../../scribus/query.cpp" line="71"/>
         <source>Name &quot;%1&quot; is not allowed.
 Please choose another.</source>
-        <translation type="unfinished"/>
+        <translation>Nazwa &quot;%1&quot; jest niedozwolona.
+Prosimy wybrać inną.</translation>
     </message>
     <message>
         <location filename="../../../scribus/query.cpp" line="83"/>
         <source>Name &quot;%1&quot; already exists.
 Do you want to replace the current contents?</source>
-        <translation type="unfinished"/>
+        <translation>Nazwa &quot;%1&quot; juz istnieje.
+Czy chcesz zastąpić bieżącą zawartość?</translation>
     </message>
     <message>
         <location filename="../../../scribus/query.cpp" line="93"/>
         <source>Name &quot;%1&quot; is not unique.
 Please choose another.</source>
-        <translation type="unfinished"/>
+        <translation>Nazwa &quot;%1&quot; nie jest unikalna.
+Prosimy wybrać inną.</translation>
     </message>
 </context>
 <context>
@@ -19038,7 +19045,7 @@ Please choose another.</source>
     <message>
         <location filename="../../../scribus/smcstylewidget.cpp" line="229"/>
         <source>A default style cannot be assigned a parent style</source>
-        <translation type="unfinished"/>
+        <translation>Styl domyślny nie może być przypisany do stylu nadrzędnego</translation>
     </message>
     <message>
         <location filename="../../../scribus/smcstylewidget.cpp" line="87"/>
@@ -19083,7 +19090,7 @@ Please choose another.</source>
     <message>
         <location filename="../../../scribus/smtextstyles.cpp" line="2320"/>
         <source>Setting that style as parent would create an infinite loop.</source>
-        <translation type="unfinished"/>
+        <translation>Ustawienie tego stylu jako nadrzędnego spowodowałoby zapętlenie w nieskończoność.</translation>
     </message>
 </context>
 <context>
@@ -19418,7 +19425,7 @@ Expressed as a percentage of the current white space value.</source>
     <message>
         <location filename="../../../scribus/smpstylewidget.cpp" line="292"/>
         <source>A default style cannot be assigned a parent style</source>
-        <translation type="unfinished"/>
+        <translation>Styl domyślny nie może być przypisany do stylu nadrzędnego</translation>
     </message>
     <message>
         <location filename="../../../scribus/smpstylewidget.cpp" line="143"/>
@@ -19513,7 +19520,7 @@ Expressed as a percentage of the current white space value.</source>
     <message>
         <location filename="../../../scribus/smtextstyles.cpp" line="1390"/>
         <source>Setting that style as parent would create an infinite loop.</source>
-        <translation type="unfinished"/>
+        <translation>Ustawienie tego stylu jako nadrzędnego spowodowałoby zapętlenie w nieskończoność.</translation>
     </message>
 </context>
 <context>
@@ -20098,7 +20105,8 @@ converting their vector data into Scribus objects.</source>
         <location filename="../../../scribus/plugins/fileloader/scribus12format/scribus12format.cpp" line="792"/>
         <source>You have opened a file produced by Scribus 1.2.x.
 If you save it in this version, it will no longer be readable by older Scribus versions.</source>
-        <translation type="unfinished"/>
+        <translation>Otworzyłeś plik utworzony przez Scribus 1.2.x.
+Jeśli zapiszesz go w tej wersji, nie będzie już odczytywany przez starsze wersje Scribusa.</translation>
     </message>
 </context>
 <context>
@@ -20150,7 +20158,8 @@ If you save it in this version, it will no longer be readable by older Scribus v
         <location filename="../../../scribus/plugins/fileloader/scribus13format/scribus13format.cpp" line="1179"/>
         <source>You have opened a file produced by Scribus 1.3.3.x.
 If you save it in this version, it will no longer be readable by older Scribus versions.</source>
-        <translation type="unfinished"/>
+        <translation>Otworzyłeś plik utworzony przez Scribus 1.3.3.x.
+Jeśli zapiszesz go w tej wersji, nie będzie już odczytywany przez starsze wersje Scribusa.</translation>
     </message>
 </context>
 <context>
@@ -20791,7 +20800,7 @@ materiału wejściowego, aby je poprawić</translation>
     <message>
         <location filename="../../../scribus/scribus.cpp" line="3940"/>
         <source>This document is already in use.You&apos;ll be switched into its window now.</source>
-        <translation type="unfinished"/>
+        <translation>Ten dokument jest już w użyciu. Zostaniesz teraz przełączony do jego okna.</translation>
     </message>
 </context>
 <context>
@@ -27782,7 +27791,7 @@ Menu podręczne z opcją usunięcia jest dostępne jedynie, gdy posiadasz prawa 
     <message>
         <location filename="../../../scribus/plugins/saveastemplateplugin/satdialog.ui" line="65"/>
         <source>Description of the color format of the document, or some hints regarding colors used</source>
-        <translation type="unfinished"/>
+        <translation>Opis formatu kolorów dokumentu oraz pewne wskazówki odnośnie użytych kolorów</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/saveastemplateplugin/satdialog.ui" line="88"/>

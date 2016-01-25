@@ -329,22 +329,22 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1477"/>
         <source>&amp;Save</source>
-        <translation>&amp;Salvar</translation>
+        <translation>&amp;Guardar</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1478"/>
         <source>Save &amp;As...</source>
-        <translation>Salvar &amp;Como...</translation>
+        <translation>Guardar &amp;como...</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1479"/>
         <source>Re&amp;vert to Saved</source>
-        <translation>Re&amp;verter para última versão salva</translation>
+        <translation>Re&amp;verter para última versão guardada</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1480"/>
         <source>Collect for O&amp;utput...</source>
-        <translation>Reunir para S&amp;aída...</translation>
+        <translation>Re&amp;unir para saída...</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1481"/>
@@ -364,12 +364,12 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1486"/>
         <source>Save &amp;Text...</source>
-        <translation>Salvar &amp;Texto...</translation>
+        <translation>Guardar &amp;Texto...</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1488"/>
         <source>Save as P&amp;DF...</source>
-        <translation>Salvar como P&amp;DF...</translation>
+        <translation>Guardar como P&amp;DF...</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1490"/>
@@ -1081,7 +1081,7 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1561"/>
         <source>&amp;Printing Enabled</source>
-        <translation>Im&amp;pressão activada</translation>
+        <translation>Im&amp;pressão ativada</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1562"/>
@@ -1209,7 +1209,7 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1487"/>
         <source>Save as &amp;EPS...</source>
-        <translation>Salvar como &amp;EPS...</translation>
+        <translation>Guardar como &amp;EPS...</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1656"/>
@@ -5542,7 +5542,7 @@ currently %2 x %3 DPI</source>
     <message>
         <location filename="../../scribus/commonstrings.cpp" line="287"/>
         <source>&amp;Save</source>
-        <translation>&amp;Salvar</translation>
+        <translation>&amp;Guardar</translation>
     </message>
     <message>
         <location filename="../../scribus/commonstrings.cpp" line="290"/>
@@ -6188,7 +6188,7 @@ currently %2 x %3 DPI</source>
     <message>
         <location filename="../../scribus/ui/contextmenu.cpp" line="141"/>
         <source>Disabled</source>
-        <translation>Desactivado</translation>
+        <translation>Desativado</translation>
     </message>
     <message>
         <source>Contents</source>
@@ -6638,7 +6638,7 @@ As bibliotecas nao suportadas são indicadas por um *</translation>
     <message>
         <location filename="../../scribus/ui/curvewidget.cpp" line="446"/>
         <source>Save as</source>
-        <translation>Salvar como</translation>
+        <translation>Guardar como</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/curvewidget.cpp" line="480"/>
@@ -6670,7 +6670,7 @@ As bibliotecas nao suportadas são indicadas por um *</translation>
     <message>
         <location filename="../../scribus/ui/curvewidget.cpp" line="510"/>
         <source>Saves this curve</source>
-        <translation>Salva esta curva</translation>
+        <translation>Guardar esta curva</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/curvewidget.cpp" line="408"/>
@@ -7198,12 +7198,12 @@ failed!</source>
     <message>
         <location filename="../../scribus/ui/editor.cpp" line="48"/>
         <source>&amp;Save and Exit</source>
-        <translation>&amp;Salvar e sair</translation>
+        <translation>&amp;Guardar e sair</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/editor.cpp" line="50"/>
         <source>&amp;Exit without Saving</source>
-        <translation>Sair s&amp;em salvar</translation>
+        <translation>Sair s&amp;em guardar</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/editor.cpp" line="52"/>
@@ -8349,7 +8349,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     </message>
     <message>
         <source>If you select OK, then save, these substitutions are made permanent in the document.</source>
-        <translation type="vanished">Se você selecionar OK e então salvar, essas substituições feitas no documento serão permanentes.</translation>
+        <translation type="vanished">Se você selecionar OK e então guardar, essas substituições feitas no documento serão permanentes.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/fontreplacedialog.cpp" line="84"/>
@@ -13213,7 +13213,7 @@ If no handle is selected all handles will be reset.</source>
     <message>
         <location filename="../../scribus/ui/nodeeditpalette.cpp" line="1042"/>
         <source>Activate Contour Line Editing Mode</source>
-        <translation>Activa o modo de edição da linha de contorno</translation>
+        <translation>Ativa o modo de edição da linha de contorno</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/nodeeditpalette.cpp" line="1043"/>
@@ -13852,7 +13852,7 @@ You cannot switch to different notes style before you apply that new one or pres
     <message>
         <location filename="../../scribus/plugins/gettext/odtim/odtdia.cpp" line="54"/>
         <source>Enabling this will overwrite existing styles in the current Scribus document</source>
-        <translation>Activar isto irá sobrescrever os estilos existentes no documento atual</translation>
+        <translation>Ativar isto irá sobrescrever os estilos existentes no documento atual</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/gettext/odtim/odtdia.cpp" line="61"/>
@@ -14112,7 +14112,7 @@ You cannot switch to different notes style before you apply that new one or pres
         <location filename="../../scribus/ui/pdfexportdialog.cpp" line="64"/>
         <location filename="../../scribus/ui/pdfexportdialog.cpp" line="187"/>
         <source>Save as PDF</source>
-        <translation>Salvar como PDF</translation>
+        <translation>Guardar como PDF</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/pdfexportdialog.cpp" line="70"/>
@@ -14137,7 +14137,7 @@ You cannot switch to different notes style before you apply that new one or pres
     <message>
         <location filename="../../scribus/ui/pdfexportdialog.cpp" line="122"/>
         <source>&amp;Save</source>
-        <translation>&amp;Salvar</translation>
+        <translation>&amp;Guardar</translation>
     </message>
     <message>
         <source>Open the exported PDF with the PDF viewer as set in External Tools preferences, when not exporting to a multi-file export destination.</source>
@@ -14145,7 +14145,7 @@ You cannot switch to different notes style before you apply that new one or pres
     </message>
     <message>
         <source>The save button will be disabled if you are trying to export PDF/X and the info string is missing from the PDF/X tab.</source>
-        <translation type="vanished">O botão salvar será desactivado se você estiver tentando exportar para PDF/X e a string de informação não aparecerá na aba PDF/X.</translation>
+        <translation type="vanished">O botão guardar será desativado se estiver a tentar exportar para PDF/X e a string de informação não aparecerá na aba PDF/X.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/pdfexportdialog.cpp" line="237"/>
@@ -14172,7 +14172,7 @@ You cannot switch to different notes style before you apply that new one or pres
     <message>
         <location filename="../../scribus/ui/pdfexportdialog.cpp" line="237"/>
         <source>Save As</source>
-        <translation>Salvar como</translation>
+        <translation>Guardar como</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/pdfexportdialog.cpp" line="135"/>
@@ -14287,22 +14287,22 @@ Please check it and try again.</source>
     <message>
         <location filename="../../scribus/ui/preview.cpp" line="373"/>
         <source>Enable/disable the C (Cyan) ink plate</source>
-        <translation>Activa/desactiva a visualização da tinta C (ciano)</translation>
+        <translation>Ativar/Desativar a visualização da tinta C (ciano)</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/preview.cpp" line="374"/>
         <source>Enable/disable the M (Magenta) ink plate</source>
-        <translation>Activa/Desactiva a visualização da tinta M (Magenta)</translation>
+        <translation>Ativar/Desativar a visualização da tinta M (Magenta)</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/preview.cpp" line="375"/>
         <source>Enable/disable the Y (Yellow) ink plate</source>
-        <translation>Activa/Desactiva a visualização da tinta Y (Amarelo)</translation>
+        <translation>Ativar/Desativar a visualização da tinta Y (Amarelo)</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/preview.cpp" line="376"/>
         <source>Enable/disable the K (Black) ink plate</source>
-        <translation>Activar/Desactiva a visualização da tinta K (Preto)</translation>
+        <translation>Ativar/Desativae a visualização da tinta K (Preto)</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/preview.cpp" line="134"/>
@@ -14401,7 +14401,7 @@ Please check it and try again.</source>
     <message>
         <location filename="../../scribus/ui/preview.cpp" line="129"/>
         <source>Enable &amp;Antialiasing</source>
-        <translation>Activar &amp;suavização (antialiasing)</translation>
+        <translation>Ativar &amp;suavização (antialiasing)</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/preview.cpp" line="306"/>
@@ -14451,7 +14451,7 @@ Please check it and try again.</source>
     <message>
         <location filename="../../scribus/ui/preview.cpp" line="355"/>
         <source>Enables Spot Colors to be converted to composite colors. Unless you are planning to print spot colors at a commercial printer, this is probably best left enabled.</source>
-        <translation>Activa a conversão de cores lisas (Spot Colors) para cores compostas (quadricromia). A menos que esteja a planear imprimir por separações num impressor comercial, provavelmente é melhor deixar essa opção activada.</translation>
+        <translation>Ativa a conversão de cores lisas (Spot Colors) para cores compostas (quadricromia). A menos que esteja a planear imprimir por separações num impressor comercial, provavelmente é melhor deixar essa opção ativada.</translation>
     </message>
     <message>
         <source>Apply Color Profiles</source>
@@ -15374,12 +15374,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../scribus/ui/paintmanagerbase.ui" line="157"/>
         <source>Save the current color set</source>
-        <translation>Salvar o conjunto de cores actual</translation>
+        <translation>Guardar o conjunto de cores actual</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/paintmanagerbase.ui" line="160"/>
         <source>&amp;Save Color Set</source>
-        <translation>&amp;Salvar o conjunto de cores</translation>
+        <translation>&amp;Guardar o conjunto de cores</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/paintmanagerbase.ui" line="188"/>
@@ -17514,7 +17514,7 @@ Please choose another one.</source>
     <message>
         <location filename="../../scribus/plugins/export/pixmapexport/export.cpp" line="63"/>
         <source>Save as &amp;Image...</source>
-        <translation>Salvar como &amp;imagem...</translation>
+        <translation>Guardar como &amp;imagem...</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/export/pixmapexport/export.cpp" line="74"/>
@@ -18029,7 +18029,7 @@ Do you want to migrate them to the new Scribus version?</source>
         <location filename="../../scribus/prefsmanager.cpp" line="2690"/>
         <source>Scribus was not able to save its preferences:&lt;br&gt;%1&lt;br&gt;Please check file and directory permissions and available disk space.</source>
         <comment>scribus app error</comment>
-        <translation>O Scribus não conseguiu salvar estas preferências:&lt;br&gt;%1&lt;br&gt;Por favor verifique o ficheiro, as permissões de acesso do directório e o espaço disponível em disco.</translation>
+        <translation>O Scribus não conseguiu guardar estas preferências:&lt;br&gt;%1&lt;br&gt;Por favor verifique o ficheiro, as permissões de acesso do directório e o espaço disponível em disco.</translation>
     </message>
     <message>
         <location filename="../../scribus/prefsmanager.cpp" line="2705"/>
@@ -18369,7 +18369,7 @@ Do you want to migrate them to the new Scribus version?</source>
     </message>
     <message>
         <source>Enable or disable  the display of linked frames.</source>
-        <translation type="vanished">Activar ou desactivar a visualização das molduras ligadas.</translation>
+        <translation type="vanished">Ativar ou desativar a visualização das molduras ligadas.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_display.cpp" line="74"/>
@@ -18379,7 +18379,7 @@ Do you want to migrate them to the new Scribus version?</source>
     <message>
         <location filename="../../scribus/ui/prefs_display.cpp" line="75"/>
         <source>Turns the display of frames on or off</source>
-        <translation>Activa ou desactiva a visualização de molduras</translation>
+        <translation>Ativa ou desativa a visualização de molduras</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_display.cpp" line="76"/>
@@ -18888,7 +18888,7 @@ Do you want to migrate them to the new Scribus version?</source>
     <message>
         <location filename="../../scribus/ui/prefs_documentsetupbase.ui" line="493"/>
         <source>Autosave</source>
-        <translation>Auto-salvamento</translation>
+        <translation>Auto-guardar</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_documentsetupbase.ui" line="507"/>
@@ -19016,12 +19016,12 @@ Do you want to migrate them to the new Scribus version?</source>
     <message>
         <location filename="../../scribus/ui/prefs_documentsetup.cpp" line="114"/>
         <source>When enabled, Scribus saves a backup copy of your file with the .bak extension each time the time period elapses</source>
-        <translation>Quando activado, o Scribus salva uma cópia de seu ficheiro com a extensão .bak a cada intervalo de tempo definido</translation>
+        <translation>Quando ativado, o Scribus guarda uma cópia do seu ficheiro com a extensão .bak a cada intervalo de tempo definido</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_documentsetup.cpp" line="115"/>
         <source>Time period between saving automatically</source>
-        <translation>Intervalo de tempo para salvar automaticamente</translation>
+        <translation>Intervalo de tempo para guardar automaticamente</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_documentsetup.cpp" line="116"/>
@@ -19608,17 +19608,17 @@ Seleccione um directório</translation>
     <message>
         <location filename="../../scribus/ui/prefs_guides.cpp" line="97"/>
         <source>Turns the gridlines on or off</source>
-        <translation>Activa ou desactiva as linhas da grelha</translation>
+        <translation>Ativa ou desativa as linhas da grelha</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_guides.cpp" line="98"/>
         <source>Turns the guides on or off</source>
-        <translation>Activa ou desactiva as guias</translation>
+        <translation>Ativa ou desativa as guias</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_guides.cpp" line="99"/>
         <source>Turns the margins on or off</source>
-        <translation>Activa ou desactiva as margens</translation>
+        <translation>Ativa ou desativa as margens</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_guidesbase.ui" line="374"/>
@@ -21057,7 +21057,7 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../scribus/ui/prefs_pdfexport.cpp" line="68"/>
         <source>Enable the security features in your exported PDF. If you selected PDF 1.3, the PDF will be protected by 40 bit encryption. If you selected PDF 1.4, the PDF will be protected by 128 bit encryption. Disclaimer: PDF encryption is not as reliable as GPG or PGP encryption and does have some limitations.</source>
-        <translation>Activa os recursos de segurança no seu PDF a ser exportado. Se você selecionar PDF 1.3, o PDF será protegido por uma criptografia de 40 bit. Se selecionar PDF 1.4, o PDF será protegido por uma criptografia de 128 bit. Aviso: a criptografia PDF não é tão fiável como a encriptação GPG ou PGP e possui algumas limitações.</translation>
+        <translation>Ativa os recursos de segurança no seu PDF a ser exportado. Se você selecionar PDF 1.3, o PDF será protegido por uma criptografia de 40 bit. Se selecionar PDF 1.4, o PDF será protegido por uma criptografia de 128 bit. Aviso: a criptografia PDF não é tão fiável como a encriptação GPG ou PGP e possui algumas limitações.</translation>
     </message>
     <message>
         <source>Choose a password for users to be able to read your PDF.</source>
@@ -21089,7 +21089,7 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../scribus/ui/prefs_pdfexport.cpp" line="76"/>
         <source>This is an advanced setting which is not enabled by default. This should only be enabled when specifically requested by your printer and they have given you the exact details needed. Otherwise, your exported PDF may not print properly and is truly not portable across systems.</source>
-        <translation>Essa é uma configuração avançada que não está activada por defeito. Deve ser ativada somente quando especificamente requerido pelo seu impressor e se tiver os detalhes necessários exatos. Caso contrário, o seu PDF exportado poderá não imprimir corretamente e certamente não será portável para outros sistemas.</translation>
+        <translation>Essa é uma configuração avançada que não está ativada por defeito. Deve ser ativada somente quando especificamente requerido pelo seu impressor e se tiver os detalhes necessários exatos. Caso contrário, o seu PDF exportado poderá não imprimir corretamente e certamente não será portável para outros sistemas.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_pdfexport.cpp" line="77"/>
@@ -21139,7 +21139,7 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../scribus/ui/prefs_pdfexport.cpp" line="86"/>
         <source>Enables Spot Colors to be converted to composite colors. Unless you are planning to print spot colors at a commercial printer, this is probably best left enabled.</source>
-        <translation>Activa a conversão de cores lisas ou de separaçao (Spot Colors) para cores compostas (quadricromia). A menos que esteja planeando imprimir por separações num impressor comercial, provavelmente é melhor deixar essa opção activada.</translation>
+        <translation>Ativa a conversão de cores lisas ou de separaçao (Spot Colors) para cores compostas (quadricromia). A menos que esteja planeando imprimir por separações num impressor comercial, provavelmente é melhor deixar essa opção ativada.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_pdfexport.cpp" line="87"/>
@@ -21392,7 +21392,7 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../scribus/ui/prefs_pdfexport.cpp" line="651"/>
         <source>Enables presentation effects when using Adobe&amp;#174; Reader&amp;#174; and other PDF viewers which support this in full screen mode.</source>
-        <translation>Activa os efeitos de apresentação quando usado o Adobe&amp;#174; Reader&amp;#174; ou  outro visualizador de PDF que suporte este recurso em modo pleno-no ecrã.</translation>
+        <translation>Ativa os efeitos de apresentação quando usado o Adobe&amp;#174; Reader&amp;#174; ou  outro visualizador de PDF que suporte este recurso em modo pleno-no ecrã.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_pdfexport.cpp" line="652"/>
@@ -21402,7 +21402,7 @@ A value of 0 means unlimited hyphenations.</source>
     <message>
         <location filename="../../scribus/ui/prefs_pdfexport.cpp" line="653"/>
         <source>Length of time the page is shown before the presentation starts on the selected page. Setting 0 will disable automatic page transition.</source>
-        <translation>Período de tempo em que a página é exibida antes que a apresentação comece na página selecionada. O valor 0 desactiva a transição automática.</translation>
+        <translation>Período de tempo em que a página é exibida antes que a apresentação comece na página selecionada. O valor 0 desativa a transição automática.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_pdfexport.cpp" line="654"/>
@@ -22138,7 +22138,7 @@ Os níveis 1 ou 2 podem criar ficheiros enormes</translation>
     <message>
         <location filename="../../scribus/ui/prefs_printer.cpp" line="35"/>
         <source>Enables Spot Colors to be converted to composite colors. Unless you are planning to print spot colors at a commercial printer, this is probably best left enabled.</source>
-        <translation>Activa a conversão de cores lisas ou de separaçao (Spot Colors) para cores compostas (quadricromia). A menos que esteja planeando imprimir por separações num impressor comercial, provavelmente é melhor deixar essa opção activada.</translation>
+        <translation>Ativa a conversão de cores lisas ou de separaçao (Spot Colors) para cores compostas (quadricromia). A menos que esteja planeando imprimir por separações num impressor comercial, provavelmente é melhor deixar essa opção ativada.</translation>
     </message>
     <message>
         <source>Allows you to embed color profiles in the print stream when color management is enabled</source>
@@ -22247,7 +22247,7 @@ Os níveis 1 ou 2 podem criar ficheiros enormes</translation>
     <message>
         <location filename="../../scribus/plugins/scriptplugin/prefs_scripterbase.ui" line="77"/>
         <source>Enable Extension Scripts</source>
-        <translation>Activa os scripts de extensão</translation>
+        <translation>Ativa os scripts de extensão</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/scriptplugin/prefs_scripterbase.ui" line="86"/>
@@ -22315,7 +22315,7 @@ Os níveis 1 ou 2 podem criar ficheiros enormes</translation>
     <message>
         <location filename="../../scribus/plugins/short-words/prefs_shortwordsbase.ui" line="66"/>
         <source>Save</source>
-        <translation>Salvar</translation>
+        <translation>Guardar</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/short-words/prefs_shortwordsbase.ui" line="73"/>
@@ -22352,7 +22352,7 @@ Os níveis 1 ou 2 podem criar ficheiros enormes</translation>
     <message>
         <location filename="../../scribus/plugins/short-words/prefs_shortwords.cpp" line="91"/>
         <source>User settings saved</source>
-        <translation>As configurações do utilizador foram salvas</translation>
+        <translation>As configurações do utilizador foram guardadas</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/short-words/prefs_shortwords.cpp" line="102"/>
@@ -22984,7 +22984,7 @@ Os níveis 1 ou 2 podem criar ficheiros enormes</translation>
     <message>
         <location filename="../../scribus/ui/printdialog.cpp" line="382"/>
         <source>Save As</source>
-        <translation>Salvar como</translation>
+        <translation>Guardar como</translation>
     </message>
 </context>
 <context>
@@ -23402,7 +23402,7 @@ a range of pages or a single page number</source>
     <message>
         <location filename="../../scribus/ui/propertiespalette_group.cpp" line="634"/>
         <source>Disabled</source>
-        <translation>Desactivado</translation>
+        <translation>Desativado</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertiespalette_group.cpp" line="635"/>
@@ -23427,7 +23427,7 @@ a range of pages or a single page number</source>
     <message>
         <location filename="../../scribus/ui/propertiespalette_group.cpp" line="640"/>
         <source>Disable text flow from lower frames around object</source>
-        <translation>Inactivar o fluir do texto das molduras inferiores ao redor do objecto</translation>
+        <translation>Desativar o fluir do texto das molduras inferiores ao redor do objecto</translation>
     </message>
     <message>
         <source>Use the frame shape for text flow of text frames below the object.</source>
@@ -23506,7 +23506,7 @@ a range of pages or a single page number</source>
     <message>
         <location filename="../../scribus/ui/propertiespalette_groupbase.ui" line="123"/>
         <source>Disabled</source>
-        <translation>Desactivado</translation>
+        <translation>Desativado</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertiespalette_groupbase.ui" line="148"/>
@@ -24499,7 +24499,7 @@ Transparency</source>
     <message>
         <location filename="../../scribus/ui/propertiespalette_shape.cpp" line="560"/>
         <source>Disabled</source>
-        <translation>Desactivado</translation>
+        <translation>Desativado</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertiespalette_shape.cpp" line="561"/>
@@ -24583,7 +24583,7 @@ Transparency</source>
     <message>
         <location filename="../../scribus/ui/propertiespalette_shapebase.ui" line="117"/>
         <source>Disabled</source>
-        <translation>Desactivado</translation>
+        <translation>Desativado</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertiespalette_shapebase.ui" line="129"/>
@@ -26064,7 +26064,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     <message>
         <location filename="../../scribus/plugins/scriptplugin/pconsole.ui" line="98"/>
         <source>&amp;Save</source>
-        <translation>&amp;Salvar</translation>
+        <translation>&amp;Guardar</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/scriptplugin/pconsole.ui" line="71"/>
@@ -26079,7 +26079,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     <message>
         <location filename="../../scribus/plugins/scriptplugin/pconsole.ui" line="123"/>
         <source>&amp;Save Output...</source>
-        <translation>&amp;Salvar saída...</translation>
+        <translation>&amp;Guardar saída...</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/scriptplugin/pconsole.ui" line="81"/>
@@ -26103,7 +26103,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     <message>
         <location filename="../../scribus/plugins/scriptplugin/pconsole.cpp" line="237"/>
         <source>Save the Python Commands in File</source>
-        <translation>Salvar os comandos Python num ficheiro</translation>
+        <translation>Guardar os comandos Python num ficheiro</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/scriptplugin/pconsole.cpp" line="254"/>
@@ -26113,7 +26113,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     <message>
         <location filename="../../scribus/plugins/scriptplugin/pconsole.cpp" line="252"/>
         <source>Save Current Output</source>
-        <translation>Salva a saída atual</translation>
+        <translation>Guardar a saída atual</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/scriptplugin/pconsole.ui" line="103"/>
@@ -26439,7 +26439,7 @@ Scripter documentation for futher information. </source>
     <message>
         <location filename="../../scribus/translationdummy.cpp" line="51"/>
         <source>Save As</source>
-        <translation>Salvar como</translation>
+        <translation>Guardar como</translation>
     </message>
     <message>
         <location filename="../../scribus/translationdummy.cpp" line="52"/>
@@ -26449,7 +26449,7 @@ Scripter documentation for futher information. </source>
     <message>
         <location filename="../../scribus/translationdummy.cpp" line="53"/>
         <source>&amp;Save</source>
-        <translation>&amp;Salvar</translation>
+        <translation>&amp;Guardar</translation>
     </message>
     <message>
         <location filename="../../scribus/translationdummy.cpp" line="54"/>
@@ -26549,7 +26549,7 @@ Scripter documentation for futher information. </source>
     <message>
         <location filename="../../scribus/translationdummy.cpp" line="78"/>
         <source>Save</source>
-        <translation>Salvar</translation>
+        <translation>Guardar</translation>
     </message>
     <message>
         <location filename="../../scribus/translationdummy.cpp" line="79"/>
@@ -26883,7 +26883,7 @@ Verifique o caminho e o nome do ficheiro.</translation>
         <location filename="../../scribus/plugins/export/svgexplugin/svgexplugin.cpp" line="133"/>
         <location filename="../../scribus/plugins/export/xpsexport/xpsexplugin.cpp" line="137"/>
         <source>Save as</source>
-        <translation>Salvar como</translation>
+        <translation>Guardar como</translation>
     </message>
     <message>
         <location filename="../../scribus/gtgettext.cpp" line="188"/>
@@ -27962,7 +27962,7 @@ External Links
         <location filename="../../scribus/plugins/scriptplugin/cmddoc.cpp" line="215"/>
         <source>Failed to save document.</source>
         <comment>python error</comment>
-        <translation>Não foi possível salvar o documento.</translation>
+        <translation>Não foi possível guardar o documento.</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/scriptplugin/cmdgetsetprop.cpp" line="39"/>
@@ -28005,7 +28005,7 @@ External Links
         <location filename="../../scribus/plugins/scriptplugin/cmdmisc.cpp" line="142"/>
         <source>Unable to save pixmap</source>
         <comment>scripter error</comment>
-        <translation>Não foi possível salvar a imagem</translation>
+        <translation>Não foi possível guardar a imagem</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/scriptplugin/cmdobj.cpp" line="234"/>
@@ -28060,7 +28060,7 @@ External Links
         <location filename="../../scribus/plugins/scriptplugin/cmdpage.cpp" line="62"/>
         <source>Failed to save EPS.</source>
         <comment>python error</comment>
-        <translation>Não foi possível salvar o EPS.</translation>
+        <translation>Não foi possível guardar o EPS.</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/scriptplugin/cmdpage.cpp" line="45"/>
@@ -28413,7 +28413,7 @@ fornecidos na documentação da função.
     <message>
         <location filename="../../scribus/plugins/saveastemplateplugin/satemplate.cpp" line="67"/>
         <source>Save As Template</source>
-        <translation>Salvar como modelo</translation>
+        <translation>Guardar como modelo</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/scriptplugin/scriptplugin.cpp" line="136"/>
@@ -28478,12 +28478,12 @@ fornecidos na documentação da função.
     <message>
         <location filename="../../scribus/scribus.cpp" line="4071"/>
         <source>The changes to your document have not been saved and you have requested to revert them. Do you wish to continue?</source>
-        <translation>As alterações feitas no seu documento não foram salvas e pediu a sua anulação. Deseja continuar?</translation>
+        <translation>As alterações feitas no seu documento não foram guardadas e pediu a sua anulação. Deseja continuar?</translation>
     </message>
     <message>
         <location filename="../../scribus/util.cpp" line="351"/>
         <source>A file named &apos;%1&apos; already exists.&lt;br/&gt;Do you want to replace it with the file you are saving?</source>
-        <translation>O ficheiro %1 já existe.&lt;br/&gt;Deseja realmente substitui-lo pelo que está a salvar?</translation>
+        <translation>O ficheiro %1 já existe.&lt;br/&gt;Deseja realmente substitui-lo pelo que está a guardar?</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/scriptplugin/cmddoc.cpp" line="50"/>
@@ -29198,7 +29198,7 @@ Therefore the image may be not correct</source>
     <message>
         <location filename="../../scribus/scprintengine_gdi.cpp" line="107"/>
         <source>Save As</source>
-        <translation>Salvar como</translation>
+        <translation>Guardar como</translation>
     </message>
     <message>
         <location filename="../../scribus/scprintengine_gdi.cpp" line="256"/>
@@ -30537,7 +30537,7 @@ Please choose another.</source>
     <message>
         <location filename="../../scribus/plugins/saveastemplateplugin/satdialog.cpp" line="43"/>
         <source>Save as Template</source>
-        <translation>Salva como modelo</translation>
+        <translation>Guardar como modelo</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/saveastemplateplugin/satdialog.cpp" line="205"/>
@@ -30575,7 +30575,7 @@ Please choose another.</source>
     <message>
         <location filename="../../scribus/plugins/saveastemplateplugin/satdialog.ui" line="14"/>
         <source>Save as Template</source>
-        <translation>Salva como modelo</translation>
+        <translation>Guardar como modelo</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/saveastemplateplugin/satdialog.ui" line="20"/>
@@ -31958,7 +31958,7 @@ Expressed as a percentage of the current white space value.</source>
     <message>
         <location filename="../../scribus/plugins/export/svgexplugin/svgexplugin.cpp" line="96"/>
         <source>Save as &amp;SVG...</source>
-        <translation>Salvar a página como &amp;SVG...</translation>
+        <translation>Guardar a página como &amp;SVG...</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/export/svgexplugin/svgexplugin.cpp" line="138"/>
@@ -32145,7 +32145,7 @@ convertendo seus dados vectoriais em objectos do Scribus.</translation>
     <message>
         <location filename="../../scribus/plugins/short-words/swprefsgui.cpp" line="92"/>
         <source>&amp;Save</source>
-        <translation>&amp;Salvar</translation>
+        <translation>&amp;Guardar</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/short-words/swprefsgui.cpp" line="93"/>
@@ -32155,7 +32155,7 @@ convertendo seus dados vectoriais em objectos do Scribus.</translation>
     <message>
         <location filename="../../scribus/plugins/short-words/swprefsgui.cpp" line="95"/>
         <source>Save user configuration</source>
-        <translation>Salvar configuração do utilizador</translation>
+        <translation>Guardar configuração do utilizador</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/short-words/swprefsgui.cpp" line="96"/>
@@ -32164,7 +32164,7 @@ convertendo seus dados vectoriais em objectos do Scribus.</translation>
     </message>
     <message>
         <source>Edit custom configuration. If you save it, it will be used over system wide configuration</source>
-        <translation type="vanished">Editar uma configuração personalizada. Se você salvar, isto será usado sobrepondo-se às configurações do sistema</translation>
+        <translation type="vanished">Editar uma configuração personalizada. Se você guardar, isto será usado sobrepondo-se às configurações do sistema</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/short-words/swprefsgui.cpp" line="110"/>
@@ -32180,7 +32180,7 @@ convertendo seus dados vectoriais em objectos do Scribus.</translation>
     <message>
         <location filename="../../scribus/plugins/short-words/swprefsgui.cpp" line="130"/>
         <source>User settings saved</source>
-        <translation>As configurações do utilizador foram salvas</translation>
+        <translation>As configurações do utilizador foram guardadas</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/short-words/swprefsgui.cpp" line="141"/>
@@ -32208,17 +32208,17 @@ convertendo seus dados vectoriais em objectos do Scribus.</translation>
     <message>
         <location filename="../../scribus/plugins/saveastemplateplugin/satemplate.cpp" line="55"/>
         <source>Save as &amp;Template...</source>
-        <translation>Salvar como &amp;modelo...</translation>
+        <translation>Guardar como &amp;modelo...</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/saveastemplateplugin/satemplate.cpp" line="75"/>
         <source>Save a document as a template</source>
-        <translation>Salvar um documento como modelo</translation>
+        <translation>Guardar um documento como modelo</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/saveastemplateplugin/satemplate.cpp" line="76"/>
         <source>Save a document as a template. Good way to ease the initial work for documents with a constant look</source>
-        <translation>Salvar um documento como modelo. Uma boa maneira de facilitar o trabalho inicial em documentos que possuem uma aparência constante</translation>
+        <translation>Guardar um documento como modelo. Uma boa maneira de facilitar o trabalho inicial em documentos que possuem uma aparência constante</translation>
     </message>
 </context>
 <context>
@@ -33683,7 +33683,7 @@ convertendo seus dados vectoriais em objectos do Scribus.</translation>
     <message>
         <location filename="../../scribus/scplugin.cpp" line="66"/>
         <source>Load/Save/Import/Export</source>
-        <translation>Carregar/Salvar/Importar/Exportar</translation>
+        <translation>Carregar/Guardar/Importar/Exportar</translation>
     </message>
     <message>
         <location filename="../../scribus/scplugin.cpp" line="74"/>
@@ -33908,7 +33908,7 @@ If you save it in this version, it will no longer be readable by older Scribus v
     <message>
         <location filename="../../scribus/scribusdoc.cpp" line="1078"/>
         <source>An error occurred while opening ICC profiles, color management is not enabled.</source>
-        <translation>Ocorreu um erro ao abrir os perfis ICC, a gestão de cor não será activada.</translation>
+        <translation>Ocorreu um erro ao abrir os perfis ICC, a gestão de cor não será ativada.</translation>
     </message>
     <message>
         <location filename="../../scribus/scribusdoc.cpp" line="13987"/>
@@ -34122,12 +34122,12 @@ Deslocamento vertical: %3</translation>
         <location filename="../../scribus/scribus.cpp" line="5197"/>
         <location filename="../../scribus/scribus.cpp" line="6993"/>
         <source>Save As</source>
-        <translation>Salvar como</translation>
+        <translation>Guardar como</translation>
     </message>
     <message>
         <location filename="../../scribus/scribus.cpp" line="4191"/>
         <source>Saving...</source>
-        <translation>Salvando...</translation>
+        <translation>A guardar...</translation>
     </message>
     <message>
         <location filename="../../scribus/scribus.cpp" line="4320"/>
@@ -34852,7 +34852,7 @@ Recomend-se o uso do verificador pré-publicação para corrigi-los</translation
     <message>
         <location filename="../../scribus/pageitem.cpp" line="10582"/>
         <source>Disabled</source>
-        <translation>Desactivado</translation>
+        <translation>Desativado</translation>
     </message>
     <message>
         <source>Linking Text Frames</source>
@@ -34881,7 +34881,7 @@ Recomend-se o uso do verificador pré-publicação para corrigi-los</translation
     <message>
         <location filename="../../scribus/scribusview.cpp" line="313"/>
         <source>CMS is active. Therefore the color display may not match the perception by visually impaired</source>
-        <translation>A gestão de cor (CMS) está activa. Por isso a visualização pode não corresponder à percepção por deficientes visuais</translation>
+        <translation>A gestão de cor (CMS) está ativa. Por isso a visualização pode não corresponder à percepção por deficientes visuais</translation>
     </message>
     <message>
         <source>Enter Object Size</source>
@@ -34916,7 +34916,7 @@ Recomend-se o uso do verificador pré-publicação para corrigi-los</translation
     <message>
         <location filename="../../scribus/scribuswin.cpp" line="78"/>
         <source>has been changed since the last save.</source>
-        <translation>foi alterado desde o último salvamento.</translation>
+        <translation>foi alterado desde a último vez que foi guardado.</translation>
     </message>
 </context>
 <context>
@@ -35030,7 +35030,7 @@ Recomend-se o uso do verificador pré-publicação para corrigi-los</translation
     <message>
         <location filename="../../scribus/plugins/scripter/python/sceditor/mainwindow.ui" line="131"/>
         <source>&amp;Save</source>
-        <translation>&amp;Salvar</translation>
+        <translation>&amp;Guardar</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/scripter/python/sceditor/mainwindow.ui" line="134"/>
@@ -35145,7 +35145,7 @@ Recomend-se o uso do verificador pré-publicação para corrigi-los</translation
     <message>
         <location filename="../../scribus/plugins/scriptplugin/scripterprefsgui.ui" line="89"/>
         <source>Enable Extension Scripts</source>
-        <translation>Activa os scripts de extensão</translation>
+        <translation>Ativa os scripts de extensão</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/scriptplugin/scripterprefsgui.ui" line="50"/>
@@ -35836,12 +35836,12 @@ Recomend-se o uso do verificador pré-publicação para corrigi-los</translation
     <message>
         <location filename="../../scribus/ui/storyeditor.cpp" line="3326"/>
         <source>Save as</source>
-        <translation>Salvar como</translation>
+        <translation>Guardar como</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/storyeditor.cpp" line="2178"/>
         <source>Do you want to save your changes?</source>
-        <translation>Deseja salvar suas alterações?</translation>
+        <translation>Deseja guardar suas alterações?</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/storyeditor.cpp" line="2008"/>
@@ -35851,7 +35851,7 @@ Recomend-se o uso do verificador pré-publicação para corrigi-los</translation
     <message>
         <location filename="../../scribus/ui/storyeditor.cpp" line="2009"/>
         <source>&amp;Save to File...</source>
-        <translation>&amp;Salvar para ficheiro...</translation>
+        <translation>&amp;Guardar para ficheiro...</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/storyeditor.cpp" line="2010"/>
@@ -35861,7 +35861,7 @@ Recomend-se o uso do verificador pré-publicação para corrigi-los</translation
     <message>
         <location filename="../../scribus/ui/storyeditor.cpp" line="2011"/>
         <source>Save &amp;Document</source>
-        <translation>Salvar o &amp;documento</translation>
+        <translation>Guardar o &amp;documento</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/storyeditor.cpp" line="2012"/>
@@ -36314,7 +36314,7 @@ Recomend-se o uso do verificador pré-publicação para corrigi-los</translation
     <message>
         <location filename="../../scribus/ui/styleselect.cpp" line="292"/>
         <source>Shadowed Text. Hold down the button momentarily to enable the offset spacing.</source>
-        <translation>Sombrear o texto. Prima e mantenha o botão por um momento para activar o afastamento da sombra.</translation>
+        <translation>Sombrear o texto. Prima e mantenha o botão por um momento para ativar o afastamento da sombra.</translation>
     </message>
 </context>
 <context>
@@ -36388,7 +36388,7 @@ Recomend-se o uso do verificador pré-publicação para corrigi-los</translation
     <message>
         <location filename="../../scribus/plugins/gettext/sxwim/sxwdia.cpp" line="35"/>
         <source>Enabling this will overwrite existing styles in the current Scribus document</source>
-        <translation>Activar isto irá sobrescrever os estilos existentes no documento Scribus actual</translation>
+        <translation>Ativar isto irá sobrescrever os estilos existentes no documento Scribus actual</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/gettext/sxwim/sxwdia.cpp" line="42"/>
@@ -36602,7 +36602,7 @@ como artigos PDF</translation>
     <message>
         <location filename="../../scribus/ui/tabpdfoptions.ui" line="660"/>
         <source>Enable &amp;Presentation Effects</source>
-        <translation>&amp;Activar efeitos de apresentação</translation>
+        <translation>&amp;Ativar efeitos de apresentação</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/tabpdfoptions.ui" line="1817"/>
@@ -37101,7 +37101,7 @@ como artigos PDF</translation>
     <message>
         <location filename="../../scribus/ui/tabpdfoptions.cpp" line="277"/>
         <source>Enables Spot Colors to be converted to composite colors. Unless you are planning to print spot colors at a commercial printer, this is probably best left enabled.</source>
-        <translation>Activa a conversão de cores lisas (Spot Colors) para cores compostas (quadricromia). A menos que esteja planeando imprimir por separações num impressor comercial, provavelmente é melhor deixar essa opção habilitada.</translation>
+        <translation>Ativa a conversão de cores lisas (Spot Colors) para cores compostas (quadricromia). A menos que esteja planeando imprimir por separações num impressor comercial, provavelmente é melhor deixar essa opção habilitada.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/tabpdfoptions.ui" line="295"/>
@@ -37155,7 +37155,7 @@ como artigos PDF</translation>
     <message>
         <location filename="../../scribus/ui/tabpdfoptions.cpp" line="259"/>
         <source>Enable the security features in your exported PDF. If you selected PDF 1.3, the PDF will be protected by 40 bit encryption. If you selected PDF 1.4, the PDF will be protected by 128 bit encryption. Disclaimer: PDF encryption is not as reliable as GPG or PGP encryption and does have some limitations.</source>
-        <translation>Activa os recursos de segurança no seu PDF a ser exportado. Se você selecionar PDF 1.3, o PDF será protegido por uma criptografia de 40 bit. Se selecionar PDF 1.4, o PDF será protegido por uma criptografia de 128 bit. Aviso: a criptografia PDF não é tão fiável como a encriptação GPG ou PGP e possui algumas limitações.</translation>
+        <translation>Ativa os recursos de segurança no seu PDF a ser exportado. Se você selecionar PDF 1.3, o PDF será protegido por uma criptografia de 40 bit. Se selecionar PDF 1.4, o PDF será protegido por uma criptografia de 128 bit. Aviso: a criptografia PDF não é tão fiável como a encriptação GPG ou PGP e possui algumas limitações.</translation>
     </message>
     <message>
         <source>This is an advanced setting which is not enabled by default. This should only be enabled when specifically requested by your printer and they have given you the exact details needed. Otherwize, your exported PDF may not print properly and is truly not portable across systems.</source>
@@ -37267,7 +37267,7 @@ quando o PDF estiver aberto:</translation>
     <message>
         <location filename="../../scribus/ui/tabpdfoptions.cpp" line="231"/>
         <source>Enables presentation effects when using Adobe&amp;#174; Reader&amp;#174; and other PDF viewers which support this in full screen mode.</source>
-        <translation>Activa os efeitos de apresentação quando usado o Adobe&amp;#174; Reader&amp;#174; ou  outro visualizador de PDF que suporte este recurso em modo pleno-no ecrã.</translation>
+        <translation>Ativa os efeitos de apresentação quando usado o Adobe&amp;#174; Reader&amp;#174; ou  outro visualizador de PDF que suporte este recurso em modo pleno-no ecrã.</translation>
     </message>
     <message>
         <source>Layers in your document are exported to the PDF Only available if PDF 1.5 is chosen.</source>
@@ -37286,7 +37286,7 @@ quando o PDF estiver aberto:</translation>
     <message>
         <location filename="../../scribus/ui/tabpdfoptions.cpp" line="236"/>
         <source>Length of time the page is shown before the presentation starts on the selected page. Setting 0 will disable automatic page transition.</source>
-        <translation>Período de tempo em que a página é exibida antes que a apresentação comece na página selecionada. O valor 0 desactiva a transição automática.</translation>
+        <translation>Período de tempo em que a página é exibida antes que a apresentação comece na página selecionada. O valor 0 desativa a transição automática.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/tabpdfoptions.ui" line="1667"/>
@@ -37671,7 +37671,7 @@ quando o PDF estiver aberto:</translation>
     <message>
         <location filename="../../scribus/ui/tabpdfoptions.cpp" line="269"/>
         <source>This is an advanced setting which is not enabled by default. This should only be enabled when specifically requested by your printer and they have given you the exact details needed. Otherwise, your exported PDF may not print properly and is truly not portable across systems.</source>
-        <translation type="unfinished"/>
+        <translation>Essa é uma configuração avançada que não está ativada por defeito. Deve ser ativada somente quando especificamente requerido pelo seu impressor e se tiver os detalhes necessários exatos. Caso contrário, o seu PDF exportado poderá não imprimir corretamente e certamente não será portável para outros sistemas.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/tabpdfoptions.cpp" line="208"/>
@@ -38681,12 +38681,12 @@ para %2 </translation>
     <message>
         <location filename="../../scribus/undomanager.cpp" line="746"/>
         <source>Enable printing of layer</source>
-        <translation>Activar impressão da camada</translation>
+        <translation>Ativar impressão da camada</translation>
     </message>
     <message>
         <location filename="../../scribus/undomanager.cpp" line="747"/>
         <source>Disable printing of layer</source>
-        <translation>Desactivar impressão da camada</translation>
+        <translation>Desativar impressão da camada</translation>
     </message>
     <message>
         <location filename="../../scribus/undomanager.cpp" line="748"/>
@@ -38716,12 +38716,12 @@ para %2 </translation>
     <message>
         <location filename="../../scribus/undomanager.cpp" line="623"/>
         <source>Enable Item Printing</source>
-        <translation>Activar impressão do item</translation>
+        <translation>Ativar impressão do item</translation>
     </message>
     <message>
         <location filename="../../scribus/undomanager.cpp" line="624"/>
         <source>Disable Item Printing</source>
-        <translation>Desactivar impressão do item</translation>
+        <translation>Desativar impressão do item</translation>
     </message>
     <message>
         <location filename="../../scribus/undomanager.cpp" line="758"/>
@@ -40366,7 +40366,7 @@ para ficheiros desse tipo.</translation>
     <message>
         <location filename="../../scribus/plugins/newfromtemplateplugin/nftdialog.cpp" line="198"/>
         <source>Make sure images and fonts you use can be used freely. If fonts cannot be shared do not collect them when saving as a template.</source>
-        <translation>Certifique-se de que as imagens e fontes que usa sejam de livre distribuição. Se as fontes não puderem ser partilhadas, não as acrescente ao salvar o modelo.</translation>
+        <translation>Certifique-se de que as imagens e fontes que usa sejam de livre distribuição. Se as fontes não puderem ser partilhadas, não as acrescente ao guardar o modelo.</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/newfromtemplateplugin/nftdialog.cpp" line="199"/>
@@ -40489,7 +40489,7 @@ para ficheiros desse tipo.</translation>
     <message>
         <location filename="../../scribus/ui/nftwidget.cpp" line="186"/>
         <source>Make sure images and fonts you use can be used freely. If fonts cannot be shared do not collect them when saving as a template.</source>
-        <translation>Certifique-se de que as imagens e fontes que usa sejam de livre distribuição. Se as fontes não puderem ser partilhadas, não as acrescente ao salvar o modelo.</translation>
+        <translation>Certifique-se de que as imagens e fontes que usa sejam de livre distribuição. Se as fontes não puderem ser partilhadas, não as acrescente ao guardar o modelo.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/nftwidget.cpp" line="187"/>
@@ -40776,18 +40776,18 @@ para ficheiros desse tipo.</translation>
     <message>
         <location filename="../../scribus/plugins/gettext/textfilter/tfdia.cpp" line="87"/>
         <source>Choose a previously saved filter</source>
-        <translation>Selecione um filtro salvo anteriormente</translation>
+        <translation>Selecione um filtro guardado anteriormente</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/gettext/textfilter/tfdia.cpp" line="138"/>
         <location filename="../../scribus/plugins/gettext/textfilter/tfdia.cpp" line="271"/>
         <source>Give a name to this filter for saving</source>
-        <translation>Dê um nome a esse filtro para salvar</translation>
+        <translation>Dê um nome a esse filtro para guardar</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/gettext/textfilter/tfdia.cpp" line="142"/>
         <source>Give a name for saving</source>
-        <translation>Dê um nome para salvar</translation>
+        <translation>Dê um nome para guardar</translation>
     </message>
 </context>
 <context>
@@ -40795,7 +40795,7 @@ para ficheiros desse tipo.</translation>
     <message>
         <location filename="../../scribus/plugins/gettext/textfilter/tffilter.cpp" line="111"/>
         <source>Disable or enable this filter row</source>
-        <translation>Desactivar ou activarar esta linha do filtro</translation>
+        <translation>Ativar ou desativar esta linha do filtro</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/gettext/textfilter/tffilter.cpp" line="137"/>

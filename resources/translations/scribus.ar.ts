@@ -92,12 +92,12 @@
     <message>
         <location filename="../../scribus/ui/about.cpp" line="324"/>
         <source>Official Translations and Translators:</source>
-        <translation type="unfinished"/>
+        <translation>الترجمات الرسمية و المترجمون</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="326"/>
         <source>Previous Translation Contributors:</source>
-        <translation type="unfinished"/>
+        <translation>المشاركون السابقون في الترجمة</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="97"/>
@@ -122,7 +122,7 @@
     <message>
         <location filename="../../scribus/ui/about.cpp" line="176"/>
         <source>Using Ghostscript version %1</source>
-        <translation type="unfinished"/>
+        <translation>مستعملا Ghostscript إصدار %1</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="178"/>
@@ -222,7 +222,7 @@
     <message>
         <location filename="../../scribus/ui/about.cpp" line="302"/>
         <source>Doc Translators:</source>
-        <translation type="unfinished"/>
+        <translation>مترجمو التوثيق:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="306"/>
