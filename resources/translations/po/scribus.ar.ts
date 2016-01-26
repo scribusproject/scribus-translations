@@ -27,7 +27,7 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="97"/>
         <source>About Scribus %1</source>
-        <translation type="unfinished"/>
+        <translation>حول سكريبس %1</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="125"/>
@@ -47,12 +47,12 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="185"/>
         <source>No Ghostscript version available</source>
-        <translation type="unfinished"/>
+        <translation>إصدار Ghostscript غير متوفر</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="186"/>
         <source>Build ID:</source>
-        <translation type="unfinished"/>
+        <translation>معرَف البناء:</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="188"/>
@@ -202,13 +202,13 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="186"/>
         <source>Scribus Version</source>
-        <translation type="unfinished"/>
+        <translation>إصدار سكريبس</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="233"/>
         <location filename="../../../scribus/about.cpp" line="657"/>
         <source>Check for Updates</source>
-        <translation type="unfinished"/>
+        <translation>التمس التحديثات</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="655"/>
@@ -218,17 +218,17 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="357"/>
         <source>Developer Blog</source>
-        <translation type="unfinished"/>
+        <translation>مدونة المطور</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="240"/>
         <source>&amp;Licence</source>
-        <translation type="unfinished"/>
+        <translation>ال&amp; رخصة</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="249"/>
         <source>Unable to open licence file. Please check your install directory or the Scribus website for licencing information.</source>
-        <translation type="unfinished"/>
+        <translation>تعذر فتح ملف الرخصة. رجاء راجع مجلد التثبيت أو موقع سكريبس لمعلومات الترخيص.</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="313"/>
@@ -238,14 +238,14 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="317"/>
         <source>Webmasters:</source>
-        <translation type="unfinished"/>
+        <translation>مدراء الموقع:</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="452"/>
         <location filename="../../../scribus/about.cpp" line="566"/>
         <location filename="../../../scribus/about.cpp" line="633"/>
         <source>Unable to open %1 file. Please check your install directory or the Scribus website for %1 information.</source>
-        <translation type="unfinished"/>
+        <translation>تعذر فتح ملف %1. رجاء راجع مجلد التثبيت أو موقع سكريبس لمعلومات عن %1.</translation>
     </message>
 </context>
 <context>
@@ -1529,7 +1529,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1505"/>
         <source>Check for Updates</source>
-        <translation type="unfinished"/>
+        <translation>التمس التحديثات</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1522"/>
@@ -20826,7 +20826,7 @@ Consider using the Preflight Verifier to correct them</source>
     <message>
         <location filename="../../../scribus/scribusapp.cpp" line="480"/>
         <source>Scribus Version</source>
-        <translation type="unfinished"/>
+        <translation>إصدار سكريبس</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribusapp.cpp" line="489"/>

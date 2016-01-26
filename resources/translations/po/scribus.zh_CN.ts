@@ -1296,12 +1296,12 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1526"/>
         <source>&amp;Zero Width Space</source>
-        <translation type="unfinished"/>
+        <translation>零宽度空格(&amp;Z)</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1527"/>
         <source>Zero Width NB Space</source>
-        <translation type="unfinished"/>
+        <translation>零宽度非间断空格</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1539"/>
@@ -1903,62 +1903,62 @@
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="114"/>
         <source>Align right sides of items to left side of anchor</source>
-        <translation type="unfinished"/>
+        <translation>对齐对象右侧到锚点左侧</translation>
     </message>
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="116"/>
         <source>Align left sides of items to right side of anchor</source>
-        <translation type="unfinished"/>
+        <translation>对齐对象左侧到锚点右侧</translation>
     </message>
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="122"/>
         <source>Align tops of items to bottom of anchor</source>
-        <translation type="unfinished"/>
+        <translation>对齐对象顶部到锚点底部</translation>
     </message>
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="130"/>
         <source>Align bottoms of items to top of anchor</source>
-        <translation type="unfinished"/>
+        <translation>对齐对象底部到锚点顶部</translation>
     </message>
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="137"/>
         <source>Make horizontal gaps between items equal</source>
-        <translation type="unfinished"/>
+        <translation>使对象间的水平间距相同</translation>
     </message>
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="139"/>
         <source>Make horizontal gaps between items equal to the value specified</source>
-        <translation type="unfinished"/>
+        <translation>使对象间的水平间距为设定值</translation>
     </message>
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="148"/>
         <source>Make vertical gaps between items equal</source>
-        <translation type="unfinished"/>
+        <translation>使对象间的垂直间距相等</translation>
     </message>
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="150"/>
         <source>Make vertical gaps between items equal to the value specified</source>
-        <translation type="unfinished"/>
+        <translation>使使对象间的垂直距离为设定值</translation>
     </message>
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="158"/>
         <source>Make horizontal gaps between items and sides of page equal</source>
-        <translation type="unfinished"/>
+        <translation>使对象与页面的水平间距相同</translation>
     </message>
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="164"/>
         <source>Make vertical gaps between items and the top and bottom of page margins equal</source>
-        <translation type="unfinished"/>
+        <translation>使对象与上边距的垂直间距相等</translation>
     </message>
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="162"/>
         <source>Make horizontal gaps between items and sides of page margins equal</source>
-        <translation type="unfinished"/>
+        <translation>使对象和页边距的水平间距相等</translation>
     </message>
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="160"/>
         <source>Make vertical gaps between items and the top and bottom of page equal</source>
-        <translation type="unfinished"/>
+        <translation>使项目和页顶及页底的垂直间距相等</translation>
     </message>
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="91"/>
@@ -1973,12 +1973,12 @@
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="103"/>
         <source>&lt;qt&gt;Align relative to the:&lt;ul&gt;&lt;li&gt;First selected item&lt;/li&gt;&lt;li&gt;Second Selected Item&lt;/li&gt;&lt;li&gt;The current page&lt;/li&gt;&lt;li&gt;The margins of the current page&lt;/li&gt;&lt;li&gt;A Guide&lt;/li&gt;&lt;li&gt;The selection&lt;/ul&gt;&lt;/qt&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;相关于……对齐：&lt;ul&gt;&lt;li&gt;首个选中项&lt;/li&gt;&lt;li&gt;次个选中项&lt;/li&gt;&lt;li&gt;当前页&lt;/li&gt;&lt;li&gt;当前页边距&lt;/li&gt;&lt;li&gt;参考线&lt;/li&gt;&lt;li&gt;选区&lt;/ul&gt;&lt;/qt&gt;</translation>
     </message>
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="112"/>
         <source>The location of the selected guide to align to</source>
-        <translation type="unfinished"/>
+        <translation>选中的参考线位置对齐到</translation>
     </message>
 </context>
 <context>
@@ -2187,12 +2187,12 @@
     <message>
         <location filename="../../../scribus/annot.cpp" line="282"/>
         <source>Text for Button Down</source>
-        <translation type="unfinished"/>
+        <translation>按钮按下文本</translation>
     </message>
     <message>
         <location filename="../../../scribus/annot.cpp" line="285"/>
         <source>Text for Roll Over</source>
-        <translation type="unfinished"/>
+        <translation>鼠标掠过文本</translation>
     </message>
     <message>
         <location filename="../../../scribus/annot.cpp" line="296"/>
@@ -2219,7 +2219,7 @@
     <message>
         <location filename="../../../scribus/annot.cpp" line="349"/>
         <source>Roll Over</source>
-        <translation type="unfinished"/>
+        <translation>鼠标掠过</translation>
     </message>
     <message>
         <location filename="../../../scribus/annot.cpp" line="368"/>
@@ -2320,7 +2320,7 @@
     <message>
         <location filename="../../../scribus/annot.cpp" line="504"/>
         <source>Default is Checked</source>
-        <translation type="unfinished"/>
+        <translation>默认已打勾</translation>
     </message>
     <message>
         <location filename="../../../scribus/annot.cpp" line="516"/>
@@ -24603,12 +24603,12 @@ when PDF document is opened:</source>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="987"/>
         <source>Mirror Page(s) horizontally</source>
-        <translation type="unfinished"/>
+        <translation>水平镜像页面</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="988"/>
         <source>Mirror Page(s) vertically</source>
-        <translation type="unfinished"/>
+        <translation>垂直镜像页面</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="989"/>
@@ -24731,7 +24731,7 @@ when PDF document is opened:</source>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="1340"/>
         <source>InfoString</source>
-        <translation type="unfinished"/>
+        <translation>信息字串</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="1401"/>
@@ -27317,7 +27317,7 @@ converting their vector data into Scribus objects.</source>
     <message>
         <location filename="../../../scribus/hysettingsBase.ui" line="33"/>
         <source>Hyphenation</source>
-        <translation type="unfinished"/>
+        <translation>断字</translation>
     </message>
     <message>
         <location filename="../../../scribus/hysettingsBase.ui" line="45"/>
@@ -27378,7 +27378,8 @@ converting their vector data into Scribus objects.</source>
         <location filename="../../../scribus/hysettingsBase.ui" line="167"/>
         <source>Maximum number of Hyphenations following each other.
 A value of 0 means unlimited hyphenations.</source>
-        <translation type="unfinished"/>
+        <translation>最大连续断字次数。
+0 表示不限制。</translation>
     </message>
     <message>
         <location filename="../../../scribus/hysettingsBase.ui" line="184"/>
