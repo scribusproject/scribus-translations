@@ -23,8 +23,8 @@ Translations are managed via [Transifex](https://www.transifex.com/projects/p/sc
 | Serbian               |sr             |                         |           |     |
 | Russian               |ru             | @prokoudine             |   :+1:    |     |
 | Albanian              |sq             |                         |           |     |
-| Polish                |pl_PL          |                         |           |     |
-| Galacian              |gl             |                         |           |     |
+| Polish                |pl_PL          | Maciej Hański           |           |     |
+| Galacian              |gl             | Xose Calvo              |   :+1:    |     |
 | Hungarian             |hu             | @gyuris / bubu          |   :+1:    |     |
 | Danish (Denmark)      |da_DK          | Morten Langlo           |           |:+1: |
 | Norwegian Bokmål      |nb_NO          |                         |           |     |
