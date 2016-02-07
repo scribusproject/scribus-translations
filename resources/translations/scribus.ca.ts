@@ -11385,7 +11385,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Color of the Layer Indicator - Each layer has a color assigned to display on the canvas when layer indicators are enabled. You can double click to edit the color. </source>
-        <translation type="vanished">Color de l&apos;indicador de capa - Cada capa té un color assignat per mostrar-se al llenç quan estan actiivats els indicadors de capa. Feu doble clic per editar el color.</translation>
+        <translation type="vanished">Color de l&apos;Indicador de capa - Cada capa té un color assignat per mostrar-se al llenç quan estan activats els indicadors de capa. Feu doble clic per editar-ne el color.</translation>
     </message>
     <message>
         <source>Make Layer Visible - Uncheck to hide the layer from the display </source>
@@ -15961,7 +15961,7 @@ el resultat és una combinació de &quot;Intersecció&quot; i &quot;Exclusió&qu
         <location filename="../../scribus/plugins/tools/pathfinder/pathfinderbase.ui" line="61"/>
         <location filename="../../scribus/plugins/tools/pathfinder/pathfinderbase.ui" line="172"/>
         <source>Keep a copy of the original item after applying the operation</source>
-        <translation>Manté una copia de l&apos;element original després d&apos;aplicar l&apos;operació</translation>
+        <translation>Manté una còpia de l&apos;element original després d&apos;aplicar l&apos;operació</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/tools/pathfinder/pathfinderbase.ui" line="64"/>

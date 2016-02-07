@@ -11688,13 +11688,14 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../scribus/loadsaveplugin.cpp" line="244"/>
         <source>An error occurred while opening file or file is damaged</source>
-        <translation type="unfinished"/>
+        <translation>Errorea gertatu da fitxategia irekitzean, edo fitxategia hondatuta dago</translation>
     </message>
     <message>
         <location filename="../../scribus/loadsaveplugin.cpp" line="249"/>
         <source>An error occurred while parsing file at line %1, column %2 :
 %3</source>
-        <translation type="unfinished"/>
+        <translation>Errorea gertatu da fitxategia analizatzean, %1 lerroan, %2 zutabean:
+%3</translation>
     </message>
     <message>
         <source>An error occured while opening file or file is damaged</source>
@@ -22995,12 +22996,12 @@ erabil dezakezu, Scribus abiaraztean, erabilera hau gainidazteko.</translation>
     <message>
         <location filename="../../scribus/ui/prefs_userinterface.cpp" line="60"/>
         <source>Time before resize or move starts allows for a slight delay between when you click and the operation happens to avoid unintended moves. This can be helpful when dealing with mouse sensitivity settings or accessibility issues related to ergnomic mice, touch pads or moveability of the wrists and hands.</source>
-        <translation type="unfinished"/>
+        <translation>Tamaina aldatzea edo mugitzea hasi baino lehen igaroko den denbora. Horrek atzerapen txiki bat sortzen du klik egiten den eta eragiketa gertatzen den artean, elementuak nahi gabe ez mugitzeko. Lagungarria izan daiteke sagu ergonomikoei, ukipen-teklatuei edo eskumuturren eta eskuen mugikortasunari lotutako lotutako sentikortasun-ezarpenekin edo irisgarritasun-kontuekin.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_userinterface.cpp" line="61"/>
         <source>Number of lines Scribus will scroll for each &quot;notch&quot; of the mouse wheel</source>
-        <translation type="unfinished"/>
+        <translation>Saguaren gurpilaren koska bakoitzeko Scribus-ek korrituko duen lerro kopurua</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_userinterface.cpp" line="64"/>
@@ -24773,7 +24774,7 @@ gardentasuna</translation>
     <message>
         <location filename="../../scribus/ui/propertiespalette_shapebase.ui" line="290"/>
         <source>&lt;qt&gt;Any path self-intersections or subpaths create holes in the fill&lt;/qt&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;Edozein bidek bere burua ebakitzen badu edo azpibideak baditu, zuloak sortuko dira betegarrian&lt;/qt&gt;</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertiespalette_shapebase.ui" line="293"/>
@@ -24783,7 +24784,7 @@ gardentasuna</translation>
     <message>
         <location filename="../../scribus/ui/propertiespalette_shapebase.ui" line="306"/>
         <source>&lt;qt&gt;Fill is solid unless a subpath is counter-directional&lt;/qt&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;Betegarria solidoa da azpibideak kontrako noranzkoa ez badu&lt;/qt&gt;</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertiespalette_shapebase.ui" line="309"/>
@@ -25401,7 +25402,7 @@ gardentasuna</translation>
     <message>
         <location filename="../../scribus/ui/propertywidget_distance.cpp" line="437"/>
         <source>Vertical Alignment:</source>
-        <translation type="unfinished"/>
+        <translation>Lerrokatze bertikala</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertywidget_distance.cpp" line="447"/>
@@ -25905,7 +25906,7 @@ gardentasuna</translation>
     <message>
         <location filename="../../scribus/ui/propertywidget_pareffect.cpp" line="563"/>
         <source>Bullet Char(s):</source>
-        <translation type="unfinished"/>
+        <translation>Bulet-karakterea(k):</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertywidget_pareffect.cpp" line="564"/>
@@ -26006,7 +26007,7 @@ gardentasuna</translation>
     <message>
         <location filename="../../scribus/ui/propertywidget_pareffect.h" line="102"/>
         <source>Background Color</source>
-        <translation type="unfinished"/>
+        <translation>Atzeko planoaren kolorea</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertywidget_pareffect.cpp" line="573"/>
@@ -26021,7 +26022,7 @@ gardentasuna</translation>
     <message>
         <location filename="../../scribus/ui/propertywidget_pareffect.cpp" line="576"/>
         <source>Char Style:</source>
-        <translation type="unfinished"/>
+        <translation>Karaktere-estiloa:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertywidget_pareffect.cpp" line="577"/>
@@ -26218,7 +26219,7 @@ Biak aukeratzen badira, kolore berdina partekatuko dute.</translation>
     <message>
         <location filename="../../scribus/ui/propertywidget_textcolor.cpp" line="553"/>
         <source>Background color of selected text.</source>
-        <translation type="unfinished"/>
+        <translation>Hautatutako testuaren atzeko planoaren kolorea.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertywidget_textcolor.cpp" line="554"/>
@@ -26233,7 +26234,7 @@ Biak aukeratzen badira, kolore berdina partekatuko dute.</translation>
     <message>
         <location filename="../../scribus/ui/propertywidget_textcolor.cpp" line="556"/>
         <source>Saturation of color of text background</source>
-        <translation type="unfinished"/>
+        <translation>Testuaren atzeko planoaren kolore-saturazioa</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertywidget_textcolor.cpp" line="558"/>
@@ -27428,7 +27429,7 @@ Kanpoko estekak</translation>
     <message>
         <location filename="../../scribus/langmgr.cpp" line="130"/>
         <source>Hindi</source>
-        <translation type="unfinished"/>
+        <translation>Hindia</translation>
     </message>
     <message>
         <location filename="../../scribus/langmgr.cpp" line="132"/>
@@ -27448,7 +27449,7 @@ Kanpoko estekak</translation>
     <message>
         <location filename="../../scribus/langmgr.cpp" line="138"/>
         <source>Kabyle</source>
-        <translation type="unfinished"/>
+        <translation>Kabylera</translation>
     </message>
     <message>
         <location filename="../../scribus/langmgr.cpp" line="140"/>
@@ -27458,7 +27459,7 @@ Kanpoko estekak</translation>
     <message>
         <location filename="../../scribus/langmgr.cpp" line="141"/>
         <source>Kannada</source>
-        <translation type="unfinished"/>
+        <translation>Kannada</translation>
     </message>
     <message>
         <location filename="../../scribus/langmgr.cpp" line="142"/>
@@ -27493,7 +27494,7 @@ Kanpoko estekak</translation>
     <message>
         <location filename="../../scribus/langmgr.cpp" line="160"/>
         <source>Somali</source>
-        <translation type="unfinished"/>
+        <translation>Somaliera</translation>
     </message>
     <message>
         <location filename="../../scribus/langmgr.cpp" line="164"/>
@@ -30392,7 +30393,7 @@ Therefore the image may be not correct</source>
     <message>
         <location filename="../../scribus/plugins/gettext/odt2im/importodt.cpp" line="32"/>
         <source>ODT Document</source>
-        <translation type="unfinished"/>
+        <translation>ODT dokumentua</translation>
     </message>
 </context>
 <context>
@@ -31058,12 +31059,12 @@ Hautatu beste bat.</translation>
     <message>
         <location filename="../../scribus/ui/smcstylewidget.cpp" line="106"/>
         <source>Background Color</source>
-        <translation type="unfinished"/>
+        <translation>Atzeko planoaren kolorea</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/smcstylewidget.cpp" line="107"/>
         <source>Background Shade</source>
-        <translation type="unfinished"/>
+        <translation>Atzeko planoaren itzala</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/smcstylewidget.cpp" line="270"/>
@@ -31790,12 +31791,12 @@ Uneko zuriune-balioaren ehuneko gisa adierazita.</translation>
     <message>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="141"/>
         <source>Background Color</source>
-        <translation type="unfinished"/>
+        <translation>Atzeko planoaren kolorea</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="142"/>
         <source>Background Shade</source>
-        <translation type="unfinished"/>
+        <translation>Atzeko planoaren itzala</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="228"/>
@@ -40501,7 +40502,7 @@ hautatu beste izen bat.</translation>
     <message>
         <location filename="../../scribus/ui/gtfiledialog.cpp" line="29"/>
         <source>Prepend the item name to the Style name in Scribus</source>
-        <translation type="unfinished"/>
+        <translation>Erantsi elementuaren izena estiloaren izenari Scribus-en</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/gtfiledialog.ui" line="14"/>
@@ -40526,7 +40527,7 @@ hautatu beste izen bat.</translation>
     <message>
         <location filename="../../scribus/ui/gtfiledialog.ui" line="56"/>
         <source>Prefix Styles with Item Name</source>
-        <translation type="unfinished"/>
+        <translation>Ezarri aurrizki gisa elementuaren izena estiloari</translation>
     </message>
 </context>
 <context>

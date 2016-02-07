@@ -15,7 +15,7 @@
     <message>
         <location filename="../../scribus/plugins/import/ai/importai.cpp" line="2338"/>
         <source>Group%1</source>
-        <translation>Grŵp %1</translation>
+        <translation>Grŵp%1</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/ai/importai.cpp" line="3437"/>

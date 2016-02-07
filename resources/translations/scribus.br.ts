@@ -1061,7 +1061,7 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1634"/>
         <source>Convert to Master Page...</source>
-        <translation>Amdreiñ da batrom...</translation>
+        <translation>Amdreiñ da bajennad vestrez...</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1735"/>
@@ -1707,7 +1707,7 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1622"/>
         <source>Foot/Endnote</source>
-        <translation type="unfinished"/>
+        <translation>Notenn dibenn/diaz pajenn</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1624"/>
@@ -1837,7 +1837,7 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1773"/>
         <source>Eye Dropper</source>
-        <translation type="unfinished"/>
+        <translation>Garennig livioù</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1774"/>
@@ -1877,7 +1877,7 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1781"/>
         <source>Insert a render frame</source>
-        <translation type="unfinished"/>
+        <translation>Enlakaat ur sterniad deouez</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1782"/>
@@ -1952,7 +1952,7 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1796"/>
         <source>Analyse the document for issues prior to exporting to PDF</source>
-        <translation type="unfinished"/>
+        <translation>Dezrannañ an teul da gavout kudennoù kent ma vo ezporzhiet da PDF</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1797"/>
@@ -1967,12 +1967,12 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1799"/>
         <source>Unlink text frames</source>
-        <translation type="unfinished"/>
+        <translation>Dieren ar sterniadoù testenn</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1805"/>
         <source>Insert 3D annotation</source>
-        <translation type="unfinished"/>
+        <translation>Enlakaat un notenn 3M</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1609"/>
@@ -1992,27 +1992,27 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1647"/>
         <source>Edit in Preview Mode</source>
-        <translation type="unfinished"/>
+        <translation>Embann er mod Alberz</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1648"/>
         <source>Toggle Color Management System</source>
-        <translation type="unfinished"/>
+        <translation>Trec&apos;haoliñ reizhiad ardeiñ al livioù</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1685"/>
         <source>&amp;View Tools</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Gwelout an ostilhoù</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1704"/>
         <source>&amp;Render Frame</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sterniad an deouez</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1705"/>
         <source>T&amp;able</source>
-        <translation type="unfinished"/>
+        <translation>T&amp;aolenn</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1706"/>
@@ -2037,12 +2037,12 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1711"/>
         <source>Calligraphic Line</source>
-        <translation type="unfinished"/>
+        <translation>Linenn dre gaerskrivañ</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1713"/>
         <source>&amp;Freehand Line</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Linenn gant an dorn</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1715"/>
@@ -2052,7 +2052,7 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1716"/>
         <source>PDF Radio Button</source>
-        <translation type="unfinished"/>
+        <translation>Afell radio PDF</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1717"/>
@@ -2077,37 +2077,37 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1721"/>
         <source>Text Annotation</source>
-        <translation type="unfinished"/>
+        <translation>Notennoù testenn</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1722"/>
         <source>Link Annotation</source>
-        <translation type="unfinished"/>
+        <translation>Notennoù eren</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1724"/>
         <source>3D Annotation</source>
-        <translation type="unfinished"/>
+        <translation>Notennoù 3M</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1772"/>
         <source>Edit text in story editor</source>
-        <translation type="unfinished"/>
+        <translation>Embann an destenn e embanner istorioù</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1801"/>
         <source>Enable preview mode</source>
-        <translation type="unfinished"/>
+        <translation>Gweredekaat mod an alberz</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1802"/>
         <source>Enable editing in preview mode</source>
-        <translation type="unfinished"/>
+        <translation>Gweredekaat an embann er mod Alberz</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1803"/>
         <source>Toggle color management system</source>
-        <translation type="unfinished"/>
+        <translation>Trec&apos;haoliñ reizhiad ardeiñ al livioù</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1611"/>
@@ -2117,17 +2117,17 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1675"/>
         <source>&amp;Downloads</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Pellgargadurioù</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1676"/>
         <source>&amp;Resources</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Loazioù</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1750"/>
         <source>Chat with the Community</source>
-        <translation type="unfinished"/>
+        <translation>Flapiñ gant ar gumuniezh</translation>
     </message>
 </context>
 <context>
@@ -2182,16 +2182,16 @@
     <message>
         <location filename="../../scribus/ui/aligndistribute.ui" line="698"/>
         <source>Swap</source>
-        <translation type="unfinished"/>
+        <translation>Kevamsaviñ</translation>
     </message>
     <message>
         <source>DockWidget</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">KaeWidjed</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aligndistribute.ui" line="14"/>
         <source>Align and Distribute</source>
-        <translation type="unfinished"/>
+        <translation>Desteudañ ha dasparzhañ</translation>
     </message>
 </context>
 <context>
@@ -2324,12 +2324,12 @@
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="146"/>
         <source>Swap items to the left</source>
-        <translation type="unfinished"/>
+        <translation>Kevamsaviñ ergorennoù betek an tu kleiz</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="147"/>
         <source>Swap items to the right</source>
-        <translation type="unfinished"/>
+        <translation>Kevamsaviñ ergorennoù betek an tu dehou</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="513"/>
@@ -2432,7 +2432,7 @@
     <message>
         <location filename="../../scribus/ui/aligndistribute.cpp" line="110"/>
         <source>&lt;qt&gt;When aligning one side of an item do one of the following:&lt;ul&gt;&lt;li&gt;Always move the other side too (preserve existing width and height)&lt;/li&gt;&lt;li&gt;Keep the other side fixed (resize the item instead of moving it) whenever possible&lt;/li&gt;&lt;/ul&gt;&lt;/qt&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;Pa vez desteudet un tu eus un ergorenn :&lt;ul&gt;&lt;li&gt;Dilec&apos;hiañ bepred an tu all ivez (mirout al led hag an hed ez eus anezho), pe &lt;/li&gt;&lt;li&gt;Mirout an tu all stag (kemmañ ment an ergorenn e-lec&apos;h he dilec&apos;hiañ) mar bez tro&lt;/li&gt;&lt;/ul&gt;&lt;/qt&gt;</translation>
     </message>
 </context>
 <context>
@@ -2549,22 +2549,22 @@
     <message>
         <location filename="../../scribus/ui/annota.cpp" line="121"/>
         <source>Icon:</source>
-        <translation type="unfinished"/>
+        <translation>Arlun :</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/annota.cpp" line="123"/>
         <source>Note</source>
-        <translation type="unfinished"/>
+        <translation>Notenn</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/annota.cpp" line="124"/>
         <source>Comment</source>
-        <translation type="unfinished"/>
+        <translation>Askelenn</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/annota.cpp" line="125"/>
         <source>Key</source>
-        <translation type="unfinished"/>
+        <translation>Stokell</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/annota.cpp" line="126"/>
@@ -2574,12 +2574,12 @@
     <message>
         <location filename="../../scribus/ui/annota.cpp" line="127"/>
         <source>NewParagraph</source>
-        <translation type="unfinished"/>
+        <translation>RannbennadNevez</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/annota.cpp" line="128"/>
         <source>Paragraph</source>
-        <translation type="unfinished"/>
+        <translation>Rannbennad</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/annota.cpp" line="129"/>
@@ -2599,7 +2599,7 @@
     <message>
         <location filename="../../scribus/ui/annota.cpp" line="136"/>
         <source>Annotation is Open</source>
-        <translation type="unfinished"/>
+        <translation>Digor eo an notenniñ</translation>
     </message>
 </context>
 <context>
@@ -2657,7 +2657,7 @@
     <message>
         <location filename="../../scribus/ui/applytemplatedialog.cpp" line="285"/>
         <source>Apply the selected master page to even, odd or all pages within the following range</source>
-        <translation>Arloañ a ra ar patrom bet diuzet ouzh ar pajennoù hebar, ampar pe ouzh an holl bajennoù eus al lijorenn da heul</translation>
+        <translation>Arloañ a ra ar bajennad vestrez bet diuzet ouzh ar pajennoù hebar, ampar pe ouzh an holl bajennoù e-kreiz al lijorenn da heul</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/applytemplatedialog.cpp" line="52"/>
@@ -2700,17 +2700,17 @@
     <message>
         <location filename="../../scribus/ui/arcvectorbase.ui" line="23"/>
         <source>Edit Arc</source>
-        <translation type="unfinished"/>
+        <translation>Embann ar gwareg</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/arcvectorbase.ui" line="31"/>
         <source>Start Angle:</source>
-        <translation type="unfinished"/>
+        <translation>Korn deraouiñ :</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/arcvectorbase.ui" line="51"/>
         <source>End Angle:</source>
-        <translation type="unfinished"/>
+        <translation>Korn echuiñ :</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/arcvectorbase.ui" line="71"/>
@@ -2725,7 +2725,7 @@
     <message>
         <location filename="../../scribus/ui/arcvectorbase.ui" line="128"/>
         <source>End Edit</source>
-        <translation type="unfinished"/>
+        <translation>Echuiñ an embann</translation>
     </message>
 </context>
 <context>
@@ -2738,12 +2738,12 @@
     <message>
         <location filename="../../scribus/ui/arcwidgetbase.ui" line="36"/>
         <source>Start Angle:</source>
-        <translation type="unfinished"/>
+        <translation>Korn deraouiñ :</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/arcwidgetbase.ui" line="56"/>
         <source>End Angle:</source>
-        <translation type="unfinished"/>
+        <translation>Korn echuiñ :</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/arcwidgetbase.ui" line="117"/>
@@ -2771,7 +2771,7 @@
     <message>
         <location filename="../../scribus/plugins/tools/spellcheck/aspellplugin.cpp" line="76"/>
         <source>Adds support for spell-checking via Aspell. Languages can be chosen from among the installed Aspell dictionaries, and spell-checking can be done on the fly, or on selected text.</source>
-        <translation type="unfinished"/>
+        <translation>Ouzhpennañ a ra ur skor evit gwiriañ ar skrivadur dre zisplegañ. Dibabet e vez ar yezhoù e-touez geriadurioù displegañ bet staliet hag ar gwiriañ a vez graet e-pad ar biziata pe dre ziuzañ an destenn.</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/tools/spellcheck/aspellplugin.cpp" line="104"/>
@@ -2794,7 +2794,7 @@
     <message>
         <location filename="../../scribus/plugins/tools/spellcheck/aspellpluginbase.ui" line="195"/>
         <source>The currently active dictionary. Scribus uses Aspell for dictionary support.&lt;br /&gt;If you require updated or more dictionaries, you should install them via your system&apos;s installation system or package manager.</source>
-        <translation type="unfinished"/>
+        <translation>Ar geriadur oberiant bremañ. Gant Aspell e ra Scribus evit e skor geriadurioù. &lt;br /&gt; Mar goulennot geriadurioù ouzhpenn pe hizivaet e vefe gwell o staliañ dre reizhiad staliañ ho reizhiad korvoiñ pe ardoer ar pakadoù.</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/tools/spellcheck/aspellpluginbase.ui" line="279"/>
@@ -2993,12 +2993,12 @@ Configuration invalid</source>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcode.cpp" line="25"/>
         <source>Barcode</source>
-        <translation type="unfinished"/>
+        <translation>Rineg dre varrennoù</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcode.cpp" line="26"/>
         <source>Insert a barcode</source>
-        <translation type="unfinished"/>
+        <translation>Enlakaat ur rineg dre varrennoù</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/barcodegenerator/barcode.cpp" line="51"/>
@@ -3066,7 +3066,7 @@ Configuration invalid</source>
     </message>
     <message>
         <source>Barcode</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Rineg dre varrennoù</translation>
     </message>
     <message>
         <source>Barcode incomplete</source>
@@ -3087,43 +3087,43 @@ Configuration invalid</source>
     </message>
     <message>
         <source>EAN-13</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">EAN-13</translation>
     </message>
     <message>
         <source>EAN-8</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">EAN-8</translation>
     </message>
     <message>
         <source>UPC-A</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">UPC-A</translation>
     </message>
     <message>
         <source>UPC-E</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">UPC-E</translation>
     </message>
     <message>
         <source>EAN-5</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">EAN-5</translation>
     </message>
     <message>
         <source>EAN-2</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">EAN-2</translation>
     </message>
     <message>
         <source>ISBN</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">ISBN</translation>
     </message>
     <message>
         <source>Code-39</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Code-39</translation>
     </message>
     <message>
         <source>Code-128</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Code-128</translation>
     </message>
     <message>
         <source>UCC/EAN-128</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">UCC/EAN-128</translation>
     </message>
     <message>
         <source>Rationalized Codabar</source>
@@ -4125,12 +4125,12 @@ Please choose another one.</source>
     <message>
         <location filename="../../scribus/ui/cmykfwbase.ui" line="14"/>
         <source>Edit Color</source>
-        <translation type="unfinished"/>
+        <translation>Embann al liv</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/cmykfwbase.ui" line="43"/>
         <source>&amp;Name:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Anv :</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/cmykfwbase.ui" line="69"/>
@@ -4145,27 +4145,27 @@ Please choose another one.</source>
     <message>
         <location filename="../../scribus/ui/cmykfwbase.ui" line="229"/>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>Mat eo</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/cmykfwbase.ui" line="239"/>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Dilezel</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/cmykfwbase.ui" line="116"/>
         <source>New</source>
-        <translation type="unfinished"/>
+        <translation>Nevez</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/cmykfwbase.ui" line="138"/>
         <source>Old</source>
-        <translation type="unfinished"/>
+        <translation>Kozh</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/cmykfwbase.ui" line="506"/>
         <source>C:</source>
-        <translation type="unfinished"/>
+        <translation>S :</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/cmykfwbase.ui" line="474"/>
@@ -4173,26 +4173,26 @@ Please choose another one.</source>
         <location filename="../../scribus/ui/cmykfwbase.ui" line="526"/>
         <location filename="../../scribus/ui/cmykfwbase.ui" line="546"/>
         <source> %</source>
-        <translation type="unfinished"/>
+        <translation>%</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">...</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/cmykfwbase.ui" line="539"/>
         <source>M:</source>
-        <translation type="unfinished"/>
+        <translation>M :</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/cmykfwbase.ui" line="559"/>
         <source>Y:</source>
-        <translation type="unfinished"/>
+        <translation>M :</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/cmykfwbase.ui" line="448"/>
         <source>K:</source>
-        <translation type="unfinished"/>
+        <translation>D :</translation>
     </message>
 </context>
 <context>
@@ -4516,12 +4516,12 @@ Sav : %2</translation>
     <message>
         <location filename="../../scribus/canvasmode_framelinks.cpp" line="193"/>
         <source>Before</source>
-        <translation type="unfinished"/>
+        <translation>Kent</translation>
     </message>
     <message>
         <location filename="../../scribus/canvasmode_framelinks.cpp" line="194"/>
         <source>After</source>
-        <translation type="unfinished"/>
+        <translation>Goude</translation>
     </message>
     <message>
         <location filename="../../scribus/canvasmode_framelinks.cpp" line="191"/>
@@ -5148,7 +5148,7 @@ bremañ %2 x %3 PDM</translation>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="127"/>
         <source>Applied master page has different page destination (left, middle, right side)</source>
-        <translation type="unfinished"/>
+        <translation>Ar bajennad vestrez bet arloet zo gant pajennadoù arvoned disheñvel (tu kleiz, kreiz, tu dehou)</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="130"/>
@@ -5163,7 +5163,7 @@ bremañ %2 x %3 PDM</translation>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="128"/>
         <source>Have you applied the correct Master Page?</source>
-        <translation type="unfinished"/>
+        <translation>Hag arloet hoc&apos;h eus ar bajennad vestrez dereat ?</translation>
     </message>
     <message>
         <source>If you have created an image frame, there is the presumption that you planned to put an image in it.</source>
@@ -6084,7 +6084,7 @@ bremañ %2 x %3 PDM</translation>
     <message>
         <location filename="../../scribus/commonstrings.cpp" line="313"/>
         <source>PDF Radio Button</source>
-        <translation type="unfinished"/>
+        <translation>Afell radio PDF</translation>
     </message>
     <message>
         <location filename="../../scribus/commonstrings.cpp" line="320"/>
@@ -6306,7 +6306,7 @@ bremañ %2 x %3 PDM</translation>
     <message>
         <location filename="../../scribus/ui/copypagetomasterpagedialog.cpp" line="29"/>
         <source>New Master Page %1</source>
-        <translation>Patrom nevez %1</translation>
+        <translation>Pajennad vestrez nevez %1</translation>
     </message>
 </context>
 <context>
@@ -8044,12 +8044,12 @@ a range of pages or a single page number</source>
     <message>
         <location filename="../../scribus/plugins/import/fh/importfh.cpp" line="143"/>
         <source>Importing: %1</source>
-        <translation type="unfinished"/>
+        <translation>Enporzhiadur : %1</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/fh/importfh.cpp" line="146"/>
         <source>Analyzing File:</source>
-        <translation type="unfinished"/>
+        <translation>Dezrannadur ar restr :</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/fh/importfh.cpp" line="351"/>
@@ -8089,7 +8089,7 @@ Document Liberation Project http://www.documentliberation.org</translation>
     <message>
         <location filename="../../scribus/plugins/tools/flattenpath/flattenpath.cpp" line="76"/>
         <source>Flatten Path</source>
-        <translation type="unfinished"/>
+        <translation>Pladaat an treug</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/tools/flattenpath/flattenpath.cpp" line="80"/>
@@ -8099,12 +8099,12 @@ Document Liberation Project http://www.documentliberation.org</translation>
     <message>
         <location filename="../../scribus/plugins/tools/flattenpath/flattenpath.cpp" line="101"/>
         <source>Flattens a Path</source>
-        <translation type="unfinished"/>
+        <translation>Pladaat a ra un treug</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/tools/flattenpath/flattenpath.cpp" line="102"/>
         <source>Converts a Bezier Path to a Path made of line segments.</source>
-        <translation type="unfinished"/>
+        <translation>Amdreiñ a ra un treug mod Bezier d&apos;un treug savet gant regennoù linennoù.</translation>
     </message>
 </context>
 <context>
@@ -8224,7 +8224,7 @@ Document Liberation Project http://www.documentliberation.org</translation>
     <message>
         <location filename="../../scribus/fontlistmodel.cpp" line="93"/>
         <source>Outline</source>
-        <translation type="unfinished"/>
+        <translation>Trolinenn</translation>
     </message>
 </context>
 <context>
@@ -8381,12 +8381,12 @@ HE GWRIZIOÙ D&apos;UR VLEUNIENN WENN;</translation>
     <message>
         <location filename="../../scribus/ui/fontreplacedialog.cpp" line="83"/>
         <source>Cancels these font substitutions and stops loading the document</source>
-        <translation type="unfinished"/>
+        <translation>Dilezel a ra an erlec&apos;hiadurioù nodrezhoù hag arsaviñ a ra kargadur an teul</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/fontreplacedialog.cpp" line="85"/>
         <source>If you select OK, then save, these substitutions are made permanent in the document</source>
-        <translation type="unfinished"/>
+        <translation>Mar bez diuzet Mat eo, ha gwaredet, e vo padek an erlec&apos;hiadurioù en teul.</translation>
     </message>
 </context>
 <context>
@@ -8423,7 +8423,7 @@ HE GWRIZIOÙ D&apos;UR VLEUNIENN WENN;</translation>
     <message>
         <location filename="../../scribus/ui/gradienteditor.ui" line="14"/>
         <source>Frame</source>
-        <translation type="unfinished"/>
+        <translation>Stern</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/gradienteditor.ui" line="63"/>
@@ -8458,12 +8458,12 @@ HE GWRIZIOÙ D&apos;UR VLEUNIENN WENN;</translation>
     <message>
         <location filename="../../scribus/ui/gradientpreview.cpp" line="222"/>
         <source>Add Stop</source>
-        <translation type="unfinished"/>
+        <translation>Ouzhpennañ un arsav</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/gradientpreview.cpp" line="224"/>
         <source>Remove Stop</source>
-        <translation type="unfinished"/>
+        <translation>Dilemel un arsav</translation>
     </message>
 </context>
 <context>
@@ -8495,7 +8495,7 @@ HE GWRIZIOÙ D&apos;UR VLEUNIENN WENN;</translation>
         <location filename="../../scribus/ui/gradientvectorbase.ui" line="533"/>
         <location filename="../../scribus/ui/gradientvectorbase.ui" line="567"/>
         <source>/</source>
-        <translation type="unfinished"/>
+        <translation>/</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/gradientvectorbase.ui" line="73"/>
@@ -8507,7 +8507,7 @@ HE GWRIZIOÙ D&apos;UR VLEUNIENN WENN;</translation>
         <location filename="../../scribus/ui/gradientvectorbase.ui" line="107"/>
         <location filename="../../scribus/ui/gradientvectorbase.ui" line="233"/>
         <source>Skew:</source>
-        <translation type="unfinished"/>
+        <translation>A-veskell :</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/gradientvectorbase.ui" line="199"/>
@@ -8523,79 +8523,79 @@ HE GWRIZIOÙ D&apos;UR VLEUNIENN WENN;</translation>
         <location filename="../../scribus/ui/gradientvectorbase.ui" line="274"/>
         <location filename="../../scribus/ui/gradientvectorbase.ui" line="414"/>
         <source>1. Point:</source>
-        <translation type="unfinished"/>
+        <translation>1. Poent :</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/gradientvectorbase.ui" line="308"/>
         <location filename="../../scribus/ui/gradientvectorbase.ui" line="448"/>
         <source>2. Point:</source>
-        <translation type="unfinished"/>
+        <translation>2.  Poent :</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/gradientvectorbase.ui" line="342"/>
         <location filename="../../scribus/ui/gradientvectorbase.ui" line="482"/>
         <source>3. Point:</source>
-        <translation type="unfinished"/>
+        <translation>3. Poent :</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/gradientvectorbase.ui" line="376"/>
         <location filename="../../scribus/ui/gradientvectorbase.ui" line="516"/>
         <source>4. Point:</source>
-        <translation type="unfinished"/>
+        <translation>4. Poent :</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/gradientvectorbase.ui" line="550"/>
         <source>5. Point:</source>
-        <translation type="unfinished"/>
+        <translation>5. Poent :</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/gradientvectorbase.ui" line="598"/>
         <location filename="../../scribus/ui/gradientvectorbase.ui" line="772"/>
         <source>Edit Grid Points</source>
-        <translation type="unfinished"/>
+        <translation>Embann poentoù ar gael</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/gradientvectorbase.ui" line="620"/>
         <location filename="../../scribus/ui/gradientvectorbase.ui" line="794"/>
         <source>Edit Control Points</source>
-        <translation type="unfinished"/>
+        <translation>Embann poentoù reoliañ</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/gradientvectorbase.ui" line="645"/>
         <location filename="../../scribus/ui/gradientvectorbase.ui" line="819"/>
         <source>Reset selected Control Point</source>
-        <translation type="unfinished"/>
+        <translation>Adderaouekaat ar poentoù reoliañ diuzet</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/gradientvectorbase.ui" line="670"/>
         <location filename="../../scribus/ui/gradientvectorbase.ui" line="844"/>
         <source>Reset all Control Points</source>
-        <translation type="unfinished"/>
+        <translation>Adderaouekaat an holl boentoù reoliañ</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/gradientvectorbase.ui" line="707"/>
         <source>New Mesh...</source>
-        <translation type="unfinished"/>
+        <translation>Rouedad nevez...</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/gradientvectorbase.ui" line="714"/>
         <source>Reset Mesh</source>
-        <translation type="unfinished"/>
+        <translation>Adderaouekat ar rouedad</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/gradientvectorbase.ui" line="721"/>
         <source>Mesh -&gt; Shape</source>
-        <translation type="unfinished"/>
+        <translation>Rouedad -&gt; Lun</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/gradientvectorbase.ui" line="877"/>
         <source>Snap to other Mesh Points</source>
-        <translation type="unfinished"/>
+        <translation>Desteudañ ouzh poentoù all ar rouedad</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/gradientvectorbase.ui" line="889"/>
         <source>Add Patch</source>
-        <translation type="unfinished"/>
+        <translation>Ouzhpennañ ur begell</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/gradientvectorbase.ui" line="902"/>
@@ -9907,7 +9907,9 @@ converting their vector data into Scribus objects.</source>
         <location filename="../../scribus/plugins/import/pdf/importpdfplugin.cpp" line="90"/>
         <source>Imports most PDF files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Enporzhiañ a ra an darn vuiañ eus ar restroù mod WPG
+en teul bremanel, en ur amdreiñ o roadennoù sturiadel 
+da ergorennoù mod Scribus.</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/pdf/importpdfplugin.cpp" line="162"/>
@@ -9973,18 +9975,20 @@ converting their vector data into Scribus objects.</source>
         <location filename="../../scribus/plugins/import/pub/importpubplugin.cpp" line="56"/>
         <location filename="../../scribus/plugins/import/pub/importpubplugin.cpp" line="91"/>
         <source>MS Publisher (*.pub *.PUB)</source>
-        <translation type="unfinished"/>
+        <translation>MS Publisher (*.pub *.PUB)</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/pub/importpubplugin.cpp" line="74"/>
         <source>Imports PUB Files</source>
-        <translation type="unfinished"/>
+        <translation>Enporzhiañ a ra restroù mod PUB</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/pub/importpubplugin.cpp" line="75"/>
         <source>Imports most MS Publisher files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Enporzhiañ a ra an darn vuiañ eus ar restroù mod MS Publisher 
+e-barzh ar restr vremanel en ur amdreiñ ar roadennoù sturiadel 
+da ergorennoù mod Scribus.</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/pub/importpubplugin.cpp" line="124"/>
@@ -9997,7 +10001,7 @@ converting their vector data into Scribus objects.</source>
     <message>
         <location filename="../../scribus/plugins/import/shape/importshapeplugin.cpp" line="53"/>
         <source>Import Dia Shapes...</source>
-        <translation type="unfinished"/>
+        <translation>Enporzhiañ lunioù mod DIA...</translation>
     </message>
     <message>
         <source>Dia Shapes &quot;*.shape&quot; File</source>
@@ -10020,7 +10024,7 @@ converting their vector data into Scribus objects.</source>
     </message>
     <message>
         <source>Dia shapes &quot;*.shape&quot; File (*.shape *.SHAPE)</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Restr mod &quot;.shape&quot; lun Dia (*.shape *.SHAPE)</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/shape/importshapeplugin.cpp" line="123"/>
@@ -10031,17 +10035,17 @@ converting their vector data into Scribus objects.</source>
         <location filename="../../scribus/plugins/import/shape/importshapeplugin.cpp" line="55"/>
         <location filename="../../scribus/plugins/import/shape/importshapeplugin.cpp" line="90"/>
         <source>Dia Shapes</source>
-        <translation type="unfinished"/>
+        <translation>Lunioù Dia</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/shape/importshapeplugin.cpp" line="56"/>
         <source>Dia Shapes (*.shape *.SHAPE)</source>
-        <translation type="unfinished"/>
+        <translation>Lunioù Dia (*.shape *.SHAPE)</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/shape/importshapeplugin.cpp" line="92"/>
         <source>Dia shapes (*.shape *.SHAPE)</source>
-        <translation type="unfinished"/>
+        <translation>Lunioù Dia (*.shape *.SHAPE)</translation>
     </message>
 </context>
 <context>
@@ -10049,7 +10053,7 @@ converting their vector data into Scribus objects.</source>
     <message>
         <location filename="../../scribus/plugins/import/sml/importsmlplugin.cpp" line="53"/>
         <source>Import Sml...</source>
-        <translation type="unfinished"/>
+        <translation>Enporzhiañ Sml...</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/sml/importsmlplugin.cpp" line="90"/>
@@ -10093,30 +10097,31 @@ converting their vector data into Scribus objects.</source>
     <message>
         <location filename="../../scribus/plugins/import/svm/importsvmplugin.cpp" line="58"/>
         <source>Import SVM...</source>
-        <translation type="unfinished"/>
+        <translation>Enporzhiañ SVM...</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/svm/importsvmplugin.cpp" line="60"/>
         <location filename="../../scribus/plugins/import/svm/importsvmplugin.cpp" line="95"/>
         <source>SVM</source>
-        <translation type="unfinished"/>
+        <translation>SVM</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/svm/importsvmplugin.cpp" line="61"/>
         <location filename="../../scribus/plugins/import/svm/importsvmplugin.cpp" line="96"/>
         <source>SVM (*.svm *.svm)</source>
-        <translation type="unfinished"/>
+        <translation>SVM (*.svm *.svm)</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/svm/importsvmplugin.cpp" line="79"/>
         <source>Imports SVM Files</source>
-        <translation type="unfinished"/>
+        <translation>Enporzhiañ a ra restroù mod SVM</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/svm/importsvmplugin.cpp" line="80"/>
         <source>Imports most SVM files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Enporzhiañ a ra ar restroù mod SVM en teul bremanel,
+en ur amdreiñ o roadennoù sturiadel da ergorennoù mod Scribus.</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/svm/importsvmplugin.cpp" line="127"/>
@@ -10152,7 +10157,8 @@ converting their vector data into Scribus objects.</source>
         <location filename="../../scribus/plugins/import/viva/importvivaplugin.cpp" line="81"/>
         <source>Imports most Viva files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Enporzhiañ a ra ar restroù mod Viva en teul bremanel,
+en ur amdreiñ o roadennoù sturiadel da ergorennoù mod Scribus.</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/viva/importvivaplugin.cpp" line="130"/>
@@ -10188,7 +10194,8 @@ converting their vector data into Scribus objects.</source>
         <location filename="../../scribus/plugins/import/vsd/importvsdplugin.cpp" line="75"/>
         <source>Imports most MS Visio files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation>Enporzhiañ a ra ar restroù mod MS Visio en teul bremanel,
+en ur amdreiñ o roadennoù sturiadel da ergorennoù mod Scribus.</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/vsd/importvsdplugin.cpp" line="124"/>
@@ -10209,7 +10216,8 @@ converting their vector data into Scribus objects.</source>
     <message>
         <source>Imports most WPG files into the current document,
 converting their vector data into Scribus objects.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Enporzhiañ a ra ar restroù mod WPG en teul bremanel,
+en ur amdreiñ o roadennoù sturiadel da ergorennoù mod Scribus.</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/import/wpg/importwpgplugin.cpp" line="122"/>
@@ -10644,7 +10652,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../scribus/ui/inspage.cpp" line="220"/>
         <source>Override Master Page Sizing</source>
-        <translation type="unfinished"/>
+        <translation>Flastrañ mentadur ar bajennad vestrez</translation>
     </message>
 </context>
 <context>
@@ -11011,7 +11019,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../../scribus/ui/inserttablecolumnsdialog.ui" line="66"/>
         <location filename="../../scribus/ui/inserttablecolumnsdialog.cpp" line="23"/>
         <source>Before</source>
-        <translation type="unfinished"/>
+        <translation>Kent</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/inserttablecolumnsdialog.ui" line="72"/>
@@ -11023,7 +11031,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../../scribus/ui/inserttablecolumnsdialog.ui" line="79"/>
         <location filename="../../scribus/ui/inserttablecolumnsdialog.cpp" line="24"/>
         <source>After</source>
-        <translation type="unfinished"/>
+        <translation>Goude</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/inserttablecolumnsdialog.cpp" line="29"/>
@@ -11057,7 +11065,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../../scribus/ui/inserttablerowsdialog.ui" line="66"/>
         <location filename="../../scribus/ui/inserttablerowsdialog.cpp" line="23"/>
         <source>Before</source>
-        <translation type="unfinished"/>
+        <translation>Kent</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/inserttablerowsdialog.ui" line="72"/>
@@ -11069,7 +11077,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../../scribus/ui/inserttablerowsdialog.ui" line="79"/>
         <location filename="../../scribus/ui/inserttablerowsdialog.cpp" line="24"/>
         <source>After</source>
-        <translation type="unfinished"/>
+        <translation>Goude</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/inserttablerowsdialog.cpp" line="29"/>
@@ -12264,15 +12272,15 @@ p, li { white-space: pre-wrap; }
     <name>MasterPagesPalette</name>
     <message>
         <source>Edit Master Pages</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Embann ar pajennadoù mestrezed</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">&amp;Anv :</translation>
     </message>
     <message>
         <source>New Master Page</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Pajennad vestrez nevez</translation>
     </message>
     <message>
         <source>Name:</source>
@@ -12280,7 +12288,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>New MasterPage</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">PajennadVestrez nevez</translation>
     </message>
     <message>
         <source>Copy #%1 of </source>
@@ -12288,27 +12296,27 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Duplicate the selected master page</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Arredaoliñ ar bajennad vestrez diuzet</translation>
     </message>
     <message>
         <source>Delete the selected master page</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Dilemel ar bajennad vestrez diuzet</translation>
     </message>
     <message>
         <source>Add a new master page</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Ouzhpennañ ur bajennad vestrez nevez</translation>
     </message>
     <message>
         <source>Import master pages from another document</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Enporzhiañ ar pajennadoù mestrezed diouzh un teul all</translation>
     </message>
     <message>
         <source>New Master Page %1</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Pajennad vestrez nevez %1</translation>
     </message>
     <message>
         <source>Unable to Rename Master Page</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Divarrek da adenvel ar bajennad vestrez</translation>
     </message>
     <message>
         <source>The Normal page is not allowed to be renamed.</source>
@@ -12316,7 +12324,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Rename Master Page</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Adenvel ar bajennad vestrez</translation>
     </message>
     <message>
         <source>New Name:</source>
@@ -12328,11 +12336,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>This master page is used at least once in the document.</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Arveret eo ar bajennad vestrez-mañ ur wech da vihanañ en teul.</translation>
     </message>
     <message>
         <source>Do you really want to delete master page &quot;%1&quot;?</source>
-        <translation type="unfinished"/>
+        <translation type="vanished">Ha fellout a ra deoc&apos;h diverkañ ar bajennad vestrez &quot;%1&quot; ?</translation>
     </message>
 </context>
 <context>
@@ -13505,7 +13513,7 @@ An holl zornelloù a vo adderaouekaet ma ne ziuzit ket unan anezho.</translation
         <location filename="../../scribus/ui/notesstyleseditor.cpp" line="225"/>
         <location filename="../../scribus/ui/notesstyleseditor.cpp" line="238"/>
         <source>Frame</source>
-        <translation type="unfinished"/>
+        <translation>Stern</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/notesstyleseditor.cpp" line="75"/>
@@ -15133,12 +15141,12 @@ Arveret alies da reiñ tro d&apos;an ergorenn da vezañ delec&apos;hiet dreist b
     <message>
         <location filename="../../scribus/ui/pagepalette_masterpages.cpp" line="167"/>
         <source>This master page is used at least once in the document.</source>
-        <translation>Arveret eo ar bajenn vestr-mañ ur wech da vihanañ en teul.</translation>
+        <translation>Arveret eo ar bajennad vestrez-mañ ur wech da vihanañ en teul.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/pagepalette_masterpages.cpp" line="171"/>
         <source>Do you really want to delete master page &quot;%1&quot;?</source>
-        <translation>Ha fellout a ra deoc&apos;h diverkañ ar bajennad vestrez &quot;%1&quot;?</translation>
+        <translation>Ha fellout a ra deoc&apos;h diverkañ ar bajennad vestrez &quot;%1&quot; ?</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/pagepalette_masterpages.cpp" line="205"/>
@@ -15178,7 +15186,7 @@ Arveret alies da reiñ tro d&apos;an ergorenn da vezañ delec&apos;hiet dreist b
     <message>
         <location filename="../../scribus/ui/pagepalette_masterpages.cpp" line="529"/>
         <source>Unable to Rename Master Page</source>
-        <translation>Divarrek da adenvel ar bajennad vestr</translation>
+        <translation>Divarrek da adenvel ar bajennad vestrez</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/pagepalette_masterpages.cpp" line="529"/>
@@ -15204,7 +15212,7 @@ Arveret alies da reiñ tro d&apos;an ergorenn da vezañ delec&apos;hiet dreist b
     <message>
         <location filename="../../scribus/ui/pagepalette_pages.cpp" line="94"/>
         <source>This master page is used at least once in the document.</source>
-        <translation>Arveret eo ar bajenn vestr-mañ ur wech da vihanañ en teul.</translation>
+        <translation>Arveret eo ar bajennad vestrez-mañ ur wech da vihanañ en teul.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/pagepalette_pages.cpp" line="98"/>
@@ -15229,7 +15237,7 @@ Arveret alies da reiñ tro d&apos;an ergorenn da vezañ delec&apos;hiet dreist b
     <message>
         <location filename="../../scribus/ui/pagepalette_pages.cpp" line="405"/>
         <source>List of master pages in the document. Master page names may be dragged onto the page view below to apply master pages, or onto the empty space between pages to create new pages.</source>
-        <translation>Roll ar pajennadoù mestrezed en teul. Riklit anvioù ar pajennadoù mestrezed war ar bajenn amañ dindan da arloañ pajennadoù mestrezed pe war an egor goullo etre ar pajennadoù da grouiñ pajennadoù all.</translation>
+        <translation>Roll ar pajennadoù mestrezed en teul. Riklit anvioù ar pajennadoù mestrezed war ar bajenn amañ dindan da arloañ pajennadoù mestrezed pe war an egor goullo etre ar pajennadoù a-benn krouiñ pajennadoù all.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/pagepalette_pages.cpp" line="406"/>
@@ -15239,7 +15247,7 @@ Arveret alies da reiñ tro d&apos;an ergorenn da vezañ delec&apos;hiet dreist b
     <message>
         <location filename="../../scribus/ui/pagepalette_pages.cpp" line="407"/>
         <source>Drag pages or master pages onto the trash to delete them</source>
-        <translation>Riklañ ar pajennoù pe ar pajennoù mestrezed er gest d&apos;o zilemel</translation>
+        <translation>Riklañ ar pajennoù pe ar pajennadoù mestrezed er gest d&apos;o zilemel</translation>
     </message>
 </context>
 <context>
@@ -18934,7 +18942,7 @@ Do you want to migrate them to the new Scribus version?</source>
         <location filename="../../scribus/ui/prefs_documentsetupbase.ui" line="162"/>
         <location filename="../../scribus/ui/prefs_documentsetupbase.ui" line="372"/>
         <source>Apply changes to all master pages</source>
-        <translation type="unfinished"/>
+        <translation>Arloañ kemmoù d&apos;an holl bajennadoù mestrezed</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_documentsetupbase.ui" line="183"/>
@@ -22017,7 +22025,7 @@ HE GWRIZIOÃ D&apos;UR VLEUNIENN WENN;</translation>
     <message>
         <location filename="../../scribus/ui/prefs_preflightverifierbase.ui" line="345"/>
         <source>Check if applied master page location is the same as each page&apos;s location</source>
-        <translation type="unfinished"/>
+        <translation>Gwiriañ hag-eñ ez eo lec&apos;hiadur ar bajennad vestrez heñvel ouzh pep lec&apos;hiadur ar bajennad</translation>
     </message>
 </context>
 <context>
@@ -23456,7 +23464,7 @@ a range of pages or a single page number</source>
     <message>
         <location filename="../../scribus/ui/propertiespalette.cpp" line="917"/>
         <source>T&amp;able</source>
-        <translation type="unfinished"/>
+        <translation>T&amp;aolenn</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertiespalette.cpp" line="911"/>
@@ -25298,7 +25306,7 @@ Transparency</source>
     <message>
         <location filename="../../scribus/ui/propertywidget_advancedbase.ui" line="14"/>
         <source>Frame</source>
-        <translation type="unfinished"/>
+        <translation>Stern</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertywidget_advancedbase.ui" line="79"/>
@@ -25446,7 +25454,7 @@ Transparency</source>
     <message>
         <location filename="../../scribus/ui/propertywidget_distancebase.ui" line="14"/>
         <source>Frame</source>
-        <translation type="unfinished"/>
+        <translation>Stern</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertywidget_distancebase.ui" line="67"/>
@@ -25623,7 +25631,7 @@ Transparency</source>
     <message>
         <location filename="../../scribus/ui/propertywidget_flopbase.ui" line="14"/>
         <source>Frame</source>
-        <translation type="unfinished"/>
+        <translation>Stern</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertywidget_flopbase.ui" line="26"/>
@@ -25691,7 +25699,7 @@ Transparency</source>
     <message>
         <location filename="../../scribus/ui/propertywidget_optmarginsbase.ui" line="14"/>
         <source>Frame</source>
-        <translation type="unfinished"/>
+        <translation>Stern</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertywidget_optmarginsbase.ui" line="32"/>
@@ -26107,7 +26115,7 @@ Transparency</source>
     <message>
         <location filename="../../scribus/ui/propertywidget_pathtextbase.ui" line="14"/>
         <source>Frame</source>
-        <translation type="unfinished"/>
+        <translation>Stern</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertywidget_pathtextbase.ui" line="32"/>
@@ -26182,7 +26190,7 @@ Transparency</source>
     <message>
         <location filename="../../scribus/ui/propertywidget_textcolorbase.ui" line="14"/>
         <source>Frame</source>
-        <translation type="unfinished"/>
+        <translation>Stern</translation>
     </message>
 </context>
 <context>
@@ -30127,7 +30135,7 @@ Neuze ne vo ket dereat ar skeudenn marteze</translation>
         <location filename="../../scribus/plugins/scriptplugin/cmddoc.cpp" line="404"/>
         <source>Master page does not exist: &apos;%1&apos;</source>
         <comment>python error</comment>
-        <translation>Ar bajenn vestrez n&apos;eus ket anezhi : &apos;%1&apos;</translation>
+        <translation>Ar bajennad vestrez n&apos;eus ket anezhi : &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/scriptplugin/cmddoc.cpp" line="409"/>
@@ -30139,7 +30147,7 @@ Neuze ne vo ket dereat ar skeudenn marteze</translation>
         <location filename="../../scribus/plugins/scriptplugin/cmddoc.cpp" line="415"/>
         <source>Failed to apply masterpage &apos;%1&apos; on page: %2</source>
         <comment>python error</comment>
-        <translation>C&apos;hwitadenn war seveniñ ur bajenn vestrez &apos;%1&apos; war ar bajenn : %2</translation>
+        <translation>C&apos;hwitadenn war seveniñ ur bajennad vestrez &apos;%1&apos; war ar bajenn : %2</translation>
     </message>
     <message>
         <location filename="../../scribus/langmgr.cpp" line="100"/>
@@ -31679,7 +31687,7 @@ Eztaolet evel un dregantad eus gwerzh vremanel an esaou gwenn.</translation>
     <message>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="316"/>
         <source>Frame</source>
-        <translation type="unfinished"/>
+        <translation>Stern</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/smpstylewidget.ui" line="62"/>
@@ -33310,7 +33318,7 @@ oc&apos;h amdreiñ o roadennoù sturiadel da ergorennoù mod Scribus.</translati
     <message>
         <location filename="../../scribus/ui/annot.cpp" line="276"/>
         <source>Print</source>
-        <translation type="unfinished"/>
+        <translation>Moullañ</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/annot.cpp" line="277"/>
@@ -33320,12 +33328,12 @@ oc&apos;h amdreiñ o roadennoù sturiadel da ergorennoù mod Scribus.</translati
     <message>
         <location filename="../../scribus/ui/annot.cpp" line="278"/>
         <source>Quit</source>
-        <translation type="unfinished"/>
+        <translation>Kuitaat</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/annot.cpp" line="279"/>
         <source>General Prefs</source>
-        <translation type="unfinished"/>
+        <translation>Gwellvezioù hollek</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/annot.cpp" line="280"/>
@@ -33335,42 +33343,42 @@ oc&apos;h amdreiñ o roadennoù sturiadel da ergorennoù mod Scribus.</translati
     <message>
         <location filename="../../scribus/ui/annot.cpp" line="281"/>
         <source>Page Setup</source>
-        <translation type="unfinished"/>
+        <translation>Arventennoù ar bajennad</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/annot.cpp" line="282"/>
         <source>Full Screen</source>
-        <translation type="unfinished"/>
+        <translation>Skramm a-bezh</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/annot.cpp" line="283"/>
         <source>Show/Hide Bookmarks</source>
-        <translation type="unfinished"/>
+        <translation>Diskouez/kuzhat ar sinedoù</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/annot.cpp" line="284"/>
         <source>Show/Hide Thumbnails</source>
-        <translation type="unfinished"/>
+        <translation>Diskouez/kuzhat ar melvennoù</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/annot.cpp" line="285"/>
         <source>Show/Hide Toolbar Editing</source>
-        <translation type="unfinished"/>
+        <translation>Diskouez/kuzhat embannadur ar varrennad ostilhoù</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/annot.cpp" line="286"/>
         <source>Show/Hide Toolbar Commenting</source>
-        <translation type="unfinished"/>
+        <translation>Diskouez/kuzhat askelennoù ar varrennad ostilhoù</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/annot.cpp" line="287"/>
         <source>Show/Hide Toolbar Edit</source>
-        <translation type="unfinished"/>
+        <translation>Diskouez/kuzhat embann ar varrennad ostilhoù</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/annot.cpp" line="288"/>
         <source>Show/Hide Toolbar File</source>
-        <translation type="unfinished"/>
+        <translation>Diskouez/kuzhat restr ar varrennad ostilhoù</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/annot.cpp" line="289"/>
@@ -35118,7 +35126,7 @@ Gwell e vefe ober gant Gwirierez Preflight d&apos;o reizhañ</translation>
     <message>
         <location filename="../../scribus/scribusview.cpp" line="227"/>
         <source>End Edit</source>
-        <translation type="unfinished"/>
+        <translation>Echuiñ an embann</translation>
     </message>
     <message>
         <source>Click here to leave this special edit mode.</source>
@@ -35452,7 +35460,7 @@ Gwell e vefe ober gant Gwirierez Preflight d&apos;o reizhañ</translation>
     <message>
         <location filename="../../scribus/ui/pagepalette_widgets.cpp" line="120"/>
         <source>Are you sure you want to delete this master page?</source>
-        <translation>Ha fellout a ra deoc&apos;h dilemel ar patrom-mañ ?</translation>
+        <translation>Ha fellout a ra deoc&apos;h dilemel ar bajennad-vestrez-mañ ?</translation>
     </message>
 </context>
 <context>
@@ -35948,12 +35956,12 @@ Gwell e vefe ober gant Gwirierez Preflight d&apos;o reizhañ</translation>
     <message>
         <location filename="../../scribus/ui/spiralvectorbase.ui" line="31"/>
         <source>Start Angle:</source>
-        <translation type="unfinished"/>
+        <translation>Korn deraouiñ :</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/spiralvectorbase.ui" line="51"/>
         <source>End Angle:</source>
-        <translation type="unfinished"/>
+        <translation>Korn echuiñ :</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/spiralvectorbase.ui" line="71"/>
@@ -35968,7 +35976,7 @@ Gwell e vefe ober gant Gwirierez Preflight d&apos;o reizhañ</translation>
     <message>
         <location filename="../../scribus/ui/spiralvectorbase.ui" line="108"/>
         <source>End Edit</source>
-        <translation type="unfinished"/>
+        <translation>Echuiñ an embann</translation>
     </message>
 </context>
 <context>
@@ -35981,12 +35989,12 @@ Gwell e vefe ober gant Gwirierez Preflight d&apos;o reizhañ</translation>
     <message>
         <location filename="../../scribus/ui/spiralwidgetbase.ui" line="36"/>
         <source>Start Angle:</source>
-        <translation type="unfinished"/>
+        <translation>Korn deraouiñ :</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/spiralwidgetbase.ui" line="56"/>
         <source>End Angle:</source>
-        <translation type="unfinished"/>
+        <translation>Korn echuiñ :</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/spiralwidgetbase.ui" line="76"/>
@@ -39205,22 +39213,22 @@ X: %4, Y: %5</translation>
     <message>
         <location filename="../../scribus/undomanager.cpp" line="581"/>
         <source>Add master page</source>
-        <translation type="unfinished"/>
+        <translation>Ouzhpennañ ur bajennad vestrez</translation>
     </message>
     <message>
         <location filename="../../scribus/undomanager.cpp" line="582"/>
         <source>Del master page</source>
-        <translation type="unfinished"/>
+        <translation>Dilemel ar bajennad vestrez</translation>
     </message>
     <message>
         <location filename="../../scribus/undomanager.cpp" line="583"/>
         <source>Import master page</source>
-        <translation type="unfinished"/>
+        <translation>Enporzhiañ ar bajennad vestrez</translation>
     </message>
     <message>
         <location filename="../../scribus/undomanager.cpp" line="584"/>
         <source>Duplicate master page</source>
-        <translation type="unfinished"/>
+        <translation>Arredaoliñ ar bajennad vestrez</translation>
     </message>
     <message>
         <location filename="../../scribus/undomanager.cpp" line="587"/>
@@ -40366,7 +40374,7 @@ en ur amdreiñ o roadennoù sturiadel da ergorennoù mod Scribus.</translation>
     <message>
         <location filename="../../scribus/ui/colorpalette.ui" line="673"/>
         <source>Background:</source>
-        <translation type="unfinished"/>
+        <translation>Drekleur :</translation>
     </message>
 </context>
 <context>
@@ -40374,7 +40382,7 @@ en ur amdreiñ o roadennoù sturiadel da ergorennoù mod Scribus.</translation>
     <message>
         <location filename="../../scribus/ui/gradientaddedit.ui" line="20"/>
         <source>Edit Gradient</source>
-        <translation type="unfinished"/>
+        <translation>Embann an ilrezenn</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/gradientaddedit.ui" line="34"/>
@@ -40388,7 +40396,9 @@ en ur amdreiñ o roadennoù sturiadel da ergorennoù mod Scribus.</translation>
         <location filename="../../scribus/ui/gradientaddedit.cpp" line="59"/>
         <source>You cannot create a gradient without a name
 Please give it a name</source>
-        <translation type="unfinished"/>
+        <translation>N&apos;hallit ket krouiñ un ilrezenn hep un anv
+Mar plij, roit un anv dezhi
+</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/gradientaddedit.cpp" line="68"/>
@@ -41335,7 +41345,7 @@ please choose another one.</source>
     <message>
         <location filename="../../scribus/ui/weldeditbase.ui" line="37"/>
         <source>End Edit</source>
-        <translation type="unfinished"/>
+        <translation>Echuiñ an embann</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/weldeditbase.ui" line="14"/>

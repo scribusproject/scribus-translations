@@ -5188,7 +5188,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>mage doesnt fit the whole space you reserved for it. Maybe this is intended, or maybe this is caused by bad inner placement or scale. The result will either be a cropped image or white space around the image.</source>
-        <translation type="vanished">A kép nem tölti ki az egész helyet, mely le lett foglalva a számára. Talán ez szándékos, de lehet, hogy ezt hibás belső elhelyezés vagy méretezés okozza. Ez vagy levágott képet vagy a kép körüli üres helyet eredményez.</translation>
+        <translation type="vanished">A kép nem tölti ki a számára lefoglalt egész helyet. Talán szándékosan, de lehet, hogy ezt hibás belső elhelyezés vagy méretezés okozza. Ez vagy levágott képet vagy a kép körüli üres helyet eredményez.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/checkDocument.cpp" line="134"/>
@@ -5201,7 +5201,7 @@ currently %2 x %3 DPI</source>
     </message>
     <message>
         <source>You have one or more characters which do not have a corresponding glyph in your chosen font.</source>
-        <translation type="vanished">Van egy vagy több olyan karakter, mely a kiválasztott betűkészletben nem tartalmaz betűkészletjelet.</translation>
+        <translation type="vanished">Van egy vagy több olyan karakter, melynek a kiválasztott betűkészletben nincs betűkészletjele.</translation>
     </message>
     <message>
         <source>The assigned image file cannot be found.</source>
