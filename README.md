@@ -17,7 +17,7 @@ Translations are managed via [Transifex](https://www.transifex.com/projects/p/sc
 | German (Swiss)        |de_CH          | Christoph S             |           |:+1: |
 | Bulgarian             |bg             |                         |           |     |
 | Swedish               |sv             |                         |           |     |
-| Solvenia              |sl             |                         |           |     |
+| Solvenia              |sl             | Martin Srebotnjak       |   :+1:    |     |
 | Slovak (Slovakia)     |sk_SK          |                         |           |     |
 | Ukranian              |uk             |                         |           |     |
 | Serbian               |sr             |                         |           |     |
