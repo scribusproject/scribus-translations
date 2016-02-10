@@ -55,7 +55,7 @@ Translations are managed via [Transifex](https://www.transifex.com/projects/p/sc
 | Chinese (Taiwan)      |zh_TW          |                         |           |     |
 | Japanese              |jp             |                         |           |     |
 | Korean                |ko             |                         |           |     |
-| Arabic                |ar             |                         |           |     |
+| Arabic                |ar             | Hatim alahmadi & @moceap|   :+1:    |     |
 | Hebrew                |he_IL          | @luzpaz                 |   :+1:    |     |
 
 ## Tracking correct Translations
