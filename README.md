@@ -53,7 +53,7 @@ Translations are managed via [Transifex](https://www.transifex.com/projects/p/sc
 | Kannada (India)       |kn_IN          |                         |   :+1:    |     |
 | Chinese (China)       |zh_CN          |                         |           |     |
 | Chinese (Taiwan)      |zh_TW          |                         |           |     |
-| Japanese              |jp             |                         |           |     |
+| Japanese              |jp             | @ftake                  |   :+1:    |     |
 | Korean                |ko             |                         |           |     |
 | Arabic                |ar             | Hatim alahmadi & @moceap|   :+1:    |     |
 | Hebrew                |he_IL          | @luzpaz                 |   :+1:    |     |
