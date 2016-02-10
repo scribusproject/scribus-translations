@@ -46,7 +46,7 @@ Translations are managed via [Transifex](https://www.transifex.com/projects/p/sc
 | Welsh                 |cy             |                         |           |     |
 | Kabyle                |kab            |                         |   :+1:    |     |
 | Somali                |so             |                         |   :+1:    |     |
-| Indonesian            |id             |                         |           |     |
+| Indonesian            |id             | Ade Malsasa Akbar       |   :+1:    |     |
 | Sanskrit              |sa             |                         |           |     |
 | Telugu                |te             |                         |           |     |
 | Hindi (India)         |hi_IN          |                         |           |     |
