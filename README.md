@@ -28,7 +28,7 @@ Translations are managed via [Transifex](https://www.transifex.com/projects/p/sc
 | Hungarian             |hu             | @gyuris / bubu          |   :+1:    |     |
 | Danish (Denmark)      |da_DK          | Morten Langlo           |           |:+1: |
 | Norwegian Bokmål      |nb_NO          |                         |           |     |
-| Finnish               |fi             |                         |           |     |
+| Finnish               |fi             | Tsoots                  |   :+1:    |     |
 | Italian               |it             | @FirasH                 |           |:+1: |
 | Catalan               |ca             |                         |           |     |
 | Greek                 |el             |                         |           |     |
