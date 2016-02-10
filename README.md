@@ -36,7 +36,7 @@ Translations are managed via [Transifex](https://www.transifex.com/projects/p/sc
 | Portuguese (Brazil)   |pt_BR          |                         |           |     |
 | Portuguese (Portugal) |pt_PT          |                         |           |     |
 | Spanish (Spain)       |es_ES          |                         |           |     |
-| Basque                |eu             | Assar                   |           |     |
+| Basque                |eu             | Assar                   |   :+1:    |     |
 | Lithuanian            |lt_LT          |                         |           |     |
 | Estonian              |et             |                         |           |     |
 | Breton                |br             |                         |           |     |
@@ -50,7 +50,7 @@ Translations are managed via [Transifex](https://www.transifex.com/projects/p/sc
 | Sanskrit              |sa             |                         |           |     |
 | Telugu                |te             |                         |           |     |
 | Hindi (India)         |hi_IN          |                         |           |     |
-| Kannada (India)       |kn_IN          |                         |   :+1:    |     |
+| Kannada (India)       |kn_IN          | Sarath M S )@sarathms)  |   :+1:    |     |
 | Chinese (China)       |zh_CN          |                         |           |     |
 | Chinese (Taiwan)      |zh_TW          |                         |           |     |
 | Japanese              |jp             | Fuminobu Takeyama       |   :+1:    |     |
