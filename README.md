@@ -36,7 +36,7 @@ Translations are managed via [Transifex](https://www.transifex.com/projects/p/sc
 | Portuguese (Brazil)   |pt_BR          |                         |           |     |
 | Portuguese (Portugal) |pt_PT          |                         |           |     |
 | Spanish (Spain)       |es_ES          |                         |           |     |
-| Basque                |eu             | Assar                   |   :+1:    |     |
+| Basque                |eu             | Asier Sarasua Garmendia |   :+1:    |     |
 | Lithuanian            |lt_LT          |                         |           |     |
 | Estonian              |et             |                         |           |     |
 | Breton                |br             |                         |           |     |
