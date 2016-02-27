@@ -217,7 +217,7 @@
     <message>
         <location filename="../../scribus/ui/about.cpp" line="237"/>
         <source>Unable to open licence file. Please check your install directory or the Scribus website for licencing information.</source>
-        <translation>לא ניתן לפתוח את קובץ הרישיון. בדוק את הספרייה שבהתקנת את Scribus או האתר אינטרנט עבור מידע רישוי.</translation>
+        <translation>לא ניתן לפתוח את קובץ הרישיון. בדוק את התיקייה שבהתקנת את Scribus או האתר אינטרנט עבור מידע רישוי.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="302"/>
@@ -234,7 +234,7 @@
         <location filename="../../scribus/ui/about.cpp" line="598"/>
         <location filename="../../scribus/ui/about.cpp" line="665"/>
         <source>Unable to open %1 file. Please check your install directory or the Scribus website for %1 information.</source>
-        <translation>לא ניתן לפתוח את %1 קובץ. בדוק את הספרייה שבהתקנת את Scribus או האתר אינטרנט של Scribus עבור %1 מידע.</translation>
+        <translation>לא ניתן לפתוח את %1 קובץ. בדוק את התיקייה שבהתקנת את Scribus או האתר אינטרנט של Scribus עבור %1 מידע.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="296"/>
@@ -1799,7 +1799,7 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1765"/>
         <source>Export the document to PDF</source>
-        <translation>יצא את המסמך ל-PDF</translation>
+        <translation type="unfinished"/>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1766"/>
@@ -4723,7 +4723,7 @@ Document Liberation Project http://www.documentliberation.org</source>
     <message>
         <location filename="../../scribus/ui/charselect.cpp" line="183"/>
         <source>Font: %2</source>
-        <translation type="unfinished"/>
+        <translation>גופן: %2</translation>
     </message>
 </context>
 <context>
@@ -5310,7 +5310,7 @@ currently %2 x %3 DPI</source>
     <message>
         <location filename="../../scribus/collect4output.cpp" line="73"/>
         <source>Choose a Directory</source>
-        <translation type="unfinished"/>
+        <translation>בחר תיקייה</translation>
     </message>
     <message>
         <location filename="../../scribus/collect4output.cpp" line="103"/>
@@ -15594,7 +15594,7 @@ See the Edit Colors section of the documentation for more details.</source>
     <message>
         <location filename="../../scribus/ui/paintmanager.cpp" line="1217"/>
         <source>Choose a Directory</source>
-        <translation type="unfinished"/>
+        <translation>בחר תיקייה</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/paintmanager.cpp" line="1245"/>
@@ -19419,7 +19419,7 @@ Do you want to use this?</source>
         <location filename="../../scribus/ui/prefs_fonts.cpp" line="306"/>
         <location filename="../../scribus/ui/prefs_fonts.cpp" line="330"/>
         <source>Choose a Directory</source>
-        <translation type="unfinished"/>
+        <translation>בחר תיקייה</translation>
     </message>
 </context>
 <context>
@@ -21747,7 +21747,7 @@ A value of 0 means unlimited hyphenations.</source>
         <location filename="../../scribus/ui/prefs_paths.cpp" line="71"/>
         <location filename="../../scribus/ui/prefs_paths.cpp" line="78"/>
         <source>Choose a Directory</source>
-        <translation type="unfinished"/>
+        <translation>בחר תיקייה</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/prefs_paths.cpp" line="34"/>
@@ -26670,7 +26670,7 @@ Check path and filename.</source>
     <message>
         <location filename="../../scribus/translationdummy.cpp" line="34"/>
         <source>Parent Directory</source>
-        <translation type="unfinished"/>
+        <translation>תיקיית אב</translation>
     </message>
     <message>
         <location filename="../../scribus/translationdummy.cpp" line="31"/>

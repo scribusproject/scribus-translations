@@ -97,7 +97,7 @@
     <message>
         <location filename="../../scribus/ui/about.cpp" line="326"/>
         <source>Previous Translation Contributors:</source>
-        <translation>Antics col·laboradors en la traduccions:</translation>
+        <translation>Antics col·laboradors en les traduccions:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="97"/>
@@ -122,12 +122,12 @@
     <message>
         <location filename="../../scribus/ui/about.cpp" line="176"/>
         <source>Using Ghostscript version %1</source>
-        <translation>Fent servir Ghostscript versió %1</translation>
+        <translation>Es fa servir Ghostscript versió %1</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="178"/>
         <source>No Ghostscript version available</source>
-        <translation>No hi ha disponible cap versió del Ghostscript</translation>
+        <translation>No hi ha cap versió del Ghostscript disponible </translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="179"/>
@@ -157,7 +157,7 @@
     <message>
         <location filename="../../scribus/ui/about.cpp" line="267"/>
         <source>Check for updates to Scribus. No data from your machine will be transferred off it.</source>
-        <translation>Comprova les actualitzacions de l&apos;Scribus. No es transferirà capa dada de la vostra màquina.</translation>
+        <translation>Comprova les actualitzacions de l&apos;Scribus. No es transferirà cap dada de la vostra màquina.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="292"/>
@@ -172,22 +172,22 @@
     <message>
         <location filename="../../scribus/ui/about.cpp" line="263"/>
         <source>This panel shows the version, build date and compiled in library support in Scribus.</source>
-        <translation>Aquest panell mostra la versió, data de compilació i suport de llibreries en l&apos;Scribus.</translation>
+        <translation>Aquest panell mostra la versió, data de compilació i compatibilitat de biblioteques compilades a l&apos;Scribus.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="264"/>
         <source>The C-C-T-F equates to C=littlecms C=CUPS T=TIFF support F=Fontconfig support.Last Letter is the renderer C=cairo or Q=Qt</source>
-        <translation>C-C-T-F equival a C=littlecms C=CUPS T=TIFF support F=Fontconfig support. La darera lletra és el renderitzador C=cairo o Q=Qt</translation>
+        <translation>C-C-T-F equival a C=littlecms C=CUPS T=TIFF support F=Fontconfig support. La darrera lletra és el renderitzador C=cairo o Q=Qt</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="265"/>
         <source>Missing library support is indicated by a *. This also indicates the version of Ghostscript which Scribus has detected.</source>
-        <translation>La manca de suport d&apos;una llibreria s&apos;indica amb un *. Això també indica la versió del Ghostscrip que ha detectat l&apos;Scribus.</translation>
+        <translation>La manca de compatibilitat d&apos;una biblioteca s&apos;indica amb un *. Això també indica la versió del Ghostscript que ha detectat l&apos;Scribus.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="266"/>
         <source>The Windows version does not use fontconfig or CUPS libraries.</source>
-        <translation>La versió del Windows no usa fontconfig o les llibreries CUPS.</translation>
+        <translation>La versió del Windows no usa fontconfig o les biblioteques CUPS.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="179"/>
@@ -217,7 +217,7 @@
     <message>
         <location filename="../../scribus/ui/about.cpp" line="237"/>
         <source>Unable to open licence file. Please check your install directory or the Scribus website for licencing information.</source>
-        <translation>No es pot obrir el fitxer de llicència. Reviseu el vostre directori d&apos;instal·lació o la web principal de l&apos;Scribus sobre la informació de la llicència.</translation>
+        <translation>No es pot obrir el fitxer de llicència. Reviseu el directori d&apos;instal·lació o la web principal de l&apos;Scribus per informació de la llicència.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="302"/>
@@ -234,22 +234,22 @@
         <location filename="../../scribus/ui/about.cpp" line="598"/>
         <location filename="../../scribus/ui/about.cpp" line="665"/>
         <source>Unable to open %1 file. Please check your install directory or the Scribus website for %1 information.</source>
-        <translation>No es pot obrir el fitxer %1. Reviseu el vostre directori d&apos;instal·lació o la web principal de l&apos;Scribus sobre la informació de %1.</translation>
+        <translation>No es pot obrir el fitxer %1. Reviseu el directori d&apos;instal·lació o la web principal de l&apos;Scribus per informació de %1.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="296"/>
         <source>Haiku Port:</source>
-        <translation type="unfinished"/>
+        <translation>Port Haiku:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="134"/>
         <source>SVN Revision: %1</source>
-        <translation type="unfinished"/>
+        <translation>Revisions SVN: %1</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/about.cpp" line="312"/>
         <source>Scribus 1.5.1+ Icon Set:</source>
-        <translation type="unfinished"/>
+        <translation>Paquet d&apos;icones Scribus 1.5.1+:</translation>
     </message>
 </context>
 <context>
@@ -266,7 +266,7 @@
     </message>
     <message>
         <source>Enabled:</source>
-        <translation type="vanished">Activat:</translation>
+        <translation type="vanished">Habilitat:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/aboutplugins.cpp" line="76"/>
@@ -296,7 +296,7 @@
     <message>
         <location filename="../../scribus/ui/aboutplugins.ui" line="13"/>
         <source>Scribus: About Plug-ins</source>
-        <translation>Quant als connectors de l&apos;Scribus</translation>
+        <translation>Scribus: Quant als connectors</translation>
     </message>
 </context>
 <context>
@@ -364,7 +364,7 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1486"/>
         <source>Save &amp;Text...</source>
-        <translation>Desa el &amp;text...</translation>
+        <translation>Desa com a &amp;text...</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1488"/>
@@ -374,7 +374,7 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1490"/>
         <source>Document &amp;Setup...</source>
-        <translation>&amp;Configura el document...</translation>
+        <translation>&amp;Configuració del document...</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1493"/>
@@ -404,7 +404,7 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1500"/>
         <source>Cu&amp;t</source>
-        <translation>Re&amp;taalla</translation>
+        <translation>Re&amp;talla</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1501"/>
@@ -491,7 +491,7 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1539"/>
         <source>Underline &amp;Words</source>
-        <translation>Paraules sub&amp;ratllades</translation>
+        <translation>Sub&amp;ratlla les paraules</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1540"/>
@@ -506,7 +506,7 @@
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1542"/>
         <source>Small &amp;Caps</source>
-        <translation>Majús&amp;cules Petites</translation>
+        <translation>Majús&amp;cules petites</translation>
     </message>
     <message>
         <location filename="../../scribus/actionmanager.cpp" line="1543"/>
@@ -17512,12 +17512,12 @@ Trieu-ne un altre.</translation>
     <message>
         <location filename="../../scribus/plugins/picbrowser/picturebrowser.ui" line="1660"/>
         <source>Horizontal position</source>
-        <translation type="unfinished"/>
+        <translation>Posició horitzontal</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/picbrowser/picturebrowser.ui" line="1683"/>
         <source>Vertical position</source>
-        <translation type="unfinished"/>
+        <translation>Posició vertical</translation>
     </message>
     <message>
         <location filename="../../scribus/plugins/picbrowser/picturebrowser.ui" line="1708"/>
@@ -36207,7 +36207,7 @@ Considera fer servir el Verificador per corregir-los</translation>
     <message>
         <location filename="../../scribus/ui/storyeditor.cpp" line="2027"/>
         <source>&amp;Glyph...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Glif...</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/storyeditor.cpp" line="2032"/>

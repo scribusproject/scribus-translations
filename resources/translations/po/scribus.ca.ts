@@ -27,7 +27,7 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="97"/>
         <source>About Scribus %1</source>
-        <translation>Quant a Scribus %1</translation>
+        <translation>Quant a l&apos;Scribus %1</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="125"/>
@@ -42,47 +42,47 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="183"/>
         <source>Using Ghostscript version %1</source>
-        <translation>S&apos;està usant Ghostscript versió %1</translation>
+        <translation>S&apos;està usant el Ghostscript versió %1</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="185"/>
         <source>No Ghostscript version available</source>
-        <translation>No està disponible la versió de Ghostscript</translation>
+        <translation>No hi ha cap versió del Ghostscript disponible</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="186"/>
         <source>Build ID:</source>
-        <translation>ID Compilació:</translation>
+        <translation>ID de la compilació:</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="188"/>
         <source>&amp;About</source>
-        <translation>Q&amp;uant a</translation>
+        <translation>&amp;Quant a</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="299"/>
         <source>Development Team:</source>
-        <translation>Equip de Desenvolupament:</translation>
+        <translation>Equip de desenvolupament:</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="307"/>
         <source>Haiku Port:</source>
-        <translation type="unfinished"/>
+        <translation>Port Haiku:</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="309"/>
         <source>Contributions from:</source>
-        <translation>Contribucions des de:</translation>
+        <translation>Col·laboracions de:</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="301"/>
         <source>Mac OS&amp;#174; X Aqua Port:</source>
-        <translation>Mac OS&amp;#174; X Aqua Port:</translation>
+        <translation>Port a Mac OS&amp;#174; X Aqua:</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="305"/>
         <source>Windows&amp;#174; Port:</source>
-        <translation>Windows&amp;#174; Port:</translation>
+        <translation>Port a Windows&amp;#174;:</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="311"/>
@@ -107,12 +107,12 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="333"/>
         <source>Official Translations and Translators:</source>
-        <translation>Traduccions oficials i traductors:</translation>
+        <translation>Traduccions i traductors oficials:</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="335"/>
         <source>Previous Translation Contributors:</source>
-        <translation>Antics col·laboradors en traduccions:</translation>
+        <translation>Antics col·laboradors en les traduccions:</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="215"/>
@@ -127,7 +127,7 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="351"/>
         <source>Online Reference</source>
-        <translation>Referència en línia</translation>
+        <translation>Referències en línia</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="353"/>
@@ -137,7 +137,7 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="355"/>
         <source>Bugs and Feature Requests</source>
-        <translation>Sol·licitud d&apos;errors i característiques</translation>
+        <translation>Errors i sol·licitud de característiques</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="359"/>
@@ -147,7 +147,7 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="226"/>
         <source>&amp;Online</source>
-        <translation>&amp;En Linia</translation>
+        <translation>&amp;En línia</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="229"/>
@@ -162,12 +162,12 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="279"/>
         <source>Check for updates to Scribus. No data from your machine will be transferred off it.</source>
-        <translation>Comprova les actualitzacions de l&apos;Scribus. No es transferirà capa dada de la vostra màquina.</translation>
+        <translation>Comprova les actualitzacions de l&apos;Scribus. No es transferirà cap dada de la vostra màquina.</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="303"/>
         <source>OS/2&amp;#174;/eComStation&amp;#8482; Port:</source>
-        <translation>OS/2&amp;#174;/eComStation&amp;#8482; Port:</translation>
+        <translation>Port de l&apos;OS/2&amp;#174;/eComStation&amp;#8482;:</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="319"/>
@@ -177,22 +177,22 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="275"/>
         <source>This panel shows the version, build date and compiled in library support in Scribus.</source>
-        <translation>Aquest panell mostra la versió, data de compilació i suport de llibreries en l&apos;Scribus.</translation>
+        <translation>Aquest panell mostra la versió, data de compilació i compatibilitat de biblioteques compilades a l&apos;Scribus.</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="276"/>
         <source>The C-C-T-F equates to C=littlecms C=CUPS T=TIFF support F=Fontconfig support.Last Letter is the renderer C=cairo or Q=Qt</source>
-        <translation>C-C-T-F equival a C=littlecms C=CUPS T=TIFF support F=Fontconfig support.La darera lletra és el renderitzador C=cairo or Q=Qt</translation>
+        <translation>C-C-T-F equival a C=littlecms C=CUPS T=TIFF support F=Fontconfig support. La darrera lletra és el renderitzador C=cairo o Q=Qt</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="277"/>
         <source>Missing library support is indicated by a *. This also indicates the version of Ghostscript which Scribus has detected.</source>
-        <translation>La manca de suport d&apos;una llibreria s&apos;indica amb un *. Aixó també indica la versió de Ghostscrip que ha detectat l&apos;Scribus.</translation>
+        <translation>La manca de compatibilitat d&apos;una biblioteca s&apos;indica amb un *. Això també indica la versió del Ghostscript que ha detectat l&apos;Scribus.</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="278"/>
         <source>The Windows version does not use fontconfig or CUPS libraries.</source>
-        <translation>La versió de Windows no usa fontconfig o llibreries CUPS.</translation>
+        <translation>La versió del Windows no usa fontconfig o les biblioteques CUPS.</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="186"/>
@@ -213,7 +213,7 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="655"/>
         <source>Abort Update Check</source>
-        <translation>Imterromp la comprovació d&apos;actualitzacions</translation>
+        <translation>Interromp la comprovació d&apos;actualitzacions</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="357"/>
@@ -228,12 +228,12 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="249"/>
         <source>Unable to open licence file. Please check your install directory or the Scribus website for licencing information.</source>
-        <translation>No es pot obrir el fitxer de llicència. Reviseu el vostre directori d&apos;instal·lació o la web principal de l&apos;Scribus sobre la informació de la llicència.</translation>
+        <translation>No es pot obrir el fitxer de llicència. Reviseu el directori d&apos;instal·lació o la web principal de l&apos;Scribus sobre la informació de la llicència.</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="313"/>
         <source>Doc Translators:</source>
-        <translation>Traductors:</translation>
+        <translation>Traductors de la documentació:</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="317"/>
@@ -245,7 +245,7 @@
         <location filename="../../../scribus/about.cpp" line="566"/>
         <location filename="../../../scribus/about.cpp" line="633"/>
         <source>Unable to open %1 file. Please check your install directory or the Scribus website for %1 information.</source>
-        <translation>No es pot obrir el fitxer %1. Reviseu el vostre directori d&apos;instal·lació o la web principal de l&apos;Scribus sobre la informació de %1.</translation>
+        <translation>No es pot obrir el fitxer %1. Reviseu el directori d&apos;instal·lació o la web principal de l&apos;Scribus sobre la informació de %1.</translation>
     </message>
 </context>
 <context>
@@ -263,7 +263,7 @@
     <message>
         <location filename="../../../scribus/aboutplugins.cpp" line="72"/>
         <source>Enabled:</source>
-        <translation>Activat:</translation>
+        <translation>Habilitat:</translation>
     </message>
     <message>
         <location filename="../../../scribus/aboutplugins.cpp" line="73"/>
@@ -278,7 +278,7 @@
     <message>
         <location filename="../../../scribus/aboutplugins.cpp" line="81"/>
         <source>Author(s):</source>
-        <translation>Autor(s):</translation>
+        <translation>Autors:</translation>
     </message>
     <message>
         <location filename="../../../scribus/aboutplugins.cpp" line="82"/>
@@ -293,7 +293,7 @@
     <message>
         <location filename="../../../scribus/aboutplugins.ui" line="13"/>
         <source>Scribus: About Plug-ins</source>
-        <translation>Quant als connectors de l&apos;Scribus</translation>
+        <translation>Scribus: Quant als connectors</translation>
     </message>
 </context>
 <context>
@@ -336,17 +336,17 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1277"/>
         <source>Get Text...</source>
-        <translation>Obté el text...</translation>
+        <translation>Obtén text...</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1278"/>
         <source>Append &amp;Text...</source>
-        <translation>Afegeix el &amp;text...</translation>
+        <translation>Afegeix &amp;text...</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1279"/>
         <source>Get Image...</source>
-        <translation>Obté la imatge...</translation>
+        <translation>Obtén una imatge...</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1282"/>
@@ -366,7 +366,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1285"/>
         <source>Document &amp;Setup...</source>
-        <translation>&amp;Configura el document...</translation>
+        <translation>&amp;Configuració del document...</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1286"/>
@@ -428,7 +428,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1300"/>
         <source>Paste Image from Clipboard</source>
-        <translation>Enganxa la imatge del portapapers</translation>
+        <translation>Enganxa la imatge del porta-retalls</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1301"/>
@@ -448,7 +448,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1305"/>
         <source>&amp;Search/Replace...</source>
-        <translation>&amp;Cerca/Reemplaça...</translation>
+        <translation>&amp;Cerca o reemplaça...</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1306"/>
@@ -528,7 +528,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1340"/>
         <source>Underline &amp;Words</source>
-        <translation>Paraules sub&amp;ratllades</translation>
+        <translation>Sub&amp;ratlla les paraules</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1341"/>
@@ -614,7 +614,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1360"/>
         <source>&amp;Printing Enabled</source>
-        <translation>Im&amp;pressió activada</translation>
+        <translation>Im&amp;pressió habilitada</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1361"/>
@@ -699,7 +699,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1379"/>
         <source>Is PDF &amp;Bookmark</source>
-        <translation>Es un p&amp;unt de PDF</translation>
+        <translation>Es un &amp;marcador de PDF</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1380"/>
@@ -709,12 +709,12 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1381"/>
         <source>Annotation P&amp;roperties</source>
-        <translation>P&amp;ropietats d&apos;Anotació</translation>
+        <translation>P&amp;ropietats d&apos;anotació</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1382"/>
         <source>Field P&amp;roperties</source>
-        <translation>P&amp;ropietats de Camp</translation>
+        <translation>P&amp;ropietats de camp</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1383"/>
@@ -724,7 +724,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1384"/>
         <source>&amp;Attach Text to Path</source>
-        <translation>&amp;Afegeix el text al camí</translation>
+        <translation>&amp;Afegeix un text al camí</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1385"/>
@@ -770,7 +770,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1396"/>
         <source>&amp;Glyph...</source>
-        <translation>&amp;Glyph...</translation>
+        <translation>&amp;Glif...</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1397"/>
@@ -810,7 +810,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1407"/>
         <source>Convert to Master Page...</source>
-        <translation>Convertieix en pàgina mestra...</translation>
+        <translation>Converteix en pàgina mestra...</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1408"/>
@@ -895,12 +895,12 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1430"/>
         <source>Show Control Characters</source>
-        <translation>Mostra caràcters de control</translation>
+        <translation>Mostra els caràcters de control</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1431"/>
         <source>Show Rulers</source>
-        <translation>Mostra les guies</translation>
+        <translation>Mostra els regles</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1433"/>
@@ -941,7 +941,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1444"/>
         <source>&amp;Bookmarks</source>
-        <translation>&amp;Punts</translation>
+        <translation>&amp;Marcadors</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1445"/>
@@ -976,7 +976,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1453"/>
         <source>Select Item</source>
-        <translation>Tria l&apos;element</translation>
+        <translation>Selecciona l&apos;element</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1454"/>
@@ -1031,7 +1031,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1475"/>
         <source>Insert PDF Push Button</source>
-        <translation>Insereix el botó de prèmer PDF</translation>
+        <translation>Insereix el botó de prémer PDF</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1476"/>
@@ -1056,12 +1056,12 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1480"/>
         <source>Insert Text Annotation</source>
-        <translation>Insereix l&apos;anotació del text</translation>
+        <translation>Insereix una anotació de text</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1481"/>
         <source>Insert Link Annotation</source>
-        <translation>Insereix l&apos;anotació de l&apos;enllaç</translation>
+        <translation>Insereix una anotació d&apos;enllaç</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1486"/>
@@ -1071,12 +1071,12 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1487"/>
         <source>Dehyphenate Text</source>
-        <translation>Desparteix els mots</translation>
+        <translation>No parteixis els mots</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1488"/>
         <source>&amp;Generate Table Of Contents</source>
-        <translation>&amp;Genera taula de contingut</translation>
+        <translation>&amp;Genera una taula de continguts</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1491"/>
@@ -1136,7 +1136,7 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1523"/>
         <source>New Line</source>
-        <translation>Nova línia</translation>
+        <translation>Línia nova</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1524"/>
@@ -1151,17 +1151,17 @@
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1528"/>
         <source>Copyright</source>
-        <translation>Copyright</translation>
+        <translation>Copyright (C)</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1529"/>
         <source>Registered Trademark</source>
-        <translation>Marca registrada</translation>
+        <translation>Marca registrada (R)</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1530"/>
         <source>Trademark</source>
-        <translation>Marca</translation>
+        <translation>Marca comercial (TM)</translation>
     </message>
     <message>
         <location filename="../../../scribus/actionmanager.cpp" line="1531"/>

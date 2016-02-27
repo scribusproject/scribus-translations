@@ -92,7 +92,7 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="315"/>
         <source>Other Documentation:</source>
-        <translation>Pozostała Dokumentacja:</translation>
+        <translation>Pozostała dokumentacja:</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="321"/>
@@ -107,12 +107,12 @@
     <message>
         <location filename="../../../scribus/about.cpp" line="333"/>
         <source>Official Translations and Translators:</source>
-        <translation>Oficjalne Tłumaczenia i Tłumacze:</translation>
+        <translation>Oficjalne tłumaczenia i tłumacze:</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="335"/>
         <source>Previous Translation Contributors:</source>
-        <translation>Poprzedni Dostawcy Tłumaczeń:</translation>
+        <translation>Poprzedni autorzy tłumaczeń:</translation>
     </message>
     <message>
         <location filename="../../../scribus/about.cpp" line="215"/>
@@ -1803,7 +1803,7 @@
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="110"/>
         <source>&lt;qt&gt;When aligning one side of an item:&lt;ul&gt;&lt;li&gt;Always move the other side too (preserve existing width and height), or &lt;/li&gt;&lt;li&gt;Keep the other side fixed (resize the item instead of moving it) whenever possible&lt;/li&gt;&lt;/ul&gt;&lt;/qt&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;Gdy wyrównujesz jedną stronę elementu:&lt;ul&gt;&lt;li&gt;Zawsze przenoś także drugą stronę (zachowasz istniejącą szerokość i wysokość), lub&lt;/li&gt;&lt;li&gt;Utrzymaj, w miarę możliwości, stałą drugą stronę (zmień rozmiar elementu zamiast go przenosić)&lt;/li&gt;&lt;/ul&gt;&lt;/qt&gt;</translation>
     </message>
     <message>
         <location filename="../../../scribus/aligndistribute.cpp" line="118"/>
@@ -4757,12 +4757,12 @@ dołącza glif do listy wybranych znaków znajdujących się poniżej, klawisz D
     <message>
         <location filename="../../../scribus/checkDocument.cpp" line="671"/>
         <source>Preflight profile to base the report generation on. Options can be set in Document Setup or Preferences</source>
-        <translation type="unfinished"/>
+        <translation>Profil weryfikatora, na podstawie którego tworzony jest raport. Opcje mogą być ustawione w Ustawieniach dokumentu lub Preferencjach</translation>
     </message>
     <message>
         <location filename="../../../scribus/checkDocument.cpp" line="672"/>
         <source>Ignore found errors and continue to export or print. Be sure to understand the errors you are ignoring before continuing.</source>
-        <translation type="unfinished"/>
+        <translation>Ignoruj odnalezione błędy i kontynuuj eksportowanie lub drukowanie. Pamiętaj, aby przed kontynuowaniem zrozumieć błędy, które ignorujesz.</translation>
     </message>
     <message>
         <location filename="../../../scribus/checkDocument.cpp" line="673"/>
@@ -8215,32 +8215,32 @@ Nazwa wyeksportowanego pliku będzie następująca: &quot;nazwa_dokumentu-numer_
     <message>
         <location filename="../../../scribus/guidemanager.cpp" line="263"/>
         <source>Create the selected number of horizontal guides relative to the current page</source>
-        <translation type="unfinished"/>
+        <translation>Utwórz wybraną liczbę poziomych linii pomocniczych w stosunku do bieżącej strony</translation>
     </message>
     <message>
         <location filename="../../../scribus/guidemanager.cpp" line="264"/>
         <source>Create the selected number of horizontal guides relative to the current page&apos;s margins</source>
-        <translation type="unfinished"/>
+        <translation>Utwórz wybraną liczbę poziomych linii pomocniczych w stosunku do marginesów bieżącej strony</translation>
     </message>
     <message>
         <location filename="../../../scribus/guidemanager.cpp" line="265"/>
         <source>Create the selected number of horizontal guides relative to the current selection of items</source>
-        <translation type="unfinished"/>
+        <translation>Utwórz wybraną liczbę poziomych linii pomocniczych w stosunku do aktualnego zaznaczenia obiektów</translation>
     </message>
     <message>
         <location filename="../../../scribus/guidemanager.cpp" line="266"/>
         <source>Create the selected number of vertical guides relative to the current page</source>
-        <translation type="unfinished"/>
+        <translation>Utwórz wybraną liczbę pionowych linii pomocniczych w stosunku do bieżącej strony</translation>
     </message>
     <message>
         <location filename="../../../scribus/guidemanager.cpp" line="267"/>
         <source>Create the selected number of vertical guides relative to the current page&apos;s margins</source>
-        <translation type="unfinished"/>
+        <translation>Utwórz wybraną liczbę pionowych linii pomocniczych w stosunku do marginesów bieżącej strony</translation>
     </message>
     <message>
         <location filename="../../../scribus/guidemanager.cpp" line="268"/>
         <source>Create the selected number of vertical guides relative to the current selection of items</source>
-        <translation type="unfinished"/>
+        <translation>Utwórz wybraną liczbę pionowych linii pomocniczych w stosunku do aktualnego zaznaczenia obiektów</translation>
     </message>
     <message>
         <location filename="../../../scribus/guidemanager.cpp" line="269"/>
@@ -8489,7 +8489,7 @@ Nazwa wyeksportowanego pliku będzie następująca: &quot;nazwa_dokumentu-numer_
     <message>
         <location filename="../../../scribus/plugins/tools/hunspellcheck/hunspellplugin.cpp" line="65"/>
         <source>Spell Checker based on the Hunspell libraries</source>
-        <translation type="unfinished"/>
+        <translation>Sprawdzanie pisowni oparte o biblioteki Hunspell</translation>
     </message>
 </context>
 <context>
@@ -9788,7 +9788,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../../../scribus/layers.cpp" line="640"/>
         <source>Make text in lower layers flow around objects - Enabling this forces text in lower layers to flow around objects of the layer for which this option has been enabled</source>
-        <translation type="unfinished"/>
+        <translation>Spraw, by tekst w niższych warstwach opływał wokół obiektów - Włączenie tego wymusza na tekście w dolnych warstwach opływanie wokół obiektów warstwy, dla której ta opcja została włączona</translation>
     </message>
     <message>
         <location filename="../../../scribus/layers.cpp" line="642"/>
@@ -10568,7 +10568,8 @@ p, li { white-space: pre-wrap; }
         <location filename="../../../scribus/plugins/tools/2geomtools/meshdistortion/meshdistortiondialog.ui" line="82"/>
         <source>Resets the selected handles to their initial position.
 If no handle is selected all handles will be reset.</source>
-        <translation type="unfinished"/>
+        <translation>Resetuje wybrane uchwyty do ich pierwotnego położenia.
+Jeśli nie zostanie wybrany uchwyt wszystkie uchwyty zostaną zresetowane.</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/2geomtools/meshdistortion/meshdistortiondialog.ui" line="86"/>
@@ -12098,7 +12099,7 @@ UCR zmniejsza możliwość wystąpienia przesycenia  tuszami CMY.</translation>
     <message>
         <location filename="../../../scribus/pageitem_latexframe.cpp" line="164"/>
         <source>This is usually a problem with your input. Please check the program&apos;s output.</source>
-        <translation type="unfinished"/>
+        <translation>Zazwyczaj jest to problem z Twoim materiałem wejściowym. Proszę sprawdzić plik wygenerowany przez program.</translation>
     </message>
     <message>
         <location filename="../../../scribus/pageitem_latexframe.cpp" line="166"/>
@@ -12260,12 +12261,13 @@ UCR zmniejsza możliwość wystąpienia przesycenia  tuszami CMY.</translation>
         <location filename="../../../scribus/pagelayout.cpp" line="268"/>
         <source>Number of pages to show side-by-side on the canvas
 Often used for allowing items to be placed across page spreads</source>
-        <translation type="unfinished"/>
+        <translation>Numery stron wyświetlane na płótnie strona-w-stronę.
+Często wykorzystywane w celu umożliwienia umieszczania elementów na rozłożonych stronach.</translation>
     </message>
     <message>
         <location filename="../../../scribus/pagelayout.cpp" line="273"/>
         <source>Location on the canvas where the first page of the document is placed</source>
-        <translation type="unfinished"/>
+        <translation>Położenie na płótnie gdzie jest umieszczona pierwsza strona dokumentu</translation>
     </message>
 </context>
 <context>
@@ -12288,7 +12290,7 @@ Often used for allowing items to be placed across page spreads</source>
     <message>
         <location filename="../../../scribus/pagepalette.cpp" line="933"/>
         <source>List of normal pages in the document, shown with the document layout. Pages may be dragged to rearrange or delete them.</source>
-        <translation type="unfinished"/>
+        <translation>Lista normalnych stron dokumentu, przedstawiona w układzie dokumentu. Strony mogą być przeciągane, aby je zmienić lub usunąć.</translation>
     </message>
     <message>
         <location filename="../../../scribus/pagepalette.cpp" line="934"/>
@@ -12298,7 +12300,7 @@ Often used for allowing items to be placed across page spreads</source>
     <message>
         <location filename="../../../scribus/pagepalette.cpp" line="932"/>
         <source>List of master pages in the document. Master page names may be dragged onto the page view below to apply master pages, or onto the empty space between pages to create new pages.</source>
-        <translation type="unfinished"/>
+        <translation>Lista stron wzorcowych w dokumencie. Nazwy stron wzorcowych mogą być przeciągnięte na poniższe widoki strony, aby zastosować strony wzorcowe, lub na pustą przestrzeń między stronami, aby utworzyć nowe strony.</translation>
     </message>
     <message>
         <location filename="../../../scribus/pagepalette.cpp" line="636"/>
@@ -12370,12 +12372,12 @@ Often used for allowing items to be placed across page spreads</source>
     <message>
         <location filename="../../../scribus/plugins/tools/2geomtools/pathalongpath/pathalongpath.cpp" line="96"/>
         <source>Bends a Polygon along a Polyline</source>
-        <translation type="unfinished"/>
+        <translation>Pochyla wielokąt wzdłuż linii łamanej</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/2geomtools/pathalongpath/pathalongpath.cpp" line="97"/>
         <source>This plugin bends a Polygon with the help of a Polyline.</source>
-        <translation type="unfinished"/>
+        <translation>Ta wtyczka pochyla wielokąt z pomocą linii łamanej.</translation>
     </message>
 </context>
 <context>
@@ -12630,7 +12632,7 @@ a oba punkty końcowe muszą znajdować się na zewnątrz wielokąta</translatio
     <message>
         <location filename="../../../scribus/plugins/tools/pathfinder/pathfinderbase.ui" line="367"/>
         <source>Result is the area where the two shapes do not intersect</source>
-        <translation type="unfinished"/>
+        <translation>Wynikiem jest obszar, w którym te dwa kształty się nie przecinają</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/pathfinder/pathfinderbase.ui" line="383"/>
@@ -12678,7 +12680,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <message>
         <location filename="../../../scribus/plugins/tools/pathfinder/pathfinderbase.ui" line="456"/>
         <source>The resulting shape uses the color of the first source shape</source>
-        <translation type="unfinished"/>
+        <translation>Uzyskany kształt wykorzystuje kolor pierwszego źródła kształtu</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/pathfinder/pathfinderbase.ui" line="459"/>
@@ -12688,7 +12690,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <message>
         <location filename="../../../scribus/plugins/tools/pathfinder/pathfinderbase.ui" line="469"/>
         <source>The resulting shape uses the color of the second source shape</source>
-        <translation type="unfinished"/>
+        <translation>Uzyskany kształt wykorzystuje kolor drugiego źródła kształtu</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/pathfinder/pathfinderbase.ui" line="472"/>
@@ -12698,7 +12700,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <message>
         <location filename="../../../scribus/plugins/tools/pathfinder/pathfinderbase.ui" line="479"/>
         <source>The resulting shape uses the colors listed below</source>
-        <translation type="unfinished"/>
+        <translation>Uzyskany kształt wykorzystuje kolory wskazane poniżej</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/tools/pathfinder/pathfinderbase.ui" line="510"/>
@@ -12940,7 +12942,7 @@ The result is a combination of &quot;Intersection&quot; and &quot;Exclusion&quot
     <message>
         <location filename="../../../scribus/picsearchoptions.cpp" line="52"/>
         <source>The filesystem will be searched for case insensitive file names when you check this on. Remember it is not default on most operating systems except MS Windows</source>
-        <translation type="unfinished"/>
+        <translation>System plików zostanie przeszukany pod kątem nazw plików z uwzględnieniem wielkości liter, jeśli zostanie to zaznaczone. Prosimy pamiętać, że nie jest domyślnie w większości systemów operacyjnych, z wyjątkiem MS Windows</translation>
     </message>
     <message>
         <location filename="../../../scribus/picsearchoptions.cpp" line="59"/>
@@ -13232,7 +13234,7 @@ Proszę wybrać inny.</translation>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="307"/>
         <source>Native resolution of the image, in dots per inch</source>
-        <translation type="unfinished"/>
+        <translation>Natywna rozdzielczość obrazu, w punktach na cal</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="345"/>
@@ -13242,7 +13244,7 @@ Proszę wybrać inny.</translation>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="374"/>
         <source>Horizontal and vertical scaling applied to the image</source>
-        <translation type="unfinished"/>
+        <translation>Poziome i pionowe skalowanie zastosowane do obrazu</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="409"/>
@@ -13252,7 +13254,7 @@ Proszę wybrać inny.</translation>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="449"/>
         <source>Page that the image is displayed on</source>
-        <translation type="unfinished"/>
+        <translation>Strona, na której wyświetlany jest obraz</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="462"/>
@@ -13262,7 +13264,7 @@ Proszę wybrać inny.</translation>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="478"/>
         <source>Name of the page item that contains the image</source>
-        <translation type="unfinished"/>
+        <translation>Nazwa elementu strony, który zawiera obraz</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="491"/>
@@ -13272,17 +13274,17 @@ Proszę wybrać inny.</translation>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="510"/>
         <source>Effective resolution of the image after scaling</source>
-        <translation type="unfinished"/>
+        <translation>Efektywna rozdzielczość obrazu po skalowaniu</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="527"/>
         <source>Move to the page that the image is on</source>
-        <translation type="unfinished"/>
+        <translation>Przejdź do strony, na której jest obraz</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="543"/>
         <source>Move to the page that the item is on and select it</source>
-        <translation type="unfinished"/>
+        <translation>Przejdź do strony, na której jest element i zaznacz go</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="587"/>
@@ -13297,7 +13299,7 @@ Proszę wybrać inny.</translation>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="597"/>
         <source>Set format specfic properties of certain image types, like clipping paths</source>
-        <translation type="unfinished"/>
+        <translation>Ustaw specyficzne właściwości formatu pewnych rodzajów obrazów, takie jak ścieżki odcięcia</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="610"/>
@@ -13312,7 +13314,7 @@ Proszę wybrać inny.</translation>
     <message>
         <location filename="../../../scribus/picstatus.ui" line="630"/>
         <source>Apply non destructive effects to the image in its frame</source>
-        <translation type="unfinished"/>
+        <translation>Zastosuj efekty nieniszczące do obrazu w jego ramce</translation>
     </message>
     <message>
         <location filename="../../../scribus/picstatus.cpp" line="128"/>
@@ -14027,7 +14029,7 @@ Wybór Level 1 lub 2 może spowodować tworzenie dużych plików</translation>
     <message>
         <location filename="../../../scribus/printdialogbase.ui" line="361"/>
         <source>&lt;qt&gt;This enables you to explicitly set the media size of the PostScript file. Not recommended unless requested by your printer.&lt;/qt&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;Pozwala na podanie rozmiaru nośnika dla pliku Postscriptowego. Niezalecane, chyba że poprosi o to drukarnia.&lt;/qt&gt;</translation>
     </message>
     <message>
         <location filename="../../../scribus/printdialogbase.ui" line="364"/>
@@ -14042,7 +14044,7 @@ Wybór Level 1 lub 2 może spowodować tworzenie dużych plików</translation>
     <message>
         <location filename="../../../scribus/printdialogbase.ui" line="387"/>
         <source>&lt;qt&gt;A way of switching off some of the gray shades which are composed of cyan, yellow and magenta and using black instead. Under Color Removal mostly affects parts of images which are neutral and/or dark tones which are close to the gray. Use of this may improve printing some images and some experimentation and testing is need on a case by case basis. Under Color Removal reduces the possibility of over saturation with CMY inks.&lt;/qt&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;Under Color Removal to sposób zamiany niektórych odcieni szarości, które składają się z cyjanu, żółci i magenty na czarny. UCR ma największy wpływ na obszary obrazów, które mają neutralne lub ciemne odcienie bliskie szarości. Użycie go może poprawić wydruk niektórych obrazów, jednakże wymaga wykonania wcześniej kilku prób i testów dla każdego przypadku. UCR zmniejsza możliwość wystąpienia przesycenia  tuszami CMY.&lt;/qt&gt;</translation>
     </message>
     <message>
         <location filename="../../../scribus/printdialogbase.ui" line="390"/>
@@ -14188,7 +14190,8 @@ Wybór Level 1 lub 2 może spowodować tworzenie dużych plików</translation>
         <location filename="../../../scribus/printdialogbase.ui" line="323"/>
         <source>Include PDF Annotations and Links into the output.
 Note: PDF Forms will not be exported.</source>
-        <translation type="unfinished"/>
+        <translation>Dołącz adnotacje PDF i odnośniki w pliku docelowym.
+Uwaga: Formularze PDF nie zostaną wyeksportowane.</translation>
     </message>
     <message>
         <location filename="../../../scribus/printdialogbase.ui" line="327"/>
@@ -14958,7 +14961,7 @@ Corners:</source>
         <location filename="../../../scribus/propertiespalette.cpp" line="5627"/>
         <location filename="../../../scribus/propertiespalette.cpp" line="5632"/>
         <source>Use the clipping path of the image.</source>
-        <translation type="unfinished"/>
+        <translation>Użyj ścieżki odcięcia obrazu.</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5664"/>
@@ -15201,12 +15204,12 @@ Corners:</source>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5660"/>
         <source>Minimal shrinkage of glyphs for justification</source>
-        <translation type="unfinished"/>
+        <translation>Minimalne ściśnięcie glifów, aby wyjustować</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5661"/>
         <source>Maximal extension of glyphs for justification</source>
-        <translation type="unfinished"/>
+        <translation>Maksymalne rozciągnięcie glifów, aby wyjustować</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5619"/>
@@ -15360,12 +15363,12 @@ Corners:</source>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5693"/>
         <source>Effective horizontal DPI of the image after scaling</source>
-        <translation type="unfinished"/>
+        <translation>Efektywna pozioma DPI obrazu po skalowaniu</translation>
     </message>
     <message>
         <location filename="../../../scribus/propertiespalette.cpp" line="5694"/>
         <source>Effective vertical DPI of the image after scaling</source>
-        <translation type="unfinished"/>
+        <translation>Efektywna pionowa DPI obrazu po skalowaniu</translation>
     </message>
 </context>
 <context>
@@ -17378,7 +17381,7 @@ Sprawdź katalog i nazwę pliku.</translation>
         <location filename="../../../scribus/plugins/scriptplugin/cmdmani.cpp" line="267"/>
         <source>Need selection or argument list of items to group</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Aby móc zgrupować, potrzeba wyboru lub listy argumentów elementów</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/cmdmani.cpp" line="338"/>
@@ -17462,32 +17465,32 @@ Sprawdź katalog i nazwę pliku.</translation>
         <location filename="../../../scribus/plugins/scriptplugin/cmdobj.cpp" line="220"/>
         <source>Point list must contain at least two points (four values).</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Lista punktowana musi zawierać co najmniej dwa punkty (cztery wartości).</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/cmdobj.cpp" line="225"/>
         <location filename="../../../scribus/plugins/scriptplugin/cmdobj.cpp" line="306"/>
         <source>Point list must contain an even number of values.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Lista punktowana musi zawierać parzystą liczbę wartości.</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/cmdobj.cpp" line="301"/>
         <source>Point list must contain at least three points (six values).</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Lista punktowana musi zawierać co najmniej trzy punkty (sześć wartości).</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/cmdobj.cpp" line="384"/>
         <source>Point list must contain at least four points (eight values).</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Lista punktowana musi zawierać co najmniej cztery punkty (osiem wartości).</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/cmdobj.cpp" line="389"/>
         <source>Point list must have a multiple of six values.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Lista punktowana musi zawierać wielokrotność sześciu wartości.</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/cmdobj.cpp" line="489"/>
@@ -17535,19 +17538,19 @@ Sprawdź katalog i nazwę pliku.</translation>
         <location filename="../../../scribus/plugins/scriptplugin/cmdpage.cpp" line="336"/>
         <source>argument is not list: must be list of float values.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ten argument nie jest listą: musi być lista wartości zmiennoprzecinkowych.</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/cmdpage.cpp" line="296"/>
         <source>argument contains non-numeric values: must be list of float values.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ten argument zawiera wartości nienumeryczne: musi być lista wartości zmiennoprzecinkowych.</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/cmdpage.cpp" line="347"/>
         <source>argument contains no-numeric values: must be list of float values.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Ten argument zawiera wartości nienumeryczne: musi być lista wartości zmiennoprzecinkowych.</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/cmdsetprop.cpp" line="150"/>
@@ -18485,7 +18488,8 @@ Therefore the image may be not correct</source>
         <location filename="../../../scribus/plugins/scriptplugin/cmdsetprop.cpp" line="100"/>
         <source>Stop shade out of bounds, must be 0 &lt;= shade &lt;= 100.</source>
         <comment>python error</comment>
-        <translation type="unfinished"/>
+        <translation>Stoper cienia poza dozwolonym zakresem, musi być 0 &lt; = cień &lt; = 100.
+</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/cmdsetprop.cpp" line="105"/>
@@ -20765,7 +20769,8 @@ materiału wejściowego, aby je poprawić</translation>
         <location filename="../../../scribus/scribus.cpp" line="4545"/>
         <source>Your document was saved to a temporary file and could not be moved: 
 %1</source>
-        <translation type="unfinished"/>
+        <translation>Twój dokument został zapisany w pliku tymczasowym i nie może zostać przeniesiony: 
+%1</translation>
     </message>
     <message>
         <location filename="../../../scribus/scribus.cpp" line="4965"/>
@@ -21200,7 +21205,7 @@ materiału wejściowego, aby je poprawić</translation>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/scriptercore.cpp" line="471"/>
         <source>There was an internal error while trying the command you entered. Details were printed to stderr. </source>
-        <translation type="unfinished"/>
+        <translation>Wystąpił błąd wewnętrzny podczas dokonywania próby wprowadzonego polecenia. Szczegóły zostały wydrukowane do standardowego błędu.</translation>
     </message>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/scriptercore.cpp" line="551"/>
@@ -21230,7 +21235,7 @@ materiału wejściowego, aby je poprawić</translation>
     <message>
         <location filename="../../../scribus/plugins/scriptplugin/scriptercore.cpp" line="629"/>
         <source>Setting up the Python plugin failed. Error details were printed to stderr. </source>
-        <translation type="unfinished"/>
+        <translation>Wystąpił błąd ustawiania wtyczki Python. Szczegóły zostały wydrukowane do standardowego błędu.</translation>
     </message>
 </context>
 <context>
@@ -22480,7 +22485,7 @@ materiału wejściowego, aby je poprawić</translation>
     <message>
         <location filename="../../../scribus/tabcheckdoc.cpp" line="92"/>
         <source>Check for Visible/Printable Mismatch in Layers</source>
-        <translation type="unfinished"/>
+        <translation>Sprawdzaj niezgodności widoczności/druku w warstwach</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabcheckdoc.cpp" line="99"/>
@@ -22766,7 +22771,7 @@ połączeń między ramkami.</translation>
     <message>
         <location filename="../../../scribus/tabdisplay.ui" line="317"/>
         <source>Resets the scale to the default dpi of your display</source>
-        <translation type="unfinished"/>
+        <translation>Przywraca skalę do domyślnego DPI wyświetlacza</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabdisplay.cpp" line="40"/>
@@ -22984,7 +22989,7 @@ połączeń między ramkami.</translation>
     <message>
         <location filename="../../../scribus/tabexternaltoolswidget.ui" line="184"/>
         <source>&lt;qt&gt;File system location for graphics editor. If you use gimp and your distribution includes it, we recommend &apos;gimp-remote&apos;, as it allows you to edit the image in an already running instance of gimp.&lt;/qt&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;Położenie edytora graficznego w systemie plików. Jeśli używasz gimpa i Twoja dystrybucja do zawiera, zalecamy &quot;gimp-remote&quot;, który pozwala edytować obrazy w już uruchomionej instancji gimpa.&lt;/qt&gt;</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabexternaltoolswidget.ui" line="19"/>
@@ -23041,12 +23046,12 @@ połączeń między ramkami.</translation>
     <message>
         <location filename="../../../scribus/tabexternaltoolswidget.ui" line="46"/>
         <source>&lt;qt&gt;Add the path for the Ghostscript interpreter. On Windows, please note it is important to note you need to use the program named gswin32c.exe - NOT gswin32.exe. Otherwise, this maybe cause a hang when starting Scribus.&lt;/qt&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;qt&gt;Dodaj ścieżkę dla interpretera Ghostscript. W systemie Windows należy pamiętać, że ważnym jest, aby użyć programu o nazwie gswin32c.exe - NIE gswin32.exe. W przeciwnym wypadku może to spowodować zawieszanie podczas uruchamiania Scribus.&lt;/qt&gt;</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabexternaltoolswidget.ui" line="489"/>
         <source>Rescan for the external tools if they do not exist in the already specified location</source>
-        <translation type="unfinished"/>
+        <translation>Ponownie przeskanuj narzędzia zewnętrzne na wypadek niewystępowania w określonym położeniu</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabexternaltoolswidget.ui" line="492"/>
@@ -23066,7 +23071,7 @@ połączeń między ramkami.</translation>
     <message>
         <location filename="../../../scribus/tabexternaltoolswidget.ui" line="395"/>
         <source>Always use the configured DPI setting for calculating the size, even if the image file reports something different.</source>
-        <translation type="unfinished"/>
+        <translation>Zawsze używaj skonfigurowanych ustawień DPI do obliczania wielkości, nawet jeśli plik obrazu zgłasza coś innego.</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabexternaltoolswidget.ui" line="398"/>
@@ -23136,7 +23141,7 @@ połączeń między ramkami.</translation>
     <message>
         <location filename="../../../scribus/tabexternaltoolswidget.cpp" line="272"/>
         <source>Enter new command: (leave empty to reset to default command; use quotes around arguments with spaces)</source>
-        <translation type="unfinished"/>
+        <translation>Wprowadź nowe polecenie: (pozostaw puste, aby przywrócić domyślne polecenie; użyj cudzysłowów wokół argumentów ze spacjami)</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabexternaltoolswidget.cpp" line="287"/>
@@ -23536,12 +23541,12 @@ połączeń między ramkami.</translation>
     <message>
         <location filename="../../../scribus/tabguides.cpp" line="223"/>
         <source>Distance within which an object will snap to your placed guides. After setting this you will need to restart Scribus to set this setting.</source>
-        <translation type="unfinished"/>
+        <translation>Odległość przy której obiekt będzie przyciągany do umieszczonych linii pomocniczych. Po ustawieniu tego trzeba będzie ponownie uruchomić Scribusa, aby ten mógł zastosować ustawienia.</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabguides.cpp" line="224"/>
         <source>Radius of the area where Scribus will allow you to grab an objects handles.After setting this you will need to restart Scribus to set this setting.</source>
-        <translation type="unfinished"/>
+        <translation>Promień obszaru, w jakim Scribus umożliwia łapanie uchwytów obiektów. Po ustawieniu tego trzeba będzie ponownie uruchomić Scribusa, aby ten mógł zastosować ustawienia.</translation>
     </message>
 </context>
 <context>
@@ -24798,7 +24803,7 @@ JPEG nadaje się lepiej do tworzenia mniejszych plików PDF zawierających dużo
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="925"/>
         <source>Use the viewer&apos;s defaults or the user&apos;s preferences if set differently from the viewer defaults</source>
-        <translation type="unfinished"/>
+        <translation>Użyj domyślnych ustawień przeglądarki lub preferencji użytkownika, jeśli chcesz ustawić inne opcje niż domyślne ustawienia przeglądarki</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="926"/>
@@ -24818,27 +24823,27 @@ JPEG nadaje się lepiej do tworzenia mniejszych plików PDF zawierających dużo
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="929"/>
         <source>Forces the displaying of layers. Useful only for PDF 1.5+.</source>
-        <translation type="unfinished"/>
+        <translation>Wymusza wyświetlanie warstw. Przydatne tylko dla PDF 1.5+.</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="930"/>
         <source>Hides the Tool Bar which has selection and other editing capabilities</source>
-        <translation type="unfinished"/>
+        <translation>Ukrywa pasek narzędzi, który posiada możliwości wyboru i inne możliwości edycji</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="931"/>
         <source>Hides the Menu Bar for the viewer, the PDF will display in a plain window. </source>
-        <translation type="unfinished"/>
+        <translation>Ukrywa pasek menu przeglądarki, PDF będą wyświetlane w zwykłym oknie.</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="932"/>
         <source>Fit the document page or pages to the available space in the viewer window.</source>
-        <translation type="unfinished"/>
+        <translation>Dopasuj stronę lub strony dokumentu do dostępnego miejsca w oknie podglądu.</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="969"/>
         <source>Limits the resolution of your bitmap images to the selected DPI. Images with a lower resolution will be left untouched. Leaving this unchecked will render them at their native resolution. Enabling this will increase memory usage and slow down export.</source>
-        <translation type="unfinished"/>
+        <translation>Ograniczenia rozdzielczości obrazów bitmapowych do wybranych DPI. Obrazy z niższą rozdzielczością pozostaną nietknięte. Pozostawienie tego odznaczonym spowoduje renderowanie ich w natywnej rozdzielczości. Włączenie tej opcji spowoduje zwiększenie zużycia pamięci i spowolnienie eksportu.</translation>
     </message>
     <message>
         <location filename="../../../scribus/tabpdfoptions.cpp" line="992"/>
@@ -27928,7 +27933,7 @@ Menu podręczne z opcją usunięcia jest dostępne jedynie, gdy posiadasz prawa 
     <message>
         <location filename="../../../scribus/selectobjects.ui" line="82"/>
         <source>Narrow the selection of items based on various item properties</source>
-        <translation type="unfinished"/>
+        <translation>Zawężenie wyboru obiektów w oparciu o różne właściwości obiektu</translation>
     </message>
     <message>
         <location filename="../../../scribus/selectobjects.ui" line="85"/>
@@ -27953,27 +27958,27 @@ Menu podręczne z opcją usunięcia jest dostępne jedynie, gdy posiadasz prawa 
     <message>
         <location filename="../../../scribus/selectobjects.ui" line="167"/>
         <source>Select based on the color of the line or outline</source>
-        <translation type="unfinished"/>
+        <translation>Wybór w oparciu o kolor linii lub konturu</translation>
     </message>
     <message>
         <location filename="../../../scribus/selectobjects.ui" line="184"/>
         <source>Select based on the width of the line of the item</source>
-        <translation type="unfinished"/>
+        <translation>Wybór w oparciu o szerokość linii obiektu</translation>
     </message>
     <message>
         <location filename="../../../scribus/selectobjects.ui" line="201"/>
         <source>Select items based on whether they will be printed or not</source>
-        <translation type="unfinished"/>
+        <translation>Wybierz obiekty w oparciu o to, czy będą drukowane czy nie</translation>
     </message>
     <message>
         <location filename="../../../scribus/selectobjects.ui" line="228"/>
         <source>Select items based on their locked status</source>
-        <translation type="unfinished"/>
+        <translation>Wybierz obiekty w oparciu o ich stan blokady</translation>
     </message>
     <message>
         <location filename="../../../scribus/selectobjects.ui" line="258"/>
         <source>Select items based on whether they have their size locked or not</source>
-        <translation type="unfinished"/>
+        <translation>Wybierz obiekty w oparciu o to, czy ich rozmiar jest zablokowany czy nie</translation>
     </message>
     <message>
         <location filename="../../../scribus/selectobjects.ui" line="19"/>

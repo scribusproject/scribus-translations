@@ -25379,7 +25379,7 @@ de la objekto</translation>
     <message>
         <location filename="../../scribus/ui/propertywidget_distance.cpp" line="437"/>
         <source>Vertical Alignment:</source>
-        <translation type="unfinished"/>
+        <translation>Vertikala ĝisrandigo:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertywidget_distance.cpp" line="447"/>
@@ -25883,7 +25883,7 @@ de la objekto</translation>
     <message>
         <location filename="../../scribus/ui/propertywidget_pareffect.cpp" line="563"/>
         <source>Bullet Char(s):</source>
-        <translation type="unfinished"/>
+        <translation>Buletsigno(j):</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertywidget_pareffect.cpp" line="564"/>
@@ -25984,7 +25984,7 @@ de la objekto</translation>
     <message>
         <location filename="../../scribus/ui/propertywidget_pareffect.h" line="102"/>
         <source>Background Color</source>
-        <translation type="unfinished"/>
+        <translation>Fonkoloro</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertywidget_pareffect.cpp" line="573"/>
@@ -25999,7 +25999,7 @@ de la objekto</translation>
     <message>
         <location filename="../../scribus/ui/propertywidget_pareffect.cpp" line="576"/>
         <source>Char Style:</source>
-        <translation type="unfinished"/>
+        <translation>Signostilo:</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertywidget_pareffect.cpp" line="577"/>
@@ -26195,7 +26195,7 @@ de la objekto</translation>
     <message>
         <location filename="../../scribus/ui/propertywidget_textcolor.cpp" line="553"/>
         <source>Background color of selected text.</source>
-        <translation type="unfinished"/>
+        <translation>Fonkoloro de la elektita teksto.</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertywidget_textcolor.cpp" line="554"/>
@@ -26210,7 +26210,7 @@ de la objekto</translation>
     <message>
         <location filename="../../scribus/ui/propertywidget_textcolor.cpp" line="556"/>
         <source>Saturation of color of text background</source>
-        <translation type="unfinished"/>
+        <translation>Pureco de la koloro de la teksta fono</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/propertywidget_textcolor.cpp" line="558"/>
@@ -27401,7 +27401,7 @@ Eksteraj ligiloj</translation>
     <message>
         <location filename="../../scribus/langmgr.cpp" line="130"/>
         <source>Hindi</source>
-        <translation type="unfinished"/>
+        <translation>Hindia</translation>
     </message>
     <message>
         <location filename="../../scribus/langmgr.cpp" line="132"/>
@@ -27431,7 +27431,7 @@ Eksteraj ligiloj</translation>
     <message>
         <location filename="../../scribus/langmgr.cpp" line="141"/>
         <source>Kannada</source>
-        <translation type="unfinished"/>
+        <translation>Kannada</translation>
     </message>
     <message>
         <location filename="../../scribus/langmgr.cpp" line="142"/>
@@ -27466,7 +27466,7 @@ Eksteraj ligiloj</translation>
     <message>
         <location filename="../../scribus/langmgr.cpp" line="160"/>
         <source>Somali</source>
-        <translation type="unfinished"/>
+        <translation>Somala</translation>
     </message>
     <message>
         <location filename="../../scribus/langmgr.cpp" line="164"/>
@@ -30371,7 +30371,7 @@ Do, la bildo povas esti ne ĝusta</translation>
     <message>
         <location filename="../../scribus/plugins/gettext/odt2im/importodt.cpp" line="32"/>
         <source>ODT Document</source>
-        <translation type="unfinished"/>
+        <translation>ODT-Dokumento</translation>
     </message>
 </context>
 <context>
@@ -31037,7 +31037,7 @@ Bonvolu elekti alian.</translation>
     <message>
         <location filename="../../scribus/ui/smcstylewidget.cpp" line="106"/>
         <source>Background Color</source>
-        <translation type="unfinished"/>
+        <translation>Fonkoloro</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/smcstylewidget.cpp" line="107"/>
@@ -31769,7 +31769,7 @@ Esprimita kiel procento de la aktuala blankspaca valoro.</translation>
     <message>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="141"/>
         <source>Background Color</source>
-        <translation type="unfinished"/>
+        <translation>Fonkoloro</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/smpstylewidget.cpp" line="142"/>
@@ -40474,7 +40474,7 @@ bonvolu elekti alian.</translation>
     <message>
         <location filename="../../scribus/ui/gtfiledialog.cpp" line="29"/>
         <source>Prepend the item name to the Style name in Scribus</source>
-        <translation type="unfinished"/>
+        <translation>Antaŭmetu la elementnomon al la nomo de la stilo en Scribus</translation>
     </message>
     <message>
         <location filename="../../scribus/ui/gtfiledialog.ui" line="14"/>
@@ -40499,7 +40499,7 @@ bonvolu elekti alian.</translation>
     <message>
         <location filename="../../scribus/ui/gtfiledialog.ui" line="56"/>
         <source>Prefix Styles with Item Name</source>
-        <translation type="unfinished"/>
+        <translation>Prefiksaj stiloj kun elementnomo</translation>
     </message>
 </context>
 <context>
