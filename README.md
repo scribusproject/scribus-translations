@@ -17,8 +17,8 @@ Translations are managed via [Transifex](https://www.transifex.com/projects/p/sc
 | German (Swiss)        |de_CH          | Christoph S             |           |:+1: |
 | Bulgarian             |bg             |                         |           |     |
 | Swedish               |sv             |                         |           |     |
-| Solvenia              |sl             | Martin Srebotnjak       |   :+1:    |     |
-| Slovak (Slovakia)     |sk_SK          |                         |           |     |
+| Solvenia              |sl             | MartinSrebotnjak @filmsi|   :+1:    |     |
+| Slovak (Slovakia)     |sk_SK          | @zdpo                   |   :+1:    |     |
 | Ukranian              |uk             |                         |           |     |
 | Serbian               |sr             |                         |           |     |
 | Russian               |ru             | @prokoudine             |   :+1:    |     |
@@ -39,8 +39,7 @@ Translations are managed via [Transifex](https://www.transifex.com/projects/p/sc
 | Basque                |eu             | Asier Sarasua Garmendia |   :+1:    |     |
 | Lithuanian            |lt_LT          |                         |           |     |
 | Estonian              |et             |                         |           |     |
-| Breton                |br             |                         |           |     |
-| Slovak (Slovakia)     |sk_SK          | alan.monfort            |   :+1:    |     |
+| Breton                |br             | alan.monfort            |   :+1:    |     |
 | Czech (Czech Republic)|cs_CZ          |                         |           |     |
 | Dutch                 |nl             | Foppe Benedictus        |   :+1:    |     |
 | Welsh                 |cy             |                         |           |     |
