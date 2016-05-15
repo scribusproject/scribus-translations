@@ -30,6 +30,7 @@ Translations are managed via [Transifex](https://www.transifex.com/projects/p/sc
 | Norwegian Bokmål      |nb_NO          |                         |           |     |
 | Finnish               |fi             | Tsoots                  |   :+1:    |     |
 | Italian               |it             | @FirasH                 |           |:+1: |
+| Piemontese            |pms            | Randy Ichinose          |   :+1:    |     |
 | Catalan               |ca             |                         |           |     |
 | Greek                 |el             |                         |           |     |
 | Turkish               |tr             |                         |           |     |
