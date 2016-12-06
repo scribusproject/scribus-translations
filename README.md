@@ -63,7 +63,7 @@ Swedish               | sv      | [Transifex](https://www.transifex.com/scribus/
 Tamil                 | ta      | [Transifex](https://www.transifex.com/scribus/teams/41672/ta/)           | [Bagavathikumar Ramakrishnan](https://www.transifex.com/user/profile/Bagavathikumar/)
 Telugu                | te      | [Transifex](https://www.transifex.com/scribus/teams/41672/te/)           | [ప్రవీణ్ ఇళ్ళ](https://www.transifex.com/user/profile/Praveen_Illa/)
 Turkish               | tr      | [Transifex](https://www.transifex.com/scribus/teams/41672/tr/)           | [Necdet Yücel](https://www.transifex.com/user/profile/necdetyucel/)
-Ukranian              | uk      |                                                                          | :x:
+Ukranian              | uk      | [Transifex](https://www.transifex.com/scribus/teams/41672/uk/)           | [Олександр Пилипчук](https://www.transifex.com/user/profile/lxlalexlxl/)
 Welsh                 | cy      | [Transifex](https://www.transifex.com/scribus/teams/41672/cy/)           | [Aled Powell](https://www.transifex.com/user/profile/Cymrodor/)
 
 ## Tracking correct Translations
